@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-01-02T21:37:28.673864+00:00",
+  "fetched_at": "2026-01-02T22:15:26.266811+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "সহিংসতায় উসকানির মামলায় ইউটিউবার-সাংবাদিকসহ ৭ জনের ‘ডাবল’ যাবজ্জীবন কারাদণ্ড",
+        "url": "https://www.prothomalo.com/world/pakistan/4jl2d9y8fi",
+        "published_at": "2026-01-02T21:41:28.329000+00:00",
+        "summary": "ডিজিটাল প্ল্যাটফর্ম ব্যবহার করে রাষ্ট্রীয় প্রতিষ্ঠানের ওপর হামলায় উসকানি দেওয়া, সহায়তা করা এবং তা ছড়িয়ে দেওয়ার অভিযোগ আনা হয় দণ্ডিতদের বিরুদ্ধে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/ahgn56yc/pakistanjournalistjail.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/ahgn56yc/pakistanjournalistjail.jpg?auto=format,compress"
+      },
       {
         "headline": "হামিদুর রহমান, মান্নাসহ ৯৯ \nজনের মনোনয়নপত্র বাতিল ",
         "url": "https://www.prothomalo.com/politics/u62t0i4qpr",
@@ -767,6 +775,14 @@
     ],
     "politics": [],
     "world": [
+      {
+        "headline": "সহিংসতায় উসকানির মামলায় ইউটিউবার-সাংবাদিকসহ ৭ জনের ‘ডাবল’ যাবজ্জীবন কারাদণ্ড",
+        "url": "https://www.prothomalo.com/world/pakistan/4jl2d9y8fi",
+        "published_at": "2026-01-02T21:41:28.329000+00:00",
+        "summary": "ডিজিটাল প্ল্যাটফর্ম ব্যবহার করে রাষ্ট্রীয় প্রতিষ্ঠানের ওপর হামলায় উসকানি দেওয়া, সহায়তা করা এবং তা ছড়িয়ে দেওয়ার অভিযোগ আনা হয় দণ্ডিতদের বিরুদ্ধে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/ahgn56yc/pakistanjournalistjail.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/ahgn56yc/pakistanjournalistjail.jpg?auto=format,compress"
+      },
       {
         "headline": "বর্ষবরণ অনুষ্ঠানে হামলার পরিকল্পনা রুখে দেওয়ার দাবি যুক্তরাষ্ট্রের",
         "url": "https://www.prothomalo.com/world/usa/a6r0tje6x9",
@@ -2585,6 +2601,13 @@
       }
     ],
     "ittefaq_latest": [
+      {
+        "headline": "রায়েরবাজারে সামুরাইসহ কিশোর গ্যাংয়ের ৭ সদস্য গ্রেপ্তার",
+        "url": "https://www.ittefaq.com.bd/768664/%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%B8%E0%A6%B9-%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A7%AD-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF",
+        "published_at": null,
+        "summary": "ঢাকার মোহাম্মদপুর থানাধীন রায়েরবাজার এলাকায় সেনাবাহিনীর অভিযানে একটি কিশোর গ্যাংয়ের সাত সদস্যকে গ্রেপ্তার করা হয়েছে। অভিযানে তাদের কাছ থেকে দুটি ধারালো অস্ত্র (সামুরাই) উদ্ধার করা হয়।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/abfadd8811e496a732af47216ad38bc4-69582352c21d3.jpeg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
       {
         "headline": "সম্মুখের দিনগুলিতেও কি শঙ্কা কাটিবে না?",
         "url": "https://www.ittefaq.com.bd/768663/%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%A4%E0%A7%87%E0%A6%93-%E0%A6%95%E0%A6%BF-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
