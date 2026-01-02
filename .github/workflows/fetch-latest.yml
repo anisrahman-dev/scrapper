@@ -16,8 +16,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
       - name: Fetch news JSON (all sections)
         run: |
+          python - <<'PY'
           import json
           import urllib.request
           from datetime import datetime, timezone
@@ -92,6 +98,7 @@ jobs:
               json.dump({"fetched_at": fetched_at, "stories": sections.get("latest", [])}, f, ensure_ascii=False, indent=2)
 
           print("Wrote sections:", ", ".join(f"{k} ({len(v)} stories)" for k, v in sections.items()))
+          PY
 
       - name: Commit and push changes
         run: |
