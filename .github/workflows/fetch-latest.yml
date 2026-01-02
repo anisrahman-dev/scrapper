@@ -11,8 +11,9 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Fetch latest news JSON
@@ -25,7 +26,16 @@ jobs:
           URL = "https://www.prothomalo.com/api/v1/collections/latest-all"
           OUT = "latest_news.json"
 
-          with urllib.request.urlopen(URL, timeout=20) as resp:
+          # Add headers to avoid 403
+          req = urllib.request.Request(
+              URL,
+              headers={
+                  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                  "Accept": "application/json"
+              }
+          )
+
+          with urllib.request.urlopen(req, timeout=20) as resp:
               data = json.load(resp)
 
           payload = {
