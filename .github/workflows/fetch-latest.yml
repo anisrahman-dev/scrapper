@@ -87,10 +87,19 @@ jobs:
                   headline = story.get("headline")
                   if isinstance(headline, list):
                       headline = headline[0] if headline else None
+                  published_ms = story.get("published-at") or story.get("last-published-at")
+                  published_at = None
+                  if published_ms:
+                      try:
+                          published_at = datetime.fromtimestamp(published_ms / 1000, tz=timezone.utc).isoformat()
+                      except Exception:
+                          published_at = None
                   key = image_key(story)
                   stories.append({
                       "headline": headline,
                       "url": story.get("url"),
+                      "published_at": published_at,
+                      "summary": None,
                       "image_s3_key": key,
                       "image_url": image_url_from_key(key),
                   })
@@ -150,19 +159,42 @@ jobs:
               netloc = urlparse(href).netloc
               return (netloc == "" or netloc == domain)
 
-          def fetch_og_image(url):
+          def fetch_article_meta(url):
               try:
                   req = urllib.request.Request(url, headers=HTML_HEADERS)
                   with urllib.request.urlopen(req, timeout=10) as resp:
                       html = resp.read()
                   doc = BeautifulSoup(html, "html.parser")
-                  og = doc.find("meta", property="og:image") or doc.find("meta", attrs={"name": "og:image"})
-                  if og and og.get("content"):
-                      return og["content"]
+                  og_img = doc.find("meta", property="og:image") or doc.find("meta", attrs={"name": "og:image"})
+                  image_url = og_img["content"] if og_img and og_img.get("content") else None
+
+                  published_at = None
+                  for meta_name in [
+                      ("meta", {"property": "article:published_time"}),
+                      ("meta", {"name": "pubdate"}),
+                      ("meta", {"itemprop": "datePublished"}),
+                  ]:
+                      tag = doc.find(meta_name[0], attrs=meta_name[1])
+                      if tag and tag.get("content"):
+                          published_at = tag["content"]
+                          break
+                  if not published_at:
+                      time_tag = doc.find("time")
+                      if time_tag and time_tag.get("datetime"):
+                          published_at = time_tag["datetime"]
+
+                  summary = None
+                  for p in doc.find_all("p"):
+                      txt = p.get_text(strip=True)
+                      if txt and len(txt) > 40:
+                          summary = txt
+                          break
+
+                  return {"image_url": image_url, "published_at": published_at, "summary": summary}
               except Exception as e:
                   # keep quiet, this is just a fallback
-                  print(f"  og:image fetch failed for {url}: {e}")
-              return None
+                  print(f"  meta fetch failed for {url}: {e}")
+              return {"image_url": None, "published_at": None, "summary": None}
 
           def scrape_site(conf, max_items=10):
               html = fetch_html(conf["url"])
@@ -197,11 +229,20 @@ jobs:
                   raw_img = first_src_from_img(img) if img else None
                   if raw_img:
                       img_url = urljoin(conf["url"], raw_img)
-                  # og:image fetch is expensive; only do it if we have no img yet
+                  # fetch article meta (image, published_at, summary)
+                  meta = fetch_article_meta(full_href)
                   if not img_url:
-                      img_url = fetch_og_image(full_href)
+                      img_url = meta.get("image_url")
+                      if img_url:
+                          img_url = urljoin(conf["url"], img_url)
                   seen.add(full_href)
-                  return {"headline": text, "url": full_href, "image_url": img_url}
+                  return {
+                      "headline": text,
+                      "url": full_href,
+                      "published_at": meta.get("published_at"),
+                      "summary": meta.get("summary"),
+                      "image_url": img_url,
+                  }
 
               for c in containers:
                   a = c.find("a")
