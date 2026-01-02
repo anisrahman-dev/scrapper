@@ -1,7 +1,13 @@
 {
-  "fetched_at": "2026-01-02T16:00:38.978431+00:00",
+  "fetched_at": "2026-01-02T16:19:12.697805+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "২০২৬ সালে ঘরের মাঠে ৬টি সিরিজ খেলবে টাইগাররা",
+        "url": "https://www.prothomalo.com/video/sports/3ckozg7fs7",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/v8shi7i0/THUMNAILWEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/v8shi7i0/THUMNAILWEB.jpg?auto=format,compress"
+      },
       {
         "headline": "১৪, ১৮ ও ২৪ মার্কা নির্বাচন হতে দেওয়া হবে না: মিয়া গোলাম পরওয়ার",
         "url": "https://www.prothomalo.com/bangladesh/district/050x10oot3",
@@ -235,12 +241,6 @@
         "url": "https://www.prothomalo.com/bangladesh/district/4koh05pul0",
         "image_s3_key": "prothomalo-bangla/2026-01-02/072i7e4j/Moulavibazarmarathon1.JPG",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/072i7e4j/Moulavibazarmarathon1.JPG?auto=format,compress"
-      },
-      {
-        "headline": "বাংলাদেশি কি না যাচাইয়ে ‘যন্ত্র’ ব্যবহার, বিতর্কে উত্তর প্রদেশ পুলিশ",
-        "url": "https://www.prothomalo.com/world/india/rny2zqrnb1",
-        "image_s3_key": "prothomalo-bangla/2026-01-02/vu3ifkqm/delhi-india.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/vu3ifkqm/delhi-india.avif?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -1698,6 +1698,21 @@
     ],
     "bd_pratidin_todaynews": [
       {
+        "headline": "খালেদা জিয়ার আত্মার শান্তি কামনায় সনাতন ধর্মালম্বীদের সমবেত প্রার্থনা",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199497",
+        "image_url": null
+      },
+      {
+        "headline": "খালেদা জিয়ার রুহের মাগফিরাত কামনায় নোবিপ্রবিতে দোয়া মাহফিল",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199495",
+        "image_url": null
+      },
+      {
+        "headline": "পিরোজপুরে খালেদা জিয়ার রুহের মাগফিরাত কামনায় দোয়া",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199494",
+        "image_url": null
+      },
+      {
         "headline": "কৃত্রিম বুদ্ধিমত্তার আবেগী প্রভাব ঠেকাতে নতুন নীতিমালা চীনের",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/02/1199492",
         "image_url": null
@@ -1780,21 +1795,6 @@
       {
         "headline": "সৌদির বিমান হামলায় ইয়েমেনে নিহত ৭",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/02/1199435",
-        "image_url": null
-      },
-      {
-        "headline": "চলতি অর্থবছরে ৬ মাসে মোংলা বন্দরে রেকর্ড পরিমাণ কন্টেইনার হ্যান্ডলিং",
-        "url": "https://www.bd-pratidin.com/economy/2026/01/02/1199434",
-        "image_url": null
-      },
-      {
-        "headline": "জামায়াতের সহকারী সেক্রেটারি জেনারেল আযাদের মনোনয়নপত্র বাতিল",
-        "url": "https://www.bd-pratidin.com/election/2026/01/02/1199433",
-        "image_url": null
-      },
-      {
-        "headline": "পশ্চিমবঙ্গে গাইতে এসে মবের শিকার বলিউডের জনপ্রিয় দুই শিল্পী",
-        "url": "https://www.bd-pratidin.com/entertainment/2026/01/02/1199429",
         "image_url": null
       },
       {
@@ -1805,6 +1805,21 @@
     ],
     "bd_pratidin_national": [
       {
+        "headline": "খালেদা জিয়ার আত্মার শান্তি কামনায় সনাতন ধর্মালম্বীদের সমবেত প্রার্থনা",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199497",
+        "image_url": null
+      },
+      {
+        "headline": "খালেদা জিয়ার রুহের মাগফিরাত কামনায় নোবিপ্রবিতে দোয়া মাহফিল",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199495",
+        "image_url": null
+      },
+      {
+        "headline": "পিরোজপুরে খালেদা জিয়ার রুহের মাগফিরাত কামনায় দোয়া",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199494",
+        "image_url": null
+      },
+      {
         "headline": "কৃত্রিম বুদ্ধিমত্তার আবেগী প্রভাব ঠেকাতে নতুন নীতিমালা চীনের",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/02/1199492",
         "image_url": null
@@ -1887,21 +1902,6 @@
       {
         "headline": "সৌদির বিমান হামলায় ইয়েমেনে নিহত ৭",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/02/1199435",
-        "image_url": null
-      },
-      {
-        "headline": "চলতি অর্থবছরে ৬ মাসে মোংলা বন্দরে রেকর্ড পরিমাণ কন্টেইনার হ্যান্ডলিং",
-        "url": "https://www.bd-pratidin.com/economy/2026/01/02/1199434",
-        "image_url": null
-      },
-      {
-        "headline": "জামায়াতের সহকারী সেক্রেটারি জেনারেল আযাদের মনোনয়নপত্র বাতিল",
-        "url": "https://www.bd-pratidin.com/election/2026/01/02/1199433",
-        "image_url": null
-      },
-      {
-        "headline": "পশ্চিমবঙ্গে গাইতে এসে মবের শিকার বলিউডের জনপ্রিয় দুই শিল্পী",
-        "url": "https://www.bd-pratidin.com/entertainment/2026/01/02/1199429",
         "image_url": null
       },
       {
@@ -2542,6 +2542,16 @@
         "image_url": "https://media.ndiganta.com/images/jsm_uddn_shb.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "সিলেট প্রেস ক্লাবের নবনির্বাচিত নেতৃবৃন্দকে জামায়াতের অভিনন্দন",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/33PZtQ3DV9O0/",
+        "image_url": null
+      },
+      {
+        "headline": "বিসিবির প্রথম আঞ্চলিক কার্যালয় হচ্ছে সিলেটে, উদ্বোধন শনিবার",
+        "url": "https://dailynayadiganta.com/sports/cricket/N2kdrYTqqUVZ/",
+        "image_url": null
+      },
+      {
         "headline": "খালেদা জিয়ার মৃত্যুর জন্য শেখ হাসিনাকে দায়ী করলেন রিজভী",
         "url": "https://dailynayadiganta.com/bangladesh/politics/S8hJvBKEL1hs/",
         "image_url": null
@@ -2665,16 +2675,6 @@
         "headline": "রংপুরে মনোনয়ন যাছাই-বাছাইয়ের সময় এনসিপি-জাতীয় পার্টির হট্টগোল",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/hvTUP24ro7Tn/",
         "image_url": null
-      },
-      {
-        "headline": "বগুড়ার তিনটি আসনে ৭ প্রার্থীর মনোনয়নপত্র বাতিল",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/JQ0uP7XMbpFI/",
-        "image_url": null
-      },
-      {
-        "headline": "জনগণ নির্বাচনের বিষয়ে আওয়ামী লীগকে প্রত্যাখ্যান করেছে",
-        "url": "https://dailynayadiganta.com/bangladesh/national/AyTfhPN3fOTU/",
-        "image_url": null
       }
     ],
     "amar_bangladesh": [
@@ -2686,77 +2686,77 @@
       {
         "headline": "রাজধানীতে নারী পুলিশ সদস্যের মরদেহ উদ্ধার",
         "url": "https://www.amarsangbad.com/bangladesh/news/333543",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-big.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/dmch-20260102144806.jpg"
       },
       {
         "headline": "নৌ উপদেষ্টাহাদির খুনিরা বিদেশে থাকলেও ফিরিয়ে এনে বিচার করা হবে",
         "url": "https://www.amarsangbad.com/bangladesh/news/333538",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/sakwat-20260102141650.jpg"
       },
       {
         "headline": "কুয়াশার চাদরে ঘেরা রাজধানী, শীতে বিপর্যস্ত জনজীবন",
         "url": "https://www.amarsangbad.com/bangladesh/news/333457",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260102045244.jpg"
       },
       {
         "headline": "গণভোটে ‘হ্যাঁ’ ও ‘না’ ভোটের প্রভাব নিয়ে প্রধান উপদেষ্টার বার্তা",
         "url": "https://www.amarsangbad.com/bangladesh/news/333539",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/vote-20260102142045.jpg"
       },
       {
         "headline": "তথ্য সচিবজনগণের সাথে সরকারের সেতুবন্ধনে তথ্য কর্মকর্তাদের অগ্রণী ভূমিকা পালন করতে হবে",
         "url": "https://www.amarsangbad.com/bangladesh/news/333442",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/farzana-20260101151811.jpg"
       },
       {
         "headline": "প্রেস সচিব শফিকুল আলমএবারের নির্বাচন হবে অংশগ্রহণমূলক ও বিশ্বাসযোগ্য",
         "url": "https://www.amarsangbad.com/bangladesh/news/333437",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/press-20260101143523.jpg"
       },
       {
         "headline": "পররাষ্ট্র উপদেষ্টাভারতের পররাষ্ট্রমন্ত্রীর সফরটি ইতিবাচক",
         "url": "https://www.amarsangbad.com/bangladesh/news/333421",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/joy-20260101125345.jpg"
       },
       {
         "headline": "দৈনিক আমার সংবাদ ও ডেইলি পোস্ট কার্যালয়ে দোয়া মাহফিল অনুষ্ঠিত",
         "url": "https://www.amarsangbad.com/bangladesh/news/333393",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/dowa-20260101104352.jpg"
       },
       {
         "headline": "বাণিজ্য মেলায় বিআরটিসির শাটল বাস সার্ভিস শুরু ৩ জানুয়ারি",
         "url": "https://www.amarsangbad.com/bangladesh/news/333378",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/BRTC-20260101091008.jpg"
       },
       {
         "headline": "হাজারীবাগে যুবককে কুপিয়ে হত্যা",
         "url": "https://www.amarsangbad.com/bangladesh/news/333357",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-9-20260101054351.jpg"
       },
       {
         "headline": "মৌচাক ফ্লাইওভারে সিএনজি-মোটরসাইকেল সংঘর্ষ, নিহত ২",
         "url": "https://www.amarsangbad.com/bangladesh/news/333352",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/cng-bike-20260101044153.jpg"
       },
       {
         "headline": "স্বাগত ২০২৬শোক ও বিধিনিষেধের মধ্যেও আতশবাজির ঝলকানিতে নতুন বছরকে আলিঙ্গন",
         "url": "https://www.amarsangbad.com/bangladesh/news/333341",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/31-20251231182044.jpg"
       },
       {
         "headline": "প্রধান উপদেষ্টানতুন বছরে আরও জোরদার হোক সম্প্রীতি, সৌহার্দ্য ও ভ্রাতৃত্বের বন্ধন",
         "url": "https://www.amarsangbad.com/bangladesh/news/333336",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/ca-wing-20251215140238-20251231152609.jpg"
       },
       {
         "headline": "খালেদা জিয়ার জানাজায় এসে একজনের মৃত্যু",
         "url": "https://www.amarsangbad.com/bangladesh/news/333327",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/nihoto-20251231134227.jpg"
       },
       {
         "headline": "প্রধান উপদেষ্টার বিশেষ সহকারী সায়েদুর রহমানের পদত্যাগ",
         "url": "https://www.amarsangbad.com/bangladesh/news/333263",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/said-20251231024302.jpg"
       },
       {
         "headline": "হাদি হত্যাকাণ্ডের নেপথ্যে ২১৯ কোটির রহস্যময় চেকের গোলকধাঁধায় গোয়েন্দারা",
@@ -2808,77 +2808,77 @@
       {
         "headline": "বিএনপির চেয়ারম্যান হচ্ছেন তারেক রহমান",
         "url": "https://www.amarsangbad.com/politics/news/333550",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-big.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/tarel-20260102155741.jpg"
       },
       {
         "headline": "কুমিল্লার নির্বাচনী মাঠে উত্তাপপ্রশাসন বিএনপির দিকে ঝুঁকে পড়েছে: হাসনাত আবদুল্লাহ",
         "url": "https://www.amarsangbad.com/politics/news/333544",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/hasnatt-20260102155010.jpg"
       },
       {
         "headline": "সালাহউদ্দিন আহমদনিরপেক্ষ ভোটের মাধ্যমে গণতান্ত্রিক সরকার গঠনই মানুষের প্রত্যাশা",
         "url": "https://www.amarsangbad.com/politics/news/333545",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/sale-20260102151140.jpg"
       },
       {
         "headline": "খালেদা জিয়ার মৃত্যু পরিকল্পিত হত্যাকাণ্ড: রুহুল কবির রিজভী",
         "url": "https://www.amarsangbad.com/politics/news/333548",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/rizviii-20260102153729.jpg"
       },
       {
         "headline": "জনসমুদ্রে রূপ নিল জিয়া উদ্যান: প্রিয় নেত্রীর কবরের পাশে অশ্রুসিক্ত অগণিত মানুষ",
         "url": "https://www.amarsangbad.com/politics/news/333546",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/udd-20260102151929.jpg"
       },
       {
         "headline": "আখতার হোসেনজামায়াতের সঙ্গে আসন নিয়ে আলোচনা চলছে",
         "url": "https://www.amarsangbad.com/politics/news/333542",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/rang]-20260102144339.jpg"
       },
       {
         "headline": "জামায়াতের রেজাউলের চেয়ে ৭ গুণ বেশি আয় এ্যানির",
         "url": "https://www.amarsangbad.com/politics/news/333537",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/any-vai]-20260102140806.jpg"
       },
       {
         "headline": "ইসলামী আন্দোলনের মহাসমাবেশ স্থগিত",
         "url": "https://www.amarsangbad.com/politics/news/333533",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/islamu-20260102134607.jpg"
       },
       {
         "headline": "চার দফা দাবিতে ইনকিলাব মঞ্চের ‘মার্চ ফর ইনসাফ’ কর্মসূচি ঘোষণা",
         "url": "https://www.amarsangbad.com/politics/news/333532",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/moink-20260102133912.jpg"
       },
       {
         "headline": "খালেদা জিয়া থেকে জাইমার সঙ্গী সেই ফাতেমা",
         "url": "https://www.amarsangbad.com/politics/news/333530",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/fatema-20260102133008.jpg"
       },
       {
         "headline": "গুরুতর অসুস্থ ড. কামাল হোসেন হাসপাতালে ভর্তি",
         "url": "https://www.amarsangbad.com/politics/news/333518",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/kamal-20260102120440.jpg"
       },
       {
         "headline": "জামায়াত নেতা হামিদুর রহমান আযাদের মনোনয়ন বাতিল",
         "url": "https://www.amarsangbad.com/politics/news/333514",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-(18)-20260102120843.jpg"
       },
       {
         "headline": "‘সেরাদের সেরা সিজন-৬’ জাতীয় পর্যায়ের চূড়ান্ত বাছাই পর্ব সম্পন্ন",
         "url": "https://www.amarsangbad.com/politics/news/333511",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/so-20260102114620.jpg"
       },
       {
         "headline": "নৌবাহিনী সদর দপ্তর মসজিদে তারেক রহমানের জুমার নামাজ আদায়",
         "url": "https://www.amarsangbad.com/politics/news/333507",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/tarek-20260102113114.jpg"
       },
       {
         "headline": "তথ্যের গড়মিল পাওয়ায় মাহমুদুর রহমানের মনোনয়নপত্র বাতিল",
         "url": "https://www.amarsangbad.com/politics/news/333499",
-        "image_url": "https://cdn.amarsangbad.com/media/common/placeholder-small.png"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-(13)-20260102110619.jpg"
       },
       {
         "headline": "বিএনপিতে যোগদান নিয়ে যা বলেলন তাসনিম জারা",

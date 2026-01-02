@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-01-02T16:00:38.978431+00:00",
+  "fetched_at": "2026-01-02T16:19:12.697805+00:00",
   "stories": [
+    {
+      "headline": "২০২৬ সালে ঘরের মাঠে ৬টি সিরিজ খেলবে টাইগাররা",
+      "url": "https://www.prothomalo.com/video/sports/3ckozg7fs7",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/v8shi7i0/THUMNAILWEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/v8shi7i0/THUMNAILWEB.jpg?auto=format,compress"
+    },
     {
       "headline": "১৪, ১৮ ও ২৪ মার্কা নির্বাচন হতে দেওয়া হবে না: মিয়া গোলাম পরওয়ার",
       "url": "https://www.prothomalo.com/bangladesh/district/050x10oot3",
@@ -234,12 +240,6 @@
       "url": "https://www.prothomalo.com/bangladesh/district/4koh05pul0",
       "image_s3_key": "prothomalo-bangla/2026-01-02/072i7e4j/Moulavibazarmarathon1.JPG",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/072i7e4j/Moulavibazarmarathon1.JPG?auto=format,compress"
-    },
-    {
-      "headline": "বাংলাদেশি কি না যাচাইয়ে ‘যন্ত্র’ ব্যবহার, বিতর্কে উত্তর প্রদেশ পুলিশ",
-      "url": "https://www.prothomalo.com/world/india/rny2zqrnb1",
-      "image_s3_key": "prothomalo-bangla/2026-01-02/vu3ifkqm/delhi-india.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/vu3ifkqm/delhi-india.avif?auto=format,compress"
     }
   ]
 }
