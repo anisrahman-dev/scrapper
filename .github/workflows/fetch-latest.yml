@@ -21,84 +21,161 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Fetch news JSON (all sections)
+      - name: Install deps
+        run: pip install beautifulsoup4
+
+      - name: Fetch news JSON (all sources)
         run: |
           python - <<'PY'
-          import json
-          import urllib.request
-          from datetime import datetime, timezone
+import json
+import urllib.request
+from datetime import datetime, timezone
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
-          SLUGS = {
-              "latest-all": "latest",
-              "bangladesh-all": "bangladesh",
-              "politics-all": "politics",
-              "world-all": "world",
-              "business-all": "business",
-              "sports-all": "sports",
-              "entertainment-all": "entertainment",
-              "chakri-all": "chakri",
-          }
+# ---- Prothom Alo (API) ----
+SLUGS = {
+    "latest-all": "latest",
+    "bangladesh-all": "bangladesh",
+    "politics-all": "politics",
+    "world-all": "world",
+    "business-all": "business",
+    "sports-all": "sports",
+    "entertainment-all": "entertainment",
+    "chakri-all": "chakri",
+}
 
-          HEADERS = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-              "Accept": "application/json",
-          }
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Accept": "application/json",
+}
 
-          def fetch(slug):
-              url = f"https://www.prothomalo.com/api/v1/collections/{slug}"
-              try:
-                  req = urllib.request.Request(url, headers=HEADERS)
-                  with urllib.request.urlopen(req, timeout=20) as resp:
-                      return json.load(resp)
-              except Exception as e:
-                  print(f"Failed to fetch {slug}: {e}")
-                  return {"items": []}
+def fetch_api(slug):
+    url = f"https://www.prothomalo.com/api/v1/collections/{slug}"
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return json.load(resp)
 
-          def image_key(story):
-              hero = story.get("hero-image-s3-key")
-              if hero:
-                  return hero
-              for card in story.get("cards", []):
-                  for el in card.get("story-elements", []):
-                      if el.get("type") == "image" and el.get("image-s3-key"):
-                          return el["image-s3-key"]
-              return None
+def image_key(story):
+    hero = story.get("hero-image-s3-key")
+    if hero:
+        return hero
+    for card in story.get("cards", []):
+        for el in card.get("story-elements", []):
+            if el.get("type") == "image" and el.get("image-s3-key"):
+                return el["image-s3-key"]
+    return None
 
-          def extract_stories(data):
-              stories = []
-              for item in data.get("items", []):
-                  story = item.get("story")
-                  if not story:
-                      continue
-                  headline = story.get("headline")
-                  if isinstance(headline, list):
-                      headline = headline[0] if headline else None
-                  key = image_key(story)
-                  stories.append({
-                      "headline": headline,
-                      "url": story.get("url"),
-                      "image_s3_key": key,
-                      "image_url": f"https://images.prothomalo.com/{key}" if key else None,
-                  })
-              return stories
+def extract_stories_api(data):
+    stories = []
+    for item in data.get("items", []):
+        story = item.get("story")
+        if not story:
+            continue
+        headline = story.get("headline")
+        if isinstance(headline, list):
+            headline = headline[0] if headline else None
+        key = image_key(story)
+        stories.append({
+            "headline": headline,
+            "url": story.get("url"),
+            "image_s3_key": key,
+            "image_url": f"https://images.prothomalo.com/{key}" if key else None,
+        })
+    return stories
 
-          sections = {}
-          for slug, name in SLUGS.items():
-              data = fetch(slug)
-              sections[name] = extract_stories(data)
+# ---- Other sites (HTML scrape) ----
+HTML_SOURCES = [
+    # bd-pratidin
+    {"name": "bd_pratidin_todaynews", "url": "https://www.bd-pratidin.com/online/todaynews", "item": "div.item", "title": "h4 a", "link": "h4 a", "img": "img"},
+    {"name": "bd_pratidin_national", "url": "https://www.bd-pratidin.com/national", "item": "div.item", "title": "h4 a", "link": "h4 a", "img": "img"},
+    # ittefaq
+    {"name": "ittefaq_latest", "url": "https://www.ittefaq.com.bd/latest-news", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
+    {"name": "ittefaq_country", "url": "https://www.ittefaq.com.bd/country", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
+    {"name": "ittefaq_politics", "url": "https://www.ittefaq.com.bd/politics", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
+    {"name": "ittefaq_sports", "url": "https://www.ittefaq.com.bd/sports", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
+    {"name": "ittefaq_world", "url": "https://www.ittefaq.com.bd/world-news", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
+    {"name": "ittefaq_tech", "url": "https://www.ittefaq.com.bd/tech", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
+    # kalerkantho
+    {"name": "kaler_recent", "url": "https://www.kalerkantho.com/special/recent", "item": "div.post, article", "title": "h2 a, h3 a, a.title", "link": "h2 a, h3 a, a.title", "img": "img"},
+    {"name": "kaler_world", "url": "https://www.kalerkantho.com/online/world", "item": "div.post, article", "title": "h2 a, h3 a, a.title", "link": "h2 a, h3 a, a.title", "img": "img"},
+    {"name": "kaler_sport", "url": "https://www.kalerkantho.com/online/sport", "item": "div.post, article", "title": "h2 a, h3 a, a.title", "link": "h2 a, h3 a, a.title", "img": "img"},
+    # nayadiganta
+    {"name": "naya_latest", "url": "https://dailynayadiganta.com/latest", "item": "div.news-item, article", "title": "a", "link": "a", "img": "img"},
+    # amarsangbad
+    {"name": "amar_bangladesh", "url": "https://www.amarsangbad.com/bangladesh", "item": "div.news-box, article", "title": "a", "link": "a", "img": "img"},
+    {"name": "amar_politics", "url": "https://www.amarsangbad.com/politics", "item": "div.news-box, article", "title": "a", "link": "a", "img": "img"},
+]
 
-          fetched_at = datetime.now(timezone.utc).isoformat()
+HTML_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+}
 
-          # Write all sections
-          with open("news_sections.json", "w", encoding="utf-8") as f:
-              json.dump({"fetched_at": fetched_at, "sections": sections}, f, ensure_ascii=False, indent=2)
+def fetch_html(url):
+    req = urllib.request.Request(url, headers=HTML_HEADERS)
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return resp.read()
 
-          # Write only latest
-          with open("latest_news.json", "w", encoding="utf-8") as f:
-              json.dump({"fetched_at": fetched_at, "stories": sections.get("latest", [])}, f, ensure_ascii=False, indent=2)
+def scrape_site(conf):
+    html = fetch_html(conf["url"])
+    soup = BeautifulSoup(html, "html.parser")
+    items = []
+    for item in soup.select(conf["item"]):
+        title_el = item.select_one(conf["title"])
+        link_el = item.select_one(conf["link"])
+        img_el = item.select_one(conf["img"]) if conf.get("img") else None
 
-          print("Wrote sections:", ", ".join(f"{k} ({len(v)} stories)" for k, v in sections.items()))
-          PY
+        headline = title_el.get_text(strip=True) if title_el else None
+        href = link_el["href"] if link_el and link_el.has_attr("href") else None
+        if href and href.startswith("/"):
+            href = urljoin(conf["url"], href)
+
+        img_url = None
+        if img_el and img_el.has_attr("src"):
+            img_url = img_el["src"]
+            if img_url.startswith("/"):
+                img_url = urljoin(conf["url"], img_url)
+
+        if headline and href:
+            items.append({
+                "headline": headline,
+                "url": href,
+                "image_url": img_url,
+            })
+    return items
+
+# ---- Run all fetches ----
+sections = {}
+
+# Prothom Alo sections
+for slug, name in SLUGS.items():
+    try:
+        data = fetch_api(slug)
+        sections[name] = extract_stories_api(data)
+    except Exception as e:
+        print(f"ProthomAlo fetch failed for {slug}: {e}")
+        sections[name] = []
+
+# HTML sources
+for conf in HTML_SOURCES:
+    try:
+        sections[conf["name"]] = scrape_site(conf)
+    except Exception as e:
+        print(f"HTML scrape failed for {conf['name']}: {e}")
+        sections[conf["name"]] = []
+
+fetched_at = datetime.now(timezone.utc).isoformat()
+
+# Write all sections
+with open("news_sections.json", "w", encoding="utf-8") as f:
+    json.dump({"fetched_at": fetched_at, "sections": sections}, f, ensure_ascii=False, indent=2)
+
+# Keep latest-only file for compatibility
+with open("latest_news.json", "w", encoding="utf-8") as f:
+    json.dump({"fetched_at": fetched_at, "stories": sections.get("latest", [])}, f, ensure_ascii=False, indent=2)
+
+print("Wrote sections:", ", ".join(f"{k} ({len(v)} stories)" for k, v in sections.items()))
+PY
 
       - name: Commit and push changes
         run: |
