@@ -1,29 +1,10 @@
-name: Fetch latest news
-
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Fetch news from Prothom Alo categories
         run: |
           python - <<'PY'
           import json
           import urllib.request
-          from html.parser import HTMLParser
+          import re
           from datetime import datetime, timezone
-          from urllib.parse import urljoin
 
           CATEGORIES = {
               "bangladesh": "https://www.prothomalo.com/bangladesh",
@@ -36,73 +17,56 @@ jobs:
           }
 
           HEADERS = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
           }
 
-          class NewsParser(HTMLParser):
-              def __init__(self):
-                  super().__init__()
-                  self.items = []
-                  self.in_a = False
-                  self.current_link = None
-
-              def handle_starttag(self, tag, attrs):
-                  attrs = dict(attrs)
-                  if tag == "a" and "href" in attrs and attrs["href"].startswith("/"):
-                      self.in_a = True
-                      self.current_link = attrs["href"]
-
-              def handle_data(self, data):
-                  if self.in_a:
-                      text = data.strip()
-                      if len(text) > 25:
-                          self.items.append({
-                              "headline": text,
-                              "url": urljoin("https://www.prothomalo.com", self.current_link)
-                          })
-
-              def handle_endtag(self, tag):
-                  if tag == "a":
-                      self.in_a = False
-                      self.current_link = None
+          def fetch_page(url):
+              req = urllib.request.Request(url, headers=HEADERS)
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  return r.read().decode("utf-8", errors="ignore")
 
           output = {
               "fetched_at": datetime.now(timezone.utc).isoformat(),
               "categories": {}
           }
 
-          for name, url in CATEGORIES.items():
-              req = urllib.request.Request(url, headers=HEADERS)
-              with urllib.request.urlopen(req, timeout=20) as resp:
-                  html = resp.read().decode("utf-8", errors="ignore")
+          for cat, url in CATEGORIES.items():
+              html = fetch_page(url)
 
-              parser = NewsParser()
-              parser.feed(html)
-
-              # Deduplicate
-              seen = set()
               stories = []
-              for item in parser.items:
-                  if item["url"] not in seen:
-                      seen.add(item["url"])
-                      stories.append(item)
+              matches = re.findall(
+                  r'<script type="application/ld\+json">(.*?)</script>',
+                  html,
+                  re.DOTALL
+              )
 
-              output["categories"][name] = stories[:20]
+              for block in matches:
+                  try:
+                      data = json.loads(block.strip())
+                  except:
+                      continue
+
+                  if isinstance(data, dict) and data.get("@type") == "NewsArticle":
+                      stories.append({
+                          "title": data.get("headline"),
+                          "url": data.get("mainEntityOfPage"),
+                          "image": data.get("image", [None])[0]
+                          if isinstance(data.get("image"), list)
+                          else data.get("image")
+                      })
+
+              # Deduplicate + limit
+              seen = set()
+              clean = []
+              for s in stories:
+                  if s["url"] and s["url"] not in seen:
+                      seen.add(s["url"])
+                      clean.append(s)
+
+              output["categories"][cat] = clean[:20]
 
           with open("latest_news.json", "w", encoding="utf-8") as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
 
-          print("Fetched categories:", ", ".join(output["categories"].keys()))
+          print("Fetched:", {k: len(v) for k, v in output["categories"].items()})
           PY
-
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add latest_news.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-          git commit -m "chore: update category news"
-          git push
