@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-01-02T16:19:12.697805+00:00",
+  "fetched_at": "2026-01-02T16:19:48.635475+00:00",
   "stories": [
+    {
+      "headline": "ইসরায়েল-সমর্থিত নির্বাহী আদেশ বাতিল করে মামদানির যাত্রা শুরু",
+      "url": "https://www.prothomalo.com/world/usa/l78mmgc9rd",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/zz8jyym1/mamdani-1.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/zz8jyym1/mamdani-1.JPG?auto=format,compress"
+    },
     {
       "headline": "২০২৬ সালে ঘরের মাঠে ৬টি সিরিজ খেলবে টাইগাররা",
       "url": "https://www.prothomalo.com/video/sports/3ckozg7fs7",
@@ -234,12 +240,6 @@
       "url": "https://www.prothomalo.com/video/bangladesh/2kucybisb6",
       "image_s3_key": "prothomalo-bangla/2026-01-02/s9juhjme/YT-GFX.00061316.Still011.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/s9juhjme/YT-GFX.00061316.Still011.jpg?auto=format,compress"
-    },
-    {
-      "headline": "কুয়াশায় মোড়ানো চা ও রাবার বাগানের পথে পথে দৌড়",
-      "url": "https://www.prothomalo.com/bangladesh/district/4koh05pul0",
-      "image_s3_key": "prothomalo-bangla/2026-01-02/072i7e4j/Moulavibazarmarathon1.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/072i7e4j/Moulavibazarmarathon1.JPG?auto=format,compress"
     }
   ]
 }
