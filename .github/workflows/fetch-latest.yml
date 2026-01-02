@@ -33,7 +33,7 @@ jobs:
           import urllib.request
           from datetime import datetime, timezone
           from bs4 import BeautifulSoup
-          from urllib.parse import urljoin
+          from urllib.parse import urljoin, urlparse
 
           # ---- Prothom Alo API ----
           SLUGS = {
@@ -96,27 +96,27 @@ jobs:
                   })
               return stories
 
-          # ---- Other sites HTML scrape ----
+          # ---- Other sites HTML scrape (domain-filtered anchors) ----
           HTML_SOURCES = [
               # bd-pratidin
-              {"name": "bd_pratidin_todaynews", "url": "https://www.bd-pratidin.com/online/todaynews", "item": "div.item", "title": "h4 a", "link": "h4 a", "img": "img"},
-              {"name": "bd_pratidin_national", "url": "https://www.bd-pratidin.com/national", "item": "div.item", "title": "h4 a", "link": "h4 a", "img": "img"},
+              {"name": "bd_pratidin_todaynews", "url": "https://www.bd-pratidin.com/online/todaynews", "domain": "www.bd-pratidin.com"},
+              {"name": "bd_pratidin_national", "url": "https://www.bd-pratidin.com/national", "domain": "www.bd-pratidin.com"},
               # ittefaq
-              {"name": "ittefaq_latest", "url": "https://www.ittefaq.com.bd/latest-news", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
-              {"name": "ittefaq_country", "url": "https://www.ittefaq.com.bd/country", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
-              {"name": "ittefaq_politics", "url": "https://www.ittefaq.com.bd/politics", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
-              {"name": "ittefaq_sports", "url": "https://www.ittefaq.com.bd/sports", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
-              {"name": "ittefaq_world", "url": "https://www.ittefaq.com.bd/world-news", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
-              {"name": "ittefaq_tech", "url": "https://www.ittefaq.com.bd/tech", "item": "div.list-item, article", "title": "a", "link": "a", "img": "img"},
-              # kalerkantho
-              {"name": "kaler_recent", "url": "https://www.kalerkantho.com/special/recent", "item": "div.post, article", "title": "h2 a, h3 a, a.title", "link": "h2 a, h3 a, a.title", "img": "img"},
-              {"name": "kaler_world", "url": "https://www.kalerkantho.com/online/world", "item": "div.post, article", "title": "h2 a, h3 a, a.title", "link": "h2 a, h3 a, a.title", "img": "img"},
-              {"name": "kaler_sport", "url": "https://www.kalerkantho.com/online/sport", "item": "div.post, article", "title": "h2 a, h3 a, a.title", "link": "h2 a, h3 a, a.title", "img": "img"},
+              {"name": "ittefaq_latest", "url": "https://www.ittefaq.com.bd/latest-news", "domain": "www.ittefaq.com.bd"},
+              {"name": "ittefaq_country", "url": "https://www.ittefaq.com.bd/country", "domain": "www.ittefaq.com.bd"},
+              {"name": "ittefaq_politics", "url": "https://www.ittefaq.com.bd/politics", "domain": "www.ittefaq.com.bd"},
+              {"name": "ittefaq_sports", "url": "https://www.ittefaq.com.bd/sports", "domain": "www.ittefaq.com.bd"},
+              {"name": "ittefaq_world", "url": "https://www.ittefaq.com.bd/world-news", "domain": "www.ittefaq.com.bd"},
+              {"name": "ittefaq_tech", "url": "https://www.ittefaq.com.bd/tech", "domain": "www.ittefaq.com.bd"},
+              # kalerkantho (may be blocked by Cloudflare)
+              {"name": "kaler_recent", "url": "https://www.kalerkantho.com/special/recent", "domain": "www.kalerkantho.com"},
+              {"name": "kaler_world", "url": "https://www.kalerkantho.com/online/world", "domain": "www.kalerkantho.com"},
+              {"name": "kaler_sport", "url": "https://www.kalerkantho.com/online/sport", "domain": "www.kalerkantho.com"},
               # nayadiganta
-              {"name": "naya_latest", "url": "https://dailynayadiganta.com/latest", "item": "div.news-item, article", "title": "a", "link": "a", "img": "img"},
+              {"name": "naya_latest", "url": "https://dailynayadiganta.com/latest", "domain": "dailynayadiganta.com"},
               # amarsangbad
-              {"name": "amar_bangladesh", "url": "https://www.amarsangbad.com/bangladesh", "item": "div.news-box, article", "title": "a", "link": "a", "img": "img"},
-              {"name": "amar_politics", "url": "https://www.amarsangbad.com/politics", "item": "div.news-box, article", "title": "a", "link": "a", "img": "img"},
+              {"name": "amar_bangladesh", "url": "https://www.amarsangbad.com/bangladesh", "domain": "www.amarsangbad.com"},
+              {"name": "amar_politics", "url": "https://www.amarsangbad.com/politics", "domain": "www.amarsangbad.com"},
           ]
 
           HTML_HEADERS = {
@@ -128,30 +128,36 @@ jobs:
               with urllib.request.urlopen(req, timeout=20) as resp:
                   return resp.read()
 
-          def scrape_site(conf):
+          def same_domain(href, domain):
+              if not href:
+                  return False
+              if href.startswith("/"):
+                  return True
+              netloc = urlparse(href).netloc
+              return (netloc == "" or netloc == domain)
+
+          def scrape_site(conf, max_items=30):
               html = fetch_html(conf["url"])
               soup = BeautifulSoup(html, "html.parser")
               items = []
-              for item in soup.select(conf["item"]):
-                  title_el = item.select_one(conf["title"])
-                  link_el = item.select_one(conf["link"])
-                  img_el = item.select_one(conf["img"]) if conf.get("img") else None
-
-                  headline = title_el.get_text(strip=True) if title_el else None
-                  href = link_el["href"] if link_el and link_el.has_attr("href") else None
-                  if href and href.startswith("/"):
-                      href = urljoin(conf["url"], href)
-
-                  img_url = img_el["src"] if img_el and img_el.has_attr("src") else None
-                  if img_url and img_url.startswith("/"):
-                      img_url = urljoin(conf["url"], img_url)
-
-                  if headline and href:
-                      items.append({
-                          "headline": headline,
-                          "url": href,
-                          "image_url": img_url,
-                      })
+              for a in soup.find_all("a"):
+                  href = a.get("href")
+                  text = a.get_text(strip=True)
+                  if not href or not text or len(text) < 20:
+                      continue
+                  if not same_domain(href, conf["domain"]):
+                      continue
+                  full_href = urljoin(conf["url"], href)
+                  img_url = None
+                  parent = a.parent
+                  img = parent.find("img") if parent else None
+                  if not img and a.find("img"):
+                      img = a.find("img")
+                  if img and img.get("src"):
+                      img_url = urljoin(conf["url"], img["src"])
+                  items.append({"headline": text, "url": full_href, "image_url": img_url})
+                  if len(items) >= max_items:
+                      break
               return items
 
           # ---- Run all fetches ----
