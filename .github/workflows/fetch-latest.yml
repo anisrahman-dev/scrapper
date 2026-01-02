@@ -94,12 +94,13 @@ jobs:
                           published_at = datetime.fromtimestamp(published_ms / 1000, tz=timezone.utc).isoformat()
                       except Exception:
                           published_at = None
+                  summary = story.get("summary") or story.get("seo", {}).get("meta-description")
                   key = image_key(story)
                   stories.append({
                       "headline": headline,
                       "url": story.get("url"),
                       "published_at": published_at,
-                      "summary": None,
+                      "summary": summary,
                       "image_s3_key": key,
                       "image_url": image_url_from_key(key),
                   })
