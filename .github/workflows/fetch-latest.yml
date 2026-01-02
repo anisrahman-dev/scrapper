@@ -1,0 +1,80 @@
+name: Fetch latest news
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch latest news JSON
+        run: |
+          python - <<'PY'
+          import json
+          import urllib.request
+          from datetime import datetime, timezone
+
+          URL = "https://www.prothomalo.com/api/v1/collections/latest-all"
+          OUT = "latest_news.json"
+
+          with urllib.request.urlopen(URL, timeout=20) as resp:
+              data = json.load(resp)
+
+          payload = {
+              "fetched_at": datetime.now(timezone.utc).isoformat(),
+              "stories": []
+          }
+
+          def image_key(story):
+              hero = story.get("hero-image-s3-key")
+              if hero:
+                  return hero
+              for card in story.get("cards", []):
+                  for el in card.get("story-elements", []):
+                      if el.get("type") == "image" and el.get("image-s3-key"):
+                          return el["image-s3-key"]
+              return None
+
+          for item in data.get("items", []):
+              story = item.get("story")
+              if not story:
+                  continue
+
+              headline = story.get("headline")
+              if isinstance(headline, list):
+                  headline = headline[0] if headline else None
+
+              key = image_key(story)
+
+              payload["stories"].append({
+                  "headline": headline,
+                  "url": story.get("url"),
+                  "image_s3_key": key,
+                  "image_url": f"https://images.prothomalo.com/{key}" if key else None,
+              })
+
+          with open(OUT, "w", encoding="utf-8") as f:
+              json.dump(payload, f, ensure_ascii=False, indent=2)
+
+          print(f"Wrote {len(payload['stories'])} stories to {OUT}")
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add latest_news.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update latest news"
+          git push
