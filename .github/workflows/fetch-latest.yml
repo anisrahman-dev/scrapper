@@ -96,7 +96,7 @@ jobs:
                   })
               return stories
 
-          # ---- Other sites HTML scrape (domain-filtered anchors) ----
+          # ---- Other sites HTML scrape (domain-filtered anchors, better image attrs) ----
           HTML_SOURCES = [
               # bd-pratidin
               {"name": "bd_pratidin_todaynews", "url": "https://www.bd-pratidin.com/online/todaynews", "domain": "www.bd-pratidin.com"},
@@ -128,6 +128,20 @@ jobs:
               with urllib.request.urlopen(req, timeout=20) as resp:
                   return resp.read()
 
+          def first_src_from_img(img_tag):
+              if not img_tag:
+                  return None
+              srcset = img_tag.get("data-srcset") or img_tag.get("srcset")
+              if srcset:
+                  first = srcset.split(",")[0].strip().split()[0]
+                  if first:
+                      return first
+              for attr in ("data-src", "data-original", "src"):
+                  val = img_tag.get(attr)
+                  if val:
+                      return val
+              return None
+
           def same_domain(href, domain):
               if not href:
                   return False
@@ -148,13 +162,16 @@ jobs:
                   if not same_domain(href, conf["domain"]):
                       continue
                   full_href = urljoin(conf["url"], href)
+
                   img_url = None
                   parent = a.parent
                   img = parent.find("img") if parent else None
-                  if not img and a.find("img"):
+                  if not img:
                       img = a.find("img")
-                  if img and img.get("src"):
-                      img_url = urljoin(conf["url"], img["src"])
+                  raw_img = first_src_from_img(img) if img else None
+                  if raw_img:
+                      img_url = urljoin(conf["url"], raw_img)
+
                   items.append({"headline": text, "url": full_href, "image_url": img_url})
                   if len(items) >= max_items:
                       break
