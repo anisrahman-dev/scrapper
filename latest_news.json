@@ -1,6 +1,12 @@
 {
-  "fetched_at": "2026-01-02T16:36:09.712559+00:00",
+  "fetched_at": "2026-01-02T16:48:03.600490+00:00",
   "stories": [
+    {
+      "headline": "বিজিএমইএর সভাপতির সম্পদ ১০০ কোটি টাকার, বছরে আয় ৫ কোটি",
+      "url": "https://www.prothomalo.com/business/industry/gv0gi1vorr",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/949cjnjx/জাতীয়-সংসদ-নির্বাচন—মাহমুদ-হাসান-খান-সভাপতি-বিজিএমইএ.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/949cjnjx/জাতীয়-সংসদ-নির্বাচন—মাহমুদ-হাসান-খান-সভাপতি-বিজিএমইএ.jpg?auto=format,compress"
+    },
     {
       "headline": "চাঁদার না দেওয়ায় ব্যবসায়ীর বাড়ি লক্ষ্য করে সন্ত্রাসীদের গুলি",
       "url": "https://www.prothomalo.com/video/bangladesh/ekcscc1xit",
@@ -234,12 +240,6 @@
       "url": "https://www.prothomalo.com/opinion/column/rhyrsqud37",
       "image_s3_key": "prothomalo-bangla/2026-01-02/zt4lyc36/Trump.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/zt4lyc36/Trump.jpg?auto=format,compress"
-    },
-    {
-      "headline": "এক আপসহীন মহাকাব্যের শেষ অধ্যায়",
-      "url": "https://www.prothomalo.com/opinion/column/hg7t2totuv",
-      "image_s3_key": "prothomalo-bangla/2025-12-31/eytos2n9/৫.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-31/eytos2n9/৫.jfif?auto=format,compress"
     }
   ]
 }

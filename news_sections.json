@@ -1,7 +1,13 @@
 {
-  "fetched_at": "2026-01-02T16:36:09.712559+00:00",
+  "fetched_at": "2026-01-02T16:48:03.600490+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "বিজিএমইএর সভাপতির সম্পদ ১০০ কোটি টাকার, বছরে আয় ৫ কোটি",
+        "url": "https://www.prothomalo.com/business/industry/gv0gi1vorr",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/949cjnjx/জাতীয়-সংসদ-নির্বাচন—মাহমুদ-হাসান-খান-সভাপতি-বিজিএমইএ.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/949cjnjx/জাতীয়-সংসদ-নির্বাচন—মাহমুদ-হাসান-খান-সভাপতি-বিজিএমইএ.jpg?auto=format,compress"
+      },
       {
         "headline": "চাঁদার না দেওয়ায় ব্যবসায়ীর বাড়ি লক্ষ্য করে সন্ত্রাসীদের গুলি",
         "url": "https://www.prothomalo.com/video/bangladesh/ekcscc1xit",
@@ -235,12 +241,6 @@
         "url": "https://www.prothomalo.com/opinion/column/rhyrsqud37",
         "image_s3_key": "prothomalo-bangla/2026-01-02/zt4lyc36/Trump.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/zt4lyc36/Trump.jpg?auto=format,compress"
-      },
-      {
-        "headline": "এক আপসহীন মহাকাব্যের শেষ অধ্যায়",
-        "url": "https://www.prothomalo.com/opinion/column/hg7t2totuv",
-        "image_s3_key": "prothomalo-bangla/2025-12-31/eytos2n9/৫.jfif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-31/eytos2n9/৫.jfif?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -730,6 +730,12 @@
     ],
     "business": [
       {
+        "headline": "বিজিএমইএর সভাপতির সম্পদ ১০০ কোটি টাকার, বছরে আয় ৫ কোটি",
+        "url": "https://www.prothomalo.com/business/industry/gv0gi1vorr",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/949cjnjx/জাতীয়-সংসদ-নির্বাচন—মাহমুদ-হাসান-খান-সভাপতি-বিজিএমইএ.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/949cjnjx/জাতীয়-সংসদ-নির্বাচন—মাহমুদ-হাসান-খান-সভাপতি-বিজিএমইএ.jpg?auto=format,compress"
+      },
+      {
         "headline": "স্থবিরতা কাটিয়ে অর্থনীতি গতিশীল হবে—এটাই আশা",
         "url": "https://www.prothomalo.com/business/analysis/oorx70l41f",
         "image_s3_key": "prothomalo-bangla/2021-08/efd1dafd-889b-423f-9e80-952d7909bb89/MD_of_BSRM_Group_scaled__1_.jpg",
@@ -962,12 +968,6 @@
         "url": "https://www.prothomalo.com/business/industry/2lubkhlqr3",
         "image_s3_key": "prothomalo-bangla/2024-08-24/76s7wqoz/_DH1210_20240824_cumilla 74.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08-24/76s7wqoz/_DH1210_20240824_cumilla 74.jpg?auto=format,compress"
-      },
-      {
-        "headline": "২,৬৫০ কোটি টাকার রেকর্ড ব্যবসা স্বপ্নের, পাঁচ বছরে বিক্রি বেড়ে দ্বিগুণ ",
-        "url": "https://www.prothomalo.com/business/economics/blvobw5uip",
-        "image_s3_key": "prothomalo-bangla/2025-12-29/4dvnse0l/Shopno.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-29/4dvnse0l/Shopno.jpg?auto=format,compress"
       }
     ],
     "sports": [
@@ -1698,6 +1698,11 @@
     ],
     "bd_pratidin_todaynews": [
       {
+        "headline": "খালেদা জিয়ার মাগফিরাত কামনায় ডেমরায় কোরআন খতম ও দোয়া মাহফিল",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/02/1199499",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767371761-a7445b926d39a8a735328fe5b98146f0.jpg"
+      },
+      {
         "headline": "খালেদা জিয়ার রুহের মাগফিরাত কামনায় নোবিপ্রবিতে দোয়া মাহফিল",
         "url": "https://www.bd-pratidin.com/country/2026/01/02/1199495",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767370291-4c4e577d6f716f7b8122383fc54869e6.PNG"
@@ -1741,15 +1746,15 @@
         "headline": "‘সকল সম্প্রদায়ের মধ্যে ঐক্য সম্প্রীতি সুদৃঢ় করতে বদ্ধপরিকর সরকার’",
         "url": "https://www.bd-pratidin.com/national/2026/01/02/1199463",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767365909-0ecb12889783a25ba43caf9a034c27b7.jpg"
-      },
-      {
-        "headline": "শ্রীমঙ্গলে শীতার্তদের মাঝে কম্বল বিতরণ",
-        "url": "https://www.bd-pratidin.com/chayer-desh/2026/01/02/1199458",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767365200-3bd3564ca318278d5cf32c50adb16a7f.jpg"
       }
     ],
     "bd_pratidin_national": [
       {
+        "headline": "খালেদা জিয়ার মাগফিরাত কামনায় ডেমরায় কোরআন খতম ও দোয়া মাহফিল",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/02/1199499",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767371761-a7445b926d39a8a735328fe5b98146f0.jpg"
+      },
+      {
         "headline": "খালেদা জিয়ার রুহের মাগফিরাত কামনায় নোবিপ্রবিতে দোয়া মাহফিল",
         "url": "https://www.bd-pratidin.com/country/2026/01/02/1199495",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767370291-4c4e577d6f716f7b8122383fc54869e6.PNG"
@@ -1793,11 +1798,6 @@
         "headline": "‘সকল সম্প্রদায়ের মধ্যে ঐক্য সম্প্রীতি সুদৃঢ় করতে বদ্ধপরিকর সরকার’",
         "url": "https://www.bd-pratidin.com/national/2026/01/02/1199463",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767365909-0ecb12889783a25ba43caf9a034c27b7.jpg"
-      },
-      {
-        "headline": "শ্রীমঙ্গলে শীতার্তদের মাঝে কম্বল বিতরণ",
-        "url": "https://www.bd-pratidin.com/chayer-desh/2026/01/02/1199458",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767365200-3bd3564ca318278d5cf32c50adb16a7f.jpg"
       }
     ],
     "ittefaq_latest": [
@@ -1810,6 +1810,11 @@
         "headline": "করোনাভাইরাস",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
+        "headline": "অনলাইন ট্রাভেল এজেন্সির জন্য নতুন সিদ্ধান্ত সরকারের",
+        "url": "https://www.ittefaq.com.bd/768649/%E0%A6%85%E0%A6%A8%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AD%E0%A7%87%E0%A6%B2-%E0%A6%8F%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2024/02/29/8d099ea159371cd1d09610d131883af0-65df7baa34ce1.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "‘পোস্টাল ভোট বিডি’ অ্যাপে নিবন্ধন ছাড়াল ১২ লাখ ২৫ হাজার",
@@ -1845,11 +1850,6 @@
         "headline": "গোয়েন্দা প্রধানকে প্রেসিডেন্টের দপ্তরের প্রধান করলেন জেলেনস্কি",
         "url": "https://www.ittefaq.com.bd/768642/%E0%A6%97%E0%A7%8B%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/03bf8fd4810f8d6dcbba101e1cfc5b53-6957e1c453706.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "নীলফামারীতে জামাতার গাড়িচাপায় প্রাণ গেল শ্বশুরের",
-        "url": "https://www.ittefaq.com.bd/768641/%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%AB%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%97%E0%A7%87%E0%A6%B2-%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/a2af9276e9045e33e0b9fc23c391231e-6957e043234f4.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       }
     ],
     "ittefaq_country": [
@@ -2127,6 +2127,16 @@
         "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "জাতীয় পার্টিকে আগামী নির্বাচনে অযোগ্য ঘোষণার দাবি আখতার হোসেনের",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/7gyn6KyFnIVV/",
+        "image_url": "https://media.ndiganta.com/original_images/Akter_NCP.png"
+      },
+      {
+        "headline": "ডেভিল হান্ট ফেজ-২ : ২৪ ঘণ্টায় গ্রেফতার ৫১০",
+        "url": "https://dailynayadiganta.com/bangladesh/crime/6xnDbzUbxmOr/",
+        "image_url": "https://media.ndiganta.com/original_images/arrest-greftar-600_0tGhEi0.jpg"
+      },
+      {
         "headline": "জাতীয় কাবাডির ফাইনালে পুরুষ বিভাগে বিজিবি-সেনাবাহিনী, নারী বিভাগে আনসার-পুলিশ",
         "url": "https://dailynayadiganta.com/sports/dTGZQPMym03s/",
         "image_url": "https://media.ndiganta.com/original_images/Kabadi_4zoeTaD.jpg"
@@ -2155,16 +2165,6 @@
         "headline": "১৪ মাসে আমি এক কাপ চায়ের টাকাও দুর্নীতি করিনি",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/ohXBXIbvCzn9/",
         "image_url": "https://media.ndiganta.com/original_images/Hasnat-Abdullah_vEIeIW7.jpg"
-      },
-      {
-        "headline": "জামায়াতের হামিদুর রহমান আযাদ সহ ৪ জনের মনোনয়ন বাতিল",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/nrrgeUfVrM6g/",
-        "image_url": "https://media.ndiganta.com/original_images/Hamid_pRvVnMd.jpg"
-      },
-      {
-        "headline": "সাভারে ব্যবসায়ীকে ২ চোখ উপড়ে ও লিঙ্গ কেটে হত্যা",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/hsFvI77JTTEv/",
-        "image_url": "https://media.ndiganta.com/original_images/Murder02_vTcQ34I.jpg"
       }
     ],
     "amar_bangladesh": [
