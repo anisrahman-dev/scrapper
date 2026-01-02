@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-01-02T17:41:08.844657+00:00",
+  "fetched_at": "2026-01-02T18:22:30.062101+00:00",
   "stories": [
+    {
+      "headline": "‘আমাকে যেন ভুলে না যাও’—বুলবুলের আশঙ্কা কি সত্যিই সত্যি হলো",
+      "url": "https://www.prothomalo.com/entertainment/song/1kj1yjhx11",
+      "published_at": "2026-01-02T18:15:00+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo/import/media/2020/01/01/645d226ab20a3f08bfb6dacdf7e30a10-5e0c949cde6d4.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo/import/media/2020/01/01/645d226ab20a3f08bfb6dacdf7e30a10-5e0c949cde6d4.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বাংলাদেশে সুপ্রতিবেশীসুলভ মনোভাবের বার্তা নিয়ে গিয়েছি: জয়শঙ্কর",
+      "url": "https://www.prothomalo.com/world/india/vhuex0c2x1",
+      "published_at": "2026-01-02T18:07:23.862000+00:00",
+      "summary": "ভারতের পররাষ্ট্রমন্ত্রী আজ শুক্রবার চেন্নাইয়ে আইআইটি মাদ্রাজে এক অনুষ্ঠানে প্রতিবেশী দেশগুলোর সঙ্গে সম্পর্ক নিয়ে আলোচনা করতে গিয়ে বাংলাদেশ প্রসঙ্গে এ কথা বলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/etdxztme/Screenshot-2.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/etdxztme/Screenshot-2.png?auto=format,compress"
+    },
+    {
+      "headline": "অভিযানে দেশজুড়ে গ্রেপ্তার ৫১০, উদ্ধার ৬ আগ্নেয়াস্ত্র",
+      "url": "https://www.prothomalo.com/bangladesh/crime/iqnknzxbyq",
+      "published_at": "2026-01-02T17:53:45.348000+00:00",
+      "summary": "দেশজুড়ে পুলিশের বিশেষ অভিযানে ৫১০ জনকে গ্রেপ্তার করা হয়েছে। ‘অপারেশন ডেভিল হান্ট ফেজ ২’ নামের এই অভিযানে ছয়টি আগ্নেয়াস্ত্র উদ্ধার ও কয়েক শ অবৈধ মোটরসাইকেল আটক করা হয়।",
+      "image_s3_key": "prothomalo-bangla/2025-06-29/ld6rfzjv/Capture.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-29/ld6rfzjv/Capture.PNG?auto=format,compress"
+    },
+    {
+      "headline": "কক্সবাজার-২ আসনে জামায়াত নেতা হামিদুর রহমান আযাদের মনোনয়ন বাতিল",
+      "url": "https://www.prothomalo.com/video/bangladesh/5yeak2n6dv",
+      "published_at": "2026-01-02T17:47:43.868000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-02/qplmogkq/Jamat.00034224.Still002.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/qplmogkq/Jamat.00034224.Still002.jpg?auto=format,compress"
+    },
     {
       "headline": "এক ঝলক (২ জানুয়ারি ২০২৬)",
       "url": "https://www.prothomalo.com/photo/glimpse/0vbfh8apga",
@@ -82,7 +114,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/3mmli2hx/Zia-Uddan.00031307.Still002.jpg?auto=format,compress"
     },
     {
-      "headline": "ইসরায়েল-সমর্থিত নির্বাহী আদেশ বাতিল করে মামদানির যাত্রা শুরু",
+      "headline": "ইসরায়েলের পক্ষের নির্বাহী আদেশ বাতিল করে মামদানির যাত্রা শুরু",
       "url": "https://www.prothomalo.com/world/usa/l78mmgc9rd",
       "published_at": "2026-01-02T16:19:36.347000+00:00",
       "summary": "নিউইয়র্কের মেয়রের অভিষেক অনুষ্ঠান যখন চলছিল, তাপমাত্রা তখন হিমাঙ্কের নিচে। কনকনে শীতের মধ্যেও মেয়রকে বরণ করেতে জড়ো হয়েছিলেন হাজার হাজার মানুষ।",

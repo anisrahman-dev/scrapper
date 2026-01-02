@@ -1,7 +1,39 @@
 {
-  "fetched_at": "2026-01-02T17:41:08.844657+00:00",
+  "fetched_at": "2026-01-02T18:22:30.062101+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "‘আমাকে যেন ভুলে না যাও’—বুলবুলের আশঙ্কা কি সত্যিই সত্যি হলো",
+        "url": "https://www.prothomalo.com/entertainment/song/1kj1yjhx11",
+        "published_at": "2026-01-02T18:15:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo/import/media/2020/01/01/645d226ab20a3f08bfb6dacdf7e30a10-5e0c949cde6d4.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo/import/media/2020/01/01/645d226ab20a3f08bfb6dacdf7e30a10-5e0c949cde6d4.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বাংলাদেশে সুপ্রতিবেশীসুলভ মনোভাবের বার্তা নিয়ে গিয়েছি: জয়শঙ্কর",
+        "url": "https://www.prothomalo.com/world/india/vhuex0c2x1",
+        "published_at": "2026-01-02T18:07:23.862000+00:00",
+        "summary": "ভারতের পররাষ্ট্রমন্ত্রী আজ শুক্রবার চেন্নাইয়ে আইআইটি মাদ্রাজে এক অনুষ্ঠানে প্রতিবেশী দেশগুলোর সঙ্গে সম্পর্ক নিয়ে আলোচনা করতে গিয়ে বাংলাদেশ প্রসঙ্গে এ কথা বলেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/etdxztme/Screenshot-2.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/etdxztme/Screenshot-2.png?auto=format,compress"
+      },
+      {
+        "headline": "অভিযানে দেশজুড়ে গ্রেপ্তার ৫১০, উদ্ধার ৬ আগ্নেয়াস্ত্র",
+        "url": "https://www.prothomalo.com/bangladesh/crime/iqnknzxbyq",
+        "published_at": "2026-01-02T17:53:45.348000+00:00",
+        "summary": "দেশজুড়ে পুলিশের বিশেষ অভিযানে ৫১০ জনকে গ্রেপ্তার করা হয়েছে। ‘অপারেশন ডেভিল হান্ট ফেজ ২’ নামের এই অভিযানে ছয়টি আগ্নেয়াস্ত্র উদ্ধার ও কয়েক শ অবৈধ মোটরসাইকেল আটক করা হয়।",
+        "image_s3_key": "prothomalo-bangla/2025-06-29/ld6rfzjv/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-29/ld6rfzjv/Capture.PNG?auto=format,compress"
+      },
+      {
+        "headline": "কক্সবাজার-২ আসনে জামায়াত নেতা হামিদুর রহমান আযাদের মনোনয়ন বাতিল",
+        "url": "https://www.prothomalo.com/video/bangladesh/5yeak2n6dv",
+        "published_at": "2026-01-02T17:47:43.868000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-02/qplmogkq/Jamat.00034224.Still002.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/qplmogkq/Jamat.00034224.Still002.jpg?auto=format,compress"
+      },
       {
         "headline": "এক ঝলক (২ জানুয়ারি ২০২৬)",
         "url": "https://www.prothomalo.com/photo/glimpse/0vbfh8apga",
@@ -83,7 +115,7 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/3mmli2hx/Zia-Uddan.00031307.Still002.jpg?auto=format,compress"
       },
       {
-        "headline": "ইসরায়েল-সমর্থিত নির্বাহী আদেশ বাতিল করে মামদানির যাত্রা শুরু",
+        "headline": "ইসরায়েলের পক্ষের নির্বাহী আদেশ বাতিল করে মামদানির যাত্রা শুরু",
         "url": "https://www.prothomalo.com/world/usa/l78mmgc9rd",
         "published_at": "2026-01-02T16:19:36.347000+00:00",
         "summary": "নিউইয়র্কের মেয়রের অভিষেক অনুষ্ঠান যখন চলছিল, তাপমাত্রা তখন হিমাঙ্কের নিচে। কনকনে শীতের মধ্যেও মেয়রকে বরণ করেতে জড়ো হয়েছিলেন হাজার হাজার মানুষ।",
@@ -324,6 +356,14 @@
       }
     ],
     "bangladesh": [
+      {
+        "headline": "অভিযানে দেশজুড়ে গ্রেপ্তার ৫১০, উদ্ধার ৬ আগ্নেয়াস্ত্র",
+        "url": "https://www.prothomalo.com/bangladesh/crime/iqnknzxbyq",
+        "published_at": "2026-01-02T17:53:45.348000+00:00",
+        "summary": "দেশজুড়ে পুলিশের বিশেষ অভিযানে ৫১০ জনকে গ্রেপ্তার করা হয়েছে। ‘অপারেশন ডেভিল হান্ট ফেজ ২’ নামের এই অভিযানে ছয়টি আগ্নেয়াস্ত্র উদ্ধার ও কয়েক শ অবৈধ মোটরসাইকেল আটক করা হয়।",
+        "image_s3_key": "prothomalo-bangla/2025-06-29/ld6rfzjv/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-29/ld6rfzjv/Capture.PNG?auto=format,compress"
+      },
       {
         "headline": "১৪, ১৮ ও ২৪ মার্কা নির্বাচন হতে দেওয়া হবে না: মিয়া গোলাম পরওয়ার",
         "url": "https://www.prothomalo.com/bangladesh/district/050x10oot3",
@@ -648,7 +688,15 @@
     "politics": [],
     "world": [
       {
-        "headline": "ইসরায়েল-সমর্থিত নির্বাহী আদেশ বাতিল করে মামদানির যাত্রা শুরু",
+        "headline": "বাংলাদেশে সুপ্রতিবেশীসুলভ মনোভাবের বার্তা নিয়ে গিয়েছি: জয়শঙ্কর",
+        "url": "https://www.prothomalo.com/world/india/vhuex0c2x1",
+        "published_at": "2026-01-02T18:07:23.862000+00:00",
+        "summary": "ভারতের পররাষ্ট্রমন্ত্রী আজ শুক্রবার চেন্নাইয়ে আইআইটি মাদ্রাজে এক অনুষ্ঠানে প্রতিবেশী দেশগুলোর সঙ্গে সম্পর্ক নিয়ে আলোচনা করতে গিয়ে বাংলাদেশ প্রসঙ্গে এ কথা বলেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/etdxztme/Screenshot-2.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/etdxztme/Screenshot-2.png?auto=format,compress"
+      },
+      {
+        "headline": "ইসরায়েলের পক্ষের নির্বাহী আদেশ বাতিল করে মামদানির যাত্রা শুরু",
         "url": "https://www.prothomalo.com/world/usa/l78mmgc9rd",
         "published_at": "2026-01-02T16:19:36.347000+00:00",
         "summary": "নিউইয়র্কের মেয়রের অভিষেক অনুষ্ঠান যখন চলছিল, তাপমাত্রা তখন হিমাঙ্কের নিচে। কনকনে শীতের মধ্যেও মেয়রকে বরণ করেতে জড়ো হয়েছিলেন হাজার হাজার মানুষ।",
@@ -1598,6 +1646,14 @@
     ],
     "entertainment": [
       {
+        "headline": "‘আমাকে যেন ভুলে না যাও’—বুলবুলের আশঙ্কা কি সত্যিই সত্যি হলো",
+        "url": "https://www.prothomalo.com/entertainment/song/1kj1yjhx11",
+        "published_at": "2026-01-02T18:15:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo/import/media/2020/01/01/645d226ab20a3f08bfb6dacdf7e30a10-5e0c949cde6d4.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo/import/media/2020/01/01/645d226ab20a3f08bfb6dacdf7e30a10-5e0c949cde6d4.jpg?auto=format,compress"
+      },
+      {
         "headline": "ব্যাংকে ছিল মাত্র ৪০০ রুপি, এখন পারিশ্রমিক নেন ৩ কোটি",
         "url": "https://www.prothomalo.com/entertainment/bollywood/qiqiv5y4m4",
         "published_at": "2026-01-02T17:17:48.904000+00:00",
@@ -2398,11 +2454,11 @@
     ],
     "ittefaq_latest": [
       {
-        "headline": "সৌদিতে কর্মী পাঠিয়ে রেকর্ড গড়ল বাংলাদেশ",
-        "url": "https://www.ittefaq.com.bd/768650/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%97%E0%A7%9C%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+        "headline": "এক এনআইডিতে বেশি ফোন দেখানোর কারণ জানালেন ফয়েজ তৈয়্যব",
+        "url": "https://www.ittefaq.com.bd/768653/%E0%A6%8F%E0%A6%95-%E0%A6%8F%E0%A6%A8%E0%A6%86%E0%A6%87%E0%A6%A1%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AB%E0%A7%8B%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AB%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9C",
         "published_at": null,
-        "summary": "জীবিকার সন্ধানে ২০২৫ সালে সাড়ে সাত লাখের বেশি বাংলাদেশি শ্রমিক সৌদি আরব গেছেন। একক কোনো দেশে এক বছরে এত বেশি সংখ্যক বাংলাদেশি কর্মী পাঠানোর ঘটনা এটাই সর্বোচ্চ বলে জানিয়েছে জনশক্তি, কর্মসংস্থান ও প্রশিক্ষণ ব্যুরো (বিএমইটি)। খবরআরব নিউজ’র",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2023/05/01/90777c884fffa878648b759cd8c21d05-644fd89fda2be.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+        "summary": "ন্যাশনাল ইকুইপমেন্ট আইডেনটিটি রেজিস্টার (এনইআইআর) কার্যক্রম চালু হলেও আগামী ৯০ দিন কারো অবৈধ কিংবা ক্লোন করা হ্যান্ডসেট বন্ধ হবে না বলে জানিয়েছেন প্রধান উপদেষ্টার ডাক, টেলিযোগাযোগ ও তথ্য-প্রযুক্তি মন্ত্রণালয়ের বিশেষ সহকারী ফয়েজ আহমদ তৈয়্যব।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/15/54f30b772a2ca931a861dc5fe9fb36dc-6940110634777.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "অনলাইন ট্রাভেল এজেন্সির জন্য নতুন সিদ্ধান্ত সরকারের",
@@ -2466,6 +2522,13 @@
         "published_at": null,
         "summary": "নীলফামারীর কিশোরগঞ্জে জামাতার গাড়িচাপায় শ্বশুরের মৃত্যু হয়েছে। শুক্রবার (২ জানুয়ারি) দুপুরে উপজেলার বাহাগিলী ইউনিয়নের দক্ষিণ দুরাকুটি ঘোপাপাড়া গ্রামে এ ঘটনাটি ঘটে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/a2af9276e9045e33e0b9fc23c391231e-6957e043234f4.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
+        "headline": "সৌদিতে কর্মী পাঠিয়ে রেকর্ড গড়ল বাংলাদেশ",
+        "url": "https://www.ittefaq.com.bd/768650/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%97%E0%A7%9C%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+        "published_at": null,
+        "summary": "জীবিকার সন্ধানে ২০২৫ সালে সাড়ে সাত লাখের বেশি বাংলাদেশি শ্রমিক সৌদি আরব গেছেন। একক কোনো দেশে এক বছরে এত বেশি সংখ্যক বাংলাদেশি কর্মী পাঠানোর ঘটনা এটাই সর্বোচ্চ বলে জানিয়েছে জনশক্তি, কর্মসংস্থান ও প্রশিক্ষণ ব্যুরো (বিএমইটি)। খবরআরব নিউজ’র",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2023/05/01/90777c884fffa878648b759cd8c21d05-644fd89fda2be.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "হাদী হত্যা মামলার আসামির অবস্থান নিয়ে বিভ্রান্তি ও প্রকৃত তথ্য",
@@ -2693,13 +2756,6 @@
     ],
     "ittefaq_world": [
       {
-        "headline": "সৌদিতে কর্মী পাঠিয়ে রেকর্ড গড়ল বাংলাদেশ",
-        "url": "https://www.ittefaq.com.bd/768650/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%97%E0%A7%9C%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
-        "published_at": null,
-        "summary": "জীবিকার সন্ধানে ২০২৫ সালে সাড়ে সাত লাখের বেশি বাংলাদেশি শ্রমিক সৌদি আরব গেছেন। একক কোনো দেশে এক বছরে এত বেশি সংখ্যক বাংলাদেশি কর্মী পাঠানোর ঘটনা এটাই সর্বোচ্চ বলে জানিয়েছে জনশক্তি, কর্মসংস্থান ও প্রশিক্ষণ ব্যুরো (বিএমইটি)। খবরআরব নিউজ’র",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2023/05/01/90777c884fffa878648b759cd8c21d05-644fd89fda2be.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
         "headline": "গোয়েন্দা প্রধানকে প্রেসিডেন্টের দপ্তরের প্রধান করলেন জেলেনস্কি",
         "url": "https://www.ittefaq.com.bd/768642/%E0%A6%97%E0%A7%8B%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8",
         "published_at": null,
@@ -2768,6 +2824,13 @@
         "published_at": null,
         "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বলেছেন, ইরান যদি 'শান্তিপূর্ণ বিক্ষোভকারীদের গুলি করে এবং সহিংসভাবে হত্যা করে' তাহলে ওয়াশিংটন হস্তক্ষেপ করবে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/9893a42804a2815345f8b24ac61f112f-6957a0da37f15.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
+        "headline": "সৌদিতে কর্মী পাঠিয়ে রেকর্ড গড়ল বাংলাদেশ",
+        "url": "https://www.ittefaq.com.bd/768650/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%97%E0%A7%9C%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+        "published_at": null,
+        "summary": "জীবিকার সন্ধানে ২০২৫ সালে সাড়ে সাত লাখের বেশি বাংলাদেশি শ্রমিক সৌদি আরব গেছেন। একক কোনো দেশে এক বছরে এত বেশি সংখ্যক বাংলাদেশি কর্মী পাঠানোর ঘটনা এটাই সর্বোচ্চ বলে জানিয়েছে জনশক্তি, কর্মসংস্থান ও প্রশিক্ষণ ব্যুরো (বিএমইটি)। খবরআরব নিউজ’র",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2023/05/01/90777c884fffa878648b759cd8c21d05-644fd89fda2be.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       }
     ],
     "ittefaq_tech": [
@@ -2859,6 +2922,41 @@
         "published_at": null,
         "summary": "আপনি বাংলাদেশে ছিলেন, আছেন এবং থাকবেন। আপনার একমাত্র ঠিকানা এটাই। আপনি শান্তিতে থাকুন। গুডবাই ম্যাডাম খালেদা জিয়া।",
         "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "জুনিয়র বৃত্তি বাড়ছে ২০ শতাংশ, অর্থের পরিমাণ দ্বিগুণ করার প্রস্তাব",
+        "url": "https://dailynayadiganta.com/bangladesh/education-campus/Hs7lMVOAv39p/",
+        "published_at": null,
+        "summary": "বর্তমান বাজারদরের সাথে সংগতি রেখে শিক্ষার্থীদের মাসিক ভাতার হার ও এককালীন অনুদান বৃদ্ধির উদ্যোগ নেয়া হয়েছে বলে জানিয়েছে মাউশি।",
+        "image_url": "https://media.ndiganta.com/original_images/education_9ASMZ3L.JPG"
+      },
+      {
+        "headline": "খালেদা জিয়ার রূহের মাগফেরাত কামনায় গফরগাঁওয়ে বিএনপির দোয়া মাহফিল",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/9iVsiLUQ95r1/",
+        "published_at": null,
+        "summary": "ময়মনসিংহের গফরগাঁওয়ে বিএনপির চেয়ারপার্সন, সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়া'র রূহের মাগফেরাত কামনায় দোয়া ও মিলাদ মাহফিল অনুষ্ঠিত হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/Gafargaon202.jpg"
+      },
+      {
+        "headline": "খালেদা জিয়ার রুহের মাগফিরাত কামনায় আনসার-ভিডিপির উদ্যোগে বিশেষ দোয়া",
+        "url": "https://dailynayadiganta.com/bangladesh/national/z5sjFjtd48CH/",
+        "published_at": null,
+        "summary": "শুক্রবার (২ জানুয়ারি) আনসার-ভিডিপি সদরদফতর, আভি একাডেমি, রেঞ্জ কার্যালয়, জোন, জেলা ও আনসার ব্যাটালিয়ন ইউনিট পর্যায়ের কেন্দ্রীয় মসজিদগুলোতে এ বিশেষ দোয়া ও মোনাজাত অনুষ্ঠিত হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/Ansar_Z34cWef.jpg"
+      },
+      {
+        "headline": "নিবন্ধন আইন সংশোধন, চালু হচ্ছে ই-রেজিস্ট্রেশন",
+        "url": "https://dailynayadiganta.com/bangladesh/national/wXIZ85MJoxe1/",
+        "published_at": null,
+        "summary": "অধ্যাদেশে উল্লেখ করা হয়, সংসদ ভেঙে যাওয়ায় এবং জরুরি পরিস্থিতি বিদ্যমান থাকায় গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধানের ৯৩(১) অনুচ্ছেদে প্রদত্ত ক্ষমতাবলে রাষ্ট্রপতি এ অধ্যাদেশ প্রণয়ন ও জারি করেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Law-Ministry_0m9oWfk.jpg"
+      },
+      {
+        "headline": "খালেদা জিয়ার মৃত্যুতে বিপ্পা’র গভীর শোক",
+        "url": "https://dailynayadiganta.com/bangladesh/national/KjfR8mgTDIl1/",
+        "published_at": null,
+        "summary": "বিপ্পা’র প্রেসিডেন্ট শোকবার্তায় মরহুমার রুহের মাগফিরাত কামনা করেন এবং তার শোকসন্তপ্ত পরিবারের সদস্যদের প্রতি গভীর সমবেদনা জানান।",
+        "image_url": "https://media.ndiganta.com/original_images/BIPPA.jpg"
       },
       {
         "headline": "জ্বলে উঠলেন মাহমুদউল্লাহ, বিধ্বংসী ইনিংস খেলে জেতালেন রংপুরকে",
@@ -3005,11 +3103,18 @@
     ],
     "amar_politics": [
       {
+        "headline": "বেগম খালেদা জিয়ার মৃত্যুতে কাতার আমিরের শোক",
+        "url": "https://www.amarsangbad.com/politics/news/333555",
+        "published_at": "1767376705",
+        "summary": "সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার মৃত্যুতে কাতারের আমির শেখ তামিম বিন হামাদ আলে সানি বাংলাদেশের প্রতি গভীর সমবেদনা জানিয়েছেন।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/k-amir-20260102175825.jpg"
+      },
+      {
         "headline": "বিএনপির চেয়ারম্যান হচ্ছেন তারেক রহমান",
         "url": "https://www.amarsangbad.com/politics/news/333550",
         "published_at": "1767369461",
         "summary": "সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার প্রয়াণে বর্তমানে শূন্য হয়েছে বিএনপি চেয়ারপারসনের পদটি। এখন পর্যন্ত পদটিতে নতুন কারও নাম আনুষ্ঠানিকভাবে ঘোষণা করা না হলেও দলটির গঠনতন্ত্র অনুযায়ী এই পদে জ্যেষ্ঠ ভাইস চেয়ারম্যানই দায়িত্ব পালন করবেন। সে হিসেবে জ্যেষ্ঠ ভাইস চেয়ারম্যান (বর্তমানে ভারপ্রাপ্ত চেয়ারম্যান) তারেক রহমানের বর্তমানে চেয়ারম্যানের পূর্ণ দায়িত্ব পালন করার কথা।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/tarel-20260102155741.jpg"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/tarel-20260102155741.jpg"
       },
       {
         "headline": "কুমিল্লার নির্বাচনী মাঠে উত্তাপপ্রশাসন বিএনপির দিকে ঝুঁকে পড়েছে: হাসনাত আবদুল্লাহ",
@@ -3019,11 +3124,11 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/hasnatt-20260102155010.jpg"
       },
       {
-        "headline": "সালাহউদ্দিন আহমদনিরপেক্ষ ভোটের মাধ্যমে গণতান্ত্রিক সরকার গঠনই মানুষের প্রত্যাশা",
-        "url": "https://www.amarsangbad.com/politics/news/333545",
-        "published_at": "1767366700",
-        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে কক্সবাজার-১ (চকরিয়া-পেকুয়া) আসনের বিএনপি মনোনীত প্রার্থী সালাহউদ্দিন আহমদ বলেছেন, \"নিরপেক্ষ ভোটগ্রহণের মাধ্যমে সত্যিকারের গণতান্ত্রিক ও রাজনৈতিক সরকার গঠিত হবে এটাই ফ্যাসিস্টমুক্ত বাংলাদেশে গণমানুষের প্রত্যাশা।\"",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/sale-20260102151140.jpg"
+        "headline": "বেগম খালেদা জিয়ার মৃত্যুতে সৌদি বাদশাহ ও যুবরাজের গভীর শোক",
+        "url": "https://www.amarsangbad.com/politics/news/333556",
+        "published_at": "1767376946",
+        "summary": "সাবেক প্রধানমন্ত্রী ও বিএনপি চেয়ারপারসন বেগম খালেদা জিয়ার মৃত্যুতে সৌদি আরবের বাদশাহ সালমান বিন আবদুলআজিজ আল সৌদ এবং যুবরাজ ও প্রধানমন্ত্রী মোহাম্মদ বিন সালমান বিন আবদুলআজিজ আল সৌদ গভীর শোক ও সমবেদনা জানিয়েছেন।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/z-20260102180226.jpg"
       },
       {
         "headline": "খালেদা জিয়ার মৃত্যু পরিকল্পিত হত্যাকাণ্ড: রুহুল কবির রিজভী",
@@ -3031,6 +3136,13 @@
         "published_at": "1767368249",
         "summary": "বাংলাদেশের রাজনৈতিক ইতিহাসের এক শোকাতুর অধ্যায় হয়ে থাকবে ২০২৬ সালের জানুয়ারি মাস। বিএনপির সদ্যপ্রয়াত চেয়ারপারসন ও সাবেক প্রধানমন্ত্রী দেশনেত্রী বেগম খালেদা জিয়ার প্রয়াণকে কেবল একটি স্বাভাবিক মৃত্যু হিসেবে গ্রহণ করতে পারছে না তার দল ও কোটি অনুসারী।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/rizviii-20260102153729.jpg"
+      },
+      {
+        "headline": "সালাহউদ্দিন আহমদনিরপেক্ষ ভোটের মাধ্যমে গণতান্ত্রিক সরকার গঠনই মানুষের প্রত্যাশা",
+        "url": "https://www.amarsangbad.com/politics/news/333545",
+        "published_at": "1767366700",
+        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে কক্সবাজার-১ (চকরিয়া-পেকুয়া) আসনের বিএনপি মনোনীত প্রার্থী সালাহউদ্দিন আহমদ বলেছেন, \"নিরপেক্ষ ভোটগ্রহণের মাধ্যমে সত্যিকারের গণতান্ত্রিক ও রাজনৈতিক সরকার গঠিত হবে এটাই ফ্যাসিস্টমুক্ত বাংলাদেশে গণমানুষের প্রত্যাশা।\"",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/sale-20260102151140.jpg"
       },
       {
         "headline": "আখতার হোসেনজামায়াতের সঙ্গে আসন নিয়ে আলোচনা চলছে",
