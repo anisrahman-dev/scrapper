@@ -1,7 +1,19 @@
 {
-  "fetched_at": "2026-01-02T16:30:59.020071+00:00",
+  "fetched_at": "2026-01-02T16:36:09.712559+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "চাঁদার না দেওয়ায় ব্যবসায়ীর বাড়ি লক্ষ্য করে সন্ত্রাসীদের গুলি",
+        "url": "https://www.prothomalo.com/video/bangladesh/ekcscc1xit",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/n1asz8bb/YT-GFX.00065618.Still013.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/n1asz8bb/YT-GFX.00065618.Still013.jpg?auto=format,compress"
+      },
+      {
+        "headline": "কবর জিয়ারতে জিয়া উদ্যানে দলীয় নেতা–কর্মী ও সাধারণ মানুষের ভিড়",
+        "url": "https://www.prothomalo.com/video/bangladesh/bpfrrq5r4x",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/3mmli2hx/Zia-Uddan.00031307.Still002.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/3mmli2hx/Zia-Uddan.00031307.Still002.jpg?auto=format,compress"
+      },
       {
         "headline": "ইসরায়েল-সমর্থিত নির্বাহী আদেশ বাতিল করে মামদানির যাত্রা শুরু",
         "url": "https://www.prothomalo.com/world/usa/l78mmgc9rd",
@@ -229,18 +241,6 @@
         "url": "https://www.prothomalo.com/opinion/column/hg7t2totuv",
         "image_s3_key": "prothomalo-bangla/2025-12-31/eytos2n9/৫.jfif",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-31/eytos2n9/৫.jfif?auto=format,compress"
-      },
-      {
-        "headline": "খালেদা জিয়ার কবর জিয়ারতে নাতনি জাইমাসহ পরিবারের সদস্যরা",
-        "url": "https://www.prothomalo.com/video/bangladesh/dj4c1ktcbl",
-        "image_s3_key": "prothomalo-bangla/2026-01-02/oh0pvifp/BARTA-SHONKHEP.psd-01.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/oh0pvifp/BARTA-SHONKHEP.psd-01.jpg?auto=format,compress"
-      },
-      {
-        "headline": "শুক্রবারেও খালেদা জিয়ার কবর জিয়ারতে অগণিত মানুষের ভিড়",
-        "url": "https://www.prothomalo.com/video/bangladesh/2kucybisb6",
-        "image_s3_key": "prothomalo-bangla/2026-01-02/s9juhjme/YT-GFX.00061316.Still011.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/s9juhjme/YT-GFX.00061316.Still011.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -1698,314 +1698,109 @@
     ],
     "bd_pratidin_todaynews": [
       {
-        "headline": "ভোটের হাওয়া",
-        "url": "https://www.bd-pratidin.com/election",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "খালেদা জিয়ার রুহের মাগফিরাত কামনায় নোবিপ্রবিতে দোয়া মাহফিল",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199495",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767370291-4c4e577d6f716f7b8122383fc54869e6.PNG"
       },
       {
-        "headline": "পূর্ব-পশ্চিম",
-        "url": "https://www.bd-pratidin.com/international-news",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "পিরোজপুরে খালেদা জিয়ার রুহের মাগফিরাত কামনায় দোয়া",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199494",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767370142-6fc98c68b4460d05adfb04a8d0977dda.jpg"
       },
       {
-        "headline": "মাঠে ময়দানে",
-        "url": "https://www.bd-pratidin.com/sports",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "কৃত্রিম বুদ্ধিমত্তার আবেগী প্রভাব ঠেকাতে নতুন নীতিমালা চীনের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/02/1199492",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767369612-8d9f7dbcc86acfbcee53112b91fc17ba.jpg"
       },
       {
-        "headline": "অর্থনীতি",
-        "url": "https://www.bd-pratidin.com/economy",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "অধ্যাদেশ জারি : অনলাইন ট্রাভেল এজেন্সির ব্যাংক গ্যারান্টি ১ কোটি টাকা",
+        "url": "https://www.bd-pratidin.com/national/2026/01/02/1199491",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767369474-000b609697714860d4d309a27880adde.jpg"
       },
       {
-        "headline": "ইসলামী জীবন",
-        "url": "https://www.bd-pratidin.com/islam",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "‘দেশনেত্রীর আদর্শ অনুসরণ করে আগামী নির্বাচনে বিজয় অর্জন করতে হবে’",
+        "url": "https://www.bd-pratidin.com/current-politics/2026/01/02/1199488",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767369169-9643cf19ae117f28f30cf7a2781b7312.jpg"
       },
       {
-        "headline": "অন্যান্য",
-        "url": "https://www.bd-pratidin.com/online/todaynews#",
-        "image_url": null
+        "headline": "বিমান ভাড়া নিয়ন্ত্রণে ‘বেসামরিক বিমান চলাচল অধ্যাদেশ’ জারি",
+        "url": "https://www.bd-pratidin.com/national/2026/01/02/1199473",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767368254-d74b07f51e1e38c452908007df6503b3.jpg"
       },
       {
-        "headline": "দেশগ্রাম",
-        "url": "https://www.bd-pratidin.com/country",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "রাঙামাটিতে ৮ প্রার্থীর মধ্যে সাতজনের মনোনয়নপত্র বৈধ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/02/1199470",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767367697-6eac9d8b4d01c34316bd1f7c787c846e.jpg"
       },
       {
-        "headline": "নগর জীবন",
-        "url": "https://www.bd-pratidin.com/city-news",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "কুমিল্লায় ছয়টি আসনের ১৬ জনের মনোনয়নপত্র বাতিল",
+        "url": "https://www.bd-pratidin.com/election/2026/01/02/1199465",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767366503-f08ba6481218a4b249ddd157949bde52.jpg"
       },
       {
-        "headline": "ক্যাম্পাস",
-        "url": "https://www.bd-pratidin.com/campus-online",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "‘সকল সম্প্রদায়ের মধ্যে ঐক্য সম্প্রীতি সুদৃঢ় করতে বদ্ধপরিকর সরকার’",
+        "url": "https://www.bd-pratidin.com/national/2026/01/02/1199463",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767365909-0ecb12889783a25ba43caf9a034c27b7.jpg"
       },
       {
-        "headline": "বসুন্ধরা শুভসংঘ",
-        "url": "https://www.bd-pratidin.com/bashundhara-shuvasongo",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "কর্পোরেট কর্নার",
-        "url": "https://www.bd-pratidin.com/corporate-corner",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "হেলথ কর্নার",
-        "url": "https://www.bd-pratidin.com/health-tips",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "চায়ের দেশ",
-        "url": "https://www.bd-pratidin.com/chayer-desh",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "জীবন ধারা",
-        "url": "https://www.bd-pratidin.com/life",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "চট্টগ্রাম প্রতিদিন",
-        "url": "https://www.bd-pratidin.com/chittagong-pratidin",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "মুক্তমঞ্চ",
-        "url": "https://www.bd-pratidin.com/open-air-theater",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "পাঁচফোড়ন",
-        "url": "https://www.bd-pratidin.com/mixter",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "ফেসবুক কর্নার",
-        "url": "https://www.bd-pratidin.com/facebook",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "টেক ওয়ার্ল্ড",
-        "url": "https://www.bd-pratidin.com/tech-world",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "প্রকৃতি ও পরিবেশ",
-        "url": "https://www.bd-pratidin.com/agriculture-nature",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "ক্যারিয়ার",
-        "url": "https://www.bd-pratidin.com/career",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "আজকের পত্রিকা",
-        "url": "https://www.bd-pratidin.com/online/todaynews#",
-        "image_url": null
-      },
-      {
-        "headline": "প্রথম পৃষ্ঠা",
-        "url": "https://www.bd-pratidin.com/first-page",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "পেছনের পৃষ্ঠা",
-        "url": "https://www.bd-pratidin.com/last-page",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "নগর জীবন",
-        "url": "https://www.bd-pratidin.com/city",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "দেশগ্রাম",
-        "url": "https://www.bd-pratidin.com/country-village",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "সম্পাদকীয়",
-        "url": "https://www.bd-pratidin.com/editorial",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "পূর্ব-পশ্চিম",
-        "url": "https://www.bd-pratidin.com/international",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "মাঠে ময়দানে",
-        "url": "https://www.bd-pratidin.com/sport-news",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "আজকের রাশি",
-        "url": "https://www.bd-pratidin.com/horoscope",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "শ্রীমঙ্গলে শীতার্তদের মাঝে কম্বল বিতরণ",
+        "url": "https://www.bd-pratidin.com/chayer-desh/2026/01/02/1199458",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767365200-3bd3564ca318278d5cf32c50adb16a7f.jpg"
       }
     ],
     "bd_pratidin_national": [
       {
-        "headline": "ভোটের হাওয়া",
-        "url": "https://www.bd-pratidin.com/election",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "খালেদা জিয়ার রুহের মাগফিরাত কামনায় নোবিপ্রবিতে দোয়া মাহফিল",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199495",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767370291-4c4e577d6f716f7b8122383fc54869e6.PNG"
       },
       {
-        "headline": "পূর্ব-পশ্চিম",
-        "url": "https://www.bd-pratidin.com/international-news",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "পিরোজপুরে খালেদা জিয়ার রুহের মাগফিরাত কামনায় দোয়া",
+        "url": "https://www.bd-pratidin.com/country/2026/01/02/1199494",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767370142-6fc98c68b4460d05adfb04a8d0977dda.jpg"
       },
       {
-        "headline": "মাঠে ময়দানে",
-        "url": "https://www.bd-pratidin.com/sports",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "কৃত্রিম বুদ্ধিমত্তার আবেগী প্রভাব ঠেকাতে নতুন নীতিমালা চীনের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/02/1199492",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767369612-8d9f7dbcc86acfbcee53112b91fc17ba.jpg"
       },
       {
-        "headline": "অর্থনীতি",
-        "url": "https://www.bd-pratidin.com/economy",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "অধ্যাদেশ জারি : অনলাইন ট্রাভেল এজেন্সির ব্যাংক গ্যারান্টি ১ কোটি টাকা",
+        "url": "https://www.bd-pratidin.com/national/2026/01/02/1199491",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767369474-000b609697714860d4d309a27880adde.jpg"
       },
       {
-        "headline": "ইসলামী জীবন",
-        "url": "https://www.bd-pratidin.com/islam",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "‘দেশনেত্রীর আদর্শ অনুসরণ করে আগামী নির্বাচনে বিজয় অর্জন করতে হবে’",
+        "url": "https://www.bd-pratidin.com/current-politics/2026/01/02/1199488",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767369169-9643cf19ae117f28f30cf7a2781b7312.jpg"
       },
       {
-        "headline": "অন্যান্য",
-        "url": "https://www.bd-pratidin.com/national#",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "বিমান ভাড়া নিয়ন্ত্রণে ‘বেসামরিক বিমান চলাচল অধ্যাদেশ’ জারি",
+        "url": "https://www.bd-pratidin.com/national/2026/01/02/1199473",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767368254-d74b07f51e1e38c452908007df6503b3.jpg"
       },
       {
-        "headline": "দেশগ্রাম",
-        "url": "https://www.bd-pratidin.com/country",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "রাঙামাটিতে ৮ প্রার্থীর মধ্যে সাতজনের মনোনয়নপত্র বৈধ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/02/1199470",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767367697-6eac9d8b4d01c34316bd1f7c787c846e.jpg"
       },
       {
-        "headline": "নগর জীবন",
-        "url": "https://www.bd-pratidin.com/city-news",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "কুমিল্লায় ছয়টি আসনের ১৬ জনের মনোনয়নপত্র বাতিল",
+        "url": "https://www.bd-pratidin.com/election/2026/01/02/1199465",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767366503-f08ba6481218a4b249ddd157949bde52.jpg"
       },
       {
-        "headline": "ক্যাম্পাস",
-        "url": "https://www.bd-pratidin.com/campus-online",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "‘সকল সম্প্রদায়ের মধ্যে ঐক্য সম্প্রীতি সুদৃঢ় করতে বদ্ধপরিকর সরকার’",
+        "url": "https://www.bd-pratidin.com/national/2026/01/02/1199463",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767365909-0ecb12889783a25ba43caf9a034c27b7.jpg"
       },
       {
-        "headline": "বসুন্ধরা শুভসংঘ",
-        "url": "https://www.bd-pratidin.com/bashundhara-shuvasongo",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "কর্পোরেট কর্নার",
-        "url": "https://www.bd-pratidin.com/corporate-corner",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "হেলথ কর্নার",
-        "url": "https://www.bd-pratidin.com/health-tips",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "চায়ের দেশ",
-        "url": "https://www.bd-pratidin.com/chayer-desh",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "জীবন ধারা",
-        "url": "https://www.bd-pratidin.com/life",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "চট্টগ্রাম প্রতিদিন",
-        "url": "https://www.bd-pratidin.com/chittagong-pratidin",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "মুক্তমঞ্চ",
-        "url": "https://www.bd-pratidin.com/open-air-theater",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "পাঁচফোড়ন",
-        "url": "https://www.bd-pratidin.com/mixter",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "ফেসবুক কর্নার",
-        "url": "https://www.bd-pratidin.com/facebook",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "টেক ওয়ার্ল্ড",
-        "url": "https://www.bd-pratidin.com/tech-world",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "প্রকৃতি ও পরিবেশ",
-        "url": "https://www.bd-pratidin.com/agriculture-nature",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "ক্যারিয়ার",
-        "url": "https://www.bd-pratidin.com/career",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "আজকের পত্রিকা",
-        "url": "https://www.bd-pratidin.com/national#",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "প্রথম পৃষ্ঠা",
-        "url": "https://www.bd-pratidin.com/first-page",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "পেছনের পৃষ্ঠা",
-        "url": "https://www.bd-pratidin.com/last-page",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "নগর জীবন",
-        "url": "https://www.bd-pratidin.com/city",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "দেশগ্রাম",
-        "url": "https://www.bd-pratidin.com/country-village",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "সম্পাদকীয়",
-        "url": "https://www.bd-pratidin.com/editorial",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "পূর্ব-পশ্চিম",
-        "url": "https://www.bd-pratidin.com/international",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "মাঠে ময়দানে",
-        "url": "https://www.bd-pratidin.com/sport-news",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
-      },
-      {
-        "headline": "আজকের রাশি",
-        "url": "https://www.bd-pratidin.com/horoscope",
-        "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+        "headline": "শ্রীমঙ্গলে শীতার্তদের মাঝে কম্বল বিতরণ",
+        "url": "https://www.bd-pratidin.com/chayer-desh/2026/01/02/1199458",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/02/og/1767365200-3bd3564ca318278d5cf32c50adb16a7f.jpg"
       }
     ],
     "ittefaq_latest": [
-      {
-        "headline": "আজকের সর্বশেষ খবর",
-        "url": "https://www.ittefaq.com.bd/latest-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
       {
         "headline": "বিশেষ সংবাদ",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
@@ -2015,86 +1810,6 @@
         "headline": "করোনাভাইরাস",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সম্পাদকীয়",
-        "url": "https://www.ittefaq.com.bd/editorial",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/05/25f438e616ffb9b4ea6cac6720f7e99e-615bd6ff7ff0e.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "স্বাস্থ্য",
-        "url": "https://www.ittefaq.com.bd/health",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সোশ্যাল মিডিয়া",
-        "url": "https://www.ittefaq.com.bd/social-media",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2024/10/10/c0b6fdf03046912dc3c601dd8f2ad0cc-6707a225c9450.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/topic/আইন-আদালত",
-        "image_url": null
-      },
-      {
-        "headline": "ক্যাম্পাস",
-        "url": "https://www.ittefaq.com.bd/campus",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বাংলা কনভার্টার",
-        "url": "https://www.ittefaq.com.bd/unicode-to-bijoy-converter",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/04/05/764bfc9c815313ea1e02642e9953f13a-624b98acac18a.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশেষ সংবাদ",
-        "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "লাইফস্টাইল",
-        "url": "https://www.ittefaq.com.bd/lifestyle",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/law-and-court",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.ittefaq.com.bd/news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/12/24/9d587438ef51fbfa3913edb31651ca21-61c55a8f91296.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর",
-        "url": "https://www.ittefaq.com.bd/latest-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর",
-        "url": "https://www.ittefaq.com.bd/latest-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "‘পোস্টাল ভোট বিডি’ অ্যাপে নিবন্ধন ছাড়াল ১২ লাখ ২৫ হাজার",
@@ -2132,32 +1847,12 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/03bf8fd4810f8d6dcbba101e1cfc5b53-6957e1c453706.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
         "headline": "নীলফামারীতে জামাতার গাড়িচাপায় প্রাণ গেল শ্বশুরের",
         "url": "https://www.ittefaq.com.bd/768641/%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%AB%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%97%E0%A7%87%E0%A6%B2-%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/a2af9276e9045e33e0b9fc23c391231e-6957e043234f4.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "হাদী হত্যা মামলার আসামির অবস্থান নিয়ে বিভ্রান্তি ও প্রকৃত তথ্য",
-        "url": "https://www.ittefaq.com.bd/768640/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/15/9020eb80c3fe870213eab9fba119ed61-693f8be993040.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.ittefaq.com.bd/news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/12/24/9d587438ef51fbfa3913edb31651ca21-61c55a8f91296.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       }
     ],
     "ittefaq_country": [
-      {
-        "headline": "আজকের সর্বশেষ খবর",
-        "url": "https://www.ittefaq.com.bd/latest-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
       {
         "headline": "বিশেষ সংবাদ",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
@@ -2167,76 +1862,6 @@
         "headline": "করোনাভাইরাস",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সম্পাদকীয়",
-        "url": "https://www.ittefaq.com.bd/editorial",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/05/25f438e616ffb9b4ea6cac6720f7e99e-615bd6ff7ff0e.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "স্বাস্থ্য",
-        "url": "https://www.ittefaq.com.bd/health",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সোশ্যাল মিডিয়া",
-        "url": "https://www.ittefaq.com.bd/social-media",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2024/10/10/c0b6fdf03046912dc3c601dd8f2ad0cc-6707a225c9450.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/topic/আইন-আদালত",
-        "image_url": null
-      },
-      {
-        "headline": "ক্যাম্পাস",
-        "url": "https://www.ittefaq.com.bd/campus",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বাংলা কনভার্টার",
-        "url": "https://www.ittefaq.com.bd/unicode-to-bijoy-converter",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/04/05/764bfc9c815313ea1e02642e9953f13a-624b98acac18a.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশেষ সংবাদ",
-        "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "লাইফস্টাইল",
-        "url": "https://www.ittefaq.com.bd/lifestyle",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/law-and-court",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.ittefaq.com.bd/news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/12/24/9d587438ef51fbfa3913edb31651ca21-61c55a8f91296.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "স্বতন্ত্র প্রার্থীর মনোনয়ন বাছাইয়ে গিয়ে আটক ২ আওয়ামী লীগ নেতা",
@@ -2277,39 +1902,9 @@
         "headline": "দ্বৈত নাগরিক জামায়াত প্রার্থীর মনোনয়ন স্থগিত, বহিষ্কৃত বিএনপি নেতারটি বাতিল",
         "url": "https://www.ittefaq.com.bd/768622/%E0%A6%95%E0%A7%81%E0%A7%9C%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A7%A9-%E0%A6%93-%E0%A7%AA-%E0%A6%86%E0%A6%B8%E0%A6%A8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/e7de261dee97bda559dccb132084d530-6957c05c2d647.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিএনপি প্রার্থীসহ পাঁচজনের মনোনয়ন বাতিল",
-        "url": "https://www.ittefaq.com.bd/768609/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%C2%A0",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/f0a4807f219bc1545eae078fb4223780-6957b2f622623.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "ঘন কুয়াশায় একসঙ্গে চার গাড়ির সংঘর্ষ, এক্সপ্রেসওয়েতে পৃথক দুর্ঘটনায় আহত ৩০",
-        "url": "https://www.ittefaq.com.bd/768600/%E0%A6%98%E0%A6%A8%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B6%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%A4%E0%A7%87",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/126d343a85adb25039306b745b82a684-6957a59c896e1.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "পাবনায় কারখানার খাবার শেষে অসুস্থ ৩০ শ্রমিক",
-        "url": "https://www.ittefaq.com.bd/768593/%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A7%A9%E0%A7%A6-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/da3bbbc3b59da89eb406db066fdc6ff9-69579c054f208.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "প্রার্থীর সমর্থনে মৃত ব্যক্তির স্বাক্ষর, চট্টগ্রামে স্বতন্ত্র প্রার্থীর মনোনয়ন বাতিল",
-        "url": "https://www.ittefaq.com.bd/768590/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%83%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%B0",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/33bed47a5d8e68122949e334c1e6a289-6957959a6cbd1.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "শীতের দাপট থাকবে আরও পাঁচ দিন, দুপুর পর্যন্ত স্থায়ী হতে পারে কুয়াশা",
-        "url": "https://www.ittefaq.com.bd/768589/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AA%E0%A6%9F-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/3b1b2e4e0a8a59ad5005394571993902-695795f6a9ccd.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       }
     ],
     "ittefaq_politics": [
-      {
-        "headline": "আজকের সর্বশেষ খবর",
-        "url": "https://www.ittefaq.com.bd/latest-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
       {
         "headline": "বিশেষ সংবাদ",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
@@ -2319,76 +1914,6 @@
         "headline": "করোনাভাইরাস",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সম্পাদকীয়",
-        "url": "https://www.ittefaq.com.bd/editorial",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/05/25f438e616ffb9b4ea6cac6720f7e99e-615bd6ff7ff0e.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "স্বাস্থ্য",
-        "url": "https://www.ittefaq.com.bd/health",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সোশ্যাল মিডিয়া",
-        "url": "https://www.ittefaq.com.bd/social-media",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2024/10/10/c0b6fdf03046912dc3c601dd8f2ad0cc-6707a225c9450.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/topic/আইন-আদালত",
-        "image_url": null
-      },
-      {
-        "headline": "ক্যাম্পাস",
-        "url": "https://www.ittefaq.com.bd/campus",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বাংলা কনভার্টার",
-        "url": "https://www.ittefaq.com.bd/unicode-to-bijoy-converter",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/04/05/764bfc9c815313ea1e02642e9953f13a-624b98acac18a.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশেষ সংবাদ",
-        "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "লাইফস্টাইল",
-        "url": "https://www.ittefaq.com.bd/lifestyle",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/law-and-court",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.ittefaq.com.bd/news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/12/24/9d587438ef51fbfa3913edb31651ca21-61c55a8f91296.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "ফাতেমা এবার জাইমা রহমানের ছায়াসঙ্গী!",
@@ -2429,39 +1954,9 @@
         "headline": "১২ মামলার আসামি জি এম কাদেরের সম্পদ বেড়েছে, কমেছে স্ত্রীর",
         "url": "https://www.ittefaq.com.bd/768621/%E0%A7%A7%E0%A7%A8%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%9C%E0%A6%BF-%E0%A6%8F%E0%A6%AE-%E0%A6%95%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A6-%E0%A6%AC%E0%A7%87%E0%A7%9C%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A7%87%E0%A6%9B%E0%A7%87",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/ae882d46f82ec322419d17e4998034d0-6957bf753cb7b.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "জামায়াতের সহকারী সেক্রেটারি হামিদুর রহমান আযাদের মনোনয়নপত্র বাতিল",
-        "url": "https://www.ittefaq.com.bd/768618/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%B8%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%86%E0%A6%AF%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/c0429ce4d6e459c7bd1fee33a7803e8b-6957bc87a3ca6.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "খালেদা জিয়ার আত্মার মাগফিরাত কামনায় মিলাদ মাহফিল, অংশ নিয়েছেন তারেক রহমান",
-        "url": "https://www.ittefaq.com.bd/768616/%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A6%E0%A6%BE-%E0%A6%9C%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%A6-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AB%E0%A6%BF%E0%A6%B2",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/95d4341e1773a65f31b2cc1eb87020d3-6957bbd54237e.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আল্লাহ স্বাক্ষী, ১৪ মাসে এক কাপ চায়ের টাকাও দুর্নীতি করিনি: হাসনাত আব্দুল্লাহ",
-        "url": "https://www.ittefaq.com.bd/768605/%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80-%E0%A7%A7%E0%A7%AA-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%AA-%E0%A6%9A%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%93",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/4f255f26b79f59a666d10532d5172e1f-6957ab16114d0.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "শত অত্যাচার সহ্য করেও গণতন্ত্রকে এগিয়ে নিয়েছেন বেগম জিয়া: মির্জা আব্বাস",
-        "url": "https://www.ittefaq.com.bd/768603/%E0%A6%B6%E0%A6%A4-%E0%A6%85%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%93-%E0%A6%97%E0%A6%A3%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/c5208c6ce9abb2098c53801ee97ac84e-6957a75f8d6d3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "তথ্যের গড়মিল পাওয়ায় মাহমুদুর রহমান মান্নার মনোনয়নপত্র বাতিল",
-        "url": "https://www.ittefaq.com.bd/768597/%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%9C%E0%A6%AE%E0%A6%BF%E0%A6%B2-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE%E0%A6%B0",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/24/2c48e988dbccc864e9a0f15949a62276-694bce2653ddc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       }
     ],
     "ittefaq_sports": [
-      {
-        "headline": "আজকের সর্বশেষ খবর",
-        "url": "https://www.ittefaq.com.bd/latest-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
       {
         "headline": "বিশেষ সংবাদ",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
@@ -2471,81 +1966,6 @@
         "headline": "করোনাভাইরাস",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সম্পাদকীয়",
-        "url": "https://www.ittefaq.com.bd/editorial",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/05/25f438e616ffb9b4ea6cac6720f7e99e-615bd6ff7ff0e.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "স্বাস্থ্য",
-        "url": "https://www.ittefaq.com.bd/health",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সোশ্যাল মিডিয়া",
-        "url": "https://www.ittefaq.com.bd/social-media",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2024/10/10/c0b6fdf03046912dc3c601dd8f2ad0cc-6707a225c9450.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/topic/আইন-আদালত",
-        "image_url": null
-      },
-      {
-        "headline": "ক্যাম্পাস",
-        "url": "https://www.ittefaq.com.bd/campus",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বাংলা কনভার্টার",
-        "url": "https://www.ittefaq.com.bd/unicode-to-bijoy-converter",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/04/05/764bfc9c815313ea1e02642e9953f13a-624b98acac18a.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশেষ সংবাদ",
-        "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "লাইফস্টাইল",
-        "url": "https://www.ittefaq.com.bd/lifestyle",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/law-and-court",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.ittefaq.com.bd/news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/12/24/9d587438ef51fbfa3913edb31651ca21-61c55a8f91296.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অন্য খেলা",
-        "url": "https://www.ittefaq.com.bd/other-sports",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x260046/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
       },
       {
         "headline": "আজিজুল তামিমকে অধিনায়ক করে বিশ্বকাপের দল ঘোষণা করলো বাংলাদেশ",
@@ -2586,34 +2006,9 @@
         "headline": "মহাবিপদে মোহামেডান",
         "url": "https://www.ittefaq.com.bd/768599/%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%A6%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BE%E0%A6%A8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/02/9ee4b394231e0038645e53df063df061-6957a491d56e3.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-      },
-      {
-        "headline": "রহস্যময় ভিলা ও অর্থ কেলেঙ্কারি: বিশ্বকাপের আগে বিপাকে আর্জেন্টিনা",
-        "url": "https://www.ittefaq.com.bd/768596/%E0%A6%B0%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%9F-%E0%A6%AD%E0%A6%BF%E0%A6%B2%E0%A6%BE-%E0%A6%93-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/02/1e1de11c1ee13024920cf1bdbf61cc9c-69579eef597e4.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-      },
-      {
-        "headline": "বোল্টের টাকা চুরি, কাঠগড়ায় তিন প্রভাবশালী",
-        "url": "https://www.ittefaq.com.bd/768585/%E0%A6%AC%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%A0%E0%A6%97%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%80",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/02/a0e72d518d760d2d57d12d900dd4e91c-69578e96cb735.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-      },
-      {
-        "headline": "সিডনি টেস্টের পরেই আন্তর্জাতিক ক্রিকেটকে বিদায় জানাবেন উসমান খাজা",
-        "url": "https://www.ittefaq.com.bd/768559/%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A6%A8%E0%A6%BF-%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A7%9F",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/02/f09f0a6ba77704a966c13ad55d2f0d34-6957492d68420.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-      },
-      {
-        "headline": "ভালো উইকেটের স্বীকৃতিতে পিছিয়ে বাংলাদেশ, আউটফিল্ডেও নেই স্বস্তি",
-        "url": "https://www.ittefaq.com.bd/768553/%E0%A6%AD%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%89%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/02/5f43c81ce78115ba460f414695b21435-69573b36dc5f0.png?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
       }
     ],
     "ittefaq_world": [
-      {
-        "headline": "আজকের সর্বশেষ খবর",
-        "url": "https://www.ittefaq.com.bd/latest-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
       {
         "headline": "বিশেষ সংবাদ",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
@@ -2625,94 +2020,9 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
-        "headline": "সম্পাদকীয়",
-        "url": "https://www.ittefaq.com.bd/editorial",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/05/25f438e616ffb9b4ea6cac6720f7e99e-615bd6ff7ff0e.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "স্বাস্থ্য",
-        "url": "https://www.ittefaq.com.bd/health",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সোশ্যাল মিডিয়া",
-        "url": "https://www.ittefaq.com.bd/social-media",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2024/10/10/c0b6fdf03046912dc3c601dd8f2ad0cc-6707a225c9450.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/topic/আইন-আদালত",
-        "image_url": null
-      },
-      {
-        "headline": "ক্যাম্পাস",
-        "url": "https://www.ittefaq.com.bd/campus",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বাংলা কনভার্টার",
-        "url": "https://www.ittefaq.com.bd/unicode-to-bijoy-converter",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/04/05/764bfc9c815313ea1e02642e9953f13a-624b98acac18a.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশেষ সংবাদ",
-        "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "লাইফস্টাইল",
-        "url": "https://www.ittefaq.com.bd/lifestyle",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/law-and-court",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.ittefaq.com.bd/news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/12/24/9d587438ef51fbfa3913edb31651ca21-61c55a8f91296.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "মধ্যপ্রাচ্য",
-        "url": "https://www.ittefaq.com.bd/middle-east",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
         "headline": "রাশিয়া ইউক্রেন যুদ্ধ",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/03/09/5a62c4b84ca746ef17b6f8a76008e30b-62283c226d9d6.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "গোয়েন্দা প্রধানকে প্রেসিডেন্টের দপ্তরের প্রধান করলেন জেলেনস্কি",
@@ -2748,24 +2058,9 @@
         "headline": "ভারতে দূষিত পানির প্রভাবে ৯ জনের মৃত্যু, ২০০ জন হাসপাতালে",
         "url": "https://www.ittefaq.com.bd/768608/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%BF%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A7%AF-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A7%A8%E0%A7%A6%E0%A7%A6-%E0%A6%9C%E0%A6%A8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/e6a5422be50c2ab3c1c95209d3f5f9f4-6957b0f0a0159.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "ইয়েমেনে আমিরাত সমর্থিত বিচ্ছিন্নতাবাদী শিবিরে সৌদি জোটের বিমান হামলা",
-        "url": "https://www.ittefaq.com.bd/768606/%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%B6%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%87",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/8096df178e435c72767bd33408f75d70-6957ac3622999.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিমান বাংলাদেশকে করাচিতে সরাসরি ফ্লাইট চালুর ছাড়পত্র দিলো পাকিস্তান",
-        "url": "https://www.ittefaq.com.bd/768604/%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%B0%E0%A6%BF-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81%E0%A6%B0",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/02/006488cec4ae3df56fc637eb49d6dfd7-6957aa508e784.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       }
     ],
     "ittefaq_tech": [
-      {
-        "headline": "আজকের সর্বশেষ খবর",
-        "url": "https://www.ittefaq.com.bd/latest-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
       {
         "headline": "বিশেষ সংবাদ",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
@@ -2775,76 +2070,6 @@
         "headline": "করোনাভাইরাস",
         "url": "https://www.ittefaq.com.bd/topic/%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সম্পাদকীয়",
-        "url": "https://www.ittefaq.com.bd/editorial",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/05/25f438e616ffb9b4ea6cac6720f7e99e-615bd6ff7ff0e.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "স্বাস্থ্য",
-        "url": "https://www.ittefaq.com.bd/health",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সোশ্যাল মিডিয়া",
-        "url": "https://www.ittefaq.com.bd/social-media",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2024/10/10/c0b6fdf03046912dc3c601dd8f2ad0cc-6707a225c9450.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/topic/আইন-আদালত",
-        "image_url": null
-      },
-      {
-        "headline": "ক্যাম্পাস",
-        "url": "https://www.ittefaq.com.bd/campus",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বাংলা কনভার্টার",
-        "url": "https://www.ittefaq.com.bd/unicode-to-bijoy-converter",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/04/05/764bfc9c815313ea1e02642e9953f13a-624b98acac18a.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশেষ সংবাদ",
-        "url": "https://www.ittefaq.com.bd/topic/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2022/06/01/7e80466bdc5bf7f33f6707304e2631ae-62967a3516a28.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বিশ্ব সংবাদ",
-        "url": "https://www.ittefaq.com.bd/world-news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://www.ittefaq.com.bd/business",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "লাইফস্টাইল",
-        "url": "https://www.ittefaq.com.bd/lifestyle",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/09/06/00ad32c51cd0173ad09d523a26f1dece-6135ddcc2a675.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "আইন-আদালত",
-        "url": "https://www.ittefaq.com.bd/law-and-court",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/10/09/c7334adebfdd082bda97a0e7640f5906-616195e051510.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.ittefaq.com.bd/news",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1x262914/uploads/media/2021/12/24/9d587438ef51fbfa3913edb31651ca21-61c55a8f91296.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "চ্যাটজিপিটিতে বিজ্ঞাপন দেখানোর পরিকল্পনা করছে ওপেনএআই",
@@ -2885,31 +2110,6 @@
         "headline": "২০২৬-এর ভয়ংকর পূর্বাভাস: এআইয়ের উত্থান, সঙ্গে ছাঁটাই ও নজরদারির শঙ্কা",
         "url": "https://www.ittefaq.com.bd/767246/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC-%E0%A6%8F%E0%A6%B0-%E0%A6%AD%E0%A7%9F%E0%A6%82%E0%A6%95%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B8-%E0%A6%8F%E0%A6%86%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/23/0e8c94e6cc3f9077b20f448d5ab31473-694a2f608f6b6.png?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "এবারও দেশের নাম্বার ওয়ান ফ্রিজ, এসি ও টিভি ব্র্যান্ড ওয়ালটন",
-        "url": "https://www.ittefaq.com.bd/767024/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8-%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%9C-%E0%A6%8F%E0%A6%B8%E0%A6%BF-%E0%A6%93-%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/21/59e7c9e232f5e8e0018bc4c773cbf7bd-6947e227f3b77.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "উস্কানিমূলক পোস্টের পর ইলিয়াস হোসেনের ফেসবুক পেজ সরিয়ে নিল মেটা",
-        "url": "https://www.ittefaq.com.bd/766802/%E0%A6%89%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B8-%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A7%87%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%95-%E0%A6%AA%E0%A7%87%E0%A6%9C",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/20/264472510bb6aa66ad3ac4b3c347d66f-69459e55bbf34.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "নিজের চিকিৎসা নিজেই করতে পারে বিশ্বের ক্ষুদ্রতম রোবট",
-        "url": "https://www.ittefaq.com.bd/766567/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%87-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%AE",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/18/0f1768c5166e4197ce97c0f675faf693-6943b4595fed1.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "২০০ মিটারের ব্যবধানে সংঘর্ষ এড়িয়েছে স্টারলিংক ও চীনা স্যাটেলাইট",
-        "url": "https://www.ittefaq.com.bd/766396/%E0%A7%A8%E0%A7%A6%E0%A7%A6-%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%8F%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%82%E0%A6%95-%E0%A6%93",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/17/6b15f62bde96070280582652dc6406fb-69423d67233cc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "১৬ ডিসেম্বর চালু হচ্ছে না ‘এনইআইআর’, নতুন ডেডলাইন ১ জানুয়ারি",
-        "url": "https://www.ittefaq.com.bd/766225/%E0%A7%A7%E0%A7%AC-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E2%80%98%E0%A6%8F%E0%A6%A8%E0%A6%87%E0%A6%86%E0%A6%87%E0%A6%86%E0%A6%B0%E2%80%99-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%A1%E0%A7%87%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/15/54f30b772a2ca931a861dc5fe9fb36dc-6940110634777.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       }
     ],
     "kaler_recent": [],
@@ -2927,99 +2127,9 @@
         "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
-        "headline": "পররাষ্ট্রনীতি যেভাবে দেউলিয়া হয়",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/GhsaNlUoqnmk/",
-        "image_url": "https://media.ndiganta.com/images/jsm_uddn_shb.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "আজকের পত্রিকা",
-        "url": "https://dailynayadiganta.com/printed/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "বাংলাদেশ",
-        "url": "https://dailynayadiganta.com/bangladesh/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "আন্তর্জাতিক",
-        "url": "https://dailynayadiganta.com/international/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://dailynayadiganta.com/economy/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://dailynayadiganta.com/latest#",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "লাইফস্টাইল",
-        "url": "https://dailynayadiganta.com/lifestyle/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "শিল্প ও সাহিত্য",
-        "url": "https://dailynayadiganta.com/arts-literature/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "বিজ্ঞান ও প্রযুক্তি",
-        "url": "https://dailynayadiganta.com/science-technology/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "আজকের পত্রিকা",
-        "url": "https://dailynayadiganta.com/printed/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "বাংলাদেশ",
-        "url": "https://dailynayadiganta.com/bangladesh/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "আন্তর্জাতিক",
-        "url": "https://dailynayadiganta.com/international/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "অর্থনীতি",
-        "url": "https://dailynayadiganta.com/economy/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://dailynayadiganta.com/latest#",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "লাইফস্টাইল",
-        "url": "https://dailynayadiganta.com/lifestyle/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "শিল্প ও সাহিত্য",
-        "url": "https://dailynayadiganta.com/arts-literature/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "বিজ্ঞান ও প্রযুক্তি",
-        "url": "https://dailynayadiganta.com/science-technology/",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
         "headline": "জাতীয় কাবাডির ফাইনালে পুরুষ বিভাগে বিজিবি-সেনাবাহিনী, নারী বিভাগে আনসার-পুলিশ",
         "url": "https://dailynayadiganta.com/sports/dTGZQPMym03s/",
         "image_url": "https://media.ndiganta.com/original_images/Kabadi_4zoeTaD.jpg"
-      },
-      {
-        "headline": "জাতির প্রত্যাশা পূরণে জামায়াতের মানবিক তৎপরতা অব্যাহত থাকবে",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/dtXISxdBubsK/",
-        "image_url": "https://media.ndiganta.com/original_images/Sylhet_City_Jamat_Pic-02-01-2026.jpg"
       },
       {
         "headline": "সিলেট প্রেস ক্লাবের নবনির্বাচিত নেতৃবৃন্দকে জামায়াতের অভিনন্দন",
@@ -3052,323 +2162,113 @@
         "image_url": "https://media.ndiganta.com/original_images/Hamid_pRvVnMd.jpg"
       },
       {
-        "headline": "অনলাইন ট্রাভেল অ্যাজেন্সির ব্যাংক গ্যারান্টি ১ কোটি টাকা",
-        "url": "https://dailynayadiganta.com/bangladesh/national/pZSsqXRSNiuq/",
-        "image_url": "https://media.ndiganta.com/original_images/Bangladesh-Govt_GkT4mOU.jpg"
-      },
-      {
         "headline": "সাভারে ব্যবসায়ীকে ২ চোখ উপড়ে ও লিঙ্গ কেটে হত্যা",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/hsFvI77JTTEv/",
         "image_url": "https://media.ndiganta.com/original_images/Murder02_vTcQ34I.jpg"
-      },
-      {
-        "headline": "কেশবপুরে ভ্যান ও মোটরসাইকেল দুর্ঘটনায় নিহত ২",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/jdkPiSxJ37Vw/",
-        "image_url": "https://media.ndiganta.com/original_images/accident_Zt5byQQ.JPG"
       }
     ],
     "amar_bangladesh": [
       {
-        "headline": "শুক্রবার, ০২ জানুয়ারি, ২০২৬",
-        "url": "https://www.amarsangbad.com/bangladesh#",
-        "image_url": null
+        "headline": "রাজধানীতে নারী পুলিশ সদস্যের মরদেহ উদ্ধার",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333543",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/dmch-20260102144806.jpg"
       },
       {
-        "headline": "আজকের পত্রিকা",
-        "url": "https://www.amarsangbad.com/ajkerpatrika",
-        "image_url": null
+        "headline": "নৌ উপদেষ্টাহাদির খুনিরা বিদেশে থাকলেও ফিরিয়ে এনে বিচার করা হবে",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333538",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/sakwat-20260102141650.jpg"
       },
       {
-        "headline": "Alternate Channel",
-        "url": "https://www.amarsangbad.com/bangladesh#",
-        "image_url": null
+        "headline": "কুয়াশার চাদরে ঘেরা রাজধানী, শীতে বিপর্যস্ত জনজীবন",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333457",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260102045244.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/bangladesh#",
-        "image_url": null
+        "headline": "গণভোটে ‘হ্যাঁ’ ও ‘না’ ভোটের প্রভাব নিয়ে প্রধান উপদেষ্টার বার্তা",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333539",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/vote-20260102142045.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/bangladesh#",
-        "image_url": null
+        "headline": "তথ্য সচিবজনগণের সাথে সরকারের সেতুবন্ধনে তথ্য কর্মকর্তাদের অগ্রণী ভূমিকা পালন করতে হবে",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333442",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/farzana-20260101151811.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/bangladesh#",
-        "image_url": null
+        "headline": "প্রেস সচিব শফিকুল আলমএবারের নির্বাচন হবে অংশগ্রহণমূলক ও বিশ্বাসযোগ্য",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333437",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/press-20260101143523.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/bangladesh#",
-        "image_url": null
+        "headline": "পররাষ্ট্র উপদেষ্টাভারতের পররাষ্ট্রমন্ত্রীর সফরটি ইতিবাচক",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333421",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/joy-20260101125345.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/bangladesh#",
-        "image_url": null
+        "headline": "দৈনিক আমার সংবাদ ও ডেইলি পোস্ট কার্যালয়ে দোয়া মাহফিল অনুষ্ঠিত",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333393",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/dowa-20260101104352.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/bangladesh#",
-        "image_url": null
+        "headline": "বাণিজ্য মেলায় বিআরটিসির শাটল বাস সার্ভিস শুরু ৩ জানুয়ারি",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333378",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/BRTC-20260101091008.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/bangladesh#",
-        "image_url": null
-      },
-      {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/rss/rss.xml",
-        "image_url": null
-      },
-      {
-        "headline": "বাংলাদেশ",
-        "url": "https://www.amarsangbad.com/bangladesh",
-        "image_url": null
-      },
-      {
-        "headline": "স্বাস্থ্য",
-        "url": "https://www.amarsangbad.com/bangladesh/health",
-        "image_url": null
-      },
-      {
-        "headline": "গণমাধ্যম",
-        "url": "https://www.amarsangbad.com/bangladesh/massmedia",
-        "image_url": null
-      },
-      {
-        "headline": "সারাবাংলা",
-        "url": "https://www.amarsangbad.com/country",
-        "image_url": null
-      },
-      {
-        "headline": "চট্টগ্রাম",
-        "url": "https://www.amarsangbad.com/country/chattogram",
-        "image_url": null
-      },
-      {
-        "headline": "ময়মনসিংহ",
-        "url": "https://www.amarsangbad.com/country/mymensing",
-        "image_url": null
-      },
-      {
-        "headline": "আন্তর্জাতিক",
-        "url": "https://www.amarsangbad.com/international",
-        "image_url": null
-      },
-      {
-        "headline": "জামায়াতে ইসলামী",
-        "url": "https://www.amarsangbad.com/politics/jamat",
-        "image_url": null
-      },
-      {
-        "headline": "জাতীয় পার্টি",
-        "url": "https://www.amarsangbad.com/politics/jatiyoparti",
-        "image_url": null
-      },
-      {
-        "headline": "আওয়ামী লীগ",
-        "url": "https://www.amarsangbad.com/politics/awamileague",
-        "image_url": null
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.amarsangbad.com/politics/politics-others",
-        "image_url": null
-      },
-      {
-        "headline": "অর্থ-বাণিজ্য",
-        "url": "https://www.amarsangbad.com/economy",
-        "image_url": null
-      },
-      {
-        "headline": "পুঁজিবাজার",
-        "url": "https://www.amarsangbad.com/economy/capital-market",
-        "image_url": null
-      },
-      {
-        "headline": "ব্যাংক বীমা",
-        "url": "https://www.amarsangbad.com/economy/bank-insurance",
-        "image_url": null
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.amarsangbad.com/economy/economy-others",
-        "image_url": null
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.amarsangbad.com/sports/sports-others",
-        "image_url": null
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.amarsangbad.com/entertainment/entrainment-others",
-        "image_url": null
-      },
-      {
-        "headline": "জীবনযাপন",
-        "url": "https://www.amarsangbad.com/lifestyle",
-        "image_url": null
-      },
-      {
-        "headline": "স্বাস্থ্য পরামর্শ",
-        "url": "https://www.amarsangbad.com/lifestyle/health-tips",
-        "image_url": null
+        "headline": "হাজারীবাগে যুবককে কুপিয়ে হত্যা",
+        "url": "https://www.amarsangbad.com/bangladesh/news/333357",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-9-20260101054351.jpg"
       }
     ],
     "amar_politics": [
       {
-        "headline": "শুক্রবার, ০২ জানুয়ারি, ২০২৬",
-        "url": "https://www.amarsangbad.com/politics#",
-        "image_url": null
+        "headline": "বিএনপির চেয়ারম্যান হচ্ছেন তারেক রহমান",
+        "url": "https://www.amarsangbad.com/politics/news/333550",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/tarel-20260102155741.jpg"
       },
       {
-        "headline": "আজকের পত্রিকা",
-        "url": "https://www.amarsangbad.com/ajkerpatrika",
-        "image_url": null
+        "headline": "কুমিল্লার নির্বাচনী মাঠে উত্তাপপ্রশাসন বিএনপির দিকে ঝুঁকে পড়েছে: হাসনাত আবদুল্লাহ",
+        "url": "https://www.amarsangbad.com/politics/news/333544",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/hasnatt-20260102155010.jpg"
       },
       {
-        "headline": "Alternate Channel",
-        "url": "https://www.amarsangbad.com/politics#",
-        "image_url": null
+        "headline": "সালাহউদ্দিন আহমদনিরপেক্ষ ভোটের মাধ্যমে গণতান্ত্রিক সরকার গঠনই মানুষের প্রত্যাশা",
+        "url": "https://www.amarsangbad.com/politics/news/333545",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/sale-20260102151140.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/politics#",
-        "image_url": null
+        "headline": "খালেদা জিয়ার মৃত্যু পরিকল্পিত হত্যাকাণ্ড: রুহুল কবির রিজভী",
+        "url": "https://www.amarsangbad.com/politics/news/333548",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/rizviii-20260102153729.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/politics#",
-        "image_url": null
+        "headline": "জনসমুদ্রে রূপ নিল জিয়া উদ্যান: প্রিয় নেত্রীর কবরের পাশে অশ্রুসিক্ত অগণিত মানুষ",
+        "url": "https://www.amarsangbad.com/politics/news/333546",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/udd-20260102151929.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/politics#",
-        "image_url": null
+        "headline": "আখতার হোসেনজামায়াতের সঙ্গে আসন নিয়ে আলোচনা চলছে",
+        "url": "https://www.amarsangbad.com/politics/news/333542",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/rang]-20260102144339.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/politics#",
-        "image_url": null
+        "headline": "জামায়াতের রেজাউলের চেয়ে ৭ গুণ বেশি আয় এ্যানির",
+        "url": "https://www.amarsangbad.com/politics/news/333537",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/any-vai]-20260102140806.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/politics#",
-        "image_url": null
+        "headline": "ইসলামী আন্দোলনের মহাসমাবেশ স্থগিত",
+        "url": "https://www.amarsangbad.com/politics/news/333533",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/islamu-20260102134607.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/politics#",
-        "image_url": null
+        "headline": "চার দফা দাবিতে ইনকিলাব মঞ্চের ‘মার্চ ফর ইনসাফ’ কর্মসূচি ঘোষণা",
+        "url": "https://www.amarsangbad.com/politics/news/333532",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/moink-20260102133912.jpg"
       },
       {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/politics#",
-        "image_url": null
-      },
-      {
-        "headline": "Amar Sangbad",
-        "url": "https://www.amarsangbad.com/rss/rss.xml",
-        "image_url": null
-      },
-      {
-        "headline": "বাংলাদেশ",
-        "url": "https://www.amarsangbad.com/bangladesh",
-        "image_url": null
-      },
-      {
-        "headline": "স্বাস্থ্য",
-        "url": "https://www.amarsangbad.com/bangladesh/health",
-        "image_url": null
-      },
-      {
-        "headline": "গণমাধ্যম",
-        "url": "https://www.amarsangbad.com/bangladesh/massmedia",
-        "image_url": null
-      },
-      {
-        "headline": "সারাবাংলা",
-        "url": "https://www.amarsangbad.com/country",
-        "image_url": null
-      },
-      {
-        "headline": "চট্টগ্রাম",
-        "url": "https://www.amarsangbad.com/country/chattogram",
-        "image_url": null
-      },
-      {
-        "headline": "ময়মনসিংহ",
-        "url": "https://www.amarsangbad.com/country/mymensing",
-        "image_url": null
-      },
-      {
-        "headline": "আন্তর্জাতিক",
-        "url": "https://www.amarsangbad.com/international",
-        "image_url": null
-      },
-      {
-        "headline": "জামায়াতে ইসলামী",
-        "url": "https://www.amarsangbad.com/politics/jamat",
-        "image_url": null
-      },
-      {
-        "headline": "জাতীয় পার্টি",
-        "url": "https://www.amarsangbad.com/politics/jatiyoparti",
-        "image_url": null
-      },
-      {
-        "headline": "আওয়ামী লীগ",
-        "url": "https://www.amarsangbad.com/politics/awamileague",
-        "image_url": null
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.amarsangbad.com/politics/politics-others",
-        "image_url": null
-      },
-      {
-        "headline": "অর্থ-বাণিজ্য",
-        "url": "https://www.amarsangbad.com/economy",
-        "image_url": null
-      },
-      {
-        "headline": "পুঁজিবাজার",
-        "url": "https://www.amarsangbad.com/economy/capital-market",
-        "image_url": null
-      },
-      {
-        "headline": "ব্যাংক বীমা",
-        "url": "https://www.amarsangbad.com/economy/bank-insurance",
-        "image_url": null
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.amarsangbad.com/economy/economy-others",
-        "image_url": null
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.amarsangbad.com/sports/sports-others",
-        "image_url": null
-      },
-      {
-        "headline": "অন্যান্য",
-        "url": "https://www.amarsangbad.com/entertainment/entrainment-others",
-        "image_url": null
-      },
-      {
-        "headline": "জীবনযাপন",
-        "url": "https://www.amarsangbad.com/lifestyle",
-        "image_url": null
-      },
-      {
-        "headline": "স্বাস্থ্য পরামর্শ",
-        "url": "https://www.amarsangbad.com/lifestyle/health-tips",
-        "image_url": null
+        "headline": "খালেদা জিয়া থেকে জাইমার সঙ্গী সেই ফাতেমা",
+        "url": "https://www.amarsangbad.com/politics/news/333530",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/fatema-20260102133008.jpg"
       }
     ]
   }

@@ -1,6 +1,18 @@
 {
-  "fetched_at": "2026-01-02T16:30:59.020071+00:00",
+  "fetched_at": "2026-01-02T16:36:09.712559+00:00",
   "stories": [
+    {
+      "headline": "চাঁদার না দেওয়ায় ব্যবসায়ীর বাড়ি লক্ষ্য করে সন্ত্রাসীদের গুলি",
+      "url": "https://www.prothomalo.com/video/bangladesh/ekcscc1xit",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/n1asz8bb/YT-GFX.00065618.Still013.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/n1asz8bb/YT-GFX.00065618.Still013.jpg?auto=format,compress"
+    },
+    {
+      "headline": "কবর জিয়ারতে জিয়া উদ্যানে দলীয় নেতা–কর্মী ও সাধারণ মানুষের ভিড়",
+      "url": "https://www.prothomalo.com/video/bangladesh/bpfrrq5r4x",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/3mmli2hx/Zia-Uddan.00031307.Still002.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/3mmli2hx/Zia-Uddan.00031307.Still002.jpg?auto=format,compress"
+    },
     {
       "headline": "ইসরায়েল-সমর্থিত নির্বাহী আদেশ বাতিল করে মামদানির যাত্রা শুরু",
       "url": "https://www.prothomalo.com/world/usa/l78mmgc9rd",
@@ -228,18 +240,6 @@
       "url": "https://www.prothomalo.com/opinion/column/hg7t2totuv",
       "image_s3_key": "prothomalo-bangla/2025-12-31/eytos2n9/৫.jfif",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-31/eytos2n9/৫.jfif?auto=format,compress"
-    },
-    {
-      "headline": "খালেদা জিয়ার কবর জিয়ারতে নাতনি জাইমাসহ পরিবারের সদস্যরা",
-      "url": "https://www.prothomalo.com/video/bangladesh/dj4c1ktcbl",
-      "image_s3_key": "prothomalo-bangla/2026-01-02/oh0pvifp/BARTA-SHONKHEP.psd-01.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/oh0pvifp/BARTA-SHONKHEP.psd-01.jpg?auto=format,compress"
-    },
-    {
-      "headline": "শুক্রবারেও খালেদা জিয়ার কবর জিয়ারতে অগণিত মানুষের ভিড়",
-      "url": "https://www.prothomalo.com/video/bangladesh/2kucybisb6",
-      "image_s3_key": "prothomalo-bangla/2026-01-02/s9juhjme/YT-GFX.00061316.Still011.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/s9juhjme/YT-GFX.00061316.Still011.jpg?auto=format,compress"
     }
   ]
 }
