@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-01-02T14:55:16.101575+00:00",
+  "fetched_at": "2026-01-02T15:09:33.072380+00:00",
   "stories": [
+    {
+      "headline": "নিউইয়র্কের প্রথম মুসলিম মেয়র মামদানির ঐতিহাসিক অভিষেক",
+      "url": "https://www.prothomalo.com/video/international/b2m7jn1qxl",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/x0dzepu7/THUMNAILWEB.jpg",
+      "image_url": "https://images.prothomalo.com/prothomalo-bangla/2026-01-02/x0dzepu7/THUMNAILWEB.jpg"
+    },
+    {
+      "headline": "কুয়াশা কাটবে কবে, তা জানাল আবহাওয়া অফিস",
+      "url": "https://www.prothomalo.com/video/bangladesh/wh445uf1sn",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/s8vx4cqj/কুয়াশা-কাটবে-কবে-তা-জানাল-আবহাওয়া-অফিস.00020905.Still002.jpg",
+      "image_url": "https://images.prothomalo.com/prothomalo-bangla/2026-01-02/s8vx4cqj/কুয়াশা-কাটবে-কবে-তা-জানাল-আবহাওয়া-অফিস.00020905.Still002.jpg"
+    },
+    {
+      "headline": "২০২৫ সালে শুক্রবারের সর্বাধিক পঠিত ১০ লেখা",
+      "url": "https://www.prothomalo.com/lifestyle/d6btqlflkg",
+      "image_s3_key": "prothomalo-bangla/2025-08-06/vd757q6r/20250804SA0004.jpg",
+      "image_url": "https://images.prothomalo.com/prothomalo-bangla/2025-08-06/vd757q6r/20250804SA0004.jpg"
+    },
     {
       "headline": "স্টোকসের সাফ কথা, ম্যাককালাম ছাড়া ইংল্যান্ড কল্পনা করা যায় না",
       "url": "https://www.prothomalo.com/sports/cricket/keno1q80kx",
@@ -222,24 +240,6 @@
       "url": "https://www.prothomalo.com/bangladesh/district/c0uwtdp78h",
       "image_s3_key": "prothomalo-bangla/2026-01-02/r11gugrb/KurigramDH160420260102FBIMG1767337033556.jpg",
       "image_url": "https://images.prothomalo.com/prothomalo-bangla/2026-01-02/r11gugrb/KurigramDH160420260102FBIMG1767337033556.jpg"
-    },
-    {
-      "headline": "মানিকগঞ্জে খেজুরের রস খেয়ে মোটরসাইকেলে বাড়ি ফেরার পথে নিহত দুই কিশোর",
-      "url": "https://www.prothomalo.com/bangladesh/district/mwkxd57wxe",
-      "image_s3_key": "prothomalo-bangla/2025-12-12/hejp5ud1/road_accident_02.png",
-      "image_url": "https://images.prothomalo.com/prothomalo-bangla/2025-12-12/hejp5ud1/road_accident_02.png"
-    },
-    {
-      "headline": "বগুড়া-২ আসনে মাহমুদুর রহমান মান্নার মনোনয়নপত্র বাতিল",
-      "url": "https://www.prothomalo.com/bangladesh/district/r1l5zwrcg4",
-      "image_s3_key": "prothomalo-bangla/2026-01-02/spmj8jsf/Manna.jpg",
-      "image_url": "https://images.prothomalo.com/prothomalo-bangla/2026-01-02/spmj8jsf/Manna.jpg"
-    },
-    {
-      "headline": "কেন আলট্রা প্রসেসড ফুড খাবেন না",
-      "url": "https://www.prothomalo.com/lifestyle/health/2b9gsyac3o",
-      "image_s3_key": "prothomalo-bangla/2022-05/363dc0d1-01c7-4cbb-a822-3466cb3666c8/noodles.jpg",
-      "image_url": "https://images.prothomalo.com/prothomalo-bangla/2022-05/363dc0d1-01c7-4cbb-a822-3466cb3666c8/noodles.jpg"
     }
   ]
 }
