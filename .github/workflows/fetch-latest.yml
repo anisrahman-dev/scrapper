@@ -96,14 +96,16 @@ jobs:
                           published_at = None
                   summary = story.get("summary") or story.get("seo", {}).get("meta-description")
                   key = image_key(story)
-                  stories.append({
-                      "headline": headline,
-                      "url": story.get("url"),
-                      "published_at": published_at,
-                      "summary": summary,
-                      "image_s3_key": key,
-                      "image_url": image_url_from_key(key),
-                  })
+                  # Skip very short headlines (noise)
+                  if headline and len(headline) >= 22:
+                      stories.append({
+                          "headline": headline,
+                          "url": story.get("url"),
+                          "published_at": published_at,
+                          "summary": summary,
+                          "image_s3_key": key,
+                          "image_url": image_url_from_key(key),
+                      })
               return stories
 
           # ---- Other sites HTML scrape (domain-filtered anchors, better image attrs) ----
@@ -209,7 +211,7 @@ jobs:
               def handle_anchor(a):
                   href = a.get("href")
                   text = a.get_text(strip=True)
-                  if not href or not text or len(text) < 8:
+                  if not href or not text or len(text) < 22:
                       return None
                   if not same_domain(href, conf["domain"]):
                       return None
