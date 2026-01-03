@@ -1,7 +1,31 @@
 {
-  "fetched_at": "2026-01-03T18:53:35.356510+00:00",
+  "fetched_at": "2026-01-03T19:15:27.063028+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "শাহজাহানপুরে এক ব্যক্তির অস্বাভাবিক মৃত্যু",
+        "url": "https://www.prothomalo.com/bangladesh/crime/nrvd7gpl8f",
+        "published_at": "2026-01-03T19:08:04.797000+00:00",
+        "summary": "শনিবার দুপুরে শাহজাহানপুরের গুলবাগ এলাকায় বড় ভাইয়ের বাড়িতে যান শাফিউল হক। এ সময় বাড়িতে চোর ঢুকলে তাঁরা ধাওয়া দিয়ে চোরকে ধরে ফেলেন।",
+        "image_s3_key": "prothomalo-bangla/2023-09/cde1e604-9c5b-40a3-a9ad-a9d94bd91f88/death.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-09/cde1e604-9c5b-40a3-a9ad-a9d94bd91f88/death.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আটক মাদুরোর ছবি প্রকাশ করলেন ট্রাম্প",
+        "url": "https://www.prothomalo.com/world/jjughy2lta",
+        "published_at": "2026-01-03T18:57:12.712000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png?auto=format,compress"
+      },
+      {
+        "headline": "বাংলাদেশে আইপিএল সম্প্রচার বন্ধ করতে বললেন আসিফ নজরুল ",
+        "url": "https://www.prothomalo.com/sports/cricket/aefe8yrh14",
+        "published_at": "2026-01-03T18:54:47.461000+00:00",
+        "summary": "বিসিসিআইয়ের নির্দেশে বাংলাদেশের পেসার মোস্তাফিজুর রহমানকে বাদ দিয়েছে আইপিএল দল কলকাতা নাইট রাইডার্স। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-03/u49jmueh/Mustafiz-rest1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/u49jmueh/Mustafiz-rest1.jpg?auto=format,compress"
+      },
       {
         "headline": "সুন্দরবনে হরিণ শিকারের ফাঁদে আটকা পড়েছে বাঘ",
         "url": "https://www.prothomalo.com/bangladesh/district/tkhre76ztr",
@@ -41,14 +65,6 @@
         "summary": "নতুন বছরে নতুন ওয়েব সিনেমা নিয়ে দর্শকের সামনে আসছেন সাদিয়া আয়মান। ",
         "image_s3_key": "prothomalo-bangla/2026-01-03/6ulc0m40/sadiaaayman176727684238005160744038890262238154025.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/6ulc0m40/sadiaaayman176727684238005160744038890262238154025.jpg?auto=format,compress"
-      },
-      {
-        "headline": "আটক মাদুরোর ছবি প্রকাশ করলেন ট্রাম্প",
-        "url": "https://www.prothomalo.com/world/jjughy2lta",
-        "published_at": "2026-01-03T18:04:54.681000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png?auto=format,compress"
       },
       {
         "headline": "তারেক রহমানের সঙ্গে  হিন্দু বৌদ্ধ খ্রিস্টান ঐক্য পরিষদের নেতাদের সাক্ষাৎ",
@@ -171,20 +187,20 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/0v9etiym/০১.jpg?auto=format,compress"
       },
       {
-        "headline": "স্থাপত্য আলোকচিত্রী আসিফ সালমানের তোলা ১০টি ছবি",
-        "url": "https://www.prothomalo.com/lifestyle/travel/ep2vxuvvm9",
-        "published_at": "2026-01-03T16:30:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-03/6nch95gc/1__The_Courtyards_Give_Shape_to_Attendant_Forms.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/6nch95gc/1__The_Courtyards_Give_Shape_to_Attendant_Forms.jpg?auto=format,compress"
-      },
-      {
         "headline": "রাজনৈতিক স্থিতিশীলতা ও নীতি ধারাবাহিকতা চায় ঢাকা চেম্বার",
         "url": "https://www.prothomalo.com/business/industry/savhm9zc6d",
         "published_at": "2026-01-03T16:30:00+00:00",
         "summary": "আজ শনিবার এক সংবাদ বিজ্ঞপ্তিতে নতুন বছর ঘিরে এই প্রত্যাশার কথা তুলে ধরেছে বাণিজ্য সংগঠনটি। পাশাপাশি শান্তিপূর্ণ, অংশগ্রহণমূলক ও গ্রহণযোগ্য নির্বাচন নিশ্চিতের আহ্বান জানিয়েছে ঢাকা চেম্বার।  ",
         "image_s3_key": "prothomalo-bangla/2021-08/503abfa6-015e-4bf3-b101-b1d06db87c7b/Untitled_11.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-08/503abfa6-015e-4bf3-b101-b1d06db87c7b/Untitled_11.jpg?auto=format,compress"
+      },
+      {
+        "headline": "স্থাপত্য আলোকচিত্রী আসিফ সালমানের তোলা ১০টি ছবি",
+        "url": "https://www.prothomalo.com/lifestyle/travel/ep2vxuvvm9",
+        "published_at": "2026-01-03T16:30:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-03/6nch95gc/1__The_Courtyards_Give_Shape_to_Attendant_Forms.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/6nch95gc/1__The_Courtyards_Give_Shape_to_Attendant_Forms.jpg?auto=format,compress"
       },
       {
         "headline": "সমাবর্তনে উৎসবমুখর সিলেটের লিডিং ইউনিভার্সিটি",
@@ -299,22 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/zy4lwfmk/Maduro.avif?auto=format,compress"
       },
       {
-        "headline": "এবার অভিনেতা এ আর রাহমান! প্রভু দেবার সঙ্গে বড় চমক",
-        "url": "https://www.prothomalo.com/entertainment/song/1oqft5nvnd",
-        "published_at": "2026-01-03T15:35:12.162000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-03/xuzlxvij/WhatsApp-Image-2026-01-03-at-9.27.45-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/xuzlxvij/WhatsApp-Image-2026-01-03-at-9.27.45-PM.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "শিক্ষার্থীদের জন্য বিকাশের কর্মক্ষেত্রমুখী কর্মসূচি",
-        "url": "https://www.prothomalo.com/business/44p6ah29qx",
-        "published_at": "2026-01-03T15:32:34.384000+00:00",
-        "summary": "বিশ্ববিদ্যালয়ের দ্বিতীয় ও তৃতীয় বর্ষের শিক্ষার্থীদের করপোরেট খাতের সঙ্গে আগেভাগেই যুক্ত হওয়ার সুযোগ তৈরি করে দিতে ‘বি হাইভ’ নামে নতুন একটি কর্মসূচি চালু করেছে বিকাশ।",
-        "image_s3_key": "prothomalo-bangla/2026-01-03/9zzu6ihx/Untitled-2.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/9zzu6ihx/Untitled-2.png?auto=format,compress"
-      },
-      {
         "headline": "আইপিএলে মুস্তাফিজকে নিয়ে যা হয়েছে সেটা ন‍্যাক্কারজনক : ফারুকী",
         "url": "https://www.bd-pratidin.com/national/2026/01/04/1200042",
         "published_at": "2026-01-04T00:29:57+06:00",
@@ -385,6 +385,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/03/og/1767455020-1046974a7f4579dce61d67ab380c32db.jpg"
       },
       {
+        "headline": "মাদুরোর আটকাবস্থার ছবি প্রকাশ ট্রাম্পের",
+        "url": "https://www.ittefaq.com.bd/768809/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%B0-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%9B%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "ট্রাম্প ‘ট্রুথ সোশ্যাল’-এ নতুন একটি ছবি শেয়ার করেছেন। সেখানে তিনি দাবি করেছেন, ‘ইউএসএস ইও জিমার বোর্ডে নিকোলাস মাদুরো’।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/04/7d6702d8095852f756004ea575822fdd-69595fafb91db.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "মুস্তাফিজ ইস্যুতে আইসিসিকে চিঠি দিতে যাচ্ছে বিসিবি",
         "url": "https://www.ittefaq.com.bd/768808/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%9C-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%BF%E0%A6%A0%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF",
         "published_at": null,
@@ -448,13 +455,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/03bc52e6c33ddabcdfba0643bae79cb0-695938aeb557e.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
-        "headline": "দুর্ঘটনার মূল কারণ রাস্তার অভাব নয়, বিশৃঙ্খলা ও অনিয়ম: সড়ক পরিবহন উপদেষ্টা",
-        "url": "https://www.ittefaq.com.bd/768797/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BE%E0%A6%AC-%E0%A6%A8%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%83%E0%A6%99%E0%A7%8D%E0%A6%96%E0%A6%B2%E0%A6%BE-%E0%A6%93",
-        "published_at": null,
-        "summary": "সড়ক পরিবহন ও সেতু উপদেষ্টা মুহাম্মদ ফাওজুল কবির খান বলেছেন, ‌‘দুর্ঘটনার মূল কারণ রাস্তার অভাব নয়, বরং বিশৃঙ্খলা ও নিয়ম না মানা। শৃঙ্খলা নিশ্চিত করতে এবং নিরাপদ যাত্রা নিশ্চিত করতেই বুয়েটের তৈরি এই ই-রিকশা পাইলট প্রকল্প হিসেবে চালু করা হয়েছে। দ্রুত এটি পুরো ঢাকায় সম্প্রসারণ করা হবে।’",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/d2352e2230dfc6e74734681f89cf9c0c-6959367576431.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
         "headline": "জাতীয় নির্বাচনজোট মেরুকরণে সঙ্কট ও সম্ভাবনা",
         "url": "https://dailynayadiganta.com/bangladesh/politics/pRZtrgubqYlo/",
         "published_at": null,
@@ -469,46 +469,67 @@
         "image_url": "https://media.ndiganta.com/images/Dr-Mizan-1.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
-        "headline": "ভারতে বাংলাদেশ দলের নিরাপত্তা হুমকি, জরুরি সভায় বিসিবি",
-        "url": "https://dailynayadiganta.com/video/cbMEdB8FuypA/",
+        "headline": "সম্ভাবনার ইঙ্গিত দিয়ে মিশ্র আচরণে গত সপ্তাহের পুঁজিবাজার",
+        "url": "https://dailynayadiganta.com/printed-edition/s4gX03piZQxc/",
         "published_at": null,
-        "summary": null,
+        "summary": "নতুন বছরের প্রথম দিনের বাজার আচরণকে খুবই ইতিবাচক মনে করছেন বাজারের সবগুলো স্টেক হোল্ডার",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "ভাঙন ঠেকাতে ব্যর্থ হলে সাংগঠনিকভাবে শক্তিহীন হয়ে পড়তে পারে এনসিপি",
-        "url": "https://dailynayadiganta.com/video/BCbLuu2YPnNl/",
+        "headline": "ফয়সালের ভিডিও বার্তা পরীক্ষা নিরীক্ষা চলছে : ডিএমপি কমিশনার",
+        "url": "https://dailynayadiganta.com/printed-edition/KEtfivpXZk1D/",
         "published_at": null,
-        "summary": null,
+        "summary": "ইনকিলাব মঞ্চের মুখপাত্র শহীদ শরিফ ওসমান হাদি হত্যাকাণ্ডের মামলার মূল আসামি ফয়সালের দু’টি ভিডিও বার্তা পরীক্ষা-নিরীক্ষা করছে ঢাকা মেট্রোপলিটন পুলিশ (ডিএমপি)। তবে তদন্ত শেষ না হওয়া পর্যন্ত এ বিষয়ে কোনো মন্তব্য করা হবে না বলে জানিয়েছেন ডিএমপি কমিশনার শেখ মো: সাজ্জাত আলী। গতকাল ঢাকা রিপোর্টার্স ইউনিটিতে (ডিআরইউ) ‘এ-ফোর বসুন্ধরা পেপার ক্র্যাব বেস্ট রিপোর্টিং অ্যাওয়ার্ড-২০২৫’ অনুষ্ঠানে তিনি এ কথা জানান",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "একনজরে বিশ্বের আলোচিত সংবাদ",
-        "url": "https://dailynayadiganta.com/video/3SvpbrfLT1uM/",
+        "headline": "রাজধানীতে মাদক ও অস্ত্রসহ গ্রেফতার ৯৮",
+        "url": "https://dailynayadiganta.com/printed-edition/juM0Cs4PwgKv/",
         "published_at": null,
-        "summary": null,
+        "summary": "রাজধানীতে অবৈধ অস্ত্র উদ্ধার, আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণ ও ফ্যাসিস্টদের দমনে অপারেশন ডেভিল হান্ট ফেইজ-২ এর বিশেষ অভিযান পরিচালনা করে বিভিন্ন অপরাধে জড়িত ৯৮ জনকে গ্রেফতার করেছে ঢাকা মহানগর পুলিশের (ডিএমপি) শেরেবাংলা নগর, মিরপুর, যাত্রাবাড়ী, দারুসসালাম ও রূপনগর থানা পুলিশ। গতকাল শনিবার ডিএমপির মিডিয়া বিভাগ থেকে এসব তথ্য জানানো হয়।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "ভারতে নয়, শ্রীলঙ্কায় বাংলাদেশের বিশ্বকাপ খেলার প্রস্তাব করেছি : আসিফ নজরুল",
+        "headline": "ঢাকা-৭ এ কবি সাহানা সুলতানার মনোনয়নপত্র বৈধ",
+        "url": "https://dailynayadiganta.com/printed-edition/nDEwLZKnSkH9/",
+        "published_at": null,
+        "summary": "ঢাকা রিটার্নিং অফিসার কার্যালয়ে বিভাগীয় কমিশনার গতকাল ঢাকা ও ত্রয়োদশ জাতীয় সংসদ নির্বাচন ২০২৬ এর রিটার্নিং অফিসার শরফ উদ্দিন আহমেদ চৌধুরী যাচাই-বাছাই করে ১৮০, ঢাকা-৭ আসনে শাহানা সেলিম (কবি সাহানা সুলতানা) কে বৈধ প্রার্থী হিসেবে ঘোষণা করেছেন।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-5_OJdeMaN.jpg"
+      },
+      {
+        "headline": "বাংলাদেশ ব্যাংকের পরিচালক হলেন মাহমুদুন নবী",
+        "url": "https://dailynayadiganta.com/printed-edition/J3gmtOPfaBDt/",
+        "published_at": null,
+        "summary": "বাংলাদেশ ব্যাংকের পরিচালক হিসেবে পদোন্নতি পেলেন মাহমুদুন নবী। এর আগে তিনি একই প্রতিষ্ঠানের ব্যাংকিং প্রবিধি ও নীতি বিভাগ-২ (বিআরপিডি) এ অতিরিক্ত পরিচালক হিসেবে দায়িত্ব পালন করেন। গত বৃহস্পতিবার বাংলাদেশ ব্যাংক থেকে তাকে পদোন্নতি দিয়ে মানবসম্পদ বিভাগে সংযুক্ত করা হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-4_zrPfk2i.jpg"
+      },
+      {
+        "headline": "অবকাশ শেষে আজ খুলছে সুপ্রিম কোর্ট",
+        "url": "https://dailynayadiganta.com/printed-edition/Mzid6quzXTpq/",
+        "published_at": null,
+        "summary": "অর্ধমাসব্যাপী অবকাশকালীন ছুটি শেষে আজ রোববার থেকে পুনরায় নিয়মিত বিচারিক কার্যক্রমে ফিরছে দেশের সর্বোচ্চ আদালত সুপ্রিম কোর্ট। গত ১৮ ডিসেম্বর থেকে শুরু হওয়া এ ছুটির অবসান ঘটিয়ে কাল সকাল থেকেই আপিল ও হাইকোর্ট উভয় বিভাগে বিচারকাজ শুরু হবে।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "আন্তর্জাতিক আলোকচিত্র উৎসব ছবিমেলা শুরু ১৬ জানুয়ারি",
+        "url": "https://dailynayadiganta.com/printed-edition/WB3mh4TOhfnB/",
+        "published_at": null,
+        "summary": "আন্তর্জাতিক আলোকচিত্র উৎসব ছবিমেলা শুরু হচ্ছে ১৬ জানুয়ারি। এটি হবে এই উৎসবের ১১তম আসর। গতকাল সকালে পান্থপথের দৃকপাঠ ভবনে আয়োজিত এক সংবাদ সম্মেলনে এসব তথ্য জানানো হয়। এতে বক্তব্য দেন উৎসবের প্রতিষ্ঠাতা ও প্রধান উপদেষ্টা শহিদুল আলম এবং উৎসব পরিচালক এ এস এম রেজাউর রহমান। দৃক পিকচার লাইব্রেরি ও পাঠশালা সাউথ এশিয়ান মিডিয়া ইনস্টিটিউট যৌথভাবে দুই বছর পরপর ২০০০ সাল থেকে এ আয়োজন করে আসছে।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-3_dgaZEzp.jpg"
+      },
+      {
+        "headline": "সিরাজদিখানে সাধু যোসেফ গির্জা পরিদর্শন পররাষ্ট্র উপদেষ্টার",
+        "url": "https://dailynayadiganta.com/printed-edition/Xck1Te5fwtzn/",
+        "published_at": null,
+        "summary": "মুন্সীগঞ্জের সিরাজদিখানে ঐতিহ্যবাহী সাধু যোসেফ গির্জা পরিদর্শন করেছেন পররাষ্ট্র উপদেষ্টা মোহাম্মদ তৌহিদ হোসেন। গত শুক্রবার উপজেলার কেয়াইন ইউনিয়নের শুলপুর গ্রামে অবস্থিত গির্জা প্রাঙ্গণে পৌঁছান পররাষ্ট্র উপদেষ্টা।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-2_0k3xiSt.jpg"
+      },
+      {
+        "headline": "আইপিএল সম্প্রচার বন্ধের অনুরোধভারতে নয়, শ্রীলঙ্কায় বাংলাদেশের বিশ্বকাপ খেলার প্রস্তাব করেছি : আসিফ নজরুল",
         "url": "https://dailynayadiganta.com/bangladesh/national/zmEcMqQYxBcq/",
         "published_at": null,
         "summary": "‘উগ্র সাম্প্রদায়িক গোষ্ঠীর কাছে নতি স্বীকার করে বাংলাদেশের ক্রিকেটার মোস্তাফিজুর রহমানকে দল থেকে বাদ দেয়ার জন্য কলকাতা নাইট রাইডার্সকে নির্দেশ দিয়েছে ভারতের ক্রিকেট বোর্ড। আমি এর তীব্র নিন্দা ও প্রতিবাদ জানাচ্ছি।’",
         "image_url": "https://media.ndiganta.com/original_images/Asif-Nazrul_jgrZVH1.jpg"
-      },
-      {
-        "headline": "ক্ষমতার পরিবর্তন না হওয়া পর্যন্ত আমরা ভেনিজুয়েলা চালাব :  ট্রাম্প",
-        "url": "https://dailynayadiganta.com/international/america/fdgHuEXEWQ3f/",
-        "published_at": null,
-        "summary": "‘বিশ্বের আর কোনো দেশ এমন অভিযান চালাতে পারত না, যা যুক্তরাষ্ট্র করে দেখিয়েছে। অল্প সময়ের মধ্যেই ভেনিজুয়েলার সামরিক শক্তিকে কার্যত অচল করে দেয়া হয়। আমাদের সাথে যুক্ত হয়ে ভেনিজুয়েলার সামরিক ও আইনশৃঙ্খলা বাহিনীর কিছু সদস্য গভীর রাতে অত্যন্ত সফলভাবে মাদুরোকে আটক করেছে।’",
-        "image_url": "https://media.ndiganta.com/original_images/Trump_IoATL9e.jpg"
-      },
-      {
-        "headline": "ভারতে বিশ্বকাপ খেলতে না যাওয়ার হুমকি দিলেন মিঠুন",
-        "url": "https://dailynayadiganta.com/sports/cricket/4U8Guwnm2b1w/",
-        "published_at": null,
-        "summary": "‘কয়েকটি উগ্র ধর্মীয় সংগঠনের অতিউৎসাহী মন্তব্যের জেরে বিসিসিআই ও কেকেআর যে সিদ্ধান্ত নিলো, তারপরও কি বাংলাদেশের ভারতের মাটিতে গিয়ে বিশ্বকাপ খেলা উচিত?’",
-        "image_url": "https://media.ndiganta.com/original_images/Mithun.jpg"
       },
       {
         "headline": "‘আমরা থানা পুড়িয়েছি’ বলা সেই ছাত্রনেতা গ্রেফতার",
@@ -516,13 +537,6 @@
         "published_at": null,
         "summary": "এদিকে, হবিগঞ্জের শায়েস্তাগঞ্জ থানার ভারপ্রাপ্ত কর্মকর্তাকে (ওসি) প্রকাশ্যে হুমকি দেয়ায় বৈষম্যবিরোধী ছাত্র আন্দোলনের হবিগঞ্জ জেলার সদস্যসচিব মাহদী হাসানকে কারণ দর্শানোর (শোকজ) চিঠি দেয়া হয়েছে।",
         "image_url": "https://media.ndiganta.com/original_images/Arrest_8t6abog.jpg"
-      },
-      {
-        "headline": "রোববার আইসিসিকে চিঠি দেবে বিসিবি",
-        "url": "https://dailynayadiganta.com/sports/cricket/IL5GXIW0xcmF/",
-        "published_at": null,
-        "summary": "মূলত, আইসিসির সিকিউরিটি ইউনিটকে মেইল করবে বিসিবি। যেখানে প্রথমে জানতে চাইবে ক্রিকেটারদের নিরাপত্তার বিষয়, এরপর মোস্তাফিজের সাথে ঘটে যাওয়া বিষয়। একইসাথে খেলোয়াড় ছাড়াও বোর্ড পরিচালক ও অন্য সদস্যদের নিরাপত্তা নিয়ে জানতে চাইবে বিসিবি। যুক্ত থাকবে দর্শক এবং সাংবাদিকদের নিরাপত্তার বিষয়ও।",
-        "image_url": "https://media.ndiganta.com/original_images/BCB_a7zfQrW.jpg"
       },
       {
         "headline": "ছাত্রদল সভাপতি রাকিবআপসহীন রাজনীতির প্রতীক ছিলেন খালেদা জিয়া",
@@ -570,7 +584,7 @@
         "headline": "আজকের সর্বশেষ খবর - January 04, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "বৈষম্যবিরোধী ছাত্র আন্দোলনের হবিগঞ্জ জেলা শাখার সাধারণ সম্পাদক মাহদী হাসানকে গ্রেফতারের প্রতিবাদে রাজধানীর শাহবাগ মোড় অবরোধ করেছেন সংগঠনটির নেতাকর্মীরা। ...",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ঢাকা নগরীর ১৫টি সংসদীয় আসনে ১৯৪ টি মনোনয়নপত্রের বাছাই শেষে ১৩১ জনের মনোনয়নপত্র বৈধ ঘোষণা করা ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -579,6 +593,71 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "এবার অভিনেতা এ আর রাহমান! প্রভু দেবার সঙ্গে বড় চমক",
+        "url": "https://www.prothomalo.com/entertainment/song/1oqft5nvnd",
+        "published_at": "2026-01-03T15:35:12.162000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-03/xuzlxvij/WhatsApp-Image-2026-01-03-at-9.27.45-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/xuzlxvij/WhatsApp-Image-2026-01-03-at-9.27.45-PM.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "শিক্ষার্থীদের জন্য বিকাশের কর্মক্ষেত্রমুখী কর্মসূচি",
+        "url": "https://www.prothomalo.com/business/44p6ah29qx",
+        "published_at": "2026-01-03T15:32:34.384000+00:00",
+        "summary": "বিশ্ববিদ্যালয়ের দ্বিতীয় ও তৃতীয় বর্ষের শিক্ষার্থীদের করপোরেট খাতের সঙ্গে আগেভাগেই যুক্ত হওয়ার সুযোগ তৈরি করে দিতে ‘বি হাইভ’ নামে নতুন একটি কর্মসূচি চালু করেছে বিকাশ।",
+        "image_s3_key": "prothomalo-bangla/2026-01-03/9zzu6ihx/Untitled-2.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/9zzu6ihx/Untitled-2.png?auto=format,compress"
+      },
+      {
+        "headline": "দুর্ঘটনার মূল কারণ রাস্তার অভাব নয়, বিশৃঙ্খলা ও অনিয়ম: সড়ক পরিবহন উপদেষ্টা",
+        "url": "https://www.ittefaq.com.bd/768797/%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BE%E0%A6%AC-%E0%A6%A8%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%83%E0%A6%99%E0%A7%8D%E0%A6%96%E0%A6%B2%E0%A6%BE-%E0%A6%93",
+        "published_at": null,
+        "summary": "সড়ক পরিবহন ও সেতু উপদেষ্টা মুহাম্মদ ফাওজুল কবির খান বলেছেন, ‌‘দুর্ঘটনার মূল কারণ রাস্তার অভাব নয়, বরং বিশৃঙ্খলা ও নিয়ম না মানা। শৃঙ্খলা নিশ্চিত করতে এবং নিরাপদ যাত্রা নিশ্চিত করতেই বুয়েটের তৈরি এই ই-রিকশা পাইলট প্রকল্প হিসেবে চালু করা হয়েছে। দ্রুত এটি পুরো ঢাকায় সম্প্রসারণ করা হবে।’",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/d2352e2230dfc6e74734681f89cf9c0c-6959367576431.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
+        "headline": "ভারতে বাংলাদেশ দলের নিরাপত্তা হুমকি, জরুরি সভায় বিসিবি",
+        "url": "https://dailynayadiganta.com/video/cbMEdB8FuypA/",
+        "published_at": null,
+        "summary": null,
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "ভাঙন ঠেকাতে ব্যর্থ হলে সাংগঠনিকভাবে শক্তিহীন হয়ে পড়তে পারে এনসিপি",
+        "url": "https://dailynayadiganta.com/video/BCbLuu2YPnNl/",
+        "published_at": null,
+        "summary": null,
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "একনজরে বিশ্বের আলোচিত সংবাদ",
+        "url": "https://dailynayadiganta.com/video/3SvpbrfLT1uM/",
+        "published_at": null,
+        "summary": null,
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "ক্ষমতার পরিবর্তন না হওয়া পর্যন্ত আমরা ভেনিজুয়েলা চালাব :  ট্রাম্প",
+        "url": "https://dailynayadiganta.com/international/america/fdgHuEXEWQ3f/",
+        "published_at": null,
+        "summary": "‘বিশ্বের আর কোনো দেশ এমন অভিযান চালাতে পারত না, যা যুক্তরাষ্ট্র করে দেখিয়েছে। অল্প সময়ের মধ্যেই ভেনিজুয়েলার সামরিক শক্তিকে কার্যত অচল করে দেয়া হয়। আমাদের সাথে যুক্ত হয়ে ভেনিজুয়েলার সামরিক ও আইনশৃঙ্খলা বাহিনীর কিছু সদস্য গভীর রাতে অত্যন্ত সফলভাবে মাদুরোকে আটক করেছে।’",
+        "image_url": "https://media.ndiganta.com/original_images/Trump_IoATL9e.jpg"
+      },
+      {
+        "headline": "ভারতে বিশ্বকাপ খেলতে না যাওয়ার হুমকি দিলেন মিঠুন",
+        "url": "https://dailynayadiganta.com/sports/cricket/4U8Guwnm2b1w/",
+        "published_at": null,
+        "summary": "‘কয়েকটি উগ্র ধর্মীয় সংগঠনের অতিউৎসাহী মন্তব্যের জেরে বিসিসিআই ও কেকেআর যে সিদ্ধান্ত নিলো, তারপরও কি বাংলাদেশের ভারতের মাটিতে গিয়ে বিশ্বকাপ খেলা উচিত?’",
+        "image_url": "https://media.ndiganta.com/original_images/Mithun.jpg"
+      },
+      {
+        "headline": "রোববার আইসিসিকে চিঠি দেবে বিসিবি",
+        "url": "https://dailynayadiganta.com/sports/cricket/IL5GXIW0xcmF/",
+        "published_at": null,
+        "summary": "মূলত, আইসিসির সিকিউরিটি ইউনিটকে মেইল করবে বিসিবি। যেখানে প্রথমে জানতে চাইবে ক্রিকেটারদের নিরাপত্তার বিষয়, এরপর মোস্তাফিজের সাথে ঘটে যাওয়া বিষয়। একইসাথে খেলোয়াড় ছাড়াও বোর্ড পরিচালক ও অন্য সদস্যদের নিরাপত্তা নিয়ে জানতে চাইবে বিসিবি। যুক্ত থাকবে দর্শক এবং সাংবাদিকদের নিরাপত্তার বিষয়ও।",
+        "image_url": "https://media.ndiganta.com/original_images/BCB_a7zfQrW.jpg"
       },
       {
         "headline": "স্ট্যাচু অব লিবার্টি: স্বাধীনতা, গণতন্ত্র আর বন্ধুত্বের প্রতীক",
@@ -1416,86 +1495,17 @@
         "published_at": "2026-01-03T20:13:37+06:00",
         "summary": "যুক্তরাষ্ট্র যদি সত্যিই বিশেষ বাহিনী পাঠিয়ে ভেনেজুয়েলার রাজধানীর কেন্দ্রস্থল থেকে ক্ষমতাসীন প্রেসিডেন্ট নিকোলাস মাদুরো ও তাঁর স্ত্রীকে ধরে নিয়ে গিয়ে থাকে, তাহলে আধুনিক ইতিহাসে এটি হবে এক নজিরবিহীন ঘটনা। এমন অভিযানের সঙ্গে তুলনা টানছেন অনেকেই ১৯৮৯ সালে পানামায় যুক্তরাষ্ট্রের বিশেষ বাহিনীর অভিযানে তৎকালীন নেতা ম্যানুয়েল নরিয়েগাকে আটক করার ঘটনার সঙ্গে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/03/og/1767449606-13a3f6baadd74a3931fe4d5dec92f2a2.jpg"
-      },
-      {
-        "headline": "নোয়াখালীতে ৬টি আসনে ৪৭ মনোনয়নপত্র বৈধ, ১৫ বাতিল",
-        "url": "https://www.bd-pratidin.com/election/2026/01/03/1199873",
-        "published_at": "2026-01-03T20:12:36+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের প্রার্থীদের মনোনয়নপত্র যাচাই-বাছাই সম্পন্ন হয়েছে। নোয়াখালী জেলার ৬টি আসনে মোট ৬২ জন প্রার্থীর মধ্যে বিএনপি, জামায়াতে ইসলাম ও স্বতন্ত্র প্রার্থীদের ৪৭ জনের মনোনয়ন বৈধ ঘোষণা করা হয়েছে এবং ১৫ জন প্রার্থীর মনোনয়ন বাতিল করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/03/og/1767449550-72831120f55e5c937ab9b6c648b34786.jpg"
-      },
-      {
-        "headline": "প্রার্থীদের মনোনয়নপত্র বাছাই শেষ হচ্ছে কাল",
-        "url": "https://www.bd-pratidin.com/election/2026/01/03/1199867",
-        "published_at": "2026-01-03T19:59:27+06:00",
-        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং কর্মকর্তার মাধ্যমে মনোনয়নপত্র বাছাই শেষ হবে আগামীকাল রবিবার।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/03/og/1767448761-d503937e7c4fdc99b4f2fc8254cf3e97.jpg"
-      },
-      {
-        "headline": "বাংলাদেশ সফরেও কি আসবে না ভারতীয় দল?",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/03/1199866",
-        "published_at": "2026-01-03T19:59:24+06:00",
-        "summary": "নিরাপত্তা ইস্যু সামনে এনে আইপিএল ২০২৬-এ কলকাতা নাইট রাইডার্সের স্কোয়াড থেকে বাংলাদেশি পেসার মুস্তাফিজুর রহমানকে বাদ দেওয়ার নির্দেশ দেয় ভারতীয় ক্রিকেট বোর্ড (বিসিসিআই)। এর রেশ কাটতে না কাটতেই এবার অনিশ্চয়তায় পড়েছে চলতি বছর ভারতের বাংলাদেশ সফরও।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/03/og/1767448758-1a97b6a292147e83359b1a8d860959d9.jpg"
-      },
-      {
-        "headline": "‘ঠিকানা’র বিনোদন বিভাগের প্রধান হলেন জায়েদ খান",
-        "url": "https://www.ittefaq.com.bd/768784/%E2%80%98%E0%A6%A0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E2%80%99%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8B%E0%A6%A6%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%A6-%E0%A6%96%E0%A6%BE%E0%A6%A8",
-        "published_at": null,
-        "summary": "২০২৪ সালের জুলাই মাস থেকেই যুক্তরাষ্ট্রে বসবাস করছেন দেশীয় চলচ্চিত্রের বহুল আলোচিত অভিনেতা জায়েদ খান। সেখানকার নিউইয়র্কভিত্তিক জনপ্রিয় বাংলা সংবাদমাধ্যম ‘ঠিকানা’য় ফ্রাইডে নাইট উইথ জায়েদ খান’ নামের একটি শো করে আসছিলেন তিনি। এবার ‘হেড অব এন্টারটেইনমেন্ট’ বা বিনোদন বিভাগের প্রধান হিসেবে দায়িত্ব গ্রহণ করেছেন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/08/19/696ab259a9cfad84e040e157708e0cdf-68a440baad3d8.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "হাইকোর্টের ৬৬টি বেঞ্চ গঠন, রোববার থেকে চলবে বিচারকাজ",
-        "url": "https://www.ittefaq.com.bd/768783/%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A7%AC%E0%A7%AC%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9A-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%B0%E0%A7%8B%E0%A6%AC%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%AC%E0%A7%87",
-        "published_at": null,
-        "summary": "ডিসেম্বরের অবকাশ শেষে সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য ৬৬টি বেঞ্চ গঠন করা হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/c42c0cd9165677081bf577cb35226242-695921605c50a.jpeg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "ময়মনসিংহে বিএনপি প্রার্থীসহ ১১ জনের মনোনয়ন বাতিল",
-        "url": "https://www.ittefaq.com.bd/768782/%E0%A6%AE%E0%A7%9F%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B9%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A7%A7%E0%A7%A7-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2",
-        "published_at": null,
-        "summary": "ময়মনসিংহের চারটি (৪, ৫, ৬, ৭) আসনে মনোনয়নপত্র যাচাই-বাছাই শেষে বিএনপি মনোনীত এক প্রার্থীসহ ১১ জনের মনোনয়ন বাতিল করা হয়েছে। এ নিয়ে গত দুই দিনে জেলায় সব মিলিয়ে মোট ১৬ প্রার্থীর মনোনয়নপত্র বাতিল হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/d317f6c9d2c4e045edd0fb0ad13108eb-695920ff7c912.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "মোস্তাফিজ ইস্যুতে জরুরি বোর্ড মিটিং ডেকেছে বিসিবি",
-        "url": "https://www.ittefaq.com.bd/768780/%E0%A6%AE%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%9C-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%82-%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF",
-        "published_at": null,
-        "summary": "আইপিএলে প্রথমবার কলকাতা নাইট রাইডার্সের জার্সি গায়ে জড়ানোর সুযোগ ছিলো মুস্তাফিজুর রহমানের। ভারতজুড়ে কট্টর হিন্দুত্ববাদী সংগঠনগুলোর টানা বিক্ষোভ ও চাপের মুখে মব আক্রমণের ভয়ে বিসিসিআইয়ের নির্দেশে বাংলাদেশের পেসার মোস্তাফিজুর রহমানকে স্কোয়াড থেকে বাদ দিয়েছে আইপিএলের দল কলকাতা নাইট রাইডার্স।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/03/bd45a44250bfed3fa40b8dc51702069c-69591dcad7532.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-      },
-      {
-        "headline": "বগুড়ায় মনোনয়নপত্র বাতিল হলেও ঢাকায় টিকে গেলেন মান্না",
-        "url": "https://www.ittefaq.com.bd/768779/%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%A8%E0%A7%9F%E0%A6%A8%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8",
-        "published_at": null,
-        "summary": "ঢাকা-১৮ আসনে নাগরিক ঐক্যের আহ্বায়ক মাহমুদুর রহমান মান্নার মনোনয়নপত্র বৈধতা পেয়েছে। একই হলফনামায় বগুড়া-২ আসনে জমা দেওয়া তার মনোনয়নপত্র গতকাল বাতিল করে দেন রির্টার্নিং কর্মকর্তা।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/24/2c48e988dbccc864e9a0f15949a62276-694bce2653ddc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "মার্কিন থাবা: ইরাকের সাদ্দাম ও পানামার নরিয়েগার সঙ্গে যুক্ত হলেন মাদুরো",
-        "url": "https://www.ittefaq.com.bd/768778/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%A5%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%97%E0%A6%BE%E0%A6%B0",
-        "published_at": null,
-        "summary": "ভেনেজুয়েলায় হামলা চালিয়ে প্রেসিডেন্ট নিকোলাস মাদুরো এবং স্ত্রীকে আটক করেছে যুক্তরাষ্ট্র। দেশটির প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের এই করমকাণ্ড বিশ্বকে হতবাক করেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/1d26d75eca09300196289cf5b23f48f8-6959192397dd1.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "‘থানা পুড়িয়েছি, এসআইকে জ্বালিয়ে দিয়েছি’—বলা সেই বৈষম্যবিরোধী নেতাকে শোকজ",
-        "url": "https://www.ittefaq.com.bd/768777/%E2%80%98%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%81%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A6%BF-%E0%A6%8F%E0%A6%B8%E0%A6%86%E0%A6%87%E0%A6%95%E0%A7%87-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A6%BF%E2%80%99%E2%80%94%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%B8%E0%A7%87%E0%A6%87",
-        "published_at": null,
-        "summary": "‘আমরা থানা পুড়িয়ে দিয়েছি, এসআই সন্তোষকে জ্বালিয়ে দিয়েছি’—এমন হুমকিমূলক বক্তব্যের একটি ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার পর এবার বৈষম্যবিরোধী ছাত্র আন্দোলন (বৈছাআ) হবিগঞ্জ জেলা কমিটির সদস্যসচিব মাহদী হাসানকে সাংগঠনিক কার্যক্রম থেকে বিরত থাকার জন্য নির্দেশ দিয়েছে সংগঠনটি। সেই সঙ্গে তাকে কারণ দর্শানোর (শোকজ) নোটিশ দেওয়া হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/b199a8d4f0b8bd886d2c914f2fa40b3a-695917e3e4f4f.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "এইচএসসি পরীক্ষার প্রস্তুতি : হিসাববিজ্ঞান প্রথম পত্র",
-        "url": "https://dailynayadiganta.com/printed-edition/jKhYOeE3DIdE/",
-        "published_at": null,
-        "summary": "মোহাম্মদ জয়নাল আবেদীন  : সহকারী  অধ্যাপকসিদ্ধেশ্বরী কলেজ, ঢাকা।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "শাহজাহানপুরে এক ব্যক্তির অস্বাভাবিক মৃত্যু",
+        "url": "https://www.prothomalo.com/bangladesh/crime/nrvd7gpl8f",
+        "published_at": "2026-01-03T19:08:04.797000+00:00",
+        "summary": "শনিবার দুপুরে শাহজাহানপুরের গুলবাগ এলাকায় বড় ভাইয়ের বাড়িতে যান শাফিউল হক। এ সময় বাড়িতে চোর ঢুকলে তাঁরা ধাওয়া দিয়ে চোরকে ধরে ফেলেন।",
+        "image_s3_key": "prothomalo-bangla/2023-09/cde1e604-9c5b-40a3-a9ad-a9d94bd91f88/death.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-09/cde1e604-9c5b-40a3-a9ad-a9d94bd91f88/death.jpg?auto=format,compress"
+      },
       {
         "headline": "সুন্দরবনে হরিণ শিকারের ফাঁদে আটকা পড়েছে বাঘ",
         "url": "https://www.prothomalo.com/bangladesh/district/tkhre76ztr",
@@ -1807,14 +1817,6 @@
         "summary": "অন্যদিকে বিএনপির প্রার্থী মুহাম্মদ নওশাদ জমিরের বার্ষিক আয় প্রায় ৪৫ লাখ টাকা। নওশাদের চেয়ে তাঁর স্ত্রীর স্থাবর সম্পদ বেশি।",
         "image_s3_key": "prothomalo-bangla/2025-08-12/plfmnesw/49443939640476368388511023334060808060006681n.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-08-12/plfmnesw/49443939640476368388511023334060808060006681n.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ভর্তি পরীক্ষার্থীর সঙ্গে আসা এক অভিভাবকের মৃত্যু",
-        "url": "https://www.prothomalo.com/bangladesh/district/nrgdrbteiv",
-        "published_at": "2026-01-03T10:42:17.263000+00:00",
-        "summary": "নাশিতা কেন্দ্রে ঢোকার পরই বুকে ব্যথা অনুভব করেন ইব্রাহীম খলিল। এরপর তিনি বিশ্ববিদ্যালয়ের শহীদ আবদুর রব হলের শিক্ষার্থীদের একটি কক্ষে গিয়ে শুয়ে পড়েন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-03/meqaflxk/WhatsApp-Image-2026-01-03-at-16.17.16-1.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/meqaflxk/WhatsApp-Image-2026-01-03-at-16.17.16-1.jpeg?auto=format,compress"
       },
       {
         "headline": "আইপিএলে মুস্তাফিজকে নিয়ে যা হয়েছে সেটা ন‍্যাক্কারজনক : ফারুকী",
@@ -2235,6 +2237,14 @@
         "published_at": "1767456198",
         "summary": "চট্টগ্রামের কর্ণফুলী উপজেলার ঐতিহ্যবাহী শিক্ষা প্রতিষ্ঠান সাউথ চট্টগ্রাম ব্রাইট স্কুল এন্ড কলেজে বার্ষিক পরীক্ষার ফলাফল প্রকাশ, মেধাবী শিক্ষার্থীদের পুরস্কৃতকরণ ও নতুন বছরের বই উৎসব অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-50-20260103160318.jpg"
+      },
+      {
+        "headline": "ভর্তি পরীক্ষার্থীর সঙ্গে আসা এক অভিভাবকের মৃত্যু",
+        "url": "https://www.prothomalo.com/bangladesh/district/nrgdrbteiv",
+        "published_at": "2026-01-03T10:42:17.263000+00:00",
+        "summary": "নাশিতা কেন্দ্রে ঢোকার পরই বুকে ব্যথা অনুভব করেন ইব্রাহীম খলিল। এরপর তিনি বিশ্ববিদ্যালয়ের শহীদ আবদুর রব হলের শিক্ষার্থীদের একটি কক্ষে গিয়ে শুয়ে পড়েন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-03/meqaflxk/WhatsApp-Image-2026-01-03-at-16.17.16-1.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/meqaflxk/WhatsApp-Image-2026-01-03-at-16.17.16-1.jpeg?auto=format,compress"
       },
       {
         "headline": "আওয়ামী লীগ থেকে যোগ দিলে সব দায়দায়িত্ব তাঁর—বলা জামায়াত নেতাকে সতর্ক করল দল",
@@ -2960,13 +2970,6 @@
         "published_at": null,
         "summary": "সাবেক প্রধানমন্ত্রী ও বিএনপির চেয়ারপারসন খালেদা জিয়ার মৃত্যুতে শোক জানিয়েছেন সৌদি আরবের বাদশাহ সালমান বিন আবদুল আজিজ আল সৌদ ও যুবরাজ মোহাম্মদ বিন সালমান। তারা শোকসন্তপ্ত পরিবারের প্রতি সমবেদনা জানিয়েছেন।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/fa86a78d346bd8a0ed212cee4b8af212-6958adda300d2.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "নিবন্ধন আইন সংশোধন, চালু হচ্ছে ই-রেজিস্ট্রেশন",
-        "url": "https://www.ittefaq.com.bd/768678/%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8-%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A7%8B%E0%A6%A7%E0%A6%A8-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%87-%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8",
-        "published_at": null,
-        "summary": "দলিল নিবন্ধন ব্যবস্থাকে আধুনিক, সময়োপযোগী ও ডিজিটাল করতে নিবন্ধন আইন, ১৯০৮-এর অধিকতর সংশোধন করে নিবন্ধন (সংশোধনী) অধ্যাদেশ, ২০২৬ জারি করা হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/9688a7f61bcb3a767aae7ca057e5e5ff-69589e2b5514f.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       }
     ],
     "politics": [
@@ -4149,20 +4152,20 @@
     ],
     "world": [
       {
+        "headline": "আটক মাদুরোর ছবি প্রকাশ করলেন ট্রাম্প",
+        "url": "https://www.prothomalo.com/world/jjughy2lta",
+        "published_at": "2026-01-03T18:57:12.712000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png?auto=format,compress"
+      },
+      {
         "headline": "ইয়েমেনের সব পক্ষকে সংলাপে\nবসার আহ্বান সৌদি আরবের ",
         "url": "https://www.prothomalo.com/world/middle-east/7cqzzryqu9",
         "published_at": "2026-01-03T18:31:20.373000+00:00",
         "summary": "সৌদি আরব ও সংযুক্ত আরব আমিরাত বছরের পর বছর ধরে ইয়েমেনের বিভক্ত সরকারি নিয়ন্ত্রণাধীন অঞ্চলে পরস্পরবিরোধী বিভিন্ন গোষ্ঠীকে সমর্থন দিয়ে আসছে।",
         "image_s3_key": "prothomalo-bangla/2026-01-03/g024r95b/Capture.PNG",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/g024r95b/Capture.PNG?auto=format,compress"
-      },
-      {
-        "headline": "আটক মাদুরোর ছবি প্রকাশ করলেন ট্রাম্প",
-        "url": "https://www.prothomalo.com/world/jjughy2lta",
-        "published_at": "2026-01-03T18:04:54.681000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png?auto=format,compress"
       },
       {
         "headline": "যুক্তরাষ্ট্র কেন কারাকাসে হামলা চালিয়ে ভেনেজুয়েলার প্রেসিডেন্টকে তুলে নিয়ে গেল",
@@ -4539,6 +4542,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/03/og/1767455020-1046974a7f4579dce61d67ab380c32db.jpg"
       },
       {
+        "headline": "মাদুরোর আটকাবস্থার ছবি প্রকাশ ট্রাম্পের",
+        "url": "https://www.ittefaq.com.bd/768809/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%B0-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%9B%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "ট্রাম্প ‘ট্রুথ সোশ্যাল’-এ নতুন একটি ছবি শেয়ার করেছেন। সেখানে তিনি দাবি করেছেন, ‘ইউএসএস ইও জিমার বোর্ডে নিকোলাস মাদুরো’।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/04/7d6702d8095852f756004ea575822fdd-69595fafb91db.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "ভেনেজুয়েলায় কাকে ক্ষমতায় দেখতে চান ট্রাম্প?",
         "url": "https://www.ittefaq.com.bd/768807/%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8",
         "published_at": null,
@@ -4600,13 +4610,6 @@
         "published_at": null,
         "summary": "ইরানে দুর্বল অর্থনীতির কারণে চলমান বিক্ষোভে আরও দুইজন নিহত হয়েছে। শনিবার (৩ জানুয়ারি) কর্তৃপক্ষ জানিয়েছে, বিক্ষোভ থামার কোনো লক্ষণ দেখা যাচ্ছে না, তবে মৃতের সংখ্যা কমপক্ষে ১০ জনে দাঁড়িয়েছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/3712febc16b5fcad7d8e67df944f1326-69590875af813.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "ভেনেজুয়েলার বিরুদ্ধে মার্কিন সশস্ত্র আগ্রাসন গভীর উদ্বেগজনক: রাশিয়া",
-        "url": "https://www.ittefaq.com.bd/768756/%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B8%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%A8-%E0%A6%97%E0%A6%AD%E0%A7%80%E0%A6%B0",
-        "published_at": null,
-        "summary": "ভেনেজুয়েলায় মার্কিন সামরিক অভিযানের নিন্দা জানিয়ে রাশিয়া বলেছে, এই হামলার কোনো যুক্তিসঙ্গত কারণ নেই। এটি হামলার পেছনে কূটনীতির চেয়ে 'আদর্শিক বৈরিতা' প্রাধান্য পেয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/ab7f0afdb141fee4edbfdf95150b1304-6959028c2d10f.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "জাতীয় নির্বাচনজোট মেরুকরণে সঙ্কট ও সম্ভাবনা",
@@ -4747,6 +4750,13 @@
         "published_at": "1767443095",
         "summary": "ভেনেজুয়েলায় যুক্তরাষ্ট্রের বৃহৎ সামরিক আঘাতের পর প্রতিবেশী দেশ ও প্রেসিডেন্ট নিকোলাস মাদুরোর মিত্ররা শনিবার এর নিন্দা জানিয়েছে। স্পেন শান্তিপূর্ণ সমাধানের জন্য মধ্যস্থতার প্রস্তাব দিয়েছে। এ ছাড়া বিশ্বজুড়ে বিভিন্ন দেশ এ ঘটনায় প্রতিক্রিয়া জানিয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-32-20260103122455.jpg"
+      },
+      {
+        "headline": "ভেনেজুয়েলার বিরুদ্ধে মার্কিন সশস্ত্র আগ্রাসন গভীর উদ্বেগজনক: রাশিয়া",
+        "url": "https://www.ittefaq.com.bd/768756/%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B8%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%A8-%E0%A6%97%E0%A6%AD%E0%A7%80%E0%A6%B0",
+        "published_at": null,
+        "summary": "ভেনেজুয়েলায় মার্কিন সামরিক অভিযানের নিন্দা জানিয়ে রাশিয়া বলেছে, এই হামলার কোনো যুক্তিসঙ্গত কারণ নেই। এটি হামলার পেছনে কূটনীতির চেয়ে 'আদর্শিক বৈরিতা' প্রাধান্য পেয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/03/ab7f0afdb141fee4edbfdf95150b1304-6959028c2d10f.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "নির্বাচন–পরবর্তী বিক্ষোভে আটক আরও ৮৮ জনকে মুক্তি দিল ভেনেজুয়েলা",
@@ -5593,13 +5603,6 @@
         "published_at": "2026-01-03T15:09:57+06:00",
         "summary": "ঝালকাঠির দুই সংসদীয় আসন ঝালকাঠি-১ ও ঝালকাঠি-২–এ মনোনয়নপত্র যাচাই-বাছাই শেষে জেলা রিটার্নিং কর্মকর্তা মোট ১৩ জন প্রার্থীর মনোনয়নপত্র বৈধ ঘোষণা করেছেন, ৮ জনের মনোনয়নপত্র বাতিল করেছেন এবং ৪ জনের মনোনয়নপত্র স্থগিত রেখেছেন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/03/og/1767431391-d3baf3f78fd697c28bd4fb92e4681411.jpg"
-      },
-      {
-        "headline": "মোস্তফা জামাল হায়দার অসুস্থ, দেখতে গেলেন মির্জা ফখরুল",
-        "url": "https://www.bd-pratidin.com/national/2026/01/03/1199748",
-        "published_at": "2026-01-03T14:59:54+06:00",
-        "summary": "জাতীয় পার্টির (কাজী জাফর) চেয়ারম্যান ও ১২ দলীয় জোটের প্রধান মোস্তফা জামাল হায়দার অসুস্থ হয়ে রাজধানীর একটি বেসরকারি হাসপাতালে চিকিৎসাধীন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/03/og/1767430787-0b4b05b529b2994f6158c3b4cda2e934.jpg"
       }
     ],
     "business": [
@@ -6340,12 +6343,20 @@
     ],
     "sports": [
       {
-        "headline": "নিলামের ৯ কোটি ২০ লাখ রুপি কি পাবেন মোস্তাফিজ",
-        "url": "https://www.prothomalo.com/sports/cricket/w37shf9ljb",
-        "published_at": "2026-01-03T13:30:46.247000+00:00",
-        "summary": "যে সব কারণে ফ্র্যাঞ্চাইজিকে পারিশ্রমিক প্রদান করতে হয় না, মোস্তাফিজের ক্ষেত্রে তার কিছুই খাটে না। তাহলে কি বলা যায় মোস্তাফিজ নিলামে ওঠা অর্থ নিশ্চিতভাবেই পাচ্ছেন?",
-        "image_s3_key": "prothomalo-bangla/2023-04/9afbbec2-b3fc-4fc9-9734-423860ee9f87/Ft11y5SWYAABw0n.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-04/9afbbec2-b3fc-4fc9-9734-423860ee9f87/Ft11y5SWYAABw0n.jpg?auto=format,compress"
+        "headline": "বাংলাদেশে আইপিএল সম্প্রচার বন্ধ করতে বললেন আসিফ নজরুল ",
+        "url": "https://www.prothomalo.com/sports/cricket/aefe8yrh14",
+        "published_at": "2026-01-03T18:54:47.461000+00:00",
+        "summary": "বিসিসিআইয়ের নির্দেশে বাংলাদেশের পেসার মোস্তাফিজুর রহমানকে বাদ দিয়েছে আইপিএল দল কলকাতা নাইট রাইডার্স। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-03/u49jmueh/Mustafiz-rest1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/u49jmueh/Mustafiz-rest1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "অনেক দিন পর কিপিং উপভোগ করছেন পারভেজ",
+        "url": "https://www.prothomalo.com/sports/cricket/3swkb6y7sh",
+        "published_at": "2026-01-03T15:06:27.389000+00:00",
+        "summary": "৪ ম্যাচে ১৮৪ রান করে টুর্নামেন্টের দ্বিতীয় সর্বোচ্চ রান সংগ্রাহক পারভেজ। স্ট্রাইক রেটটাও দারুণ—১৪৭.২০, টুর্নামেন্টের শীর্ষ পাঁচ রানসংগ্রাহকের মধ্যে যা সর্বোচ্চ।",
+        "image_s3_key": "prothomalo-bangla/2026-01-03/fn64abtj/8429efa7-fd5b-4b83-be79-35df349a51ab.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/fn64abtj/8429efa7-fd5b-4b83-be79-35df349a51ab.jpg?auto=format,compress"
       },
       {
         "headline": "ভারতে কি বিশ্বকাপ খেলবে বাংলাদেশ: বিসিবি বলছে দরকার হলে আইসিসিতে যোগাযোগ করব",
@@ -6356,12 +6367,12 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-05-30/5z06avt7/2d336acd-91e0-4e86-bdf3-888e86077f93.jpeg?auto=format,compress"
       },
       {
-        "headline": "অনেক দিন পর কিপিং উপভোগ করছেন পারভেজ",
-        "url": "https://www.prothomalo.com/sports/cricket/3swkb6y7sh",
-        "published_at": "2026-01-03T15:06:27.389000+00:00",
-        "summary": "৪ ম্যাচে ১৮৪ রান করে টুর্নামেন্টের দ্বিতীয় সর্বোচ্চ রান সংগ্রাহক পারভেজ। স্ট্রাইক রেটটাও দারুণ—১৪৭.২০, টুর্নামেন্টের শীর্ষ পাঁচ রানসংগ্রাহকের মধ্যে যা সর্বোচ্চ।",
-        "image_s3_key": "prothomalo-bangla/2026-01-03/fn64abtj/8429efa7-fd5b-4b83-be79-35df349a51ab.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/fn64abtj/8429efa7-fd5b-4b83-be79-35df349a51ab.jpg?auto=format,compress"
+        "headline": "নিলামের ৯ কোটি ২০ লাখ রুপি কি পাবেন মোস্তাফিজ",
+        "url": "https://www.prothomalo.com/sports/cricket/w37shf9ljb",
+        "published_at": "2026-01-03T13:30:46.247000+00:00",
+        "summary": "যে সব কারণে ফ্র্যাঞ্চাইজিকে পারিশ্রমিক প্রদান করতে হয় না, মোস্তাফিজের ক্ষেত্রে তার কিছুই খাটে না। তাহলে কি বলা যায় মোস্তাফিজ নিলামে ওঠা অর্থ নিশ্চিতভাবেই পাচ্ছেন?",
+        "image_s3_key": "prothomalo-bangla/2023-04/9afbbec2-b3fc-4fc9-9734-423860ee9f87/Ft11y5SWYAABw0n.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-04/9afbbec2-b3fc-4fc9-9734-423860ee9f87/Ft11y5SWYAABw0n.jpg?auto=format,compress"
       },
       {
         "headline": "তিন গোলে পিছিয়েও কিংসকে রুখে ফকিরেরপুলের জয়ের সমান ড্র",
@@ -6652,14 +6663,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-01/j08y7ycl/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg?auto=format,compress"
       },
       {
-        "headline": "সাবিনার অবসরের সিদ্ধান্ত সাবিনাই নেবেন",
-        "url": "https://www.prothomalo.com/sports/football/gpq3plre0b",
-        "published_at": "2026-01-01T16:57:51.226000+00:00",
-        "summary": "গত বছরের জানুয়ারিতে কোচ পিটার বাটলারের বিরুদ্ধে বিদ্রোহের জেরে সাবিনা, সুমাইয়া, কৃষ্ণা, মাসুরা ও সানজিদাদের মতো তারকাদের দল থেকে বাদ দেওয়া হয়।",
-        "image_s3_key": "prothomalo-bangla/2024-10-25/832ihdzs/Sabina-during-practice-at-Kamlapur5.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-25/832ihdzs/Sabina-during-practice-at-Kamlapur5.jpg?auto=format,compress"
-      },
-      {
         "headline": "মুস্তাফিজ ইস্যুতে আইসিসিকে চিঠি দিতে যাচ্ছে বিসিবি",
         "url": "https://www.ittefaq.com.bd/768808/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%9C-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%BF%E0%A6%A0%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF",
         "published_at": null,
@@ -6705,8 +6708,8 @@
         "headline": "মোস্তাফিজকে আইপিএল থেকে বাদ: উচ্ছ্বসিত বিজেপি নেতা বললেন, ‘শত কোটি হিন্দুর জয়’",
         "url": "https://www.ittefaq.com.bd/768738/%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%9C%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B2-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE",
         "published_at": null,
-        "summary": null,
-        "image_url": null
+        "summary": "মোস্তাফিজুর রহমানকে আইপিএল থেকে বাদ দেওয়ার সিদ্ধান্তকে স্বাগত জানিয়েছে ভারতের ক্ষমতাসীন দল ভারতীয় জনতা পার্টি (বিজেপি)। ভারতীয় ক্রিকেট বোর্ডের এই সিদ্ধান্তকে গোটা দেশের হিন্দু সম্প্রদায়ের জন্য ‘জয়’ বলে মন্তব্য করেছেন বিজেপি নেতা সঙ্গীত সোম।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/03/b48db8cb8f2d1e110057662b854c9aff-6958edc03ca96.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
       },
       {
         "headline": "৪৫ বছর বয়সেও থামছেন না ভেনাস উইলিয়ামস",
@@ -6868,6 +6871,14 @@
         "published_at": "1766821963",
         "summary": "বিপিএল ক্রিকেট উৎসবের মাঝেই শোকের কালো ছায়া। মাঠে হার্ট অ্যাটাক করে মৃত্যুর কোলে ঢলে পড়লেন ঢাকা ক্যাপিটালসের সহকারী কোচ মাহবুব আলী জাকি (ইন্নালিল্লাহি ওয়াইন্না ইলাইহি রাজিউন)।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-14-20251227075243.jpg"
+      },
+      {
+        "headline": "সাবিনার অবসরের সিদ্ধান্ত সাবিনাই নেবেন",
+        "url": "https://www.prothomalo.com/sports/football/gpq3plre0b",
+        "published_at": "2026-01-01T16:57:51.226000+00:00",
+        "summary": "গত বছরের জানুয়ারিতে কোচ পিটার বাটলারের বিরুদ্ধে বিদ্রোহের জেরে সাবিনা, সুমাইয়া, কৃষ্ণা, মাসুরা ও সানজিদাদের মতো তারকাদের দল থেকে বাদ দেওয়া হয়।",
+        "image_s3_key": "prothomalo-bangla/2024-10-25/832ihdzs/Sabina-during-practice-at-Kamlapur5.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-25/832ihdzs/Sabina-during-practice-at-Kamlapur5.jpg?auto=format,compress"
       },
       {
         "headline": "মোস্তাফিজকে ছেড়ে দিলো কলকাতা",
