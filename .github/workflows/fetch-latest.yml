@@ -36,10 +36,10 @@ jobs:
           from bs4 import BeautifulSoup
           from urllib.parse import urljoin, urlparse
 
-          MAX_PER_SECTION = 200
+          MAX_PER_CATEGORY = 200
 
-          # ---- Prothom Alo API ----
-          SLUGS = {
+          # ---- Prothom Alo API categories ----
+          API_SLUGS = {
               "latest-all": "latest",
               "bangladesh-all": "bangladesh",
               "politics-all": "politics",
@@ -47,7 +47,11 @@ jobs:
               "business-all": "business",
               "sports-all": "sports",
               "entertainment-all": "entertainment",
-              "chakri-all": "chakri",
+              "chakri-all": "jobs",
+              "opinion": "opinion",
+              "world-business": "world-business",
+              "sports/cricket": "cricket",
+              "sports/football": "football",
           }
 
           MEDIA_BASE = "https://media.prothomalo.com/"
@@ -111,27 +115,95 @@ jobs:
                   })
               return stories
 
-          # ---- Other sites HTML scrape ----
+          # ---- HTML sources (grouped by category) ----
           HTML_SOURCES = [
-              # bd-pratidin
-              {"name": "bd_pratidin_todaynews", "url": "https://www.bd-pratidin.com/online/todaynews", "domain": "www.bd-pratidin.com"},
-              {"name": "bd_pratidin_national", "url": "https://www.bd-pratidin.com/national", "domain": "www.bd-pratidin.com"},
-              # ittefaq
-              {"name": "ittefaq_latest", "url": "https://www.ittefaq.com.bd/latest-news", "domain": "www.ittefaq.com.bd"},
-              {"name": "ittefaq_country", "url": "https://www.ittefaq.com.bd/country", "domain": "www.ittefaq.com.bd"},
-              {"name": "ittefaq_politics", "url": "https://www.ittefaq.com.bd/politics", "domain": "www.ittefaq.com.bd"},
-              {"name": "ittefaq_sports", "url": "https://www.ittefaq.com.bd/sports", "domain": "www.ittefaq.com.bd"},
-              {"name": "ittefaq_world", "url": "https://www.ittefaq.com.bd/world-news", "domain": "www.ittefaq.com.bd"},
-              {"name": "ittefaq_tech", "url": "https://www.ittefaq.com.bd/tech", "domain": "www.ittefaq.com.bd"},
-              # kalerkantho (may be blocked by Cloudflare)
-              {"name": "kaler_recent", "url": "https://www.kalerkantho.com/special/recent", "domain": "www.kalerkantho.com"},
-              {"name": "kaler_world", "url": "https://www.kalerkantho.com/online/world", "domain": "www.kalerkantho.com"},
-              {"name": "kaler_sport", "url": "https://www.kalerkantho.com/online/sport", "domain": "www.kalerkantho.com"},
-              # nayadiganta
-              {"name": "naya_latest", "url": "https://dailynayadiganta.com/latest", "domain": "dailynayadiganta.com"},
-              # amarsangbad
-              {"name": "amar_bangladesh", "url": "https://www.amarsangbad.com/bangladesh", "domain": "www.amarsangbad.com"},
-              {"name": "amar_politics", "url": "https://www.amarsangbad.com/politics", "domain": "www.amarsangbad.com"},
+              # Latest
+              {"category": "latest", "url": "https://www.bd-pratidin.com/online/todaynews", "domain": "www.bd-pratidin.com"},
+              {"category": "latest", "url": "https://www.ittefaq.com.bd/latest-news", "domain": "www.ittefaq.com.bd"},
+              {"category": "latest", "url": "https://dailynayadiganta.com/latest", "domain": "dailynayadiganta.com"},
+              {"category": "latest", "url": "https://dailynayadiganta.com/bangladesh", "domain": "dailynayadiganta.com"},
+              {"category": "latest", "url": "https://www.jugantor.com/latest", "domain": "www.jugantor.com"},
+              {"category": "latest", "url": "https://samakal.com/latest/news", "domain": "samakal.com"},
+
+              # Bangladesh
+              {"category": "bangladesh", "url": "https://www.bd-pratidin.com/national", "domain": "www.bd-pratidin.com"},
+              {"category": "bangladesh", "url": "https://www.ittefaq.com.bd/national", "domain": "www.ittefaq.com.bd"},
+              {"category": "bangladesh", "url": "https://www.ittefaq.com.bd/country", "domain": "www.ittefaq.com.bd"},
+              {"category": "bangladesh", "url": "https://www.amarsangbad.com/bangladesh", "domain": "www.amarsangbad.com"},
+              {"category": "bangladesh", "url": "https://www.amarsangbad.com/national", "domain": "www.amarsangbad.com"},
+              {"category": "bangladesh", "url": "https://www.amarsangbad.com/country", "domain": "www.amarsangbad.com"},
+              {"category": "bangladesh", "url": "https://www.jugantor.com/national", "domain": "www.jugantor.com"},
+              {"category": "bangladesh", "url": "https://www.jugantor.com/country-news", "domain": "www.jugantor.com"},
+              {"category": "bangladesh", "url": "https://samakal.com/bangladesh", "domain": "samakal.com"},
+              {"category": "bangladesh", "url": "https://samakal.com/whole-country", "domain": "samakal.com"},
+
+              # Politics
+              {"category": "politics", "url": "https://www.bd-pratidin.com/current-politics", "domain": "www.bd-pratidin.com"},
+              {"category": "politics", "url": "https://www.ittefaq.com.bd/politics", "domain": "www.ittefaq.com.bd"},
+              {"category": "politics", "url": "https://www.amarsangbad.com/politics", "domain": "www.amarsangbad.com"},
+              {"category": "politics", "url": "https://www.jugantor.com/politics", "domain": "www.jugantor.com"},
+              {"category": "politics", "url": "https://samakal.com/politics", "domain": "samakal.com"},
+
+              # World
+              {"category": "world", "url": "https://www.bd-pratidin.com/international-news", "domain": "www.bd-pratidin.com"},
+              {"category": "world", "url": "https://www.ittefaq.com.bd/world-news", "domain": "www.ittefaq.com.bd"},
+              {"category": "world", "url": "https://dailynayadiganta.com/international", "domain": "dailynayadiganta.com"},
+              {"category": "world", "url": "https://www.amarsangbad.com/international", "domain": "www.amarsangbad.com"},
+              {"category": "world", "url": "https://www.jugantor.com/international", "domain": "www.jugantor.com"},
+              {"category": "world", "url": "https://samakal.com/international", "domain": "samakal.com"},
+
+              # Business
+              {"category": "business", "url": "https://www.ittefaq.com.bd/business", "domain": "www.ittefaq.com.bd"},
+              {"category": "business", "url": "https://dailynayadiganta.com/economy", "domain": "dailynayadiganta.com"},
+              {"category": "business", "url": "https://www.amarsangbad.com/economy", "domain": "www.amarsangbad.com"},
+              {"category": "business", "url": "https://www.jugantor.com/economics", "domain": "www.jugantor.com"},
+              {"category": "business", "url": "https://samakal.com/economics", "domain": "samakal.com"},
+
+              # Opinion
+              {"category": "opinion", "url": "http://dailynayadiganta.com/opinions/", "domain": "dailynayadiganta.com"},
+              {"category": "opinion", "url": "https://www.amarsangbad.com/opinion", "domain": "www.amarsangbad.com"},
+              {"category": "opinion", "url": "https://samakal.com/opinion", "domain": "samakal.com"},
+
+              # Sports
+              {"category": "sports", "url": "https://www.ittefaq.com.bd/sports", "domain": "www.ittefaq.com.bd"},
+              {"category": "sports", "url": "https://dailynayadiganta.com/sports", "domain": "dailynayadiganta.com"},
+              {"category": "sports", "url": "https://www.amarsangbad.com/sports", "domain": "www.amarsangbad.com"},
+              {"category": "sports", "url": "https://www.jugantor.com/sports", "domain": "www.jugantor.com"},
+              {"category": "sports", "url": "https://samakal.com/sports", "domain": "samakal.com"},
+
+              # Entertainment
+              {"category": "entertainment", "url": "https://www.bd-pratidin.com/entertainment", "domain": "www.bd-pratidin.com"},
+              {"category": "entertainment", "url": "https://www.ittefaq.com.bd/entertainment", "domain": "www.ittefaq.com.bd"},
+              {"category": "entertainment", "url": "https://dailynayadiganta.com/entertainment", "domain": "dailynayadiganta.com"},
+              {"category": "entertainment", "url": "https://www.amarsangbad.com/entertainment", "domain": "www.amarsangbad.com"},
+              {"category": "entertainment", "url": "https://www.jugantor.com/entertainment", "domain": "www.jugantor.com"},
+              {"category": "entertainment", "url": "https://samakal.com/entertainment", "domain": "samakal.com"},
+
+              # Jobs
+              {"category": "jobs", "url": "https://www.bd-pratidin.com/career", "domain": "www.bd-pratidin.com"},
+              {"category": "jobs", "url": "https://www.ittefaq.com.bd/jobs", "domain": "www.ittefaq.com.bd"},
+              {"category": "jobs", "url": "https://www.amarsangbad.com/job", "domain": "www.amarsangbad.com"},
+              {"category": "jobs", "url": "https://www.jugantor.com/job-seek", "domain": "www.jugantor.com"},
+              {"category": "jobs", "url": "https://samakal.com/chakri", "domain": "samakal.com"},
+
+              # Election
+              {"category": "election", "url": "https://www.bd-pratidin.com/election", "domain": "www.bd-pratidin.com"},
+              {"category": "election", "url": "https://www.amarsangbad.com/election", "domain": "www.amarsangbad.com"},
+
+              # City
+              {"category": "city", "url": "https://www.bd-pratidin.com/city-news", "domain": "www.bd-pratidin.com"},
+
+              # Campus / Education
+              {"category": "campus", "url": "https://www.bd-pratidin.com/campus-online", "domain": "www.bd-pratidin.com"},
+              {"category": "campus", "url": "https://www.amarsangbad.com/education", "domain": "www.amarsangbad.com"},
+
+              # Tech
+              {"category": "tech", "url": "https://www.bd-pratidin.com/tech-world", "domain": "www.bd-pratidin.com"},
+              {"category": "tech", "url": "https://www.ittefaq.com.bd/tech", "domain": "www.ittefaq.com.bd"},
+              {"category": "tech", "url": "https://dailynayadiganta.com/science-technology", "domain": "dailynayadiganta.com"},
+              {"category": "tech", "url": "https://www.amarsangbad.com/science-and-technology", "domain": "www.amarsangbad.com"},
+              {"category": "tech", "url": "https://www.jugantor.com/tech", "domain": "www.jugantor.com"},
+              {"category": "tech", "url": "https://samakal.com/technology", "domain": "samakal.com"},
           ]
 
           HTML_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
@@ -264,27 +336,27 @@ jobs:
 
               return items
 
-          # ---- Run all fetches ----
-          sections = {}
+          # ---- Run all fetches into category buckets ----
+          categories = {}
 
-          for slug, name in SLUGS.items():
-              sections[name] = extract_stories_api(fetch_api(slug))
+          for slug, cat in API_SLUGS.items():
+              data = fetch_api(slug)
+              categories.setdefault(cat, []).extend(extract_stories_api(data))
 
           for conf in HTML_SOURCES:
               try:
-                  sections[conf["name"]] = scrape_site(conf)
+                  categories.setdefault(conf["category"], []).extend(scrape_site(conf))
               except Exception as e:
-                  print(f"HTML scrape failed for {conf['name']}: {e}")
-                  sections[conf["name"]] = []
+                  print(f"HTML scrape failed for {conf['url']}: {e}")
 
           # Merge with existing file to avoid duplicates across runs
-          existing = {}
+          existing_sections = {}
           if Path("news_sections.json").exists():
               try:
                   existing = json.loads(Path("news_sections.json").read_text(encoding="utf-8"))
+                  existing_sections = existing.get("sections", {})
               except Exception as e:
                   print(f"Failed to load existing news_sections.json: {e}")
-          existing_sections = existing.get("sections", {})
 
           def dedupe_by_url(new_items, old_items):
               out = []
@@ -295,14 +367,14 @@ jobs:
                       continue
                   seen.add(url)
                   out.append(src)
-                  if len(out) >= MAX_PER_SECTION:
+                  if len(out) >= MAX_PER_CATEGORY:
                       break
               return out
 
           merged_sections = {}
-          for key, new_list in sections.items():
-              old_list = existing_sections.get(key, [])
-              merged_sections[key] = dedupe_by_url(new_list, old_list)
+          for cat, new_list in categories.items():
+              old_list = existing_sections.get(cat, [])
+              merged_sections[cat] = dedupe_by_url(new_list, old_list)
 
           fetched_at = datetime.now(timezone.utc).isoformat()
 
