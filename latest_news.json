@@ -1,6 +1,54 @@
 {
-  "fetched_at": "2026-01-03T04:51:47.188395+00:00",
+  "fetched_at": "2026-01-03T05:16:58.656623+00:00",
   "stories": [
+    {
+      "headline": "শীতের সবজির রঙে রঙিন বাজার",
+      "url": "https://www.prothomalo.com/photo/bangladesh/hyeoprv8gb",
+      "published_at": "2026-01-03T05:14:03.557000+00:00",
+      "summary": "মাঠে মাঠে বাঁধাকপি, ফুলকপি, আলু, টমেটো—সবজির ভিড় যেমন চোখ জুড়ায়, তেমনি উৎপাদন বেশি হওয়ায় দামও নেমেছে অনেকটা। হাটে ও মাঠে ঠাসা শীতের সবজি নিয়েই এই ছবির গল্প।",
+      "image_s3_key": "prothomalo-bangla/2026-01-03/6evwaghq/1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/6evwaghq/1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "৫০তম বিসিএস: এক বছরে নিয়োগ শেষ করার চ্যালেঞ্জ পিএসসির",
+      "url": "https://www.prothomalo.com/chakri/chakri-news/p3q07b6zdt",
+      "published_at": "2026-01-03T05:12:41.376000+00:00",
+      "summary": "প্রজ্ঞাপন অনুযায়ী, নতুন বছরে সাধারণ ছুটি ১৪ দিন। নির্বাহী আদেশে ছুটি থাকছে আরও ১৪ দিন।",
+      "image_s3_key": "prothomalo-bangla/2024-04/216802fe-94ec-45c7-ab84-168da09dc083/3.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-04/216802fe-94ec-45c7-ab84-168da09dc083/3.jpg?auto=format,compress"
+    },
+    {
+      "headline": "‘ঠান্ডার কারণে স্টিয়ারিং ধরতে হারি না, আত অবশ হই আসে’",
+      "url": "https://www.prothomalo.com/bangladesh/district/gw8gp15e9j",
+      "published_at": "2026-01-03T05:06:40.847000+00:00",
+      "summary": "ঘন কুয়াশা ও শীতের কারণে মানুষজন তেমন ঘর থেকে বের হননি। যাঁরা বের হয়েছেন, তাঁরা শীতের কাপড়ে নাক-মুখ বেঁধে ছুটে চলছেন গন্তব্যে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-03/85t8jkr7/Ctg-7.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/85t8jkr7/Ctg-7.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইসরায়েলপন্থী নির্বাহী আদেশ বাতিল করায় মামদানির প্রশংসা অধিকারকর্মীদের, ক্ষোভ ইসরায়েলের",
+      "url": "https://www.prothomalo.com/world/usa/xazoshc6qb",
+      "published_at": "2026-01-03T05:00:09.522000+00:00",
+      "summary": "গত বৃহস্পতিবার মেয়র হিসেবে প্রথম কার্যদিবসে জোহরান মামদানি তাঁর পূর্বসূরি এরিক অ্যাডামসের ২০২৪ সালের ২৬ সেপ্টেম্বরের পর জারি করা সব নির্বাহী আদেশ বাতিল করে দেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-03/e64us7b3/Mamdani.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/e64us7b3/Mamdani.jpg?auto=format,compress"
+    },
+    {
+      "headline": "মস্তিষ্কে বসানোর চিপ বড় পরিসরে তৈরি করবে ইলন মাস্কের নিউরালিংক",
+      "url": "https://www.prothomalo.com/technology/uiqtsaucdn",
+      "published_at": "2026-01-03T05:00:00+00:00",
+      "summary": "নিউরালিংকের তৈরি ব্রেন কম্পিউটার ইন্টারফেসেস প্রযুক্তির তারহীন চিপটি মূলত মেরুদণ্ডে আঘাতসহ গুরুতর স্নায়বিক সমস্যায় আক্রান্ত ব্যক্তিদের সহায়তার জন্য তৈরি করা হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/42x57zrb/Elon-mask.Reuters.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/42x57zrb/Elon-mask.Reuters.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বিদেশে বসে চট্টগ্রামের অপরাধজগৎ নিয়ন্ত্রণ, বছরজুড়ে আলোচনায় ‘সন্ত্রাসী’ বড় সাজ্জাদ",
+      "url": "https://www.prothomalo.com/bangladesh/district/wxys4amhx0",
+      "published_at": "2026-01-03T04:53:19.476000+00:00",
+      "summary": "চট্টগ্রামে ‘এইট মার্ডার’ নামে পরিচিত আলোচিত ওই হত্যাকাণ্ডে সাজ্জাদ নেতৃত্ব দেন বলে অভিযোগ ওঠে। ২০০০ সালের ১ অক্টোবর একে-৪৭ রাইফেলসহ গ্রেপ্তার হয়েছিলেন বড় সাজ্জাদ।",
+      "image_s3_key": "prothomalo-bangla/2026-01-03/n7umvqz3/Ctg-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/n7umvqz3/Ctg-1.jpg?auto=format,compress"
+    },
     {
       "headline": "রাজধানীর ৩ স্থানের বায়ু আজ ভয়ানক দূষিত",
       "url": "https://www.prothomalo.com/bangladesh/environment/s3ays8qwnm",
@@ -42,20 +90,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/b60d8ita/WhatsApp-Image-2026-01-02-at-7.34.00-PM.jpeg?auto=format,compress"
     },
     {
-      "headline": "ক্ষুদ্রঋণের আঞ্চলিক সীমা আর থাকছে না, সারা দেশেই কাজ করা যাবে",
-      "url": "https://www.prothomalo.com/business/economics/97p88iri5m",
-      "published_at": "2026-01-03T04:30:00+00:00",
-      "summary": "এমআরএ সংশোধিত বিধিমালার খসড়া অর্থ মন্ত্রণালয়ের আর্থিক প্রতিষ্ঠান বিভাগে পাঠিয়েছে। বিভাগটি এখন তা আইনি পরীক্ষার জন্য আইন মন্ত্রণালয়ে পাঠাবে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-02/818n8afs/1000000127.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/818n8afs/1000000127.jpg?auto=format,compress"
-    },
-    {
       "headline": "‘পড়াশোনার কথা শুনি না, খালি বিজনেস করো, উদ্যোক্তা হও!’",
       "url": "https://www.prothomalo.com/onnoalo/interview/ruv1l1e64s",
       "published_at": "2026-01-03T04:30:00+00:00",
       "summary": "ট্রান্সলেটরের স্টাইল থাকতে হয়। ট্রান্সলেটর তাঁর স্টাইলের কারণে আলাদা হয়ে যান অন্য ট্রান্সলেটরদের চেয়ে।",
       "image_s3_key": "prothomalo-bangla/2026-01-03/h0thn7iv/WhatsApp-Image-2026-01-02-at-19.10.02.jpeg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/h0thn7iv/WhatsApp-Image-2026-01-02-at-19.10.02.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "ক্ষুদ্রঋণের আঞ্চলিক সীমা আর থাকছে না, সারা দেশেই কাজ করা যাবে",
+      "url": "https://www.prothomalo.com/business/economics/97p88iri5m",
+      "published_at": "2026-01-03T04:30:00+00:00",
+      "summary": "এমআরএ সংশোধিত বিধিমালার খসড়া অর্থ মন্ত্রণালয়ের আর্থিক প্রতিষ্ঠান বিভাগে পাঠিয়েছে। বিভাগটি এখন তা আইনি পরীক্ষার জন্য আইন মন্ত্রণালয়ে পাঠাবে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/818n8afs/1000000127.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/818n8afs/1000000127.jpg?auto=format,compress"
     },
     {
       "headline": "আওয়ামী লীগের সমর্থকদের ভোট টানার চেষ্টা অনেক প্রার্থীর",
@@ -234,20 +282,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/8gbjt39q/MoulavibazarDH054220260101PSFix20260101093320.jpg?auto=format,compress"
     },
     {
-      "headline": "তাইওয়ান ইন্টারন্যাশনাল গ্র্যাজুয়েট স্কলারশিপ, এআই-ন্যানো সায়েন্সসহ ১৪টি গবেষণাক্ষেত্রে বৃত্তি",
-      "url": "https://www.prothomalo.com/education/scholarship/ll4b7d889m",
-      "published_at": "2026-01-03T02:00:00+00:00",
-      "summary": "তাইওয়ান ইন্টারন্যাশনাল গ্র্যাজুয়েট স্কলারশিপে (টিআইজিপি) আবেদনপ্রক্রিয়া চলছে।",
-      "image_s3_key": "prothomalo-bangla/2025-10-08/lg5hyx2q/156.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-08/lg5hyx2q/156.webp?auto=format,compress"
-    },
-    {
       "headline": "সপ্তম গণবিজ্ঞপ্তির পথে এনটিআরসিএ, ৬৮ হাজার শিক্ষক নিয়োগে আবেদন",
       "url": "https://www.prothomalo.com/chakri/chakri-news/vqwww6d8k4",
       "published_at": "2026-01-03T02:00:00+00:00",
       "summary": "সপ্তম গণবিজ্ঞপ্তি প্রকাশের জন্য শিক্ষা মন্ত্রণালয়ে চাহিদাপত্র প্রেরণ করেছে বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ (এনটিআরসিএ)।",
       "image_s3_key": "prothomalo-bangla/2025-06-29/80ham7ns/RajshahiDH060220250621bagmara-iq-class.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-29/80ham7ns/RajshahiDH060220250621bagmara-iq-class.jpg?auto=format,compress"
+    },
+    {
+      "headline": "তাইওয়ান ইন্টারন্যাশনাল গ্র্যাজুয়েট স্কলারশিপ, এআই-ন্যানো সায়েন্সসহ ১৪টি গবেষণাক্ষেত্রে বৃত্তি",
+      "url": "https://www.prothomalo.com/education/scholarship/ll4b7d889m",
+      "published_at": "2026-01-03T02:00:00+00:00",
+      "summary": "তাইওয়ান ইন্টারন্যাশনাল গ্র্যাজুয়েট স্কলারশিপে (টিআইজিপি) আবেদনপ্রক্রিয়া চলছে।",
+      "image_s3_key": "prothomalo-bangla/2025-10-08/lg5hyx2q/156.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-08/lg5hyx2q/156.webp?auto=format,compress"
     },
     {
       "headline": "অতিরিক্ত চুপ করে থাকলে অন্যরা আপনার অবস্থান ভুলভাবে বুঝতে পারে",
