@@ -233,7 +233,8 @@ jobs:
               if href.startswith("/"):
                   return True
               netloc = urlparse(href).netloc
-              return (netloc == "" or netloc == domain)
+              # accept exact domain or subdomains
+              return (netloc == "" or netloc == domain or netloc.endswith("." + domain))
 
           def fetch_article_meta(url):
               try:
@@ -290,9 +291,6 @@ jobs:
                   if full_href in seen:
                       return None
                   if full_href.endswith("#") or ".pdf" in full_href:
-                      return None
-                  path = urlparse(full_href).path
-                  if not any(ch.isdigit() for ch in path):
                       return None
                   img_url = None
                   parent = a.parent
