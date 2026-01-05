@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-05T22:19:11.884944+00:00",
+  "fetched_at": "2026-01-05T22:48:55.665545+00:00",
   "stories": [
+    {
+      "headline": "ট্রাম্পের হুমকির মুখে হাতে অস্ত্র তুলে নেওয়ার হুঁশিয়ারি কলম্বিয়ার প্রেসিডেন্ট গুস্তাভো পেত্রোর",
+      "url": "https://www.prothomalo.com/world/south-america/3qj90ddalk",
+      "published_at": "2026-01-05T22:32:55.109000+00:00",
+      "summary": "সামাজিক যোগাযোগমাধ্যম এক্সে এক পোস্টে পেত্রো বলেন, ‘আমি আর কখনো অস্ত্র ছোঁব  না বলে শপথ নিয়েছিলাম... কিন্তু প্রয়োজন হলে দেশের জন্য আবারও অস্ত্র তুলতে নেব।’",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/ndl7d8rl/Trump-looks.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/ndl7d8rl/Trump-looks.jpg?auto=format,compress"
+    },
     {
       "headline": "ভেনেজুয়েলায় মার্কিন হামলার নিন্দা জানিয়েছে রাশিয়া ও চীন",
       "url": "https://www.prothomalo.com/world/usa/mp888wsql5",
@@ -298,22 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/nvzxt29g/THUMNAILWEB.jpg?auto=format,compress"
     },
     {
-      "headline": "ভেনেজুয়েলায় যুক্তরাষ্ট্রের হামলা ও মাদুরোকে ধরে নেওয়ার প্রতিবাদে দেশে দেশে বিক্ষোভ",
-      "url": "https://www.prothomalo.com/photo/international/wwzciht3q4",
-      "published_at": "2026-01-05T16:05:41.105000+00:00",
-      "summary": "প্রেসিডেন্ট নিকোলা মাদুরো ও তাঁর স্ত্রী সিলিয়া ফ্লোরেসকে যুক্তরাষ্ট্রের সেনাদের তুলে নিয়ে যাওয়ার প্রতিবাদে বিশ্বের বিভিন্ন দেশে বিক্ষোভ হয়েছে। বিক্ষোভের কিছু মুহূর্ত নিয়ে এই ছবির গল্প।",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/f407ssqf/Protest1.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/f407ssqf/Protest1.png?auto=format,compress"
-    },
-    {
-      "headline": "শীতে বানান মাশরুম কর্ন অনিয়ন স্টু, দেখুন রেসিপি",
-      "url": "https://www.prothomalo.com/lifestyle/recipe/63qezbkah2",
-      "published_at": "2026-01-05T16:00:00+00:00",
-      "summary": "মাংসের টুকরাগুলোতে ১ চা-চামচ কর্নফ্লাওয়ার মাখিয়ে ১ টেবিল চামচ তেলে বাদামি করে ভেজে নিন। প্যানে বাকি তেল ও রসুন দিয়ে ১ মিনিট ভাজুন। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/5ox49l8k/prothomalo-bangla2020-11e8561f33-c504-4280-86f5-891cb47cde4cIMG1492.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/5ox49l8k/prothomalo-bangla2020-11e8561f33-c504-4280-86f5-891cb47cde4cIMG1492.webp?auto=format,compress"
-    },
-    {
       "headline": "এবার রাউজানে যুবদল নেতাকে গুলি করে হত্যা",
       "url": "https://www.bd-pratidin.com/country/2026/01/05/1200842",
       "published_at": "2026-01-05T22:27:33+06:00",
@@ -475,6 +467,20 @@
       "image_url": "https://media.ndiganta.com/images/Bazlur_4tLwARh.origin.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "চট্টগ্রামে বাড়ির সামনে সাবেক যুবদল নেতাকে গুলি করে হত্যা",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/KbTC2QiT9C1B/",
+      "published_at": null,
+      "summary": "সোমবার (৫ জানুয়ারি) রাত সাড়ে ৯টার দিকে উপজেলার পূর্ব গুজরা ইউনিয়নে নিজ বাড়ির সামনে এ ঘটনা ঘটে।",
+      "image_url": "https://media.ndiganta.com/original_images/Rawzan-murder.jpg"
+    },
+    {
+      "headline": "রাজশাহীতে এলজিইডির নির্বাহী প্রকৌশলীর বিরুদ্ধে দুদকের মামলা",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/W1KVjCjnk823/",
+      "published_at": null,
+      "summary": "অবৈধভাবে অর্জিত প্রায় ৩৭ লাখ টাকা বহন ও স্থানান্তরের অভিযোগে এলজিইডির নির্বাহী প্রকৌশলী মো: ছাবিউল ইসলামসহ তিনজনের বিরুদ্ধে এ মামলা দায়ের করা হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/dudok-rajshahi.jpg"
+    },
+    {
       "headline": "খালেদা জিয়ার অবদান স্মরণ করে শ্রদ্ধা জানাল ব্যবসায়ী মহল",
       "url": "https://dailynayadiganta.com/bangladesh/national/liACXcICwfOA/",
       "published_at": null,
@@ -510,39 +516,11 @@
       "image_url": "https://media.ndiganta.com/original_images/Altaf-Chowdhury_x2uMEpM.jpg"
     },
     {
-      "headline": "আক্ষেপ নিয়ে শফিউলের অবসর",
-      "url": "https://dailynayadiganta.com/printed-edition/NxNVasnE4XVA/",
-      "published_at": null,
-      "summary": "২০২০ সালের মার্চে মিরপুরে জিম্বাবুয়ের বিপক্ষে টি-২০ ম্যাচই ছিল পেসার শফিউল ইসলামের শেষ আন্তর্জাতিক ম্যাচ। এরপর প্রায় ছয় বছর কেটে গেলেও আর জাতীয় দলে ফেরা হয়নি তার। যদিও ঘরোয়া ক্রিকেটে নিয়মিতই খেলছিলেন। প্রতিযোগিতামূলক ক্রিকেটে সর্বশেষ গত বছরের মার্চে ঢাকা প্রিমিয়ার লিগে খেলেন ৩৬ বছর বয়সী এই পেসার। ইনজুরি ও বয়স-দুটোই ধীরে ধীরে তার ক্যারিয়ারে প্রভাব ফেলে। আক্ষেপে সব ধরনের ক্রিকেট থেকে অবসর নিয়েছেন শফিউল। ফেসবুকে এক বিবৃতিতে এমনটাই জানিয়েছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "আইপিএল দেখব না : পাইলট",
-      "url": "https://dailynayadiganta.com/printed-edition/5mLYpuFejU19/",
-      "published_at": null,
-      "summary": "ভারতে গিয়ে খেলতে না যাওয়া, ভিন্ন ভেনু চাওয়া, আইপিএল সম্প্রচার বন্ধ। বিসিবি ও বাংলাদেশ সরকারের সিদ্ধান্তকে সাধুবাদ জানিয়েছেন সাবেক জাতীয় দলের অধিনায়ক খালেদ মাসুদ পাইলট। সম্প্রচার বন্ধ নিয়ে পাইলট বলেন, ‘যেখানে আমাদের খেলোয়াড়দের সম্মান নাই সেই চ্যানেলটা বা সেই স্পোর্টস আমাদের দেখারও দরকার নাই। আমরা দেখবই না ওই খেলা কেননা আমরা ক্রিকেটকে ভালোবাসি। অল ওভার অল স্পোর্টসকে ভালোবাসি, কিন্তু আপনি যখন আমাদের নাগরিককে অসম্মান করবেন তখন ওইটা আমাদের এভয়েড (না দেখা) করাই উচিত।’",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "ধর্ম উপদেষ্টাছলচাতুরীর মাধ্যমে ক্ষমতা দীর্ঘায়িত করার অপচেষ্টা বন্ধ হবে গণভোটের মাধ্যমে",
+      "headline": "ছলচাতুরীর মাধ্যমে ক্ষমতা দীর্ঘায়িত করার অপচেষ্টা বন্ধ হবে গণভোটের মাধ্যমে",
       "url": "https://dailynayadiganta.com/bangladesh/national/JDpGUrd3DcLB/",
       "published_at": null,
       "summary": "‘তত্ত্বাবধায়ক সরকার, নির্বাচন কমিশন ও সরকারি কর্ম কমিশন গঠনে সরকারি ও বিরোধী দল একত্রে কাজ করবেও এই গণভোটের মাধ্যমে।’",
       "image_url": "https://media.ndiganta.com/original_images/image-270611-1767635590.webp"
-    },
-    {
-      "headline": "রূপগঞ্জে ৩টি ওয়ান শুটারগান সহ গ্রেফতার ১",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/i8CGd05mZeF6/",
-      "published_at": null,
-      "summary": "নারায়ণগঞ্জ জেলার রূপগঞ্জ উপজেলার চনপাড়া পুনরবাসন এলাকা থেকে যৌথ বাহিনীর সদস্যরা অভিযান চালিয়ে  তিনটি শুটারগান সহ রাসেল বেপারী(৪০) নামের এক সন্ত্রাসীকে গ্রেফতার করেছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Narayan.jpg"
-    },
-    {
-      "headline": "জামিনের পর কারাগার থেকে মুক্তি পেলেন জুলাইযোদ্ধা সুরভী",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/8ps9arMYkkjv/",
-      "published_at": null,
-      "summary": "সোমবার (৫ জানুয়ারি) সন্ধ্যা ৬টার দিকে গাজীপুরের দায়রা জজ আদালতের বিচারক অমিত কুমার গুহ রিমান্ড আদেশ বাতিল করে সুরভীর জামিন মঞ্জুর করেছেন। এরপর রাত পৌনে ৮টার দিকে জেলা কারাগার থেকে মুক্তি পান সুরভী।",
-      "image_url": "https://media.ndiganta.com/original_images/Surovi.jpg"
     },
     {
       "headline": "আজকের সর্বশেষ খবর - January 06, 2026",
@@ -557,6 +535,50 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ভেনেজুয়েলায় যুক্তরাষ্ট্রের হামলা ও মাদুরোকে ধরে নেওয়ার প্রতিবাদে দেশে দেশে বিক্ষোভ",
+      "url": "https://www.prothomalo.com/photo/international/wwzciht3q4",
+      "published_at": "2026-01-05T16:05:41.105000+00:00",
+      "summary": "প্রেসিডেন্ট নিকোলা মাদুরো ও তাঁর স্ত্রী সিলিয়া ফ্লোরেসকে যুক্তরাষ্ট্রের সেনাদের তুলে নিয়ে যাওয়ার প্রতিবাদে বিশ্বের বিভিন্ন দেশে বিক্ষোভ হয়েছে। বিক্ষোভের কিছু মুহূর্ত নিয়ে এই ছবির গল্প।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/f407ssqf/Protest1.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/f407ssqf/Protest1.png?auto=format,compress"
+    },
+    {
+      "headline": "শীতে বানান মাশরুম কর্ন অনিয়ন স্টু, দেখুন রেসিপি",
+      "url": "https://www.prothomalo.com/lifestyle/recipe/63qezbkah2",
+      "published_at": "2026-01-05T16:00:00+00:00",
+      "summary": "মাংসের টুকরাগুলোতে ১ চা-চামচ কর্নফ্লাওয়ার মাখিয়ে ১ টেবিল চামচ তেলে বাদামি করে ভেজে নিন। প্যানে বাকি তেল ও রসুন দিয়ে ১ মিনিট ভাজুন। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/5ox49l8k/prothomalo-bangla2020-11e8561f33-c504-4280-86f5-891cb47cde4cIMG1492.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/5ox49l8k/prothomalo-bangla2020-11e8561f33-c504-4280-86f5-891cb47cde4cIMG1492.webp?auto=format,compress"
+    },
+    {
+      "headline": "আক্ষেপ নিয়ে শফিউলের অবসর",
+      "url": "https://dailynayadiganta.com/printed-edition/NxNVasnE4XVA/",
+      "published_at": null,
+      "summary": "২০২০ সালের মার্চে মিরপুরে জিম্বাবুয়ের বিপক্ষে টি-২০ ম্যাচই ছিল পেসার শফিউল ইসলামের শেষ আন্তর্জাতিক ম্যাচ। এরপর প্রায় ছয় বছর কেটে গেলেও আর জাতীয় দলে ফেরা হয়নি তার। যদিও ঘরোয়া ক্রিকেটে নিয়মিতই খেলছিলেন। প্রতিযোগিতামূলক ক্রিকেটে সর্বশেষ গত বছরের মার্চে ঢাকা প্রিমিয়ার লিগে খেলেন ৩৬ বছর বয়সী এই পেসার। ইনজুরি ও বয়স-দুটোই ধীরে ধীরে তার ক্যারিয়ারে প্রভাব ফেলে। আক্ষেপে সব ধরনের ক্রিকেট থেকে অবসর নিয়েছেন শফিউল। ফেসবুকে এক বিবৃতিতে এমনটাই জানিয়েছেন।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "আইপিএল দেখব না : পাইলট",
+      "url": "https://dailynayadiganta.com/printed-edition/5mLYpuFejU19/",
+      "published_at": null,
+      "summary": "ভারতে গিয়ে খেলতে না যাওয়া, ভিন্ন ভেনু চাওয়া, আইপিএল সম্প্রচার বন্ধ। বিসিবি ও বাংলাদেশ সরকারের সিদ্ধান্তকে সাধুবাদ জানিয়েছেন সাবেক জাতীয় দলের অধিনায়ক খালেদ মাসুদ পাইলট। সম্প্রচার বন্ধ নিয়ে পাইলট বলেন, ‘যেখানে আমাদের খেলোয়াড়দের সম্মান নাই সেই চ্যানেলটা বা সেই স্পোর্টস আমাদের দেখারও দরকার নাই। আমরা দেখবই না ওই খেলা কেননা আমরা ক্রিকেটকে ভালোবাসি। অল ওভার অল স্পোর্টসকে ভালোবাসি, কিন্তু আপনি যখন আমাদের নাগরিককে অসম্মান করবেন তখন ওইটা আমাদের এভয়েড (না দেখা) করাই উচিত।’",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "রূপগঞ্জে ৩টি ওয়ান শুটারগান সহ গ্রেফতার ১",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/i8CGd05mZeF6/",
+      "published_at": null,
+      "summary": "নারায়ণগঞ্জ জেলার রূপগঞ্জ উপজেলার চনপাড়া পুনরবাসন এলাকা থেকে যৌথ বাহিনীর সদস্যরা অভিযান চালিয়ে  তিনটি শুটারগান সহ রাসেল বেপারী(৪০) নামের এক সন্ত্রাসীকে গ্রেফতার করেছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Narayan.jpg"
+    },
+    {
+      "headline": "জামিনের পর কারাগার থেকে মুক্তি পেলেন জুলাইযোদ্ধা সুরভী",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/8ps9arMYkkjv/",
+      "published_at": null,
+      "summary": "সোমবার (৫ জানুয়ারি) সন্ধ্যা ৬টার দিকে গাজীপুরের দায়রা জজ আদালতের বিচারক অমিত কুমার গুহ রিমান্ড আদেশ বাতিল করে সুরভীর জামিন মঞ্জুর করেছেন। এরপর রাত পৌনে ৮টার দিকে জেলা কারাগার থেকে মুক্তি পান সুরভী।",
+      "image_url": "https://media.ndiganta.com/original_images/Surovi.jpg"
     },
     {
       "headline": "হাসপাতাল থেকে ছাড়া পেলেন ওবায়দুল কাদের",
@@ -1468,27 +1490,6 @@
       "published_at": "2026-01-05T20:40:59+06:00",
       "summary": "চট্টগ্রামের ১৬ টি সংসদীয় আসনের মধ্যে বিএনপির দুইজন বিদ্রোহী প্রার্থী রয়েছেন। যাচাই-বাছাই শেষে তাদের মনোনয়নপত্র বৈধ ঘোষণা করেছেন সংশ্লিষ্ট রিটার্নিং কর্মকর্তা।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767624054-f6e58f5148327856f3f77ee3997ff032.jpg"
-    },
-    {
-      "headline": "হল থেকে বিদেশি মদ উদ্ধার, জাবি শিক্ষার্থী বহিষ্কার",
-      "url": "https://www.bd-pratidin.com/campus-online/2026/01/05/1200786",
-      "published_at": "2026-01-05T20:34:22+06:00",
-      "summary": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের (জাবি) হল থেকে বিদেশি মদ উদ্ধার হওয়ার ঘটনায় মো. ফজলে আজওয়াদ নামে এক শিক্ষার্থীকে এক বছরের জন্য বহিষ্কার করেছে বিশ্ববিদ্যালয় প্রশাসন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767623654-d0e22c1c992349dd1ec384c4c5c870df.jpg"
-    },
-    {
-      "headline": "চাকরি দেওয়ার নামে ৬৫ লাখ টাকা নেওয়ায় রেল কর্মকর্তার নামে মামলা",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/05/1200781",
-      "published_at": "2026-01-05T20:22:34+06:00",
-      "summary": "রেলওয়ের পূর্বাঞ্চলের সাবেক সহকারী প্রশাসনিক কর্মকর্তা সৈয়দ আবজুরুল হকের বিরুদ্ধে চাকরি দেওয়ার নামে ৬৫ লাখ টাকা হাতিয়ে নেওয়ার অভিযোগে মামলা করেছে দুদক। দুর্নীতি দমন কমিশনের সমন্বিত রাজশাহী জেলা কার্যালয়ের সহকারী পরিচালক আমির হোসাইন বাদী হয়ে সোমবার মামলাটি করেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767622950-56275da1b396826047dbda08536620ab.jpg"
-    },
-    {
-      "headline": "জানুয়ারির ৪ দিনে রেমিট্যান্স এলো ৪৬ কোটি ডলার",
-      "url": "https://www.bd-pratidin.com/economy/2026/01/05/1200780",
-      "published_at": "2026-01-05T20:19:56+06:00",
-      "summary": "জানুয়ারি মাসের প্রথম ৪ দিনে দেশে রেমিট্যান্স এসেছে ৪৬ কোটি ৬০ লাখ মার্কিন ডলার। এই হিসাবে প্রতিদিন গড়ে দেশে এসেছে ১১ কোটি ৬৫ লাখ ডলার রেমিট্যান্স।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767622789-a4a2c22c85451e94294fac2ec87c48c2.jpg"
     }
   ]
 }
