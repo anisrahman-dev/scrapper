@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-01-05T19:21:06.863379+00:00",
+  "fetched_at": "2026-01-05T19:43:42.359027+00:00",
   "stories": [
+    {
+      "headline": "আমি নির্দোষ, আমি আমার দেশের প্রেসিডেন্ট: নিকোলা মাদুরো",
+      "url": "https://www.prothomalo.com/world/nhb3916tr6",
+      "published_at": "2026-01-05T19:26:07.597000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-05/bvbpr8jp/MADURO-NEW-YORK-prothomalo-0.JPG.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/bvbpr8jp/MADURO-NEW-YORK-prothomalo-0.JPG.JPG?auto=format,compress"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রে সরকারি সুবিধা নেয় বাংলাদেশিদের ৫৪ দশমিক ৮ শতাংশ পরিবার",
+      "url": "https://www.prothomalo.com/bangladesh/r87uz1hoh5",
+      "published_at": "2026-01-05T19:17:48.460000+00:00",
+      "summary": "যুক্তরাষ্ট্রের অভিবাসীদের মধ্যে কোন দেশের নাগরিকেরা বেশি সরকারি কল্যাণ বা আর্থিক সহায়তা (ওয়েলফেয়ার) নিচ্ছেন, তার একটি তালিকা প্রকাশ করেছেন দেশটির প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/7mhtpz3t/USPeople.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/7mhtpz3t/USPeople.jpg?auto=format,compress"
+    },
     {
       "headline": "ইরানে বিক্ষোভ গড়িয়েছে দ্বিতীয় সপ্তাহে, প্রাণহানি বেড়ে ১২",
       "url": "https://www.prothomalo.com/world/middle-east/4mw9erfegx",
@@ -40,14 +56,6 @@
       "summary": "সামাজিক যোগাযোগমাধ্যমে বেশ সক্রিয় তাহসানের স্ত্রী। নতুন লুকে কয়েকটি স্থিরচিত্র পোস্ট করেছেন। রোজার পোস্ট করা স্থিরচিত্রে তাহসান–ভক্তরা চমকে গেছেন।",
       "image_s3_key": "prothomalo-bangla/2026-01-05/03cjnhhz/Tahsan-wife-1-1.png",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/03cjnhhz/Tahsan-wife-1-1.png?auto=format,compress"
-    },
-    {
-      "headline": "আমি নির্দোষ, আমি আমার দেশের প্রেসিডেন্ট: নিকোলা মাদুরো",
-      "url": "https://www.prothomalo.com/world/nhb3916tr6",
-      "published_at": "2026-01-05T18:25:35.301000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-05/bvbpr8jp/MADURO-NEW-YORK-prothomalo-0.JPG.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/bvbpr8jp/MADURO-NEW-YORK-prothomalo-0.JPG.JPG?auto=format,compress"
     },
     {
       "headline": "চলে গেলেন বীরাঙ্গনা যোগমায়া মালো",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-09/4c665fb3-84e3-4313-8645-73555d2c4d2e/Thamb.png?auto=format,compress"
     },
     {
-      "headline": "যুক্তরাষ্ট্রের ভাইস প্রেসিডেন্ট জেডি ভ্যান্সের বাড়িতে ঢুকে ভাঙচুরের ঘটনায় একজন আটক",
-      "url": "https://www.prothomalo.com/world/usa/b5k51ii8no",
-      "published_at": "2026-01-05T15:25:18.120000+00:00",
-      "summary": "যুক্তরাষ্ট্রের ভাইস প্রেসিডেন্ট জেডি ভ্যান্সের বাড়িতে ভাঙচুরের অভিযোগে এক ব্যক্তিকে আটক করেছে সিনসিনাটি পুলিশ।",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/014qqrth/JD-Vance.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/014qqrth/JD-Vance.jpg?auto=format,compress"
-    },
-    {
       "headline": "এবার রাউজানে যুবদল নেতাকে গুলি করে হত্যা",
       "url": "https://www.bd-pratidin.com/country/2026/01/05/1200842",
       "published_at": "2026-01-05T22:27:33+06:00",
@@ -384,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767626154-a6911a00d76a762bded220db0148b753.jpg"
     },
     {
+      "headline": "মাউশির শিক্ষাবৃত্তির সংখ্যা ও অর্থের পরিমাণ বাড়ানোর উদ্যোগ",
+      "url": "https://www.ittefaq.com.bd/769112/%E0%A6%AE%E0%A6%BE%E0%A6%89%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%93-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A3",
+      "published_at": null,
+      "summary": "দেশের মাধ্যমিক থেকে উচ্চশিক্ষা স্তর পর্যন্ত ‘মেধা’ ও ‘সাধারণ’ বৃত্তির সংখ্যা বৃদ্ধিসহ এর অর্থের পরিমাণ বাড়ানোর বড় পরিকল্পনা নিয়েছে অন্তর্বর্তী সরকার।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2023/07/23/0cb1d9d8ceea86eedff309852cbe8590-64bd24388337d.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "সরস্বতী পূজা ও আশুরাসহ ধর্মীয় ছুটি বাতিল করা হয়নি: প্রেস উইং",
       "url": "https://www.ittefaq.com.bd/769119/%E0%A6%B8%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A7%80-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%93-%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%9B%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A6%BE",
       "published_at": null,
@@ -447,13 +454,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/1b38b495310018b94f5f29a702431986-695bdc49734c8.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
-      "headline": "প্রতীক বরাদ্দের আগে নির্বাচনি প্রচারণা করা যাবে না: ইসি",
-      "url": "https://www.ittefaq.com.bd/769105/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
-      "published_at": null,
-      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রতীক বরাদ্দের আগে কোনো রাজনৈতিক দল, প্রতিদ্বন্দ্বী প্রার্থী বা তার পক্ষে অন্য কোনো ব্যক্তি নির্বাচনি প্রচারণা চালাতে পারবেন না।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/11/18ddb323b80e62a9c44f17611d26a364-693abada7a632.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
       "headline": "গুমের সংখ্যা ৪ থেকে ৬ হাজার",
       "url": "https://dailynayadiganta.com/printed-edition/pBd1ovgEUkUF/",
       "published_at": null,
@@ -475,14 +475,56 @@
       "image_url": "https://media.ndiganta.com/images/Bazlur_4tLwARh.origin.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
-      "headline": "শ্রমবাজার ও বেকারত্ব, সংখ্যার আড়ালে কাঠামোগত সঙ্কট",
-      "url": "https://dailynayadiganta.com/economy/kdyqARGwkiHO/",
+      "headline": "ভোটের পরিবেশ নিয়ে শঙ্কায়  স্বতন্ত্র ও ছোট দলের প্রার্থীরা",
+      "url": "https://dailynayadiganta.com/printed-edition/0EY3xhfTDpg8/",
       "published_at": null,
-      "summary": "চাকরিহীন প্রবৃদ্ধি, নারীর পশ্চাৎপসরণ ও অপ্রাতিষ্ঠানিক অর্থনীতির ফাঁদ",
-      "image_url": "https://media.ndiganta.com/original_images/wOMEN.jpg"
+      "summary": "সংবিধানে যেখানে সব নাগরিকের সমান অধিকারের নিশ্চয়তা দেয়া হয়েছে, সেখানে প্রতিনিধিত্ব আদেশে (আরপিও) স্বতন্ত্র প্রার্থীদের ক্ষেত্রে এক শতাংশ ভোটারের স্বাক্ষর জমা দেয়ার বাধ্যবাধকতাকে বৈষম্যমূলক বলে মন্তব্য করেছেন মনোনয়নপত্র বাতিল হওয়া স্বতন্ত্র প্রার্থীরা। তাদের অভিযোগ, দলীয় প্রার্থীদের জন্য যেখানে এ ধরনের শর্ত নেই, সেখানে স্বতন্ত্রদের ওপর এই বাড়তি চাপ সংবিধানের মৌলিক চেতনার পরিপন্থী।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "ছলচাতুরীর মাধ্যমে ক্ষমতা দীর্ঘায়িত করার অপচেষ্টা বন্ধ হবে গণভোটের মাধ্যমে",
+      "headline": "বাংলাদেশে আইপিএলের সম্প্রচার বন্ধের নির্দেশ",
+      "url": "https://dailynayadiganta.com/printed-edition/VHbnvFtchxl8/",
+      "published_at": null,
+      "summary": "ভারতীয় ক্রিকেট বোর্ড (বিসিসিআই) কর্তৃক বাংলাদেশ জাতীয় দলের তারকা পেসার মোস্তাফিজুর রহমানকে ইন্ডিয়ান প্রিমিয়ার লিগ (আইপিএল) থেকে বাদ দেয়ার ঘটনায় কড়া প্রতিক্রিয়া জানিয়েছে বাংলাদেশ সরকার। এর অংশ হিসেবে বাংলাদেশে আইপিএলের সব ধরনের সম্প্রচার ও প্রচারকার্যক্রম বন্ধ রাখার নির্দেশ দিয়েছে তথ্য ও সম্প্রচার মন্ত্রণালয়।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "র‌্যাবকে বিলুপ্ত, আইনপ্রয়োগ সংস্থা থেকে সশস্ত্রবাহিনী প্রত্যাহারের সুপারিশ",
+      "url": "https://dailynayadiganta.com/printed-edition/wWEZAPNkdSCO/",
+      "published_at": null,
+      "summary": "গণ-অভ্যুত্থানের মুখে দেশ ছেড়ে পালিয়ে যাওয়া শেখ হাসিনা তথা আওয়ামী আমলে গুমের ঘটনার প্রায় ২৫ শতাংশের সাথে র‌্যাব জড়িত, আর ২৩ শতাংশের সাথে পুলিশ। এ ছাড়াও ডিবি, সিটিটিসি, ডিজিএফআই ও এনএসআই ব্যাপকহারে গুম করেছে। বহুক্ষেত্রে সাদা পোশাকধারী বা ‘প্রশাসনের লোক’ পরিচয়ে অপহরণের প্রতিবেদন দিয়েছে গুমসংক্রান্ত কমিশন অব ইনকোয়ারি। গুম কমিশনের রিপোর্টে সুপারিশ করা হয়েছে, রথ্যাপিড অ্যাকশন ব্যাটালিয়ন (র‌্যাব) বিলুপ্তকরণ, অভ্যন্তরীণ আইনশৃঙ্খলা রক্ষার দায়িত্ব থেকে সশস্ত্রবাহিনী প্রত্যাহার করা। গতকাল সোমবার বিকেলে রাজধানীর গুলশানে অবস্থিত গুমসংক্রান্ত কমিশন অব ইনকোয়ারির সদস্যরা এক সংবাদ সম্মেলনে এমন তথ্য জানায়।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "নির্বাচিত সরকারের সাথে কাজ করার  অপেক্ষায় বিশ^ব্যাংক-আইএমএফ",
+      "url": "https://dailynayadiganta.com/printed-edition/4vsJz3M9FIms/",
+      "published_at": null,
+      "summary": "বিশ^ব্যাংক ও আন্তর্জাতিক অর্থ তহবিল (আইএমএফ) আগামী ফেব্রুয়ারির নির্বাচনের পর যে সরকার আসবে তার সাথে কাজ করার জন্য অপেক্ষায় আছে। নির্বাচিত সরকার দায়িত্ব নেয়ার পর বিশ^ব্যাংকের পক্ষ থেকে বাজেট সহায়তা ও আইএমএফের পক্ষ থেকে পূর্বে নেয়া ঋণের কিস্তি ছাড় করা হবে বলে অর্থ মন্ত্রণালয় সূত্রে জানা গেছে।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "আবারো ঐক্যের পথে জামায়াত   ও ইসলামী আন্দোলন",
+      "url": "https://dailynayadiganta.com/printed-edition/vbx7R3FwabsV/",
+      "published_at": null,
+      "summary": "আসন সমঝোতা নিয়ে জামায়াতে ইসলামী ও ইসলামী আন্দোলনের মনকষাকষি অবশেষে কমে আসছে। দ্রুতই আবার বৈঠকে বসতে যাচ্ছে জোটের শরিকরা। প্রার্থিতা প্রত্যাহারের সময়ের আগেই আসন সমঝোতা শেষ হতে পারে বলে জানা গেছে। তবে এর আগেই বেশির ভাগ আসনের প্রার্থী তালিকা ঘোষণা করতে পারে এ জোট।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "গণভোট নিয়ে মাথাব্যথা কম",
+      "url": "https://dailynayadiganta.com/printed-edition/uPuuMHmwvYCJ/",
+      "published_at": null,
+      "summary": "জাতীয় নির্বাচনে ব্যস্ত ইসি, জুলাই সনদে দ্বিধাবিভক্ত রাজনৈতিক দল",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "মাদুরোকে হাতকড়া পরিয়ে আদালতে তুলল যুক্তরাষ্ট্র",
+      "url": "https://dailynayadiganta.com/printed-edition/6wESWY31rTNW/",
+      "published_at": null,
+      "summary": "ভেনিজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরো ও তার স্ত্রীকে নিউ ইয়র্কে ম্যানহাটনের একটি আদালতে তুলেছে যুক্তরাষ্ট্র। তাদেরকে আদালতে নেয়ার নাটকীয় ছবি প্রকাশ করেছে বিবিসি। ছবিতে দেখা গেছে, মাদুরোকে হাতকড়া পরিয়ে হাঁটিয়ে নিয়ে যাওয়া হচ্ছে। এ সময় মাদুরো ও তার স্ত্রী সিলিয়া ফ্লোরেসের পাহারায় ছিলেন সশস্ত্র কর্মকর্তারা।",
+      "image_url": "https://media.ndiganta.com/original_images/first-4_brKRTCL.png"
+    },
+    {
+      "headline": "ধর্ম উপদেষ্টাছলচাতুরীর মাধ্যমে ক্ষমতা দীর্ঘায়িত করার অপচেষ্টা বন্ধ হবে গণভোটের মাধ্যমে",
       "url": "https://dailynayadiganta.com/bangladesh/national/JDpGUrd3DcLB/",
       "published_at": null,
       "summary": "‘তত্ত্বাবধায়ক সরকার, নির্বাচন কমিশন ও সরকারি কর্ম কমিশন গঠনে সরকারি ও বিরোধী দল একত্রে কাজ করবেও এই গণভোটের মাধ্যমে।’",
@@ -534,7 +576,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 06, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "মানিকগঞ্জে কৃত্রিম সংকটের অজুহাত দেখিয়ে বোতলজাত এলপিজি গ্যাসের সিলিন্ডার প্রতি অতিরিক্ত অর্থ আদায়ের অভিযোগে দুই পরিবেশককে দেড় লাখ টাকা জরিমানা ...",
+      "summary": "মানিকগঞ্জের হরিরামপুর উপজেলার ডাকরখালি সরকারি প্রাথমিক বিদ্যালয়ের প্রধান শিক্ষক মো. সাঈদ হোসেনের বিরুদ্ধে প্রত্যয়নপত্র বিতরণ ও শ্রেণি উত্তরণে শিক্ষার্থীদের কাছ ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -543,6 +585,28 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রের ভাইস প্রেসিডেন্ট জেডি ভ্যান্সের বাড়িতে ঢুকে ভাঙচুরের ঘটনায় একজন আটক",
+      "url": "https://www.prothomalo.com/world/usa/b5k51ii8no",
+      "published_at": "2026-01-05T15:25:18.120000+00:00",
+      "summary": "যুক্তরাষ্ট্রের ভাইস প্রেসিডেন্ট জেডি ভ্যান্সের বাড়িতে ভাঙচুরের অভিযোগে এক ব্যক্তিকে আটক করেছে সিনসিনাটি পুলিশ।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/014qqrth/JD-Vance.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/014qqrth/JD-Vance.jpg?auto=format,compress"
+    },
+    {
+      "headline": "প্রতীক বরাদ্দের আগে নির্বাচনি প্রচারণা করা যাবে না: ইসি",
+      "url": "https://www.ittefaq.com.bd/769105/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
+      "published_at": null,
+      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রতীক বরাদ্দের আগে কোনো রাজনৈতিক দল, প্রতিদ্বন্দ্বী প্রার্থী বা তার পক্ষে অন্য কোনো ব্যক্তি নির্বাচনি প্রচারণা চালাতে পারবেন না।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/11/18ddb323b80e62a9c44f17611d26a364-693abada7a632.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "শ্রমবাজার ও বেকারত্ব, সংখ্যার আড়ালে কাঠামোগত সঙ্কট",
+      "url": "https://dailynayadiganta.com/economy/kdyqARGwkiHO/",
+      "published_at": null,
+      "summary": "চাকরিহীন প্রবৃদ্ধি, নারীর পশ্চাৎপসরণ ও অপ্রাতিষ্ঠানিক অর্থনীতির ফাঁদ",
+      "image_url": "https://media.ndiganta.com/original_images/wOMEN.jpg"
     },
     {
       "headline": "জামিনে কারামুক্ত চাঁদাবাজির মামলায় গ্রেপ্তার ‘জুলাই যোদ্ধা’ তাহরিমা",
@@ -1431,72 +1495,6 @@
       "published_at": null,
       "summary": "যশোরের মণিরামপুর উপজেলায় প্রকাশ্যে গুলি করে রানা প্রতাপ (৪৫) নামের এক ব্যক্তিকে হত্যা করেছে দুর্বৃত্তরা। সোমবার (৫ জানুয়ারি) সন্ধ্যা পৌনে ৬টার দিকে উপজেলার কপালিয়া বাজার এলাকায় ঘটনা ঘটে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/bc0639c664c265c23fb546770a0cb06a-695bc64c5c235.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "শাহিন আফ্রিদির বদলি খেলেয়োড়ের নাম ঘোষণা",
-      "url": "https://dailynayadiganta.com/sports/cricket/PIrS5DlJ6xXo/",
-      "published_at": null,
-      "summary": "পিএসএল ও বিবিএলের পাশাপাশি ইংল্যান্ডের ‘দ্য হান্ড্রেড’ প্রতিযোগিতায়ও তার খেলার অভিজ্ঞতা রয়েছে। সেখানে তিনি ম্যানচেস্টার অরিজিনালসের হয়ে খেলেছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Shaheen-Afridi-in-Big-Bash.jpg"
-    },
-    {
-      "headline": "হাসিনাকে বাংলাদেশে পাঠাতে মোদির প্রতি আহ্বান ওয়াইসির",
-      "url": "https://dailynayadiganta.com/video/GOpvXK05pmL1/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "আইপিএলের খেলা নিয়ে সাম্প্রতিক ঘটনা",
-      "url": "https://dailynayadiganta.com/video/cblh1hrZXlqg/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "খালেদা জিয়ার মাগফিরাত কামনায় রাজশাহীতে দোয়া মাহফিল",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/G8enjF9HLVQi/",
-      "published_at": null,
-      "summary": "সাবেক প্রধানমন্ত্রী ও বিএনপির চেয়ারপারসন বেগম খালেদা জিয়ার রুহের মাগফিরাত কামনায় রাজশাহীতে দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Rajshahi_BNP.jpg"
-    },
-    {
-      "headline": "তারিখ পরিবর্তন, স্থগিত পেরিয়ে জকসু নির্বাচন মঙ্গলবার",
-      "url": "https://dailynayadiganta.com/bangladesh/education-campus/TrzQOWgxu2ZX/",
-      "published_at": null,
-      "summary": "এবারের নির্বাচনে ভোটার সংখ্যা ১৬ হাজার ৪৪৫ জন। কেন্দ্রীয় সংসদের ২১টি পদের বিপরীতে ১৫৭ জন এবং হল সংসদের ১৩টি পদের বিপরীতে ৩৩ জন প্রার্থী প্রতিদ্বন্দ্বিতা করছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/JnU-Election.jpg"
-    },
-    {
-      "headline": "প্রহসনের নির্বাচনের পুনরাবৃত্তির চেষ্টা করলে জাতি বসে থাকবে না",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/AE7njJighLz7/",
-      "published_at": null,
-      "summary": "‘২০০৮, ২০১৪, ২০১৮ কিংবা ২০২৪ সালের প্রহসনের নির্বাচনের পুনরাবৃত্তির চেষ্টা করলে জাতি চুপ করে বসে থাকবে না। সাথে সাথে প্রহসনের নির্বাচন প্রতিহত করবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Helal_Uddin_HB65ODP.jpg"
-    },
-    {
-      "headline": "স্মার্টফোনে স্যাটেলাইটের মাধ্যমে যোগাযোগের সুবিধা আনতে পারে স্যামসাং",
-      "url": "https://www.prothomalo.com/technology/0bzprp47ej",
-      "published_at": "2026-01-05T12:45:57.470000+00:00",
-      "summary": "নিজেদের নতুন ফ্ল্যাগশিপ স্মার্টফোন সিরিজ গ্যালাক্সি এস২৬ উন্মোচনের প্রস্তুতি নিচ্ছে স্যামসাং। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/h18epgwf/Samsung-Galaxy-S26.Samsung.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/h18epgwf/Samsung-Galaxy-S26.Samsung.png?auto=format,compress"
-    },
-    {
-      "headline": "গাজীপুরে চাঁদাবাজির মামলায় ‘জুলাই যোদ্ধা’ তাহরিমা রিমান্ডে, আদালতপাড়ায় বিক্ষোভ",
-      "url": "https://www.prothomalo.com/bangladesh/district/qbucja49f1",
-      "published_at": "2026-01-05T12:35:34.490000+00:00",
-      "summary": "শুনানি শেষে বিচারক তাহরিমার রিমান্ড মঞ্জুর করলে জাতীয় ছাত্রশক্তির নেতা-কর্মীরা এজলাসের ফটকে বিক্ষোভ করতে থাকেন। এ সময় আদালতপাড়ায় আতঙ্ক ছড়িয়ে পড়ে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/p7b2sxrf/GazipurDH061520260105Screenshot20260105172434Gallery.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/p7b2sxrf/GazipurDH061520260105Screenshot20260105172434Gallery.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আরও আন্দোলনকারীকে হত্যা করা হলে ইরানে ‘কঠোর আঘাত’ করার হুমকি ট্রাম্পের",
-      "url": "https://www.prothomalo.com/world/middle-east/wt8dr15kwt",
-      "published_at": "2026-01-05T12:35:30.930000+00:00",
-      "summary": "ভেনেজুয়েলায় সামরিক অভিযানের রেশ কাটতে না কাটতেই এবার ইরানকে হুমকি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-      "image_s3_key": "prothomalo-bangla/2025-06-28/a05srnct/Trump.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-28/a05srnct/Trump.jpg?auto=format,compress"
     }
   ]
 }
