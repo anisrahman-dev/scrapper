@@ -1,6 +1,94 @@
 {
-  "fetched_at": "2026-01-05T07:08:58.075500+00:00",
+  "fetched_at": "2026-01-05T07:53:03.515011+00:00",
   "stories": [
+    {
+      "headline": "প্রথম আলোতে সংবাদের পর স্বীকৃতি পেলেন ‘গাছের বন্ধু’ বাদশা মিয়া",
+      "url": "https://www.prothomalo.com/video/bangladesh/5htxqnvfkj",
+      "published_at": "2026-01-05T07:38:27.907000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-05/osf0nxva/Web.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/osf0nxva/Web.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সৌরজগতের শেষ প্রান্ত কতটা উত্তপ্ত",
+      "url": "https://www.prothomalo.com/technology/science/h3eafqqv9n",
+      "published_at": "2026-01-05T07:38:20.762000+00:00",
+      "summary": "নাসার পাঠানো মহাকাশযান দুটি সৌরজগতের সীমানা অতিক্রম করার সময় প্রচণ্ড উত্তপ্ত আগুনের দেয়ালের মুখোমুখি হয়েছিল। ",
+      "image_s3_key": "prothomalo-bangla/2025-08-11/pfzrhwf5/illustration-solar-system.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-08-11/pfzrhwf5/illustration-solar-system.jpg?auto=format,compress"
+    },
+    {
+      "headline": "নষ্ট ফ্লাডলাইট, অচল স্কোরবোর্ডে যেভাবে চলছে নারী ফুটবল লিগ ",
+      "url": "https://www.prothomalo.com/sports/football/db142jfiph",
+      "published_at": "2026-01-05T07:38:12.811000+00:00",
+      "summary": "নানা অব্যবস্থাপনার মধ্যেই গত ২৯ ডিসেম্বর শুরু হয়েছিল নারী ফুটবল লিগ। সপ্তাহ পার হয়ে গেলেও সেই পুরোনো ছবিটা একচুলও বদলায়নি। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-04/vn2cmub2/WhatsApp-Image-2026-01-04-at-18.09.26.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/vn2cmub2/WhatsApp-Image-2026-01-04-at-18.09.26.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "ছিটকে পড়ার শঙ্কায় বিএনপির প্রার্থী, ভোটের মাঠে নতুন সমীকরণ",
+      "url": "https://www.prothomalo.com/bangladesh/district/x8qpngtu3a",
+      "published_at": "2026-01-05T07:34:47.141000+00:00",
+      "summary": "বিএনপির প্রার্থী সানসিলা জেবরিন বলেন, ‘দলের নেতা–কর্মী নিয়ে ধানের শীষের পক্ষে সকাল–সন্ধ্যা এলাকায় প্রচারণা করেছিলাম। আপাতত স্থগিত রয়েছে। ভোটারদের কাছ থেকে দারুণ সাড়া পেয়েছি।’",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/wh9psy27/Capture.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/wh9psy27/Capture.jpg?auto=format,compress"
+    },
+    {
+      "headline": "মাদুরোকে যুক্তরাষ্ট্রের তুলে নেওয়ার ঘটনা ‘কাপুরুষোচিত অপহরণ’: ভেনেজুয়েলার প্রতিরক্ষামন্ত্রী",
+      "url": "https://www.prothomalo.com/world/south-america/rqff2qniox",
+      "published_at": "2026-01-05T07:33:58.614000+00:00",
+      "summary": "মাদুরো সরকারের বেশির ভাগই কর্মকর্তাই পদে আছেন, ভাইস প্রেসিডেন্ট দেলসি রদ্রিগেজকে অস্থায়ী প্রেসিডেন্ট করা হয়েছে, পরবর্তী সময়ে কী ঘটতে চলেছে, তা নিয়ে ভয় ও উদ্বেগ বাড়ছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/clhotuv9/Venezuelans.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/clhotuv9/Venezuelans.avif?auto=format,compress"
+    },
+    {
+      "headline": "ভেনেজুয়েলার তেল দখলে নিতে ট্রাম্প কি কারাকাসে ‘পুতুল সরকার’ বসাতে যাচ্ছেন",
+      "url": "https://www.prothomalo.com/world/south-america/mxexzqeo07",
+      "published_at": "2026-01-05T07:33:41.956000+00:00",
+      "summary": "বিশ্বব্যাপী মোট মজুত তেলের প্রায় এক-পঞ্চমাংশ রয়েছে ভেনেজুয়েলায়। আর মজুতের দিক থেকে নবম স্থানে থাকা যুক্তরাষ্ট্রের চেয়ে পাঁচ গুণের বেশি তেল আছে ভেনেজুয়েলার হাতে। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/8cxv8q7t/Image.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/8cxv8q7t/Image.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "আইপিএল সম্প্রচার বন্ধের নির্দেশ ",
+      "url": "https://www.prothomalo.com/sports/cricket/lhrt5g54jd",
+      "published_at": "2026-01-05T07:20:14.234000+00:00",
+      "summary": "ক্রিকেটার মোস্তাফিজুর রহমানকে বাদ দেওয়ার প্রতিক্রিয়ায় বাংলাদেশে আইপিএল সম্প্রচার বন্ধ রাখার নির্দেশ দিয়েছে তথ্য ও সম্প্রচার মন্ত্রণালয়। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/yo3gtvpj/WhatsApp_Image_2026_01_02_at_7_34_00_PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/yo3gtvpj/WhatsApp_Image_2026_01_02_at_7_34_00_PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "কোরআনে বর্ণিত ‘অগ্রগামী দল’ কোনটি",
+      "url": "https://www.prothomalo.com/religion/islam/vag8omeoqn",
+      "published_at": "2026-01-05T07:17:52.951000+00:00",
+      "summary": "দুনিয়াতে যেখানে সবাই ইবাদতে অলসতা করে বা কেবল ফরজটুকু পালন করে তৃপ্ত থাকে, সেখানে এই শ্রেণির মানুষগুলো সবসময় ‘খায়রাত’ বা কল্যাণমূলক কাজে সবার আগে থাকেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/j9lq0ghb/pexels-zeynep-sude-emek-193601188-20784496.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/j9lq0ghb/pexels-zeynep-sude-emek-193601188-20784496.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সবার সহযোগিতা নিয়ে সুষ্ঠু ও বিশ্বাসযোগ্য নির্বাচন দিতে পারব: সিইসি",
+      "url": "https://www.prothomalo.com/bangladesh/qgjxymp702",
+      "published_at": "2026-01-05T07:13:36.912000+00:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং কর্মকর্তাদের দেওয়া সিদ্ধান্তের বিরুদ্ধে আজ সোমবার থেকে আপিল আবেদন গ্রহণ শুরু করেছে নির্বাচন কমিশন (ইসি)।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/gxo75x0h/prothomalo-CEC.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/gxo75x0h/prothomalo-CEC.avif?auto=format,compress"
+    },
+    {
+      "headline": "এলপিজির আমদানি বাড়াতে চেয়ে অনুমতি পাননি ব্যবসায়ীরা",
+      "url": "https://www.prothomalo.com/bangladesh/fgajh6hliy",
+      "published_at": "2026-01-05T07:11:52.665000+00:00",
+      "summary": "৬০ হাজার টন থেকে বাড়িয়ে ২ লাখ ৩০ হাজার টন আমদানির অনুমতি চেয়েছে ডেল্টা এলপিজি লিমিটেড।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/35qg52pc/HK8A1823055721.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/35qg52pc/HK8A1823055721.jpg?auto=format,compress"
+    },
+    {
+      "headline": "চট্টগ্রামে জাহাজ থেকে কর্ণফুলী নদীতে পড়ে শ্রমিক নিখোঁজ",
+      "url": "https://www.prothomalo.com/bangladesh/district/8ld6dj9wjf",
+      "published_at": "2026-01-05T07:05:21.181000+00:00",
+      "summary": "মো. মিজানুর রহমান আজ সোমবার দুপুর ১২টার দিকে প্রথম আলোকে বলেন, ‘নিখোঁজ ওই শ্রমিককে এখন পর্যন্ত পাওয়া যায়নি। উদ্ধারকাজ অব্যাহত আছে।’",
+      "image_s3_key": "prothomalo-bangla/2024-07/7b8937b7-0c83-4cfa-86d7-decd79b62cfb/Shipwreck লঞ্চডুবি by Rakib.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-07/7b8937b7-0c83-4cfa-86d7-decd79b62cfb/Shipwreck লঞ্চডুবি by Rakib.jpg?auto=format,compress"
+    },
     {
       "headline": "ক্রিটিকস চয়েজে বাজিমাত করলেন কারা",
       "url": "https://www.prothomalo.com/entertainment/hollywood/nv97yp8hdo",
@@ -210,6 +298,244 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/i5g4tu5z/2.jpg?auto=format,compress"
     },
     {
+      "headline": "এই লজ্জা আমরা নিজেরাই ডেকে এনেছি: মুস্তাফিজ ইস্যুতে শশী থারুর",
+      "url": "https://www.bd-pratidin.com/sports/2026/01/05/1200592",
+      "published_at": "2026-01-05T13:36:59+06:00",
+      "summary": "ইন্ডিয়ান প্রিমিয়ার লিগ থেকে বাংলাদেশের পেসার মোস্তাফিজুর রহমানকে বাদ দেওয়ার ঘটনায় ভারত ও বাংলাদেশের মধ্যে নতুন করে যে অস্বস্তি তৈরি হয়েছে, তার জন্য ভারতীয় কর্তৃপক্ষকে দায়ী করেছেন ভারতীয় কংগ্রেস নেতা শশী থারুর। তিনি বলেছেন, এই বিব্রতকর পরিস্থিতি ভারত নিজেরাই ডেকে এনেছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767598613-582fd7766cfc47f51dc0e6c252144cea.jpg"
+    },
+    {
+      "headline": "নির্বাচনে প্রতিটি কেন্দ্র নিরাপত্তায় আনসার বাহিনী প্রস্তুত : মহাপরিচালক",
+      "url": "https://www.bd-pratidin.com/national/2026/01/05/1200589",
+      "published_at": "2026-01-05T13:26:21+06:00",
+      "summary": "আনসার ভিডিপির মহাপরিচালক মেজর জেনারেল আবদুল মোতালেব সাজ্জাদ মাহমুদ বলেছেন, আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রতিটি কেন্দ্র নিরাপত্তায় আনসার বাহিনী প্রস্তুত রয়েছে। বাংলাদেশের প্রতিটি জেলা, উপজেলা ও প্রত্যন্ত অঞ্চলে তাদের নজরদারি রয়েছে এবং আমরা প্রশাসনের সব বিভাগের সঙ্গে মিলেমিশে নির্বাচনী নিরাপত্তায় দক্ষ আনসার সদস্যদের প্রশিক্ষণ দিচ্ছি। শুধু নির্বাচন নয়, দেশ ও জাতির নিরাপত্তায় আমাদের এ বাহিনী সবসময় নিয়োজিত রয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767597975-7b17382c844da9d5864e640e1a242411.jpg"
+    },
+    {
+      "headline": "পাহাড়ে বেড়েছে শীতের তীব্রতা, আগুন জ্বালিয়ে নিবারণের চেষ্টা",
+      "url": "https://www.bd-pratidin.com/country/2026/01/05/1200587",
+      "published_at": "2026-01-05T13:15:27+06:00",
+      "summary": "খাগড়াছড়ির পাহাড়ে শীতের তীব্রতা বেড়েছে। সর্বত্র ঠাণ্ডা হওয়া বইছে। সূর্যের দেখা যেন মিলছেই না। খেটে খাওয়া মানুষের কষ্টও বেড়েছে। ঠাণ্ডার কারণে হাটবাজারে গরম কাপড়ের বেচাকেনা বৃদ্ধি পেয়েছে। ঠাণ্ডায় আক্রান্ত লোকজন খাগড়াছড়ি বাজারসহ বিভিন্ন পাহাড়ি হাটবাজার থেকে গরম কাপড়চোপড় কিনতে দেখা গেছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767597323-4aef9c21f1cf62261a7b3c32baa2b5f7.jpg"
+    },
+    {
+      "headline": "এইচএসসি নিয়ে ‘অতীব জরুরি’ নির্দেশনা",
+      "url": "https://www.bd-pratidin.com/national/2026/01/05/1200585",
+      "published_at": "2026-01-05T13:13:59+06:00",
+      "summary": "২০২৬ সালের উচ্চ মাধ্যমিক সার্টিফিকেট (এইচএসসি) পরীক্ষায় অংশগ্রহণেচ্ছুক শিক্ষার্থীদের টেস্ট (নির্বাচনী) পরীক্ষা আগামী ফেব্রুয়ারি মাসে শুরু হবে। একই সঙ্গে পরবর্তী ১০ মার্চের মধ্যে ফল প্রকাশের নির্দেশ দিয়েছে ঢাকা মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, ঢাকা।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767597234-f55367f37ae207257e47b79736a757eb.jpg"
+    },
+    {
+      "headline": "মোহাম্মদপুরে দোকান কেটে স্বর্ণ ও রুপা চুরি",
+      "url": "https://www.bd-pratidin.com/city-news/2026/01/05/1200584",
+      "published_at": "2026-01-05T13:06:23+06:00",
+      "summary": "রাজধানীর মোহাম্মদপুরে একটি স্বর্ণের দোকান থেকে ৭০ ভরি স্বর্ণ, ৬০০ ভরি রুপা ও নগদ অর্থ চুরি হয়েছে বলে দাবি করেছেন দোকান মালিক।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767596777-3ac39664821f69b2758891a63abdaa07.jpg"
+    },
+    {
+      "headline": "বিশ্বকাপে বাংলাদেশের ম্যাচ সরে গেলে ভারতের ক্ষতি কতটা",
+      "url": "https://www.bd-pratidin.com/sports/2026/01/05/1200580",
+      "published_at": "2026-01-05T12:57:15+06:00",
+      "summary": "আসন্ন টি টোয়েন্টি বিশ্বকাপে গ্রুপ পর্বে বাংলাদেশের চারটি ম্যাচের তিনটি কলকাতার ইডেন গার্ডেনে এবং একটি মুম্বাইয়ের ওয়াংখেড়ে স্টেডিয়ামে অনুষ্ঠিত হওয়ার কথা ছিল। তবে আইপিএল থেকে বাংলাদেশি পেসার মোস্তাফিজুর রহমানকে বাদ দেওয়ার ইস্যুকে কেন্দ্র করে কঠোর অবস্থান নিয়েছে বাংলাদেশ ক্রিকেট বোর্ড বিসিবি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767596230-d0cf6981b03e51f07923b5e5a3ddf9bc.jpg"
+    },
+    {
+      "headline": "রংপুরে ঘন কুয়াশা ও শীত: বোরো বীজতলা নিয়ে দুশ্চিন্তায় কৃষক",
+      "url": "https://www.bd-pratidin.com/country/2026/01/05/1200579",
+      "published_at": "2026-01-05T12:55:47+06:00",
+      "summary": "রংপুর অঞ্চলে বেশ কয়েকদিন ধরে চলছে বৈরী আবহাওয়া। ঘন কুয়াশা ও শীত বোরো বীজতলায় জন্য বাধা হয়ে দাঁড়িয়েছে। বীজ তলার বয়স ৪০ থেকে ৪৫ দিন হলে তা জমিতে রোপণ করা হয়। কোনো কোনো ক্ষেত্রে আরও কম সময়ে রোপণ করা হয়। কিন্তু চারা রোপণের আগেই শীত ও কুয়াশা বীজতলার জন্য হুমকি হয়ে দাঁড়িয়েছে। ফলে কৃষকরা চিন্তিত হয়ে পড়েছে। অনেকে পলিথিন দিয়ে বীজ তলা ঢেকে তা রক্ষা করার চেষ্টা করছেন। তবে কৃষি অফিস বলছে বীজতলা পরিচর্যায় কৃষকদের পরামর্শ দেয়া হচ্ছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767596142-ea5f0338f55094acdec515eba8c97728.jpg"
+    },
+    {
+      "headline": "লক্ষ্মীপুরে পিকআপ ভ্যান চাপায় মাটিকাটা শ্রমিকের মৃত্যু",
+      "url": "https://www.bd-pratidin.com/country/2026/01/05/1200577",
+      "published_at": "2026-01-05T12:40:01+06:00",
+      "summary": "লক্ষ্মীপুরে মাটিবাহী পিকআপ ভ্যান চাপায় ফাহিম (১৫) নামে এক কিশোরের মৃত্যু হয়েছে। সে মাটি কাটার শ্রমিক ছিল। সোমবার (৫ জানুয়ারি) সকাল ৮ টার দিকে সদর উপজেলার চরশাহী ইউনিয়নের উত্তর নুরুল্লাহপুর গ্রামের কাজিরডগিতে এ দুর্ঘটনা ঘটে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767595195-eaec0aa0deceba81f35cc01be7b6a97a.jpg"
+    },
+    {
+      "headline": "বাংলাদেশের বিশ্বকাপ ম্যাচ সরানো নিয়ে জটিলতায় আইসিসি, যা হতে পারে",
+      "url": "https://www.bd-pratidin.com/sports/2026/01/05/1200575",
+      "published_at": "2026-01-05T12:38:10+06:00",
+      "summary": "টি টোয়েন্টি বিশ্বকাপে ভারতের মাটিতে নির্ধারিত বাংলাদেশের ম্যাচগুলো অন্য ভেন্যুতে সরিয়ে নেওয়ার বিষয়ে বাংলাদেশ ক্রিকেট বোর্ড বিসিবির অনুরোধ বিবেচনায় নিতে পারে আন্তর্জাতিক ক্রিকেট কাউন্সিল আইসিসি। তবে বিষয়টি সহজ নয়। একাধিক বাস্তব জটিলতার কারণে চূড়ান্ত সিদ্ধান্ত নিতে সময় লাগতে পারে বলে জানিয়েছে ক্রিকেটবিষয়ক ওয়েবসাইট ক্রিকবাজ।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767595085-f58ae6f5394f4f43ba55420e6ca01a2e.jpg"
+    },
+    {
+      "headline": "ভ্যাটের সব পেপার রিটার্ন অনলাইনে এন্ট্রির উদ্যোগ এনবিআরের",
+      "url": "https://www.bd-pratidin.com/economy/2026/01/05/1200573",
+      "published_at": "2026-01-05T12:34:30+06:00",
+      "summary": "ভ্যাট ব্যবস্থাকে আরও ডিজিটাল ও করদাতাবান্ধব করতে ভ্যাটের সব পেপার রিটার্ন ই-ভ্যাট সিস্টেমে সংরক্ষণের উদ্যোগ নিয়েছে জাতীয় রাজস্ব বোর্ড (এনবিআর)। এ লক্ষ্যে ই-ভ্যাট সিস্টেমে হার্ড কপি রিটার্ন এন্ট্রি নামে একটি নতুন সাব-মডিউল সংযোজন করা হয়েছে। সোমবার (৫ জানুয়ারি) এ তথ্য জানিয়েছে এনবিআর।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767594865-edad770b3b27745410806d40d85fb5da.jpg"
+    },
+    {
+      "headline": "সুন্দরবনে অপহৃত রিসোর্ট মালিকসহ দুই পর্যটক উদ্ধার",
+      "url": "https://www.ittefaq.com.bd/769009/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%87-%E0%A6%85%E0%A6%AA%E0%A6%B9%E0%A7%83%E0%A6%A4-%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0",
+      "published_at": null,
+      "summary": "সুন্দরবনে বনদস্যুদের হাতে অপহৃত রিসোর্ট মালিকসহ দুই পর্যটককে উদ্ধার করা হয়েছে। তাদের উদ্ধার অভিযান সফলভাবে শেষ হয়েছে। অপহৃতরা সুস্থ অবস্থায় রয়েছেন। সোমবার (৪ জানুয়ারি) রাতে এমন তথ্য জানায় পুলিশ ও কোস্ট গার্ড।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/8f4755a1ce67e5324c0f261ef4a4b883-695b6ada92cc3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "‘এই লজ্জা আমরা নিজেরাই ডেকে এনেছি’: মোস্তাফিজ বিতর্কে ভারতের সমালোচনায় শশী থারুর",
+      "url": "https://www.ittefaq.com.bd/769008/%E2%80%98%E0%A6%8F%E0%A6%87-%E0%A6%B2%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%87-%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A7%87%E0%A6%9B%E0%A6%BF%E2%80%99-%E0%A6%AE%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%9C",
+      "published_at": null,
+      "summary": "ইন্ডিয়ান প্রিমিয়ার লিগ (আইপিএল) থেকে বাংলাদেশের পেসার মোস্তাফিজুর রহমানকে বাদ দেওয়ার ঘটনা ঘিরে দুই দেশের মধ্যে নতুন করে যে অস্বস্তি তৈরি হয়েছে, সেজন্য ভারতীয় কর্তৃপক্ষের তীব্র সমালোচনা করেছেন ভারতীয় কংগ্রেসের নেতা শশী থারুর।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/05/a223f8731e45e7aa572d5c7b1388e2b0-695b6841562b2.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
+    },
+    {
+      "headline": "কোনো দেশ ‘বিশ্বের বিচারক’ হতে পারে না: চীন",
+      "url": "https://www.ittefaq.com.bd/769007/%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%A6%E0%A7%87%E0%A6%B6-%E2%80%98%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%95%E2%80%99-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%9A%E0%A7%80%E0%A6%A8",
+      "published_at": null,
+      "summary": "ভেনেজুয়েলায় আকস্মিক মার্কিন সামরিক অভিযান এবং প্রেসিডেন্ট নিকোলাস মাদুরোকে আটকের ঘটনায় কড়া প্রতিক্রিয়া জানিয়েছে চীন। বেইজিংয়ের পক্ষ থেকে স্পষ্ট করা হয়েছে, কোনো নির্দিষ্ট দেশ ‘বিশ্বের বিচারক’ বা ‘বিশ্বের পুলিশ’ হিসেবে কাজ করবে—এমনটি তারা কখনোই মেনে নেবে না।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/c741c09a4af63136cc2d3e781cf676db-695b68cad0576.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "এইচএসসি নির্বাচনী পরীক্ষা ফেব্রুয়ারিতে, ১০ মার্চের মধ্যে ফলাফল প্রকাশ",
+      "url": "https://www.ittefaq.com.bd/769006/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AB%E0%A7%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "২০২৬ সালের উচ্চ মাধ্যমিক সার্টিফিকেট (এইচএসসি) পরীক্ষায় অংশগ্রহণেচ্ছুক শিক্ষার্থীদের টেস্ট (নির্বাচনী) পরীক্ষা আগামী ফেব্রুয়ারি মাসে শুরু হবে। একই সঙ্গে পরবর্তী ১০ মার্চের মধ্যে ফল প্রকাশের নির্দেশ দিয়েছে ঢাকা মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/7616c4286ff1228f2c71738e5557b187-695b68223a368.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "‘অলৌকিক’ভাবে জেগে উঠেছেন কোমায় থাকা অস্ট্রেলিয়ার বিশ্বকাপজয়ী ডেমিয়েন মার্টিন",
+      "url": "https://www.ittefaq.com.bd/769005/%E2%80%98%E0%A6%85%E0%A6%B2%E0%A7%8C%E0%A6%95%E0%A6%BF%E0%A6%95%E2%80%99%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%9C%E0%A7%87%E0%A6%97%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A7%9F-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0",
+      "published_at": null,
+      "summary": "কয়েকদিন আগে মেনিনজাইটিসে আক্রান্ত হয়ে কুইন্সল্যান্ডের একটি হাসপাতালে ভর্তি হন অস্ট্রেলিয়ার সাবেক ব্যাটসম্যান ডেমিয়েন মার্টিন। ৫৪ বছর বয়সী এই সাবেক ক্রিকেটার ‘বক্সিং ডে’তে অসুস্থ হয়ে পড়েন। গুরুতর অসুস্থ এই ক্রিকেটারকে কোমায় (চিকিৎসকের তত্ত্বাবধানে ওষুধের মাধ্যমে রোগীকে ইচ্ছাকৃতভাবে অচেতন রাখা) রাখা হয়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/05/d2f683813ff0d3fc7cf55ec7e0413931-695b6732f14d2.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
+    },
+    {
+      "headline": "সহযোগিতা না করলে ভেনেজুয়েলায় আবার হামলার হুঁশিয়ারি ট্রাম্পের",
+      "url": "https://www.ittefaq.com.bd/769004/%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A7%81%E0%A6%81%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF",
+      "published_at": null,
+      "summary": "ভেনেজুয়েলার বর্তমান ভারপ্রাপ্ত প্রেসিডেন্ট দেলসি রদ্রিগুয়েজ বা তার নেতৃত্বাধীন সরকার যদি যুক্তরাষ্ট্রের বিরুদ্ধে অবস্থান নেয়, তাহলে দেশটিতে আবারও সামরিক হামলা চালানো হতে পারে বলে হুমকি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। একই সঙ্গে তিনি ইঙ্গিত দিয়েছেন, সম্ভাব্য ওই হামলা আগের চেয়ে আরও ভয়াবহ হতে পারে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/df79ce734e8879bf7f9fb589ec1a7767-695b672896cd8.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "সাবেক প্রতিমন্ত্রী দীপঙ্কর তালুকদার ৩ দিনের রিমান্ডে",
+      "url": "https://www.ittefaq.com.bd/769003/%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%81%E0%A6%95%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A7%A9-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "সাবেক প্রতিমন্ত্রী দীপঙ্কর তালুকদারকে তিন দিন রিমান্ডে নেওয়ার আদেশ দিয়েছেন আদালত। রাজধানীর শাহবাগ থানায় দায়ের করা একটি হত্যা মামলায় পুলিশের করা রিমান্ড আবেদনের শুনানি শেষে সোমবার (৫ জানুয়ারি) ঢাকার মেট্রোপলিটন ম্যাজিস্ট্রেট জুয়েল রানা এ আদেশ দেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/9493b27c084e3505a4693158b0654349-695b658a94de4.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "আইপিএলের সব খেলা সম্প্রচার বন্ধ রাখার নির্দেশ",
+      "url": "https://www.ittefaq.com.bd/769002/%E0%A6%86%E0%A6%87%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6",
+      "published_at": null,
+      "summary": "বাংলাদেশের ক্রিকেটার মোস্তাফিজুর রহমানকে কলকাতা নাইট রাইডার্স দল থেকে বাদ দেওয়ায় ইন্ডিয়ান প্রিমিয়ার লিগের (আইপিএল) সব খেলা এবং অনুষ্ঠান প্রচার/সম্প্রচার বন্ধ রাখার নির্দেশ দিয়েছে সরকার।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/05/367097270fe74d0fc566f522470198b4-695b653e77881.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
+    },
+    {
+      "headline": "দীর্ঘ ১৯ বছর পর বগুড়া সফরে যাচ্ছেন তারেক রহমান",
+      "url": "https://www.ittefaq.com.bd/769001/%E0%A6%A6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%98-%E0%A7%A7%E0%A7%AF-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A7%9C%E0%A6%BE-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমান দীর্ঘ ১৯ বছর পর আগামী রোববার (১১ জানুয়ারি) বগুড়া সফরে যাচ্ছেন। ঢাকার বাইরে এটিই তার প্রথম সফর হতে হচ্ছে। রোববার (৪ জানুয়ারি) রাতে বগুড়ার বিএনপির নেতৃবৃন্দ এ তথ্য নিশ্চিত করেছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/18670374e6414a3720f51c1c9eb1ec59-695b6259bdb48.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "মাদুরোর পতনে বিশ্বজুড়ে ভেনেজুয়েলা প্রবাসীদের উল্লাস",
+      "url": "https://www.ittefaq.com.bd/769000/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%A4%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87-%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "যুক্তরাষ্ট্রের বিশেষ অভিযানে প্রেসিডেন্ট নিকোলাস মাদুরোর পতনের খবরে বিশ্বজুড়ে ছড়িয়ে থাকা ভেনেজুয়েলার প্রবাসীরা বাঁধভাঙা উল্লাসে মেতে উঠেছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/b52a3f09866b0fb62cdbd27c56db50c7-695b5fdda9e8d.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "গুমের সংখ্যা ৪ থেকে ৬ হাজার",
+      "url": "https://dailynayadiganta.com/printed-edition/pBd1ovgEUkUF/",
+      "published_at": null,
+      "summary": "মোট ১,৯১৩টি অভিযোগ গুম সংক্রান্ত কমিশনে জমা পড়েছিল। যাচাই-বাছাই এবং পুনঃনিরীক্ষার পর ১,৫৬৯টি অভিযোগকে সংজ্ঞা অনুযায়ী গুম হিসেবে স্বীকৃতি দেয়া হয়। এদের মধ্যে ২৮৭টি অভিযোগ ‘মিসিং অ্যান্ড ডেড’ ক্যাটাগরিতে অন্তর্ভুক্ত। কমিশন সদস্য নাবিলা ইদ্রিস জানিয়েছেন, এই ১,৫৬৯টি অভিযোগ শুধুমাত্র আংশিক প্রতিফলন। বাস্তব ঘটনা অনুসারে গুমের সংখ্যা চার থেকে ছয় হাজার পর্যন্ত হতে পারে। এর কারণ, অনেক ভিক্টিমের পরিবার সরাসরি কমিশনের সাথে যোগাযোগ করেননি, কেউ কেউ বিদেশে চলে গেছেন, আবার অনেকে ভয় বা সামাজিক কারণে ঘটনা প্রকাশ করতে রাজি হননি।",
+      "image_url": "https://media.ndiganta.com/images/first-3_tcZ4nBz.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "হাদি : স্বাধীনতার পাহারায় রক্তলেখা ভবিষ্যৎ",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/BIlhzHwe5zbn/",
+      "published_at": null,
+      "summary": "সেই ছেলেটিকেই, আমাদের প্রিয় হাদি ভাইকে হত্যা করা হয়েছে; কিন্তু ইতিহাস থেমে থাকে না। তার শহীদী রক্তের ওপর দাঁড়িয়ে নতুন ‘লাখো হাদি’র জন্মের অপেক্ষা।",
+      "image_url": "https://media.ndiganta.com/images/opinion01_nbGXntp.ori.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "আসামে সাম্প্রতিক অস্থিরতা",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/ajLPWTiXfc8j/",
+      "published_at": null,
+      "summary": "আসামে স্থিতি আনার ব্যর্থতা উত্তর-পূর্বাঞ্চলকে স্থায়ীভাবে সঙ্ঘাত এবং কৌশলগত নাজুক অঞ্চলে পরিণত করতে পারে।",
+      "image_url": "https://media.ndiganta.com/images/Bazlur_4tLwARh.origin.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "নির্বাচনকে কোনোভাবেই বিতর্কিত করতে দেয়া হবে না : নির্বাচন কমিশনার",
+      "url": "https://dailynayadiganta.com/bangladesh/national/3Dtc2teVDUli/",
+      "published_at": null,
+      "summary": "অতীতে খুবই বাজে নির্বাচন হয়েছে। এ রকম যেন আর না হয়, আমাদেরকে সচেষ্ট থাকতে হবে। গণতন্ত্রের জন্য একটি অবাধ নির্বাচন খুবই জরুরি।",
+      "image_url": "https://media.ndiganta.com/original_images/Bandarban_1bMwbMT.jpg"
+    },
+    {
+      "headline": "আইপিএলের সব খেলা সম্প্রচার বন্ধের নির্দেশ",
+      "url": "https://dailynayadiganta.com/bangladesh/national/g0DsjzNmKUq6/",
+      "published_at": null,
+      "summary": "মোস্তাফিজুর রহমানকে কলকাতা নাইট রাইডার্স থেকে বাদ দেয়ায় সরকার আইপিএলের সব খেলা ও অনুষ্ঠান প্রচার এবং সম্প্রচার বন্ধ রাখার নির্দেশ দিয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/breaking-2_ThoCgkq.jpg"
+    },
+    {
+      "headline": "নিরপেক্ষতা নিয়ে প্রশ্ন ওঠা রিটার্নিং কর্মকর্তাদের দায়িত্ব থেকে অব্যাহতি দেয়ার দাবি",
+      "url": "https://dailynayadiganta.com/bangladesh/national/Lku4oPQVvaQT/",
+      "published_at": null,
+      "summary": "আগামী ১২ ফেব্রুয়ারি গণভোট ও ত্রয়োদশ জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হবে। এ নির্বাচন সুষ্ঠুভাবে সম্পন্নে বিসিএস কর্মকর্তাসহ সরকারের বিভিন্ন বিভাগের কর্মকর্তা-কর্মচারীদের গুরুত্বপূর্ণ ভূমিকা রয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/election_stbjqaP.JPG"
+    },
+    {
+      "headline": "আন্তর্জাতিক কনফারেন্সে যোগ দিতে ভারত সফরে বাংলাদেশী সাংবাদিক প্রতিনিধি দল",
+      "url": "https://dailynayadiganta.com/bangladesh/national/8tpSGgJeYDKy/",
+      "published_at": null,
+      "summary": "সম্মেলনে দক্ষিণ এশিয়ার পাঁচটি দেশ— ভারত, বাংলাদেশ, নেপাল, শ্রীলঙ্কা ও ভুটান থেকে প্রথিতযশা সাংবাদিক, শিক্ষাবিদ, মানবাধিকার কর্মী এবং সাংস্কৃতিক ব্যক্তিবর্গ উপস্থিত থাকবেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Untitled-13_5xYboq7.jpg"
+    },
+    {
+      "headline": "কারখানার কর্মী হত্যা মামলায় গ্রেফতার সাবেক এমপি কাজী জাফর উল্লাহ",
+      "url": "https://dailynayadiganta.com/bangladesh/law-and-justice/u3O4sqQXhuC4/",
+      "published_at": null,
+      "summary": "শুনানি শেষে ঢাকার মেট্রোপলিটন ম্যাজিস্ট্রেট জুয়েল রানা তাকে এ মামলায় গ্রেফতার দেখানোর আবেদন মঞ্জুর করেন। গ্রেফতার দেখানোর পর তাকে কারাগারে পাঠানোর আদেশ দেন আদালত।",
+      "image_url": "https://media.ndiganta.com/original_images/Kazi_Jafarullah.JPG"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রের সাথে কাজ করতে আগ্রহী ভেনিজুয়েলার অন্তর্বর্তী প্রেসিডেন্ট",
+      "url": "https://dailynayadiganta.com/international/america/a3AtnupHm6w2/",
+      "published_at": null,
+      "summary": "ভেনিজুয়েলার অন্তর্বর্তী প্রেসিডেন্ট ডেলসি রদ্রিগেজ দায়িত্ব নেয়ার পর বলেছেন, তার সরকার যুক্তরাষ্ট্রের সাথে সহযোগিতার ভিত্তিতে কাজ করতে আগ্রহী এবং আন্তর্জাতিক আইন মেনে দু’দেশের মধ্যে সম্পর্ক উন্নয়ন ও শান্তিপূর্ণ সহাবস্থান নিশ্চিত করার চেষ্টা করবে।",
+      "image_url": "https://media.ndiganta.com/original_images/delcy.jpg"
+    },
+    {
+      "headline": "মাদুরোকে আজ যুক্তরাষ্ট্রের আদালতে তোলা হবে",
+      "url": "https://dailynayadiganta.com/international/america/wwJoHVI0q7jg/",
+      "published_at": null,
+      "summary": "ভেনিজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরো ও তার স্ত্রী সিলিয়া ফ্লোরেসকে মাদক ও অস্ত্র চোরাচালান মামলায় আজ নিউইয়র্কের ফেডারেল আদালতে হাজির করা হবে।",
+      "image_url": "https://media.ndiganta.com/original_images/maduro_ae2C0t1.jpg"
+    },
+    {
+      "headline": "মাতামুহুরী নদীতে নাব্যতা সঙ্কট, বাড়ছে বন্যা ও নদীভাঙনের ঝুঁকি",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/bO9GMjbQFrvu/",
+      "published_at": null,
+      "summary": "নাব্যতা মারাত্মকভাবে হ্রাস পাওয়ায় বর্ষা মৌসুমে উজান থেকে নেমে আসা বন্যার পানি নদীপথে দ্রুত নিষ্কাশিত হতে পারছে না। ফলে অল্প বৃষ্টিতেই নদীর পানি উপচে পড়ে দুই তীর প্লাবিত হয়ে লোকালয়ে প্রবেশ করছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Coxs-Bazar_6643TZb.jpg"
+    },
+    {
+      "headline": "নিরপেক্ষ নির্বাচনের ব্যাপারে আমরা আত্মবিশ্বাসী",
+      "url": "https://dailynayadiganta.com/bangladesh/national/XRgTt4AYqvsb/",
+      "published_at": null,
+      "summary": "প্রধান নির্বাচন কমিশনার এ এম এম নাসিরউদ্দিন বলেছেন, অবাধ, সুষ্ঠু ও নিরপেক্ষ নির্বাচনের জন্য ইসি আত্মবিশ্বাসী ও প্রতিজ্ঞাবদ্ধ। আজ থেকে ৯ জানুয়ারি বিকেল ৫টা পর্যন্ত মনোনয়নপত্র বাতিল বা গ্রহণের সিদ্ধান্তের বিরুদ্ধে আপিল করা যাবে।",
+      "image_url": "https://media.ndiganta.com/original_images/cec_vjlBnkv.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - January 05, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "সুনামগঞ্জ জেলা এসোসিয়েশন, টরন্টো, কানাডার ৬৫ সদস্যবিশিষ্ট নতুন কার্যনির্বাহী কমিটি গঠন করা হয়েছে। রোববার (৪ জানুয়ারি) স্থানীয় সময় সন্ধ্যা ৬টায় ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
       "headline": "ভেনেজুয়েলায় বিরোধীদের সঙ্গে কাজ করতে আগ্রহী নন ট্রাম্প, তাহলে কাকে রাখবেন ক্ষমতায়",
       "url": "https://www.prothomalo.com/world/south-america/agqnh6nphg",
       "published_at": "2026-01-05T05:21:07.129000+00:00",
@@ -306,41 +632,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/7bia3f0x/Trump-at-air-Force-One.jpg?auto=format,compress"
     },
     {
-      "headline": "বিশ্বকাপে বাংলাদেশের ম্যাচ সরে গেলে ভারতের ক্ষতি কতটা",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/05/1200580",
-      "published_at": "2026-01-05T12:57:15+06:00",
-      "summary": "আসন্ন টি টোয়েন্টি বিশ্বকাপে গ্রুপ পর্বে বাংলাদেশের চারটি ম্যাচের তিনটি কলকাতার ইডেন গার্ডেনে এবং একটি মুম্বাইয়ের ওয়াংখেড়ে স্টেডিয়ামে অনুষ্ঠিত হওয়ার কথা ছিল। তবে আইপিএল থেকে বাংলাদেশি পেসার মোস্তাফিজুর রহমানকে বাদ দেওয়ার ইস্যুকে কেন্দ্র করে কঠোর অবস্থান নিয়েছে বাংলাদেশ ক্রিকেট বোর্ড বিসিবি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767596230-d0cf6981b03e51f07923b5e5a3ddf9bc.jpg"
-    },
-    {
-      "headline": "রংপুরে ঘন কুয়াশা ও শীত: বোরো বীজতলা নিয়ে দুশ্চিন্তায় কৃষক",
-      "url": "https://www.bd-pratidin.com/country/2026/01/05/1200579",
-      "published_at": "2026-01-05T12:55:47+06:00",
-      "summary": "রংপুর অঞ্চলে বেশ কয়েকদিন ধরে চলছে বৈরী আবহাওয়া। ঘন কুয়াশা ও শীত বোরো বীজতলায় জন্য বাধা হয়ে দাঁড়িয়েছে। বীজ তলার বয়স ৪০ থেকে ৪৫ দিন হলে তা জমিতে রোপণ করা হয়। কোনো কোনো ক্ষেত্রে আরও কম সময়ে রোপণ করা হয়। কিন্তু চারা রোপণের আগেই শীত ও কুয়াশা বীজতলার জন্য হুমকি হয়ে দাঁড়িয়েছে। ফলে কৃষকরা চিন্তিত হয়ে পড়েছে। অনেকে পলিথিন দিয়ে বীজ তলা ঢেকে তা রক্ষা করার চেষ্টা করছেন। তবে কৃষি অফিস বলছে বীজতলা পরিচর্যায় কৃষকদের পরামর্শ দেয়া হচ্ছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767596142-ea5f0338f55094acdec515eba8c97728.jpg"
-    },
-    {
-      "headline": "লক্ষ্মীপুরে পিকআপ ভ্যান চাপায় মাটিকাটা শ্রমিকের মৃত্যু",
-      "url": "https://www.bd-pratidin.com/country/2026/01/05/1200577",
-      "published_at": "2026-01-05T12:40:01+06:00",
-      "summary": "লক্ষ্মীপুরে মাটিবাহী পিকআপ ভ্যান চাপায় ফাহিম (১৫) নামে এক কিশোরের মৃত্যু হয়েছে। সে মাটি কাটার শ্রমিক ছিল। সোমবার (৫ জানুয়ারি) সকাল ৮ টার দিকে সদর উপজেলার চরশাহী ইউনিয়নের উত্তর নুরুল্লাহপুর গ্রামের কাজিরডগিতে এ দুর্ঘটনা ঘটে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767595195-eaec0aa0deceba81f35cc01be7b6a97a.jpg"
-    },
-    {
-      "headline": "বাংলাদেশের বিশ্বকাপ ম্যাচ সরানো নিয়ে জটিলতায় আইসিসি, যা হতে পারে",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/05/1200575",
-      "published_at": "2026-01-05T12:38:10+06:00",
-      "summary": "টি টোয়েন্টি বিশ্বকাপে ভারতের মাটিতে নির্ধারিত বাংলাদেশের ম্যাচগুলো অন্য ভেন্যুতে সরিয়ে নেওয়ার বিষয়ে বাংলাদেশ ক্রিকেট বোর্ড বিসিবির অনুরোধ বিবেচনায় নিতে পারে আন্তর্জাতিক ক্রিকেট কাউন্সিল আইসিসি। তবে বিষয়টি সহজ নয়। একাধিক বাস্তব জটিলতার কারণে চূড়ান্ত সিদ্ধান্ত নিতে সময় লাগতে পারে বলে জানিয়েছে ক্রিকেটবিষয়ক ওয়েবসাইট ক্রিকবাজ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767595085-f58ae6f5394f4f43ba55420e6ca01a2e.jpg"
-    },
-    {
-      "headline": "ভ্যাটের সব পেপার রিটার্ন অনলাইনে এন্ট্রির উদ্যোগ এনবিআরের",
-      "url": "https://www.bd-pratidin.com/economy/2026/01/05/1200573",
-      "published_at": "2026-01-05T12:34:30+06:00",
-      "summary": "ভ্যাট ব্যবস্থাকে আরও ডিজিটাল ও করদাতাবান্ধব করতে ভ্যাটের সব পেপার রিটার্ন ই-ভ্যাট সিস্টেমে সংরক্ষণের উদ্যোগ নিয়েছে জাতীয় রাজস্ব বোর্ড (এনবিআর)। এ লক্ষ্যে ই-ভ্যাট সিস্টেমে হার্ড কপি রিটার্ন এন্ট্রি নামে একটি নতুন সাব-মডিউল সংযোজন করা হয়েছে। সোমবার (৫ জানুয়ারি) এ তথ্য জানিয়েছে এনবিআর।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767594865-edad770b3b27745410806d40d85fb5da.jpg"
-    },
-    {
       "headline": "২৮% প্রার্থীর মনোনয়নপত্র বাতিল",
       "url": "https://www.bd-pratidin.com/national/2026/01/05/1200572",
       "published_at": "2026-01-05T12:31:57+06:00",
@@ -374,13 +665,6 @@
       "published_at": "2026-01-05T11:55:34+06:00",
       "summary": "টি টোয়েন্টি বিশ্বকাপে ভারতে দল না পাঠানোর সিদ্ধান্তের কথা আন্তর্জাতিক ক্রিকেট কাউন্সিলকে জানিয়ে দিয়েছে বাংলাদেশ ক্রিকেট বোর্ড। গতকাল রবিবার আইসিসির কাছে আনুষ্ঠানিকভাবে বাংলাদেশের ম্যাচগুলোর ভেন্যু ভারত থেকে সরিয়ে নেওয়ার আবেদন করেছে বিসিবি। এ বিষয়ে বিশ্ব ক্রিকেটের সর্বোচ্চ নিয়ন্ত্রক সংস্থাটির মনোভাব ইতিবাচক বলেই জানা গেছে।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767592528-121e91f22f5cf1fbac2cf6f4ed364098.jpg"
-    },
-    {
-      "headline": "মাদুরোর পতনে বিশ্বজুড়ে ভেনেজুয়েলা প্রবাসীদের উল্লাস",
-      "url": "https://www.ittefaq.com.bd/769000/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%A4%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87-%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "যুক্তরাষ্ট্রের বিশেষ অভিযানে প্রেসিডেন্ট নিকোলাস মাদুরোর পতনের খবরে বিশ্বজুড়ে ছড়িয়ে থাকা ভেনেজুয়েলার প্রবাসীরা বাঁধভাঙা উল্লাসে মেতে উঠেছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/b52a3f09866b0fb62cdbd27c56db50c7-695b5fdda9e8d.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "ঢাবি শিবিরের নতুন সভাপতি মহিউদ্দিন, সেক্রেটারি আশিক",
@@ -446,34 +730,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/05/fec9f3a893023e96976246dfb28c3728-695b5adcd65a7.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
     },
     {
-      "headline": "গুমের সংখ্যা ৪ থেকে ৬ হাজার",
-      "url": "https://dailynayadiganta.com/printed-edition/pBd1ovgEUkUF/",
-      "published_at": null,
-      "summary": "মোট ১,৯১৩টি অভিযোগ গুম সংক্রান্ত কমিশনে জমা পড়েছিল। যাচাই-বাছাই এবং পুনঃনিরীক্ষার পর ১,৫৬৯টি অভিযোগকে সংজ্ঞা অনুযায়ী গুম হিসেবে স্বীকৃতি দেয়া হয়। এদের মধ্যে ২৮৭টি অভিযোগ ‘মিসিং অ্যান্ড ডেড’ ক্যাটাগরিতে অন্তর্ভুক্ত। কমিশন সদস্য নাবিলা ইদ্রিস জানিয়েছেন, এই ১,৫৬৯টি অভিযোগ শুধুমাত্র আংশিক প্রতিফলন। বাস্তব ঘটনা অনুসারে গুমের সংখ্যা চার থেকে ছয় হাজার পর্যন্ত হতে পারে। এর কারণ, অনেক ভিক্টিমের পরিবার সরাসরি কমিশনের সাথে যোগাযোগ করেননি, কেউ কেউ বিদেশে চলে গেছেন, আবার অনেকে ভয় বা সামাজিক কারণে ঘটনা প্রকাশ করতে রাজি হননি।",
-      "image_url": "https://media.ndiganta.com/images/first-3_tcZ4nBz.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "হাদি : স্বাধীনতার পাহারায় রক্তলেখা ভবিষ্যৎ",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/BIlhzHwe5zbn/",
-      "published_at": null,
-      "summary": "সেই ছেলেটিকেই, আমাদের প্রিয় হাদি ভাইকে হত্যা করা হয়েছে; কিন্তু ইতিহাস থেমে থাকে না। তার শহীদী রক্তের ওপর দাঁড়িয়ে নতুন ‘লাখো হাদি’র জন্মের অপেক্ষা।",
-      "image_url": "https://media.ndiganta.com/images/opinion01_nbGXntp.ori.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "আসামে সাম্প্রতিক অস্থিরতা",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/ajLPWTiXfc8j/",
-      "published_at": null,
-      "summary": "আসামে স্থিতি আনার ব্যর্থতা উত্তর-পূর্বাঞ্চলকে স্থায়ীভাবে সঙ্ঘাত এবং কৌশলগত নাজুক অঞ্চলে পরিণত করতে পারে।",
-      "image_url": "https://media.ndiganta.com/images/Bazlur_4tLwARh.origin.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "নিরপেক্ষ নির্বাচনের ব্যাপারে আমরা আত্মবিশ্বাসী",
-      "url": "https://dailynayadiganta.com/bangladesh/national/XRgTt4AYqvsb/",
-      "published_at": null,
-      "summary": "প্রধান নির্বাচন কমিশনার এ এম এম নাসিরউদ্দিন বলেছেন, অবাধ, সুষ্ঠু ও নিরপেক্ষ নির্বাচনের জন্য ইসি আত্মবিশ্বাসী ও প্রতিজ্ঞাবদ্ধ। আজ থেকে ৯ জানুয়ারি বিকেল ৫টা পর্যন্ত মনোনয়নপত্র বাতিল বা গ্রহণের সিদ্ধান্তের বিরুদ্ধে আপিল করা যাবে।",
-      "image_url": "https://media.ndiganta.com/original_images/cec_vjlBnkv.jpg"
-    },
-    {
       "headline": "নোয়াখালীতে ইসলামী ব্যাংকের প্রীতিমিলনী বনভোজন",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/XA906w5gkfNz/",
       "published_at": null,
@@ -521,20 +777,6 @@
       "published_at": null,
       "summary": "সুন্দরবনে ফাঁদে আটকে পড়া একটি রয়েল বেঙ্গল টাইগারকে উদ্ধার করে খুলনার বন্যপ্রাণী রেসকিউ সেন্টারে নেয়া হয়েছে। বাঘটির জ্ঞান ফিরেছে এবং ভেটেরিনারি চিকিৎসকের তত্ত্বাবধানে চিকিৎসা ও নিবিড় পর্যবেক্ষণ চলছে।",
       "image_url": "https://media.ndiganta.com/original_images/Sundarban_zuVZZtI.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - January 05, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "স্থানীয় সময় শুক্রবার মধ্যরাতের পর দক্ষিণ আমেরিকার দেশ ভেনেজুয়েলায় ব্যাপক হামলা চালিয়ে দেশটির প্রেসিডেন্ট নিকোলাস মাদুরোকে ‘আটক’ করে নিয়ে যায় ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "ফাইন্যান্সিয়াল রিপোর্টিং কাউন্সিলে নবমসহ বিভিন্ন গ্রেডে চাকরি, পদ ৫৭",
@@ -1246,248 +1488,6 @@
       "summary": "মাদুরোকে ধরার জন্য যুক্তরাষ্ট্রের অভিযানে বোমারু, যুদ্ধ, নজরদারি বিমানসহ দেড় শতাধিক উড়োজাহাজ ব্যবহার করা হয়েছে। প্রতিটি পরিস্থিতির জন্য একটি করে যুদ্ধবিমান প্রস্তুত ছিল।",
       "image_s3_key": "prothomalo-bangla/2026-01-04/sufyyqqq/Nicolas-Maduro-on-board.png",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/sufyyqqq/Nicolas-Maduro-on-board.png?auto=format,compress"
-    },
-    {
-      "headline": "নিকোলা মাদুরোপুত্র মাদুরো গুয়েরা সম্পর্কে যা জানা গেল",
-      "url": "https://www.prothomalo.com/world/south-america/bzp4ann0xi",
-      "published_at": "2026-01-04T19:02:22.059000+00:00",
-      "summary": "নিকোলা মাদুরো (জুনিয়র) গুয়েরার বিরুদ্ধেও যুক্তরাষ্ট্রের আদালতে মাদক চোরাচালানসংক্রান্ত অভিযোগ আনা হয়েছে। তিনি ভেনেজুয়েলার পার্লামেন্ট সদস্য।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/bwdl7j5y/Maduros-son.PNG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/bwdl7j5y/Maduros-son.PNG?auto=format,compress"
-    },
-    {
-      "headline": "সত্যিই কি ‘প্রিন্স’ থেকে শাকিবের নায়িকা বাদ পড়ছেন",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/e7s3flvbvz",
-      "published_at": "2026-01-04T19:00:00+00:00",
-      "summary": "‘প্রিন্স’ ছবিতে শাকিবের নায়িকা বদলের গুজব কৌতূহল বাড়িয়েছে দর্শক ও চলচ্চিত্র–সংশ্লিষ্টদের মধ্যে।  ছড়িয়ে পড়েছে বাদ পড়েছেন জ্যোতির্ময়ী কুণ্ডু, আর যুক্ত হচ্ছেন সাবিলা",
-      "image_s3_key": "prothomalo-bangla/2025-12-20/ugdriyrg/Dominant-silence-sounds-louder-than-desperate-noise-ShakibKhan.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-20/ugdriyrg/Dominant-silence-sounds-louder-than-desperate-noise-ShakibKhan.jpg?auto=format,compress"
-    },
-    {
-      "headline": "নিকোলা মাদুরোর সস্ত্রীক মুক্তি ও আন্তর্জাতিক আদালতে ট্রাম্পের বিচার দাবি গণতান্ত্রিক অধিকার কমিটির",
-      "url": "https://www.prothomalo.com/bangladesh/4o93u5etul",
-      "published_at": "2026-01-04T18:47:14.637000+00:00",
-      "summary": "ভেনেজুয়েলার অভ্যন্তরীণ বিষয়ে মার্কিন হস্তক্ষেপের নিন্দা জানিয়েছে গণতান্ত্রিক অধিকার কমিটি। তারা এই আধিপত্যবাদের বিরুদ্ধে বিশ্বব্যাপী গণপ্রতিরোধ বা ‘গ্লোবাল রিভল্ট’ গড়ে তোলার ডাক দিয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/6igmd5p2/1.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/6igmd5p2/1.avif?auto=format,compress"
-    },
-    {
-      "headline": "ময়মনসিংহে পোশাকশ্রমিক দীপু দাস হত্যা মামলায় আরও দুই আসামি রিমান্ডে",
-      "url": "https://www.prothomalo.com/bangladesh/district/mcmpbrqljq",
-      "published_at": "2026-01-04T18:12:23.825000+00:00",
-      "summary": "গ্রেপ্তার আসামিদের মধ্যে পাঁচজন আদালতে স্বীকারোক্তিমূলক জবানবন্দি দিয়েছেন বলে জানিয়েছে পুলিশ।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/5hh6ju4e/46695673513047416008871404100401822306436731n.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/5hh6ju4e/46695673513047416008871404100401822306436731n.jpg?auto=format,compress"
-    },
-    {
-      "headline": "মাদুরোর আগে কোন কোন দেশের রাষ্ট্রপ্রধানকে আটক করেছিল যুক্তরাষ্ট্র",
-      "url": "https://www.prothomalo.com/video/z9l8nxbz4m",
-      "published_at": "2026-01-04T18:03:53.703000+00:00",
-      "summary": "মাদুরোর আগে কোন কোন দেশের রাষ্ট্রপ্রধানকে আটক করেছিল যুক্তরাষ্ট্র",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/uuty7nmy/FB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/uuty7nmy/FB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ঢাকায় ‘মব’ করে আইনজীবী নাঈমকে হত্যায় একজন গ্রেপ্তার",
-      "url": "https://www.prothomalo.com/bangladesh/crime/teiv9r9bxf",
-      "published_at": "2026-01-04T18:01:55.325000+00:00",
-      "summary": "রাজধানীর বসুন্ধরা আবাসিক এলাকায় ‘মব’ করে আইনজীবী নাঈম কিবরিয়াকে হত্যার ঘটনায় একজনকে গ্রেপ্তার করেছে র‍্যাব। তাঁর নাম মো. জোবায়ের হোসেন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/gb60o872/RAB-Arrest.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/gb60o872/RAB-Arrest.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "১২ কেজি এলপিজির নতুন দাম ১৩০৬ টাকা | মালয়েশিয়া পাচারের সময় ২৬৩ জন উদ্ধার",
-      "url": "https://www.prothomalo.com/video/bangladesh/hbqzpr6aqj",
-      "published_at": "2026-01-04T17:55:01.376000+00:00",
-      "summary": "১২ কেজি এলপিজির নতুন দাম ১৩০৬ টাকা | মালয়েশিয়া পাচারের সময় ২৬৩ জন উদ্ধার",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/8vahy67l/AudioThumbnail-Copy.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/8vahy67l/AudioThumbnail-Copy.jpg?auto=format,compress"
-    },
-    {
-      "headline": "মাদুরোর পর ভেনেজুয়েলার দুই মন্ত্রীকে ধরতে মিলিয়ন ডলার ঘোষণা যুক্তরাষ্ট্রের",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/04/1200341",
-      "published_at": "2026-01-04T22:20:22+06:00",
-      "summary": "ভেনেজুয়েলার দুই শীর্ষ মন্ত্রীকে গ্রেপ্তারের জন্য মিলিয়ন ডলারের পুরস্কার ঘোষণা করেছে যুক্তরাষ্ট্র। দেশটিতে অভিযান চালিয়ে প্রেসিডেন্ট নিকোলাস মাদুরো ও তার স্ত্রীকে তুলে আনার পর এই ঘোষণা দেওয়া হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767543616-4577cdb66d35ec3f8c600fd487c7e4b9.jpg"
-    },
-    {
-      "headline": "ভেনেজুয়েলাকে শোধরানোর সুযোগ দেবে যুক্তরাষ্ট্র",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/04/1200339",
-      "published_at": "2026-01-04T22:12:33+06:00",
-      "summary": "ভেনেজুয়েলাকে বর্তমান সংকট থেকে বেরিয়ে আসার জন্য যুক্তরাষ্ট্র সময় ও সুযোগ দিতে চায় বলে জানিয়েছেন মার্কিন পররাষ্ট্রমন্ত্রী মার্কো রুবিও। তিনি বলেন, যুক্তরাষ্ট্র ভেনেজুয়েলাকে তাদের সমস্যাগুলো সমাধানের জন্য একটি বাস্তব সুযোগ দেবে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767543146-3e801531eb8946e3ef5c016f0ff16622.jpg"
-    },
-    {
-      "headline": "অবৈধভাবে ভারতে প্রবেশ; বিএসএফের হাতে আটক বাংলাদেশির মৃত্যুর অভিযোগ",
-      "url": "https://www.bd-pratidin.com/country/2026/01/04/1200335",
-      "published_at": "2026-01-04T22:01:04+06:00",
-      "summary": "চাঁপাইনবাবগঞ্জ সীমান্ত দিয়ে অবৈধভাবে ভারতে প্রবেশের পর ভারতের সীমান্তরক্ষী বাহিনী (বিএসএফ)-এর হাতে আটক রবিউল ইসলাম (৩৫) নামে এক বাংলাদেশির মৃত্যুর অভিযোগ পাওয়া গেছে। তবে কীভাবে তার মৃত্যু হয়েছে, সে বিষয়ে এখনো পরিবার বা বিজিবির পক্ষ থেকে কোনো আনুষ্ঠানিক নিশ্চিত তথ্য পাওয়া যায়নি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767542458-e312564d7bda4d1816e290663e50641a.jpg"
-    },
-    {
-      "headline": "বছরে দুটি টানা ১৫ দিনের ছুটির দাবি প্রাথমিক শিক্ষকদের",
-      "url": "https://www.ittefaq.com.bd/768960/%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A7%A7%E0%A7%AB-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95",
-      "published_at": null,
-      "summary": "এক বছরে টানা ১৫ দিনের দুটি ছুটি শিক্ষাপঞ্জিতে অন্তর্ভুক্ত করার দাবি জানিয়েছেন দেশের সরকারি প্রাথমিক বিদ্যালয়ের শিক্ষকরা। দাবি পূরণ না হলে শিক্ষকদের শ্রান্তি বিনোদন ভাতা প্রাপ্তিতে জটিলতা তৈরি হবে বলে জানিয়েছেন তারা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/5d5ff917a4b7936d497f3b9ae72da9cb-695b2e00186e1.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "দেশে পরপর দুইবার ভূমিকম্প অনুভূত, আফটারশকের আশঙ্কা",
-      "url": "https://www.ittefaq.com.bd/768959/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AD%E0%A7%82%E0%A6%A4-%E0%A6%86%E0%A6%AB%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%B6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE",
-      "published_at": null,
-      "summary": "অল্প সময়ের ব্যবধানে পরপর দুই দফা ভূমিকম্প অনুভূত হয়েছে সিলেটসহ দেশের উত্তর-পূর্বাঞ্চলে। সোমবার (৫ জানুয়ারি) ভোর ৪টা ৪৭ মিনিট ৩৯ সেকেন্ডে প্রথম ভূমিকম্পটি অনুভূত হয়। এর মাত্র ৩০ সেকেন্ড পর, ভোর ৪টা ৪৭ মিনিট ৫২ সেকেন্ডে দ্বিতীয়বার কেঁপে ওঠে সিলেট ও আশপাশের এলাকা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/bac9da94bafd2114acbc105bcb5b08d9-695b2da975d59.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "জাবির হল থেকে ২১ বোতল বিদেশি মদ উদ্ধার, শিক্ষার্থী আটক",
-      "url": "https://www.ittefaq.com.bd/768958/%E0%A6%9C%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%B9%E0%A6%B2-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A8%E0%A7%A7-%E0%A6%AC%E0%A7%8B%E0%A6%A4%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AE%E0%A6%A6-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80",
-      "published_at": null,
-      "summary": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের (জাবি) জাতীয় কবি কাজী নজরুল ইসলাম হলের একটি কক্ষ থেকে ২১ বোতল বিদেশি মদ উদ্ধার করেছে হল প্রশাসন। এ ঘটনায় এক শিক্ষার্থীকে আটক করা হয়েছে। রোববার (৪ জানুয়ারি) রাত সাড়ে ৯টার দিকে গোপন সংবাদের ভিত্তিতে অভিযান চালিয়ে এসব মদ জব্দ করা হয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/6cccb6950cff8d40e1d9c2f097124490-695b29cfa6237.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "নিউইয়র্কের ফেডারেল আদালতে তোলা হচ্ছে মাদুরোকে",
-      "url": "https://www.ittefaq.com.bd/768957/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A7%87%E0%A6%A1%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B2-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%95%E0%A7%87",
-      "published_at": null,
-      "summary": "ভেনেজুয়েলার অপহৃত প্রেসিডেন্ট নিকোলাস মাদুরো ও তার স্ত্রী সিলিয়া ফ্লোরেসকে সোমবার (৫ জানুয়ারি) যুক্তরাষ্ট্রের নিউইয়র্কের একটি আদালতে হাজির করা হচ্ছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/de477fd40255356a7df4adfbafdb36fa-695b29d711aec.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "সাকিব-পোলার্ডের প্রতিরোধ ব্যর্থ, চ্যাম্পিয়ন ভাইপার্স",
-      "url": "https://www.ittefaq.com.bd/768956/%E0%A6%B8%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%AC-%E0%A6%AA%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A7%9F%E0%A6%A8",
-      "published_at": null,
-      "summary": "আইএলটি-টোয়েন্টির ফাইনালে রোববার (৪ জানুয়ারি) এমআই এমিরেটসকে ৪৬ রানে হারিয়ে প্রথমবারের মতো শিরোপা জিতেছে ডেজার্ট ভাইপার্স। স্যাম কারানের দুর্দান্ত ইনিংস ও নিয়ন্ত্রিত বোলিংয়ের জোরে একপেশে জয় তুলে নেয় তারা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/05/5066704ba59fa999e0a414b63eaca963-695b28ece0775.png?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-    },
-    {
-      "headline": "রাজধানীতে তাপমাত্রা সামান্য বেড়েছে",
-      "url": "https://www.ittefaq.com.bd/768955/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A7%87%E0%A7%9C%E0%A7%87%E0%A6%9B%E0%A7%87",
-      "published_at": null,
-      "summary": "রাজধানীতে আজ সকালে তাপমাত্রা সামান্য বৃদ্ধি পেয়েছে। গতকাল রোববার সকালে ঢাকায় সর্বনিম্ন তাপমাত্রা ছিল ১২ দশমিক ২ ডিগ্রি সেলসিয়াস, আজ সেটি হয়েছে ১৩ দশমিক ২।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/4168f655dedb52c1886c127f29a4aa56-695b274d5480c.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "চারপাশে বিতর্ক, তবু ‘বিন্দাস’ মুস্তাফিজ",
-      "url": "https://www.ittefaq.com.bd/768954/%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%A4%E0%A6%AC%E0%A7%81-%E2%80%98%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%B8%E2%80%99-%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%9C",
-      "published_at": null,
-      "summary": "মুস্তাফিজুর রহমানের বিপিএল দল রংপুর রাইডার্সের অধিনায়ক নুরুল হাসান সোহান জানালেন, নানা আলোচনা-সমালোচনার মাঝেও বাংলাদেশের হয়ে সেরাটা দেওয়ার স্বপ্নেই স্থির আছেন এই বাঁহাতি পেসার।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/05/3f4793aa9149abd75789dcdfed2bdf30-695b26317e4d2.png?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-    },
-    {
-      "headline": "ভেনেজুয়েলায় মার্কিন অভিযানে নিহত ৩২ কিউবান, দুই দিনের রাষ্ট্রীয় শোক",
-      "url": "https://www.ittefaq.com.bd/768953/%E0%A6%AD%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%A9%E0%A7%A8-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "ভেনেজুয়েলার রাজধানী কারাকাসে প্রেসিডেন্ট নিকোলাস মাদুরোকে আটকের লক্ষ্যে পরিচালিত মার্কিন বিশেষ অভিযানে অন্তত ৩২ জন কিউবান নাগরিক নিহত হয়েছেন। কিউবা সরকার আনুষ্ঠানিকভাবে এই বিপুল প্রাণহানির তথ্য নিশ্চিত করেছে বলে সোমবার (৫ জানুয়ারি) আল জাজিরার এক প্রতিবেদনে জানানো হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/02b8b19c57a0ba83c1645d81fa63b28f-695b26a6a1067.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "রূপপুর গ্রিন সিটির আবাসিক ভবন থেকে রুশ নাগরিকের মরদেহ উদ্ধার",
-      "url": "https://www.ittefaq.com.bd/768952/%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%A6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%B0%E0%A7%81%E0%A6%B6-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B9-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0",
-      "published_at": null,
-      "summary": "পাবনার ঈশ্বরদীতে রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের গ্রিন সিটি আবাসিক ভবন থেকে এক রুশ নাগরিকের মরদেহ উদ্ধার করেছে পুলিশ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/7fa8615051169bf83613f3abaa6fbfc7-695b23edee7eb.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "মাদুরোর দেহরক্ষীদের ‘ঠান্ডা মাথায়’ হত্যার অভিযোগ",
-      "url": "https://www.ittefaq.com.bd/768951/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%B9%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E2%80%98%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%A5%E0%A6%BE%E0%A6%AF%E0%A6%BC%E2%80%99-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97",
-      "published_at": null,
-      "summary": "ভেনেজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরোকে অপহরণ এবং তার দেহরক্ষীদের নৃশংসভাবে হত্যার তীব্র নিন্দা জানিয়ে একে যুক্তরাষ্ট্রের ‘কাপুরুষোচিত’ পদক্ষেপ হিসেবে অভিহিত করেছেন দেশটির প্রতিরক্ষামন্ত্রী ভ্লাদিমির পাদ্রিনো লোপেজ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/d6ad37d42032ac531c3313564e7f7a2c-695b1dc21fb31.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "তারেক রহমানের যত চ্যালেঞ্জ",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/fXVAI4gDYuck/",
-      "published_at": null,
-      "summary": "চার পাশে স্তাবকদের অবিরাম স্নেহজাতীয় পদার্থ মালিশের কারণে ‘এলাম, দেখলাম, জয় করলাম’ এই বোধে সংক্রমিত হলে ভবিষ্যৎ অন্ধকার। অতএব, ‘ভাবহ সুজন, যে জান সন্ধান।’",
-      "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "নতুন বছরেও পুরনো অপেক্ষা",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/lOVuWRxUakOV/",
-      "published_at": null,
-      "summary": "আমাদের জন্য সবচেয়ে গুরুত্বপূর্ণ বিষয় হলো জাতীয় নির্বাচন। যদি নির্বাচনকে ঘিরে আস্থা পুনর্গঠনের উদ্যোগ নেয়া হয়, রাজনৈতিক দলগুলো অভ্যন্তরীণ সংস্কারে যায়, রাষ্ট্রীয় প্রতিষ্ঠানগুলো দৃশ্যমান নিরপেক্ষতা দেখায়, তবে ২০২৬ হতে পারে স্থিতিশীলতার সূচনা বছর।",
-      "image_url": "https://media.ndiganta.com/images/Untitled-5_6jOHnoI.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "তারেক রহমানের সামনে  সময় কম, দায়িত্ব বড়",
-      "url": "https://dailynayadiganta.com/printed-edition/lXa0hdiRjgjQ/",
-      "published_at": null,
-      "summary": "দেড় দশকের বেশি সময় ধরে রাজনৈতিক চাপ, সাংগঠনিক দুর্বলতা ও অনেক ক্ষেত্রে নেতৃত্ব সঙ্কটে ভুগেছে বিএনপি। নির্বাচনের তারিখ ঘোষণা ও তারেক রহমানের দেশে ফেরার পর সেই স্থবিরতা কাটতে শুরু করলেও খালেদা জিয়ার মৃত্যু দলটির জন্য এক নতুন বাস্তবতা তৈরি করেছে। এই পরিস্থিতিতে দলকে এক সুতোয় বেঁধে নির্বাচনের বৈতরণী পার হওয়া এবং রাষ্ট্র পরিচালনার মাধ্যমে দেশের কল্যাণে কাজ করাই এখন বিএনপির প্রধান লক্ষ্য।",
-      "image_url": "https://media.ndiganta.com/images/Tareq_Rahman_Thanks.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "মাদুরো সরকারের অন্যদের গ্রেফতার না করার কারণ বললেন মার্কিন পররাষ্ট্রমন্ত্রী",
-      "url": "https://dailynayadiganta.com/international/america/SqL2ZqsnW5Jc/",
-      "published_at": null,
-      "summary": "ব্রিটিশ গণমাধ্যম বিবিসির মার্কিন সহযোগী সিবিএসকে দেয়া এক সাক্ষাৎকারে মার্কিন পররাষ্ট্রমন্ত্রী মার্কো রুবিওকে প্রশ্ন করা হয়েছিল- কেন যুক্তরাষ্ট্র মাদুরোর সরকারের অন্য সদস্যদের গ্রেফতার করেনি?",
-      "image_url": "https://media.ndiganta.com/original_images/Marco-Rubio_9q3pxBw.jpg"
-    },
-    {
-      "headline": "স্বস্তির দিন ইংল্যান্ডের",
-      "url": "https://dailynayadiganta.com/printed-edition/3Ep67WWQ3x5F/",
-      "published_at": null,
-      "summary": "সিডনিতে অ্যাশেজের শেষ টেস্টের প্রথম দিনে ছিল বৃষ্টির হানা। প্রথম দিন খেলা হয়েছে মাত্র ৪৫ ওভার। অস্ট্রেলিয়ার বিপক্ষে ব্যাটিংয়ে নেমে ইনিংসের প্রথম ১৩ ওভারে দলীয় ৫৭ রানে তিন উইকেট হারায় ইংল্যান্ড। সেখান থেকে জো রুট ও হ্যারি ব্রুকের ব্যাটে চড়ে স্বস্তিতেই দিনটি পার করে সফরকারীরা। দিন শেষে সেই তিন উইকেটে ২১১ রান নিয়ে মাঠ ছাড়ে বেন স্টোকসের দল। ব্রুক ৭৮ ও রুট ৭২ রানে ছিলেন অপরাজিত।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "টাইব্রেকারের নায়ক দিয়ারা  কোয়ার্টারে মালি",
-      "url": "https://dailynayadiganta.com/printed-edition/iHn39z5se3lI/",
-      "published_at": null,
-      "summary": "আফ্রিকা কাপ অব নেশনসের শেষ ষোলোর ম্যাচে ১০ জনের দলে পরিণত হওয়া মালি পেনাল্টি শুটআউটে হারিয়েছে তিউনিসিয়াকে। নির্ধারিত সময় ও অতিরিক্ত সময় শেষে ১-১ গোলে সমতা থাকায় ম্যাচ গড়ায় টাইব্রেকারে। সেখানে ৩-২ ব্যবধানে জয় পায় মালি। জয়সূচক স্পট-কিকটি নেন এল বিলাল তুরে। অন্য দিকে গত পরশু আরেক শেষ ষোলোর ম্যাচে সেনেগাল ৩-১ গোলে হারিয়েছে সুদানকে। ম্যাচে দুটি টাইব্রেকার ঠেকিয়ে হিরো বনে গেছেন মালির গোলরক্ষক জিগুই দিয়ারা।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "ময়মনসিংহ-১০ আসনে ৭ জনের মনোনয়নপত্র বৈধ, বাতিল ৫",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/AeJym1HvzsRo/",
-      "published_at": null,
-      "summary": "ময়মনসিংহ-১০ (গফরগাঁও) আসনে সাতজনের মনোনয়ন বৈধ এবং পাঁচজনের মনোনয়ন বাতিল করেছেন জেলা রিটার্নিং কর্মকর্তা।",
-      "image_url": "https://media.ndiganta.com/original_images/Gafargaon_EJNr9pb.jpg"
-    },
-    {
-      "headline": "তারেক রহমানের সাথে দেশের শীর্ষ ব্যবসায়ীদের বৈঠক",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/L3kah57JNH3G/",
-      "published_at": null,
-      "summary": "‘বডি ল্যাংগুয়েজে আমাদের পজেটিভ মনে হয়েছে। উনি আন্তরিকতার সাথে শুনেছেন এবং উনি আশ্বাস দিয়েছেন যে যদি ক্ষমতায় আসতে পারেন আমাদের নিয়ে কাজ করবেন যাতে দেশের উন্নয়ন হয় অর্থনৈতিকভাবে আমরা এগিয়ে যাই।’",
-      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_27.png"
-    },
-    {
-      "headline": "নড়াইলের সমস্যা ও সম্ভাবনার আলোকে দ্রুতই নির্বাচনী ইশতেহার ঘোষণা",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/BJs7VmEr6faL/",
-      "published_at": null,
-      "summary": "নড়াইল-২ আসনে জামায়াতে ইসলামী মনোনীত প্রার্থী আতাউর রহমান বাচ্চু বলেছেন, ‘নির্বাচনী এলাকার সমস্যা ও সম্ভাবনার আলোকে দ্রুতই ইশতেহার ঘোষণা করা হবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Narail-02_04.01.2025.jpg"
-    },
-    {
-      "headline": "ভেনেজুয়েলাকে নিশানা করলেন ট্রাম্প, এরপর কে",
-      "url": "https://www.prothomalo.com/world/south-america/svel4sb5u0",
-      "published_at": "2026-01-04T17:53:52.671000+00:00",
-      "summary": "ভেনেজুয়েলায় পরবর্তী সময়ে যা-ই ঘটুক না কেন, এর পরিণতি কেবল দেশটিতেই সীমাবদ্ধ থাকবে না। ট্রাম্প স্পষ্টভাবেই এ হামলার মাধ্যমে পুরো অঞ্চলে মার্কিন আধিপত্য জাহির করতে চেয়েছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/a7uyi63h/Smoke-rises-Copy.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/a7uyi63h/Smoke-rises-Copy.png?auto=format,compress"
-    },
-    {
-      "headline": "এমবাপ্পে নেই, গার্সিয়ার হ্যাটট্রিকে রিয়ালের জয়",
-      "url": "https://www.prothomalo.com/sports/football/b853938u3a",
-      "published_at": "2026-01-04T17:49:18.856000+00:00",
-      "summary": "এমবাপ্পের জায়গায় মাঠে নামা ২১ বছর বয়সী গার্সিয়ার দারুণ নৈপুণ্যে শীর্ষে থাকা বার্সেলোনার সঙ্গে পয়েন্ট ব্যবধান কমাল রিয়াল।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/io6766tl/802019-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/io6766tl/802019-01-02.jpg?auto=format,compress"
-    },
-    {
-      "headline": "দেশের ভবিষ্যতের বড় অংশ ফ্রিল্যান্সিংয়ের মধ্যে নিহিত: আসিফ নজরুল",
-      "url": "https://www.prothomalo.com/bangladesh/jg0vmjq43h",
-      "published_at": "2026-01-04T17:45:59.183000+00:00",
-      "summary": "অনুষ্ঠানে জানানো হয়, প্রকল্পটির আওতায় ৪৮ জেলায় মোট ২৮ হাজার ২০০ জন শিক্ষিত ও কর্মপ্রত্যাশী যুবককে ফ্রিল্যান্সিং প্রশিক্ষণ দেওয়ার লক্ষ্য নির্ধারণ করা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/jb2jjbun/asifnazrrulwebinar.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/jb2jjbun/asifnazrrulwebinar.jpg?auto=format,compress"
-    },
-    {
-      "headline": "যোগ করা সময়ের ৪ মিনিটে গোল দিয়ে ৭ মিনিটে খেল লিভারপুল",
-      "url": "https://www.prothomalo.com/sports/football/yqi31n2f40",
-      "published_at": "2026-01-04T17:44:23.477000+00:00",
-      "summary": "লিগে আবারও পয়েন্ট হারাল লিভারপুল। ফুলহামের বিপক্ষে তাদের মাঠে একবার পিছিয়ে পড়ে এবং একবার এগিয়ে গিয়ে শেষ পর্যন্ত  ২-২ গোলে ড্র করেছে আর্নে স্লটের দল।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/41v7utuk/802079-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/41v7utuk/802079-01-02.jpg?auto=format,compress"
     }
   ]
 }
