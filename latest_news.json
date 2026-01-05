@@ -1,13 +1,53 @@
 {
-  "fetched_at": "2026-01-05T04:46:11.536525+00:00",
+  "fetched_at": "2026-01-05T05:36:00.729800+00:00",
   "stories": [
     {
-      "headline": "পানি–সংকটাপন্ন এলাকায় সেচ নিয়ে চিন্তিত চাষিরা",
-      "url": "https://www.prothomalo.com/bangladesh/district/j6uscoa6fj",
-      "published_at": "2026-01-05T04:30:00+00:00",
-      "summary": "ক্রমবর্ধমান ভূগর্ভস্থ পানির সংকটের কারণে রাজশাহী, চাঁপাইনবাবগঞ্জ ও নওগাঁর ২৫টি উপজেলার ৪৭টি ইউনিয়নের ১ হাজার ৫০৩টি মৌজাকে ‘অতি উচ্চ পানি–সংকটাপন্ন’ এলাকা হিসেবে চিহ্নিত করা হয়েছে। এতে সেচ নিয়ে অনিশ্চয়তায় আছেন চাষিরা।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/hv4unrp7/Rajshahiwater.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/hv4unrp7/Rajshahiwater.jpg?auto=format,compress"
+      "headline": "‘বাস কন্ডাক্টর’-এর ভূমিকায় বিড়াল",
+      "url": "https://www.prothomalo.com/world/china/4s681ow0ip",
+      "published_at": "2026-01-05T05:25:17.178000+00:00",
+      "summary": "শিয়াংজি তাকে ‘সেরা ভ্রমণসঙ্গী’ বলে উল্লেখ করেছেন। তাঁর এই ভ্রমণসঙ্গী আসলে একটি বিড়াল, নাম রেখেছেন জিয়াওজি।",
+      "image_s3_key": "prothomalo-bangla/2026-01-04/rqta02y5/Capture.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/rqta02y5/Capture.PNG?auto=format,compress"
+    },
+    {
+      "headline": "ঢাকায় জামায়াতের ১৭ প্রার্থীর মধ্যে ১৩ জন কোটিপতি ",
+      "url": "https://www.prothomalo.com/politics/onxvqumlph",
+      "published_at": "2026-01-05T05:21:08.345000+00:00",
+      "summary": "স্থাবর ও অস্থাবর সম্পদ সবচেয়ে বেশি এনায়াত উল্লার। মূল্য প্রায় ১১৬ কোটি টাকা। ঋণও তাঁর বেশি, ৮৩ কোটি টাকা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-04/i5g4tu5z/2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/i5g4tu5z/2.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ভেনেজুয়েলায় বিরোধীদের সঙ্গে কাজ করতে আগ্রহী নন ট্রাম্প, তাহলে কাকে রাখবেন ক্ষমতায়",
+      "url": "https://www.prothomalo.com/world/south-america/agqnh6nphg",
+      "published_at": "2026-01-05T05:21:07.129000+00:00",
+      "summary": "ভেনেজুয়েলার বিরোধীরা মনে করেছিলেন, তাঁরাই ক্ষমতায় আসছেন। কিন্তু তা হচ্ছে না। বরং ওয়াশিংটনের প্রতি অনুগত মাদুরো প্রশাসনের কর্মকর্তারাই দেশটি চালাবেন বলে ধারণা করা হচ্ছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/18ym5frv/People-in-Doral.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/18ym5frv/People-in-Doral.png?auto=format,compress"
+    },
+    {
+      "headline": "নির্বাচনে প্রার্থীদের বাড়ি-গাড়ি, স্বর্ণালংকারের দাম এত কম কেন",
+      "url": "https://www.prothomalo.com/business/analysis/7h4io1tuoq",
+      "published_at": "2026-01-05T05:03:19.427000+00:00",
+      "summary": "হলফনামায় ১০ ভরি সোনার দাম ১ লাখ টাকা, এখন প্রতি ভরি দুই লাখ টাকার বেশি। গুলশানের ফ্ল্যাটের দাম ২০ লাখ টাকা। এখন বাজারদর কয়েক কোটি টাকা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/mw9skj7f/ChatGPT-Image-Jan-5-2026-105941-AM.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/mw9skj7f/ChatGPT-Image-Jan-5-2026-105941-AM.png?auto=format,compress"
+    },
+    {
+      "headline": "ভেনেজুয়েলার ভারপ্রাপ্ত প্রেসিডেন্ট হয়েই সুর নরম করলেন দেলসি রদ্রিগেজ",
+      "url": "https://www.prothomalo.com/world/jjughy2lta",
+      "published_at": "2026-01-05T04:58:32.671000+00:00",
+      "summary": "মার্কিন সংবাদমাধ্যমগুলোর প্রতিবেদন অনুযায়ী, সেখান থেকেই মাদুরোকে মাদক ও অস্ত্র চোরাচালানের অভিযোগে করা মামলায় ম্যানহাটনের ফেডারেল আদালতে হাজির করা হবে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png?auto=format,compress"
+    },
+    {
+      "headline": "ভারতে না যাওয়ার সিদ্ধান্ত বাংলাদেশের, আইসিসি এখন কী করতে পারে",
+      "url": "https://www.prothomalo.com/sports/cricket/4fzsgjc9zg",
+      "published_at": "2026-01-05T04:41:07.784000+00:00",
+      "summary": "টি–টোয়েন্টি বিশ্বকাপ শুরু হতে বাকি মাত্র এক মাস। এমন সময়ে বাংলাদেশের অনুরোধের প্রেক্ষিতে আইসিসি কী করতে পারে? নিয়ন্ত্রক সংস্থা হিসেবে কী করার আছে?",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/sjdoe8oc/WhatsApp-Image-2025-11-29-at-7.19.10-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/sjdoe8oc/WhatsApp-Image-2025-11-29-at-7.19.10-PM.jpeg?auto=format,compress"
     },
     {
       "headline": "ইউসিবির আমানতে ৩ গুণের বেশি প্রবৃদ্ধি",
@@ -16,6 +56,14 @@
       "summary": "এক সংবাদ বিজ্ঞপ্তিতে ইউসিবি এ তথ্য জানিয়েছে। এতে বলা হয়, শুধু আমানতেই নয়, গ্রাহকসংখ্যা বৃদ্ধিতেও নজির গড়েছে এই ব্যাংক।",
       "image_s3_key": "prothomalo-bangla/2026-01-05/gak1v0ru/04-01-26-UCB-DEPOSIT085220.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/gak1v0ru/04-01-26-UCB-DEPOSIT085220.jpg?auto=format,compress"
+    },
+    {
+      "headline": "রাজশাহীর পানি–সংকটাপন্ন এলাকায় সেচ নিয়ে চিন্তিত চাষিরা",
+      "url": "https://www.prothomalo.com/bangladesh/district/j6uscoa6fj",
+      "published_at": "2026-01-05T04:30:00+00:00",
+      "summary": "ক্রমবর্ধমান ভূগর্ভস্থ পানির সংকটের কারণে রাজশাহী, চাঁপাইনবাবগঞ্জ ও নওগাঁর ২৫টি উপজেলার ৪৭টি ইউনিয়নের ১ হাজার ৫০৩টি মৌজাকে ‘অতি উচ্চ পানি–সংকটাপন্ন’ এলাকা হিসেবে চিহ্নিত করা হয়েছে। এতে সেচ নিয়ে অনিশ্চয়তায় আছেন চাষিরা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-04/hv4unrp7/Rajshahiwater.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/hv4unrp7/Rajshahiwater.jpg?auto=format,compress"
     },
     {
       "headline": "ছয় বিন্দুর জাদুকরি বিপ্লব: অন্ধকারের দেয়ালে আলোর হাতছানি",
@@ -74,7 +122,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/7bia3f0x/Trump-at-air-Force-One.jpg?auto=format,compress"
     },
     {
-      "headline": "ফাইন্যান্সিয়াল রিপোর্টিং কাউন্সিলে চাকরি, পদ ৫৭",
+      "headline": "ফাইন্যান্সিয়াল রিপোর্টিং কাউন্সিলে নবমসহ বিভিন্ন গ্রেডে চাকরি, পদ ৫৭",
       "url": "https://www.prothomalo.com/chakri/employment/vg764oif5v",
       "published_at": "2026-01-05T04:10:11.832000+00:00",
       "summary": "ফাইন্যান্সিয়াল রিপোর্টিং কাউন্সিল (এফআরসি) জনবল নিয়োগে বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
@@ -106,20 +154,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/2248h39l/WhatsApp-Image-2026-01-04-at-11.13.48-PM.jpeg?auto=format,compress"
     },
     {
-      "headline": "সৌদি আরবের সঙ্গে মুখোমুখি আরব আমিরাত, নতুন করে যুদ্ধের উত্তেজনা মধ্যপ্রাচ্যে",
-      "url": "https://www.prothomalo.com/world/middle-east/7fobphbu3k",
-      "published_at": "2026-01-05T04:00:00+00:00",
-      "summary": "২০২২ সালে সৌদি আরবের সমর্থনে ইয়েমেনে প্রেসিডেনশিয়াল লিডারশিপ কাউন্সিল গঠিত হয়। হুতিবিরোধী বিভিন্ন গোষ্ঠীকে একত্র করতে গঠিত এ কাউন্সিল এখন ভাঙনের পথে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/uq6mo2p1/eastern-Yemen.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/uq6mo2p1/eastern-Yemen.webp?auto=format,compress"
-    },
-    {
       "headline": "বাবার চায়ের দোকান, ছেলের মেডিকেলে ভর্তির সুযোগ—আনন্দের পাশে অনিশ্চয়তা",
       "url": "https://www.prothomalo.com/bangladesh/district/mkdw2j8qdc",
       "published_at": "2026-01-05T04:00:00+00:00",
       "summary": "ইমন বলেন, ‘ইন্টারমিডিয়েটে ভর্তি করানোর সময় আব্বা ঋণ করেছিলেন। অনেক সময় ঠিকমতো খাওয়া জোটেনি। কলা আর রুটি খেয়েও দিন গেছে।’",
       "image_s3_key": "prothomalo-bangla/2026-01-04/jyxj74b0/Imon-Ali.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/jyxj74b0/Imon-Ali.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সৌদি আরবের সঙ্গে মুখোমুখি আরব আমিরাত, নতুন করে যুদ্ধের উত্তেজনা মধ্যপ্রাচ্যে",
+      "url": "https://www.prothomalo.com/world/middle-east/7fobphbu3k",
+      "published_at": "2026-01-05T04:00:00+00:00",
+      "summary": "২০২২ সালে সৌদি আরবের সমর্থনে ইয়েমেনে প্রেসিডেনশিয়াল লিডারশিপ কাউন্সিল গঠিত হয়। হুতিবিরোধী বিভিন্ন গোষ্ঠীকে একত্র করতে গঠিত এ কাউন্সিল এখন ভাঙনের পথে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-04/uq6mo2p1/eastern-Yemen.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/uq6mo2p1/eastern-Yemen.webp?auto=format,compress"
     },
     {
       "headline": "ইসলামি শরিয়তের প্রধান উৎস কী কী",
@@ -226,20 +274,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-23/lumpaiv6/6.png?auto=format,compress"
     },
     {
-      "headline": "রাজপথে আমাদের দেখতে পাবেন, ইতিহাস বলবে কারা বিশ্বাসঘাতক: মাদুরোর ছেলে",
-      "url": "https://www.prothomalo.com/world/jjughy2lta",
-      "published_at": "2026-01-05T02:22:15.317000+00:00",
-      "summary": "মার্কিন সংবাদমাধ্যমগুলোর প্রতিবেদন অনুযায়ী, সেখান থেকেই মাদুরোকে মাদক ও অস্ত্র চোরাচালানের অভিযোগে করা মামলায় ম্যানহাটনের ফেডারেল আদালতে হাজির করা হবে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/tjczoflz/Caraxas.png?auto=format,compress"
-    },
-    {
       "headline": "এই সিনেমা না দেখলে মিস করবেন ",
       "url": "https://www.prothomalo.com/entertainment/world-cinema/yqy3vihzmc",
       "published_at": "2026-01-05T02:00:00+00:00",
       "summary": " একটি বাড়ি, ইতিহাস, স্মৃতি, শিল্প আর ট্রমা মিলিয়েই ইয়েকিম ত্রিয়েরের শ্বাসরুদ্ধকর ড্রামা ‘সেন্টিমেন্টাল ভ্যালু’। ",
       "image_s3_key": "prothomalo-bangla/2026-01-04/wu9os0g9/02622227-a98c-4212-beb6-6eb3eace8867.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/wu9os0g9/02622227-a98c-4212-beb6-6eb3eace8867.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পূর্ব চুনাখালী গ্রামে সারা বছরই তৈরি হয় নৌকা",
+      "url": "https://www.prothomalo.com/bangladesh/district/0p47ancysx",
+      "published_at": "2026-01-05T02:00:00+00:00",
+      "summary": "গ্রামটির নাম পূর্ব চুনাখালী। এটি বরগুনার আমতলী উপজেলার কুকুয়া ইউনিয়নে অবস্থিত। এলাকায় গ্রামটি নৌকা তৈরির প্রাণকেন্দ্র হয়ে উঠেছে। ",
+      "image_s3_key": "prothomalo-bangla/2025-12-31/oa9q73pb/WhatsApp-Image-2025-12-10-at-4.08.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-31/oa9q73pb/WhatsApp-Image-2025-12-10-at-4.08.jpg?auto=format,compress"
     },
     {
       "headline": "ওলকপির তিনটি বড় উপকারিতা—রোগ প্রতিরোধী, হজমে সহায়ক ও হার্টের জন্য ভালো",
@@ -250,7 +298,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo/import/media/2019/12/02/f9925dde967bc4c2fd0f9ca85f4ebf1d-5de4c6755a6b6.jpg?auto=format,compress"
     },
     {
-      "headline": "ভারতে বিশ্বকাপ না খেলার সিদ্ধান্ত: বিসিবির ‘কঠোর বার্তা’র মধ্যেও ভবিষ্যৎ নিয়ে শঙ্কা",
+      "headline": "মোস্তাফিজকে নিয়ে ‘রাজনীতি’র ধাক্কা টি-টোয়েন্টি বিশ্বকাপে",
       "url": "https://www.prothomalo.com/sports/cricket/xhqcvcra8d",
       "published_at": "2026-01-05T02:00:00+00:00",
       "summary": "‘মোস্তাফিজুর রহমান’ একটা উপলক্ষমাত্র। পুরো ঘটনাটির পেছনে আসলে রাজনীতি। কিছু উগ্রবাদী রাজনৈতিক শক্তির প্রভাবে মোস্তাফিজকে আইপিএল থেকে বাদ দিয়েছে বিসিসিআই।",
@@ -266,60 +314,32 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-23/23srstce/Trump-says.avif?auto=format,compress"
     },
     {
-      "headline": "অফিসে মিলছে টানা দুই সপ্তাহের ছুটি",
-      "url": "https://www.prothomalo.com/video/international/a51cit15jg",
-      "published_at": "2026-01-05T02:00:00+00:00",
-      "summary": "অফিসে মিলছে টানা দুই সপ্তাহের ছুটি",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/ol21n3em/THUMNAILWEB-Recovered.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/ol21n3em/THUMNAILWEB-Recovered.jpg?auto=format,compress"
+      "headline": "বেগম খালেদা জিয়ার রুহের মাগফিরাত কামনায় কসবায় দোয়া মাহফিল",
+      "url": "https://www.bd-pratidin.com/country/2026/01/05/1200555",
+      "published_at": "2026-01-05T11:10:23+06:00",
+      "summary": "বাংলাদেশ জাতীয়তাবাদী দল বিএনপির চেয়ারপারসন ও তিনবারের সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার রুহের মাগফিরাত কামনায় আখাউড়া উপজেলা বিএনপি, পৌর বিএনপি ও অঙ্গসংগঠনের যৌথ উদ্যোগে এক মিলাদ ও দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767589816-abed2ffa2792eb0d9bfb68f84409cd09.jpg"
     },
     {
-      "headline": "পূর্ব চুনাখালী গ্রামে সারা বছরই তৈরি হয় নৌকা",
-      "url": "https://www.prothomalo.com/bangladesh/district/0p47ancysx",
-      "published_at": "2026-01-05T02:00:00+00:00",
-      "summary": "গ্রামটির নাম পূর্ব চুনাখালী। এটি বরগুনার আমতলী উপজেলার কুকুয়া ইউনিয়নে অবস্থিত। এলাকায় গ্রামটি নৌকা তৈরির প্রাণকেন্দ্র হয়ে উঠেছে। ",
-      "image_s3_key": "prothomalo-bangla/2025-12-31/oa9q73pb/WhatsApp-Image-2025-12-10-at-4.08.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-31/oa9q73pb/WhatsApp-Image-2025-12-10-at-4.08.jpg?auto=format,compress"
+      "headline": "সার সংকটে বিপাকে কুমারখালীর পিঁয়াজ চাষিরা",
+      "url": "https://www.bd-pratidin.com/country/2026/01/05/1200553",
+      "published_at": "2026-01-05T11:00:30+06:00",
+      "summary": "গেল বছর জুড়েই পিঁয়াজের ভালো দাম ছিল বাজারে। মৌসুমের শুরুতে ৩৫-৪০ টাকা কেজি দরে বিক্রি হয়েছে পিঁয়াজ। কয়েকমাসে আগেও বিক্রি হয়েছে ১২০ থেকে ১৩৫ টাকা কেজি। সেই পিঁয়াজ এখন বিক্রি হচ্ছে ৮৫ থেকে ৯০ টাকা কেজি দরে। আর প্রতি কেজি পিঁয়াজ উৎপাদনে খরচ পড়েছে ২২ থেকে ২৫ টাকা। ফলে খরচ বাদ দিয়েও লাভ রয়েছে চাষিদের। তাই চলতি অর্থবছর কুষ্টিয়ার কুমারখালীতে এ ফসল আবাদে আগ্রহ দেখা গেছে চাষিদের মাঝে। মাঠে মাঠে পিঁয়াজের চারা রোপণে ধুম লেগেছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767589223-8efece176c2695056f50846ab1ca5a55.jpg"
     },
     {
-      "headline": "পৃথিবীতে স্তন্যপায়ী প্রজাতির সংখ্যা কত",
-      "url": "https://www.prothomalo.com/technology/science/saym7n70ca",
-      "published_at": "2026-01-05T01:59:00+00:00",
-      "summary": "১৯৮০ সাল থেকে স্তন্যপায়ীদের ১৪টি প্রধান তালিকা বিশ্লেষণ করে গবেষকেরা দেখেছেন, প্রতিবছর গড়ে প্রায় ৬৫টি করে প্রজাতি এই তালিকায় যুক্ত হচ্ছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/8ngll3hd/mammals.reuters.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/8ngll3hd/mammals.reuters.png?auto=format,compress"
+      "headline": "হাসপাতালে বাড়ছে ঠান্ডাজনিত রোগীর চাপ",
+      "url": "https://www.bd-pratidin.com/national/2026/01/05/1200552",
+      "published_at": "2026-01-05T10:58:38+06:00",
+      "summary": "টানা তিন সপ্তাহ ধরে চলা তীব্র শৈত্যপ্রবাহে দেশজুড়ে জনজীবন বিপর্যস্ত হয়ে পড়েছে। হাড়কাঁপানো ঠান্ডায় শিশু ও বয়স্কদের মধ্যে ঠান্ডাজনিত রোগের প্রকোপ আশঙ্কাজনকভাবে বেড়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767589525-672c6649f6b948544aa209483bd6f25f.jpg"
     },
     {
-      "headline": "মনোনয়নপত্র বাতিল ২৮% প্রার্থীর, স্বতন্ত্র বেশি, দ্বিতীয় জাপা ",
-      "url": "https://www.prothomalo.com/politics/lfrbxuf848",
-      "published_at": "2026-01-05T01:45:43.712000+00:00",
-      "summary": "বর্তমানে ইসিতে নিবন্ধিত রাজনৈতিক দল আছে ৬০টি। এর মধ্যে রাজনৈতিক কর্মকাণ্ড নিষিদ্ধঘোষিত আওয়ামী লীগের নিবন্ধন স্থগিত আছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-01/dd1dtngy/1.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-01/dd1dtngy/1.avif?auto=format,compress"
-    },
-    {
-      "headline": "আজ টিভিতে যা দেখবেন (৫ জানুয়ারি ২০২৬)",
-      "url": "https://www.prothomalo.com/sports/ec98evs2rd",
-      "published_at": "2026-01-05T01:00:00+00:00",
-      "summary": "সিডনি টেস্টের দ্বিতীয় দিন আজ। বিপিএলে আছে দুটি ম্যাচ। প্রথমটিতে মুখোমুখি নোয়াখালী ও সিলেট, দ্বিতীয় ম্যাচে চট্টগ্রাম ও রংপুর।\n",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/mqbmf4r1/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/mqbmf4r1/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg?auto=format,compress"
-    },
-    {
-      "headline": "উৎপল দত্তর পরামর্শে শুরু, একটি পোস্টার থেকে গড়ে উঠল নাটকের ইতিহাসভান্ডার",
-      "url": "https://www.prothomalo.com/entertainment/drama/lhuzpqhpkt",
-      "published_at": "2026-01-05T01:00:00+00:00",
-      "summary": "সেই ছোট্ট উদ্যোগই আজ প্রতিষ্ঠিত একটি বড় ভান্ডারের নাম—বাংলাদেশ থিয়েটার আর্কাইভস। ১৯৮৬ সালে শুরু হওয়া এই আর্কাইভস পেরিয়েছে ৪০ বছরের পথ।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/8azh15vl/1985-KOLKATA.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/8azh15vl/1985-KOLKATA.jpg?auto=format,compress"
-    },
-    {
-      "headline": "৬ হাজার বন্দীকে মুক্তি দেবে মিয়ানমার সরকার ",
-      "url": "https://www.prothomalo.com/world/asia/1u194joy2x",
-      "published_at": "2026-01-04T21:35:21.366000+00:00",
-      "summary": "রোববার সকালে ইয়াঙ্গুনের ইনসিন কারাগারের সামনে স্বজনদের অপেক্ষায় শত শত মানুষকে ভিড় করতে দেখা যায়। বন্দী স্বজনদের নাম লেখা কাগজ নিয়ে অপেক্ষা করছিলেন তাঁরা।",
-      "image_s3_key": "prothomalo-bangla/2025-01-04/wdp7g3aa/Myanmar-.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-01-04/wdp7g3aa/Myanmar-.jpg?auto=format,compress"
+      "headline": "আজ নিউইয়র্কে ফেডারেল আদালতে তোলা হবে মাদুরোকে",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/05/1200550",
+      "published_at": "2026-01-05T10:46:56+06:00",
+      "summary": "ভেনেজুয়েলার অপহৃত প্রেসিডেন্ট নিকোলাস মাদুরো ও তার স্ত্রী সিলিয়া ফ্লোরেসকে মাদক ও অস্ত্র চোরাচালানের মামলায় স্থানীয় সময় সোমবার (৫ জানুয়ারি) ম্যানহাটনের ফেডারেল আদালতে হাজির করা হচ্ছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767588411-2c14062cf1090c7c69730e2355783623.jpg"
     },
     {
       "headline": "দক্ষিণ লেবাননে ইসরায়েলি হামলায় নিহত ২",
@@ -364,32 +384,46 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767555916-0a0336cb8fdd5185c29e8ca2b72e4b27.jpg"
     },
     {
-      "headline": "ভেনেজুয়েলায় কি আবারও আটকে যাবে যুক্তরাষ্ট্র?",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/05/1200488",
-      "published_at": "2026-01-05T01:03:01+06:00",
-      "summary": "ভেনেজুয়েলায় দীর্ঘমেয়াদি মার্কিন নিয়ন্ত্রণ প্রতিষ্ঠার চেষ্টা হলে তা ভিয়েতনাম বা ইরাক যুদ্ধের মতো ভয়াবহ পরিণতির দিকে যেতে পারে বলে সতর্ক করেছেন যুক্তরাষ্ট্রের সিটি ইউনিভার্সিটি অব নিউইয়র্কের লাতিন আমেরিকান স্টাডিজের অধ্যাপক ডেনিয়েল শ। তাঁর মতে, ভেনেজুয়েলার জনগণ কখনোই বিদেশি শাসন মেনে নেবে না।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767553376-cf147c2bcf5b85b41732d82c61d58790.jpg"
+      "headline": "একইদিনে সংসদ নির্বাচন ও গণভোটের তফসিলের বৈধতা চ্যালেঞ্জ করে রিট",
+      "url": "https://www.ittefaq.com.bd/768979/%E0%A6%8F%E0%A6%95%E0%A6%87%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%93-%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%AB%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%A7%E0%A6%A4%E0%A6%BE",
+      "published_at": null,
+      "summary": "একইদিনে জাতীয় সংসদ নির্বাচন ও গণভোটের তফসিলের বৈধতা চ্যালেঞ্জ করে রিট দায়ের করা হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/385bc9f26e167ebc864e1c46da681008-695b4b146f27a.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
-      "headline": "টি টোয়েন্টি বিশ্বকাপে বাংলাদেশের ম্যাচ নিয়ে নড়েচড়ে বসেছে আইসিসি",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/04/1200415",
-      "published_at": "2026-01-04T23:59:50+06:00",
-      "summary": "টি টোয়েন্টি বিশ্বকাপে বাংলাদেশের ম্যাচ ভারত থেকে সরিয়ে নেওয়ার বিষয়টি বিবেচনা করতে পারে আন্তর্জাতিক ক্রিকেট কাউন্সিল আইসিসি। যদিও এখন পর্যন্ত এ বিষয়ে কোনো চূড়ান্ত সিদ্ধান্ত নেয়নি সংস্থাটি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767549585-36352c7377ffc27543281f891f4ed444.jpg"
+      "headline": "প্রার্থিতা ফিরে পেতে আপিলে যেসব নির্দেশনা মানতে হবে",
+      "url": "https://www.ittefaq.com.bd/768978/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A4%E0%A7%87",
+      "published_at": null,
+      "summary": "নির্বাচনের পরিবেশ ভালো আছে বলে মন্তব্য করেছেন প্রধান নির্বাচন কমিশনার (সিইসি) এএমএম নাসির উদ্দিন। তিনি আরও বলেন, ‘আমরা বিশ্বাস করি, অবাধ এবং সুষ্ঠু নির্বাচন করতে পারব।’",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/7507eb00cea72beaf029efc928f0b49d-695b4873be921.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
-      "headline": "মাদুরোকে রাখা কুখ্যাত কারাগার নিয়ে আরও যা জানা গেল",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/04/1200400",
-      "published_at": "2026-01-04T23:53:50+06:00",
-      "summary": "ভেনেজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরোকে তুলে নিয়ে গেছে যুক্তরাষ্ট্র। তাকে নিউইয়র্কের কুখ্যাত মেট্রোপলিটন ডিটেনশন সেন্টার ব্রুকলিনে আটক রাখা হয়েছে। এই কারাগারটি দীর্ঘদিন ধরেই নানা বিতর্কে আলোচিত এবং অতীতে এর পরিবেশ নিয়ে গুরুতর অভিযোগ ওঠায় কিছু বিচারক সেখানে অভিযুক্তদের পাঠাতে অস্বীকৃতি জানিয়েছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767549225-f51836db7c3214086985f80d3ce356a1.jpg"
+      "headline": "বিএনপিতে যোগ দিলেন উপজেলা আওয়ামী লীগের সাংগঠনিক সম্পাদক",
+      "url": "https://www.ittefaq.com.bd/768977/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A6%BF%E0%A6%95",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে সামনে রেখে ফরিদপুর-২ (সালথা-নগরকান্দা) আসনে আওয়ামী লীগ ছেড়ে বিএনপিতে যোগ দিয়েছেন সালথা উপজেলা আওয়ামী লীগের সাংগঠনিক সম্পাদক মো. আনোয়ার হোসেন মিয়া।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/677f462f26965813c53d379a1f323be9-695b481e43269.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
-      "headline": "দলের সব পদ থেকে বিএনপির সাবেক এমপি বহিষ্কার",
-      "url": "https://www.bd-pratidin.com/election/2026/01/04/1200346",
-      "published_at": "2026-01-04T22:48:17+06:00",
-      "summary": "দলীয় নীতি ও সংগঠন পরিপন্থী কার্যকলাপে জড়িত থাকার অভিযোগে নওগাঁ জেলার নিয়ামতপুর উপজেলা বিএনপির সভাপতি এবং তিনবারের সাবেক সংসদ সদস্য ডা. ছালেক চৌধুরীকে দলের সদস্যপদসহ সব পদ থেকে বহিষ্কার করেছে দলটি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767545288-438a1f6c6f69ad60724b48118af0548d.jpg"
+      "headline": "ফেসবুকে আর্থিক সহযোগিতা চাইলেন ব্যারিস্টার ফুয়াদ",
+      "url": "https://www.ittefaq.com.bd/768976/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AB%E0%A7%87%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে অংশ নিতে নির্বাচনী ব্যয় নির্বাহের জন্য আর্থিক সহযোগিতা চেয়ে ফেসবুকে ভিডিও বার্তা প্রকাশ করেছেন আমার বাংলাদেশ (এবি) পার্টির প্রার্থী মোহাম্মদ আসাদুজ্জামান ভূঁইয়া ওরফে ব্যারিস্টার ফুয়াদ। রোববার (৪ জানুয়ারি) রাত সাড়ে ১০টার দিকে নিজের ফেসবুক আইডিতে ওই ভিডিও বার্তা দেন তিনি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/6173a8341500861e60aeed77137727ad-695b4629ca3bc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "অ্যানিভার্সারিতে তাহসানপত্মী রোজার চমক",
+      "url": "https://www.ittefaq.com.bd/768975/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%B8%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%AE%E0%A6%95",
+      "published_at": null,
+      "summary": "সংগীতশিল্পী ও অভিনেতা তাহসান খান-মেকআপ আর্টিস্ট রোজা আহমেদের বিয়ে হয় গত বছরের ৪ জানুয়ারি। ইতোমধ্যে কেটে গেছে তাদের এক বছরের দাম্পত্য।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/56a3b97fa29525bc656c0098332b4b49-695b456b636cd.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "শীত অব্যাহত থাকবে, দুপুর পর্যন্ত থাকবে কুয়াশা",
+      "url": "https://www.ittefaq.com.bd/768974/%E0%A6%B6%E0%A7%80%E0%A6%A4-%E0%A6%85%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%A4-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B6%E0%A6%BE",
+      "published_at": null,
+      "summary": "দেশের কয়েকটি জেলার ওপর দিয়ে মৃদু শৈত্যপ্রবাহ বয়ে যাচ্ছে এবং তা অব্যাহত থাকতে পারে বলে জানিয়েছে আবহাওয়া অধিদপ্তর। বর্তমানে পাবনা, সিরাজগঞ্জ, যশোর, কুষ্টিয়া, কুমিল্লা, মৌলভীবাজার ও সিলেট জেলার ওপর দিয়ে মৃদু শৈত্যপ্রবাহ বয়ে যাচ্ছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/31/8b8facfcd656e23f77b932bc8dcd488d-6954d2c224711.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "এবার কলম্বিয়া ও কিউবায় সরকার পতনের হুঁশিয়ারি ট্রাম্পের",
@@ -420,48 +454,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/05/94cf8120afdf3c553569f3709625d66d-695b3a150a4df.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
     },
     {
-      "headline": "বিসিসিআইকে ‘ধিক্কার’ জানালেন মিশা সওদাগর",
-      "url": "https://www.ittefaq.com.bd/768968/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%86%E0%A6%87%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0%E2%80%99-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%BE-%E0%A6%B8%E0%A6%93%E0%A6%A6%E0%A6%BE%E0%A6%97%E0%A6%B0",
-      "published_at": null,
-      "summary": "আইপিএলে ৯ কোটি ২০ লাখ রুপিতে কলকাতা নাইট রাইডার্সে সুযোগ পেয়েও স্থানীয় রাজনৈতিক চাপ ও ভারতীয় ক্রিকেট বোর্ডের আপত্তিতে বাদ পড়েছেন বাংলাদেশের পেসার মুস্তাফিজুর রহমান। এ ঘটনায় তীব্র ক্ষোভ প্রকাশ করে ভারতীয় ক্রিকেট বোর্ডকে সরাসরি ‘ধিক্কার’ জানিয়েছেন ঢালিউডের অভিনেতা মিশা সওদাগর।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/fb00d3a8e6eb3cb82d6edd6692048133-695b3885795f4.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "মির্জা আব্বাসের সম্পদ ৬৮ কোটি টাকার, অস্ত্র ৩টি",
-      "url": "https://www.ittefaq.com.bd/768967/%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A6-%E0%A7%AC%E0%A7%AE-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A7%A9%E0%A6%9F%E0%A6%BF",
-      "published_at": null,
-      "summary": "ঢাকা-৮ আসনে ত্রয়োদশ সংসদ নির্বাচনে বিএনপির মনোনীত প্রার্থী মির্জা আব্বাস হলফনামায় নিজের নামে ৬৮ কোটি ৬৭ লাখ টাকার সম্পদের তথ্য দিয়েছেন। সাবেক মন্ত্রী ও অবিভক্ত ঢাকার সাবেক মেয়র মির্জা আব্বাসের ঘোষিত আয়ের বড় অংশই এসেছে বিভিন্ন আর্থিক বিনিয়োগ ও বাড়িভাড়া থেকে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/c4c66f9ae64add38d0e6229f28add3ec-695b363853ae7.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "আবারও দেশের বাজারে বাড়ালো স্বর্ণের দাম",
-      "url": "https://www.ittefaq.com.bd/768966/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
-      "published_at": null,
-      "summary": "টানা ৩ দফা কমানোর পর আবারও দেশের বাজারে বাড়ানো হয়েছে স্বর্ণের দাম। সিদ্ধান্ত অনুযায়ী, আজ সোমবার (৫ জানুয়ারি) থেকে মূল্যবান এই ধাতু বিক্রি হবে নতুন দামে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/2cf2f116bb9860f2efc600e576a430e9-695b34d76d001.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "মব জাস্টিস ও ভাঙচুর: দমনে কঠোরতার বিকল্প নেই",
-      "url": "https://www.ittefaq.com.bd/768965/%E0%A6%AE%E0%A6%AC-%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B8-%E0%A6%93-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0-%E0%A6%A6%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%A8%E0%A7%87%E0%A6%87",
-      "published_at": null,
-      "summary": "বিগত আওয়ামী আমলে সুশাসন প্রশ্নবিদ্ধ ছিল রাষ্ট্রীয় পৃষ্ঠপোষকতায় গুম, অপহরণ এবং বিচারবহির্ভূত হত্যাকান্ডের কারণে। তখন মানুষ ভয় পেত রাষ্ট্রীয় বাহিনীকে। আর এখন মানুষ ভয় পাচ্ছে উন্মত্ত জনতাকে। আগের অপরাধ ছিল পরিকল্পিত ও কাঠামোগত, আর বর্তমানের অপরাধ বিশৃঙ্খল ও তাৎক্ষণিক। উভয় ক্ষেত্রেই নাগরিকের জীবনের নিরাপত্তা আজ বিলুপ্তপ্রায়",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/54d018782d2dad53b9942f0b92781866-695b31f30c5bc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "বাবাকে আটকের পর রাস্তায় নামার আহ্বান মাদুরোপুত্রের",
-      "url": "https://www.ittefaq.com.bd/768964/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B9%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "যুক্তরাষ্ট্রের সেনাবাহিনী বিশাল অভিযান চালিয়ে ভেনেজুয়েলার নেতা নিকোলাস মাদুরোকে আটকের পর জনগণকে রাস্তায় নেমে আসার আহ্বান জানিয়েছেন তার ছেলে নিকোলাস মাদুরো গেরা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/d7593fc7fd511f105fb1ac693fdfe4f0-695b30bd5cb0f.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "নাইজেরিয়ায় বন্দুকধারীদের হামলা, শিশু-নারীসহ নিহত ৩০",
-      "url": "https://www.ittefaq.com.bd/768963/%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%95%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4",
-      "published_at": null,
-      "summary": "নাইজেরিয়ার উত্তরাঞ্চলীয় প্রদেশ নাইজারে একটি জনাকীর্ণ বাজারে বন্দুকধারী সন্ত্রাসীদের ভয়াবহ হামলায় কমপক্ষে ৩০ জন নিহত হয়েছেন। রোববার (৪ জানুয়ারি) স্থানীয় সময় বিকেল সাড়ে ৪টার দিকে নাইজারের ডেমো গ্রামের কাসুয়ান দাকি মার্কেটে এই বর্বরোচিত হামলা চালানো হয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/d8aa8f2ac68d0b80103a79443fb8f475-695b308ff2971.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
       "headline": "গুমের সংখ্যা ৪ থেকে ৬ হাজার",
       "url": "https://dailynayadiganta.com/printed-edition/pBd1ovgEUkUF/",
       "published_at": null,
@@ -481,6 +473,27 @@
       "published_at": null,
       "summary": "আসামে স্থিতি আনার ব্যর্থতা উত্তর-পূর্বাঞ্চলকে স্থায়ীভাবে সঙ্ঘাত এবং কৌশলগত নাজুক অঞ্চলে পরিণত করতে পারে।",
       "image_url": "https://media.ndiganta.com/images/Bazlur_4tLwARh.origin.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "ব্যাট হাতে জ্বলে উঠেও দলকে শিরোপা জেতাতে পারলেন না সাকিব",
+      "url": "https://dailynayadiganta.com/sports/cricket/rRxUaO2EpV3S/",
+      "published_at": null,
+      "summary": "আইএল টি-টোয়েন্টির ফাইনালে সাকিব ব্যাট হাতে সর্বোচ্চ রান করলেও এমআই এমিরেটস ডেজার্ট ভাইপার্সের কাছে ৪৬ রানে হেরে শিরোপা জিততে পারেনি। স্যাম কারানের ৭৪ রানের ইনিংসে ১৮২ রান তুলে ভাইপার্স শিরোপা নিশ্চিত করে।",
+      "image_url": "https://media.ndiganta.com/original_images/IL-Final.jpg"
+    },
+    {
+      "headline": "মনোনয়নপত্র বাতিল-গ্রহণের বিরুদ্ধে ইসিতে আপিল শুরু আজ",
+      "url": "https://dailynayadiganta.com/bangladesh/national/pfSDCL8CfXeG/",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ১,৮৪২টি মনোনয়নপত্র বৈধ ও ৭২৩টি বাতিল ঘোষণা করেছে ইসি।\r\nমনোনয়নপত্র গ্রহণ–বাতিলের বিরুদ্ধে আজ ৫ জানুয়ারি থেকে ৯ জানুয়ারি পর্যন্ত নির্বাচন কমিশনে আপিল করা যাবে।",
+      "image_url": "https://media.ndiganta.com/original_images/EC_NerBnmm.JPG"
+    },
+    {
+      "headline": "দোয়ারাবাজারে অপহরণের শিকার মাদরাসা ছাত্রী উদ্ধার, গ্রেফতার ১",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/0RYn64glA8WQ/",
+      "published_at": null,
+      "summary": "উদ্ধারপূর্বক আইনানুগ ব্যবস্থা নেয়ার জন্য গ্রেফতারকৃত আসামি ও উদ্ধার ভিকটিমকে দোয়ারাবাজার থানায় হস্তান্তর করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/sUNAMGANJ.jpg"
     },
     {
       "headline": "হাইপারসনিক ক্ষেপণাস্ত্র পরীক্ষা চালিয়েছে উত্তর কোরিয়া",
@@ -532,6 +545,138 @@
       "image_url": "https://media.ndiganta.com/original_images/Mazedur-Gaibandha.jpg"
     },
     {
+      "headline": "আজকের সর্বশেষ খবর - January 05, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "আজ বিপিএলের দুটি ম্যাচ আছে। চট্টগ্রাম ও রংপুরের ম্যাচ ছাড়াও দিনের প্রথম খেলায় মুখোমুখি হবে সিলেট-নোয়াখালী। ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "অফিসে মিলছে টানা দুই সপ্তাহের ছুটি",
+      "url": "https://www.prothomalo.com/video/international/a51cit15jg",
+      "published_at": "2026-01-05T02:00:00+00:00",
+      "summary": "অফিসে মিলছে টানা দুই সপ্তাহের ছুটি",
+      "image_s3_key": "prothomalo-bangla/2026-01-04/ol21n3em/THUMNAILWEB-Recovered.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/ol21n3em/THUMNAILWEB-Recovered.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পৃথিবীতে স্তন্যপায়ী প্রজাতির সংখ্যা কত",
+      "url": "https://www.prothomalo.com/technology/science/saym7n70ca",
+      "published_at": "2026-01-05T01:59:00+00:00",
+      "summary": "১৯৮০ সাল থেকে স্তন্যপায়ীদের ১৪টি প্রধান তালিকা বিশ্লেষণ করে গবেষকেরা দেখেছেন, প্রতিবছর গড়ে প্রায় ৬৫টি করে প্রজাতি এই তালিকায় যুক্ত হচ্ছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-04/8ngll3hd/mammals.reuters.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/8ngll3hd/mammals.reuters.png?auto=format,compress"
+    },
+    {
+      "headline": "মনোনয়নপত্র বাতিল ২৮% প্রার্থীর, স্বতন্ত্র বেশি, দ্বিতীয় জাপা ",
+      "url": "https://www.prothomalo.com/politics/lfrbxuf848",
+      "published_at": "2026-01-05T01:45:43.712000+00:00",
+      "summary": "বর্তমানে ইসিতে নিবন্ধিত রাজনৈতিক দল আছে ৬০টি। এর মধ্যে রাজনৈতিক কর্মকাণ্ড নিষিদ্ধঘোষিত আওয়ামী লীগের নিবন্ধন স্থগিত আছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-01/dd1dtngy/1.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-01/dd1dtngy/1.avif?auto=format,compress"
+    },
+    {
+      "headline": "আজ টিভিতে যা দেখবেন (৫ জানুয়ারি ২০২৬)",
+      "url": "https://www.prothomalo.com/sports/ec98evs2rd",
+      "published_at": "2026-01-05T01:00:00+00:00",
+      "summary": "সিডনি টেস্টের দ্বিতীয় দিন আজ। বিপিএলে আছে দুটি ম্যাচ। প্রথমটিতে মুখোমুখি নোয়াখালী ও সিলেট, দ্বিতীয় ম্যাচে চট্টগ্রাম ও রংপুর।\n",
+      "image_s3_key": "prothomalo-bangla/2026-01-04/mqbmf4r1/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/mqbmf4r1/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg?auto=format,compress"
+    },
+    {
+      "headline": "উৎপল দত্তর পরামর্শে শুরু, একটি পোস্টার থেকে গড়ে উঠল নাটকের ইতিহাসভান্ডার",
+      "url": "https://www.prothomalo.com/entertainment/drama/lhuzpqhpkt",
+      "published_at": "2026-01-05T01:00:00+00:00",
+      "summary": "সেই ছোট্ট উদ্যোগই আজ প্রতিষ্ঠিত একটি বড় ভান্ডারের নাম—বাংলাদেশ থিয়েটার আর্কাইভস। ১৯৮৬ সালে শুরু হওয়া এই আর্কাইভস পেরিয়েছে ৪০ বছরের পথ।",
+      "image_s3_key": "prothomalo-bangla/2026-01-04/8azh15vl/1985-KOLKATA.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/8azh15vl/1985-KOLKATA.jpg?auto=format,compress"
+    },
+    {
+      "headline": "৬ হাজার বন্দীকে মুক্তি দেবে মিয়ানমার সরকার ",
+      "url": "https://www.prothomalo.com/world/asia/1u194joy2x",
+      "published_at": "2026-01-04T21:35:21.366000+00:00",
+      "summary": "রোববার সকালে ইয়াঙ্গুনের ইনসিন কারাগারের সামনে স্বজনদের অপেক্ষায় শত শত মানুষকে ভিড় করতে দেখা যায়। বন্দী স্বজনদের নাম লেখা কাগজ নিয়ে অপেক্ষা করছিলেন তাঁরা।",
+      "image_s3_key": "prothomalo-bangla/2025-01-04/wdp7g3aa/Myanmar-.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-01-04/wdp7g3aa/Myanmar-.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ভেনেজুয়েলায় কি আবারও আটকে যাবে যুক্তরাষ্ট্র?",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/05/1200488",
+      "published_at": "2026-01-05T01:03:01+06:00",
+      "summary": "ভেনেজুয়েলায় দীর্ঘমেয়াদি মার্কিন নিয়ন্ত্রণ প্রতিষ্ঠার চেষ্টা হলে তা ভিয়েতনাম বা ইরাক যুদ্ধের মতো ভয়াবহ পরিণতির দিকে যেতে পারে বলে সতর্ক করেছেন যুক্তরাষ্ট্রের সিটি ইউনিভার্সিটি অব নিউইয়র্কের লাতিন আমেরিকান স্টাডিজের অধ্যাপক ডেনিয়েল শ। তাঁর মতে, ভেনেজুয়েলার জনগণ কখনোই বিদেশি শাসন মেনে নেবে না।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767553376-cf147c2bcf5b85b41732d82c61d58790.jpg"
+    },
+    {
+      "headline": "টি টোয়েন্টি বিশ্বকাপে বাংলাদেশের ম্যাচ নিয়ে নড়েচড়ে বসেছে আইসিসি",
+      "url": "https://www.bd-pratidin.com/sports/2026/01/04/1200415",
+      "published_at": "2026-01-04T23:59:50+06:00",
+      "summary": "টি টোয়েন্টি বিশ্বকাপে বাংলাদেশের ম্যাচ ভারত থেকে সরিয়ে নেওয়ার বিষয়টি বিবেচনা করতে পারে আন্তর্জাতিক ক্রিকেট কাউন্সিল আইসিসি। যদিও এখন পর্যন্ত এ বিষয়ে কোনো চূড়ান্ত সিদ্ধান্ত নেয়নি সংস্থাটি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767549585-36352c7377ffc27543281f891f4ed444.jpg"
+    },
+    {
+      "headline": "মাদুরোকে রাখা কুখ্যাত কারাগার নিয়ে আরও যা জানা গেল",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/04/1200400",
+      "published_at": "2026-01-04T23:53:50+06:00",
+      "summary": "ভেনেজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরোকে তুলে নিয়ে গেছে যুক্তরাষ্ট্র। তাকে নিউইয়র্কের কুখ্যাত মেট্রোপলিটন ডিটেনশন সেন্টার ব্রুকলিনে আটক রাখা হয়েছে। এই কারাগারটি দীর্ঘদিন ধরেই নানা বিতর্কে আলোচিত এবং অতীতে এর পরিবেশ নিয়ে গুরুতর অভিযোগ ওঠায় কিছু বিচারক সেখানে অভিযুক্তদের পাঠাতে অস্বীকৃতি জানিয়েছেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767549225-f51836db7c3214086985f80d3ce356a1.jpg"
+    },
+    {
+      "headline": "দলের সব পদ থেকে বিএনপির সাবেক এমপি বহিষ্কার",
+      "url": "https://www.bd-pratidin.com/election/2026/01/04/1200346",
+      "published_at": "2026-01-04T22:48:17+06:00",
+      "summary": "দলীয় নীতি ও সংগঠন পরিপন্থী কার্যকলাপে জড়িত থাকার অভিযোগে নওগাঁ জেলার নিয়ামতপুর উপজেলা বিএনপির সভাপতি এবং তিনবারের সাবেক সংসদ সদস্য ডা. ছালেক চৌধুরীকে দলের সদস্যপদসহ সব পদ থেকে বহিষ্কার করেছে দলটি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767545288-438a1f6c6f69ad60724b48118af0548d.jpg"
+    },
+    {
+      "headline": "বিসিসিআইকে ‘ধিক্কার’ জানালেন মিশা সওদাগর",
+      "url": "https://www.ittefaq.com.bd/768968/%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%86%E0%A6%87%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0%E2%80%99-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%BE-%E0%A6%B8%E0%A6%93%E0%A6%A6%E0%A6%BE%E0%A6%97%E0%A6%B0",
+      "published_at": null,
+      "summary": "আইপিএলে ৯ কোটি ২০ লাখ রুপিতে কলকাতা নাইট রাইডার্সে সুযোগ পেয়েও স্থানীয় রাজনৈতিক চাপ ও ভারতীয় ক্রিকেট বোর্ডের আপত্তিতে বাদ পড়েছেন বাংলাদেশের পেসার মুস্তাফিজুর রহমান। এ ঘটনায় তীব্র ক্ষোভ প্রকাশ করে ভারতীয় ক্রিকেট বোর্ডকে সরাসরি ‘ধিক্কার’ জানিয়েছেন ঢালিউডের অভিনেতা মিশা সওদাগর।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/fb00d3a8e6eb3cb82d6edd6692048133-695b3885795f4.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "মির্জা আব্বাসের সম্পদ ৬৮ কোটি টাকার, অস্ত্র ৩টি",
+      "url": "https://www.ittefaq.com.bd/768967/%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A6-%E0%A7%AC%E0%A7%AE-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A7%A9%E0%A6%9F%E0%A6%BF",
+      "published_at": null,
+      "summary": "ঢাকা-৮ আসনে ত্রয়োদশ সংসদ নির্বাচনে বিএনপির মনোনীত প্রার্থী মির্জা আব্বাস হলফনামায় নিজের নামে ৬৮ কোটি ৬৭ লাখ টাকার সম্পদের তথ্য দিয়েছেন। সাবেক মন্ত্রী ও অবিভক্ত ঢাকার সাবেক মেয়র মির্জা আব্বাসের ঘোষিত আয়ের বড় অংশই এসেছে বিভিন্ন আর্থিক বিনিয়োগ ও বাড়িভাড়া থেকে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/c4c66f9ae64add38d0e6229f28add3ec-695b363853ae7.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "আবারও দেশের বাজারে বাড়ালো স্বর্ণের দাম",
+      "url": "https://www.ittefaq.com.bd/768966/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
+      "published_at": null,
+      "summary": "টানা ৩ দফা কমানোর পর আবারও দেশের বাজারে বাড়ানো হয়েছে স্বর্ণের দাম। সিদ্ধান্ত অনুযায়ী, আজ সোমবার (৫ জানুয়ারি) থেকে মূল্যবান এই ধাতু বিক্রি হবে নতুন দামে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/2cf2f116bb9860f2efc600e576a430e9-695b34d76d001.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "মব জাস্টিস ও ভাঙচুর: দমনে কঠোরতার বিকল্প নেই",
+      "url": "https://www.ittefaq.com.bd/768965/%E0%A6%AE%E0%A6%AC-%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B8-%E0%A6%93-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0-%E0%A6%A6%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%A8%E0%A7%87%E0%A6%87",
+      "published_at": null,
+      "summary": "বিগত আওয়ামী আমলে সুশাসন প্রশ্নবিদ্ধ ছিল রাষ্ট্রীয় পৃষ্ঠপোষকতায় গুম, অপহরণ এবং বিচারবহির্ভূত হত্যাকান্ডের কারণে। তখন মানুষ ভয় পেত রাষ্ট্রীয় বাহিনীকে। আর এখন মানুষ ভয় পাচ্ছে উন্মত্ত জনতাকে। আগের অপরাধ ছিল পরিকল্পিত ও কাঠামোগত, আর বর্তমানের অপরাধ বিশৃঙ্খল ও তাৎক্ষণিক। উভয় ক্ষেত্রেই নাগরিকের জীবনের নিরাপত্তা আজ বিলুপ্তপ্রায়",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/54d018782d2dad53b9942f0b92781866-695b31f30c5bc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "বাবাকে আটকের পর রাস্তায় নামার আহ্বান মাদুরোপুত্রের",
+      "url": "https://www.ittefaq.com.bd/768964/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B9%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "যুক্তরাষ্ট্রের সেনাবাহিনী বিশাল অভিযান চালিয়ে ভেনেজুয়েলার নেতা নিকোলাস মাদুরোকে আটকের পর জনগণকে রাস্তায় নেমে আসার আহ্বান জানিয়েছেন তার ছেলে নিকোলাস মাদুরো গেরা।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/d7593fc7fd511f105fb1ac693fdfe4f0-695b30bd5cb0f.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "নাইজেরিয়ায় বন্দুকধারীদের হামলা, শিশু-নারীসহ নিহত ৩০",
+      "url": "https://www.ittefaq.com.bd/768963/%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%95%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4",
+      "published_at": null,
+      "summary": "নাইজেরিয়ার উত্তরাঞ্চলীয় প্রদেশ নাইজারে একটি জনাকীর্ণ বাজারে বন্দুকধারী সন্ত্রাসীদের ভয়াবহ হামলায় কমপক্ষে ৩০ জন নিহত হয়েছেন। রোববার (৪ জানুয়ারি) স্থানীয় সময় বিকেল সাড়ে ৪টার দিকে নাইজারের ডেমো গ্রামের কাসুয়ান দাকি মার্কেটে এই বর্বরোচিত হামলা চালানো হয়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/05/d8aa8f2ac68d0b80103a79443fb8f475-695b308ff2971.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "ফেনীতে বিএনপির সেই ২ বিদ্রোহীর প্রার্থিতা বাতিল",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/mFqJwH0pRO9y/",
       "published_at": null,
@@ -544,20 +689,6 @@
       "published_at": null,
       "summary": "জোটের আসন বিন্যাস নিয়ে সমস্যা চলছে কিনা- এমন প্রশ্নের জবাবে তিনি বলেন, ‘জোট একটি বিশাল বিষয়, আমরা কোনো জোট গঠন করিনি, শুধু আসন সমঝোতা করেছি।’",
       "image_url": "https://media.ndiganta.com/original_images/Mamunul-Haque_mLbRxYw.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - January 05, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "ভেনেজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরো ও  তার স্ত্রী সিলিয়া ফ্লোরেসকে মার্কিন বাহিনীর তুলে নেওয়ার ঘটনায় মুখ খুলেছেন তার ছেলে নিকোলাস ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "‘নগ্ন সাম্রাজ্যবাদ’: ভেনেজুয়েলায় আগ্রাসন চালিয়ে যেভাবে পুরোনো রূপে ফিরছে যুক্তরাষ্ট্র",
@@ -1360,145 +1491,6 @@
       "published_at": null,
       "summary": null,
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "উড্ডয়ন নিষেধাজ্ঞায় পাম ¯িপ্র্রংস উৎসবে নেই ডিক্যাপ্রিও",
-      "url": "https://dailynayadiganta.com/printed-edition/eCmTjwcIUVLV/",
-      "published_at": null,
-      "summary": "আকাশপথ ব্যবহারে নিষেধাজ্ঞার কারণে পাম ¯িপ্রংস ইন্টারন্যাশনাল ফিল্ম ফেস্টিভ্যাল অ্যাওয়ার্ডস গালাতে যোগ দিতে পারছেন না হলিউড সুপারস্টার লিওনার্দো ডিক্যাপ্রিও। ভেনিজুয়েলায় চলমান রাজনৈতিক অস্থিরতা ও সঙ্ঘাতের ফলে সৃষ্ট জটিল পরিস্থিতিতে শনিবার রাতের এই জাঁকজমকপূর্ণ অনুষ্ঠানে তার সশরীরে উপস্থিতি বাতিল করা হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/bino-1_qu35Y2t.jpg"
-    },
-    {
-      "headline": "শ্রীলঙ্কায় বিশ্বকাপ খেলতে পারে বাংলাদেশ, নমনীয় আইসিসি!",
-      "url": "https://dailynayadiganta.com/sports/cricket/zEJT2dzvTWr8/",
-      "published_at": null,
-      "summary": "বিসিবির আবেদন আইসিসি মেনে নিলে পাকিস্তানের মতো বাংলাদেশও নিজেদের ম্যাচ খেলতে পারে শ্রীলঙ্কায়। আপাতত ক্রিকবাজের খবর, এই ব্যাপারে বিসিবির আবেদনের বিপক্ষে নয় আইসিসি।",
-      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_26.png"
-    },
-    {
-      "headline": "সোনার দাম ভরিতে বাড়ছে\n ২ হাজার ২১৬ টাকা",
-      "url": "https://www.prothomalo.com/business/ps62ffzkql",
-      "published_at": "2026-01-04T15:58:11.753000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2022-12/6b0d0ce6-bfc1-4a10-be35-b21d68f44f0a/Gold_Palo.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-12/6b0d0ce6-bfc1-4a10-be35-b21d68f44f0a/Gold_Palo.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সুন্দরবনে অপহৃত পর্যটক-রিসোর্টমালিকসহ ৩ জনকে উদ্ধার: পুলিশ",
-      "url": "https://www.prothomalo.com/bangladesh/district/wkha1i4bri",
-      "published_at": "2026-01-04T15:47:23.692000+00:00",
-      "summary": "সুন্দরবন পূর্ব বন বিভাগের চাঁদপাই রেঞ্জের ঢাংমারী স্টেশনের ঘাগরামারী টহল ফাঁড়িসংলগ্ন কেনুয়ার খালে অপহরণের এ ঘটনা ঘটে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-03/4nd7mykq/WhatsApp-Image-2026-01-03-at-9.54.44-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-03/4nd7mykq/WhatsApp-Image-2026-01-03-at-9.54.44-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "১২০ বছরে ৩৬ দেশের সরকার উৎখাতে যুক্তরাষ্ট্র",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/04/1200328",
-      "published_at": "2026-01-04T21:43:54+06:00",
-      "summary": "এক শতাব্দীর বেশি সময় ধরে বৈশ্বিক রাজনীতিতে প্রভাব বিস্তারের জন্য যুক্তরাষ্ট্র যে কৌশলটি সবচেয়ে বেশি ব্যবহার করেছে, তা হলো বিদেশি সরকার পরিবর্তন বা রেজিম চেঞ্জ। গবেষণা বলছে, এই কৌশলের পরিণতি অধিকাংশ ক্ষেত্রেই হয়েছে ভয়াবহ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/04/og/1767541429-2692e88080c856b0bf8f678ac0c4a487.jpg"
-    },
-    {
-      "headline": "নাচতে নাচতে কনাকে দুঃখ প্রকাশ পূজার",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/6qr21qa8rx",
-      "published_at": "2026-01-04T15:45:00+00:00",
-      "summary": "হঠাৎ এ জুটির দেখা। আর সেই দেখাতেই কনা মুখোমুখি হয়ে জুটি নিয়ে আশার কথা শোনালেন এই নায়িকা ও গায়িকা।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/8e10etf1/WhatsApp_Image_2026_01_04_at_4_16_45_PM__1_.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/8e10etf1/WhatsApp_Image_2026_01_04_at_4_16_45_PM__1_.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "আগস্ট মাস থেকে মাদুরোর গতিবিধি ট্র্যাক করেছিল সিআইএ এজেন্টরা",
-      "url": "https://www.ittefaq.com.bd/768928/%E0%A6%86%E0%A6%97%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%B0-%E0%A6%97%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2",
-      "published_at": null,
-      "summary": "মার্কিন কেন্দ্রীয় গোয়েন্দা সংস্থার (সিআইএ) একটি ছোট গ্রুপ গত আগস্ট মাস থেকে ভেনেজুয়েলার ভূখণ্ডে অবস্থান করেছে এবং প্রেসিডেন্ট নিকোলাস মাদুরোর অভ্যাস ও গতিবিধি পর্যবেক্ষণ করছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/04/1c463f2771c068fe0dd559a70bd0432e-695a881216830.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "ভোটের আগে ও পরের কয়েকদিন রোহিঙ্গা ক্যাম্প সিল রাখতে হবে: ইসি",
-      "url": "https://www.ittefaq.com.bd/768925/%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%9F%E0%A7%87%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%B8%E0%A6%BF%E0%A6%B2",
-      "published_at": null,
-      "summary": "জাতীয় সংসদ নির্বাচনের আগে ও পরে কয়েকদিন কক্সবাজারের রোহিঙ্গা ক্যাম্পগুলো সিল করে রাখতে হবে বলে মন্তব্য করেছেন নির্বাচন কমিশনার ব্রিগেডিয়ার জেনারেল (অবসরপ্রাপ্ত) আবুল ফজল মো. সানাউল্লাহ। তিনি বলেন, ভোটের সময় রোহিঙ্গারা যেন কোনোভাবেই মিছিল-মিটিংয়ে অংশ নিতে না পারে এবং তাদের যেন অপরাধমূলক কাজে ব্যবহার করা না যায়, সে বিষয়ে কঠোর ব্যবস্থা নিতে হবে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/04/26796259a3bd14776420e0c812673fa5-695a812d9dbef.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "জুলাই হত্যাকাণ্ড: ওসি-এসপিদের তালিকা করছে বৈষম্যবিরোধী ছাত্র আন্দোলন",
-      "url": "https://www.prothomalo.com/politics/cw8w8qz2ir",
-      "published_at": "2026-01-04T15:41:01.252000+00:00",
-      "summary": "এই তালিকা করার পর ওসি–এসপিদের নাম ধরে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে মামলা করা হবে বলে জানিয়েছেন বৈষম্যবিরোধী ছাত্র আন্দোলনের সভাপতি রিফাত রশিদ।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/6ft58k57/anti-discrmination-movement-presscon-040126.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/6ft58k57/anti-discrmination-movement-presscon-040126.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘ডিজিএফআইয়ের সংস্কার প্রয়োজন’",
-      "url": "https://www.prothomalo.com/bangladesh/30hcag8ewc",
-      "published_at": "2026-01-04T15:15:25.365000+00:00",
-      "summary": "রাজনৈতিক কর্মকাণ্ড থেকে ডিজিএফআইকে সরিয়ে নেওয়ার পরামর্শ সাবেক সেনা কর্মকর্তার।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/j7pi7lv3/Security-Seminar.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/j7pi7lv3/Security-Seminar.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "ভোটে জিতলে প্রধানমন্ত্রী কে? আখতার বললেন, জামায়াতের সঙ্গে আলোচনা চলমান",
-      "url": "https://www.prothomalo.com/politics/ag20uu0l28",
-      "published_at": "2026-01-04T15:01:37.729000+00:00",
-      "summary": "আজ রোববার রাজধানীর বাংলামোটরে দলীয় কার্যালয়ে এক সংবাদ সম্মেলনে সাংবাদিকদের প্রশ্নে আখতার হোসেন বলেন, তাঁদের মনোযোগ এখন শুধু নির্বাচনের দিকে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/nl9ru5jt/ncp-akhter-hossain-040126.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/nl9ru5jt/ncp-akhter-hossain-040126.jpg?auto=format,compress"
-    },
-    {
-      "headline": "নেত্রকোনা–৫ আসনে জামায়াতের প্রার্থীর মনোনয়নপত্র বাতিল",
-      "url": "https://www.prothomalo.com/bangladesh/district/jqfxb5ep8u",
-      "published_at": "2026-01-04T14:52:01.428000+00:00",
-      "summary": "মাসুম মোস্তফার বিরুদ্ধে বর্তমানে দুটি বিস্ফোরক ও বিশেষ ক্ষমতা আইনে মামলা চলমান। এর মধ্যে হলফনামায় একটি মামলার তথ্য গোপন করা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/o073jzkq/Screenshot-2026-01-04-201148.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/o073jzkq/Screenshot-2026-01-04-201148.png?auto=format,compress"
-    },
-    {
-      "headline": "ব্যবসায়ী খোকন চন্দ্র হত্যার কথা স্বীকার করেছেন তিন আসামি: র‍্যাব",
-      "url": "https://www.prothomalo.com/bangladesh/district/x890umzf03",
-      "published_at": "2026-01-04T14:51:39.082000+00:00",
-      "summary": "র‍্যাব-৮–এর অধিনায়ক কমান্ডার শাহাদাত হোসেন জানান, গ্রেপ্তার তিনজন প্রাথমিক জিজ্ঞাসাবাদে খোকন চন্দ্রকে হত্যার সঙ্গে জড়িত থাকার কথা স্বীকার করেছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/rlgun95s/SariatpurDH054120260104Shariatpur-R.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/rlgun95s/SariatpurDH054120260104Shariatpur-R.jpg?auto=format,compress"
-    },
-    {
-      "headline": "শেষ ৫ ম্যাচে ১ জয়, আবারও পয়েন্ট হারিয়ে চাপে ম্যানচেস্টার ইউনাইটেড",
-      "url": "https://www.prothomalo.com/sports/football/wafdv8psyx",
-      "published_at": "2026-01-04T14:45:15.532000+00:00",
-      "summary": "ইংলিশ প্রিমিয়ার লিগে আবারও ড্র করল ম্যানচেস্টার ইউনাইটেড। এবার রুবেন আমোরিমের দলকে রুখে দিয়েছে লিডস ইউনাইটেড।",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/dwwyknrr/2026-01-04T142817Z1596833002UP1EM141474K8RTRMADP3SOCCER-ENGLAND-LEE-MUN.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/dwwyknrr/2026-01-04T142817Z1596833002UP1EM141474K8RTRMADP3SOCCER-ENGLAND-LEE-MUN.JPG?auto=format,compress"
-    },
-    {
-      "headline": "বিশ্ববাজারে স্মার্টফোনসহ ল্যাপটপ ও কম্পিউটারের দাম বাড়তে পারে যে কারণে",
-      "url": "https://www.prothomalo.com/technology/1zrlm190un",
-      "published_at": "2026-01-04T14:41:43.581000+00:00",
-      "summary": "স্মার্টফোন, ল্যাপটপ, ডেস্কটপ কম্পিউটারসহ স্মার্ট টিভির মতো দৈনন্দিন জীবনে ব্যবহৃত ডিজিটাল যন্ত্রের দাম এ বছর বাড়তে পারে। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/brh49hb4/Smartphone-and-computer.reuters.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/brh49hb4/Smartphone-and-computer.reuters.png?auto=format,compress"
-    },
-    {
-      "headline": "৩ মাস এনইআইআর বন্ধ থাকবে, এমন কথা বলিনি: ডিসি মাসুদ আলম",
-      "url": "https://www.prothomalo.com/bangladesh/lkde6st4gi",
-      "published_at": "2026-01-04T14:39:57.773000+00:00",
-      "summary": "ডিসি মাসুদ আলম প্রথম আলোকে বলেন, আগামী তিন মাস অবৈধ মুঠোফোন ব্লক করা হবে না—তথ্য ও যোগাযোগ প্রযুক্তি বিভাগের এমন বার্তা দিয়েছিলেন তিনি।",
-      "image_s3_key": "prothomalo-bangla/2025-12-03/8x4j9y1s/smartphones-Reuters.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-03/8x4j9y1s/smartphones-Reuters.webp?auto=format,compress"
-    },
-    {
-      "headline": "আন্দোলন যেন ঢাকার যাত্রীদের ‘জিম্মি’ করার সমার্থক না হয়",
-      "url": "https://www.prothomalo.com/opinion/column/mjxrfsww5r",
-      "published_at": "2026-01-04T14:33:00+00:00",
-      "summary": "ঢাকার এই যানজটের কারণে দৈনিক নষ্ট হয় প্রায় ৮২ লাখ কর্মঘণ্টা। অর্থমূল্যে যা দৈনিক প্রায় ১৩৯ কোটি এবং বছরে ৫০ হাজার কোটি টাকার অধিক।",
-      "image_s3_key": "prothomalo-bangla/2025-12-07/kcqqqitm/02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-07/kcqqqitm/02.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আগামী দু–এক দিনের মধ্যে তারেক রহমান বিএনপির চেয়ারম্যান হচ্ছেন: ফখরুল",
-      "url": "https://www.prothomalo.com/bangladesh/district/iau3fe1jxd",
-      "published_at": "2026-01-04T14:32:22.734000+00:00",
-      "summary": "‘আমাদের প্রত্যাশা, সকলের প্রত্যাশা তিনি (তারেক রহমান) সিলেট থেকে নির্বাচনী প্রচারণা শুরু করবেন।’",
-      "image_s3_key": "prothomalo-bangla/2026-01-04/l08glgc5/SYLHETDH048620260104SYLHET-BNP-PIC-05.JPG.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/l08glgc5/SYLHETDH048620260104SYLHET-BNP-PIC-05.JPG.JPG?auto=format,compress"
     }
   ]
 }
