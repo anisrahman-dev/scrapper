@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-01-05T18:58:59.911101+00:00",
+  "fetched_at": "2026-01-05T19:21:06.863379+00:00",
   "stories": [
+    {
+      "headline": "ইরানে বিক্ষোভ গড়িয়েছে দ্বিতীয় সপ্তাহে, প্রাণহানি বেড়ে ১২",
+      "url": "https://www.prothomalo.com/world/middle-east/4mw9erfegx",
+      "published_at": "2026-01-05T19:05:33.885000+00:00",
+      "summary": "সংঘর্ষে এখন পর্যন্ত অন্তত ১২ জন নিহত ও ৩০ জন আহত হয়েছেন। হতাহত ব্যক্তিদের মধ্যে নিরাপত্তা বাহিনীর সদস্যও রয়েছেন। একই সময়ে গ্রেপ্তার হয়েছেন অন্তত ৫৮২ জন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/2b9fu451/Untitled-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/2b9fu451/Untitled-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "যাত্রাবাড়ীতে ২৪ ঘণ্টায় ১০ জনকে গ্রেপ্তার করেছে পুলিশ",
+      "url": "https://www.prothomalo.com/bangladesh/crime/xjr1xy9lj7",
+      "published_at": "2026-01-05T18:57:38.651000+00:00",
+      "summary": "রাজধানীর যাত্রাবাড়ীতে ‘অপারেশন ডেভিল হান্ট ফেজ-২’ অভিযানে ১০ জনকে গ্রেপ্তার করেছে পুলিশ। তাঁদের বিরুদ্ধে আইনগত ব্যবস্থা নিয়ে আদালতে পাঠানো হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/2d8t03hk/DMP-Arrest.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/2d8t03hk/DMP-Arrest.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "খালেদা জিয়া সত্যিকার অর্থে জাতিকে সামনের দিকে এগিয়ে নিয়ে গেছেন: মির্জা ফখরুল",
+      "url": "https://www.prothomalo.com/politics/4695q1xe7v",
+      "published_at": "2026-01-05T18:54:41.029000+00:00",
+      "summary": "মির্জা ফখরুল বলেন, সাবেক রাষ্ট্রপতি জিয়াউর রহমান একদলীয় শাসনব্যবস্থা থেকে বহুদলীয় শাসনব্যবস্থায় নিয়ে গিয়েছিলেন। খালেদা জিয়া তাঁর সেই ধারাকে অব্যাহত রেখেছিলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/z1rz6yvs/01.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/z1rz6yvs/01.JPG?auto=format,compress"
+    },
     {
       "headline": "‘তোমাকে ছাড়া সম্ভব হতো না’, পুরস্কার জিতে প্রেমিকাকে ধন্যবাদ শ্যালামের",
       "url": "https://www.prothomalo.com/entertainment/hollywood/kjxh5gp5la",
@@ -290,30 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/014qqrth/JD-Vance.jpg?auto=format,compress"
     },
     {
-      "headline": "জামিনে কারামুক্ত চাঁদাবাজির মামলায় গ্রেপ্তার ‘জুলাই যোদ্ধা’ তাহরিমা",
-      "url": "https://www.prothomalo.com/bangladesh/district/iv8jse6z5r",
-      "published_at": "2026-01-05T15:23:48.919000+00:00",
-      "summary": "মামলার অভিযোগে বলা হয়েছে, অর্থ আদায়ের উদ্দেশ্যে অপহরণ, ভয়ভীতি প্রদর্শন এবং সামাজিক যোগাযোগমাধ্যমে ব্ল্যাকমেলিং কার্যক্রমে জড়িত ছিলেন তাহরিমা।",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/maq3vvu1/GazipurDH061520260105WhatsApp-Image-2026-01-05-at-8.19.10-PM.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/maq3vvu1/GazipurDH061520260105WhatsApp-Image-2026-01-05-at-8.19.10-PM.jpg?auto=format,compress"
-    },
-    {
-      "headline": "দিল্লি দাঙ্গার মামলায় জামিন হলো না ছাত্রনেতা ওমর খালিদ ও শারজিল ইমামের",
-      "url": "https://www.prothomalo.com/world/india/vch9rqx4v0",
-      "published_at": "2026-01-05T15:22:12.772000+00:00",
-      "summary": "দিল্লি দাঙ্গায় ৫৩ জন নিহত হন। তাঁদের মধ্যে ৪০ জন মুসলমান ও ১৩ জন হিন্দু।",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/li0onybd/Umar-Khalid.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/li0onybd/Umar-Khalid.avif?auto=format,compress"
-    },
-    {
-      "headline": "বর্ণাঢ্য আয়োজনে আনসার ও গ্রাম প্রতিরক্ষা বাহিনীর প্রতিষ্ঠাবার্ষিকী উদ্‌যাপিত",
-      "url": "https://www.prothomalo.com/bangladesh/district/ld8io2vu98",
-      "published_at": "2026-01-05T15:20:00+00:00",
-      "summary": "বাহিনীর মহাপরিচালক জানান, গ্রাম ও নগরের শান্তিশৃঙ্খলা রক্ষা এবং সামাজিক নিরাপত্তা জোরদারের লক্ষ্য নিয়ে ১৯৭৬ সালে যাত্রা শুরু হওয়া বাহিনীটি এখন প্রায় ৬০ লাখ সদস্যের।",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/u2w1rd0b/GazipurDH061520260105IMG-20260105-WA0026.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/u2w1rd0b/GazipurDH061520260105IMG-20260105-WA0026.jpg?auto=format,compress"
-    },
-    {
       "headline": "এবার রাউজানে যুবদল নেতাকে গুলি করে হত্যা",
       "url": "https://www.bd-pratidin.com/country/2026/01/05/1200842",
       "published_at": "2026-01-05T22:27:33+06:00",
@@ -384,10 +384,17 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767626154-a6911a00d76a762bded220db0148b753.jpg"
     },
     {
+      "headline": "সরস্বতী পূজা ও আশুরাসহ ধর্মীয় ছুটি বাতিল করা হয়নি: প্রেস উইং",
+      "url": "https://www.ittefaq.com.bd/769119/%E0%A6%B8%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A7%80-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%93-%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%9B%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A6%BE",
+      "published_at": null,
+      "summary": "বাংলাদেশ সরকার ২০২৬ সালে সরস্বতী পূজা, ২১ ফেব্রুয়ারি, মে দিবস, বুদ্ধপূর্ণিমা, পবিত্র আশুরা, শুভ জন্মাষ্টমী, মধু পূর্ণিমা ও শুভ মহালয়ার ছুটি বাতিল করেনি বলে জানিয়েছে প্রধান উপদেষ্টার প্রেস উইং। এসব ছুটি বাতিল করা হয়েছে জানিয়ে যেসব খবর প্রকাশ করা হয়েছে তা সত্য নয় বলে সোমবার (৫ জানুয়ারি) এক ফেসবুক পোস্টে জানিয়েছে প্রেস উইং।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/11/28/9ae6b84d1dbcaf7d88683cb5a9bd4a76-6929dbbcc9816.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "রাউজানে যুবদল নেতাকে বাসার সামনে গুলি করে হত্যা",
       "url": "https://www.ittefaq.com.bd/769114/%E0%A6%B0%E0%A6%BE%E0%A6%89%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%A6%E0%A6%B2-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE",
       "published_at": null,
-      "summary": "চট্টগ্রামের রাউজান উপজেলায় জানে আলম সিকদার (৪৮) নামের যুবদলের এক সাবেক নেতাকে গুলি করে হত্যা করেছে দুর্বৃত্তরা। সোমবার (৫ জানুয়ারি) রাত পৌনে ৮টার দিকে পূর্ব গুজরা ইউনিয়নের নিজ বাসার প্রায় ২০০ মিটার দূরে এ ঘটনা ঘটে। ঘটনার পর স্থানীয়রা তাকে চট্টগ্রাম নগরীর একটি বেসরকারি হাসপাতালে নিয়ে গেলে রাত পৌনে ৯টার দিকে চিকিৎসক মৃত ঘোষণা করেন।",
+      "summary": "চট্টগ্রামের রাউজানে নিজ বাড়ির সামনে মুখোশধারী দুর্বৃত্তের গুলিতে যুবদল নেতা জানে আলম সিকদার (৫১) নিহত হয়েছেন। সোমবার (৫ জানুয়ারি) রাত সাড়ে ৯টার দিকে রাউজান উপজেলার পূর্বগুজরা ইউনিয়নের ৫ নম্বর ওয়ার্ডে আজগর আলী সিকদারের বাড়ির সামনের সড়কে এ ঘটনা ঘটে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/5aad56b54b72c2d1da1025eea8f60437-695c012028fe0.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
@@ -445,13 +452,6 @@
       "published_at": null,
       "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রতীক বরাদ্দের আগে কোনো রাজনৈতিক দল, প্রতিদ্বন্দ্বী প্রার্থী বা তার পক্ষে অন্য কোনো ব্যক্তি নির্বাচনি প্রচারণা চালাতে পারবেন না।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/11/18ddb323b80e62a9c44f17611d26a364-693abada7a632.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "একদিনের ব্যবধানে স্বর্ণের ভরিতে বাড়লো ২ হাজার ৯১৬ টাকা",
-      "url": "https://www.ittefaq.com.bd/769104/%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2%E0%A7%8B-%E0%A7%A8-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%AF%E0%A7%A7%E0%A7%AC",
-      "published_at": null,
-      "summary": "দেশের বাজারে স্বর্ণের দাম বাড়ানোর ঘোষণা দিয়েছে বাংলাদেশ জুয়েলার্স সমিতি (বাজুস)। এবার ভরিতে ২ হাজার ৯১৬ টাকা বাড়িয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের দাম ২ লাখ ২৭ হাজার ৮৫৬ টাকা নির্ধারণ করেছে সংগঠনটি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2024/09/24/f267b79a8e0466bf73f81c614b52a9bd-66f2e08ca83d3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "গুমের সংখ্যা ৪ থেকে ৬ হাজার",
@@ -534,7 +534,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 06, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "চট্টগ্রামের আনোয়ারায় সড়কের পাশ থেকে উদ্ধার হওয়া শিশু দুই ভাইবোনের মধ্যে মোরশেদ (০২) মারা গেছে ...",
+      "summary": "মানিকগঞ্জে কৃত্রিম সংকটের অজুহাত দেখিয়ে বোতলজাত এলপিজি গ্যাসের সিলিন্ডার প্রতি অতিরিক্ত অর্থ আদায়ের অভিযোগে দুই পরিবেশককে দেড় লাখ টাকা জরিমানা ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -543,6 +543,37 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "জামিনে কারামুক্ত চাঁদাবাজির মামলায় গ্রেপ্তার ‘জুলাই যোদ্ধা’ তাহরিমা",
+      "url": "https://www.prothomalo.com/bangladesh/district/iv8jse6z5r",
+      "published_at": "2026-01-05T15:23:48.919000+00:00",
+      "summary": "মামলার অভিযোগে বলা হয়েছে, অর্থ আদায়ের উদ্দেশ্যে অপহরণ, ভয়ভীতি প্রদর্শন এবং সামাজিক যোগাযোগমাধ্যমে ব্ল্যাকমেলিং কার্যক্রমে জড়িত ছিলেন তাহরিমা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/maq3vvu1/GazipurDH061520260105WhatsApp-Image-2026-01-05-at-8.19.10-PM.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/maq3vvu1/GazipurDH061520260105WhatsApp-Image-2026-01-05-at-8.19.10-PM.jpg?auto=format,compress"
+    },
+    {
+      "headline": "দিল্লি দাঙ্গার মামলায় জামিন হলো না ছাত্রনেতা ওমর খালিদ ও শারজিল ইমামের",
+      "url": "https://www.prothomalo.com/world/india/vch9rqx4v0",
+      "published_at": "2026-01-05T15:22:12.772000+00:00",
+      "summary": "দিল্লি দাঙ্গায় ৫৩ জন নিহত হন। তাঁদের মধ্যে ৪০ জন মুসলমান ও ১৩ জন হিন্দু।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/li0onybd/Umar-Khalid.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/li0onybd/Umar-Khalid.avif?auto=format,compress"
+    },
+    {
+      "headline": "বর্ণাঢ্য আয়োজনে আনসার ও গ্রাম প্রতিরক্ষা বাহিনীর প্রতিষ্ঠাবার্ষিকী উদ্‌যাপিত",
+      "url": "https://www.prothomalo.com/bangladesh/district/ld8io2vu98",
+      "published_at": "2026-01-05T15:20:00+00:00",
+      "summary": "বাহিনীর মহাপরিচালক জানান, গ্রাম ও নগরের শান্তিশৃঙ্খলা রক্ষা এবং সামাজিক নিরাপত্তা জোরদারের লক্ষ্য নিয়ে ১৯৭৬ সালে যাত্রা শুরু হওয়া বাহিনীটি এখন প্রায় ৬০ লাখ সদস্যের।",
+      "image_s3_key": "prothomalo-bangla/2026-01-05/u2w1rd0b/GazipurDH061520260105IMG-20260105-WA0026.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/u2w1rd0b/GazipurDH061520260105IMG-20260105-WA0026.jpg?auto=format,compress"
+    },
+    {
+      "headline": "একদিনের ব্যবধানে স্বর্ণের ভরিতে বাড়লো ২ হাজার ৯১৬ টাকা",
+      "url": "https://www.ittefaq.com.bd/769104/%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2%E0%A7%8B-%E0%A7%A8-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%AF%E0%A7%A7%E0%A7%AC",
+      "published_at": null,
+      "summary": "দেশের বাজারে স্বর্ণের দাম বাড়ানোর ঘোষণা দিয়েছে বাংলাদেশ জুয়েলার্স সমিতি (বাজুস)। এবার ভরিতে ২ হাজার ৯১৬ টাকা বাড়িয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের দাম ২ লাখ ২৭ হাজার ৮৫৬ টাকা নির্ধারণ করেছে সংগঠনটি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2024/09/24/f267b79a8e0466bf73f81c614b52a9bd-66f2e08ca83d3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "জয়ের সঙ্গে বিচ্ছেদের ঘোষণার পর মাহির রহস্যময় পোস্ট",
@@ -1466,38 +1497,6 @@
       "summary": "ভেনেজুয়েলায় সামরিক অভিযানের রেশ কাটতে না কাটতেই এবার ইরানকে হুমকি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
       "image_s3_key": "prothomalo-bangla/2025-06-28/a05srnct/Trump.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-28/a05srnct/Trump.jpg?auto=format,compress"
-    },
-    {
-      "headline": "কিছু সরকারি কর্মকর্তা একটি বিশেষ দলের পক্ষে কাজ করছেন: জামায়াত",
-      "url": "https://www.prothomalo.com/politics/819fbkfedb",
-      "published_at": "2026-01-05T12:33:45.741000+00:00",
-      "summary": "বৈঠক থেকে নির্বাচন কমিশন, সংশ্লিষ্ট নির্বাচনী কর্মকর্তা ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীকে নিরপেক্ষতা বজায় রেখে এবং বিশেষ কোনো দলের দিকে না ঝুঁকে সঠিকভাবে দায়িত্ব পালনের আহ্বান জানানো হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/wjkd2enh/Jamaat.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/wjkd2enh/Jamaat.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "গণসংহতি আন্দোলনের কেন্দ্রীয় নির্বাচন পরিচালনা কমিটি গঠন",
-      "url": "https://www.prothomalo.com/politics/1zzb5kjo3v",
-      "published_at": "2026-01-05T12:33:09.093000+00:00",
-      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন সামনে রেখে আট সদস্যবিশিষ্ট কেন্দ্রীয় নির্বাচন পরিচালনা কমিটি গঠন করেছে গণসংহতি আন্দোলন।",
-      "image_s3_key": "prothomalo-bangla/2022-07/bf4c72a9-d667-4e73-a30d-88dd8c66156f/prothomalo_bangla_2022_06_d407cfb5_0996_440d_97b6_55164743d859_Gonosonghoti_New.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-07/bf4c72a9-d667-4e73-a30d-88dd8c66156f/prothomalo_bangla_2022_06_d407cfb5_0996_440d_97b6_55164743d859_Gonosonghoti_New.webp?auto=format,compress"
-    },
-    {
-      "headline": "অনাথ শিশুদের জন্য ২৬৮ কোটি টাকা দিয়ে এক গ্রাম বানিয়েছেন ক্রিশ্চিয়ান বেল, কী আছে সেখানে",
-      "url": "https://www.prothomalo.com/lifestyle/0yrtu7dwym",
-      "published_at": "2026-01-05T12:32:37.974000+00:00",
-      "summary": "হলিউড তারকা ক্রিশ্চিয়ান বেল ১৭ বছর ধরে গড়ে তুলেছেন বিশেষ এক গ্রাম। যেখানে থাকছে অনাথ ভাই–বোনদের সুস্থ-সুন্দরভাবে বড় হওয়ার সার্বিক ব্যবস্থা।",
-      "image_s3_key": "prothomalo/import/media/2016/03/05/88e5340019d93c4697b2a36dfccf2810-Christian-Bale.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo/import/media/2016/03/05/88e5340019d93c4697b2a36dfccf2810-Christian-Bale.jpg?auto=format,compress"
-    },
-    {
-      "headline": "১২ বার অস্কারে মনোনয়ন পেয়েও কোনো পুরস্কার পাননি তিনি",
-      "url": "https://www.prothomalo.com/entertainment/o0v7mjpd9s",
-      "published_at": "2026-01-05T12:30:00+00:00",
-      "summary": "একে একে ১২ বার তিনি একাডেমি পুরস্কার অস্কারে মনোনয়ন পান। কিন্তু দুর্ভাগ্যের বিষয়, কখনোই তিনি এই পুরস্কার ঝুলিতে পুরতে পারেননি। ",
-      "image_s3_key": "prothomalo/import/media/2015/03/27/68cb44ad86c2091b5d86e2327eb65a60-Bradly-cooper.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo/import/media/2015/03/27/68cb44ad86c2091b5d86e2327eb65a60-Bradly-cooper.jpg?auto=format,compress"
     }
   ]
 }
