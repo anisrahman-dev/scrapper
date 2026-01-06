@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-01-06T20:48:20.661507+00:00",
+  "fetched_at": "2026-01-06T21:19:39.488903+00:00",
   "stories": [
     {
       "headline": "ট্রাম্প নাকি রদ্রিগেজ, ভেনেজুয়েলা আসলে কে চালাচ্ছেন",
@@ -11,7 +11,7 @@
     },
     {
       "headline": "ইন্দোনেশিয়ায় বন্যায় ১৬ জনের মৃত্যু\n",
-      "url": "https://www.prothomalo.com/world/africa/umlf4k4h55",
+      "url": "https://www.prothomalo.com/world/asia/umlf4k4h55",
       "published_at": "2026-01-06T20:22:07.299000+00:00",
       "summary": "২০২৩ সালের এপ্রিল মাস থেকে সুদান সেনাবাহিনী এবং আধা সামরিক বাহিনী আরএসএফের মধ্যে যুদ্ধ চলছে। সুদানের দক্ষিণ কর্দোফান অঞ্চলে বর্তমানে সবচেয়ে ভয়াবহ সহিংসতা চলছে। ",
       "image_s3_key": "prothomalo-bangla/2026-01-06/49vsnvqo/Untitled-3.jpg",
@@ -306,6 +306,13 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/a4thjiqs/1b7a47c1-f423-4c4e-b447-4421fc46f288.jpg?auto=format,compress"
     },
     {
+      "headline": "বছরে প্রায় ৪০০০ হত্যা মামলা",
+      "url": "https://www.bd-pratidin.com/national/2026/01/07/1201457",
+      "published_at": "2026-01-07T02:45:49+06:00",
+      "summary": "দেশে নির্বাচন সামনে রেখে রাজনৈতিক সহিংসতায় খুনাখুনি বেড়েছে। গত এক বছরে দেশে শুধু রাজনৈতিক সহিংসতার ঘটনায় ১৩৩ জন নিহত হয়েছে। আহত হয়েছে সাত হাজার ৫১১ জন। গত বছর দেশে প্রায় চার হাজার হত্যা মামলা করা হয়েছে। পুলিশ সদর দপ্তর ও মানবাধিকার সংস্থা সূত্রে এসব তথ্য জানা গেছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767732341-f7705c3d93ad41b449a57b2656344ab5.jpg"
+    },
+    {
       "headline": "বিশ্বকাপ ইস্যুতে বিসিবির সঙ্গে বৈঠকে বসছে আইসিসি : ইএসপিএন",
       "url": "https://www.bd-pratidin.com/sports/2026/01/07/1201446",
       "published_at": "2026-01-07T02:04:15+06:00",
@@ -369,11 +376,18 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767713738-446f48ea92dff3318cfd7878f5009810.jpg"
     },
     {
-      "headline": "মিথেন নিঃসরণ নিয়ন্ত্রণে দৃষ্টান্ত স্থাপন করতে চায় বাংলাদেশ : মৎস্য উপদেষ্টা",
-      "url": "https://www.bd-pratidin.com/national/2026/01/06/1201296",
-      "published_at": "2026-01-06T21:31:21+06:00",
-      "summary": "মৎস্য ও প্রাণিসম্পদ উপদেষ্টা ফরিদা আখতার বলেছেন, দেশীয় পর্যায়ে কিছু খাতে-বিশেষ করে কৃষি ও প্রাণিসম্পদে-মিথেন ও অন্যান্য গ্রিনহাউস গ্যাসের নিঃসরণ ঘটে। তবে এসব খাতে নিঃসরণ নিয়ন্ত্রণ ও হ্রাস করার মতো গবেষণা দেশে রয়েছে। মাঠপর্যায়ে এসব গবেষণালব্ধ পদ্ধতি বাস্তবায়ন করা গেলে বাংলাদেশ আন্তর্জাতিক অঙ্গণে প্রমাণ করতে পারবে যে, স্বল্প নিঃসরণকারী দেশ হয়েও বাংলাদেশ দায়িত্বশীলভাবে মিথেন নিঃসরণ কমাতে কার্যকর পদক্ষেপ নিচ্ছে, যা ধনী দেশগুলোর জন্যও একটি দৃষ্টান্ত হয়ে উঠবে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767713477-0c153a15cade468fd354e9fd407676df.jpg"
+      "headline": "শব্দদূষণ নিয়ন্ত্রণে রাজধানীতে ভ্রাম্যমাণ আদালত, দুই দিনে সাড়ে ২১ হাজার টাকা জরিমানা",
+      "url": "https://www.ittefaq.com.bd/769278/%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%A4",
+      "published_at": null,
+      "summary": "রাজধানীর ১০টি গুরুত্বপূর্ণ স্থানে শব্দদূষণ নিয়ন্ত্রণে ১০ কর্মদিবসের ভ্রাম্যমাণ আদালত পরিচালনা এবং সচেতনতামূলক ক্যাম্পেইন শুরু হয়েছে। পরিবেশ অধিদপ্তরের উদ্যোগে এবং পরিবেশবাদী যুবসংগঠন গ্রিন ভয়েসের সহযোগিতায় এই কার্যক্রম পরিচালিত হচ্ছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/f74082ece8ddb75ce0264d9647937cbd-695d6d6d6cdb3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "কদমতলীতে ভাঙারি ব্যবসায়ীকে কুপিয়ে হত্যা",
+      "url": "https://www.ittefaq.com.bd/769280/%E0%A6%95%E0%A6%A6%E0%A6%AE%E0%A6%A4%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE",
+      "published_at": null,
+      "summary": "রাজধানীর কদমতলী এলাকায় মো. সাহাবুদ্দিন নামে এক ভাঙারি ব্যবসায়ীকে কুপিয়ে হত্যা করেছে দুর্বৃত্তরা। মঙ্গলবার(৬ জানুয়ারি) রাত সাড়ে ১০টার দিকে পূর্ব মুরাদপুর আদর্শ রোডে এ ঘটনা ঘটে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/9fc77f6d536edf96f8594ff343860bfa-695d7478355be.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "আবাসন ঋণের সর্বোচ্চ সীমা পুনর্নির্ধারণ করলো বাংলাদেশ ব্যাংক",
@@ -430,20 +444,6 @@
       "published_at": null,
       "summary": "বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানের নিরাপত্তায় আরও তিনজন পরিচালক নিয়োগ দিয়েছে দলটি।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/daee318b4fbd517c63fbba60b87ef8d0-695d4b422f32b.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "নির্বাচনের প্রস্তুতি দেখতে ইইউর প্রধান পর্যবেক্ষক ঢাকায় আসছেন",
-      "url": "https://www.ittefaq.com.bd/769269/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A6%87%E0%A6%89%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95",
-      "published_at": null,
-      "summary": "আসন্ন জাতীয় সংসদ নির্বাচন পর্যবেক্ষণের অংশ হিসেবে ইউরোপীয় ইউনিয়নের (ইইউ) প্রধান পর্যবেক্ষক ও ইউরোপীয় পার্লামেন্টের সদস্য ইভার্স ইজাবস বৃহস্পতিবার (৮ জানুয়ারি) ঢাকায় আসছেন। এ সফরের পর নির্বাচন অনুষ্ঠিত হওয়ার আগ পর্যন্ত তিনি আরও দুই দফা বাংলাদেশ সফর করবেন বলে জানা গেছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/73e05dd5f1f926e076e3954cde430d02-695d4326725bc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "ওএমআর মেশিনে ত্রুটি, জকসু নির্বাচনের ভোট গণনা সাময়িক স্থগিত",
-      "url": "https://www.ittefaq.com.bd/769268/%E0%A6%93%E0%A6%8F%E0%A6%AE%E0%A6%86%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%9C%E0%A6%95%E0%A6%B8%E0%A7%81-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%97%E0%A6%A3%E0%A6%A8%E0%A6%BE",
-      "published_at": null,
-      "summary": "জগন্নাথ বিশ্ববিদ্যালয় কেন্দ্রীয় শিক্ষার্থী সংসদ (জকসু) নির্বাচনে অপটিক্যাল মার্ক রিকগনিশন (ওএমআর) মেশিনে ত্রুটির কারণে ভোট গণনা সাময়িকভাবে স্থগিত করা হয়েছে। এ প্রতিবেদন লেখা পর্যন্ত (রাত ৯টা ৩০ মিনিট) ভোট গণনা বন্ধ রয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/aea23a35cce0c080f30fbf3e0ec9c76d-695d3fc11ebde.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "দায়মুক্তি পাচ্ছেন  জুলাইযোদ্ধারা",
@@ -570,6 +570,35 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ইন্দোনেশিয়ায় বন্যায় ১৬ জনের মৃত্যু\n",
+      "url": "https://www.prothomalo.com/world/africa/umlf4k4h55",
+      "published_at": "2026-01-06T20:22:07.299000+00:00",
+      "summary": "২০২৩ সালের এপ্রিল মাস থেকে সুদান সেনাবাহিনী এবং আধা সামরিক বাহিনী আরএসএফের মধ্যে যুদ্ধ চলছে। সুদানের দক্ষিণ কর্দোফান অঞ্চলে বর্তমানে সবচেয়ে ভয়াবহ সহিংসতা চলছে। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-06/49vsnvqo/Untitled-3.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/49vsnvqo/Untitled-3.jpg?auto=format,compress"
+    },
+    {
+      "headline": "মিথেন নিঃসরণ নিয়ন্ত্রণে দৃষ্টান্ত স্থাপন করতে চায় বাংলাদেশ : মৎস্য উপদেষ্টা",
+      "url": "https://www.bd-pratidin.com/national/2026/01/06/1201296",
+      "published_at": "2026-01-06T21:31:21+06:00",
+      "summary": "মৎস্য ও প্রাণিসম্পদ উপদেষ্টা ফরিদা আখতার বলেছেন, দেশীয় পর্যায়ে কিছু খাতে-বিশেষ করে কৃষি ও প্রাণিসম্পদে-মিথেন ও অন্যান্য গ্রিনহাউস গ্যাসের নিঃসরণ ঘটে। তবে এসব খাতে নিঃসরণ নিয়ন্ত্রণ ও হ্রাস করার মতো গবেষণা দেশে রয়েছে। মাঠপর্যায়ে এসব গবেষণালব্ধ পদ্ধতি বাস্তবায়ন করা গেলে বাংলাদেশ আন্তর্জাতিক অঙ্গণে প্রমাণ করতে পারবে যে, স্বল্প নিঃসরণকারী দেশ হয়েও বাংলাদেশ দায়িত্বশীলভাবে মিথেন নিঃসরণ কমাতে কার্যকর পদক্ষেপ নিচ্ছে, যা ধনী দেশগুলোর জন্যও একটি দৃষ্টান্ত হয়ে উঠবে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767713477-0c153a15cade468fd354e9fd407676df.jpg"
+    },
+    {
+      "headline": "নির্বাচনের প্রস্তুতি দেখতে ইইউর প্রধান পর্যবেক্ষক ঢাকায় আসছেন",
+      "url": "https://www.ittefaq.com.bd/769269/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A6%87%E0%A6%89%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95",
+      "published_at": null,
+      "summary": "আসন্ন জাতীয় সংসদ নির্বাচন পর্যবেক্ষণের অংশ হিসেবে ইউরোপীয় ইউনিয়নের (ইইউ) প্রধান পর্যবেক্ষক ও ইউরোপীয় পার্লামেন্টের সদস্য ইভার্স ইজাবস বৃহস্পতিবার (৮ জানুয়ারি) ঢাকায় আসছেন। এ সফরের পর নির্বাচন অনুষ্ঠিত হওয়ার আগ পর্যন্ত তিনি আরও দুই দফা বাংলাদেশ সফর করবেন বলে জানা গেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/73e05dd5f1f926e076e3954cde430d02-695d4326725bc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "ওএমআর মেশিনে ত্রুটি, জকসু নির্বাচনের ভোট গণনা সাময়িক স্থগিত",
+      "url": "https://www.ittefaq.com.bd/769268/%E0%A6%93%E0%A6%8F%E0%A6%AE%E0%A6%86%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%9C%E0%A6%95%E0%A6%B8%E0%A7%81-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%97%E0%A6%A3%E0%A6%A8%E0%A6%BE",
+      "published_at": null,
+      "summary": "জগন্নাথ বিশ্ববিদ্যালয় কেন্দ্রীয় শিক্ষার্থী সংসদ (জকসু) নির্বাচনে অপটিক্যাল মার্ক রিকগনিশন (ওএমআর) মেশিনে ত্রুটির কারণে ভোট গণনা সাময়িকভাবে স্থগিত করা হয়েছে। এ প্রতিবেদন লেখা পর্যন্ত (রাত ৯টা ৩০ মিনিট) ভোট গণনা বন্ধ রয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/aea23a35cce0c080f30fbf3e0ec9c76d-695d3fc11ebde.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "জোটের প্রার্থীর বিরুদ্ধে মাঠে বিএনপির বহিষ্কৃত ২ নেতা",
@@ -1456,37 +1485,6 @@
       "summary": "মোস্তাফিজকে বাদ দেওয়ার খবর নাকি জানতেন না বিসিসিআইয়ের ভেতরের লোকই",
       "image_s3_key": "prothomalo-bangla/2026-01-06/myfm0ot9/THUMNAILWEB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/myfm0ot9/THUMNAILWEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আসন সমঝোতা নিয়ে জামায়াত–এনসিপি টানাপোড়েন",
-      "url": "https://www.prothomalo.com/bangladesh/district/4ovi1e300o",
-      "published_at": "2026-01-06T12:30:48.870000+00:00",
-      "summary": "বান্দরবানে আসন সমঝোতা নিয়ে এনসিপি–জামায়াতের মধ্যে দ্বন্দ্ব",
-      "image_s3_key": "prothomalo-bangla/2026-01-06/zqw7hc00/WhatsApp-Image-2026-01-06-at-6.21.06-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/zqw7hc00/WhatsApp-Image-2026-01-06-at-6.21.06-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "ছিনতাই করতে গিয়ে শরীয়তপুরে ব্যবসায়ীকে কুপিয়ে ও পুড়িয়ে হত্যা",
-      "url": "https://www.prothomalo.com/bangladesh/district/0o07snvqak",
-      "published_at": "2026-01-06T12:15:51.714000+00:00",
-      "summary": "শরীয়তপুরের ডামুড্যায় ব্যবসায়ী খোকন চন্দ্র দাস হত্যাকাণ্ডে জড়িত থাকার কথা স্বীকার করে আদালতে জবানবন্দি দিয়েছেন তিন আসামি। গতকাল সোমবার রাতে আদালতে স্বীকারোক্তিমূলক জবানবন্দি দেওয়ার পর তাঁদের কারাগারে পাঠানো হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-01-02/wazl2sfc/Shariatpur-Khokon.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/wazl2sfc/Shariatpur-Khokon.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রস ছাড়াই তৈরি হচ্ছিল খেজুরের গুড়",
-      "url": "https://www.prothomalo.com/video/bangladesh/qc2g1wdn1e",
-      "published_at": "2026-01-06T12:15:00+00:00",
-      "summary": "রস ছাড়াই তৈরি হচ্ছিল খেজুরের গুড়",
-      "image_s3_key": "prothomalo-bangla/2026-01-06/trkjdccw/web-up.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/trkjdccw/web-up.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ভেনিজুয়েলার কারাকাসে সামরিক চেকপোস্ট ও সশস্ত্র টহল",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/06/1201262",
-      "published_at": "2026-01-06T20:04:16+06:00",
-      "summary": "ভেনিজুয়েলার রাজধানী কারাকাসে কয়েক ডজন সামরিক চেকপোস্ট বসানো হয়েছে বলে সংবাদমাধ্যমের প্রতিবেদন থকে জানা গেছে। এমনকি শহরে প্রবেশ করতে দেওয়া হচ্ছে না বিদেশি সাংবাদিকদেরও।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767708245-c5789d3b8c4fbe4b360b7dddd1bd42a0.jpg"
     }
   ]
 }
