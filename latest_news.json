@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-06T23:19:23.715212+00:00",
+  "fetched_at": "2026-01-06T23:43:51.568521+00:00",
   "stories": [
+    {
+      "headline": "যুদ্ধবিরতি হলে ইউক্রেনের সুরক্ষায় বহুজাতিক বাহিনী পাঠাবে ইউরোপীয় মিত্ররা",
+      "url": "https://www.prothomalo.com/world/europe/uixqbwrl7s",
+      "published_at": "2026-01-06T23:30:00+00:00",
+      "summary": "ফ্রান্সের প্যারিসে মঙ্গলবার ইউক্রেন ইস্যুতে যুক্তরাজ্য, ফ্রান্স, জার্মানিসহ দুই ডজনেরও বেশি দেশ বৈঠকে বসে। এই বৈঠকে যোগ দেন জেলেনস্কি। ছিলেন যুক্তরাষ্ট্রের প্রতিনিধিরাও।",
+      "image_s3_key": "prothomalo-bangla/2026-01-06/8qckyl0c/news-conference-in-Paris.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/8qckyl0c/news-conference-in-Paris.webp?auto=format,compress"
+    },
     {
       "headline": "মাদুরোকে তুলে নেওয়ার সময় মার্কিন অভিযানে ৫৭ জন নিহত",
       "url": "https://www.prothomalo.com/world/south-america/s427c0iwg9",
@@ -10,20 +18,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/9gea7o4o/Venezuelans.avif?auto=format,compress"
     },
     {
-      "headline": "ইরানের ক্ষেপণাস্ত্র কর্মসূচি রুখে দেওয়ার হুঁশিয়ারি ইসরায়েলের",
-      "url": "https://www.prothomalo.com/world/middle-east/i5uzgiqp1h",
-      "published_at": "2026-01-06T22:30:00+00:00",
-      "summary": "নেতানিয়াহু বলেন, ‘আমরা ইরানকে তাদের ব্যালিস্টিক ক্ষেপণাস্ত্র শিল্প পুনর্গঠন করতে দেব না। আর অবশ্যই তাদের পরমাণু কর্মসূচি আবার শুরু করতে দেব না, যেটির ব্যাপক ক্ষতি আমরা করেছি।",
-      "image_s3_key": "prothomalo-bangla/2026-01-06/eowlfzsk/iran-israel.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/eowlfzsk/iran-israel.avif?auto=format,compress"
-    },
-    {
       "headline": "ফজরের নামাজের অনন্য ৭ ফজিলত",
       "url": "https://www.prothomalo.com/religion/islam/cq4t51oycq",
       "published_at": "2026-01-06T22:30:00+00:00",
       "summary": "ফজরের নামাজ জামাতে আদায় করা একজন মানুষের খাঁটি ইমানদার হওয়ার বড় প্রমাণ। কারণ, মোনাফেকদের কাছে এই নামাজটি সবচাইতে কষ্টকর মনে হয়।",
       "image_s3_key": "prothomalo-bangla/2026-01-06/x6wzec47/pexels-apyfz-29832037.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/x6wzec47/pexels-apyfz-29832037.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইরানের ক্ষেপণাস্ত্র কর্মসূচি রুখে দেওয়ার হুঁশিয়ারি ইসরায়েলের",
+      "url": "https://www.prothomalo.com/world/middle-east/i5uzgiqp1h",
+      "published_at": "2026-01-06T22:30:00+00:00",
+      "summary": "নেতানিয়াহু বলেন, ‘আমরা ইরানকে তাদের ব্যালিস্টিক ক্ষেপণাস্ত্র শিল্প পুনর্গঠন করতে দেব না। আর অবশ্যই তাদের পরমাণু কর্মসূচি আবার শুরু করতে দেব না, যেটির ব্যাপক ক্ষতি আমরা করেছি।",
+      "image_s3_key": "prothomalo-bangla/2026-01-06/eowlfzsk/iran-israel.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/eowlfzsk/iran-israel.avif?auto=format,compress"
     },
     {
       "headline": "দল থেকে পদত্যাগকারীদের ফেরানোর চেষ্টায় এনসিপি ",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-22/ch6v6gn2/3.avif?auto=format,compress"
     },
     {
-      "headline": "লন্ডনে ফিলিস্তিন রাষ্ট্রের দূতাবাস উদ্বোধন",
-      "url": "https://www.prothomalo.com/world/europe/yzw9ouj9a2",
-      "published_at": "2026-01-06T16:00:08.624000+00:00",
-      "summary": "যুক্তরাজ্যের রাজধানী লন্ডনে ফিলিস্তিন রাষ্ট্রের দূতাবাস চালু হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-06/l89n0rdy/05194401928dccb.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/l89n0rdy/05194401928dccb.webp?auto=format,compress"
-    },
-    {
       "headline": "জকসু নির্বাচন: সাড়ে তিনঘণ্টা ধরে চলছে এক কেন্দ্রের ভোট গননা",
       "url": "https://www.bd-pratidin.com/campus-online/2026/01/07/1201462",
       "published_at": "2026-01-07T05:07:29+06:00",
@@ -541,7 +541,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 07, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "মাগুরার মহম্মদপুর উপজেলার বড়রিয়া গ্রামে প্রবাসীর স্ত্রীকে গণধর্ষণের অভিযোগে বৈষম্যবিরোধী ছাত্র আন্দোলনের (বৈছাআ) ...",
+      "summary": "ঢাকার নবাবগঞ্জে হঠাৎ করেই এলপিজি গ্যাস সিলিন্ডারের তীব্র সংকট দেখা দিয়েছে। দাম বাড়ার আগে অতিরিক্ত দামে সিলিন্ডার পাওয়া যাচ্ছিল। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -550,6 +550,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "লন্ডনে ফিলিস্তিন রাষ্ট্রের দূতাবাস উদ্বোধন",
+      "url": "https://www.prothomalo.com/world/europe/yzw9ouj9a2",
+      "published_at": "2026-01-06T16:00:08.624000+00:00",
+      "summary": "যুক্তরাজ্যের রাজধানী লন্ডনে ফিলিস্তিন রাষ্ট্রের দূতাবাস চালু হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-06/l89n0rdy/05194401928dccb.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/l89n0rdy/05194401928dccb.webp?auto=format,compress"
     },
     {
       "headline": "দোষারোপের রাজনীতি থেকে বেরিয়ে আসতে হবে : সালাহউদ্দিন আহমদ",
@@ -1481,13 +1489,6 @@
       "summary": "আজ মঙ্গলবার সকালে চাঁপাইনবাবগঞ্জ জেলা হাসপাতালে ময়নাতদন্তের সময় রবিউল ইসলামের শরীরের ছয়টি স্থানে আঘাতের চিহ্ন দেখা গেছে।",
       "image_s3_key": "prothomalo-bangla/2021-05/0a6d2186-599b-4656-b8ec-8e504c679d40/66042fa9d8f99c8b197fa32d5877ec04_Jhenidah_BSF_Photo_11_02_15_2_.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-05/0a6d2186-599b-4656-b8ec-8e504c679d40/66042fa9d8f99c8b197fa32d5877ec04_Jhenidah_BSF_Photo_11_02_15_2_.jpg?auto=format,compress"
-    },
-    {
-      "headline": "খালেদা জিয়ার আদর্শ অনুসরণ করলেই দেশে গণতন্ত্র ফিরে আসবে : আবদুস সালাম",
-      "url": "https://www.bd-pratidin.com/current-politics/2026/01/06/1201264",
-      "published_at": "2026-01-06T20:07:09+06:00",
-      "summary": "বেগম খালেদা জিয়ার জীবন, আদর্শ ও রাজনৈতিক সংগ্রাম থেকে শিক্ষা গ্রহণ করলেই বাংলাদেশে আবার গণতন্ত্র পুনঃপ্রতিষ্ঠা সম্ভব বলে মন্তব্য করেছেন বিএনপি চেয়ারপারসনের উপদেষ্টা ও বীর মুক্তিযোদ্ধা আবদুস সালাম।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767708419-e134f9ba9047221f6a31330606b1c5b3.jpg"
     }
   ]
 }
