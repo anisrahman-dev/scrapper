@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-06T22:48:47.747554+00:00",
+  "fetched_at": "2026-01-06T23:19:23.715212+00:00",
   "stories": [
+    {
+      "headline": "মাদুরোকে তুলে নেওয়ার সময় মার্কিন অভিযানে ৫৭ জন নিহত",
+      "url": "https://www.prothomalo.com/world/south-america/s427c0iwg9",
+      "published_at": "2026-01-06T23:00:00+00:00",
+      "summary": "স্থানীয় সংবাদমাধ্যমগুলোর জানিয়েছে, নিহতদের মধ্যে ভেনেজুয়েলার ২৩ সেনা রয়েছেন। আরও রয়েছেন কিউবার ৩২ জন যোদ্ধা। এ ছাড়া বেসামরিক দুজন নারীও নিহত হয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-06/9gea7o4o/Venezuelans.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/9gea7o4o/Venezuelans.avif?auto=format,compress"
+    },
     {
       "headline": "ইরানের ক্ষেপণাস্ত্র কর্মসূচি রুখে দেওয়ার হুঁশিয়ারি ইসরায়েলের",
       "url": "https://www.prothomalo.com/world/middle-east/i5uzgiqp1h",
@@ -22,8 +30,8 @@
       "url": "https://www.prothomalo.com/politics/dumro1cg38",
       "published_at": "2026-01-06T22:03:06.932000+00:00",
       "summary": "জামায়াতসহ ১১ দলের সঙ্গে নির্বাচনী সমঝোতায় যুক্ত হওয়াকে কেন্দ্র করে নেতারা পদত্যাগ করেন। কারও পদত্যাগপত্র গ্রহণ করা হয়নি।",
-      "image_s3_key": null,
-      "image_url": null
+      "image_s3_key": "prothomalo-bangla/2025-12-27/m4aew4v1/4.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-27/m4aew4v1/4.avif?auto=format,compress"
     },
     {
       "headline": "এআইয়ের ‘অতি-বুদ্ধিমত্তা’ আসবে আরও দেরিতে ",
@@ -306,6 +314,13 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/l89n0rdy/05194401928dccb.webp?auto=format,compress"
     },
     {
+      "headline": "জকসু নির্বাচন: সাড়ে তিনঘণ্টা ধরে চলছে এক কেন্দ্রের ভোট গননা",
+      "url": "https://www.bd-pratidin.com/campus-online/2026/01/07/1201462",
+      "published_at": "2026-01-07T05:07:29+06:00",
+      "summary": "জগন্নাথ বিশ্ববিদ্যালয় কেন্দ্রীয় শিক্ষার্থী সংসদ জকসু ও হল শিক্ষার্থী সংসদ নির্বাচনের ভোট গণনা যান্ত্রিক ত্রুটির কারণে প্রায় সাত ঘণ্টা স্থগিত থাকার পর পুনরায় শুরু হয়েছে। নতুন সিদ্ধান্ত অনুযায়ী ম্যানুয়াল পদ্ধতি বাদ দিয়ে সম্পূর্ণ মেশিনের মাধ্যমে ভোট গণনা করা হচ্ছে। এতে প্রথমেই নৃবিজ্ঞান বিভাগের ভোট গণনা শুরু হলেও সাড়ে তিন ঘণ্টা পেরিয়ে গেলেও একটি কেন্দ্রের গণনা শেষ হয়নি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767740842-62f1132c17677c8d2d606d7a25a65837.jpg"
+    },
+    {
       "headline": "মাঘের আগেই 'কাঁপানো শীত', শৈত্যপ্রবাহ নিয়ে নতুন যা জানা গেল",
       "url": "https://www.bd-pratidin.com/national/2026/01/07/1201461",
       "published_at": "2026-01-07T04:33:01+06:00",
@@ -369,11 +384,11 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767727590-5c82a3f686a6f7873ef3753fd5df7330.jpg"
     },
     {
-      "headline": "দোষারোপের রাজনীতি থেকে বেরিয়ে আসতে হবে : সালাহউদ্দিন আহমদ",
-      "url": "https://www.bd-pratidin.com/current-politics/2026/01/06/1201407",
-      "published_at": "2026-01-06T23:58:42+06:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে ঘিরে সরকার ও প্রশাসন বিএনপির প্রতি ঝুঁকে পড়ছে এমন অভিযোগ প্রসঙ্গে বিএনপির স্থায়ী কমিটির সদস্য সালাহউদ্দিন আহমদ বলেছেন, বর্তমান নির্বাচনী পরিস্থিতিতে এখন পর্যন্ত লেভেল প্লেয়িং ফিল্ড মোটামুটি ভালো রয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767722315-e002a0c9799e735e71826e9135def5a0.jpg"
+      "headline": "গ্রাস-রুটস হিউম্যান সিকিউরিটি প্রকল্পে ১৩.৮ মিলিয়ন টাকা অনুদান দিল জাপান",
+      "url": "https://www.ittefaq.com.bd/769283/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%B8-%E0%A6%B9%E0%A6%BF%E0%A6%89%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%89%E0%A6%B0%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A7%A7%E0%A7%A9.%E0%A7%AE-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8",
+      "published_at": null,
+      "summary": "‘গ্রাস রুটস হিউম্যান সিকিউরিটি’ প্রকল্পের আওতায় শিক্ষা ও শিশু কল্যাণ উদ্যোগে সহায়তায় বাংলাদেশি দুটি বেসরকারি সংস্থাকে ১৩.৮ মিলিয়ন টাকা অনুদান দিয়েছে জাপান সরকার।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/331612fc8674d66122534be8138d0ea9-695d7d479e43c.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "কেরানীগঞ্জে পৃথক সড়ক দুর্ঘটনায় দুইজনের মৃত্যু",
@@ -437,13 +452,6 @@
       "published_at": null,
       "summary": "ডিজিটাল রূপান্তর আমাদের প্রগতিশীল করলেও বৈষম্য সৃষ্টি করেছে বলে মন্তব্য করেছেন সেন্টার ফর পলিসি ডায়ালগের (সিপিডি) সম্মাননীয় ফেলো ড. দেবপ্রিয় ভট্টাচার্য্য। তিনি বলেন, এবারের নির্বাচনে নতুন উপাদান হলো সামাজিক মাধ্যমে কৃত্রিম বুদ্ধিমত্তার ব্যবহার। এর মাধ্যমে সহিংসতা, ঘৃণা ছড়ানো হয়। তবে তা বন্ধ করার মতো কোনো উদ্যোগ বা ইচ্ছা নির্বাচন কমিশন দেখাতে পারেনি। সরকারও কিছু করতে পারছে না।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/3ff7a4b7fa6027a772ca7d24192ccbbe-695d522db4a9a.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "১৫ বছরেও ফেলানী হত্যার কাঙ্ক্ষিত বিচার পায়নি পরিবার",
-      "url": "https://www.ittefaq.com.bd/769257/%E0%A7%A7%E0%A7%AB-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%93-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A6%BF",
-      "published_at": null,
-      "summary": "আলোচিত কিশোরী ফেলানী হত্যার ১৫ বছর আজ। ২০১১ সালের এই দিনে কুড়িগ্রামের ফুলবাড়ী উপজেলার অনন্তপুর সীমান্তে ভারতীয় সীমান্তরক্ষী বাহিনীর (বিএসএফ) গুলিতে নির্মমভাবে হত্যার শিকার হয় এই কিশোরী। দীর্ঘ সাড়ে ৪ ঘণ্টা কাঁটাতারে ঝুলে থাকে তার লাশ। এরপর দীর্ঘ দেড় দশক পার হলেও আজও কাঙ্ক্ষিত বিচার পায়নি ফেলানীর পরিবার।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/e3f903c5801c6c1d9e1117eecb78725d-695d262ba6d54.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "দায়মুক্তি পাচ্ছেন  জুলাইযোদ্ধারা",
@@ -542,6 +550,20 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "দোষারোপের রাজনীতি থেকে বেরিয়ে আসতে হবে : সালাহউদ্দিন আহমদ",
+      "url": "https://www.bd-pratidin.com/current-politics/2026/01/06/1201407",
+      "published_at": "2026-01-06T23:58:42+06:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে ঘিরে সরকার ও প্রশাসন বিএনপির প্রতি ঝুঁকে পড়ছে এমন অভিযোগ প্রসঙ্গে বিএনপির স্থায়ী কমিটির সদস্য সালাহউদ্দিন আহমদ বলেছেন, বর্তমান নির্বাচনী পরিস্থিতিতে এখন পর্যন্ত লেভেল প্লেয়িং ফিল্ড মোটামুটি ভালো রয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767722315-e002a0c9799e735e71826e9135def5a0.jpg"
+    },
+    {
+      "headline": "১৫ বছরেও ফেলানী হত্যার কাঙ্ক্ষিত বিচার পায়নি পরিবার",
+      "url": "https://www.ittefaq.com.bd/769257/%E0%A7%A7%E0%A7%AB-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%93-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A6%BF",
+      "published_at": null,
+      "summary": "আলোচিত কিশোরী ফেলানী হত্যার ১৫ বছর আজ। ২০১১ সালের এই দিনে কুড়িগ্রামের ফুলবাড়ী উপজেলার অনন্তপুর সীমান্তে ভারতীয় সীমান্তরক্ষী বাহিনীর (বিএসএফ) গুলিতে নির্মমভাবে হত্যার শিকার হয় এই কিশোরী। দীর্ঘ সাড়ে ৪ ঘণ্টা কাঁটাতারে ঝুলে থাকে তার লাশ। এরপর দীর্ঘ দেড় দশক পার হলেও আজও কাঙ্ক্ষিত বিচার পায়নি ফেলানীর পরিবার।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/e3f903c5801c6c1d9e1117eecb78725d-695d262ba6d54.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "কারিগরি ত্রুটিতে জকসুর ভোট গণনা স্থগিত",
@@ -1466,27 +1488,6 @@
       "published_at": "2026-01-06T20:07:09+06:00",
       "summary": "বেগম খালেদা জিয়ার জীবন, আদর্শ ও রাজনৈতিক সংগ্রাম থেকে শিক্ষা গ্রহণ করলেই বাংলাদেশে আবার গণতন্ত্র পুনঃপ্রতিষ্ঠা সম্ভব বলে মন্তব্য করেছেন বিএনপি চেয়ারপারসনের উপদেষ্টা ও বীর মুক্তিযোদ্ধা আবদুস সালাম।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767708419-e134f9ba9047221f6a31330606b1c5b3.jpg"
-    },
-    {
-      "headline": "বরিশাল জেলা আইনজীবী সমিতির ভোট ১৫ ফেব্রুয়ারি",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/06/1201263",
-      "published_at": "2026-01-06T20:07:05+06:00",
-      "summary": "বরিশাল জেলা আইনজীবী সমিতির নির্বাচন আগামী ১৫ ফেব্রুয়ারি অনুষ্ঠিত হবে। মঙ্গলবার সমিতির সভাপতি এস এম সাদিকুর রহমান লিংকন নির্বাচনী তফসিল ঘোষণা করেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767708420-5da105c8e387d5070fb9406e08cee7fc.jpg"
-    },
-    {
-      "headline": "মাদুরোর মতো জার্মান চ্যান্সেলরকেও অপহরণ করা হতে পারে— দিমিত্রি মেদভেদভ",
-      "url": "https://www.ittefaq.com.bd/769247/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%B0%E0%A6%95%E0%A7%87%E0%A6%93-%E0%A6%85%E0%A6%AA%E0%A6%B9%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A6%A4%E0%A7%87",
-      "published_at": null,
-      "summary": "বিশ্বরাজনীতিতে বিতর্কিত ও আগ্রাসী মন্তব্যের জন্য পরিচিত রাশিয়ার সাবেক প্রেসিডেন্ট দিমিত্রি মেদভেদভ আবারও আলোচনার কেন্দ্রবিন্দুতে। ভেনেজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরোকে অপহরণের ঘটনার পর এবার জার্মানির চ্যান্সেলর ফ্রিডরিখ মের্ৎসকেও একই পরিণতির হুঁশিয়ারি দিয়েছেন তিনি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/42ccf5cc17e6e5ff662e7b4adafb93f4-695d177a7d6cc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "ছিনতাই করতে গিয়ে শরীয়তপুরে ব্যবসায়ীকে কুপিয়ে ও পুড়িয়ে হত্যা",
-      "url": "https://www.ittefaq.com.bd/769253/%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%87-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A6%B0%E0%A7%80%E0%A7%9F%E0%A6%A4%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%93",
-      "published_at": null,
-      "summary": "শরীয়তপুরের ডামুড্যায় ব্যবসায়ী খোকন চন্দ্র দাসকে কুপিয়ে ও পুড়িয়ে হত্যার ঘটনায় জড়িত থাকার কথা স্বীকার করে আদালতে স্বীকারোক্তিমূলক জবানবন্দি দিয়েছেন তিন আসামি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/a1068c323f75e7b20fbf31c99302f360-695d20b50d25c.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     }
   ]
 }
