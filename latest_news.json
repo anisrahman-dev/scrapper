@@ -1,9 +1,17 @@
 {
-  "fetched_at": "2026-01-06T21:45:03.657588+00:00",
+  "fetched_at": "2026-01-06T22:19:45.602553+00:00",
   "stories": [
     {
+      "headline": "দল থেকে পদত্যাগকারীদের ফেরানোর চেষ্টায় এনসিপি ",
+      "url": "https://www.prothomalo.com/politics/dumro1cg38",
+      "published_at": "2026-01-06T22:03:06.932000+00:00",
+      "summary": "জামায়াতসহ ১১ দলের সঙ্গে নির্বাচনী সমঝোতায় যুক্ত হওয়াকে কেন্দ্র করে নেতারা পদত্যাগ করেন। কারও পদত্যাগপত্র গ্রহণ করা হয়নি।",
+      "image_s3_key": null,
+      "image_url": null
+    },
+    {
       "headline": "এআইয়ের ‘অতি-বুদ্ধিমত্তা’ আসবে আরও দেরিতে ",
-      "url": "https://www.prothomalo.com/technology/mkhsvo29vj",
+      "url": "https://www.prothomalo.com/world/mkhsvo29vj",
       "published_at": "2026-01-06T21:30:00+00:00",
       "summary": "ড্যানিয়েল কোকোটাজলো গত এপ্রিলে ‘এআই ২০২৭’ শীর্ষক একটি সময়সীমা প্রকাশ করে ব্যাপক বিতর্কের জন্ম দিয়েছিলেন।",
       "image_s3_key": "prothomalo-bangla/2026-01-06/yt3shzwk/Untitled-4.jpg",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-21/wvjeyff3/Death-body.jpg?auto=format,compress"
     },
     {
-      "headline": "সমঝোতায় যা-ই হোক, কিছু আসনে নিজস্ব প্রতীকে নির্বাচন করবে বাংলাদেশ খেলাফত মজলিস",
-      "url": "https://www.prothomalo.com/politics/jdlpb602jo",
-      "published_at": "2026-01-06T15:44:37.342000+00:00",
-      "summary": "জামায়াতে ইসলামীসহ সমমনা আটটি ইসলামি রাজনৈতিক দলের সঙ্গে সমঝোতার ভিত্তিতে নির্বাচন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-06/q9phc56k/bkm.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/q9phc56k/bkm.jpeg?auto=format,compress"
-    },
-    {
       "headline": "ভারতে না খেললে পয়েন্ট হারাতে হবে বাংলাদেশকে!",
       "url": "https://www.bd-pratidin.com/sports/2026/01/07/1201459",
       "published_at": "2026-01-07T03:33:14+06:00",
@@ -376,6 +376,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/06/og/1767715598-b4f97809144cc76fd1d08e205dbf4a82.jpg"
     },
     {
+      "headline": "কেরানীগঞ্জে পৃথক সড়ক দুর্ঘটনায় দুইজনের মৃত্যু",
+      "url": "https://www.ittefaq.com.bd/769279/%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%95-%E0%A6%B8%E0%A7%9C%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
+      "published_at": null,
+      "summary": "ঢাকার কেরানীগঞ্জে পৃথক দুটি সড়ক দুর্ঘটনায় দুইজন নিহত হয়েছেন। মঙ্গলবার (৬ জানুয়ারি) দুপুর ও সন্ধ্যায় এসব দুর্ঘটনা ঘটে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/ba54f37af547cd8865ce4fb8a814ab63-695d723dd462d.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "শব্দদূষণ নিয়ন্ত্রণে রাজধানীতে ভ্রাম্যমাণ আদালত, দুই দিনে সাড়ে ২১ হাজার টাকা জরিমানা",
       "url": "https://www.ittefaq.com.bd/769278/%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%A4",
       "published_at": null,
@@ -439,13 +446,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/e3f903c5801c6c1d9e1117eecb78725d-695d262ba6d54.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
-      "headline": "তারেক রহমানের নিরাপত্তায় আরও তিন সাবেক সেনা কর্মকর্তা",
-      "url": "https://www.ittefaq.com.bd/769270/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE",
-      "published_at": null,
-      "summary": "বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানের নিরাপত্তায় আরও তিনজন পরিচালক নিয়োগ দিয়েছে দলটি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/daee318b4fbd517c63fbba60b87ef8d0-695d4b422f32b.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
       "headline": "দায়মুক্তি পাচ্ছেন  জুলাইযোদ্ধারা",
       "url": "https://dailynayadiganta.com/printed-edition/Vk4IAMlEI77D/",
       "published_at": null,
@@ -465,6 +465,20 @@
       "published_at": null,
       "summary": "একটি মুক্ত, সুষ্ঠু ও শান্তিপূর্ণ নির্বাচন নিশ্চিত করা মানে একটি ভিন্ন ভবিষ্যতের ভিত্তি স্থাপন করা, যেখানে আর কোনো নাগরিককে ভোটের অধিকার আদায়ে রক্ত দিতে হবে না। এ দায়িত্ব এড়ানোর সুযোগ নেই।",
       "image_url": "https://media.ndiganta.com/images/rkn_uddn_shb.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "মেহেরপুরে নিখোঁজের ৭ দিন পর গৃহবধূর লাশ উদ্ধার",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/sJEAUjZkkw4U/",
+      "published_at": null,
+      "summary": "মঙ্গলবার (৬ জানুয়ারি) সন্ধ্যার পর ক্যাশবপাড়ার একটি পরিত্যক্ত জায়গা থেকে লাশটি উদ্ধার করা হয়। লাশটির মাথার দিকের অংশ একটি বস্তায় মোড়ানো ছিল।",
+      "image_url": "https://media.ndiganta.com/original_images/lash-uddher-600_efgd4EV.jpg"
+    },
+    {
+      "headline": "বরিশালের সাবেক মেয়র সাদিক আবদুল্লাহর বিরুদ্ধে দুদকের মামলা",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/hW75lNYCkGdx/",
+      "published_at": null,
+      "summary": "মঙ্গলবার (৬ জানুয়ারি) দুদক প্রধান কার্যালয়ে নিয়মিত মিডিয়া ব্রিফিংয়ে কমিশনের মহাপরিচালক মো: আক্তার হোসেন এ তথ্য জানান।",
+      "image_url": "https://media.ndiganta.com/original_images/Sadik-Abdullah.jpg"
     },
     {
       "headline": "খাগড়াছড়ি জেলা পরিষদের সব নিয়োগ স্থগিত",
@@ -502,6 +516,57 @@
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
+      "headline": "ফেলানী হত্যার ১৫ বছর আজ, ন্যায় বিচারের দাবি ছাড়েনি পরিবার",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/MivdzEG1cQSe/",
+      "published_at": null,
+      "summary": "কুড়িগ্রাম সীমান্তে কিশোরী ফেলানী হত্যার ১৫ বছর আজ (বুধবার)। দেশ-বিদেশে আলোচিত এ নির্মম হত্যাকাণ্ডের বিচারিক কাজ ভারতের উচ্চ আদালতে ঝুলে থাকায় হতাশ বাবা-মাসহ স্থানীয়রা।",
+      "image_url": "https://media.ndiganta.com/original_images/Felani.jpg"
+    },
+    {
+      "headline": "বাংলাদেশ মিথেন নিয়ন্ত্রণে দৃষ্টান্ত স্থাপন করতে চায়",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/IppY52LPTKgE/",
+      "published_at": null,
+      "summary": "‘দেশীয় পর্যায়ে কিছু খাতে বিশেষ করে কৃষি ও প্রাণিসম্পদে মিথেন ও অন্যান্য গ্রিনহাউস গ্যাসের নিঃসরণ ঘটে। তবে এসব খাতে নিঃসরণ নিয়ন্ত্রণ ও হ্রাস করার মতো গবেষণা দেশে রয়েছে।’",
+      "image_url": "https://media.ndiganta.com/original_images/savar_blri_pic-06-01-261.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - January 07, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "মাগুরার মহম্মদপুর উপজেলার বড়রিয়া গ্রামে প্রবাসীর স্ত্রীকে গণধর্ষণের অভিযোগে বৈষম্যবিরোধী ছাত্র আন্দোলনের (বৈছাআ) ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "এআইয়ের ‘অতি-বুদ্ধিমত্তা’ আসবে আরও দেরিতে ",
+      "url": "https://www.prothomalo.com/technology/mkhsvo29vj",
+      "published_at": "2026-01-06T21:30:00+00:00",
+      "summary": "ড্যানিয়েল কোকোটাজলো গত এপ্রিলে ‘এআই ২০২৭’ শীর্ষক একটি সময়সীমা প্রকাশ করে ব্যাপক বিতর্কের জন্ম দিয়েছিলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-06/yt3shzwk/Untitled-4.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/yt3shzwk/Untitled-4.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সমঝোতায় যা-ই হোক, কিছু আসনে নিজস্ব প্রতীকে নির্বাচন করবে বাংলাদেশ খেলাফত মজলিস",
+      "url": "https://www.prothomalo.com/politics/jdlpb602jo",
+      "published_at": "2026-01-06T15:44:37.342000+00:00",
+      "summary": "জামায়াতে ইসলামীসহ সমমনা আটটি ইসলামি রাজনৈতিক দলের সঙ্গে সমঝোতার ভিত্তিতে নির্বাচন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-06/q9phc56k/bkm.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/q9phc56k/bkm.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "তারেক রহমানের নিরাপত্তায় আরও তিন সাবেক সেনা কর্মকর্তা",
+      "url": "https://www.ittefaq.com.bd/769270/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE",
+      "published_at": null,
+      "summary": "বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানের নিরাপত্তায় আরও তিনজন পরিচালক নিয়োগ দিয়েছে দলটি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/daee318b4fbd517c63fbba60b87ef8d0-695d4b422f32b.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "দুই দিনে উত্তোলন ১০৭ কোটি টাকা জমা ৪৪ কোটি",
       "url": "https://dailynayadiganta.com/printed-edition/mlF32A61GsIJ/",
       "published_at": null,
@@ -516,20 +581,6 @@
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "ফেলানী হত্যার ১৫ বছর আজ, ন্যায় বিচারের দাবি ছাড়েনি পরিবার",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/MivdzEG1cQSe/",
-      "published_at": null,
-      "summary": "কুড়িগ্রাম সীমান্তে কিশোরী ফেলানী হত্যার ১৫ বছর আজ (বুধবার)। দেশ-বিদেশে আলোচিত এ নির্মম হত্যাকাণ্ডের বিচারিক কাজ ভারতের উচ্চ আদালতে ঝুলে থাকায় হতাশ বাবা-মাসহ স্থানীয়রা।",
-      "image_url": "https://media.ndiganta.com/original_images/Felani.jpg"
-    },
-    {
-      "headline": "মৎস্য ও প্রাণিসম্পদ উপদেষ্টাবাংলাদেশ মিথেন নিয়ন্ত্রণে দৃষ্টান্ত স্থাপন করতে চায়",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/IppY52LPTKgE/",
-      "published_at": null,
-      "summary": "‘দেশীয় পর্যায়ে কিছু খাতে বিশেষ করে কৃষি ও প্রাণিসম্পদে মিথেন ও অন্যান্য গ্রিনহাউস গ্যাসের নিঃসরণ ঘটে। তবে এসব খাতে নিঃসরণ নিয়ন্ত্রণ ও হ্রাস করার মতো গবেষণা দেশে রয়েছে।’",
-      "image_url": "https://media.ndiganta.com/original_images/savar_blri_pic-06-01-261.jpg"
-    },
-    {
       "headline": "স্যাটেলাইটের ব্যবহার বাড়ালে সুফল মিলবে, নিশ্চিত হবে জবাবদিহিতা",
       "url": "https://dailynayadiganta.com/bangladesh/national/3180HvIUjNL0/",
       "published_at": null,
@@ -542,20 +593,6 @@
       "published_at": null,
       "summary": "‘বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানের নিরাপত্তা টিমের পরিচালক (নিরাপত্তা) হিসেবে মেজর (অব.) মোহাম্মদ শাফাওয়াত উল্লাহ, পরিচালক (প্রটোকল) হিসেবে মেজর (অব.) মইনুল হোসেন এবং পরিচালক (সমন্বয়) হিসেবে ক্যাপ্টেন (অব.) মো: গণী উল আজমকে নিযুক্ত করা হয়েছে।’",
       "image_url": "https://media.ndiganta.com/original_images/Tareq_Rahman_ABytkic.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - January 07, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "পুলিশের ওপর হামলা চালিয়ে গাইবান্ধার গোবিন্দগঞ্জে গ্রেফতার আওয়ামী লীগ নেতা সাইফুল ইসলামকে (৪৬) ছিনিয়ে নেওয়ার অভিযোগ পাওয়া গেছে। ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "গোপালগঞ্জে নিখোঁজের দুই দিন পর শিশুর লাশ উদ্ধার",
@@ -1448,41 +1485,6 @@
       "published_at": null,
       "summary": "ভেনেজুয়েলায় যুক্তরাষ্ট্রের সামরিক অভিযানের পর মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে প্রকাশ্য চ্যালেঞ্জ ছুড়ে দিয়েছেন কলম্বিয়ার প্রেসিডেন্ট গুস্তাভো পেত্রো। ভেনেজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরোকে আটক করার ঘটনায় তীব্র নিন্দা জানিয়ে পেত্রো বলেছেন, যুক্তরাষ্ট্র চাইলে তাকেও আটক করতে আসতে পারে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/538b67b055723258d07919f299561aa5-695d1222caf82.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "নামজারিতে ঘুষ নেওয়ায় মাদারীপুরে ভূমি অফিসের কর্মীর কারাদণ্ড",
-      "url": "https://www.ittefaq.com.bd/769248/%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%98%E0%A7%81%E0%A6%B7-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%85%E0%A6%AB%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0",
-      "published_at": null,
-      "summary": "মাদারীপুরের শিবচরে জমির নামজারি করতে ২০ হাজার টাকা ঘুষ নেওয়ার অপরাধে ভূমি অফিসের এক কর্মীকে এক মাসের বিনাশ্রম কারাদণ্ডের আদেশ দিয়েছেন ভ্রমমাণ আদালত।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/1e1537d773b00436106dbd533befa7a0-695d186c25a43.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "বিএনপির মুক্তাদির ও তার স্ত্রী ১০০ ভরি স্বর্ণের মালিক, পেয়েছেন উপহার হিসেবে",
-      "url": "https://www.ittefaq.com.bd/769246/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%93-%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%AD%E0%A6%B0%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "সিলেট চেম্বার অব কমার্সের সাবেক সভাপতি খন্দকার আবদুল মুক্তাদির ব্যবসায়ী পরিবারের সন্তান। তার বাবা খন্দকার আবদুল মালেকও ব্যবসায়ী ছিলেন। এর আগে তিনি সিলেট-১ আসনের সাবেক সংসদ সদস্য হিসেবেও দায়িত্ব পালন করেছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/c08be070e9a167a3cd5881e19af6d7f1-695d176ec9e94.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "বিশ্বকাপ খেলতে প্রস্তুত বাংলাদেশ",
-      "url": "https://dailynayadiganta.com/sports/cricket/C22xeeX6DXSs/",
-      "published_at": null,
-      "summary": "‘ইনশাআল্লাহ গত চার-পাঁচ মাস চাচ্ছি যেরকম, সবকিছু হচ্ছে। চেষ্টা করবো এই ধারাবাহিকতা বজায় রাখার, দলের নিয়মিত হওয়ার।’",
-      "image_url": "https://media.ndiganta.com/original_images/Mohammad-Saifuddin.jpg"
-    },
-    {
-      "headline": "হাসিনা ও তার বাবা এদেশের গণতন্ত্র হত্যা করেছে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/heEbJUMV5li9/",
-      "published_at": null,
-      "summary": "ফ্যাসিস্ট শেখ হাসিনা ও তার বাবা বাংলাদেশে গণতন্ত্র হত্যা করেছে, গণতন্ত্র ধ্বংস করেছে এবং এদেশের মানুষের অধিকার হরণ করেছে। তারা দুজনেই এক দলীয় শাসন ব্যবস্থা ও এক ব্যক্তির স্বৈরতান্ত্রিক শাসন ব্যবস্থা প্রতিষ্ঠা করেছিলো।",
-      "image_url": "https://media.ndiganta.com/original_images/Salah-uddin.jpg"
-    },
-    {
-      "headline": "বগুড়া যাচ্ছেন তারেক রহমান, যোগ দেবেন গণদোয়া অনুষ্ঠানে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/uvWa8lYSyvul/",
-      "published_at": null,
-      "summary": "‘প্রিয় নেতাকে বরণ করে নিতে আমরা বগুড়াবাসী অধীর আগ্রহে অপেক্ষা করছি। ঘরের ছেলেকে স্বাগত জানাতে আমরা সব ধরনের প্রস্তুতি নিচ্ছি।’",
-      "image_url": "https://media.ndiganta.com/original_images/Tarique-Rahman_asXetBE.jpg"
     }
   ]
 }
