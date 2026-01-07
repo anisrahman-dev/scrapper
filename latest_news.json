@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-07T21:45:02.756549+00:00",
+  "fetched_at": "2026-01-07T22:19:05.753123+00:00",
   "stories": [
+    {
+      "headline": "মাদুরোর প্রেসিডেনশিয়াল গার্ডের কমান্ডারকে বরখাস্ত করলেন দেলসি রদ্রিগেজ",
+      "url": "https://www.prothomalo.com/world/south-america/ixk7w15j5h",
+      "published_at": "2026-01-07T22:05:00+00:00",
+      "summary": "প্রেসিডেনশিয়াল অনার গার্ড হলো এমন একটি সামরিক বাহিনী যেটি থেকে ভেনেজুয়েলার রাষ্ট্রপ্রধানের নিরাপত্তার দায়িত্বে থাকা দেহরক্ষীদের সরবরাহ করা হয়ে থাকে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-07/mhn92lmm/prothomalo-Delcy.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/mhn92lmm/prothomalo-Delcy.avif?auto=format,compress"
+    },
     {
       "headline": "যুক্তরাষ্ট্রের মিনিয়াপোলিসে অভিবাসনবিরোধী অভিযানের সময় গুলি, নারী নিহত",
       "url": "https://www.prothomalo.com/world/usa/3g4x9y3wc2",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/wauihfkd/AudioThumbnail-Copy.jpg?auto=format,compress"
     },
     {
-      "headline": "এনসিপির নির্বাচনী জোট ও ভবিষ্যৎ",
-      "url": "https://www.prothomalo.com/video/bangladesh/gjxtrd3prk",
-      "published_at": "2026-01-07T15:51:55.192000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-07/95e215yr/Web.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/95e215yr/Web.jpg?auto=format,compress"
-    },
-    {
       "headline": "জকসু নির্বাচন: শীর্ষ তিন পদেই শিবির সমর্থিত প্রার্থীদের জয়",
       "url": "https://www.bd-pratidin.com/campus-online/2026/01/08/1201862",
       "published_at": "2026-01-08T01:03:21+06:00",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767799989-a3f49719ce26fcb44d33bc87cd14dad7.jpg"
     },
     {
+      "headline": "ভোটাধিকার নিশ্চিত করতে নিজের জীবন দিতেও আমি প্রস্তুত: শফিকুল ইসলাম মাসুদ",
+      "url": "https://www.ittefaq.com.bd/769416/%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87%E0%A6%93-%E0%A6%86%E0%A6%AE%E0%A6%BF",
+      "published_at": null,
+      "summary": "বাংলাদেশ জামায়াতে ইসলামী ঢাকা মহানগর দক্ষিণের সেক্রেটারি এবং পটুয়াখালী-২ (বাউফল) আসনে দাঁড়িপাল্লার প্রার্থী ড. শফিকুল ইসলাম মাসুদ বলেছেন, ‘আমাদের মা-বোন ও ভাইদের ভোটাধিকার নিশ্চিত করতে যদি জীবন দিতে হয়, তাতে আমার নিজের জীবন দিতেও আমি প্রস্তুত।’",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/08/14d3187b312f38a0e1b0080b3ef34a4c-695ebb34dfcc8.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "যুক্তরাষ্ট্রের রুশ ট্যাংকার জব্দকে ‘পুরোদস্তুর জলদস্যুতা’ বললেন পুতিনের দলের আইনপ্রণেতা",
       "url": "https://www.ittefaq.com.bd/769421/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A7%81%E0%A6%B6-%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%B0",
       "published_at": null,
@@ -453,13 +460,6 @@
       "published_at": null,
       "summary": "রাজধানীর কদমতলীতে লোহার ভাঙারি ও গ্যাস সিলিন্ডার ব্যবসায়ী সাহাবুদ্দিনকে হত্যার ঘটনায় দুইজনকে গ্রেপ্তার করেছে র‌্যাব।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/08/1aec60a8d8a39c0c7fe3ae4640dbae28-695ea5021e59f.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "এবার কলকাতা উপ-হাইক‌মিশনেও ভিসা সেবা বন্ধ করলো বাংলাদেশ",
-      "url": "https://www.ittefaq.com.bd/769409/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A6%89%E0%A6%AA-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E2%80%8C%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%93-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%8B",
-      "published_at": null,
-      "summary": "দিল্লি ও আগরতলার পর এবার কলকাতায় অবস্থিত বাংলাদেশ উপ-হাইকমিশনে ব্যবসায়িক ও কর্মসংস্থান (ওয়ার্ক) ভিসা ছাড়া অন্যান্য সব ধরনের ভিসা কার্যক্রম সাময়িকভাবে বন্ধ করেছে বাংলাদেশ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/9e178379e2b5c0d773e6fd4d83fcfc81-695e9ebca9340.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "নির্বাচনে সূক্ষ্ম কারচুপির ছায়া",
@@ -535,7 +535,7 @@
       "headline": "জকসু নির্বাচনশীর্ষ ৩ পদসহ শিবির সমর্থিত প্যানেলের নিরঙ্কুশ জয়",
       "url": "https://dailynayadiganta.com/bangladesh/education-campus/4L8aE2OJ8yjO/",
       "published_at": null,
-      "summary": "জকসু নির্বাচনে ভিপি, জিএস ও এজিএসসহ বেশিভাগ পদে ছাত্রশিবির-সমর্থিত প্রার্থীরা জয়ী হয়েছেন।",
+      "summary": "ইসলামী ছাত্রশিবির সমর্থিত প্যানেল ‘অদম্য জবিয়ান ঐক্য’ সহ-সভাপতি (ভিপি), সাধারণ সম্পাদক (জিএস) ও সহ-সাধারণ সম্পাদকসহ (এজিএস) সংসদের ২১টি পদের মধ্যে ১৬টিতেই জয় পেয়েছে। অপর দিকে ছাত্রদল ও ছাত্র অধিকার পরিষদ সমর্থিত ‘ঐক্যবদ্ধ নির্ভীক জবিয়ান’ প্যানেল পাঁচটি পদে জয় পেয়েছে।",
       "image_url": "https://media.ndiganta.com/original_images/Shibir_f0Y6Aq3.jpg"
     },
     {
@@ -593,6 +593,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "এনসিপির নির্বাচনী জোট ও ভবিষ্যৎ",
+      "url": "https://www.prothomalo.com/video/bangladesh/gjxtrd3prk",
+      "published_at": "2026-01-07T15:51:55.192000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-07/95e215yr/Web.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/95e215yr/Web.jpg?auto=format,compress"
+    },
+    {
+      "headline": "এবার কলকাতা উপ-হাইক‌মিশনেও ভিসা সেবা বন্ধ করলো বাংলাদেশ",
+      "url": "https://www.ittefaq.com.bd/769409/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A6%89%E0%A6%AA-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E2%80%8C%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%93-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%8B",
+      "published_at": null,
+      "summary": "দিল্লি ও আগরতলার পর এবার কলকাতায় অবস্থিত বাংলাদেশ উপ-হাইকমিশনে ব্যবসায়িক ও কর্মসংস্থান (ওয়ার্ক) ভিসা ছাড়া অন্যান্য সব ধরনের ভিসা কার্যক্রম সাময়িকভাবে বন্ধ করেছে বাংলাদেশ।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/9e178379e2b5c0d773e6fd4d83fcfc81-695e9ebca9340.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "নড়িয়ায় নদীর তীরের অবৈধ স্থাপনা উচ্ছেদ, অন্তত ৩ একর জমি উদ্ধার",
@@ -1477,20 +1492,6 @@
       "published_at": "2026-01-07T20:26:06+06:00",
       "summary": "কদমতলী থানা এনসিপির ‘নিখোঁজ’ সদস্য মো. ওয়াসিম আহমেদ মুকছানকে (৪০) উদ্ধার করেছে পুলিশ।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767795958-cd098445ab3a168bda42df118c77516c.jpg"
-    },
-    {
-      "headline": "ট্রাম্পের ঘোষণার পরই বিশ্ববাজারে কমল তেলের দাম",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/07/1201692",
-      "published_at": "2026-01-07T20:25:55+06:00",
-      "summary": "ভেনেজুয়েলা যুক্তরাষ্ট্রকে তিন থেকে পাঁচ কোটি ব্যারেল অপরিশোধিত তেল সরবরাহ করবে- মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এমন ঘোষণা দিতেই বিশ্ববাজারে তেলের দাম ১ শতাংশেরও বেশি কমেছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767795947-e4ad061bfecbe0e76362493fb72dba29.jpg"
-    },
-    {
-      "headline": "গাইবান্ধায় মাদক সেবনকালে যুবদল নেতা গ্রেফতার",
-      "url": "https://www.bd-pratidin.com/country/2026/01/07/1201691",
-      "published_at": "2026-01-07T20:14:34+06:00",
-      "summary": "গাইবান্ধা সদর উপজেলায় নেশাজাতীয় মাদকদ্রব্য সেবনকালে নোমান সরকার (৩৬) নামের এক যুবদল নেতাকে গ্রেফতার করেছে পুলিশ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767795267-79f8faf09254035301af426e76e49cf4.PNG"
     }
   ]
 }
