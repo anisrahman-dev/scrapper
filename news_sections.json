@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-01-07T23:19:34.324735+00:00",
+  "fetched_at": "2026-01-07T23:44:08.338303+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "বলপ্রয়োগ ও শক্তি প্রদর্শনের\nনতুন ‘মার্কিন মিশনে’ ট্রাম্প ",
+        "url": "https://www.prothomalo.com/world/usa/sovmq5c17e",
+        "published_at": "2026-01-07T23:30:00+00:00",
+        "summary": "ট্রাম্পের কট্টর সমর্থক ও তাঁর দল রিপাবলিকানদের অনেকের কাছে এই ‘আগ্রাসী অবস্থান’ হয়তো আকর্ষণীয় হতে পারে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-07/qmrqdwp9/prothomalo_bangla_2025_02_26_hnf9fkzn_Trump.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/qmrqdwp9/prothomalo_bangla_2025_02_26_hnf9fkzn_Trump.avif?auto=format,compress"
+      },
       {
         "headline": "মাদুরোর প্রেসিডেনশিয়াল গার্ডের কমান্ডারকে বরখাস্ত করলেন দেলসি রদ্রিগেজ",
         "url": "https://www.prothomalo.com/world/south-america/ixk7w15j5h",
@@ -307,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/ftfscln9/cumilla-bnp.JPG?auto=format,compress"
       },
       {
-        "headline": "সরকারি কোম্পানির শেয়ার ছাড়ার সিদ্ধান্ত",
-        "url": "https://www.prothomalo.com/business/market/eulyki1u9r",
-        "published_at": "2026-01-07T16:00:00+00:00",
-        "summary": "আজ বুধবার ঢাকায় সচিবালয়ে অর্থ উপদেষ্টা সালেহউদ্দিন আহমেদের সভাপতিত্বে এক বৈঠক অনুষ্ঠিত হয়। বৈঠক শেষে অর্থ উপদেষ্টা এবং আইসিবি চেয়ারম্যান আবু আহমেদ সাংবাদিকদের এ তথ্য জানান।",
-        "image_s3_key": "prothomalo-bangla/2020-10/fcda0e45-8f0f-4748-83cb-74f018478431/786023a3-8c0b-47d8-ae9d-e15de5cfb5f0.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-10/fcda0e45-8f0f-4748-83cb-74f018478431/786023a3-8c0b-47d8-ae9d-e15de5cfb5f0.png?auto=format,compress"
-      },
-      {
         "headline": "যুক্তরাষ্ট্রের মিনিয়াপোলিসে অভিবাসনবিরোধী অভিযানের সময় গুলি, নারী নিহত",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/08/1201879",
         "published_at": "2026-01-08T04:18:04+06:00",
@@ -577,7 +577,7 @@
         "headline": "আজকের সর্বশেষ খবর - January 08, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "ঢাকার কেরানীগঞ্জের কেন্দ্রীয় কারাগারে অসুস্থ হয়ে এক মৃত্যুদণ্ডপ্রাপ্ত কয়েদির মৃত্যু হয়েছে। অসুস্থ অবস্থায় তাকে ঢাকা মেডিকেল কলেজ হাসপাতালে নেওয়া হলে ...",
+        "summary": "আজ ৮ জানুয়ারি ২০২৫, বৃহস্পতিবার। ইতিহাসের পাতা উল্টে তাকালে দেখা যায়, বছরের পর বছর ধরে ঠিক এই দিনটিতেই ঘটেছে নানা ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -586,6 +586,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "সরকারি কোম্পানির শেয়ার ছাড়ার সিদ্ধান্ত",
+        "url": "https://www.prothomalo.com/business/market/eulyki1u9r",
+        "published_at": "2026-01-07T16:00:00+00:00",
+        "summary": "আজ বুধবার ঢাকায় সচিবালয়ে অর্থ উপদেষ্টা সালেহউদ্দিন আহমেদের সভাপতিত্বে এক বৈঠক অনুষ্ঠিত হয়। বৈঠক শেষে অর্থ উপদেষ্টা এবং আইসিবি চেয়ারম্যান আবু আহমেদ সাংবাদিকদের এ তথ্য জানান।",
+        "image_s3_key": "prothomalo-bangla/2020-10/fcda0e45-8f0f-4748-83cb-74f018478431/786023a3-8c0b-47d8-ae9d-e15de5cfb5f0.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-10/fcda0e45-8f0f-4748-83cb-74f018478431/786023a3-8c0b-47d8-ae9d-e15de5cfb5f0.png?auto=format,compress"
       },
       {
         "headline": "কদমতলীতে ভাঙারি ব্যবসায়ী হত্যার ঘটনায় গ্রেপ্তার ২",
@@ -1486,13 +1494,6 @@
         "published_at": "2026-01-07T20:42:52+06:00",
         "summary": "কক্সবাজারের কুতুবদিয়ায় চাঞ্চল্যকর এরশাদুল হাবিব রোবেল হত্যা মামলায় চারজনকে মৃত্যুদণ্ডে দণ্ডিত করেছেন আদালত।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767796966-c43c7860eabe290c9cc2da4297c596ec.jpg"
-      },
-      {
-        "headline": "মুন্সীগঞ্জে এক কেজি ৫০০ গ্রাম গাঁজাসহ দুইজন আটক",
-        "url": "https://www.bd-pratidin.com/country/2026/01/07/1201698",
-        "published_at": "2026-01-07T20:41:47+06:00",
-        "summary": "মুন্সীগঞ্জের গজারিয়া উপজেলায় অভিযান চালিয়ে ১ কেজি ৫০০ গ্রাম গাঁজাসহ দুইজনকে আটক করেছে গজারিয়া থানা পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767796900-051094c2e7cf9fe55a285288996a5768.jpg"
       }
     ],
     "bangladesh": [
@@ -4373,6 +4374,14 @@
     ],
     "world": [
       {
+        "headline": "বলপ্রয়োগ ও শক্তি প্রদর্শনের\nনতুন ‘মার্কিন মিশনে’ ট্রাম্প ",
+        "url": "https://www.prothomalo.com/world/usa/sovmq5c17e",
+        "published_at": "2026-01-07T23:30:00+00:00",
+        "summary": "ট্রাম্পের কট্টর সমর্থক ও তাঁর দল রিপাবলিকানদের অনেকের কাছে এই ‘আগ্রাসী অবস্থান’ হয়তো আকর্ষণীয় হতে পারে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-07/qmrqdwp9/prothomalo_bangla_2025_02_26_hnf9fkzn_Trump.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/qmrqdwp9/prothomalo_bangla_2025_02_26_hnf9fkzn_Trump.avif?auto=format,compress"
+      },
+      {
         "headline": "মাদুরোর প্রেসিডেনশিয়াল গার্ডের কমান্ডারকে বরখাস্ত করলেন দেলসি রদ্রিগেজ",
         "url": "https://www.prothomalo.com/world/south-america/ixk7w15j5h",
         "published_at": "2026-01-07T22:05:00+00:00",
@@ -4685,14 +4694,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/ynf9grix/Trump.jpg?auto=format,compress"
       },
       {
-        "headline": "ট্রাম্প কি আমাদের প্রধানমন্ত্রীকেও অপহরণ করবেন: প্রশ্ন ভারতের কংগ্রেস নেতার",
-        "url": "https://www.prothomalo.com/world/india/by3a7amzv6",
-        "published_at": "2026-01-06T13:47:52.209000+00:00",
-        "summary": "কংগ্রেস নেতা পৃথ্বিরাজ চৌহান সামাজিক যোগাযোগমাধ্যমে এমন এক প্রশ্ন তুলেছেন, যা নিয়ে ভারতের রাজনীতিতে ব্যাপক আলোচনা শুরু হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-06/nqptv6qf/chavan.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/nqptv6qf/chavan.jpg?auto=format,compress"
-      },
-      {
         "headline": "যুক্তরাষ্ট্রের মিনিয়াপোলিসে অভিবাসনবিরোধী অভিযানের সময় গুলি, নারী নিহত",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/08/1201879",
         "published_at": "2026-01-08T04:18:04+06:00",
@@ -4971,6 +4972,14 @@
         "published_at": "1767793982",
         "summary": "ইসরায়েলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহুর সঙ্গে টেলিফোনে কথা বলেছেন ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদী। এ বিষয়ে সামাজিক যোগাযোগমাধ্যম এক্সে হিব্রু ভাষায় একটি পোস্ট দেন মোদী, যা এরই মধ্যে আন্তর্জাতিক অঙ্গনে নজর কেড়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260107135302.jpg"
+      },
+      {
+        "headline": "ট্রাম্প কি আমাদের প্রধানমন্ত্রীকেও অপহরণ করবেন: প্রশ্ন ভারতের কংগ্রেস নেতার",
+        "url": "https://www.prothomalo.com/world/india/by3a7amzv6",
+        "published_at": "2026-01-06T13:47:52.209000+00:00",
+        "summary": "কংগ্রেস নেতা পৃথ্বিরাজ চৌহান সামাজিক যোগাযোগমাধ্যমে এমন এক প্রশ্ন তুলেছেন, যা নিয়ে ভারতের রাজনীতিতে ব্যাপক আলোচনা শুরু হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-06/nqptv6qf/chavan.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/nqptv6qf/chavan.jpg?auto=format,compress"
       },
       {
         "headline": "সাবেক এমপির ভাই ওসি সাকিল ও তার স্ত্রীর বিরুদ্ধে দুদকের মামলা",
@@ -5822,13 +5831,6 @@
         "published_at": null,
         "summary": "স্বায়ত্তশাসিত অঞ্চল গ্রিনল্যান্ডের নিয়ন্ত্রণ নিতে এবার সরাসরি সামরিক শক্তি ব্যবহারের ইঙ্গিত দিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
         "image_url": "https://media.ndiganta.com/original_images/Untitled-2_sEiTmaw.gif"
-      },
-      {
-        "headline": "নবী-হায়দার জুটিতে সম্মানজনক স্কোর নোয়াখালীর",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/07/1201555",
-        "published_at": "2026-01-07T15:09:02+06:00",
-        "summary": "মাত্র ৪০ রানে ৫ উইকেট হারিয়ে চরম বিপর্যয়ে পড়েছিল নোয়াখালী এক্সপ্রেস। সেখান থেকে মোহাম্মদ নবী ও হায়দার আলির দৃঢ় ব্যাটিংয়ে ঘুরে দাঁড়িয়ে নির্ধারিত ওভারে ৬ উইকেটে ১৩৩ রান সংগ্রহ করেছে দলটি। ফলে জয়ের জন্য ঢাকা ক্যাপিটালসের লক্ষ্য দাঁড়াল ১৩৪ রান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767776937-2be3fa67dc7f76041126ec4330a17af6.jpg"
       }
     ],
     "business": [

@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-07T23:19:34.324735+00:00",
+  "fetched_at": "2026-01-07T23:44:08.338303+00:00",
   "stories": [
+    {
+      "headline": "বলপ্রয়োগ ও শক্তি প্রদর্শনের\nনতুন ‘মার্কিন মিশনে’ ট্রাম্প ",
+      "url": "https://www.prothomalo.com/world/usa/sovmq5c17e",
+      "published_at": "2026-01-07T23:30:00+00:00",
+      "summary": "ট্রাম্পের কট্টর সমর্থক ও তাঁর দল রিপাবলিকানদের অনেকের কাছে এই ‘আগ্রাসী অবস্থান’ হয়তো আকর্ষণীয় হতে পারে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-07/qmrqdwp9/prothomalo_bangla_2025_02_26_hnf9fkzn_Trump.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/qmrqdwp9/prothomalo_bangla_2025_02_26_hnf9fkzn_Trump.avif?auto=format,compress"
+    },
     {
       "headline": "মাদুরোর প্রেসিডেনশিয়াল গার্ডের কমান্ডারকে বরখাস্ত করলেন দেলসি রদ্রিগেজ",
       "url": "https://www.prothomalo.com/world/south-america/ixk7w15j5h",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/ftfscln9/cumilla-bnp.JPG?auto=format,compress"
     },
     {
-      "headline": "সরকারি কোম্পানির শেয়ার ছাড়ার সিদ্ধান্ত",
-      "url": "https://www.prothomalo.com/business/market/eulyki1u9r",
-      "published_at": "2026-01-07T16:00:00+00:00",
-      "summary": "আজ বুধবার ঢাকায় সচিবালয়ে অর্থ উপদেষ্টা সালেহউদ্দিন আহমেদের সভাপতিত্বে এক বৈঠক অনুষ্ঠিত হয়। বৈঠক শেষে অর্থ উপদেষ্টা এবং আইসিবি চেয়ারম্যান আবু আহমেদ সাংবাদিকদের এ তথ্য জানান।",
-      "image_s3_key": "prothomalo-bangla/2020-10/fcda0e45-8f0f-4748-83cb-74f018478431/786023a3-8c0b-47d8-ae9d-e15de5cfb5f0.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-10/fcda0e45-8f0f-4748-83cb-74f018478431/786023a3-8c0b-47d8-ae9d-e15de5cfb5f0.png?auto=format,compress"
-    },
-    {
       "headline": "যুক্তরাষ্ট্রের মিনিয়াপোলিসে অভিবাসনবিরোধী অভিযানের সময় গুলি, নারী নিহত",
       "url": "https://www.bd-pratidin.com/international-news/2026/01/08/1201879",
       "published_at": "2026-01-08T04:18:04+06:00",
@@ -576,7 +576,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 08, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ঢাকার কেরানীগঞ্জের কেন্দ্রীয় কারাগারে অসুস্থ হয়ে এক মৃত্যুদণ্ডপ্রাপ্ত কয়েদির মৃত্যু হয়েছে। অসুস্থ অবস্থায় তাকে ঢাকা মেডিকেল কলেজ হাসপাতালে নেওয়া হলে ...",
+      "summary": "আজ ৮ জানুয়ারি ২০২৫, বৃহস্পতিবার। ইতিহাসের পাতা উল্টে তাকালে দেখা যায়, বছরের পর বছর ধরে ঠিক এই দিনটিতেই ঘটেছে নানা ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -585,6 +585,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "সরকারি কোম্পানির শেয়ার ছাড়ার সিদ্ধান্ত",
+      "url": "https://www.prothomalo.com/business/market/eulyki1u9r",
+      "published_at": "2026-01-07T16:00:00+00:00",
+      "summary": "আজ বুধবার ঢাকায় সচিবালয়ে অর্থ উপদেষ্টা সালেহউদ্দিন আহমেদের সভাপতিত্বে এক বৈঠক অনুষ্ঠিত হয়। বৈঠক শেষে অর্থ উপদেষ্টা এবং আইসিবি চেয়ারম্যান আবু আহমেদ সাংবাদিকদের এ তথ্য জানান।",
+      "image_s3_key": "prothomalo-bangla/2020-10/fcda0e45-8f0f-4748-83cb-74f018478431/786023a3-8c0b-47d8-ae9d-e15de5cfb5f0.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-10/fcda0e45-8f0f-4748-83cb-74f018478431/786023a3-8c0b-47d8-ae9d-e15de5cfb5f0.png?auto=format,compress"
     },
     {
       "headline": "কদমতলীতে ভাঙারি ব্যবসায়ী হত্যার ঘটনায় গ্রেপ্তার ২",
@@ -1485,13 +1493,6 @@
       "published_at": "2026-01-07T20:42:52+06:00",
       "summary": "কক্সবাজারের কুতুবদিয়ায় চাঞ্চল্যকর এরশাদুল হাবিব রোবেল হত্যা মামলায় চারজনকে মৃত্যুদণ্ডে দণ্ডিত করেছেন আদালত।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767796966-c43c7860eabe290c9cc2da4297c596ec.jpg"
-    },
-    {
-      "headline": "মুন্সীগঞ্জে এক কেজি ৫০০ গ্রাম গাঁজাসহ দুইজন আটক",
-      "url": "https://www.bd-pratidin.com/country/2026/01/07/1201698",
-      "published_at": "2026-01-07T20:41:47+06:00",
-      "summary": "মুন্সীগঞ্জের গজারিয়া উপজেলায় অভিযান চালিয়ে ১ কেজি ৫০০ গ্রাম গাঁজাসহ দুইজনকে আটক করেছে গজারিয়া থানা পুলিশ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767796900-051094c2e7cf9fe55a285288996a5768.jpg"
     }
   ]
 }
