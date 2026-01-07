@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-01-06T23:43:51.568521+00:00",
+  "fetched_at": "2026-01-07T01:15:22.530329+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "আজ টিভিতে যা দেখবেন (৭ জানুয়ারি ২০২৬)",
+        "url": "https://www.prothomalo.com/sports/576keoxeb9",
+        "published_at": "2026-01-07T01:00:00+00:00",
+        "summary": "বিপিএল আজ মুখোমুখি ঢাকা ও নোয়াখালী এবং চট্টগ্রাম ও সিলেট। শ্রীলঙ্কা-পাকিস্তান টি-টোয়েন্টি সিরিজ শুরু আজ। রাতে আছে ইংলিশ প্রিমিয়ার লিগের ম্যাচ।\n",
+        "image_s3_key": "prothomalo-bangla/2026-01-06/v05xcd55/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/v05xcd55/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ঢাকা চলচ্চিত্র উৎসবে বাংলাদেশের ৫৮ সিনেমা",
+        "url": "https://www.prothomalo.com/entertainment/dhallywood/1yulicfrjo",
+        "published_at": "2026-01-07T01:00:00+00:00",
+        "summary": "বাংলাদেশের ১৫টি পূর্ণদৈর্ঘ্য ও ৪৩টি স্বল্পদৈর্ঘ্য সিনেমা মনোনীত হয়েছে। উৎসব ঘিরে দেশের দর্শকদের বাংলাদেশের সিনেমগুলোর দিকেই চোখ থাকবে",
+        "image_s3_key": "prothomalo-bangla/2026-01-06/ysy0slkg/504672806_1145932540883656_8410257779181418110_n.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/ysy0slkg/504672806_1145932540883656_8410257779181418110_n.jpg?auto=format,compress"
+      },
       {
         "headline": "যুদ্ধবিরতি হলে ইউক্রেনের সুরক্ষায় বহুজাতিক বাহিনী পাঠাবে ইউরোপীয় মিত্ররা",
         "url": "https://www.prothomalo.com/world/europe/uixqbwrl7s",
@@ -299,22 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/xko83kcw/EP-16-THUMB.jpg?auto=format,compress"
       },
       {
-        "headline": "হলফনামায় আয় এত কম দেখানো হচ্ছে কেন?",
-        "url": "https://www.prothomalo.com/video/bangladesh/x8cpa8g6jg",
-        "published_at": "2026-01-06T16:03:03.109000+00:00",
-        "summary": "হলফনামায় আয় এত কম দেখানো হচ্ছে কেন?",
-        "image_s3_key": "prothomalo-bangla/2026-01-06/bxnl8nmn/THUMNAILWEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/bxnl8nmn/THUMNAILWEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "আশুলিয়ায় লাশ পোড়ানোর মামলায় চারজনের সাফাই সাক্ষ্য ১১ জানুয়ারি",
-        "url": "https://www.prothomalo.com/bangladesh/oa7of0qad4",
-        "published_at": "2026-01-06T16:02:17.667000+00:00",
-        "summary": "জুলাই গণ–অভ্যুত্থানের সময় আশুলিয়ায় লাশ পোড়ানোর মামলায় চারজন সাফাই সাক্ষ্য দেবেন। অন্যদিকে রংপুর ও রামপুরায় মানবতাবিরোধী অপরাধের দুটি মামলায় তদন্ত কর্মকর্তাদের জেরা করা হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2025-12-22/ch6v6gn2/3.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-22/ch6v6gn2/3.avif?auto=format,compress"
-      },
-      {
         "headline": "জকসু নির্বাচন: সাড়ে তিনঘণ্টা ধরে চলছে এক কেন্দ্রের ভোট গননা",
         "url": "https://www.bd-pratidin.com/campus-online/2026/01/07/1201462",
         "published_at": "2026-01-07T05:07:29+06:00",
@@ -385,6 +385,20 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767727590-5c82a3f686a6f7873ef3753fd5df7330.jpg"
       },
       {
+        "headline": "১০ জেলায় শৈত্যপ্রবাহ নিয়ে দুঃসংবাদ",
+        "url": "https://www.ittefaq.com.bd/769277/%E0%A7%A7%E0%A7%A6-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B6%E0%A7%88%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
+        "published_at": null,
+        "summary": "শীতের তীব্রতায় সারা দেশ কাঁপছে। আবহাওয়া দপ্তর জানিয়েছে, বুধবার (৭ জানুয়ারি) ১০ জেলার ওপর দিয়ে বয়ে যাওয়া মৃদু থেকে মাঝারি শৈত্যপ্রবাহ অব্যাহত থাকবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/a68f7485b0f1839fc262ce84cfb5814b-695d69dbb1ccc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
+        "headline": "সেনাপ্রধানের সঙ্গে অস্ট্রেলিয়ার হাইকমিশনারের সৌজন্য সাক্ষাৎ",
+        "url": "https://www.ittefaq.com.bd/769281/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "বাংলাদেশে নিযুক্ত অস্ট্রেলিয়ার হাইকমিশনার সুজান রাইল সেনাসদরে সেনাপ্রধান জেনারেল ওয়াকার-উজ-জামানের সাথে সৌজন্য সাক্ষাৎ করেছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/fe0bd37798c98931def3b78d26dfee2a-695d7502e4974.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "গ্রাস-রুটস হিউম্যান সিকিউরিটি প্রকল্পে ১৩.৮ মিলিয়ন টাকা অনুদান দিল জাপান",
         "url": "https://www.ittefaq.com.bd/769283/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%B8-%E0%A6%B9%E0%A6%BF%E0%A6%89%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%89%E0%A6%B0%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A7%A7%E0%A7%A9.%E0%A7%AE-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8",
         "published_at": null,
@@ -439,20 +453,6 @@
         "published_at": null,
         "summary": "একজন ওয়ার্ড কমিশনারের নির্দেশে শহীদ শরিফ ওসমান হাদিকে খুন করা হয়েছে, এটা পাগলেও বিশ্বাস করবে না বলে মন্তব্য করেছেন ইনকিলাব মঞ্চের সদস্যসচিব আবদুল্লাহ আল জাবের। তিনি দাবি করেছেন, এই খুনের সঙ্গে একটা পুরো চক্র এবং রাষ্ট্রযন্ত্রও জড়িত। এই অভিযোগপত্র মানি না।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/9e0a222fbc89c04530f12cabac4da28a-695d5a092b19a.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সরকারি গাড়ি কেনার মূল্যসীমা বাড়ল",
-        "url": "https://www.ittefaq.com.bd/769272/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2",
-        "published_at": null,
-        "summary": "সরকারি যানবাহন কেনার মূল্যসীমা বৃদ্ধি করা হয়েছে। সরকারের বিভিন্ন দপ্তরকে নতুন নির্ধারিত ঊর্ধ্বসীমার মধ্যে থেকে যানবাহন ক্রয়ের নির্দেশনা দিয়েছে অর্থ মন্ত্রণালয়ের অর্থ বিভাগ।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/76955de46a14837416ffb89343735947-695d55a410444.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "এআই ব্যবহার করে সহিংসতা হচ্ছে, বন্ধে সরকার ব্যর্থ: ড. দেবপ্রিয়",
-        "url": "https://www.ittefaq.com.bd/769271/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%B9%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A6%A4%E0%A6%BE-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A7%8D%E0%A6%A5",
-        "published_at": null,
-        "summary": "ডিজিটাল রূপান্তর আমাদের প্রগতিশীল করলেও বৈষম্য সৃষ্টি করেছে বলে মন্তব্য করেছেন সেন্টার ফর পলিসি ডায়ালগের (সিপিডি) সম্মাননীয় ফেলো ড. দেবপ্রিয় ভট্টাচার্য্য। তিনি বলেন, এবারের নির্বাচনে নতুন উপাদান হলো সামাজিক মাধ্যমে কৃত্রিম বুদ্ধিমত্তার ব্যবহার। এর মাধ্যমে সহিংসতা, ঘৃণা ছড়ানো হয়। তবে তা বন্ধ করার মতো কোনো উদ্যোগ বা ইচ্ছা নির্বাচন কমিশন দেখাতে পারেনি। সরকারও কিছু করতে পারছে না।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/3ff7a4b7fa6027a772ca7d24192ccbbe-695d522db4a9a.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "দায়মুক্তি পাচ্ছেন  জুলাইযোদ্ধারা",
@@ -542,7 +542,7 @@
         "headline": "আজকের সর্বশেষ খবর - January 07, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "ঢাকার নবাবগঞ্জে হঠাৎ করেই এলপিজি গ্যাস সিলিন্ডারের তীব্র সংকট দেখা দিয়েছে। দাম বাড়ার আগে অতিরিক্ত দামে সিলিন্ডার পাওয়া যাচ্ছিল। ...",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন ঘোষণার কারণে নবম পে স্কেলের সুপারিশ ফেব্রুয়ারির মধ্যে জমা হওয়ার সম্ভাবনা বেশি। যাতে নির্বাচনের ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -551,6 +551,36 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "হলফনামায় আয় এত কম দেখানো হচ্ছে কেন?",
+        "url": "https://www.prothomalo.com/video/bangladesh/x8cpa8g6jg",
+        "published_at": "2026-01-06T16:03:03.109000+00:00",
+        "summary": "হলফনামায় আয় এত কম দেখানো হচ্ছে কেন?",
+        "image_s3_key": "prothomalo-bangla/2026-01-06/bxnl8nmn/THUMNAILWEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/bxnl8nmn/THUMNAILWEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আশুলিয়ায় লাশ পোড়ানোর মামলায় চারজনের সাফাই সাক্ষ্য ১১ জানুয়ারি",
+        "url": "https://www.prothomalo.com/bangladesh/oa7of0qad4",
+        "published_at": "2026-01-06T16:02:17.667000+00:00",
+        "summary": "জুলাই গণ–অভ্যুত্থানের সময় আশুলিয়ায় লাশ পোড়ানোর মামলায় চারজন সাফাই সাক্ষ্য দেবেন। অন্যদিকে রংপুর ও রামপুরায় মানবতাবিরোধী অপরাধের দুটি মামলায় তদন্ত কর্মকর্তাদের জেরা করা হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2025-12-22/ch6v6gn2/3.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-22/ch6v6gn2/3.avif?auto=format,compress"
+      },
+      {
+        "headline": "সরকারি গাড়ি কেনার মূল্যসীমা বাড়ল",
+        "url": "https://www.ittefaq.com.bd/769272/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2",
+        "published_at": null,
+        "summary": "সরকারি যানবাহন কেনার মূল্যসীমা বৃদ্ধি করা হয়েছে। সরকারের বিভিন্ন দপ্তরকে নতুন নির্ধারিত ঊর্ধ্বসীমার মধ্যে থেকে যানবাহন ক্রয়ের নির্দেশনা দিয়েছে অর্থ মন্ত্রণালয়ের অর্থ বিভাগ।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/76955de46a14837416ffb89343735947-695d55a410444.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
+        "headline": "এআই ব্যবহার করে সহিংসতা হচ্ছে, বন্ধে সরকার ব্যর্থ: ড. দেবপ্রিয়",
+        "url": "https://www.ittefaq.com.bd/769271/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%B9%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A6%A4%E0%A6%BE-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A7%8D%E0%A6%A5",
+        "published_at": null,
+        "summary": "ডিজিটাল রূপান্তর আমাদের প্রগতিশীল করলেও বৈষম্য সৃষ্টি করেছে বলে মন্তব্য করেছেন সেন্টার ফর পলিসি ডায়ালগের (সিপিডি) সম্মাননীয় ফেলো ড. দেবপ্রিয় ভট্টাচার্য্য। তিনি বলেন, এবারের নির্বাচনে নতুন উপাদান হলো সামাজিক মাধ্যমে কৃত্রিম বুদ্ধিমত্তার ব্যবহার। এর মাধ্যমে সহিংসতা, ঘৃণা ছড়ানো হয়। তবে তা বন্ধ করার মতো কোনো উদ্যোগ বা ইচ্ছা নির্বাচন কমিশন দেখাতে পারেনি। সরকারও কিছু করতে পারছে না।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/3ff7a4b7fa6027a772ca7d24192ccbbe-695d522db4a9a.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "লন্ডনে ফিলিস্তিন রাষ্ট্রের দূতাবাস উদ্বোধন",
@@ -1458,38 +1488,6 @@
         "summary": "নাবিলা চরিত্র দিয়ে বাজিমাত, নতুন বছরে জেবিনের লক্ষ্য কী?",
         "image_s3_key": "prothomalo-bangla/2026-01-06/pvsno2mp/THUMBNAIL.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/pvsno2mp/THUMBNAIL.jpg?auto=format,compress"
-      },
-      {
-        "headline": "কখন ও কীভাবে প্রেগন্যান্সি টেস্ট করবেন",
-        "url": "https://www.prothomalo.com/lifestyle/health/6sv3wk4omf",
-        "published_at": "2026-01-06T13:00:00+00:00",
-        "summary": "প্রেগন্যান্সি টেস্ট করলে জরায়ুর বাইরে গর্ভধারণের ঝুঁকি দ্রুত ধরা পড়ে ও ব্যবস্থা নেওয়া যায়।",
-        "image_s3_key": "prothomalo-bangla/2026-01-06/iedkgzro/pexels-photo-6149706.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/iedkgzro/pexels-photo-6149706.jpg?auto=format,compress"
-      },
-      {
-        "headline": "টেকসই গণতন্ত্র চাইলে রাজনীতিতে সহনশীলতা থাকতেই হবে",
-        "url": "https://www.prothomalo.com/opinion/column/eb4eim4a80",
-        "published_at": "2026-01-06T12:57:44.597000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-06/igh95yuc/Capture.PNG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/igh95yuc/Capture.PNG?auto=format,compress"
-      },
-      {
-        "headline": "পটুয়াখালীতে শিশুকে ধর্ষণের পর হত্যা, বাবা রিমান্ডে",
-        "url": "https://www.prothomalo.com/bangladesh/district/5r0fcvnxo4",
-        "published_at": "2026-01-06T12:54:37.364000+00:00",
-        "summary": "আজ মঙ্গলবার দুপুরে রাঙ্গাবালী সিনিয়র জুডিশিয়াল ম্যাজিস্ট্রেট আদালতে আসামিকে হাজির করে রিমান্ডের আবেদন করেন মামলার তদন্ত কর্মকর্তা রাঙ্গাবালী থানার এসআই মো. সোহান আহমেদ।",
-        "image_s3_key": "prothomalo-bangla/2025-03-10/oedot3un/childabuse.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-10/oedot3un/childabuse.avif?auto=format,compress"
-      },
-      {
-        "headline": "রবিউলের শরীরের ছয়টি স্থানে আঘাতের চিহ্ন",
-        "url": "https://www.prothomalo.com/bangladesh/district/w8sx15fkx2",
-        "published_at": "2026-01-06T12:45:41.553000+00:00",
-        "summary": "আজ মঙ্গলবার সকালে চাঁপাইনবাবগঞ্জ জেলা হাসপাতালে ময়নাতদন্তের সময় রবিউল ইসলামের শরীরের ছয়টি স্থানে আঘাতের চিহ্ন দেখা গেছে।",
-        "image_s3_key": "prothomalo-bangla/2021-05/0a6d2186-599b-4656-b8ec-8e504c679d40/66042fa9d8f99c8b197fa32d5877ec04_Jhenidah_BSF_Photo_11_02_15_2_.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-05/0a6d2186-599b-4656-b8ec-8e504c679d40/66042fa9d8f99c8b197fa32d5877ec04_Jhenidah_BSF_Photo_11_02_15_2_.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -1884,6 +1882,20 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/07/og/1767727590-5c82a3f686a6f7873ef3753fd5df7330.jpg"
       },
       {
+        "headline": "১০ জেলায় শৈত্যপ্রবাহ নিয়ে দুঃসংবাদ",
+        "url": "https://www.ittefaq.com.bd/769277/%E0%A7%A7%E0%A7%A6-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B6%E0%A7%88%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6",
+        "published_at": null,
+        "summary": "শীতের তীব্রতায় সারা দেশ কাঁপছে। আবহাওয়া দপ্তর জানিয়েছে, বুধবার (৭ জানুয়ারি) ১০ জেলার ওপর দিয়ে বয়ে যাওয়া মৃদু থেকে মাঝারি শৈত্যপ্রবাহ অব্যাহত থাকবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/a68f7485b0f1839fc262ce84cfb5814b-695d69dbb1ccc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
+        "headline": "সেনাপ্রধানের সঙ্গে অস্ট্রেলিয়ার হাইকমিশনারের সৌজন্য সাক্ষাৎ",
+        "url": "https://www.ittefaq.com.bd/769281/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "বাংলাদেশে নিযুক্ত অস্ট্রেলিয়ার হাইকমিশনার সুজান রাইল সেনাসদরে সেনাপ্রধান জেনারেল ওয়াকার-উজ-জামানের সাথে সৌজন্য সাক্ষাৎ করেছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/07/fe0bd37798c98931def3b78d26dfee2a-695d7502e4974.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "গ্রাস-রুটস হিউম্যান সিকিউরিটি প্রকল্পে ১৩.৮ মিলিয়ন টাকা অনুদান দিল জাপান",
         "url": "https://www.ittefaq.com.bd/769283/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%B8-%E0%A6%B9%E0%A6%BF%E0%A6%89%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%89%E0%A6%B0%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A7%A7%E0%A7%A9.%E0%A7%AE-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8",
         "published_at": null,
@@ -1938,20 +1950,6 @@
         "published_at": null,
         "summary": "বিদেশি নির্বাচন পর্যবেক্ষকদের থাকা–খাওয়ার খরচ বহনের নির্বাচন কমিশনের (ইসি) সিদ্ধান্তকে অপরিণামদর্শী, বৈষম্যমূলক ও স্বার্থের দ্বন্দ্ব সৃষ্টিকারী আখ্যা দিয়ে তা বাতিলের আহ্বান জানিয়েছে ট্রান্সপারেন্সি ইন্টারন্যাশনাল বাংলাদেশ (টিআইবি)। সংস্থাটির মতে, এই সিদ্ধান্ত নিরপেক্ষ ও স্বাধীন নির্বাচন পর্যবেক্ষণের মৌলিক নীতির পরিপন্থী এবং এর মাধ্যমে নির্বাচনব্যবস্থায় কর্তৃত্ববাদী চর্চা অব্যাহত থাকার ইঙ্গিত পাওয়া যায়।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2022/06/13/5fe74ac7803d59acd39320a93560266d-62a7542269ecc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "পিছিয়ে পড়া শিক্ষার্থীদের টেনে তোলাই প্রকৃত শিক্ষকের সাফল্য: শিক্ষা উপদেষ্টা",
-        "url": "https://www.ittefaq.com.bd/769260/%E0%A6%AA%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4",
-        "published_at": null,
-        "summary": "শিক্ষা উপদেষ্টা অধ্যাপক ড. সি. আর. আবরার বলেছেন, ‘শিক্ষাদানের প্রকৃত সাফল্য কেবল মেধাবীদের এগিয়ে নেওয়ার মধ্যেই নয়। বরং যারা পিছিয়ে আছে, তাদের শেখার প্রক্রিয়ায় সম্পৃক্ত করে সামনে নিয়ে আসাই একজন শিক্ষকের আসল সার্থকতা।’",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/cdf79431f95dbdf9f450369da4e31798-695d2911b091e.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "নির্বাচন কমিশনে দুই দিনে আপিল জমা ১৬৪টি",
-        "url": "https://www.ittefaq.com.bd/769256/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A6%BF%E0%A6%B2-%E0%A6%9C%E0%A6%AE%E0%A6%BE-%E0%A7%A7%E0%A7%AC%E0%A7%AA%E0%A6%9F%E0%A6%BF",
-        "published_at": null,
-        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে মনোনয়নপত্র গ্রহণ ও বাতিলের বিষয়ে রিটার্নিং কর্মকর্তাদের সিদ্ধান্তের বিরুদ্ধে নির্বাচন কমিশনে (ইসি) আপিল আবেদনের সংখ্যা বাড়ছে। দ্বিতীয় দিন শেষে মোট ১৬৪টি আবেদন জমা পড়েছে। প্রথমদিন ৪২টি আপিলের পর দ্বিতীয় দিনে জমা পড়েছে ১২২টি আপিল আবেদন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/aaaff62b1f80e50aca3789cf620cd84a-695cd7ba30567.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "কেরানীগঞ্জে পৃথক সড়ক দুর্ঘটনায় দুইজনের মৃত্যু",
@@ -2232,6 +2230,20 @@
         "published_at": "1767711602",
         "summary": "রাঙামাটির বিলাইছড়িতে বাংলাদেশ সেনাবাহিনীর বিশেষ অভিযানে বিপুল পরিমাণ অবৈধ দেশীয় চোলাই মদ উদ্ধার ও ধ্বংস করা হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-29-20260106150002.jpg"
+      },
+      {
+        "headline": "পিছিয়ে পড়া শিক্ষার্থীদের টেনে তোলাই প্রকৃত শিক্ষকের সাফল্য: শিক্ষা উপদেষ্টা",
+        "url": "https://www.ittefaq.com.bd/769260/%E0%A6%AA%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4",
+        "published_at": null,
+        "summary": "শিক্ষা উপদেষ্টা অধ্যাপক ড. সি. আর. আবরার বলেছেন, ‘শিক্ষাদানের প্রকৃত সাফল্য কেবল মেধাবীদের এগিয়ে নেওয়ার মধ্যেই নয়। বরং যারা পিছিয়ে আছে, তাদের শেখার প্রক্রিয়ায় সম্পৃক্ত করে সামনে নিয়ে আসাই একজন শিক্ষকের আসল সার্থকতা।’",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/cdf79431f95dbdf9f450369da4e31798-695d2911b091e.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
+        "headline": "নির্বাচন কমিশনে দুই দিনে আপিল জমা ১৬৪টি",
+        "url": "https://www.ittefaq.com.bd/769256/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A6%BF%E0%A6%B2-%E0%A6%9C%E0%A6%AE%E0%A6%BE-%E0%A7%A7%E0%A7%AC%E0%A7%AA%E0%A6%9F%E0%A6%BF",
+        "published_at": null,
+        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে মনোনয়নপত্র গ্রহণ ও বাতিলের বিষয়ে রিটার্নিং কর্মকর্তাদের সিদ্ধান্তের বিরুদ্ধে নির্বাচন কমিশনে (ইসি) আপিল আবেদনের সংখ্যা বাড়ছে। দ্বিতীয় দিন শেষে মোট ১৬৪টি আবেদন জমা পড়েছে। প্রথমদিন ৪২টি আপিলের পর দ্বিতীয় দিনে জমা পড়েছে ১২২টি আপিল আবেদন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/aaaff62b1f80e50aca3789cf620cd84a-695cd7ba30567.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "দোষারোপের রাজনীতি থেকে বেরিয়ে আসতে হবে : সালাহউদ্দিন আহমদ",
@@ -2946,21 +2958,6 @@
         "published_at": "1767705594",
         "summary": "নোয়াখালীর বেগমগঞ্জে স্বাধীনবাংলা নিউক্লিয়াস প্রতিষ্ঠাতা, মুক্তিসংগ্রামের প্রধান সংগঠক ও বাঙালির তৃতীয় জাগরণের পথপ্রদর্শক সিরাজুল আলম খান দাদার ৮৫তম জন্মবার্ষিকী উপলক্ষে আলোচনা সভা অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/NOWA-20260106131954.jpg"
-      },
-      {
-        "headline": "বিএনপিতে যোগ দিয়েই বিএনপির নেতাকর্মীদের বাড়িঘরে হামলা-লুটপাট",
-        "url": "https://www.amarsangbad.com/country/news/334007",
-        "published_at": "1767705131",
-        "summary": "ফরিদপুরের সদরপুরে বিএনপিতে যোগ দিয়েই বিএনপির অন্তত ১০-১২ জন নেতাকর্মীর বাড়িতে হামলা ও লুটপাটের অভিযোগ উঠেছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/fpur-20260106131211.jpg"
-      },
-      {
-        "headline": "দোকান বন্ধ করে ফেরার পথে বাড়ির ফটকে ব্যবসায়ীকে কুপিয়ে হত্যা",
-        "url": "https://www.prothomalo.com/bangladesh/district/tyvd8px4b4",
-        "published_at": "2026-01-06T06:51:37.892000+00:00",
-        "summary": "নরসিংদীর পলাশ উপজেলায় দোকান বন্ধ করে বাড়ি ফেরার পথে এক ব্যবসায়ীকে কুপিয়ে হত্যার ঘটনা ঘটেছে। গতকাল সোমবার রাত ৯টার দিকে উপজেলার চরসিন্দুর ইউনিয়নের সুলতানপুরে এ ঘটনা ঘটে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-06/ly87f735/SylhetDH072020260106narsingdi-palash-sorot-chakraborty-moni-murder-1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/ly87f735/SylhetDH072020260106narsingdi-palash-sorot-chakraborty-moni-murder-1.jpg?auto=format,compress"
       }
     ],
     "politics": [
@@ -7328,6 +7325,14 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/zjnbjuy1/GeminiGeneratedImagevpop3lvpop3lvpop.png?auto=format,compress"
       },
       {
+        "headline": "আজ টিভিতে যা দেখবেন (৭ জানুয়ারি ২০২৬)",
+        "url": "https://www.prothomalo.com/sports/576keoxeb9",
+        "published_at": "2026-01-07T01:00:00+00:00",
+        "summary": "বিপিএল আজ মুখোমুখি ঢাকা ও নোয়াখালী এবং চট্টগ্রাম ও সিলেট। শ্রীলঙ্কা-পাকিস্তান টি-টোয়েন্টি সিরিজ শুরু আজ। রাতে আছে ইংলিশ প্রিমিয়ার লিগের ম্যাচ।\n",
+        "image_s3_key": "prothomalo-bangla/2026-01-06/v05xcd55/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/v05xcd55/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg?auto=format,compress"
+      },
+      {
         "headline": "আইপিএল থেকে বাদ দেওয়া মোস্তাফিজকে লুফে নিল পিএসএল",
         "url": "https://www.prothomalo.com/sports/cricket/3hou1v6zzk",
         "published_at": "2026-01-06T15:07:21.361000+00:00",
@@ -7632,14 +7637,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/41v7utuk/802079-01-02.jpg?auto=format,compress"
       },
       {
-        "headline": "তবু মোস্তাফিজ নন, ম্যাচসেরা মাহমুদউল্লাহ",
-        "url": "https://www.prothomalo.com/sports/cricket/pzvve1zm8q",
-        "published_at": "2026-01-04T16:07:21.604000+00:00",
-        "summary": "শেষ ওভারে ৬ উইকেট হাতে রেখে ১০ রান দরকার ছিল ঢাকা ক্যাপিটালসের। রংপুর রাইডার্সের মোস্তাফিজুর রহমান দিয়েছেন মাত্র ৪ রান।",
-        "image_s3_key": "prothomalo-bangla/2026-01-04/eobksrqv/WhatsApp-Image-2026-01-04-at-9.50.29-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/eobksrqv/WhatsApp-Image-2026-01-04-at-9.50.29-PM.jpeg?auto=format,compress"
-      },
-      {
         "headline": "আইপিএল থেকে ছিটকে গেলেও পিএসএল খেলবেন মোস্তাফিজ",
         "url": "https://www.ittefaq.com.bd/769264/%E0%A6%86%E0%A6%87%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B2-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%8F%E0%A6%B2-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%AC%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AB%E0%A6%BF%E0%A6%9C",
         "published_at": null,
@@ -7848,6 +7845,14 @@
         "published_at": "1767679758",
         "summary": "অ্যাংরি, হাহা রিঅ্যাকশনের সঙ্গে নেতিবাচক মন্তব্যে সয়লাব হয়ে উঠেছে কলকাতা নাইট রাইডার্সের ফেসবুক পেজ। এছাড়াও লাখ লাখ ফলোয়ারও হারাচ্ছে আইপিএলের এই ফ্র্যাঞ্চাইজিটি। সবশেষ ৪৮ ঘণ্টায় ১০ লাখ ফলোয়ার কমেছে কলকাতার।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260106060918.jpg"
+      },
+      {
+        "headline": "তবু মোস্তাফিজ নন, ম্যাচসেরা মাহমুদউল্লাহ",
+        "url": "https://www.prothomalo.com/sports/cricket/pzvve1zm8q",
+        "published_at": "2026-01-04T16:07:21.604000+00:00",
+        "summary": "শেষ ওভারে ৬ উইকেট হাতে রেখে ১০ রান দরকার ছিল ঢাকা ক্যাপিটালসের। রংপুর রাইডার্সের মোস্তাফিজুর রহমান দিয়েছেন মাত্র ৪ রান।",
+        "image_s3_key": "prothomalo-bangla/2026-01-04/eobksrqv/WhatsApp-Image-2026-01-04-at-9.50.29-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/eobksrqv/WhatsApp-Image-2026-01-04-at-9.50.29-PM.jpeg?auto=format,compress"
       },
       {
         "headline": "শেষ ৫ ম্যাচে ১ জয়, আবারও পয়েন্ট হারিয়ে চাপে ম্যানচেস্টার ইউনাইটেড",
@@ -8795,17 +8800,17 @@
         "published_at": null,
         "summary": "ঢাকার বাইরে এটিই বিসিবির প্রথম অফিস। তবে দীর্ঘদিনের আকাঙ্ক্ষিত আঞ্চলিক ক্রিকেট সংস্থার কাঠামো এখনই হচ্ছে না। আপাতত ‘হেড অব ক্রিকেট’ পদে বিসিবির কর্মকর্তার অধীনেই চলবে এই অফিস।",
         "image_url": "https://media.ndiganta.com/original_images/Sylhet-Mini-BCB-Inaguration.jpg"
-      },
-      {
-        "headline": "শরীফুল-তানভীরে দিশাহারা ঢাকা, কোটি টাকার নাঈমের প্রথম ফিফটি",
-        "url": "https://www.prothomalo.com/sports/cricket/86qppzzbco",
-        "published_at": "2026-01-02T11:41:11.703000+00:00",
-        "summary": "আজ সিলেট আন্তর্জাতিক ক্রিকেট স্টেডিয়ামে ঢাকাকে ১০ উইকেটে হারিয়ে বলা যায় লজ্জাই দিয়েছে চট্টগ্রাম। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-02/ka1dtwf1/6060235079240488501534417604243801473581346n.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/ka1dtwf1/6060235079240488501534417604243801473581346n.jpg?auto=format,compress"
       }
     ],
     "entertainment": [
+      {
+        "headline": "ঢাকা চলচ্চিত্র উৎসবে বাংলাদেশের ৫৮ সিনেমা",
+        "url": "https://www.prothomalo.com/entertainment/dhallywood/1yulicfrjo",
+        "published_at": "2026-01-07T01:00:00+00:00",
+        "summary": "বাংলাদেশের ১৫টি পূর্ণদৈর্ঘ্য ও ৪৩টি স্বল্পদৈর্ঘ্য সিনেমা মনোনীত হয়েছে। উৎসব ঘিরে দেশের দর্শকদের বাংলাদেশের সিনেমগুলোর দিকেই চোখ থাকবে",
+        "image_s3_key": "prothomalo-bangla/2026-01-06/ysy0slkg/504672806_1145932540883656_8410257779181418110_n.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/ysy0slkg/504672806_1145932540883656_8410257779181418110_n.jpg?auto=format,compress"
+      },
       {
         "headline": "রুনা লায়লা গত ১০ বছরে কেন অস্ট্রেলিয়া ট্যুরে যাননি",
         "url": "https://www.prothomalo.com/entertainment/song/u9y7n6prps",
@@ -9119,14 +9124,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-02-25/hkttdhxl/Leonardo-DiCaprio.reuters.png?auto=format,compress"
       },
       {
-        "headline": "আবারও পুরুষতান্ত্রিক সিনেমার দাপট, বলিউড কি পুরোনো পথে হাঁটছে",
-        "url": "https://www.prothomalo.com/entertainment/bollywood/n8jlbgqbzb",
-        "published_at": "2026-01-04T10:30:00+00:00",
-        "summary": "আবারও হিংস্র, পুরুষপ্রধান অ্যাকশন থ্রিলারের দখলে চলে গেছে বলিউডের বক্স অফিস ও সাংস্কৃতিক আলোচনার কেন্দ্র।",
-        "image_s3_key": "prothomalo-bangla/2026-01-04/ww4emlz6/d2fad083-444e-4d91-b2dc-d3c7461ce595.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/ww4emlz6/d2fad083-444e-4d91-b2dc-d3c7461ce595.jpg?auto=format,compress"
-      },
-      {
         "headline": "জকসু নির্বাচন: সাড়ে তিনঘণ্টা ধরে চলছে এক কেন্দ্রের ভোট গননা",
         "url": "https://www.bd-pratidin.com/campus-online/2026/01/07/1201462",
         "published_at": "2026-01-07T05:07:29+06:00",
@@ -9405,6 +9402,14 @@
         "published_at": "1766988330",
         "summary": "বলিউডে শাহরুখ খান কেবল একজন অভিনেতার নাম নয়, তিনি একটি আবেগের নাম। পর্দার রোমান্টিক হিরো হিসেবে বিশ্বজুড়ে তাঁর খ্যাতি থাকলেও, বাস্তব জীবনে তিনি যে কতটা বিনয়ী এবং দায়িত্বশীল, তার আরও একটি প্রমাণ মিলল অভিনেত্রী গিরিজা ওকের বক্তব্যে। সম্প্রতি একটি সাক্ষাৎকারে গিরিজা বর্ণনা করেছেন, কীভাবে চেন্নাইতে শুটিং চলাকালীন শাহরুখ খান নিজের নারী সহকর্মীদের নিরাপত্তা নিশ্চিত করতে ব্যক্তিগতভাবে উদ্যোগী হয়েছিলেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-12-20251229060530.jpg"
+      },
+      {
+        "headline": "আবারও পুরুষতান্ত্রিক সিনেমার দাপট, বলিউড কি পুরোনো পথে হাঁটছে",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/n8jlbgqbzb",
+        "published_at": "2026-01-04T10:30:00+00:00",
+        "summary": "আবারও হিংস্র, পুরুষপ্রধান অ্যাকশন থ্রিলারের দখলে চলে গেছে বলিউডের বক্স অফিস ও সাংস্কৃতিক আলোচনার কেন্দ্র।",
+        "image_s3_key": "prothomalo-bangla/2026-01-04/ww4emlz6/d2fad083-444e-4d91-b2dc-d3c7461ce595.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/ww4emlz6/d2fad083-444e-4d91-b2dc-d3c7461ce595.jpg?auto=format,compress"
       },
       {
         "headline": "দোষারোপের রাজনীতি থেকে বেরিয়ে আসতে হবে : সালাহউদ্দিন আহমদ",
@@ -10249,13 +10254,6 @@
         "published_at": "2026-01-05T21:34:21+06:00",
         "summary": "রাজধানীর বসুন্ধরা আবাসিক এলাকায় দুই দফা মারধরে মৃত্যু হয় আইনজীবী নাঈম কিবরিয়ার। সোমবার আসামি মো. জোবায়ের হোসেন (২৯) স্বীকারোক্তিমূলক জবানবন্দিতে এ তথ্য জানান।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767627255-e618bbeacdb0d855d3565b4f8571bca7.jpg"
-      },
-      {
-        "headline": "টঙ্গীতে বেগম খালেদা জিয়ার স্মরণে দোয়া মাহফিল",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/05/1200818",
-        "published_at": "2026-01-05T21:31:43+06:00",
-        "summary": "সাবেক প্রধানমন্ত্রী ও বিএনপি চেয়ারপার্সন বেগম খালেদা জিয়ার স্মরণে গাজীপুরের টঙ্গীতে দোয়া মাহফিল অনুষ্ঠিত হয়েছে। সোমবার বিকেল ৩টায় টঙ্গীর আমজাদ আলী সরকার পাইলট বালিকা উচ্চ বিদ্যালয় মাঠে এ দোয়া মাহফিলের আয়োজন করা হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/05/og/1767627097-13ac628fe029d1ed6b5e4e25c4a396b0.jpg"
       }
     ],
     "jobs": [
