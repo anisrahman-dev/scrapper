@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-08T22:19:35.835386+00:00",
+  "fetched_at": "2026-01-08T22:49:01.025629+00:00",
   "stories": [
+    {
+      "headline": "স্বপ্নে বা জাগরণে নবীজি (সা.)-কে দেখা: ইসলাম কী বলে",
+      "url": "https://www.prothomalo.com/religion/islam/fp26x0zmit",
+      "published_at": "2026-01-08T22:30:00+00:00",
+      "summary": "কেউ কেউ দাবি করেন যে তাঁরা সশরীরে নবীজিকে দেখেছেন বা তাঁর সঙ্গে কথা বলেছেন। কিন্তু শরিয়তের আলোকে এই দাবির সত্যতা কতটুকু, তা পর্যালোচনার দাবি রাখে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-08/4qllcc2h/wmremove-transformed-1.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/4qllcc2h/wmremove-transformed-1.jpeg?auto=format,compress"
+    },
     {
       "headline": "বিক্ষোভে উত্তাল ইরানে ইন্টারনেট বন্ধ, জানাল পর্যবেক্ষক প্রতিষ্ঠান",
       "url": "https://www.prothomalo.com/world/wtx01k3ojr",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/jb0ptx4q/WhatsApp-Image-2026-01-08-at-6.36.11-PM.jpeg?auto=format,compress"
     },
     {
-      "headline": "আবারও বিশ্বকাপ ভেন্যু বদলের অনুরোধ জানিয়ে আইসিসিকে চিঠি বিসিবির",
-      "url": "https://www.prothomalo.com/sports/cricket/h5zkqlerof",
-      "published_at": "2026-01-08T16:14:33.221000+00:00",
-      "summary": "বিসিবি বলছে, বিশ্বকাপের সময় ক্রিকেটাররা ছাড়াও বাংলাদেশ থেকে সাংবাদিক, পৃষ্ঠপোষক ও অনেক দর্শকও যাবেন। বর্তমান পরিস্থিতিতে ভারতে বাংলাদেশের কেউ নিরাপদ নন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-07/yqw945fz/BCB_LOGO.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/yqw945fz/BCB_LOGO.jpg?auto=format,compress"
-    },
-    {
       "headline": "যুক্তরাষ্ট্রে খালেদা জিয়ার নামে সড়ক",
       "url": "https://www.bd-pratidin.com/national/2026/01/09/1202299",
       "published_at": "2026-01-09T01:41:00+06:00",
@@ -475,6 +475,13 @@
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "সেনাবাহিনীর অভিযানে ৮ দিনে গ্রেফতার ১৭১",
+      "url": "https://dailynayadiganta.com/bangladesh/crime/RjHnd5PkJJ49/",
+      "published_at": null,
+      "summary": "বৃহস্পতিবার (৮ জানুয়ারি) রাতে আন্তঃবাহিনী জনসংযোগ পরিদফতর (আইএসপিআর) থেকে পাঠানো এক সংবাদ বিজ্ঞপ্তিতে এ তথ্য জানানো হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Army-Madaripur.jpg"
+    },
+    {
       "headline": "চট্টগ্রামে জুলাই আন্দোলনে হামলার মামলায় যুবলীগ নেতা গ্রেফতার",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/PfY1bjPWSZ7H/",
       "published_at": null,
@@ -517,13 +524,6 @@
       "image_url": "https://media.ndiganta.com/original_images/Economics_AuQV4d1.jpg"
     },
     {
-      "headline": "লাইনচ্যুত নোয়াখালী এক্সপ্রেস",
-      "url": "https://dailynayadiganta.com/printed-edition/qlrexqHko5Xy/",
-      "published_at": null,
-      "summary": "এবারের বিপিএল আসরে ৬ ম্যাচ খেলে ৬টিতেই হেরে লাইনচ্যুত নোয়াখালী এক্সপ্রেস। বিপিএল ইতিহাসে প্রথম ৫ ম্যাচ হেরে আগের ম্যাচেই রেকর্ড গড়েছিল নোয়াখালী, এবার টানা ৬ ম্যাচ হেরে নিজেদেরই লজ্জার রেকর্ড নিয়ে গেল নবাগত দলটি।",
-      "image_url": "https://media.ndiganta.com/original_images/Sports-1_tEZaW9u.jpg"
-    },
-    {
       "headline": "নির্বাচনে সন্ত্রাস ও জালভোট রোধে ব্যবস্থা গ্রহণে ইসির পরিপত্র",
       "url": "https://dailynayadiganta.com/bangladesh/national/Ee1T068XUWqh/",
       "published_at": null,
@@ -531,17 +531,10 @@
       "image_url": "https://media.ndiganta.com/original_images/Election-Commission.jpg"
     },
     {
-      "headline": "মনোনয়ন বাতিল ও গ্রহণের বিরুদ্ধে ৪ দিনে ইসিতে ৪৬৯ আপিল",
-      "url": "https://dailynayadiganta.com/bangladesh/national/EpHG6lrB1rWN/",
-      "published_at": null,
-      "summary": "ইসির কর্মকর্তারা জানান, বৃহস্পতিবার মোট ১৭৪টি আপিল দায়ের করা হয়েছে। এর মধ্যে মনোনয়নপত্র বাতিলের আদেশের বিরুদ্ধে ১৬৪টি এবং মনোনয়নপত্র গ্রহণের বিরুদ্ধে ১০টি আপিল দায়ের করা হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Election-Commission.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - January 09, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "তীব্র অর্থনৈতিক সংকটকে ঘিরে চলমান বিক্ষোভের মধ্যেই ইরানে দেশব্যাপী ইন্টারনেট ব্ল্যাকআউটের ঘটনা ঘটেছে বলে জানিয়েছে অনলাইন নজরদারি সংস্থা নেটব্লকস। কাতারভিত্তিক ...",
+      "summary": "দক্ষিণী সিনেমা ইন্ডাস্ট্রির জনপ্রিয় মুখ সামান্থা রুথ প্রভু আবারও তেলেগু সিনেমায় ফিরছেন। বহু প্রতীক্ষিত ‘মা ইন্তি বাঙারাম’ সিনেমাটি তার প্রযোজনা ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -550,6 +543,28 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "আবারও বিশ্বকাপ ভেন্যু বদলের অনুরোধ জানিয়ে আইসিসিকে চিঠি বিসিবির",
+      "url": "https://www.prothomalo.com/sports/cricket/h5zkqlerof",
+      "published_at": "2026-01-08T16:14:33.221000+00:00",
+      "summary": "বিসিবি বলছে, বিশ্বকাপের সময় ক্রিকেটাররা ছাড়াও বাংলাদেশ থেকে সাংবাদিক, পৃষ্ঠপোষক ও অনেক দর্শকও যাবেন। বর্তমান পরিস্থিতিতে ভারতে বাংলাদেশের কেউ নিরাপদ নন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-07/yqw945fz/BCB_LOGO.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/yqw945fz/BCB_LOGO.jpg?auto=format,compress"
+    },
+    {
+      "headline": "লাইনচ্যুত নোয়াখালী এক্সপ্রেস",
+      "url": "https://dailynayadiganta.com/printed-edition/qlrexqHko5Xy/",
+      "published_at": null,
+      "summary": "এবারের বিপিএল আসরে ৬ ম্যাচ খেলে ৬টিতেই হেরে লাইনচ্যুত নোয়াখালী এক্সপ্রেস। বিপিএল ইতিহাসে প্রথম ৫ ম্যাচ হেরে আগের ম্যাচেই রেকর্ড গড়েছিল নোয়াখালী, এবার টানা ৬ ম্যাচ হেরে নিজেদেরই লজ্জার রেকর্ড নিয়ে গেল নবাগত দলটি।",
+      "image_url": "https://media.ndiganta.com/original_images/Sports-1_tEZaW9u.jpg"
+    },
+    {
+      "headline": "মনোনয়ন বাতিল ও গ্রহণের বিরুদ্ধে ৪ দিনে ইসিতে ৪৬৯ আপিল",
+      "url": "https://dailynayadiganta.com/bangladesh/national/EpHG6lrB1rWN/",
+      "published_at": null,
+      "summary": "ইসির কর্মকর্তারা জানান, বৃহস্পতিবার মোট ১৭৪টি আপিল দায়ের করা হয়েছে। এর মধ্যে মনোনয়নপত্র বাতিলের আদেশের বিরুদ্ধে ১৬৪টি এবং মনোনয়নপত্র গ্রহণের বিরুদ্ধে ১০টি আপিল দায়ের করা হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Election-Commission.jpg"
     },
     {
       "headline": "ওমেগা-৩ সমৃদ্ধ ব্রয়লার মাংস উৎপাদন নিয়ে বেঙ্গল মিটের কর্মশালা",
@@ -1481,20 +1496,6 @@
       "published_at": "2026-01-08T19:57:09+06:00",
       "summary": "বাংলাদেশ ক্রিকেটের বর্তমান প্রেক্ষাপটকে ‘ক্রিটিকাল’ বা সংকটময় হিসেবে অভিহিত করেছেন জাতীয় দলের সাবেক অধিনায়ক তামিম ইকবাল। বিসিবির যেকোনো নীতি নির্ধারণী সিদ্ধান্তে আবেগের চেয়ে দীর্ঘমেয়াদী প্রভাব ও খেলোয়াড়দের স্বার্থকে বেশি গুরুত্ব দেওয়ার তাগিদ দিয়েছেন তিনি।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/08/og/1767880624-2fa715ce6d9a8291af88823291885e63.jpg"
-    },
-    {
-      "headline": "৩৬০০ কোটিতে ১০ বছরের জন্য পিএসএলের দুইটি ফ্র্যাঞ্চাইজি বিক্রি",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/08/1202113",
-      "published_at": "2026-01-08T19:55:32+06:00",
-      "summary": "পাকিস্তান সুপার লিগের (পিএসএল) নতুন দুই ফ্র্যাঞ্চাইজি ১০ বছরের জন্য মোট ৩ হাজার ৬০০ কোটি পাকিস্তানি রুপিতে বিক্রি করেছে পাকিস্তান ক্রিকেট বোর্ড (পিসিবি)। বুধবার ইসলামাবাদের জিন্নাহ কনভেনশন সেন্টারে অনুষ্ঠিত নিলামে সপ্তম ও অষ্টম দলের মালিকানা বিক্রি করা হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/08/og/1767880527-e91c31dd30656d11e222bf0d00c8ead6.jpg"
-    },
-    {
-      "headline": "সাংগঠনিক শৃঙ্খলার ওপরই নির্বাচনী সাফল্য নির্ভর করে : প্রিন্স",
-      "url": "https://www.bd-pratidin.com/election/2026/01/08/1202112",
-      "published_at": "2026-01-08T19:49:27+06:00",
-      "summary": "নির্বাচন পরিচালনার দায়িত্বপ্রাপ্ত সিনিয়র নেতৃবৃন্দ এবং ছাত্র ও মহিলা প্রতিনিধিদের সাথে মতবিনিময় সভা করেছেন ময়মনসিংহ-১ (হালুয়াঘাট-ধোবাউড়া) আসনে বিএনপির প্রার্থী সৈয়দ এমরান সালেহ প্রিন্স।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/08/og/1767880162-f19d3395548fd8c9bbf3f95f5d81b8f8.jpg"
     }
   ]
 }
