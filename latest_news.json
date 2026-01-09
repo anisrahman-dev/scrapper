@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-01-09T09:26:42.909750+00:00",
+  "fetched_at": "2026-01-09T09:53:59.148317+00:00",
   "stories": [
+    {
+      "headline": "বিএনপির কয়েকজন নেতা খুন হয়েছেন; কিন্তু সরকার কার্যকর ব্যবস্থা গ্রহণ করে না: মির্জা ফখরুল",
+      "url": "https://www.prothomalo.com/video/bangladesh/xi7k5r5usz",
+      "published_at": "2026-01-09T09:46:09.852000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-09/uvemtrnp/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/uvemtrnp/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "জয়ের জন্য ১২৯ রান চাই চট্টগ্রামের",
+      "url": "https://www.prothomalo.com/sports/cricket/hy0l87ml59",
+      "published_at": "2026-01-09T09:40:43.178000+00:00",
+      "summary": "বিপিএলে আজ দিনের প্রথম ম্যাচে চট্টগ্রাম রয়্যালসের মুখোমুখি রাজশাহী ওয়ারিয়রস। এই ম্যাচের লাইভ বিবরণী, বিশ্লেষণ জানতে চােখ রাখুন এখানে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-09/4lupyk9u/WhatsApp-Image-2026-01-09-at-1.40.39-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/4lupyk9u/WhatsApp-Image-2026-01-09-at-1.40.39-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "ঢাকা–ভাঙ্গা এক্সপ্রেসওয়েতে ট্রাকের সঙ্গে বাসের ধাক্কায় নিহত ১, আহত ২০",
+      "url": "https://www.prothomalo.com/video/bangladesh/z9u0vy7yhd",
+      "published_at": "2026-01-09T09:34:09.329000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-09/z3h869pa/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/z3h869pa/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "তেঁতুলিয়ায় সর্বনিম্ন তাপমাত্রা ৬ দশমিক ৯ ডিগ্রি সেলসিয়াস",
+      "url": "https://www.prothomalo.com/video/bangladesh/v9tufkmhon",
+      "published_at": "2026-01-09T09:24:31.709000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-09/d6ivp3gi/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/d6ivp3gi/WEB.jpg?auto=format,compress"
+    },
     {
       "headline": "তামিমকে ‘ভারতীয় দালাল’ বললেন বিসিবি পরিচালক: প্রতিবাদে সরব মুমিনুল-তাসকিনরা",
       "url": "https://www.prothomalo.com/sports/cricket/7yr02mi58n",
@@ -16,14 +48,6 @@
       "summary": "শীতে পায়ের ফাটা অংশ দিয়েও জীবাণু সংক্রমণ হতে পারে। তাই শীতকালে ডায়াবেটিক রোগীদের পায়ের যত্নে বিশেষভাবে সচেতন হতে হবে।",
       "image_s3_key": "prothomalo-bangla/2026-01-09/55fviab9/09012026-cm-5.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/55fviab9/09012026-cm-5.jpg?auto=format,compress"
-    },
-    {
-      "headline": "শেষ ৩০ বলে কত তুলতে পারবে রাজশাহী",
-      "url": "https://www.prothomalo.com/sports/cricket/hy0l87ml59",
-      "published_at": "2026-01-09T09:16:08.831000+00:00",
-      "summary": "বিপিএলে আজ দিনের প্রথম ম্যাচে চট্টগ্রাম রয়্যালসের মুখোমুখি রাজশাহী ওয়ারিয়রস। এই ম্যাচের লাইভ বিবরণী, বিশ্লেষণ জানতে চােখ রাখুন এখানে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-09/4lupyk9u/WhatsApp-Image-2026-01-09-at-1.40.39-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/4lupyk9u/WhatsApp-Image-2026-01-09-at-1.40.39-PM.jpeg?auto=format,compress"
     },
     {
       "headline": "কক্সবাজারে পাহাড় কাটার সময় মাটি চাপা পড়ে শ্রমিকের মৃত্যু",
@@ -290,31 +314,28 @@
       "image_url": "https://media.prothomalo.com/prothomalo/import/media/2015/01/17/ab9c428c62dbd02a5815ded8c7f51095-Untitled-15.jpg?auto=format,compress"
     },
     {
-      "headline": "প্রায় ১১ বছর পর কেউ গোল করতে পারল না, ৬০০ তম ম্যাচে এসে নিশানা হারাল লিভারপুল",
-      "url": "https://www.prothomalo.com/sports/football/1ie6mswugb",
-      "published_at": "2026-01-09T06:30:11.873000+00:00",
-      "summary": "২০১৫ সালের আগস্টের পর প্রিমিয়ার লিগে আর্সেনাল ও লিভারপুলের মধ্যে এটি প্রথম গোলশূন্য ড্র ম্যাচ। পাশাপাশি ২০১০ সালের পর এই প্রথম লক্ষ্যে কোনো শট নিতে ব্যর্থ হলো লিভারপুল।",
-      "image_s3_key": "prothomalo-bangla/2026-01-09/ngakruzh/FBL-ENG-PR-ARSENAL-LIVERPOOL-211730.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/ngakruzh/FBL-ENG-PR-ARSENAL-LIVERPOOL-211730.jpg?auto=format,compress"
+      "headline": "মেঘনার অবৈধ বালু মহালের বিরুদ্ধে অভিযান, আটক ৫",
+      "url": "https://www.bd-pratidin.com/country/2026/01/09/1202412",
+      "published_at": "2026-01-09T15:45:41+06:00",
+      "summary": "ব্রাহ্মণবাড়িয়ার নবীনগরে অবৈধভাবে মেঘনা নদী থেকে বালু উত্তোলনের দায়ে পাঁচজনকে আটক করেছেন ভ্রাম্যমাণ আদালত। এ সময় দুটি ড্রেজার ও দুটি বাল্কহেড জব্দ করা হয়। আটককৃতরা সবাই বালু উত্তোলনের সঙ্গে জড়িত শ্রমিক।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767951935-8849f4d42aeaab5dde27c6c3c7bcedcb.jpg"
     },
     {
-      "headline": "বাংলাদেশে অর্থনীতির গণতন্ত্রায়ণ কেন প্রয়োজন",
-      "url": "https://www.prothomalo.com/opinion/column/fcphk5ep7c",
-      "published_at": "2026-01-09T06:29:14.742000+00:00",
-      "summary": "কিন্তু সামাজিক সেবাগুলোতে অধিকারকে শুধু পরিমাণগত দিক থেকে দেখলে চলবে না, তাকে নিশ্চিত করতে হবে গুণগত দিক দিয়ে। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-09/4qavvymg/Untitled-2.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/4qavvymg/Untitled-2.jpg?auto=format,compress"
+      "headline": "এখন পর্যন্ত নির্বাচনের লেভেল প্লেয়িং ফিল্ড রয়েছে: প্রেস সচিব",
+      "url": "https://www.bd-pratidin.com/national/2026/01/09/1202411",
+      "published_at": "2026-01-09T15:43:53+06:00",
+      "summary": "প্রধান উপদেষ্টার প্রেস সচিব মোহাম্মদ শফিকুল আলম বলেছেন, এখন পর্যন্ত নির্বাচনের ভালো লেভেল প্লেয়িং ফিল্ড রয়েছে। এখনও ভালো নির্বাচনী পরিবেশ বজায় আছে। দুয়েকজন লেভেল প্লেয়িং ফিল্ড নিয়ে কথা বললেও এখন পর্যন্ত ছোট-বড় সব দলের জন্য লেভেল প্লেয়িং ফিল্ড সমান আছে। দৃশ্যমান এমন কিছু ঘটেনি যে যাতে বলা যাবে লেভেল প্লেয়িং ফিল্ড নেই।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767951826-e42f164ef1863783f43ca46932b77ba8.jpg"
     },
     {
-      "headline": "গ্রিনল্যান্ডে যুক্তরাষ্ট্র আক্রমণ করলে আগে গুলি করা হবে, পরে প্রশ্ন: ডেনমার্ক",
-      "url": "https://www.prothomalo.com/world/europe/tluaomb4df",
-      "published_at": "2026-01-09T06:22:18.493000+00:00",
-      "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প যখন ন্যাটোভুক্ত অঞ্চল গ্রিনল্যান্ড দখলে আবার চেষ্টা শুরু করেছেন, ঠিক তখনই ডেনমার্কের পক্ষ থেকে এই কড়া মন্তব্য এল।",
-      "image_s3_key": "prothomalo-bangla/2026-01-09/n5yagusb/Trump.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/n5yagusb/Trump.jpg?auto=format,compress"
+      "headline": "প্রবাসীদের কাছে পোস্টাল ব্যালট পাঠানোর কাজ সম্পন্ন ইসির",
+      "url": "https://www.bd-pratidin.com/national/2026/01/09/1202406",
+      "published_at": "2026-01-09T15:29:28+06:00",
+      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোটে ভোট দিতে বিশ্বের ১২১টি দেশে ৭ লাখ ৬৭ হাজার ২৮ জন প্রবাসী ভোটারের কাছে পোস্টাল ব্যালট পাঠানোর কাজ সম্পন্ন করেছে নির্বাচন কমিশন (ইসি)।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767950962-d7a5883ed19b74a3640e7b404fb4cc6b.jpg"
     },
     {
-      "headline": "ইরানে বিক্ষোভ চরমে পৌঁছাতেই ইন্টারনেট বন্ধ কেন",
+      "headline": "ইরানে বিক্ষোভ চরমে পৌঁছাতেই ইন্টারনেট বন্ধ কেন?",
       "url": "https://www.bd-pratidin.com/international-news/2026/01/09/1202402",
       "published_at": "2026-01-09T15:20:12+06:00",
       "summary": "ইরানে দেশজুড়ে ইন্টারনেট সংযোগ বন্ধ হয়ে গেছে বলে জানিয়েছে অনলাইন পর্যবেক্ষণ সংস্থা নেটব্লকস। চলমান তীব্র অর্থনৈতিক সংকটকে কেন্দ্র করে দেশটির বিভিন্ন শহরে বিক্ষোভ ছড়িয়ে পড়ার মধ্যেই এই ইন্টারনেট ব্ল্যাকআউট দেখা গেছে। খবর আল জাজিরার।",
@@ -363,25 +384,25 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767947342-0ce4ff7e778a35ce8fe923e8a56cb7f2.jpg"
     },
     {
-      "headline": "রাজধানীতে তীব্র গ্যাস সংকট, যা বললো তিতাস",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/09/1202388",
-      "published_at": "2026-01-09T14:23:46+06:00",
-      "summary": "রাজধানীর আমিনবাজার এলাকায় তুরাগ নদীতে মালবাহী ট্রলারের আঘাতে গ্যাস বিতরণ পাইপলাইন ক্ষতিগ্রস্ত হয়েছে। এতে ঢাকা মহানগরী এলাকায় তীব্র গ্যাস সংকট দেখা দিয়েছে। ক্ষতিগ্রস্ত পাইপলাইন মেরামতের কাজ চলছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767947021-67469df6734be6a3092c2246ce2bf37b.jpg"
+      "headline": "ইউক্রেনে শক্তিশালী ‘ওরেশনিক’ ক্ষেপণাস্ত্র হামলা রাশিয়ার",
+      "url": "https://www.ittefaq.com.bd/769614/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%87-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%80-%E2%80%98%E0%A6%93%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BF%E0%A6%95%E2%80%99-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+      "published_at": null,
+      "summary": "রাশিয়া ও পশ্চিমা দেশগুলোর মধ্যে বিদ্যমান চরম উত্তেজনার মধ্যেই ইউক্রেনের জ্বালানি অবকাঠামো ও ড্রোন উৎপাদন কেন্দ্র লক্ষ্য করে শক্তিশালী হাইপারসনিক ‘ওরেশনিক’ ক্ষেপণাস্ত্র নিক্ষেপ করেছে মস্কো।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/51371c82c87a061a5ce270eb02363ebc-6960cc975c5cb.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
-      "headline": "শুধু তেল নয়, ভেনেজুয়েলার ভেতরে আছে আরও বড় চমক",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/09/1202384",
-      "published_at": "2026-01-09T13:58:01+06:00",
-      "summary": "বিশ্বের সবচেয়ে বড় তেলের মজুতের দেশ হিসেবে ভেনেজুয়েলাকে সাধারণত চেনা হলেও তেলের বাইরেও দেশটির মাটির নিচে রয়েছে বিপুল সম্পদ। খনিজ, প্রাকৃতিক গ্যাস, সোনা ও মূল্যবান ধাতুতে সমৃদ্ধ এই দেশ দীর্ঘদিন ধরেই বৈশ্বিক শক্তিগুলোর আগ্রহের কেন্দ্রবিন্দুতে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767945475-65d453a35cc684aed75aedd9548a8a7e.jpg"
+      "headline": "বিএনপি প্রার্থীর নির্বাচন পরিচালনা কমিটির প্রধান সমন্বয়কের গাড়িতে হামলার অভিযোগ",
+      "url": "https://www.ittefaq.com.bd/769613/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "দলীয় দোয়া মাহফিল শেষে চট্টগ্রাম-১৪ (চন্দনাইশ-সাতকানিয়া আংশিক) আসনে বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি) মনোনীত সংসদ সদস্য পদপ্রার্থী জসিম উদ্দীন আহমেদের নির্বাচন পরিচালনা কমিটির প্রধান সমন্বয়ক ও চন্দনাইশ উপজেলা বিএনপির সাবেক সাধারণ সম্পাদক এম এ হাশেম রাজুর গাড়িতে হামলার অভিযোগ উঠেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/95ff272ee406fd4bed568b270647e693-6960cc3d954a3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
-      "headline": "দায়িত্ব ছাড়ার পর জবাবদিহিতা দিতে সমস্যা নেই : উপদেষ্টা রিজওয়ানা",
-      "url": "https://www.bd-pratidin.com/national/2026/01/09/1202383",
-      "published_at": "2026-01-09T13:57:33+06:00",
-      "summary": "অন্তর্বর্তী সরকারের পরিবেশ, বন ও জলবায়ু পরিবর্তন, পানি সম্পদ এবং তথ্য ও সম্প্রচার মন্ত্রণালয়ের উপদেষ্টা সৈয়দা রিজওয়ানা হাসান দায়িত্ব ছাড়ার পর জবাবদিহিতা দিতে বা কাঠগড়ায় দাঁড়াতে সমস্যা নেই বলে মন্তব্য করেছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767945447-6f073de8244f0fb26d04a594828dc347.jpg"
+      "headline": "স্থায়ী কমিটির জরুরি বৈঠক ডেকেছেন তারেক রহমান",
+      "url": "https://www.ittefaq.com.bd/769612/%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95-%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমান দলের স্থায়ী কমিটির জরুরি বৈঠক ডেকেছেন। শুক্রবার (৯ জানুয়ারি) রাত সাড়ে ৯টায় গুলশানে বিএনপি চেয়ারপারসনের রাজনৈতিক কার্যালয়ে বৈঠকটি অনুষ্ঠিত হবে। দলটির স্থায়ী কমিটির সদস্য ড. খন্দকার মোশাররফ হোসেন এ তথ্য নিশিত করেছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/d23fbf48334d1dc766ea2f761c1aedab-6960cb9e985bc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "পেঁয়াজের ঝাঁজ কমলেও ভরা মৌসুমেও চড়া সবজি-মুরগির দাম",
@@ -433,27 +454,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/b31a3596a0ad8e5b572b99a1b2ed8256-6960b774c9972.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
-      "headline": "কুবিতে প্রথম আন্তর্জাতিক বিজ্ঞান সম্মেলন",
-      "url": "https://www.ittefaq.com.bd/769604/%E0%A6%95%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%A8",
-      "published_at": null,
-      "summary": "কুমিল্লা বিশ্ববিদ্যালয়ে (কুবি) শুরু হয়েছে প্রথম আন্তর্জাতিক বিজ্ঞান সম্মেলন। বিজ্ঞান অনুষদের উদ্যোগে আয়োজিত দুই দিনব্যাপী এ সম্মেলন ‘ইন্টারন্যাশনাল কনফারেন্স অন মাল্টিডিসিপ্লিনারি রিসার্চ ইন সায়েন্সেস (আইসিএমআরএস–২০২৬)’ আগামীকাল শেষ হবে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/fd86d8a6aa6f67e2e3721bdc6b38825c-6960b4cc1b4d4.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "সিরাজগঞ্জ-ঈশ্বরদী রেলপথের তিন স্থানে ফাটল, চলছে মেরামত কাজ",
-      "url": "https://www.ittefaq.com.bd/769603/%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%A6%E0%A7%80-%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AB%E0%A6%BE%E0%A6%9F%E0%A6%B2-%E0%A6%9A%E0%A6%B2%E0%A6%9B%E0%A7%87",
-      "published_at": null,
-      "summary": "সিরাজগঞ্জ ও পাবনার ঈশ্বরদী রেলপথের তিনটি স্থানে রেললাইনের সংযোগ অংশে ফাটল দেখা দিয়েছে। বৃহস্পতিবার সকাল ও রাতে এসব ফাটলের ঘটনা ঘটে। এর মধ্যে দুটি স্থানের ফাটল ইতোমধ্যে মেরামত করা হয়েছে, অপর একটি স্থানে মেরামত কাজ চলমান রয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/576324dbbf660612c700c73608dfe5c1-6960b2abb1f94.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "ইসিতে চলছে মনোনয়ন বাতিল ও গ্রহণের বিরুদ্ধে শেষ দিনের আপিল",
-      "url": "https://www.ittefaq.com.bd/769602/%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%9B%E0%A7%87-%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%93-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%B7",
-      "published_at": null,
-      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং অফিসার কর্তৃক মনোনয়নপত্র গ্রহণ ও বাতিলের আদেশের বিরুদ্ধে আপিল দায়েরের শেষ দিনের কার্যক্রম চলছে আজ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/f1457493bf9698b9ed4fd14ced6b49e6-6960b235755a2.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
       "headline": "জুলাই নায়কদের মিডিয়া ট্রায়াল",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/O8tQb7KQNxrA/",
       "published_at": null,
@@ -473,6 +473,48 @@
       "published_at": null,
       "summary": "১২ ফেব্রুয়ারির নির্বাচন বাংলাদেশের গণতান্ত্রিক পুনর্গঠনের সুযোগ, অথবা অতীতের ‘সূক্ষ্ম কারচুপির’ ছায়ার পুনরাবৃত্তি। ইতিহাস ও আন্তর্জাতিক অভিজ্ঞতা স্পষ্ট জানাচ্ছে, বৈধতা ছাড়া স্থিতিশীলতা টেকে না।",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "আসন্ন নির্বাচনে নির্বিঘ্নে ভোট দিতে পারবেন ভোটাররা",
+      "url": "https://dailynayadiganta.com/bangladesh/national/SD7cwIxDLsLK/",
+      "published_at": null,
+      "summary": "‘আসন্ন জাতীয় নির্বাচন একটি নিরপেক্ষ নির্দলীয় সরকারের অধীনে হতে যাচ্ছে। এখানে কেউ কাউকে ভোটদানে বাধা দিতে পারবে না।’",
+      "image_url": "https://media.ndiganta.com/original_images/phojl-kbr-khn.jpg"
+    },
+    {
+      "headline": "উখিয়ায় পাহাড় কাটতে গিয়ে মাটিচাপায় শ্রমিকের মৃত্যু",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/2T92JIkwTq1L/",
+      "published_at": null,
+      "summary": "ভোরের অন্ধকারে হঠাৎ পাহাড়ের একটি বড় অংশ ধসে পড়লে নুরুল আমিন মাটির নিচে সম্পূর্ণ চাপা পড়েন। সহকর্মীরা আতঙ্কে ঘটনাস্থল ত্যাগ করলেও পরে স্থানীয় লোকজন উদ্ধার কাজে নামেন। দীর্ঘ সময় চেষ্টা চালিয়ে তাকে উদ্ধার করা হলেও ততক্ষণে সব শেষ।",
+      "image_url": "https://media.ndiganta.com/original_images/Coxs-Bazar-Death-Landslide.jpg"
+    },
+    {
+      "headline": "ডুমুরিয়ায় বৈদ্যুতিক শর্ট সার্কিট থেকে আগুন, ১০ লাখ টাকার ক্ষতি",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/76vxv94Z4KDz/",
+      "published_at": null,
+      "summary": "বৃহস্পতিবার দিবাগত রাতে উপজেলার আংগারদহা গ্রামের বাসিন্দা গপিনাথ কুন্ডুর বাড়িতে এ ঘটনা ঘটে।",
+      "image_url": "https://media.ndiganta.com/original_images/fire-burning.jpg"
+    },
+    {
+      "headline": "তামিম ইকবালকে নিয়ে নেতিবাচক মন্তব্য বিসিবি পরিচালক নাজমুলের",
+      "url": "https://dailynayadiganta.com/sports/cricket/Ur4H6JztzjUX/",
+      "published_at": null,
+      "summary": "আবারো বিতর্কের মুখে তামিম ইকবাল। ভারতে বিশ্বকাপ খেলতে না যাওয়ায় বিসিবির ‘সমালোচনা’ করে প্রশ্নবিদ্ধ তিনি। অন্যদিকে এ ইস্যুতে তামিমকে নিয়ে কড়া মন্তব্য করে বসেছেন বিসিবির একজন পরিচালক। তাকে ‘ভারতীয় দালাল’ বলে সম্বোধন করেন তিনি।",
+      "image_url": "https://media.ndiganta.com/original_images/Tamim.JPG"
+    },
+    {
+      "headline": "আলেপ্পোয় সঙ্ঘর্ষের পর সিরিয়ার যুদ্ধবিরতি ঘোষণা",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/35bRAF8KSBrl/",
+      "published_at": null,
+      "summary": "আলেপ্পোয় শুক্রবার যুদ্ধবিরতি ঘোষণা করেছে সিরিয়ার প্রতিরক্ষা মন্ত্রণালয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Untitled-3_pyLycD9.gif"
+    },
+    {
+      "headline": "রাবিপ্রবির প্রকল্প পরিচালক বরখাস্ত, ক্যাম্পাসে অবস্থান ও অনুপ্রবেশ নিষেধ",
+      "url": "https://dailynayadiganta.com/bangladesh/education-campus/VLGdKNfY4AGc/",
+      "published_at": null,
+      "summary": "তার বিরুদ্ধে আইসিটি সংক্রান্ত অপরাধ, বিশ্ববিদ্যালয়ের শৃঙ্খলা বিরোধী কর্মকাণ্ডে জড়িত থাকা, প্রশাসনের বিরুদ্ধে অস্থিরতা সৃষ্টি, সাম্প্রদায়িক সম্প্রীতি বিনষ্ট এবং বিশ্ববিদ্যালয়ের সুনাম ক্ষুণ্ণ করার অভিযোগ আনা হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Rangamati_j6aOhpW.jpg"
     },
     {
       "headline": "ইরানে কাসেম সোলাইমানির ভাস্কর্য ভেঙে ফেলল বিক্ষোভকারীরা",
@@ -501,6 +543,86 @@
       "published_at": null,
       "summary": "বৃহস্পতিবার দিবাগত রাতে উপজেলার বড়বাইশদিয়া ইউনিয়নের কাটাখালী গ্রামে এ ঘটনা ঘটে।",
       "image_url": "https://media.ndiganta.com/original_images/Rangabali_yQ48SJV.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - January 09, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "মানসিক চাপ কিংবা উদ্বেগ হরমোনের ওপর যথেষ্ট প্রভাব ফেলে। সেই হরমোনের ভারসাম্য নষ্ট হলে আবার অন্ত্রের কাজকর্ম বিঘ্নিত হয়। ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "প্রায় ১১ বছর পর কেউ গোল করতে পারল না, ৬০০ তম ম্যাচে এসে নিশানা হারাল লিভারপুল",
+      "url": "https://www.prothomalo.com/sports/football/1ie6mswugb",
+      "published_at": "2026-01-09T06:30:11.873000+00:00",
+      "summary": "২০১৫ সালের আগস্টের পর প্রিমিয়ার লিগে আর্সেনাল ও লিভারপুলের মধ্যে এটি প্রথম গোলশূন্য ড্র ম্যাচ। পাশাপাশি ২০১০ সালের পর এই প্রথম লক্ষ্যে কোনো শট নিতে ব্যর্থ হলো লিভারপুল।",
+      "image_s3_key": "prothomalo-bangla/2026-01-09/ngakruzh/FBL-ENG-PR-ARSENAL-LIVERPOOL-211730.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/ngakruzh/FBL-ENG-PR-ARSENAL-LIVERPOOL-211730.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বাংলাদেশে অর্থনীতির গণতন্ত্রায়ণ কেন প্রয়োজন",
+      "url": "https://www.prothomalo.com/opinion/column/fcphk5ep7c",
+      "published_at": "2026-01-09T06:29:14.742000+00:00",
+      "summary": "কিন্তু সামাজিক সেবাগুলোতে অধিকারকে শুধু পরিমাণগত দিক থেকে দেখলে চলবে না, তাকে নিশ্চিত করতে হবে গুণগত দিক দিয়ে। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-09/4qavvymg/Untitled-2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/4qavvymg/Untitled-2.jpg?auto=format,compress"
+    },
+    {
+      "headline": "গ্রিনল্যান্ডে যুক্তরাষ্ট্র আক্রমণ করলে আগে গুলি করা হবে, পরে প্রশ্ন: ডেনমার্ক",
+      "url": "https://www.prothomalo.com/world/europe/tluaomb4df",
+      "published_at": "2026-01-09T06:22:18.493000+00:00",
+      "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প যখন ন্যাটোভুক্ত অঞ্চল গ্রিনল্যান্ড দখলে আবার চেষ্টা শুরু করেছেন, ঠিক তখনই ডেনমার্কের পক্ষ থেকে এই কড়া মন্তব্য এল।",
+      "image_s3_key": "prothomalo-bangla/2026-01-09/n5yagusb/Trump.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/n5yagusb/Trump.jpg?auto=format,compress"
+    },
+    {
+      "headline": "রাজধানীতে তীব্র গ্যাস সংকট, যা বললো তিতাস",
+      "url": "https://www.bd-pratidin.com/city-news/2026/01/09/1202388",
+      "published_at": "2026-01-09T14:23:46+06:00",
+      "summary": "রাজধানীর আমিনবাজার এলাকায় তুরাগ নদীতে মালবাহী ট্রলারের আঘাতে গ্যাস বিতরণ পাইপলাইন ক্ষতিগ্রস্ত হয়েছে। এতে ঢাকা মহানগরী এলাকায় তীব্র গ্যাস সংকট দেখা দিয়েছে। ক্ষতিগ্রস্ত পাইপলাইন মেরামতের কাজ চলছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767947021-67469df6734be6a3092c2246ce2bf37b.jpg"
+    },
+    {
+      "headline": "শুধু তেল নয়, ভেনেজুয়েলার ভেতরে আছে আরও বড় চমক",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/09/1202384",
+      "published_at": "2026-01-09T13:58:01+06:00",
+      "summary": "বিশ্বের সবচেয়ে বড় তেলের মজুতের দেশ হিসেবে ভেনেজুয়েলাকে সাধারণত চেনা হলেও তেলের বাইরেও দেশটির মাটির নিচে রয়েছে বিপুল সম্পদ। খনিজ, প্রাকৃতিক গ্যাস, সোনা ও মূল্যবান ধাতুতে সমৃদ্ধ এই দেশ দীর্ঘদিন ধরেই বৈশ্বিক শক্তিগুলোর আগ্রহের কেন্দ্রবিন্দুতে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767945475-65d453a35cc684aed75aedd9548a8a7e.jpg"
+    },
+    {
+      "headline": "দায়িত্ব ছাড়ার পর জবাবদিহিতা দিতে সমস্যা নেই : উপদেষ্টা রিজওয়ানা",
+      "url": "https://www.bd-pratidin.com/national/2026/01/09/1202383",
+      "published_at": "2026-01-09T13:57:33+06:00",
+      "summary": "অন্তর্বর্তী সরকারের পরিবেশ, বন ও জলবায়ু পরিবর্তন, পানি সম্পদ এবং তথ্য ও সম্প্রচার মন্ত্রণালয়ের উপদেষ্টা সৈয়দা রিজওয়ানা হাসান দায়িত্ব ছাড়ার পর জবাবদিহিতা দিতে বা কাঠগড়ায় দাঁড়াতে সমস্যা নেই বলে মন্তব্য করেছেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767945447-6f073de8244f0fb26d04a594828dc347.jpg"
+    },
+    {
+      "headline": "কুবিতে প্রথম আন্তর্জাতিক বিজ্ঞান সম্মেলন",
+      "url": "https://www.ittefaq.com.bd/769604/%E0%A6%95%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%A8",
+      "published_at": null,
+      "summary": "কুমিল্লা বিশ্ববিদ্যালয়ে (কুবি) শুরু হয়েছে প্রথম আন্তর্জাতিক বিজ্ঞান সম্মেলন। বিজ্ঞান অনুষদের উদ্যোগে আয়োজিত দুই দিনব্যাপী এ সম্মেলন ‘ইন্টারন্যাশনাল কনফারেন্স অন মাল্টিডিসিপ্লিনারি রিসার্চ ইন সায়েন্সেস (আইসিএমআরএস–২০২৬)’ আগামীকাল শেষ হবে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/fd86d8a6aa6f67e2e3721bdc6b38825c-6960b4cc1b4d4.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "সিরাজগঞ্জ-ঈশ্বরদী রেলপথের তিন স্থানে ফাটল, চলছে মেরামত কাজ",
+      "url": "https://www.ittefaq.com.bd/769603/%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%A6%E0%A7%80-%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AB%E0%A6%BE%E0%A6%9F%E0%A6%B2-%E0%A6%9A%E0%A6%B2%E0%A6%9B%E0%A7%87",
+      "published_at": null,
+      "summary": "সিরাজগঞ্জ ও পাবনার ঈশ্বরদী রেলপথের তিনটি স্থানে রেললাইনের সংযোগ অংশে ফাটল দেখা দিয়েছে। বৃহস্পতিবার সকাল ও রাতে এসব ফাটলের ঘটনা ঘটে। এর মধ্যে দুটি স্থানের ফাটল ইতোমধ্যে মেরামত করা হয়েছে, অপর একটি স্থানে মেরামত কাজ চলমান রয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/576324dbbf660612c700c73608dfe5c1-6960b2abb1f94.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "ইসিতে চলছে মনোনয়ন বাতিল ও গ্রহণের বিরুদ্ধে শেষ দিনের আপিল",
+      "url": "https://www.ittefaq.com.bd/769602/%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%9B%E0%A7%87-%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%93-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%B7",
+      "published_at": null,
+      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং অফিসার কর্তৃক মনোনয়নপত্র গ্রহণ ও বাতিলের আদেশের বিরুদ্ধে আপিল দায়েরের শেষ দিনের কার্যক্রম চলছে আজ।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/f1457493bf9698b9ed4fd14ced6b49e6-6960b235755a2.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "ঢাকা-চট্টগ্রাম মহাসড়কে চলন্ত বাসে আগুন, নিহত ৪",
@@ -536,20 +658,6 @@
       "published_at": null,
       "summary": "নির্বাচন কমিশন (ইসি) আশা করছে, নিবন্ধনকারী ৯০ শতাংশেরও বেশি প্রবাসী ভোটার এবার ভোট দেবেন।",
       "image_url": "https://media.ndiganta.com/original_images/postal-bd-Sylhet.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - January 09, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "ঢাকা বিশ্ববিদ্যালয়ের ২০২৫–২৬ শিক্ষাবর্ষে পিএইচডি প্রোগ্রামে (জানুয়ারি–জুন সেশন) ভর্তির জন্য নির্ধারিত ফরমে আবেদন আহ্বান করা হয়েছে। আগ্রহী প্রার্থীদের সংশ্লিষ্ট ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "এসএসসি পরীক্ষা ২০২৬- বাংলা ২য় পত্র: ভাষার ক্ষুদ্রতম একক হলো ধ্বনি",
@@ -1388,120 +1496,6 @@
       "summary": "চালের পাশাপাশি বেড়েছে ছোট দানার মসুর ও মুগ ডালের দাম। এ দুই ধরনের ডালের দাম কেজিতে ১৫ টাকা বেড়ে ১৬০ টাকা হয়েছে।",
       "image_s3_key": "prothomalo-bangla/2025-03-20/djswn8bx/589905776563c3d458223285152fcc79_59be35a2c195f.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-20/djswn8bx/589905776563c3d458223285152fcc79_59be35a2c195f.jpg?auto=format,compress"
-    },
-    {
-      "headline": "দানে গড়া বিস্ময় পাগলা মসজিদ",
-      "url": "https://www.prothomalo.com/bangladesh/district/il67hvhlb4",
-      "published_at": "2026-01-09T02:00:00+00:00",
-      "summary": "এক সময় ছিল টিনের চালা ও বেড়া। বর্তমানে মসজিদটি তিনতলা ভবনের। মূল ভবনের উত্তর-দক্ষিণে ১০০ ফুট ও পূর্ব-পশ্চিমে বারান্দা ছাড়া ৯২ ফুট দৈর্ঘ্য। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-05/uullg0gp/kishorgonj.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-05/uullg0gp/kishorgonj.jpg?auto=format,compress"
-    },
-    {
-      "headline": "পরবর্তী নিশানা হওয়ার ভয়েই কি নীরব পুতিন, নাকি গোপন সমঝোতা",
-      "url": "https://www.prothomalo.com/world/europe/bzwrk2etxc",
-      "published_at": "2026-01-09T02:00:00+00:00",
-      "summary": "বিশেষজ্ঞদের মতে, রাশিয়ার নেতা পুতিন ওয়াশিংটনের হস্তক্ষেপ থেকে সুবিধা নেওয়ার চেষ্টা করবেন। তবে তিনি উদ্বিগ্নও থাকবেন, হয়তো তাঁকেও নিশানা করা হতে পারে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-09/b9fk5g80/ChatGPT-Image-Jan-8-2026-041416-PM.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/b9fk5g80/ChatGPT-Image-Jan-8-2026-041416-PM.png?auto=format,compress"
-    },
-    {
-      "headline": "রাজধানী ঢাকায় আজ কোথায় কোন কর্মসূচি",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/09/1202332",
-      "published_at": "2026-01-09T10:00:50+06:00",
-      "summary": "রাজধানীসহ সারাদেশে প্রতিদিন নানা কর্মসূচি পালন করে সরকারের বিভিন্ন দফতর, সংস্থা, বিভিন্ন রাজনৈতিক দল ও অনেক সংগঠন। বিভিন্ন কর্মসূচির কারণে স্থবির হয়ে পড়ে নানা সড়ক।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767931244-7da15f6f03ff731a9aee7a67450e5322.jpg"
-    },
-    {
-      "headline": "আমার আন্তর্জাতিক আইনের প্রয়োজন নেই: ট্রাম্প",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/09/1202331",
-      "published_at": "2026-01-09T09:54:54+06:00",
-      "summary": "ভেনেজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরোকে অপহরণের পর বিশ্বজুড়ে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প আগ্রাসী নীতি অনুসরণ করছেন- এ প্রসঙ্গে তিনি আন্তর্জাতিক আইন প্রত্যাখ্যান করেছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767930887-d83bdcf70a886f74ae471201c2a62e04.jpg"
-    },
-    {
-      "headline": "আজ কেমন থাকবে ঢাকার আবহাওয়া",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/09/1202328",
-      "published_at": "2026-01-09T09:49:22+06:00",
-      "summary": "রাজধানী ঢাকা ও আশপাশের এলাকায় আজ শুক্রবার তাপমাত্রা পরিবর্তনের তেমন কোনো সম্ভাবনা নেই বলে জানিয়েছে আবহাওয়া অধিদপ্তর।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767930779-9cf0707e4a2492485b97865755e4d7c0.jpg"
-    },
-    {
-      "headline": "সেনাবাহিনীর সঙ্গে তীব্র সংঘর্ষ, সিরিয়ায় কারফিউ জারি",
-      "url": "https://www.ittefaq.com.bd/769578/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A7%8D%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AB%E0%A6%BF%E0%A6%89",
-      "published_at": null,
-      "summary": "সিরিয়ার আলেপ্পো শহরের একাধিক এলাকায় অনির্দিষ্টকালের জন্য কারফিউ জারি করেছে কর্তৃপক্ষ। দেশটির সেনাবাহিনী ও কুর্দি-নেতৃত্বাধীন সিরিয়ান ডেমোক্রেটিক ফোর্সেসের (এসডিএফ) মধ্যে সংঘর্ষ তীব্র আকার ধারণ করায় এই সিদ্ধান্ত নেওয়া হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/3aff7ef2dcfedc2afbaa093c2a47bea3-69607b2f59f2d.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "অ্যাটলেটিকোকে হারিয়ে সুপার কাপ ফাইনালে রিয়াল",
-      "url": "https://www.ittefaq.com.bd/769577/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%B2%E0%A7%87%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%8B%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%AA-%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2",
-      "published_at": null,
-      "summary": "নগর ডার্বিতে আধিপত্য দেখিয়ে স্প্যানিশ সুপার কাপের ফাইনালে উঠেছে রিয়াল মাদ্রিদ। সেমিফাইনালে অ্যাটলেটিকো মাদ্রিদকে ২-১ গোলে হারিয়ে শিরোপার লড়াইয়ে বার্সেলোনার মুখোমুখি হচ্ছে জাবি আলোনসোর শিষ্যরা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/09/6df213033eb214a0b62d17bebaa69649-69607a7c18cf4.png?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-    },
-    {
-      "headline": "নির্বাচনী আচরণ ভঙ্গের দায়ে ফরিদপুর-৪ আসনের জামায়াতের প্রার্থীকে শোকজ",
-      "url": "https://www.ittefaq.com.bd/769576/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%86%E0%A6%9A%E0%A6%B0%E0%A6%A3-%E0%A6%AD%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A7%87-%E0%A6%AB%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A7%AA-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে আচরণ বিধি ভঙ্গের দায়ে ফরিদপুর-৪ (ভাঙ্গা, সদরপুর ও চরভদ্রাসন) আসনের বাংলাদেশ জামায়াতে ইসলামীর প্রার্থী মাওলানা সরোয়ার হোসেনকে কারণ দর্শানো নোটিশ (শোকজ) দেওয়া হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/c8f05a35d7bc85df9dd8e01a9fc118cb-69607a47480ef.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "শুধু পুরুষ নয়, আগুনের সঙ্গে লড়াইয়ে নারী ফায়ার ফাইটাররা",
-      "url": "https://www.prothomalo.com/video/bangladesh/iai9wnwyr8",
-      "published_at": "2026-01-09T02:00:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-08/al3twrt3/THUMNAILWEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/al3twrt3/THUMNAILWEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ট্রাম্প কেন গ্রিনল্যান্ড দখল করতে চান",
-      "url": "https://www.prothomalo.com/opinion/column/aqis5d2eua",
-      "published_at": "2026-01-09T02:00:00+00:00",
-      "summary": "গ্রিনল্যান্ডে এখনো পুরোপুরি কাজে না লাগানো তেল ও গ্যাসের বিশাল ভান্ডার রয়েছে। বরফ গলে গেলে বিরল খনিজ সম্পদের উত্তোলন আরও সহজ হবে। এটি ভবিষ্যতের প্রযুক্তি ও অস্ত্রশিল্পের জন্য অপরিহার্য। যদি ট্রাম্পের আগ্রহ বিরল খনিজে হয়, তাহলে ডেনমার্ক ও গ্রিনল্যান্ড—উভয় পক্ষই অংশীদারিমূলক চুক্তির বিষয়ে আগ্রহ প্রকাশ করেছে। কিন্তু ট্রাম্প যে ভাগাভাগির পথে হাঁটছেন—তার কোনো লক্ষণ নেই।",
-      "image_s3_key": "prothomalo-bangla/2026-01-07/z45lu3ek/818675-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/z45lu3ek/818675-01-02.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ধর্মঘট প্রত্যাহার, কাটেনি এলপিজি সিলিন্ডার সংকট ",
-      "url": "https://www.prothomalo.com/bangladesh/tr37lm7s5v",
-      "published_at": "2026-01-09T01:27:00.295000+00:00",
-      "summary": "সরবরাহ কম থাকার সুযোগে ১ হাজার ৩০৬ টাকার এলপিজির সিলিন্ডার বিক্রি হচ্ছে আড়াই হাজার টাকায়ও বিক্রি হচ্ছে। বেশি দাম দিয়েও এলপিজি পাচ্ছেন না কেউ কেউ।",
-      "image_s3_key": "prothomalo-bangla/2026-01-08/5lpwsooj/Untitled-5.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/5lpwsooj/Untitled-5.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আজ টিভিতে যা দেখবেন (৯ জানুয়ারি ২০২৬)",
-      "url": "https://www.prothomalo.com/sports/iak3v0i36x",
-      "published_at": "2026-01-09T01:00:00+00:00",
-      "summary": "বিপিএলে আজ দুটি ম্যাচ। দিনের ম্যাচে মুখোমুখি রাজশাহী ও চট্টগ্রাম, রাতে নোয়াখালী ও রংপুর। শ্রীলঙ্কা-পাকিস্তান দ্বিতীয় টি-টোয়েন্টি আজ।\n",
-      "image_s3_key": "prothomalo-bangla/2026-01-08/7p93jgk6/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/7p93jgk6/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘সবচেয়ে বড় সংগ্রাম হলো প্রতিদিন নিজেকে টিকিয়ে রাখা’",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/ue3n2zuza5",
-      "published_at": "2026-01-09T01:00:00+00:00",
-      "summary": "নেটফ্লিক্সে সম্প্রতি মুক্তি পাওয়া কমেডি-ড্রামা ওয়েব সিরিজ সিঙ্গেল পাপা-তে চিকিৎসক শ্রেয়া আগারওয়ালের চরিত্রে অভিনয় করে দর্শকের নজর কেড়েছেন অভিনেত্রী আইশা আহমেদ। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-08/k1c4tf3i/bazaarindia16799775063068196166488054034366151541.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/k1c4tf3i/bazaarindia16799775063068196166488054034366151541.jpg?auto=format,compress"
-    },
-    {
-      "headline": "শিক্ষক নিয়োগ পরীক্ষা আজ : প্রশ্নপত্র ফাঁস ও ‘কেন্দ্র কন্ট্যাক্টের’ শঙ্কা",
-      "url": "https://www.prothomalo.com/chakri/chakri-news/08uzxhp30u",
-      "published_at": "2026-01-09T01:00:00+00:00",
-      "summary": "আজ পরীক্ষা বেলা ৩টায় শুরু হলেও পরীক্ষার্থীদের দুপুর ২টার মধ্যে কেন্দ্রে প্রবেশ করতে হবে। দুপুর ২টা ৩০ মিনিটে কেন্দ্রের প্রধান প্রবেশপথ বন্ধ করে দেওয়া হবে।",
-      "image_s3_key": "prothomalo-bangla/2023-07/06cc12f4-f72f-4e37-ac44-750b080c885c/08.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-07/06cc12f4-f72f-4e37-ac44-750b080c885c/08.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "জার্মানিতে তুষারঝড় ‘এল্লি’র দাপট, বিপর্যস্ত জনজীবন",
-      "url": "https://www.prothomalo.com/world/europe/dzzz1zy5yu",
-      "published_at": "2026-01-08T23:00:00+00:00",
-      "summary": "জার্মান রেল কর্তৃপক্ষ জানিয়েছে, উত্তর ও উত্তর-পূর্ব জার্মানিতে রেল চলাচলে বড় ধরনের বিঘ্ন ঘটতে পারে। কিছু উচ্চগতির লাইনে ট্রেন ধীরগতিতে চলবে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-08/qextygji/01.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/qextygji/01.jpg?auto=format,compress"
     }
   ]
 }
