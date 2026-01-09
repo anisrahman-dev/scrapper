@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-01-09T20:22:36.937323+00:00",
+  "fetched_at": "2026-01-09T20:48:20.395576+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "ইরানজুড়ে সরকারবিরোধী বিক্ষোভ ",
+        "url": "https://www.prothomalo.com/world/middle-east/9mdc5gaczn",
+        "published_at": "2026-01-09T20:25:40.664000+00:00",
+        "summary": "প্রায় দুই সপ্তাহ ধরে চলা এই বিক্ষোভের প্রতি সমর্থন জানিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তিনি ইরানে হামলার হুমকিও দিয়েছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-09/efl45sk7/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/efl45sk7/Capture.PNG?auto=format,compress"
+      },
+      {
+        "headline": "ইসরায়েল থেকে তিনটি ফ্লাইটে জরুরি ভিত্তিতে দূতাবাসের কর্মীদের সরিয়ে নিয়েছে রাশিয়া",
+        "url": "https://www.prothomalo.com/world/middle-east/j6uc4ak8w9",
+        "published_at": "2026-01-09T20:21:26.201000+00:00",
+        "summary": "রাশিয়া ও ইরানের সংবাদমাধ্যমের পৃথক প্রতিবেদনে বলা হয়েছে, জরুরি ভিত্তিতে এসব ফ্লাইট পরিচালনা করা হয়েছে। এতে সরকারি কর্মকর্তা এবং তাঁদের পরিবারের সদস্যরা ছিলেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-09/6lwfmckj/Untitled-2.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/6lwfmckj/Untitled-2.jpg?auto=format,compress"
+      },
       {
         "headline": "জাতীয় নারী শ্রমিক ট্রেড ইউনিয়ন কেন্দ্রের সভাপতি সাহিদা, সম্পাদক সুমনা",
         "url": "https://www.prothomalo.com/bangladesh/lfewo574f0",
@@ -307,22 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/mnp3knn1/GazipurDH.jpg?auto=format,compress"
       },
       {
-        "headline": "কালিয়াকৈরে ৩০০ মিটার এলাকাজুড়ে জায়গায় জায়গায় আগুন, এলাকায় আতঙ্ক",
-        "url": "https://www.prothomalo.com/bangladesh/district/s42f58pyow",
-        "published_at": "2026-01-09T15:25:06.971000+00:00",
-        "summary": "প্রায় তিন ঘণ্টা পর বিকেল চারটার দিকে ফায়ার সার্ভিসের একটি ইউনিট ঘটনাস্থলে গিয়ে আগুন নিয়ন্ত্রণে আনে। তবে সেখান থেকে এখনো গ্যাস বের হচ্ছে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-09/vn0gqd6k/GazipurDH0615.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/vn0gqd6k/GazipurDH0615.JPG?auto=format,compress"
-      },
-      {
-        "headline": "পশ্চিমবঙ্গ, আসামের ভোটের জন্য রাজনৈতিক কার্ড খেলা হয়েছে—বললেন সৈয়দ আশরাফুল",
-        "url": "https://www.prothomalo.com/sports/cricket/tyinobiggh",
-        "published_at": "2026-01-09T15:24:27.359000+00:00",
-        "summary": "বিসিবির সাবেক সাধারণ সম্পাদক মনে করেন, ভারত, বাংলাদেশ ও পাকিস্তানের মতো দেশগুলোতে রাজনীতিবিদেরা ক্রিকেটের দখল নিয়েছেন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-09/11ba5wsy/Mustafiz-during-practice4.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/11ba5wsy/Mustafiz-during-practice4.jpg?auto=format,compress"
-      },
-      {
         "headline": "নির্বাচন ঘিরে বিশৃঙ্খলা তৈরির চেষ্টা করলে কঠোর ব্যবস্থা : আদিলুর রহমান",
         "url": "https://www.bd-pratidin.com/national/2026/01/10/1202683",
         "published_at": "2026-01-10T01:29:20+06:00",
@@ -393,6 +393,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767966979-7151184986aed9f8f418938930271d37.jpg"
       },
       {
+        "headline": "দলের ‌‘সবুজ সংকেত’ পাওয়ার দাবি বিএনপির গিয়াস কাদেরের",
+        "url": "https://www.ittefaq.com.bd/769681/%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E2%80%8C%E2%80%98%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%9C-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A4%E2%80%99-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B8",
+        "published_at": null,
+        "summary": "চট্টগ্রামের রাউজান আসন থেকে আসন্ন সংসদ নির্বাচনে অংশ নিতে দলের ‘সবুজ সংকেত’ পাওয়ার দাবি করেছেন বিএনপি নেতা গিয়াস উদ্দিন কাদের চৌধুরী।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/10/45c8c4a6e58281e754526ca57c35540b-69616755c3e95.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "আমার নির্বাচনী প্রচারণায় ওসমান হাদির আসার কথা ছিল: ব্যারিস্টার ফুয়াদ",
         "url": "https://www.ittefaq.com.bd/769680/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A7%9F-%E0%A6%93%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%9B%E0%A6%BF%E0%A6%B2",
         "published_at": null,
@@ -454,13 +461,6 @@
         "published_at": null,
         "summary": "গাইবান্ধায় সরকারি প্রাথমিক বিদ্যালয়ের সহকারী শিক্ষক পদে নিয়োগ পরীক্ষায় ডিজিটাল ইলেকট্রানক্স ডিভাইস ব্যবহার ও মোবাইলের মাধ্যমে নকল করার অভিযোগে ৫২ জনকে আটক করা হয়েছে। এ সময় তাদের কাছ থেকে বেশকিছু ব্লুটুথ এবং মোবাইল ফোন জব্দ করা হয়।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/22d0fc45ceb70c28c88267b6549f7bd7-69612342bab7c.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "বরিশালে বিএনপির ১২ নেতাকর্মীর বহিষ্কারাদেশ প্রত্যাহার",
-        "url": "https://www.ittefaq.com.bd/769671/%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A7%A7%E0%A7%A8-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
-        "published_at": null,
-        "summary": "দলীয় শৃঙ্খলা ভঙ্গ এবং দলের নীতি ও আদর্শ পরিপন্থি কর্মকাণ্ডের অভিযোগে বহিষ্কৃত বরিশাল মহানগর বিএনপি ও মহিলা দলের বিভিন্ন পর্যায়ের ১২ জন নেতাকর্মীর বহিষ্কারাদেশ প্রত্যাহার করেছে বিএনপি। একইসঙ্গে তাদের প্রাথমিক সদস্যপদ ফিরিয়ে দেওয়া হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/8f5ba2bdd28110f6ff72cab8de8f67fa-6961239b27472.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "জুলাই নায়কদের মিডিয়া ট্রায়াল",
@@ -585,7 +585,7 @@
         "headline": "আজকের সর্বশেষ খবর - January 10, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "কিশোরগঞ্জ শহরের একটি আবাসিক হোটেলের ছয়জন ধারণক্ষমতাসম্পন্ন লিফটে বরসহ ১০ জন উঠে আটকা পড়ার ঘটনা ঘটেছে। খবর পেয়ে ফায়ার সার্ভিসের ...",
+        "summary": "তাহিরপুরে নূপুর চুরির অপবাদে তুলে নিয়ে দোকানঘরে বেঁধে রেখে শারীরিক নির্যাতনের মামলায় তরিকুল ইসলাম নামে আরও এক পলাতক আসামিকে গ্রেফতার ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -594,6 +594,29 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "কালিয়াকৈরে ৩০০ মিটার এলাকাজুড়ে জায়গায় জায়গায় আগুন, এলাকায় আতঙ্ক",
+        "url": "https://www.prothomalo.com/bangladesh/district/s42f58pyow",
+        "published_at": "2026-01-09T15:25:06.971000+00:00",
+        "summary": "প্রায় তিন ঘণ্টা পর বিকেল চারটার দিকে ফায়ার সার্ভিসের একটি ইউনিট ঘটনাস্থলে গিয়ে আগুন নিয়ন্ত্রণে আনে। তবে সেখান থেকে এখনো গ্যাস বের হচ্ছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-09/vn0gqd6k/GazipurDH0615.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/vn0gqd6k/GazipurDH0615.JPG?auto=format,compress"
+      },
+      {
+        "headline": "পশ্চিমবঙ্গ, আসামের ভোটের জন্য রাজনৈতিক কার্ড খেলা হয়েছে—বললেন সৈয়দ আশরাফুল",
+        "url": "https://www.prothomalo.com/sports/cricket/tyinobiggh",
+        "published_at": "2026-01-09T15:24:27.359000+00:00",
+        "summary": "বিসিবির সাবেক সাধারণ সম্পাদক মনে করেন, ভারত, বাংলাদেশ ও পাকিস্তানের মতো দেশগুলোতে রাজনীতিবিদেরা ক্রিকেটের দখল নিয়েছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-09/11ba5wsy/Mustafiz-during-practice4.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/11ba5wsy/Mustafiz-during-practice4.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বরিশালে বিএনপির ১২ নেতাকর্মীর বহিষ্কারাদেশ প্রত্যাহার",
+        "url": "https://www.ittefaq.com.bd/769671/%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A7%A7%E0%A7%A8-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+        "published_at": null,
+        "summary": "দলীয় শৃঙ্খলা ভঙ্গ এবং দলের নীতি ও আদর্শ পরিপন্থি কর্মকাণ্ডের অভিযোগে বহিষ্কৃত বরিশাল মহানগর বিএনপি ও মহিলা দলের বিভিন্ন পর্যায়ের ১২ জন নেতাকর্মীর বহিষ্কারাদেশ প্রত্যাহার করেছে বিএনপি। একইসঙ্গে তাদের প্রাথমিক সদস্যপদ ফিরিয়ে দেওয়া হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/8f5ba2bdd28110f6ff72cab8de8f67fa-6961239b27472.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "মুঠোফোন নিয়ে কেন্দ্রে পরীক্ষার্থী, ফেনীতে একজন বহিষ্কৃত",
@@ -1470,29 +1493,6 @@
         "published_at": null,
         "summary": "‘দেশনেত্রী বেগম খালেদা জিয়ার আন্দোলন-সংগ্রামী জীবন এতোই বিস্তৃত, বিশাল ও বর্ণাঢ্য যে একটা আলোকচিত্র প্রদর্শনীর মাধ্যমে তার জীবন সংগ্রাম কোনোভাবেই ধারণ করা সম্ভব নয়।’",
         "image_url": "https://media.ndiganta.com/original_images/Khaleda_Zia_yCCMAip.jpg"
-      },
-      {
-        "headline": "লালমনিরহাটে গভীর রাতে আ’লীগ নেতার বাড়িতে ওসির গোপন বৈঠক",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/SwZbN2VNY9kr/",
-        "published_at": null,
-        "summary": "বৃহস্পতিবার রাতে তার বাড়িতে ‘দাওয়াতের’ আড়ালে আওয়ামী লীগের অন্তত ছয়জন শীর্ষ নেতার উপস্থিতিতে একটি গোপন বৈঠক হয়। সেই বৈঠকে হাতীবান্ধা থানার ওসি শাহীন মোহাম্মদ আমানুল্লাহ উপস্থিত ছিলেন। স্থানীয়রা বিষয়টি বুঝতে পেরে বাড়ির সামনে জড়ো হতে শুরু করলে ওসি দ্রুত ঘটনাস্থল ত্যাগ করেন বলেও অভিযোগ উঠেছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Lalmonirhat-OC.jpg"
-      },
-      {
-        "headline": "অনেকে কেন বাথরুমেই স্ট্রোক করে",
-        "url": "https://www.prothomalo.com/lifestyle/health/zoghdx9n6w",
-        "published_at": "2026-01-09T12:00:00+00:00",
-        "summary": "কোন পরিস্থিতিতে বাথরুমে স্ট্রোক হতে পারে, কারা আছেন ঝুঁকিতে, আর সুস্থ থাকতে কী করবেন, জেনে নিন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-08/orx38zs8/210915khaled-Sarker0012.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/orx38zs8/210915khaled-Sarker0012.jpg?auto=format,compress"
-      },
-      {
-        "headline": "স্কলারশিপ, ক্যারিয়ারসহ বিভিন্ন তথ্য জানলেন আগ্রহীরা",
-        "url": "https://www.prothomalo.com/education/dlyvfofs0h",
-        "published_at": "2026-01-09T11:49:30.178000+00:00",
-        "summary": "আধুনিক গবেষণা সুবিধা, পড়াশোনার পাশাপাশি কাজের সুযোগ এবং গ্র্যাজুয়েশন শেষে আন্তর্জাতিক ক্যারিয়ার গড়ার বাস্তব সম্ভাবনার কারণেই অস্ট্রেলিয়া বর্তমানে সারা বিশ্বের শিক্ষার্থীদের অন্যতম পছন্দের দেশ।",
-        "image_s3_key": "prothomalo-bangla/2026-01-09/k3ninv0i/Executive-Study-AbroadImage.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/k3ninv0i/Executive-Study-AbroadImage.JPG?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -3046,6 +3046,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767966979-7151184986aed9f8f418938930271d37.jpg"
       },
       {
+        "headline": "দলের ‌‘সবুজ সংকেত’ পাওয়ার দাবি বিএনপির গিয়াস কাদেরের",
+        "url": "https://www.ittefaq.com.bd/769681/%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E2%80%8C%E2%80%98%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%9C-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A4%E2%80%99-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B8",
+        "published_at": null,
+        "summary": "চট্টগ্রামের রাউজান আসন থেকে আসন্ন সংসদ নির্বাচনে অংশ নিতে দলের ‘সবুজ সংকেত’ পাওয়ার দাবি করেছেন বিএনপি নেতা গিয়াস উদ্দিন কাদের চৌধুরী।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/10/45c8c4a6e58281e754526ca57c35540b-69616755c3e95.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "আমার নির্বাচনী প্রচারণায় ওসমান হাদির আসার কথা ছিল: ব্যারিস্টার ফুয়াদ",
         "url": "https://www.ittefaq.com.bd/769680/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A7%9F-%E0%A6%93%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%9B%E0%A6%BF%E0%A6%B2",
         "published_at": null,
@@ -3107,13 +3114,6 @@
         "published_at": null,
         "summary": "সন্ত্রাসীদের গুলিতে নিহত ঢাকা মহানগর উত্তরের স্বেচ্ছাসেবক দলের সাবেক সাধারণ সম্পাদক আজিজুর রহমান মুসাব্বিরের পরিবারের সঙ্গে কথা বলে সমবেদনা জানিয়েছেন বিএনপির স্থায়ী কমিটির সদস্য সালাহউদ্দিন আহমদ।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/babc8e6c8f759c3beac39b13e4e68eb9-6961004bad957.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "জামায়াতের লোক কখনও হিন্দুদের বাড়ি দখল করে না: গোলাম পরওয়ার",
-        "url": "https://www.ittefaq.com.bd/769648/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%95%E0%A6%96%E0%A6%A8%E0%A6%93-%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%A6%E0%A6%96%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BE",
-        "published_at": null,
-        "summary": "বাংলাদেশ জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার বলেছেন, জামায়াত ক্ষমতায় এলে সংখ্যালঘু হিন্দু সম্প্রদায়ের ধর্ম, সংস্কৃতি কিংবা নাগরিক অধিকার ক্ষুণ্ন হবে, এমন প্রচারণা সম্পূর্ণ মিথ্যা ও বিভ্রান্তিকর। ইসলামের সুশাসন প্রতিষ্ঠিত হলে তা হিন্দু-মুসলমান নির্বিশেষে সবার ঘরে কল্যাণ বয়ে আনবে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/a8ee73d90c9a63395c4f91533302dd0e-6960ffdf4b091.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "অ্যাপোলো হাসপাতালে লাইফ সাপোর্টে ওবায়দুল কাদের",
@@ -3198,6 +3198,13 @@
         "published_at": null,
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন-২০২৬ উপলক্ষে জাতীয় নির্বাচন পরিচালনা কমিটি পুনর্গঠন করেছে বাংলাদেশ জামায়াতে ইসলামী। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "জামায়াতের লোক কখনও হিন্দুদের বাড়ি দখল করে না: গোলাম পরওয়ার",
+        "url": "https://www.ittefaq.com.bd/769648/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A7%8B%E0%A6%95-%E0%A6%95%E0%A6%96%E0%A6%A8%E0%A6%93-%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%A6%E0%A6%96%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+        "published_at": null,
+        "summary": "বাংলাদেশ জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার বলেছেন, জামায়াত ক্ষমতায় এলে সংখ্যালঘু হিন্দু সম্প্রদায়ের ধর্ম, সংস্কৃতি কিংবা নাগরিক অধিকার ক্ষুণ্ন হবে, এমন প্রচারণা সম্পূর্ণ মিথ্যা ও বিভ্রান্তিকর। ইসলামের সুশাসন প্রতিষ্ঠিত হলে তা হিন্দু-মুসলমান নির্বিশেষে সবার ঘরে কল্যাণ বয়ে আনবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/09/a8ee73d90c9a63395c4f91533302dd0e-6960ffdf4b091.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "খালেদা জিয়া উপমহাদেশের অবিসংবাদিত নেতা: শামা ওবায়েদ",
@@ -4367,16 +4374,25 @@
         "published_at": "2026-01-08T15:44:18+06:00",
         "summary": "দুবৃত্তের গুলিতে নিহত ঢাকা মহানগর উত্তর স্বেচ্ছাসেবক দলের সাবেক সাধারণ সম্পাদক আজিজুর রহমান মুসাব্বিরের নামাজে জানাজা অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/08/og/1767865452-7973d0bea049b07cfbbe8c44473e63cf.jpg"
-      },
-      {
-        "headline": "ট্রাফিক আইন লঙ্ঘনে ডিএমপির ২১৭৩ মামলা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/08/1201997",
-        "published_at": "2026-01-08T15:23:45+06:00",
-        "summary": "রাজধানী ঢাকার বিভিন্ন এলাকায় ট্রাফিক আইন লঙ্ঘনকারীদের বিরুদ্ধে অভিযান পরিচালনা করে ২১৭৩টি মামলা করেছে ঢাকা মেট্রোপলিটন পুলিশ ডিএমপির ট্রাফিক বিভাগ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/08/og/1767864217-c0e8d4e5ba2a23a7eec3a49b06988229.jpg"
       }
     ],
     "world": [
+      {
+        "headline": "ইরানজুড়ে সরকারবিরোধী বিক্ষোভ ",
+        "url": "https://www.prothomalo.com/world/middle-east/9mdc5gaczn",
+        "published_at": "2026-01-09T20:25:40.664000+00:00",
+        "summary": "প্রায় দুই সপ্তাহ ধরে চলা এই বিক্ষোভের প্রতি সমর্থন জানিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তিনি ইরানে হামলার হুমকিও দিয়েছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-09/efl45sk7/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/efl45sk7/Capture.PNG?auto=format,compress"
+      },
+      {
+        "headline": "ইসরায়েল থেকে তিনটি ফ্লাইটে জরুরি ভিত্তিতে দূতাবাসের কর্মীদের সরিয়ে নিয়েছে রাশিয়া",
+        "url": "https://www.prothomalo.com/world/middle-east/j6uc4ak8w9",
+        "published_at": "2026-01-09T20:21:26.201000+00:00",
+        "summary": "রাশিয়া ও ইরানের সংবাদমাধ্যমের পৃথক প্রতিবেদনে বলা হয়েছে, জরুরি ভিত্তিতে এসব ফ্লাইট পরিচালনা করা হয়েছে। এতে সরকারি কর্মকর্তা এবং তাঁদের পরিবারের সদস্যরা ছিলেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-09/6lwfmckj/Untitled-2.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/6lwfmckj/Untitled-2.jpg?auto=format,compress"
+      },
       {
         "headline": "তুষারঝড় ‘এল্লি’তে অচল জার্মানি",
         "url": "https://www.prothomalo.com/world/europe/bgk68eyifm",
@@ -4682,22 +4698,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/fbqjjc92/Tehran-Iran.webp?auto=format,compress"
       },
       {
-        "headline": "পার্থক্যটা বুঝুন স্যারজি: ট্রাম্পের আক্রমণের পর নিশ্চুপ মোদিকে রাহুলের কটাক্ষ",
-        "url": "https://www.prothomalo.com/world/india/1ho8soycel",
-        "published_at": "2026-01-08T09:22:20.922000+00:00",
-        "summary": "রাহুল গান্ধী পোস্টে লিখেছেন, ‘আমি এই বিজেপি-আরএসএসের লোকদের এখন খুব ভালো করে চিনি। এঁদের ওপর সামান্য চাপ দিন, একটু ধাক্কা দিন, অমনি এঁরা ভয়ে পালিয়ে যান।’",
-        "image_s3_key": "prothomalo-bangla/2024-06/6d0699ba-7688-4b37-b864-f71f94c546e2/Election__Modi_Gandhi_.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-06/6d0699ba-7688-4b37-b864-f71f94c546e2/Election__Modi_Gandhi_.jpg?auto=format,compress"
-      },
-      {
-        "headline": "সহিংস দাঙ্গাকারী নাকি নিরস্ত্র—যুক্তরাষ্ট্রে গুলি করে নারীকে হত্যার ঘটনায় তীব্র বিতর্ক",
-        "url": "https://www.prothomalo.com/world/usa/zc5azzi268",
-        "published_at": "2026-01-08T09:00:23.131000+00:00",
-        "summary": "মার্কিন প্রশাসনের দাবি, রেনি একজন ‘সহিংস দাঙ্গাকারী’ ছিলেন এবং ইমিগ্রেশন অ্যান্ড কাস্টমস এনফোর্সমেন্ট কর্মকর্তাদের ওপর গাড়ি চালিয়ে দেওয়ার চেষ্টা করেছিলেন তিনি।",
-        "image_s3_key": "prothomalo-bangla/2026-01-08/qwuk60m0/MSM7UBQT5FN2VANLOZXZWHEJX4.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/qwuk60m0/MSM7UBQT5FN2VANLOZXZWHEJX4.avif?auto=format,compress"
-      },
-      {
         "headline": "নির্বাচন ঘিরে বিশৃঙ্খলা তৈরির চেষ্টা করলে কঠোর ব্যবস্থা : আদিলুর রহমান",
         "url": "https://www.bd-pratidin.com/national/2026/01/10/1202683",
         "published_at": "2026-01-10T01:29:20+06:00",
@@ -4976,6 +4976,22 @@
         "published_at": "1767962699",
         "summary": "ভারত ও যুক্তরাষ্ট্রের মধ্যে বাণিজ্যিক সম্পর্কের এক নতুন দিগন্ত উন্মোচিত হতে হতেও শেষ পর্যন্ত তা থমকে গেছে। দুই দেশ যখন একটি ঐতিহাসিক বাণিজ্য চুক্তির দোরগোড়ায় দাঁড়িয়ে ছিল, ঠিক তখনই নাটকীয়ভাবে সবকিছু ওলটপালট হয়ে যায়।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-24-20260109124459.jpg"
+      },
+      {
+        "headline": "পার্থক্যটা বুঝুন স্যারজি: ট্রাম্পের আক্রমণের পর নিশ্চুপ মোদিকে রাহুলের কটাক্ষ",
+        "url": "https://www.prothomalo.com/world/india/1ho8soycel",
+        "published_at": "2026-01-08T09:22:20.922000+00:00",
+        "summary": "রাহুল গান্ধী পোস্টে লিখেছেন, ‘আমি এই বিজেপি-আরএসএসের লোকদের এখন খুব ভালো করে চিনি। এঁদের ওপর সামান্য চাপ দিন, একটু ধাক্কা দিন, অমনি এঁরা ভয়ে পালিয়ে যান।’",
+        "image_s3_key": "prothomalo-bangla/2024-06/6d0699ba-7688-4b37-b864-f71f94c546e2/Election__Modi_Gandhi_.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-06/6d0699ba-7688-4b37-b864-f71f94c546e2/Election__Modi_Gandhi_.jpg?auto=format,compress"
+      },
+      {
+        "headline": "সহিংস দাঙ্গাকারী নাকি নিরস্ত্র—যুক্তরাষ্ট্রে গুলি করে নারীকে হত্যার ঘটনায় তীব্র বিতর্ক",
+        "url": "https://www.prothomalo.com/world/usa/zc5azzi268",
+        "published_at": "2026-01-08T09:00:23.131000+00:00",
+        "summary": "মার্কিন প্রশাসনের দাবি, রেনি একজন ‘সহিংস দাঙ্গাকারী’ ছিলেন এবং ইমিগ্রেশন অ্যান্ড কাস্টমস এনফোর্সমেন্ট কর্মকর্তাদের ওপর গাড়ি চালিয়ে দেওয়ার চেষ্টা করেছিলেন তিনি।",
+        "image_s3_key": "prothomalo-bangla/2026-01-08/qwuk60m0/MSM7UBQT5FN2VANLOZXZWHEJX4.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/qwuk60m0/MSM7UBQT5FN2VANLOZXZWHEJX4.avif?auto=format,compress"
       },
       {
         "headline": "ট্রাম্প গ্রিনল্যান্ড নিয়ন্ত্রণে নিতে সামরিক অভিযান চালালে ন্যাটো কী করবে ",
@@ -5824,20 +5840,6 @@
         "published_at": "2026-01-09T08:38:36+06:00",
         "summary": "যুদ্ধবিরতি চুক্তি লঙ্ঘন করে দক্ষিণ গাজায় ইসরায়েলি ড্রোন হামলায় তিন ফিলিস্তিনি নিহত হয়েছেন। স্থানীয় জরুরি সেবা বিভাগের বরাতে বৃহস্পতিবার তুরস্কের রাষ্ট্রীয় সংবাদমাধ্যম আনাদোলু এজেন্সি এ খবর জানিয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767926310-2b49ad5811c46ec007cc7122759d14bb.jpg"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্রে খালেদা জিয়ার নামে সড়ক",
-        "url": "https://www.bd-pratidin.com/national/2026/01/09/1202299",
-        "published_at": "2026-01-09T01:41:00+06:00",
-        "summary": "যুক্তরাষ্ট্রের মিশিগান অঙ্গরাজ্যে বাংলাদেশের তিনবারের সাবেক প্রধানমন্ত্রী ও বিএনপি চেয়ারপারসন বেগম খালেদা জিয়ার নামে একটি সড়কের নামকরণ করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767901257-3febb6c1da798cbb51814725479c1a0a.jpg"
-      },
-      {
-        "headline": "বিএনপির বিদ্রোহীদের বিরুদ্ধে সাংগঠনিক ব্যবস্থা",
-        "url": "https://www.bd-pratidin.com/election/2026/01/09/1202290",
-        "published_at": "2026-01-09T00:59:57+06:00",
-        "summary": "বিএনপির জাতীয় স্থায়ী কমিটির সদস্য সালাহউদ্দিন আহমদ বলেছেন, পতিত ফ্যাসিবাদী শক্তি দেশের গণতান্ত্রিক যাত্রা ব্যাহত করতে আইনশৃঙ্খলা পরিস্থিতির অবনতি ঘটাচ্ছে। তবে এসব বিচ্ছিন্ন ঘটনা নির্বাচনে কোনো প্রভাব ফেলবে না। সব রাজনৈতিক দলই নির্বাচনের বিষয়ে প্রতিশ্রুতিবদ্ধ। শেষ পর্যন্ত সফলভাবেই নির্বাচন অনুষ্ঠিত হবে, ইনশাআল্লাহ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/09/og/1767898792-c7ca2fb151ef0e4c399aa41843add01f.jpg"
       }
     ],
     "business": [
@@ -9371,18 +9373,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-13-20260104103628.jpg"
       },
       {
-        "headline": "সালমান ছেড়ে দেওয়ায় চলচ্চিত্রে সুযোগ পান শাহরুখ",
-        "url": "https://www.amarsangbad.com/entertainment/news/333996",
-        "published_at": "1767700308",
-        "summary": "বলিউড ইতিহাসের দুই কালজয়ী সিনেমা ‘বাজিগর’ ও ‘দেবদাস’। এই সিনেমাগুলো শাহরুখ খানকে পৌঁছে দিয়েছে খ্যাতির শিখরে। তবে অবাক করা তথ্য হলো, এই দুটি ব্লকবাস্টার সিনেমার জন্যই নির্মাতাদের প্রথম পছন্দ ছিলেন সালমান খান। কিন্তু সালমান ফিরিয়ে দেওয়ায় সুযোগটি লুফে নেন কিং খান।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-20-20260106115148.jpg"
-      },
-      {
         "headline": "বলিউড সিনেমায় যাত্রা শুরু কল্যাণীর",
         "url": "https://www.amarsangbad.com/entertainment/news/334001",
         "published_at": "1767701556",
         "summary": "দক্ষিণী সিনেমার জনপ্রিয় মুখ কল্যাণী প্রিয়দর্শন এবার পা রাখতে চলেছেন বলিউডের রুপালি পর্দায়। প্রখ্যাত নির্মাতা প্রিয়দর্শনের কন্যা হিসেবে পরিচিতি থাকলেও নিজ অভিনয় দক্ষতা দিয়েই তিনি ভারতের চলচ্চিত্র জগতে নিজের শক্ত অবস্থান তৈরি করেছেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-21-20260106121236.jpg"
+      },
+      {
+        "headline": "সালমান ছেড়ে দেওয়ায় চলচ্চিত্রে সুযোগ পান শাহরুখ",
+        "url": "https://www.amarsangbad.com/entertainment/news/333996",
+        "published_at": "1767700308",
+        "summary": "বলিউড ইতিহাসের দুই কালজয়ী সিনেমা ‘বাজিগর’ ও ‘দেবদাস’। এই সিনেমাগুলো শাহরুখ খানকে পৌঁছে দিয়েছে খ্যাতির শিখরে। তবে অবাক করা তথ্য হলো, এই দুটি ব্লকবাস্টার সিনেমার জন্যই নির্মাতাদের প্রথম পছন্দ ছিলেন সালমান খান। কিন্তু সালমান ফিরিয়ে দেওয়ায় সুযোগটি লুফে নেন কিং খান।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-20-20260106115148.jpg"
       },
       {
         "headline": "নতুন চমক নিয়ে ফিরছেন মিমি চক্রবর্তী",
@@ -16631,8 +16633,8 @@
       {
         "headline": "মোবাইল বাজারে ‘নকল’ আতঙ্ক৪ কোটি ডিভাইসের আইএমইআই জালিয়াতি ও ডিজিটাল নিরাপত্তার চরম ঝুঁকি",
         "url": "https://www.amarsangbad.com/science-and-technology/news/333551",
-        "published_at": null,
-        "summary": null,
+        "published_at": "1767369656",
+        "summary": "বাংলাদেশের টেলিযোগাযোগ খাতের ইতিহাসে এক নজিরবিহীন ও ভয়াবহ তথ্য প্রকাশ্যে এসেছে। ন্যাশনাল ইকুইপমেন্ট আইডেন্টিটি রেজিস্টার বা এনইআইআর চালুর পর দেখা যাচ্ছে, দেশের মোবাইল নেটওয়ার্কে সচল থাকা লাখ লাখ হ্যান্ডসেটের আইএমইআই নম্বর ভুয়া, ক্লোন করা অথবা একই নম্বর দিয়ে কয়েক কোটি ডিভাইস চলছে। এই ভয়াবহ জালিয়াতির তথ্য দিয়েছেন প্রধান উপদেষ্টার ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়ের বিশেষ সহকারী ফয়েজ আহমদ তৈয়্যব।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/mobaileeee-20260102160056.jpg"
       },
       {
