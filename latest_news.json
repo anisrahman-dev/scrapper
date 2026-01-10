@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-10T20:19:31.880391+00:00",
+  "fetched_at": "2026-01-10T20:45:36.134111+00:00",
   "stories": [
+    {
+      "headline": "কঠোর হওয়ার ইঙ্গিত খামেনির, ট্রাম্প বলছেন পরিস্থিতি বিপজ্জনক",
+      "url": "https://www.prothomalo.com/world/middle-east/7ez3nm6jnl",
+      "published_at": "2026-01-10T20:23:16.749000+00:00",
+      "summary": "ইরানি কর্তৃপক্ষ গতকাল শনিবার বিক্ষোভ দমনে আরও কঠোর হওয়ার ইঙ্গিত দিয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-10/4sr97nvj/3.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/4sr97nvj/3.PNG?auto=format,compress"
+    },
     {
       "headline": "শৈত্যপ্রবাহ থাকবে, তবে তাপমাত্রা বাড়তে পারে ",
       "url": "https://www.prothomalo.com/bangladesh/vlj19vezwq",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/fqmav688/1080.00061223.Still001.jpg?auto=format,compress"
     },
     {
-      "headline": "২৫তম ঢালিউড ফিল্ম অ্যান্ড মিউজিক অ্যাওয়ার্ড, পুরস্কার পেলেন যাঁরা",
-      "url": "https://www.prothomalo.com/entertainment/nqb6u6r87u",
-      "published_at": "2026-01-10T15:17:29.503000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-10/455twfbh/60946341919793484563198113526241733754539651n.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/455twfbh/60946341919793484563198113526241733754539651n.png?auto=format,compress"
-    },
-    {
       "headline": "মোটরসাইকেল কিনলে দুটি হেলমেট ফ্রি দেওয়া বাধ্যতামূলক হচ্ছে: বিআরটিএ চেয়ারম্যান",
       "url": "https://www.bd-pratidin.com/national/2026/01/11/1203127",
       "published_at": "2026-01-11T01:24:18+06:00",
@@ -376,6 +376,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768059045-6258503c0eee9d9f5847e82827711570.jpg"
     },
     {
+      "headline": "চবি: ৯ ঘণ্টা অবরুদ্ধ থাকার পর ছাড়া পেলেন সেই শিক্ষক",
+      "url": "https://www.ittefaq.com.bd/769807/%E0%A6%9A%E0%A6%AC%E0%A6%BF-%E0%A7%AF-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%85%E0%A6%AC%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%87",
+      "published_at": null,
+      "summary": "চট্টগ্রাম বিশ্ববিদ্যালয়ের স্নাতক প্রথম বর্ষের ভর্তি পরীক্ষার দায়িত্ব পালন করতে আসা এক শিক্ষককে শারীরিক হেনস্তার পর টেনেহিঁচড়ে প্রক্টর ও সহ–উপাচার্যের কার্যালয়ে নিয়ে ৯ ঘণ্টা অবরুদ্ধ করে রাখার পর ছেড়ে দেওয়া হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/9d3dc81e5e8d15a8fb0961de1feedf1d-6962b24221d11.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "নতুন করে শুরুর সম্ভাবনা নিয়ে আলোচনা করতে চাই: মাহফুজ আলম",
       "url": "https://www.ittefaq.com.bd/769804/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%87",
       "published_at": null,
@@ -437,13 +444,6 @@
       "published_at": null,
       "summary": "সিলেটে আগামী ২২ জানুয়ারি হযরত শাহজালাল (রহ.)-এর মাজার জিয়ারতের মাধ্যমে নির্বাচনী প্রচারণা শুরু করবেন বিএনপির চেয়ারম্যান তারেক রহমান।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/10/e6d7fbcae6075b9327d4c9272ee31b29-69628103356e9.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "নারায়ণগঞ্জে বিএনপির দুপক্ষের তুমুল সংঘর্ষ",
-      "url": "https://www.ittefaq.com.bd/769796/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%A3%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%B2-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7",
-      "published_at": null,
-      "summary": "নারায়ণগঞ্জের ফতুল্লায় প্রভাব বিস্তারকে কেন্দ্র করে বিএনপির অঙ্গ সংগঠনের দুই পক্ষের মধ্যে ব্যাপক সংঘর্ষের ঘটনা ঘটেছে। এসময় দুপক্ষের অন্তত ১০ জন আহতের খবর পাওয়া গেছে। সংঘর্ষ চলাকালে একের পর এক বিস্ফোরণের শব্দ শোনা গেছে বলে জানিয়েছেন স্থানীয়রা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/10/b61146c4e8028f92ca81f47dda134eb2-696278d4981c3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "জুলাই নায়কদের মিডিয়া ট্রায়াল",
@@ -575,7 +575,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 11, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "সাবেক তথ্য উপদেষ্টা মাহফুজ আলম বলেছেন, তারা সাধারণ মানুষের ক্ষোভ, হতাশা ও নীরবতা যেমন শুনতে চান, তেমনি নিজেদের করা ব্যক্তিগত ...",
+      "summary": "এই প্রশ্ন আসে ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কির মন্তব্যের কয়েক দিনের মধ্যে। জেলেনস্কি মাদুরোর ঘটনা উল্লেখ করে বলেন, ‘যদি যুক্তরাষ্ট্র স্বৈরশাসকদের ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -584,6 +584,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "২৫তম ঢালিউড ফিল্ম অ্যান্ড মিউজিক অ্যাওয়ার্ড, পুরস্কার পেলেন যাঁরা",
+      "url": "https://www.prothomalo.com/entertainment/nqb6u6r87u",
+      "published_at": "2026-01-10T15:17:29.503000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-10/455twfbh/60946341919793484563198113526241733754539651n.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/455twfbh/60946341919793484563198113526241733754539651n.png?auto=format,compress"
+    },
+    {
+      "headline": "নারায়ণগঞ্জে বিএনপির দুপক্ষের তুমুল সংঘর্ষ",
+      "url": "https://www.ittefaq.com.bd/769796/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A6%A3%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%B2-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7",
+      "published_at": null,
+      "summary": "নারায়ণগঞ্জের ফতুল্লায় প্রভাব বিস্তারকে কেন্দ্র করে বিএনপির অঙ্গ সংগঠনের দুই পক্ষের মধ্যে ব্যাপক সংঘর্ষের ঘটনা ঘটেছে। এসময় দুপক্ষের অন্তত ১০ জন আহতের খবর পাওয়া গেছে। সংঘর্ষ চলাকালে একের পর এক বিস্ফোরণের শব্দ শোনা গেছে বলে জানিয়েছেন স্থানীয়রা।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/10/b61146c4e8028f92ca81f47dda134eb2-696278d4981c3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "উৎসবের নাম ‘বই বিনিময়’, সংগ্রহের বই জমা দিয়ে মিলল আরেকটি",
@@ -1479,20 +1494,6 @@
       "summary": "উরুগুয়ের হোসে ইগনাসিও সৈকতে ছুটির আনন্দের মধ্যে ভয়ংকর এক অভিজ্ঞতার মুখোমুখি হতে হয়েছে আর্জেন্টিনার সাবেক ডিফেন্ডার মার্টিন দেমিচেলিস ও তাঁর পরিবারকে।",
       "image_s3_key": "prothomalo-bangla/2026-01-10/4j47chx4/610882709179757680969679777331954889624790955n.webp",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/4j47chx4/610882709179757680969679777331954889624790955n.webp?auto=format,compress"
-    },
-    {
-      "headline": "ডেঙ্গু আক্রান্ত হয়ে হাসপাতালে ভর্তি ৩১",
-      "url": "https://www.bd-pratidin.com/dengue-update/2026/01/10/1202926",
-      "published_at": "2026-01-10T19:25:05+06:00",
-      "summary": "ডেঙ্গু জ্বরে আক্রান্ত হয়ে গত ২৪ ঘণ্টায় সময়ে সারাদেশে ৩১ জন রোগী বিভিন্ন হাসপাতালে ভর্তি হয়েছেন। তবে এ সময়ে কারও মৃত্যু হয়নি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768051497-a0ab815e2950dd902f6243bab20ac9c3.jpg"
-    },
-    {
-      "headline": "শহরের কেন্দ্রগুলো দখলে রাখুন, ইরানে ফেরার প্রস্তুতি নিচ্ছি: রেজা পাহলভি",
-      "url": "https://www.ittefaq.com.bd/769773/%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%A6%E0%A6%96%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A7%81%E0%A6%A8-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%B0",
-      "published_at": null,
-      "summary": "ইরানিদের আরও লক্ষ্যভিত্তিক বিক্ষোভে নামার আহ্বান জানিয়ে যুক্তরাষ্ট্রে অবস্থানরত ইরানের অপসারিত শাহের ছেলে রেজা পাহলভি বলেছেন, ‘আমাদের লক্ষ্য এখন আর শুধু রাস্তায় নামা নয়। লক্ষ্য হলো শহরের কেন্দ্রগুলো দখল ও ধরে রাখার প্রস্তুতি নেওয়া।’",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/10/9b4b1f7c40cee3e1d79cf64ccb8a49e1-69624b0a11fae.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     }
   ]
 }
