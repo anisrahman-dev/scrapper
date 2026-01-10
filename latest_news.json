@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-10T18:25:08.729598+00:00",
+  "fetched_at": "2026-01-10T18:53:32.561534+00:00",
   "stories": [
+    {
+      "headline": "কোনো কোনো রিটার্নিং কর্মকর্তার আচরণ আমাদের চিন্তিত করেছে: চরমোনাই পীর",
+      "url": "https://www.prothomalo.com/politics/x4s2pp8viy",
+      "published_at": "2026-01-10T18:39:17.692000+00:00",
+      "summary": "ইসলামী আন্দোলন বাংলাদেশের আমির সৈয়দ মুহাম্মাদ রেজাউল করীম বলেন, অবৈধ অস্ত্র উদ্ধারে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর তৎপরতাও আশাব্যঞ্জক নয়।",
+      "image_s3_key": "prothomalo-bangla/2026-01-10/wb7rvxb9/IAB.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/wb7rvxb9/IAB.jpeg?auto=format,compress"
+    },
     {
       "headline": "শামসুর রাহমান ও আল মাহমুদকে আলাদা ফ্রেমে দেখা বিপজ্জনক",
       "url": "https://www.prothomalo.com/bangladesh/m1sm4oikjd",
@@ -234,7 +242,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-08/d3f3a1ac-f84d-4ece-8cd1-78826f079081/8.jpg?auto=format,compress"
     },
     {
-      "headline": "মসজিদের কাছে আর যানবাহনে আগুন দিয়ে বিক্ষোভ হচ্ছে ইরানে",
+      "headline": "ইরানের বিভিন্ন জায়গায় দাউ দাউ করে জ্বলছে আগুন",
       "url": "https://www.prothomalo.com/video/international/d6n6gtn1wk",
       "published_at": "2026-01-10T15:19:53.783000+00:00",
       "summary": null,
@@ -298,12 +306,18 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/xz4zdwhx/WhatsApp-Image-2026-01-10-at-8.38.28-PM.jpeg?auto=format,compress"
     },
     {
-      "headline": "এ বছর পছন্দের তালিকায় রাখতে পারেন যে বইগুলো",
-      "url": "https://www.prothomalo.com/onnoalo/others/enkvv33wqi",
-      "published_at": "2026-01-10T15:00:00+00:00",
-      "summary": "২০২৬ সালে পাঠকদের জন্য বেশ কিছু আকর্ষণীয় বই আসছে। এখানে কল্পকাহিনি ও নন-ফিকশন মিলিয়ে কিছু গুরুত্বপূর্ণ বইয়ের তালিকা দেওয়া হলো।",
-      "image_s3_key": "prothomalo-bangla/2026-01-10/7519va1j/1200x630wz.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/7519va1j/1200x630wz.png?auto=format,compress"
+      "headline": "প্রস্তুত নয় জাতীয় সংসদ ভবন",
+      "url": "https://www.bd-pratidin.com/national/2026/01/11/1203119",
+      "published_at": "2026-01-11T00:37:30+06:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের বাকি আর মাত্র ৩১ দিন। সবকিছু ঠিক থাকলে এর পরই শুরু হবে সংসদ অধিবেশন। কিন্তু এখনো পুরোপুরি প্রস্তুত নয় জাতীয় সংসদ সচিবালয়। চলছে সংস্কার কাজ। সংশ্লিষ্টরা মিটিংয়ের পর মিটিং করছেন। বাজেট নিয়ে রয়েছে অপ্রতুলতা। অন্যদিকে সংস্কারের বড় একটি অংশের কাজ করছে গণপূর্ত বিভাগ। কাজের অগ্রগতি নিয়ে গণপূর্ত ও সংসদ সচিবালয়ের মধ্যে চলছে টানাপোড়েন। ২০২৪ সালের ৫ আগস্ট ছাত্র-জনতার অভ্যুত্থানে ভবনের অভ্যন্তরে চালানো ব্যাপক ভাঙচুর ও ক্ষয়ক্ষতির চিহ্ন এখনো দৃশ্যমান।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768070382-53e97da4954081320d879897875830e1.jpg"
+    },
+    {
+      "headline": "এফএ কাপের চতুর্থ রাউন্ডে হামজার লেস্টার সিটি",
+      "url": "https://www.bd-pratidin.com/sports/2026/01/11/1203118",
+      "published_at": "2026-01-11T00:30:20+06:00",
+      "summary": "দীর্ঘদিন পর নিজের পছন্দের পজিশন ডিফেন্সিভ মিডফিল্ডে ফিরে দুর্দান্ত পারফরম্যান্স উপহার দিয়েছেন হামজা চৌধুরী। বাংলাদেশি এই ফুটবলারের নেতৃত্ব ও নিয়ন্ত্রিত খেলায় শেল্টেনহাম টাউনকে হারিয়ে এফএ কাপের চতুর্থ রাউন্ডে জায়গা করে নিয়েছে লেস্টার সিটি। শনিবার (১০ জানুয়ারি) তৃতীয় রাউন্ডের ম্যাচে প্রতিপক্ষকে ২-০ গোলে পরাজিত করে দলটি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768069813-26d350537f675c77d697486572ac75be.jpg"
     },
     {
       "headline": "আপিলের প্রথম দিনে প্রার্থিতা ফিরে পেলেন যারা",
@@ -360,20 +374,6 @@
       "published_at": "2026-01-10T21:15:24+06:00",
       "summary": "আগামী ২২ জানুয়ারি (বৃহস্পতিবার) সিলেট সফরে যাবেন বাংলাদেশ জাতীয়তাবাদী দলের (বিএনপি) চেয়ারম্যান তারেক রহমান। সেখানে হযরত শাহজালাল (র.)-এর মাজার জিয়ারতের মধ্য দিয়ে ত্রয়োদশ জাতীয় সংসদ নির্বাচনের প্রচারণা শুরু করবেন তিনি।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768058114-7b96e52f6eff38335331346693e54f6f.jpg"
-    },
-    {
-      "headline": "তারেক রহমানের সঙ্গে জমিয়তে ওলামায়ে ইসলাম ও ইসলামী ঐক্যজোট নেতাদের সাক্ষাৎ",
-      "url": "https://www.bd-pratidin.com/national/2026/01/10/1202965",
-      "published_at": "2026-01-10T20:57:43+06:00",
-      "summary": "বিএনপির চেয়ারম্যান তারেক রহমানের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন জমিয়তে ওলামায়ে ইসলাম বাংলাদেশ এবং ইসলামী ঐক্যজোট নেতৃবৃন্দ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768057056-c3a1a1c603c4e3044e34c4c8b2593c24.jpg"
-    },
-    {
-      "headline": "সিংড়ায় খালেদা জিয়ার রুহের মাগফিরাত কামনায় দোয়া মাহফিল",
-      "url": "https://www.bd-pratidin.com/country/2026/01/10/1202951",
-      "published_at": "2026-01-10T20:13:39+06:00",
-      "summary": "নাটোরের সিংড়ায় সাবেক প্রধানমন্ত্রী ও বিএনপির চেয়ারপারসন বেগম খালেদা জিয়ার রুহের মাগফিরাত কামনায় দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768054409-7246dd9f82d7c71814197d2697767ed3.jpg"
     },
     {
       "headline": "মোটরসাইকেল কিনলে দুটি হেলমেট ফ্রি দেওয়া বাধ্যতামূলক হচ্ছে: বিআরটিএ চেয়ারম্যান",
@@ -460,11 +460,60 @@
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
-      "headline": "অনড় অবস্থানে বাংলাদেশ, ভারতের সাথে মিটিংয়ে বসছে আইসিসি",
-      "url": "https://dailynayadiganta.com/sports/cricket/SgvTJz6yuBVg/",
+      "headline": "সাগরকন্যার অ্যাডভেঞ্চার",
+      "url": "https://dailynayadiganta.com/printed-edition/wiR4AFpZpC7m/",
       "published_at": null,
-      "summary": "এ নিয়ে আইসিসির সাথে চিঠি চালাচালিও করেছে বিসিবি। নিরাপত্তার কারণে বিশ্বকাপের আরেক আয়োজক শ্রীলঙ্কায় ম্যাচ সরিয়ে নিতে চায় বাংলাদেশ। তবে এখনো সমাধান আসেনি এই সমস্যার।",
-      "image_url": "https://media.ndiganta.com/original_images/ICC_and_BCB_logos.png"
+      "summary": "কিন্তু তার বুকের ভেতরের পৃথিবীটা অশান্ত ও অস্থির, যেন থমকে আছে বড় কোনো ঝড়ের অপেক্ষায়। লাউতান সিংহের  ক্রোধ এবং ত্রিশূলের আঘাতে তার প্রিয় জিনিসগুলো ভেঙে ফেলার দৃশ্য তার মনে বারবার ভেসে উঠছে। সেই ভাঙা টুকরোগুলো যেন মেরিন্তারাকে বলছে, ‘বদলা নাও...  তোমার কৌতূহলী মনকে মুক্তি দাও।’",
+      "image_url": "https://media.ndiganta.com/original_images/nittodin-1_SlvOw7B.jpg"
+    },
+    {
+      "headline": "ঢাকা ইন্টারন্যাশনাল ইউনিভার্সিটিতে ৫টি বিভাগের নবীণ বরণ অনুষ্ঠিত",
+      "url": "https://dailynayadiganta.com/printed-edition/kV5D0pzTSPUM/",
+      "published_at": null,
+      "summary": "ঢাকা ইন্টারন্যাশনাল ইউনিভার্সিটির ছাত্র-শিক্ষক মিলনায়তনে গত ৯ জানুয়ারি ব্যবসায় প্রশাসন, আইন, সমাজবিজ্ঞান, রাষ্ট্রবিজ্ঞান এবং বায়োকেমিস্ট্রি অ্যান্ড মলিকুলার বায়োলজি বিভাগের নবাগত শিক্ষার্থীদের নবীণ বরণ অনুষ্ঠান অনুষ্ঠিত হয়। ওই অনুষ্ঠানে প্রধান অতিথি ছিলেন বোর্ড অব ট্রাস্টিজের চেয়ারম্যান ব্যারিস্টার শামীম হায়দার পাটোয়ারী।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "২০২৬ সালের এসএসসি পরীক্ষার প্রস্তুতি : পদার্থবিজ্ঞান",
+      "url": "https://dailynayadiganta.com/printed-edition/jLTlUgw2Pfpo/",
+      "published_at": null,
+      "summary": "সিনিয়র শিক্ষক, সরকারি বিজ্ঞান কলেজ সংযুক্ত হাইস্কুল, তেজগাঁও, ঢাকা।",
+      "image_url": "https://media.ndiganta.com/original_images/sy3.jpg"
+    },
+    {
+      "headline": "এইচএসসি পরীক্ষার প্রস্তুতি : হিসাববিজ্ঞান প্রথম পত্র",
+      "url": "https://dailynayadiganta.com/printed-edition/Bj1wkFYExzor/",
+      "published_at": null,
+      "summary": "সুপ্রিয় এইচএসসি পরীক্ষার শিক্ষার্থী বন্ধুরা, শুভেচ্ছা নিও। আজ তোমাদের হিসাববিজ্ঞান প্রথম পত্র  বিষয়ের ‘প্রথম অধ্যায় : হিসাববিজ্ঞান পরিচিতি’ থেকে আরো  ১২টি বহুনির্বাচনী প্রশ্ন ও উত্তর নিয়ে আলোচনা করা হলো।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "এসএসসি পরীক্ষার প্রস্তুতি :বাংলা প্রথম পত্র",
+      "url": "https://dailynayadiganta.com/printed-edition/m4nYY4T2nIAP/",
+      "published_at": null,
+      "summary": "সিনিয়র শিক্ষক (বাংলা বিভাগ), বনানী বিদ্যানিকেতন স্কুল অ্যান্ড কলেজ, বনানী, ঢাকা।",
+      "image_url": "https://media.ndiganta.com/original_images/sy-2_tgDfhsc.jpg"
+    },
+    {
+      "headline": "এসএসসি পরীক্ষার প্রস্তুতি : রসায়ন",
+      "url": "https://dailynayadiganta.com/printed-edition/ehif2O3UWSok/",
+      "published_at": null,
+      "summary": "সহকারী শিক্ষক, ঝিট্কা আনন্দ মোহন উচ্চবিদ্যালয়, হরিরামপুর, মানিকগঞ্জ।",
+      "image_url": "https://media.ndiganta.com/original_images/sy-1_mq2ZZcw.jpg"
+    },
+    {
+      "headline": "বিয়ে করলেন অভিনেতা পার্থ শেখ",
+      "url": "https://dailynayadiganta.com/printed-edition/W20iP2Ysit2O/",
+      "published_at": null,
+      "summary": "ছোট পর্দার জনপ্রিয় অভিনেতা পার্থ শেখ বিয়ে করেছেন। দীর্ঘদিনের প্রেমিকা সামিহা রহমানের সাথে জীবনের নতুন অধ্যায় শুরু করেছেন তিনি। পার্থ ও সামিহার বিয়ের বিষয়টি গণমাধ্যমকে নিশ্চিত করেছেন নির্মাতা রাফাত মজুমদার রিংকু। সামাজিক যোগাযোগমাধ্যমে নবদম্পতির একটি ছবি প্রকাশ করে তিনি শুভকামনা জানিয়েছেন। ছবির ক্যাপশনে নির্মাতা লিখেছেন, ‘নতুন জীবন সুন্দর হোক পার্থ শেখ।’",
+      "image_url": "https://media.ndiganta.com/original_images/bino-5_C9qCr0W.jpg"
+    },
+    {
+      "headline": "‘বাবার চোখে জল’ নাটকে সেলিম-শাহেদ",
+      "url": "https://dailynayadiganta.com/printed-edition/iImEFv03zQUm/",
+      "published_at": null,
+      "summary": "শহীদুজ্জামান সেলিম ও শাহেদ শরীফ খানকে নিয়ে গুণী নির্মাতা মাইনুল হাসান খোকন নির্মাণ করেছেন বিশেষ নাটক ‘বাবার চোখে জল’। নাটকটি রচনা করেছেন সুস্ময় সুমন। এরই মধ্যে নাটকটির নির্মাণ কাজ শেষে হয়েছে। নাটকটিতে আরো অভিনয় করেছেন মায়মুনা মম, আঁখি ও প্রিন্স। নাটকটিতে অভিনয় প্রসঙ্গে শাহেদ শরীফ খান বলেন, ‘সেলিম ভাই আমাদের দেশের নাট্যাঙ্গনের অত্যন্ত গুণী এবং জনপ্রিয় একজন অভিনেতা। অনেকেই তাকে শক্তিমান অভিনেতা হিসেবেও আখ্যা দিয়ে থাকেন। তিনি বহু নাটকে বাবার চরিত্রে অভিনয় করেছেন। বাবার চোখে জল নাটকে তিনি কতটা ভালো অভিনয় করেছেন তা দর্শকই ভালো বলতে পারবেন। কারণ সেলিম ভাইয়ের অভিনয় কেমন তা সবাই বেশ ভালো অবগত। সত্যি বলতে কী, সেলিম ভাইতো আসলে মঞ্চের অভিনেতা, তাই যখন যে চরিত্রটিতে অভিনয় করেন একদম নিখুঁতভাবেই তা করার চেষ্টা করেন। এর আগেও সেলিম ভাইয়ের সাথে বহু নাটকে অভিনয় করেছি। প্রতিনিয়তই তার কাছ থেকে শেখার অনেক কিছু আছে। আমি নাটকে তার সন্তানের চরিত্রে অভিনয় করেছি। চেষ্টা করেছি আমার চরিত্রটি ঠিকঠাক মতো ফুটিয়ে তুলতে। নির্মাতা মাইনুল হাসান খোকন ভীষণ শ্রম দিয়ে, বেশ সচেতনভাবেই নাটকটি নির্মাণের চেষ্টা করেছেন। আশা করছি প্রচারে এলে ভালোলাগবে দর্শকের।’ আগামী ১৬ জানুয়ারি নাটকটি চ্যানেল আইতে প্রচার হবে বলে জানান শাহেদ শরীফ খান।",
+      "image_url": "https://media.ndiganta.com/original_images/bino-4_b73srLl.jpg"
     },
     {
       "headline": "জাগপা মুখপাত্র রাশেদ প্রধানের প্রার্থিতা বৈধ ঘোষণা",
@@ -526,7 +575,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 11, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "শনিবার (১০ জানুয়ারি) বিকালে বিষয়টি নিশ্চিত করেছেন ১৬ আর্মড পুলিশ ব্যাটালিয়নের অধিনায়ক অতিরিক্ত ডিআইজি মোঃ কাউছার সিকদার। শুক্রবার মধ্যরাতে টেকনাফের ...",
+      "summary": "বিশ্বকাপে বাংলাদেশের অংশগ্রহণ নিয়ে তৈরি হওয়া অনিশ্চয়তার প্রেক্ষাপটে দেওয়া মন্তব্যের কারণে সমালোচনার মুখে পড়েছেন তামিম ইকবাল। তার বক্তব্যের পর বিসিবি ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -535,6 +584,35 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "এ বছর পছন্দের তালিকায় রাখতে পারেন যে বইগুলো",
+      "url": "https://www.prothomalo.com/onnoalo/others/enkvv33wqi",
+      "published_at": "2026-01-10T15:00:00+00:00",
+      "summary": "২০২৬ সালে পাঠকদের জন্য বেশ কিছু আকর্ষণীয় বই আসছে। এখানে কল্পকাহিনি ও নন-ফিকশন মিলিয়ে কিছু গুরুত্বপূর্ণ বইয়ের তালিকা দেওয়া হলো।",
+      "image_s3_key": "prothomalo-bangla/2026-01-10/7519va1j/1200x630wz.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/7519va1j/1200x630wz.png?auto=format,compress"
+    },
+    {
+      "headline": "তারেক রহমানের সঙ্গে জমিয়তে ওলামায়ে ইসলাম ও ইসলামী ঐক্যজোট নেতাদের সাক্ষাৎ",
+      "url": "https://www.bd-pratidin.com/national/2026/01/10/1202965",
+      "published_at": "2026-01-10T20:57:43+06:00",
+      "summary": "বিএনপির চেয়ারম্যান তারেক রহমানের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন জমিয়তে ওলামায়ে ইসলাম বাংলাদেশ এবং ইসলামী ঐক্যজোট নেতৃবৃন্দ।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768057056-c3a1a1c603c4e3044e34c4c8b2593c24.jpg"
+    },
+    {
+      "headline": "সিংড়ায় খালেদা জিয়ার রুহের মাগফিরাত কামনায় দোয়া মাহফিল",
+      "url": "https://www.bd-pratidin.com/country/2026/01/10/1202951",
+      "published_at": "2026-01-10T20:13:39+06:00",
+      "summary": "নাটোরের সিংড়ায় সাবেক প্রধানমন্ত্রী ও বিএনপির চেয়ারপারসন বেগম খালেদা জিয়ার রুহের মাগফিরাত কামনায় দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768054409-7246dd9f82d7c71814197d2697767ed3.jpg"
+    },
+    {
+      "headline": "অনড় অবস্থানে বাংলাদেশ, ভারতের সাথে মিটিংয়ে বসছে আইসিসি",
+      "url": "https://dailynayadiganta.com/sports/cricket/SgvTJz6yuBVg/",
+      "published_at": null,
+      "summary": "এ নিয়ে আইসিসির সাথে চিঠি চালাচালিও করেছে বিসিবি। নিরাপত্তার কারণে বিশ্বকাপের আরেক আয়োজক শ্রীলঙ্কায় ম্যাচ সরিয়ে নিতে চায় বাংলাদেশ। তবে এখনো সমাধান আসেনি এই সমস্যার।",
+      "image_url": "https://media.ndiganta.com/original_images/ICC_and_BCB_logos.png"
     },
     {
       "headline": "কত গোল করেছেন নিজেও জানেন না ঋতুপর্ণা চাকমা",
@@ -1411,90 +1489,6 @@
       "summary": "স্যার, আপনে নির্বাচন থেইকা সইরা দাঁড়াইলেন ক্যান?",
       "image_s3_key": "prothomalo-bangla/2026-01-10/rihl0czp/1905ET2.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/rihl0czp/1905ET2.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ছায়ানটে শুদ্ধসংগীত উৎসব: রাগে রাগে ভোর থেকে দুপুর",
-      "url": "https://www.prothomalo.com/entertainment/song/8x0h3ch592",
-      "published_at": "2026-01-10T11:38:07.629000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-10/avs09qtu/IMG0771.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/avs09qtu/IMG0771.JPG?auto=format,compress"
-    },
-    {
-      "headline": "সৌদি ও পাকিস্তানের সঙ্গে প্রতিরক্ষা চুক্তিতে যুক্ত হওয়ার চেষ্টা করছে তুরস্ক, তাতে কার কী লাভ",
-      "url": "https://www.prothomalo.com/world/middle-east/7jpwy9ge2u",
-      "published_at": "2026-01-10T11:30:00+00:00",
-      "summary": "মার্কিন সংবাদমাধ্যমের প্রতিবেদনে বলা হয়েছে, তুরস্ক, সৌদি আরব এবং পাকিস্তানের মধ্যকার আলোচনা ‘অগ্রগতির’ পর্যায়ে রয়েছে এবং চুক্তি হওয়ার সম্ভাবনা খুব বেশি।  ",
-      "image_s3_key": "prothomalo-bangla/2026-01-10/hjz3z65p/Saudi-Pakistan.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/hjz3z65p/Saudi-Pakistan.jpg?auto=format,compress"
-    },
-    {
-      "headline": "৫০০ শতাংশ শুল্কের হুমকি দিলেন ট্রাম্প, কী করবে ভারত",
-      "url": "https://www.prothomalo.com/business/analysis/pjuydbypc0",
-      "published_at": "2026-01-10T11:22:41.720000+00:00",
-      "summary": "এ বিলের নাম ‘রাশিয়ান স্যাংশনস বিল’ বা রাশিয়া নিষেধাজ্ঞা বিল। ধারণা করা হচ্ছে, এই বিল পাস হলে ভারত ও চীনের মতো দেশগুলোর ওপর আমেরিকা চাপ তৈরি করার সুযোগ পাবে। ",
-      "image_s3_key": "prothomalo/import/media/2019/08/09/0f5f3287e2fb1581f63e84d7f1cf850e-5d4d3661a8a47.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo/import/media/2019/08/09/0f5f3287e2fb1581f63e84d7f1cf850e-5d4d3661a8a47.jpg?auto=format,compress"
-    },
-    {
-      "headline": "তিতাসের সরবরাহ শুরু, গ্যাসের প্রবাহ বাড়তে কয়েক ঘণ্টা সময় লাগবে",
-      "url": "https://www.prothomalo.com/bangladesh/capital/m6t7oax5bk",
-      "published_at": "2026-01-10T11:08:37.238000+00:00",
-      "summary": "মিরপুর রোডে ফেটে যাওয়া ভালভ পরিবর্তন করে নতুন ভালভ বসানো হয়েছে। এরপর ওই এলাকার পাইপলাইনে গ্যাস সরবরাহ শুরু করেছে তিতাস।",
-      "image_s3_key": "prothomalo-bangla/2024-08/9dbd102d-20fa-4ad2-b0a8-861b59715750/gas burning-04.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08/9dbd102d-20fa-4ad2-b0a8-861b59715750/gas burning-04.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আগ্নেয়গিরির অগ্ন্যুত্পাতে তৈরি হয়েছে ৩০০ ফুট উঁচু ‘লাভা টাওয়ার’",
-      "url": "https://www.prothomalo.com/lifestyle/travel/d9jil78lg4",
-      "published_at": "2026-01-10T11:06:07.559000+00:00",
-      "summary": "সকালে লাভা টাওয়ারের দিকে চলার সময় একটা চড়াই পার করে ভেবেছি এই বুঝি গন্তব্যে পৌঁছে গেছি। কিন্তু তারপরই সামনে আরেকটা দিগন্তছোঁয়া পাহাড় এসে সামনে দাঁড়ায়। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-10/1ft521eo/লাভা-টাওয়ার.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/1ft521eo/লাভা-টাওয়ার.jpg?auto=format,compress"
-    },
-    {
-      "headline": "যুক্তরাষ্ট্র কি পুতিনকে তুলে নেওয়ার নির্দেশ দেবে, জবাবে কী বলছেন ট্রাম্প",
-      "url": "https://www.prothomalo.com/world/usa/pl4lqocrsx",
-      "published_at": "2026-01-10T11:04:45.131000+00:00",
-      "summary": "যুক্তরাষ্ট্র পুতিনের ক্ষেত্রেও মাদুরোর মতো একই কাজ করতে পারে বলে জেলেনস্কি ইঙ্গিত করার কয়েক দিনের মাথায় ট্রাম্পকে এমন প্রশ্নের সম্মুখীন হতে হলো।",
-      "image_s3_key": "prothomalo-bangla/2026-01-10/u42rrjpu/Putin.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/u42rrjpu/Putin.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রোহিঙ্গা আশ্রয়শিবিরে দুটি ‘সন্ত্রাসী’ দলের গোলাগুলি, যুবক নিহত",
-      "url": "https://www.prothomalo.com/bangladesh/district/nr806bvdw7",
-      "published_at": "2026-01-10T11:00:46.771000+00:00",
-      "summary": " মো. সাইফুল ইসলাম বলেন, আশ্রয়শিবিরের আধিপত্য বিস্তারকে কেন্দ্র করে দুটি সন্ত্রাসী বাহিনীর মধ্যে গোলাগুলির ঘটনা ঘটেছে। এ সময় গুলিতে নুর কামাল নামের এক সন্ত্রাসীর মৃত্যু হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2025-12-17/0cfhy13p/91ecb9c529875cc7d1095c12c3782bbf_5e456ef96bde9.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-17/0cfhy13p/91ecb9c529875cc7d1095c12c3782bbf_5e456ef96bde9.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সিরাজগঞ্জে কলেজ শিক্ষার্থী হত্যা, আরও এক কিশোর গ্রেফতার",
-      "url": "https://www.bd-pratidin.com/country/2026/01/10/1202924",
-      "published_at": "2026-01-10T19:23:28+06:00",
-      "summary": "সিরাজগঞ্জ শহরে বৈষম্য বিরোধী ছাত্র আন্দোলনের নেতা কলেজছাত্র আব্দুর রহমান রিয়াদকে কুপিয়ে হত্যা মামলায় আরোও এক কিশোরকে গ্রেফতার করেছে পুলিশ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768051400-2bb790be2b7b2a36a095a6fe55cd98a6.jpg"
-    },
-    {
-      "headline": "ট্রাম্পের আচরণে ক্ষোভ : ক্রমেই জোরালো ফিফা বিশ্বকাপ বর্জনের ডাক",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/10/1202921",
-      "published_at": "2026-01-10T19:16:52+06:00",
-      "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের সাম্প্রতিক আচরণ ও নীতিগত অবস্থানের পরিপ্রেক্ষিতে যুক্তরাষ্ট্র, কানাডা ও মেক্সিকোতে অনুষ্ঠিতব্য আসন্ন ‘ফিফা ওয়ার্ল্ড কাপ’ বর্জনের ডাক ক্রমশ জোরালো হচ্ছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768051001-4ace5b127f48fb93969c867e3c263e26.jpg"
-    },
-    {
-      "headline": "ব্রাহ্মণবাড়িয়ায় দু’দল গ্রামবাসীর সংঘর্ষে আহত ৩০",
-      "url": "https://www.bd-pratidin.com/country/2026/01/10/1202919",
-      "published_at": "2026-01-10T19:07:10+06:00",
-      "summary": "ব্রাহ্মণবাড়িয়ার সরাইল উপজেলায় আধিপত্য বিস্তার ও বাল্কহেড নৌ পরিবহন মালিক সমবায় সমিতির কমিটি নিয়ে বিরোধের জের ধরে দু’দল গ্রামবাসীর মধ্যে সংঘর্ষ হয়েছে। শনিবার (১০ জানুয়ারি) দুপুরে উপজেলার অরুয়াইল ইউনিয়নের রানীদিয়া গ্রামে এই সংঘর্ষের ঘটনা ঘটে। এতে উভয়পক্ষের কমপক্ষে ৩০ জন আহত হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768050423-0c437c3ac77d1770124f3b43798c2e0e.jpg"
-    },
-    {
-      "headline": "সিংড়ায় মাটিবাহী ট্রাক্টরের চাপায় শিশুর মৃত্যু",
-      "url": "https://www.bd-pratidin.com/country/2026/01/10/1202916",
-      "published_at": "2026-01-10T19:00:40+06:00",
-      "summary": "নাটোরের সিংড়া উপজেলার রামানন্দ খাজুরা ইউনিয়নের সিঁকিচড়া উত্তরপাড়ায় মাটিবাহী ট্রাক্টরের নিচে চাপা পড়ে সিফাত (৭) নামে এক শিশুর মৃত্যু হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768050029-84e517cdee20e86b8abc5a4924cc66d1.jpg"
     }
   ]
 }
