@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-11T22:17:47.137682+00:00",
+  "fetched_at": "2026-01-11T22:46:24.870759+00:00",
   "stories": [
+    {
+      "headline": "আরশ ছোঁয়ার সেই মহিমান্বিত রাত",
+      "url": "https://www.prothomalo.com/religion/islam/qtsj6jnpgm",
+      "published_at": "2026-01-11T22:30:00+00:00",
+      "summary": "চরম মানসিক ও শারীরিক বিপর্যয়ের মুহূর্তে আল্লাহ নবীজিকে আকাশভ্রমণে আপ্যায়িত করার সিদ্ধান্ত নেন। জমিনে প্রত্যাখ্যাত হয়ে আসমানের পক্ষ থেকে এ এক বিশেষ সংবর্ধনা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-11/1vk7oz9a/pexels-yasirgurbuz-11565073.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/1vk7oz9a/pexels-yasirgurbuz-11565073.jpg?auto=format,compress"
+    },
     {
       "headline": "যুক্তরাষ্ট্রের সম্ভাব্য হস্তক্ষেপ নিয়ে \nইরানের হুঁশিয়ারি ",
       "url": "https://www.prothomalo.com/world/middle-east/0asm0lx45p",
@@ -14,8 +22,8 @@
       "url": "https://www.prothomalo.com/sports/football/n0ucchi9mv",
       "published_at": "2026-01-11T21:07:54.941000+00:00",
       "summary": "সৌদি আরবের জেদ্দায় স্প্যানিশ সুপার কাপের ফাইনালে রিয়াল মাদ্রিদকে হারিয়ে চ্যাম্পিয়ন হয়েছে বার্সেলোনা।",
-      "image_s3_key": "prothomalo-bangla/2026-01-11/83kvfi7s/G-aSGsRXMAAQfRw.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/83kvfi7s/G-aSGsRXMAAQfRw.jfif?auto=format,compress"
+      "image_s3_key": "prothomalo-bangla/2026-01-11/sr7kpxnl/OL4YAIWLDZP7PMY3S5CNVVX3PI.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/sr7kpxnl/OL4YAIWLDZP7PMY3S5CNVVX3PI.avif?auto=format,compress"
     },
     {
       "headline": "ট্রাম্প কেন গ্রিনল্যান্ডে আগ্রহী",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/rlbdyfam/Hasnat.jpeg?auto=format,compress"
     },
     {
-      "headline": "আওয়ামীপন্থী শিক্ষক গোলাম রব্বানীকে চেয়ারম্যান পদ থেকে অব্যাহতি দিতে স্মারকলিপি",
-      "url": "https://www.prothomalo.com/bangladesh/ri8jbgfrvj",
-      "published_at": "2026-01-11T15:07:00.590000+00:00",
-      "summary": "স্মারকলিপিতে বলা হয়, গোলাম রব্বানী প্রক্টর হিসেবে দীর্ঘ ছয় বছর দায়িত্ব পালনকালে একাধিকবার শিক্ষার্থীদের ওপর হওয়া হামলার পৃষ্ঠপোষকতা করেছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-11/n1biseim/du.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/n1biseim/du.jpg?auto=format,compress"
-    },
-    {
       "headline": "একনজরে আজকের বাংলাদেশ প্রতিদিন (১২ জানুয়ারি)",
       "url": "https://www.bd-pratidin.com/national/2026/01/12/1203583",
       "published_at": "2026-01-12T01:47:19+06:00",
@@ -577,6 +577,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "আওয়ামীপন্থী শিক্ষক গোলাম রব্বানীকে চেয়ারম্যান পদ থেকে অব্যাহতি দিতে স্মারকলিপি",
+      "url": "https://www.prothomalo.com/bangladesh/ri8jbgfrvj",
+      "published_at": "2026-01-11T15:07:00.590000+00:00",
+      "summary": "স্মারকলিপিতে বলা হয়, গোলাম রব্বানী প্রক্টর হিসেবে দীর্ঘ ছয় বছর দায়িত্ব পালনকালে একাধিকবার শিক্ষার্থীদের ওপর হওয়া হামলার পৃষ্ঠপোষকতা করেছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-11/n1biseim/du.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/n1biseim/du.jpg?auto=format,compress"
     },
     {
       "headline": "নোয়াখালীর বাবা-ছেলের কাছে হারল ঢাকা",
@@ -1482,13 +1490,6 @@
       "published_at": "2026-01-11T19:55:49+06:00",
       "summary": "তিনদিনের ব্যবধানে সুন্দরবনের চাঁদপাই রেঞ্জ এলাকায় শিকারিদের পেতে রাখা ফাঁদ থেকে আরও একটি চিত্রল হরিণ উদ্ধার করেছে বনরক্ষীরা।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768139743-47e970e0c4e1c05902e51b600d679c40.PNG"
-    },
-    {
-      "headline": "জামায়াত আমিরের সঙ্গে সাবেক মার্কিন স্টেট সেক্রেটারির সাক্ষাৎ",
-      "url": "https://www.bd-pratidin.com/current-politics/2026/01/11/1203378",
-      "published_at": "2026-01-11T19:55:15+06:00",
-      "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমীর ডা. শফিকুর রহমানের সঙ্গে সৌজন্য সাক্ষাত করেছেন যুক্তরাষ্ট্রের সাবেক স্টেট সেক্রেটারি মি. অ্যালবার্ট টি. গম্বিস'র নেতৃত্বে একটি প্রতিনিধি দল। আজ রবিবার দুপুরে জামায়াতের কেন্দ্রীয় কার্যালয়ে এ বৈঠক অনুষ্ঠিত হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768139709-ad03f9aaa56cc24ef52ea6f05ea10945.jpg"
     }
   ]
 }
