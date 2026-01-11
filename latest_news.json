@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-01-11T17:44:52.030144+00:00",
+  "fetched_at": "2026-01-11T18:24:56.980079+00:00",
   "stories": [
+    {
+      "headline": "মান্নাসহ আরও ৫৮ জন প্রার্থিতা ফিরে পেলেন",
+      "url": "https://www.prothomalo.com/bangladesh/20a92fef9w",
+      "published_at": "2026-01-11T17:54:29.989000+00:00",
+      "summary": "বাছাইয়ে বাদ পড়া ১০৯ জন গত দুই দিনে প্রার্থিতা ফিরে পেয়েছেন। আপিল শুনানির তৃতীয় দিন আজ।",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/sj2rapip/Manna.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/sj2rapip/Manna.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বাবার কথা না শুনে সেঞ্চুরি হারিয়েও আফসোস নেই নবীর ছেলে হাসানের",
+      "url": "https://www.prothomalo.com/sports/cricket/8rfm1ve3cj",
+      "published_at": "2026-01-11T17:54:27.837000+00:00",
+      "summary": "বাবা মোহাম্মদ নবীর সঙ্গে প্রথমবার একই দলের হয়ে খেলতে নেমেছিলেন ছেলে হাসান ইসাখিল। বাবার সঙ্গে জুটিও গড়েছেন। তবে ৮ রানের সেঞ্চুরি হারিয়েছেন হাসান। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-11/80smllw5/WhatsApp-Image-2026-01-11-at-11.27.20-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/80smllw5/WhatsApp-Image-2026-01-11-at-11.27.20-PM.jpeg?auto=format,compress"
+    },
     {
       "headline": "মহেশখালীতে মা ও শিশুপুত্রের লাশ উদ্ধার, মায়ের মাথা-গলায় আঘাতের চিহ্ন",
       "url": "https://www.prothomalo.com/bangladesh/district/003c4m5qsg",
@@ -298,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/my28zdn5/WhatsApp-Image-2026-01-11-at-7.53.20-PM.jpeg?auto=format,compress"
     },
     {
-      "headline": "সন্ধ্যায় সারা দিনের খবর",
-      "url": "https://www.prothomalo.com/bangladesh/e6je2d9gg5",
-      "published_at": "2026-01-11T14:14:03.619000+00:00",
-      "summary": "শুভসন্ধ্যা। আজ রোববার। জাতীয়, আন্তর্জাতিক, ক্রীড়া, বিনোদনসহ আলোচিত বিভিন্ন বিষয় নিয়ে দিনভর প্রথম আলো অনলাইনে প্রকাশিত হয়েছে নানা খবর।",
-      "image_s3_key": "prothomalo-bangla/2026-01-11/bjay4b8q/WhatsApp-Image-2026-01-11-at-3.58.47-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/bjay4b8q/WhatsApp-Image-2026-01-11-at-3.58.47-PM.jpeg?auto=format,compress"
-    },
-    {
       "headline": "কুড়িগ্রামে ৮ কেজি গাঁজাসহ মাদক ব্যবসায়ী গ্রেফতার",
       "url": "https://www.bd-pratidin.com/country/2026/01/11/1203483",
       "published_at": "2026-01-11T23:39:18+06:00",
@@ -376,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768144167-75d55f8d65834088afc532f92738b7f9.jpg"
     },
     {
+      "headline": "আইপিএল ইস্যুতে বাংলাদেশ–ভারত বাণিজ্যে নেতিবাচক প্রভাব পড়েনি: বাণিজ্য উপদেষ্টা",
+      "url": "https://www.ittefaq.com.bd/769930/%E0%A6%86%E0%A6%87%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B2-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E2%80%93%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%95",
+      "published_at": null,
+      "summary": "আইপিএল ইস্যুর কারণে বাংলাদেশ–ভারত বাণিজ্যে কোনো নেতিবাচক প্রভাব পড়বে—এমন কিছু বর্তমানে দেখা যাচ্ছে না বলে মন্তব্য করেছেন বাণিজ্য উপদেষ্টা শেখ বশিরউদ্দিন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/99ce9e7a1c777709f64129395eb80dd2-6963e0f71c05a.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "সম্মিলিত ইসলামী ব্যাংক থেকে ১০ হাজার কোটি টাকা ঋণ নিচ্ছে সরকার",
       "url": "https://www.ittefaq.com.bd/769929/%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%8B%E0%A6%A3",
       "published_at": null,
@@ -439,13 +454,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/caf6c9d3259629ba7492ec6d22bac79c-6963be7804a78.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
-      "headline": "ইরান ও সিরিয়ায় শান্তির জন্য পোপের প্রার্থনা",
-      "url": "https://www.ittefaq.com.bd/769920/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%93-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%8B%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A6%BE",
-      "published_at": null,
-      "summary": "পোপ চতুর্দশ লিও রোববার তার সাপ্তাহিক অ্যাঞ্জেলাস প্রার্থনায় ইরানে বিক্ষোভে ও সিরিয়ার সংঘাতে নিহতদের জন্য প্রার্থনা করেছেন এবং সংলাপ ও শান্তির আহ্বান জানিয়েছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/61f1cacd898483d818798c255827fb85-6963be069b823.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
       "headline": "জুলাই নায়কদের মিডিয়া ট্রায়াল",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/O8tQb7KQNxrA/",
       "published_at": null,
@@ -458,6 +466,34 @@
       "published_at": null,
       "summary": "১২ ফেব্রুয়ারির নির্বাচন বাংলাদেশের গণতান্ত্রিক পুনর্গঠনের সুযোগ, অথবা অতীতের ‘সূক্ষ্ম কারচুপির’ ছায়ার পুনরাবৃত্তি। ইতিহাস ও আন্তর্জাতিক অভিজ্ঞতা স্পষ্ট জানাচ্ছে, বৈধতা ছাড়া স্থিতিশীলতা টেকে না।",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "শিক্ষা কূটনীতি জোরদারে ঢাকায় আসছে মালদ্বীপের প্রতিনিধি দল",
+      "url": "https://dailynayadiganta.com/bangladesh/diplomacy/ETnVLT4MrrYg/",
+      "published_at": null,
+      "summary": "সাক্ষাৎ শেষে হাইকমিশনার প্রতিনিধি দলকে বাংলাদেশ সফরকালীন সর্বাত্মক সহযোগিতার আশ্বাস দেন।",
+      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_2_eBdBmZQ.png"
+    },
+    {
+      "headline": "‘যখন তোমার কেউ ছিল না তখন ছিলাম আমি, এখন তোমার সব হয়েছে পর হয়েছি আমি’",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/KYWd6szCDwKE/",
+      "published_at": null,
+      "summary": "‘৫২-এর ভাষা আন্দোলন কোনো নেতা বা জমিদার করেনি। সেই আন্দোলন করেছে সাধারণ ছাত্র ও খেটে খাওয়া মানুষ। আমার বাবা ছিলেন সেই আন্দোলনের একজন অংশগ্রহণকারী।’",
+      "image_url": "https://media.ndiganta.com/original_images/1000216287.jpg"
+    },
+    {
+      "headline": "রূপালী ব্যাংকের মহাব্যবস্থাপক মো: আবুল হাসানের সুস্থতা কামনায় দোয়া মাহফিল",
+      "url": "https://dailynayadiganta.com/economy/banking-insurance/59f41QyaZ26m/",
+      "published_at": null,
+      "summary": "তার আরোগ্য ও সুস্থতা কামনায় রোববার ব্যাংকের দিলকুশাস্থ প্রধান কার্যালয়ে এক দোয়া মাহফিলের আয়োজন করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_1_pVbi7BM.png"
+    },
+    {
+      "headline": "ঈশ্বরদীতে ভাড়া বাসা থেকে বিশ্ববিদ্যালয় শিক্ষার্থীর লাশ উদ্ধার",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/EKU9k0Rhzv0o/",
+      "published_at": null,
+      "summary": "পাবনার ঈশ্বরদী উপজেলায় ভাড়া বাসার একটি কক্ষ থেকে ফসিউল আলম অনিক (২২) নামের এক বিশ্ববিদ্যালয় শিক্ষার্থীর ঝুলন্ত লাশ উদ্ধার করেছে পুলিশ।",
+      "image_url": "https://media.ndiganta.com/original_images/AnikIshwardi.jpg"
     },
     {
       "headline": "‘খুব বেশি দেরি’ হওয়ার আগেই কিউবাকে চুক্তি করতে ট্রাম্পের হুমকি",
@@ -502,6 +538,35 @@
       "image_url": "https://media.ndiganta.com/original_images/Mass-Education-Adviser.jpg"
     },
     {
+      "headline": "আজকের সর্বশেষ খবর - January 12, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "ঢাকা-১ (দোহার-নবাবগঞ্জ) আসনে ইসলামী আন্দোলন বাংলাদেশের প্রার্থী মাওলানা নুরুল ইসলামের প্রার্থিতা নিয়ে চলা অনিশ্চয়তা দূর হয়েছে। বিদ্যুৎ বিল বকেয়া থাকার ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "সন্ধ্যায় সারা দিনের খবর",
+      "url": "https://www.prothomalo.com/bangladesh/e6je2d9gg5",
+      "published_at": "2026-01-11T14:14:03.619000+00:00",
+      "summary": "শুভসন্ধ্যা। আজ রোববার। জাতীয়, আন্তর্জাতিক, ক্রীড়া, বিনোদনসহ আলোচিত বিভিন্ন বিষয় নিয়ে দিনভর প্রথম আলো অনলাইনে প্রকাশিত হয়েছে নানা খবর।",
+      "image_s3_key": "prothomalo-bangla/2026-01-11/bjay4b8q/WhatsApp-Image-2026-01-11-at-3.58.47-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/bjay4b8q/WhatsApp-Image-2026-01-11-at-3.58.47-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "ইরান ও সিরিয়ায় শান্তির জন্য পোপের প্রার্থনা",
+      "url": "https://www.ittefaq.com.bd/769920/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%93-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%8B%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A6%BE",
+      "published_at": null,
+      "summary": "পোপ চতুর্দশ লিও রোববার তার সাপ্তাহিক অ্যাঞ্জেলাস প্রার্থনায় ইরানে বিক্ষোভে ও সিরিয়ার সংঘাতে নিহতদের জন্য প্রার্থনা করেছেন এবং সংলাপ ও শান্তির আহ্বান জানিয়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/61f1cacd898483d818798c255827fb85-6963be069b823.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "বাবা-ছেলের নৈপুণ্যে নোয়াখালীর কাছে পরাস্ত ঢাকা",
       "url": "https://dailynayadiganta.com/sports/cricket/i0wTMgR7FON3/",
       "published_at": null,
@@ -535,20 +600,6 @@
       "published_at": null,
       "summary": "একদল ব্যক্তি জুয়া খেলার উদ্দেশ্যে সেগুনবাগান এলাকায় জড়ো হলে অপর পক্ষের চারজন যুবক নিজেদের ডিজিএফআই (ডিরেক্টরেট জেনারেল অব ফোর্সেস ইন্টেলিজেন্স) সদস্য পরিচয় দিয়ে তাদের আটক করে। এ সময় তারা জুয়া খেলার অভিযোগে ভয়ভীতি প্রদর্শন করে জোরপূর্বক নগদ অর্থ ও একাধিক মোবাইলফোন হাতিয়ে নেয় এবং মারধর করে। ঘটনাটি জানাজানি হলে স্থানীয়রা এগিয়ে এসে চার যুবককে আটক করে।",
       "image_url": "https://media.ndiganta.com/original_images/Rangamati-Arrest_uzZM4ba.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - January 11, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "গণতন্ত্রের সারবত্তা কেবল ব্যালট বাক্সে ভোট প্রদানের মধ্যে সীমাবদ্ধ নয়, বরং এটি একটি নিশ্ছিদ্র নিরাপত্তা বলয় এবং আস্থার পরিবেশের ওপর ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "মতিউর রহমান সম্মানসূচক ডক্টরেট ডিগ্রি পেলেন সৃজনশীল, দায়িত্বশীল ও সাহসী সাংবাদিকতায়",
@@ -1436,55 +1487,6 @@
       "published_at": "2026-01-11T19:16:36+06:00",
       "summary": "কুমিল্লা বিশ্ববিদ্যালয়ের (কুবি) মেধাবী ও আর্থিকভাবে অসচ্ছল ৬ জন শিক্ষার্থীকে প্রথমবারের মতো স্কলারশিপ প্রদান করেছে ফেডারেশন অব বাংলাদেশি অ্যাসোসিয়েশনস ইন নর্থ আমেরিকা (ফোবানা)।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768137389-3e7eb259a275c584467ea4bb84d8e5ef.PNG"
-    },
-    {
-      "headline": "নির্বাচন এবং গণভোট সুচারুভাবে সম্পন্ন হবে: ইইউ পর্যবেক্ষক দলকে প্রধান উপদেষ্টা",
-      "url": "https://www.ittefaq.com.bd/769899/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%B8%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%87%E0%A6%87%E0%A6%89",
-      "published_at": null,
-      "summary": "প্রধান উপদেষ্টা প্রফেসর মুহাম্মদ ইউনূসের সঙ্গে সাক্ষাৎ করেছেন ইউরোপীয় ইউনিয়নের (ইইউ) নির্বাচন পর্যবেক্ষক মিশনের প্রধান পর্যবেক্ষক ইয়ার ইয়াবস। রবিবার (১১ জানুয়ারি) রাষ্ট্রীয় অতিথি ভবন যমুনায় এই সাক্ষাৎ অনুষ্ঠিত হয়েছে বলে জানিয়েছেন প্রধান উপদেষ্টার প্রেস সচিব শফিকুল আলম।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/1d7a3e440d69cb62987d3245c85beff1-69639b4d82dd9.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "যুক্তরাষ্ট্র ও ইসরায়েলের বিরুদ্ধে কঠোর হুঁশিয়ারি ইরানি স্পিকারের",
-      "url": "https://www.ittefaq.com.bd/769898/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%93-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%B9%E0%A7%81%E0%A6%81%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF",
-      "published_at": null,
-      "summary": "বিক্ষোভ ঘিরে উদ্ভূত পরিস্থিতিতে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ও ইসরায়েলি যে কোনো হামলার বিরুদ্ধে প্রতিশোধ নেওয়ার হুঁশিয়ারি দিয়েছেন ইরানের পার্লামেন্ট স্পিকার মোহাম্মদ-বাঘের গালিবাফ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/713327926426ed392715bbf6fd107e85-69639a01813b3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "জাফলংয়ে অবৈধভাবে বালু উত্তোলনের সময় দুর্ঘটনায় শ্রমিক নিহত",
-      "url": "https://www.ittefaq.com.bd/769897/%E0%A6%9C%E0%A6%BE%E0%A6%AB%E0%A6%B2%E0%A6%82%E0%A7%9F%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A7%88%E0%A6%A7%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F",
-      "published_at": null,
-      "summary": "সিলেটের গোয়াইনঘাট উপজেলার জাফলংয়ে অবৈধভাবে বালু উত্তোলনের সময় পেলোডারের চাপায় এক শ্রমিকের মৃত্যু হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/7f70a7febbaefc8b4b633ea9efd6624a-6963988be3692.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "উদার অর্থনৈতিক পরিবেশ গড়ে তুলতে সংস্কার বাস্তবায়ন করছে সরকার",
-      "url": "https://dailynayadiganta.com/economy/1ptVN73eYtE7/",
-      "published_at": null,
-      "summary": "ভারতের সাথে বাণিজ্য সম্পর্কের বিষয়ে উপদেষ্টা বলেন, প্রতিদিনের দ্বিপাক্ষিক ছোটোখাটো ঘটনাগুলো সাধারণত বৃহত্তর বাণিজ্য গতিশীলতায় প্রভাব ফেলে না।",
-      "image_url": "https://media.ndiganta.com/original_images/Bashir_w5ommpz.JPG"
-    },
-    {
-      "headline": "সকল ষড়যন্ত্র রুখে দিয়ে তরুণরাই দাঁড়িপাল্লার বিজয় এনে দেবে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/9CenkHPqu1JQ/",
-      "published_at": null,
-      "summary": "‘ইসলামী ছাত্রশিবির হলো নৈতিকতা সম্পন্ন মেধাবী প্রজন্ম তৈরির এক অনন্য শিক্ষা প্রতিষ্ঠান। ফ্যাসিবাদমুক্ত বৈষম্যহীন জ্ঞানভিত্তিক নতুন দেশ ও সমাজ গঠনে মেধাবী প্রজন্মকেই আগামীতে নেতৃত্ব দিতে হবে। বাংলাদেশ আমাদের গর্ব, এটিকে নতুনভাবে বিনির্মাণে মেধাবীদের এগিয়ে আসতে হবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Mirsarai-Shibir.jpg"
-    },
-    {
-      "headline": "নীলফামারীতে ঘন কুয়াশায় আলুতে মড়ক, দুশ্চিন্তায় কৃষক",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/v2wVoCfdcVwQ/",
-      "published_at": null,
-      "summary": "তীব্র শীত ও ঘন কুয়াশার কবলে পড়ে নীলফামারী জেলা জুড়ে আলুতে মড়ক দেখা দিয়েছে। এতে ক্ষতির মুখে পড়েছেন আলু চাষিরা। লেইট ব্লাইট রোগে আক্রান্ত গাছের পাতায় কালচে দাগ ও ফোসকার মতো তৈরি হচ্ছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Nilphamari_Potato.jpg"
-    },
-    {
-      "headline": "আশুগঞ্জে নির্বাচন ও গণভোট বিষয়ে অবহিতকরণ সভা অনুষ্ঠিত",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/rVr6aaZF4jhF/",
-      "published_at": null,
-      "summary": "জেলা প্রশাসক ও রিটার্নিং অফিসার শারমিন আক্তার জাহানের সভাপতিত্বে অনুষ্ঠিত সভায় প্রধান অতিথি হিসেবে উপস্থিত ছিলেন জনপ্রশাসন মন্ত্রণালয়ের যুগ্মসচিব মোছাম্মাত ফারহানা রহমান।",
-      "image_url": "https://media.ndiganta.com/original_images/Ashuganj.jpg"
     }
   ]
 }

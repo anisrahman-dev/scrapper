@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-01-11T17:44:52.030144+00:00",
+  "fetched_at": "2026-01-11T18:24:56.980079+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "মান্নাসহ আরও ৫৮ জন প্রার্থিতা ফিরে পেলেন",
+        "url": "https://www.prothomalo.com/bangladesh/20a92fef9w",
+        "published_at": "2026-01-11T17:54:29.989000+00:00",
+        "summary": "বাছাইয়ে বাদ পড়া ১০৯ জন গত দুই দিনে প্রার্থিতা ফিরে পেয়েছেন। আপিল শুনানির তৃতীয় দিন আজ।",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/sj2rapip/Manna.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/sj2rapip/Manna.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বাবার কথা না শুনে সেঞ্চুরি হারিয়েও আফসোস নেই নবীর ছেলে হাসানের",
+        "url": "https://www.prothomalo.com/sports/cricket/8rfm1ve3cj",
+        "published_at": "2026-01-11T17:54:27.837000+00:00",
+        "summary": "বাবা মোহাম্মদ নবীর সঙ্গে প্রথমবার একই দলের হয়ে খেলতে নেমেছিলেন ছেলে হাসান ইসাখিল। বাবার সঙ্গে জুটিও গড়েছেন। তবে ৮ রানের সেঞ্চুরি হারিয়েছেন হাসান। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-11/80smllw5/WhatsApp-Image-2026-01-11-at-11.27.20-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/80smllw5/WhatsApp-Image-2026-01-11-at-11.27.20-PM.jpeg?auto=format,compress"
+      },
       {
         "headline": "মহেশখালীতে মা ও শিশুপুত্রের লাশ উদ্ধার, মায়ের মাথা-গলায় আঘাতের চিহ্ন",
         "url": "https://www.prothomalo.com/bangladesh/district/003c4m5qsg",
@@ -299,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/my28zdn5/WhatsApp-Image-2026-01-11-at-7.53.20-PM.jpeg?auto=format,compress"
       },
       {
-        "headline": "সন্ধ্যায় সারা দিনের খবর",
-        "url": "https://www.prothomalo.com/bangladesh/e6je2d9gg5",
-        "published_at": "2026-01-11T14:14:03.619000+00:00",
-        "summary": "শুভসন্ধ্যা। আজ রোববার। জাতীয়, আন্তর্জাতিক, ক্রীড়া, বিনোদনসহ আলোচিত বিভিন্ন বিষয় নিয়ে দিনভর প্রথম আলো অনলাইনে প্রকাশিত হয়েছে নানা খবর।",
-        "image_s3_key": "prothomalo-bangla/2026-01-11/bjay4b8q/WhatsApp-Image-2026-01-11-at-3.58.47-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/bjay4b8q/WhatsApp-Image-2026-01-11-at-3.58.47-PM.jpeg?auto=format,compress"
-      },
-      {
         "headline": "কুড়িগ্রামে ৮ কেজি গাঁজাসহ মাদক ব্যবসায়ী গ্রেফতার",
         "url": "https://www.bd-pratidin.com/country/2026/01/11/1203483",
         "published_at": "2026-01-11T23:39:18+06:00",
@@ -377,6 +385,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768144167-75d55f8d65834088afc532f92738b7f9.jpg"
       },
       {
+        "headline": "আইপিএল ইস্যুতে বাংলাদেশ–ভারত বাণিজ্যে নেতিবাচক প্রভাব পড়েনি: বাণিজ্য উপদেষ্টা",
+        "url": "https://www.ittefaq.com.bd/769930/%E0%A6%86%E0%A6%87%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B2-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E2%80%93%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%95",
+        "published_at": null,
+        "summary": "আইপিএল ইস্যুর কারণে বাংলাদেশ–ভারত বাণিজ্যে কোনো নেতিবাচক প্রভাব পড়বে—এমন কিছু বর্তমানে দেখা যাচ্ছে না বলে মন্তব্য করেছেন বাণিজ্য উপদেষ্টা শেখ বশিরউদ্দিন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/99ce9e7a1c777709f64129395eb80dd2-6963e0f71c05a.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "সম্মিলিত ইসলামী ব্যাংক থেকে ১০ হাজার কোটি টাকা ঋণ নিচ্ছে সরকার",
         "url": "https://www.ittefaq.com.bd/769929/%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%8B%E0%A6%A3",
         "published_at": null,
@@ -440,13 +455,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/caf6c9d3259629ba7492ec6d22bac79c-6963be7804a78.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
-        "headline": "ইরান ও সিরিয়ায় শান্তির জন্য পোপের প্রার্থনা",
-        "url": "https://www.ittefaq.com.bd/769920/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%93-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%8B%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A6%BE",
-        "published_at": null,
-        "summary": "পোপ চতুর্দশ লিও রোববার তার সাপ্তাহিক অ্যাঞ্জেলাস প্রার্থনায় ইরানে বিক্ষোভে ও সিরিয়ার সংঘাতে নিহতদের জন্য প্রার্থনা করেছেন এবং সংলাপ ও শান্তির আহ্বান জানিয়েছেন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/61f1cacd898483d818798c255827fb85-6963be069b823.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
         "headline": "জুলাই নায়কদের মিডিয়া ট্রায়াল",
         "url": "https://dailynayadiganta.com/opinions/sub-editorial/O8tQb7KQNxrA/",
         "published_at": null,
@@ -459,6 +467,34 @@
         "published_at": null,
         "summary": "১২ ফেব্রুয়ারির নির্বাচন বাংলাদেশের গণতান্ত্রিক পুনর্গঠনের সুযোগ, অথবা অতীতের ‘সূক্ষ্ম কারচুপির’ ছায়ার পুনরাবৃত্তি। ইতিহাস ও আন্তর্জাতিক অভিজ্ঞতা স্পষ্ট জানাচ্ছে, বৈধতা ছাড়া স্থিতিশীলতা টেকে না।",
         "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "শিক্ষা কূটনীতি জোরদারে ঢাকায় আসছে মালদ্বীপের প্রতিনিধি দল",
+        "url": "https://dailynayadiganta.com/bangladesh/diplomacy/ETnVLT4MrrYg/",
+        "published_at": null,
+        "summary": "সাক্ষাৎ শেষে হাইকমিশনার প্রতিনিধি দলকে বাংলাদেশ সফরকালীন সর্বাত্মক সহযোগিতার আশ্বাস দেন।",
+        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_2_eBdBmZQ.png"
+      },
+      {
+        "headline": "‘যখন তোমার কেউ ছিল না তখন ছিলাম আমি, এখন তোমার সব হয়েছে পর হয়েছি আমি’",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/KYWd6szCDwKE/",
+        "published_at": null,
+        "summary": "‘৫২-এর ভাষা আন্দোলন কোনো নেতা বা জমিদার করেনি। সেই আন্দোলন করেছে সাধারণ ছাত্র ও খেটে খাওয়া মানুষ। আমার বাবা ছিলেন সেই আন্দোলনের একজন অংশগ্রহণকারী।’",
+        "image_url": "https://media.ndiganta.com/original_images/1000216287.jpg"
+      },
+      {
+        "headline": "রূপালী ব্যাংকের মহাব্যবস্থাপক মো: আবুল হাসানের সুস্থতা কামনায় দোয়া মাহফিল",
+        "url": "https://dailynayadiganta.com/economy/banking-insurance/59f41QyaZ26m/",
+        "published_at": null,
+        "summary": "তার আরোগ্য ও সুস্থতা কামনায় রোববার ব্যাংকের দিলকুশাস্থ প্রধান কার্যালয়ে এক দোয়া মাহফিলের আয়োজন করা হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_1_pVbi7BM.png"
+      },
+      {
+        "headline": "ঈশ্বরদীতে ভাড়া বাসা থেকে বিশ্ববিদ্যালয় শিক্ষার্থীর লাশ উদ্ধার",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/EKU9k0Rhzv0o/",
+        "published_at": null,
+        "summary": "পাবনার ঈশ্বরদী উপজেলায় ভাড়া বাসার একটি কক্ষ থেকে ফসিউল আলম অনিক (২২) নামের এক বিশ্ববিদ্যালয় শিক্ষার্থীর ঝুলন্ত লাশ উদ্ধার করেছে পুলিশ।",
+        "image_url": "https://media.ndiganta.com/original_images/AnikIshwardi.jpg"
       },
       {
         "headline": "‘খুব বেশি দেরি’ হওয়ার আগেই কিউবাকে চুক্তি করতে ট্রাম্পের হুমকি",
@@ -503,6 +539,35 @@
         "image_url": "https://media.ndiganta.com/original_images/Mass-Education-Adviser.jpg"
       },
       {
+        "headline": "আজকের সর্বশেষ খবর - January 12, 2026",
+        "url": "https://www.jugantor.com/latest",
+        "published_at": null,
+        "summary": "ঢাকা-১ (দোহার-নবাবগঞ্জ) আসনে ইসলামী আন্দোলন বাংলাদেশের প্রার্থী মাওলানা নুরুল ইসলামের প্রার্থিতা নিয়ে চলা অনিশ্চয়তা দূর হয়েছে। বিদ্যুৎ বিল বকেয়া থাকার ...",
+        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+      },
+      {
+        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+        "published_at": null,
+        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "সন্ধ্যায় সারা দিনের খবর",
+        "url": "https://www.prothomalo.com/bangladesh/e6je2d9gg5",
+        "published_at": "2026-01-11T14:14:03.619000+00:00",
+        "summary": "শুভসন্ধ্যা। আজ রোববার। জাতীয়, আন্তর্জাতিক, ক্রীড়া, বিনোদনসহ আলোচিত বিভিন্ন বিষয় নিয়ে দিনভর প্রথম আলো অনলাইনে প্রকাশিত হয়েছে নানা খবর।",
+        "image_s3_key": "prothomalo-bangla/2026-01-11/bjay4b8q/WhatsApp-Image-2026-01-11-at-3.58.47-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/bjay4b8q/WhatsApp-Image-2026-01-11-at-3.58.47-PM.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "ইরান ও সিরিয়ায় শান্তির জন্য পোপের প্রার্থনা",
+        "url": "https://www.ittefaq.com.bd/769920/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%93-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AA%E0%A7%8B%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A6%BE",
+        "published_at": null,
+        "summary": "পোপ চতুর্দশ লিও রোববার তার সাপ্তাহিক অ্যাঞ্জেলাস প্রার্থনায় ইরানে বিক্ষোভে ও সিরিয়ার সংঘাতে নিহতদের জন্য প্রার্থনা করেছেন এবং সংলাপ ও শান্তির আহ্বান জানিয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/61f1cacd898483d818798c255827fb85-6963be069b823.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "বাবা-ছেলের নৈপুণ্যে নোয়াখালীর কাছে পরাস্ত ঢাকা",
         "url": "https://dailynayadiganta.com/sports/cricket/i0wTMgR7FON3/",
         "published_at": null,
@@ -536,20 +601,6 @@
         "published_at": null,
         "summary": "একদল ব্যক্তি জুয়া খেলার উদ্দেশ্যে সেগুনবাগান এলাকায় জড়ো হলে অপর পক্ষের চারজন যুবক নিজেদের ডিজিএফআই (ডিরেক্টরেট জেনারেল অব ফোর্সেস ইন্টেলিজেন্স) সদস্য পরিচয় দিয়ে তাদের আটক করে। এ সময় তারা জুয়া খেলার অভিযোগে ভয়ভীতি প্রদর্শন করে জোরপূর্বক নগদ অর্থ ও একাধিক মোবাইলফোন হাতিয়ে নেয় এবং মারধর করে। ঘটনাটি জানাজানি হলে স্থানীয়রা এগিয়ে এসে চার যুবককে আটক করে।",
         "image_url": "https://media.ndiganta.com/original_images/Rangamati-Arrest_uzZM4ba.jpg"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর - January 11, 2026",
-        "url": "https://www.jugantor.com/latest",
-        "published_at": null,
-        "summary": "গণতন্ত্রের সারবত্তা কেবল ব্যালট বাক্সে ভোট প্রদানের মধ্যে সীমাবদ্ধ নয়, বরং এটি একটি নিশ্ছিদ্র নিরাপত্তা বলয় এবং আস্থার পরিবেশের ওপর ...",
-        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-      },
-      {
-        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-        "published_at": null,
-        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
       },
       {
         "headline": "মতিউর রহমান সম্মানসূচক ডক্টরেট ডিগ্রি পেলেন সৃজনশীল, দায়িত্বশীল ও সাহসী সাংবাদিকতায়",
@@ -1437,58 +1488,17 @@
         "published_at": "2026-01-11T19:16:36+06:00",
         "summary": "কুমিল্লা বিশ্ববিদ্যালয়ের (কুবি) মেধাবী ও আর্থিকভাবে অসচ্ছল ৬ জন শিক্ষার্থীকে প্রথমবারের মতো স্কলারশিপ প্রদান করেছে ফেডারেশন অব বাংলাদেশি অ্যাসোসিয়েশনস ইন নর্থ আমেরিকা (ফোবানা)।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768137389-3e7eb259a275c584467ea4bb84d8e5ef.PNG"
-      },
-      {
-        "headline": "নির্বাচন এবং গণভোট সুচারুভাবে সম্পন্ন হবে: ইইউ পর্যবেক্ষক দলকে প্রধান উপদেষ্টা",
-        "url": "https://www.ittefaq.com.bd/769899/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%B8%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%87%E0%A6%87%E0%A6%89",
-        "published_at": null,
-        "summary": "প্রধান উপদেষ্টা প্রফেসর মুহাম্মদ ইউনূসের সঙ্গে সাক্ষাৎ করেছেন ইউরোপীয় ইউনিয়নের (ইইউ) নির্বাচন পর্যবেক্ষক মিশনের প্রধান পর্যবেক্ষক ইয়ার ইয়াবস। রবিবার (১১ জানুয়ারি) রাষ্ট্রীয় অতিথি ভবন যমুনায় এই সাক্ষাৎ অনুষ্ঠিত হয়েছে বলে জানিয়েছেন প্রধান উপদেষ্টার প্রেস সচিব শফিকুল আলম।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/1d7a3e440d69cb62987d3245c85beff1-69639b4d82dd9.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্র ও ইসরায়েলের বিরুদ্ধে কঠোর হুঁশিয়ারি ইরানি স্পিকারের",
-        "url": "https://www.ittefaq.com.bd/769898/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%93-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%B9%E0%A7%81%E0%A6%81%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF",
-        "published_at": null,
-        "summary": "বিক্ষোভ ঘিরে উদ্ভূত পরিস্থিতিতে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ও ইসরায়েলি যে কোনো হামলার বিরুদ্ধে প্রতিশোধ নেওয়ার হুঁশিয়ারি দিয়েছেন ইরানের পার্লামেন্ট স্পিকার মোহাম্মদ-বাঘের গালিবাফ।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/713327926426ed392715bbf6fd107e85-69639a01813b3.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "জাফলংয়ে অবৈধভাবে বালু উত্তোলনের সময় দুর্ঘটনায় শ্রমিক নিহত",
-        "url": "https://www.ittefaq.com.bd/769897/%E0%A6%9C%E0%A6%BE%E0%A6%AB%E0%A6%B2%E0%A6%82%E0%A7%9F%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A7%88%E0%A6%A7%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F",
-        "published_at": null,
-        "summary": "সিলেটের গোয়াইনঘাট উপজেলার জাফলংয়ে অবৈধভাবে বালু উত্তোলনের সময় পেলোডারের চাপায় এক শ্রমিকের মৃত্যু হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/7f70a7febbaefc8b4b633ea9efd6624a-6963988be3692.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "উদার অর্থনৈতিক পরিবেশ গড়ে তুলতে সংস্কার বাস্তবায়ন করছে সরকার",
-        "url": "https://dailynayadiganta.com/economy/1ptVN73eYtE7/",
-        "published_at": null,
-        "summary": "ভারতের সাথে বাণিজ্য সম্পর্কের বিষয়ে উপদেষ্টা বলেন, প্রতিদিনের দ্বিপাক্ষিক ছোটোখাটো ঘটনাগুলো সাধারণত বৃহত্তর বাণিজ্য গতিশীলতায় প্রভাব ফেলে না।",
-        "image_url": "https://media.ndiganta.com/original_images/Bashir_w5ommpz.JPG"
-      },
-      {
-        "headline": "সকল ষড়যন্ত্র রুখে দিয়ে তরুণরাই দাঁড়িপাল্লার বিজয় এনে দেবে",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/9CenkHPqu1JQ/",
-        "published_at": null,
-        "summary": "‘ইসলামী ছাত্রশিবির হলো নৈতিকতা সম্পন্ন মেধাবী প্রজন্ম তৈরির এক অনন্য শিক্ষা প্রতিষ্ঠান। ফ্যাসিবাদমুক্ত বৈষম্যহীন জ্ঞানভিত্তিক নতুন দেশ ও সমাজ গঠনে মেধাবী প্রজন্মকেই আগামীতে নেতৃত্ব দিতে হবে। বাংলাদেশ আমাদের গর্ব, এটিকে নতুনভাবে বিনির্মাণে মেধাবীদের এগিয়ে আসতে হবে।’",
-        "image_url": "https://media.ndiganta.com/original_images/Mirsarai-Shibir.jpg"
-      },
-      {
-        "headline": "নীলফামারীতে ঘন কুয়াশায় আলুতে মড়ক, দুশ্চিন্তায় কৃষক",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/v2wVoCfdcVwQ/",
-        "published_at": null,
-        "summary": "তীব্র শীত ও ঘন কুয়াশার কবলে পড়ে নীলফামারী জেলা জুড়ে আলুতে মড়ক দেখা দিয়েছে। এতে ক্ষতির মুখে পড়েছেন আলু চাষিরা। লেইট ব্লাইট রোগে আক্রান্ত গাছের পাতায় কালচে দাগ ও ফোসকার মতো তৈরি হচ্ছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Nilphamari_Potato.jpg"
-      },
-      {
-        "headline": "আশুগঞ্জে নির্বাচন ও গণভোট বিষয়ে অবহিতকরণ সভা অনুষ্ঠিত",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/rVr6aaZF4jhF/",
-        "published_at": null,
-        "summary": "জেলা প্রশাসক ও রিটার্নিং অফিসার শারমিন আক্তার জাহানের সভাপতিত্বে অনুষ্ঠিত সভায় প্রধান অতিথি হিসেবে উপস্থিত ছিলেন জনপ্রশাসন মন্ত্রণালয়ের যুগ্মসচিব মোছাম্মাত ফারহানা রহমান।",
-        "image_url": "https://media.ndiganta.com/original_images/Ashuganj.jpg"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "মান্নাসহ আরও ৫৮ জন প্রার্থিতা ফিরে পেলেন",
+        "url": "https://www.prothomalo.com/bangladesh/20a92fef9w",
+        "published_at": "2026-01-11T17:54:29.989000+00:00",
+        "summary": "বাছাইয়ে বাদ পড়া ১০৯ জন গত দুই দিনে প্রার্থিতা ফিরে পেয়েছেন। আপিল শুনানির তৃতীয় দিন আজ।",
+        "image_s3_key": "prothomalo-bangla/2026-01-02/sj2rapip/Manna.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/sj2rapip/Manna.jpg?auto=format,compress"
+      },
       {
         "headline": "মহেশখালীতে মা ও শিশুপুত্রের লাশ উদ্ধার, মায়ের মাথা-গলায় আঘাতের চিহ্ন",
         "url": "https://www.prothomalo.com/bangladesh/district/003c4m5qsg",
@@ -1800,14 +1810,6 @@
         "summary": "এক রিটের প্রাথমিক শুনানি নিয়ে বিচারপতি রাজিক-আল-জলিল ও বিচারপতি আনোয়ারুল ইসলামের সমন্বয়ে গঠিত হাইকোর্ট বেঞ্চ আজ রোববার এ রুল দেন।",
         "image_s3_key": "prothomalo-bangla/2025-11-23/pbpnx0j8/prothomalo_bangla.avif",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-23/pbpnx0j8/prothomalo_bangla.avif?auto=format,compress"
-      },
-      {
-        "headline": "নেত্রকোনায় রাস্তা পার হওয়ার সময় ট্রাকের ধাক্কায় আহত গন্ধগোকুল উদ্ধার",
-        "url": "https://www.prothomalo.com/bangladesh/district/ra2or9om0o",
-        "published_at": "2026-01-11T10:25:57.746000+00:00",
-        "summary": " শরীরের দাগ দেখে স্থানীয় লোকজন এটিকে কেউ চিতাবাঘ, কেউ বাগডাশ মনে করে পিটিয়ে মেরে ফেলতে চাইছিলেন। তবে অনেকে বাধা দেওয়ায় কেউ আঘাত করেননি।",
-        "image_s3_key": "prothomalo-bangla/2026-01-11/2oyuz155/c280b563-b5f7-4e3b-80cf-db2c4ece324c.jfif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/2oyuz155/c280b563-b5f7-4e3b-80cf-db2c4ece324c.jfif?auto=format,compress"
       },
       {
         "headline": "কুড়িগ্রামে ৮ কেজি গাঁজাসহ মাদক ব্যবসায়ী গ্রেফতার",
@@ -2228,6 +2230,14 @@
         "published_at": "1768141525",
         "summary": "নেত্রকোণার মোহনগঞ্জে বিয়ের অনুষ্ঠানে ছবি তোলা নিয়ে দুই পক্ষের সংঘর্ষে আটজন আহত হয়েছেন। পরে তাদের উদ্ধার করে উপজেলা স্বাস্থ্য কমপ্লেক্সে ভর্তি করা হয়। গত শুক্রবার রাতে পৌরশহরের উত্তর দৌলতপুরের গরুহাট্টা এলাকায় এ ঘটনা ঘটে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/mohon-20260111142525.jpg"
+      },
+      {
+        "headline": "নেত্রকোনায় রাস্তা পার হওয়ার সময় ট্রাকের ধাক্কায় আহত গন্ধগোকুল উদ্ধার",
+        "url": "https://www.prothomalo.com/bangladesh/district/ra2or9om0o",
+        "published_at": "2026-01-11T10:25:57.746000+00:00",
+        "summary": " শরীরের দাগ দেখে স্থানীয় লোকজন এটিকে কেউ চিতাবাঘ, কেউ বাগডাশ মনে করে পিটিয়ে মেরে ফেলতে চাইছিলেন। তবে অনেকে বাধা দেওয়ায় কেউ আঘাত করেননি।",
+        "image_s3_key": "prothomalo-bangla/2026-01-11/2oyuz155/c280b563-b5f7-4e3b-80cf-db2c4ece324c.jfif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/2oyuz155/c280b563-b5f7-4e3b-80cf-db2c4ece324c.jfif?auto=format,compress"
       },
       {
         "headline": "প্রাথমিক শিক্ষক নিয়োগ পরীক্ষা বাতিলের দাবিতে নওগাঁয় মানববন্ধন",
@@ -2944,13 +2954,6 @@
         "published_at": null,
         "summary": "চট্টগ্রামের হাটহাজারীতে দুর্বৃত্তদের ছুরিকাঘাতে মাহবুব আলম (৩৬) নামে এক যুবক নিহত হয়েছেন। রোববার (১১ জানুয়ারি) ভোর আনুমানিক ৪টার দিকে হাটহাজারী পৌরসভার কলাবাগান এলাকায় এ ঘটনা ঘটে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/da919871841f885a9a3e52e7f855ea98-6963706754483.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সুনামগঞ্জে এক জোড়া লাউ ১৮ হাজার ২০ টাকায় বিক্রি!",
-        "url": "https://www.ittefaq.com.bd/769864/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%9C%E0%A7%8B%E0%A7%9C%E0%A6%BE-%E0%A6%B2%E0%A6%BE%E0%A6%89-%E0%A7%A7%E0%A7%AE-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A8%E0%A7%A6-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF",
-        "published_at": null,
-        "summary": "সুনামগঞ্জের দিরাই উপজেলায় ঘটেছে এক ব্যতিক্রমী ঘটনা, যা স্থানীয়ভাবে ব্যাপক আলোচনার জন্ম দিয়েছে। উপজেলার পঞ্চগ্রাম কাইমা মাদ্রাসার বার্ষিক ওয়াজ মাহফিলে দান করা মাত্র দুটি লাউ নিলামে বিক্রি হয়েছে ১৮ হাজার ২০ টাকায়।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/b51f23fb2fbd635b8e881533d53c2013-69635de1ebe2b.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       }
     ],
     "politics": [
@@ -3151,18 +3154,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/ncp-20260106104943.jpg"
       },
       {
+        "headline": "চরমোনাই পীরজুলাই সনদের আলোচনা রাজনীতি থেকে হারিয়ে গেছে",
+        "url": "https://www.amarsangbad.com/politics/news/334568",
+        "published_at": "1768153523",
+        "summary": "ইসলামী আন্দোলন বাংলাদেশের আমির ও চরমোনাই পীর মুফতি সৈয়দ মুহাম্মাদ রেজাউল করীম বলেছেন, ‘জুলাই সনদের আলোচনা রাজনীতি থেকে হারিয়ে গেছে। এটা হতাশার। জুলাই সনদের পক্ষে বিপুল জনসমর্থন প্রদর্শিত না হলে অন্তর্বর্তী সরকার এই নির্বাচনসহ সবকিছুই প্রশ্নের মুখে পড়বে।’",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/oirr-20260111174523.jpg"
+      },
+      {
         "headline": "দুর্নীতিবাজ ও ঋণখেলাপি মুক্ত সংসদ গড়ার শপথ হাসনাত আব্দুল্লাহর",
         "url": "https://www.amarsangbad.com/politics/news/334561",
         "published_at": "1768142352",
         "summary": "বাংলাদেশের সংসদীয় গণতন্ত্রের ইতিহাসে এবারের ত্রয়োদশ জাতীয় সংসদ নির্বাচন হবে একটি শুদ্ধি অভিযানের শামিল। এই নির্বাচনের মূল লক্ষ্য হবে রাষ্ট্র থেকে দুর্নীতি নির্মূল করা, চাঁদাবাজমুক্ত সমাজ গঠন এবং বড় বড় ঋণখেলাপিদের সংসদের বাইরে রাখা।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-28-20260111144059.jpg"
-      },
-      {
-        "headline": "২৭০ আসনে অ্যাম্বাসেডর নিয়োগ দিচ্ছে এনসিপি, গণভোটে ‘হ্যাঁ’ জয়যুক্ত করতে অভিনব কৌশল",
-        "url": "https://www.amarsangbad.com/politics/news/334560",
-        "published_at": "1768141763",
-        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও জুলাই সনদের ওপর প্রস্তাবিত গণভোটকে কেন্দ্র করে এক ব্যতিক্রমী সাংগঠনিক পদক্ষেপ নিয়েছে জাতীয় নাগরিক পার্টি। দলটি সিদ্ধান্ত নিয়েছে, যে ২৭০টি সংসদীয় আসনে তাদের কোনো দলীয় প্রার্থী নেই, সেই আসনগুলোতে গণভোটে ‘হ্যাঁ’ চিহ্নের পক্ষে জোরালো প্রচার চালাতে বিশেষ প্রতিনিধি বা অ্যাম্বাসেডর নিয়োগ দেওয়া হবে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-27-20260111142923.jpg"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-28-20260111144059.jpg"
       },
       {
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
@@ -3177,6 +3180,13 @@
         "published_at": null,
         "summary": "জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমানের সঙ্গে বৈঠক করেছেন মার্কিন যুক্তরাষ্ট্রের সাবেক স্টেট সেক্রেটারি মি. অ্যালবার্ট টি. গম্বিস। রোববার (১১ ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "২৭০ আসনে অ্যাম্বাসেডর নিয়োগ দিচ্ছে এনসিপি, গণভোটে ‘হ্যাঁ’ জয়যুক্ত করতে অভিনব কৌশল",
+        "url": "https://www.amarsangbad.com/politics/news/334560",
+        "published_at": "1768141763",
+        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও জুলাই সনদের ওপর প্রস্তাবিত গণভোটকে কেন্দ্র করে এক ব্যতিক্রমী সাংগঠনিক পদক্ষেপ নিয়েছে জাতীয় নাগরিক পার্টি। দলটি সিদ্ধান্ত নিয়েছে, যে ২৭০টি সংসদীয় আসনে তাদের কোনো দলীয় প্রার্থী নেই, সেই আসনগুলোতে গণভোটে ‘হ্যাঁ’ চিহ্নের পক্ষে জোরালো প্রচার চালাতে বিশেষ প্রতিনিধি বা অ্যাম্বাসেডর নিয়োগ দেওয়া হবে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-27-20260111142923.jpg"
       },
       {
         "headline": "নবজাতকের লাশ নিয়ে কুকুরের টানাহ্যাঁচড়া, অতঃপর...",
@@ -4346,13 +4356,6 @@
         "published_at": "2026-01-10T19:00:34+06:00",
         "summary": "বিএনপির স্থায়ী কমিটির সদস্য মির্জা আব্বাস বলেছেন, একটা চক্র নির্বাচন বানচালের চেষ্টা করছে। কিন্তু কোনো ষড়যন্ত্রকে প্রশ্রয় দেয়া হবে না। যেখানেই ষড়যন্ত্র হবে সেখানেই প্রতিহত করা হবে। দলীয় নেতাকর্মীদের কোনো উসকানিতে পা না দেওয়ার পরামর্শ রইল।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/10/og/1768050028-712f1f7a1269a29026e8a2dad60f68ee.jpg"
-      },
-      {
-        "headline": "নাহিদ ইসলামনির্বাচনে জামায়াত-এনসিপি জোটের আসন ঘোষণা দু-এক দিনেই",
-        "url": "https://www.amarsangbad.com/politics/news/334423",
-        "published_at": "1768045401",
-        "summary": "বাংলাদেশের আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে কেন্দ্র করে রাজনৈতিক সমীকরণ নতুন মোড় নিয়েছে। জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক নাহিদ ইসলাম আজ ঘোষণা করেছেন যে, জামায়াতে ইসলামীর সঙ্গে তাদের জোট নির্বাচনী লড়াইয়ের জন্য সম্পূর্ণ প্রস্তুত। আগামী ৪৮ থেকে ৭২ ঘণ্টার মধ্যে এই জোটের চূড়ান্ত আসন বণ্টন এবং প্রার্থীর তালিকা আনুষ্ঠানিকভাবে ঘোষণা করা হবে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-23-20260110114321.jpg"
       }
     ],
     "world": [
@@ -6112,6 +6115,13 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/9l81yi56/পিআরআইয়ের-সেমিনার—-এখনো-৬৫-শতাংশ-লেনদেন.jpg?auto=format,compress"
       },
       {
+        "headline": "আইপিএল ইস্যুতে বাংলাদেশ–ভারত বাণিজ্যে নেতিবাচক প্রভাব পড়েনি: বাণিজ্য উপদেষ্টা",
+        "url": "https://www.ittefaq.com.bd/769930/%E0%A6%86%E0%A6%87%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B2-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E2%80%93%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%95",
+        "published_at": null,
+        "summary": "আইপিএল ইস্যুর কারণে বাংলাদেশ–ভারত বাণিজ্যে কোনো নেতিবাচক প্রভাব পড়বে—এমন কিছু বর্তমানে দেখা যাচ্ছে না বলে মন্তব্য করেছেন বাণিজ্য উপদেষ্টা শেখ বশিরউদ্দিন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/99ce9e7a1c777709f64129395eb80dd2-6963e0f71c05a.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "সম্মিলিত ইসলামী ব্যাংক থেকে ১০ হাজার কোটি টাকা ঋণ নিচ্ছে সরকার",
         "url": "https://www.ittefaq.com.bd/769929/%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%8B%E0%A6%A3",
         "published_at": null,
@@ -6175,13 +6185,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/08/8f17a7602bee537adaf3c2aff4063a75-695f918299db6.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
-        "headline": "ধর্মঘট প্রত্যাহারের ঘোষণা দিয়েছে এলপি গ্যাস ব‍্যবসায়ীরা",
-        "url": "https://www.ittefaq.com.bd/769510/%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%98%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A6%AA%E0%A6%BF-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8",
-        "published_at": null,
-        "summary": "এলপি গ্যাস ব‍্যবসায়ী সমবায় সমিতি লিমিটেড  বৃহস্পতিবার (৮ জানুয়ারি) সারা দেশে এলপিজি বিপণন ও সরবরাহে ঘোষিত অনির্দিষ্টকালের ধর্মঘট প্রত্যাহার করেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/02/3c6ea47cc2ac74bc075f0322f9182dec-692ebdcdedd83.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
         "headline": "জুলাই নায়কদের মিডিয়া ট্রায়াল",
         "url": "https://dailynayadiganta.com/opinions/sub-editorial/O8tQb7KQNxrA/",
         "published_at": null,
@@ -6194,6 +6197,13 @@
         "published_at": null,
         "summary": "১২ ফেব্রুয়ারির নির্বাচন বাংলাদেশের গণতান্ত্রিক পুনর্গঠনের সুযোগ, অথবা অতীতের ‘সূক্ষ্ম কারচুপির’ ছায়ার পুনরাবৃত্তি। ইতিহাস ও আন্তর্জাতিক অভিজ্ঞতা স্পষ্ট জানাচ্ছে, বৈধতা ছাড়া স্থিতিশীলতা টেকে না।",
         "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "রূপালী ব্যাংকের মহাব্যবস্থাপক মো: আবুল হাসানের সুস্থতা কামনায় দোয়া মাহফিল",
+        "url": "https://dailynayadiganta.com/economy/banking-insurance/59f41QyaZ26m/",
+        "published_at": null,
+        "summary": "তার আরোগ্য ও সুস্থতা কামনায় রোববার ব্যাংকের দিলকুশাস্থ প্রধান কার্যালয়ে এক দোয়া মাহফিলের আয়োজন করা হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_1_pVbi7BM.png"
       },
       {
         "headline": "অ্যাসাইকুডা ওয়ার্ল্ড ও বিজিএমইএর ই-ইউডি পদ্ধতির মধ্যে আন্তঃসংযোগ স্থাপন করল এনবিআর",
@@ -6222,13 +6232,6 @@
         "published_at": null,
         "summary": "গত ৫ আগস্ট শেখ হাসিনা সরকারের পতনের পর ভারত ও বাংলাদেশের মধ্যে সম্পর্ক খারাপ থাকায় আমদানি-রফতানি বাণিজ্য কম হয়েছে।",
         "image_url": "https://media.ndiganta.com/original_images/Benapole-customs.jpg"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্রের সাথে বাণিজ্য আলোচনায় বড় অগ্রগতি",
-        "url": "https://dailynayadiganta.com/economy/6vnahAl2Rfl4/",
-        "published_at": null,
-        "summary": "এই অগ্রগতি যুক্তরাষ্ট্র-বাংলাদেশ অর্থনৈতিক সম্পর্কের ইতিবাচক গতি ও পারস্পরিক আস্থারই প্রতিফলন। একই সাথে এটি বৈশ্বিক বাণিজ্যে বাংলাদেশের সম্ভাবনার ক্ষেত্রে একটি আশাব্যঞ্জক নতুন অধ্যায়ের সূচনা করতে পারে।",
-        "image_url": "https://media.ndiganta.com/original_images/khalil_amy1ril.JPG"
       },
       {
         "headline": "এলপি গ্যাস আমদানিতে ভ্যাট কমানোর সুপারিশ",
@@ -6320,6 +6323,20 @@
         "published_at": "1768141422",
         "summary": "দেশের উন্নয়ন বাজেটে বড় ধরনের কাটছাঁট করতে যাচ্ছে অন্তর্বর্তী সরকার। প্রকল্প বাস্তবায়নের ধীরগতি এবং সরকারের রাজস্ব আদায়ে ঘাটতির কারণে চলতি অর্থবছরের বার্ষিক উন্নয়ন কর্মসূচি থেকে ৩০ হাজার কোটি টাকা কমিয়ে আনার প্রস্তাব করা হয়েছে। বিশেষ করে দেশের অবকাঠামোগত উন্নয়নের মাইলফলক হিসেবে পরিচিত মেট্রোরেল, বিমানবন্দর সম্প্রসারণ এবং মাতারবাড়ী বন্দর উন্নয়নের মতো শীর্ষ ১০টি মেগা প্রকল্প থেকেই ১২ হাজার কোটি টাকার বেশি বরাদ্দ সরিয়ে নেওয়া হচ্ছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-26-20260111142342.jpg"
+      },
+      {
+        "headline": "ধর্মঘট প্রত্যাহারের ঘোষণা দিয়েছে এলপি গ্যাস ব‍্যবসায়ীরা",
+        "url": "https://www.ittefaq.com.bd/769510/%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%98%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A6%AA%E0%A6%BF-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8",
+        "published_at": null,
+        "summary": "এলপি গ্যাস ব‍্যবসায়ী সমবায় সমিতি লিমিটেড  বৃহস্পতিবার (৮ জানুয়ারি) সারা দেশে এলপিজি বিপণন ও সরবরাহে ঘোষিত অনির্দিষ্টকালের ধর্মঘট প্রত্যাহার করেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/02/3c6ea47cc2ac74bc075f0322f9182dec-692ebdcdedd83.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
+        "headline": "যুক্তরাষ্ট্রের সাথে বাণিজ্য আলোচনায় বড় অগ্রগতি",
+        "url": "https://dailynayadiganta.com/economy/6vnahAl2Rfl4/",
+        "published_at": null,
+        "summary": "এই অগ্রগতি যুক্তরাষ্ট্র-বাংলাদেশ অর্থনৈতিক সম্পর্কের ইতিবাচক গতি ও পারস্পরিক আস্থারই প্রতিফলন। একই সাথে এটি বৈশ্বিক বাণিজ্যে বাংলাদেশের সম্ভাবনার ক্ষেত্রে একটি আশাব্যঞ্জক নতুন অধ্যায়ের সূচনা করতে পারে।",
+        "image_url": "https://media.ndiganta.com/original_images/khalil_amy1ril.JPG"
       },
       {
         "headline": "এলপিজি সংকট নিরসনে জ্বালানি বিভাগের ৫ উদ্যোগ, ব্যবসায়ীদের সঙ্গে বিকালে বৈঠক",
@@ -7295,23 +7312,17 @@
         "summary": null,
         "image_s3_key": "prothomalo-bangla/2022-12/6b0d0ce6-bfc1-4a10-be35-b21d68f44f0a/Gold_Palo.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-12/6b0d0ce6-bfc1-4a10-be35-b21d68f44f0a/Gold_Palo.jpg?auto=format,compress"
-      },
-      {
-        "headline": "দায়মুক্তি পাচ্ছেন  জুলাইযোদ্ধারা",
-        "url": "https://dailynayadiganta.com/printed-edition/Vk4IAMlEI77D/",
-        "published_at": null,
-        "summary": "জুলাইযোদ্ধাদের হয়রানির পেছনে আইনশৃঙ্খলা রক্ষাকারী বাহিনী এবং রাষ্ট্রের একটি গোয়েন্দা সংস্থার বিরুদ্ধে কলকাঠি নাড়ানোর অভিযোগ উঠছে। তাই জুুলাইযোদ্ধাদের এ ধরনের হয়রানি বন্ধে আইনশৃঙ্খলা রক্ষাবাহিনীকে কড়া নির্দেশনা দিয়েছে স্বরাষ্ট্র মন্ত্রণালয়। একই সাথে চব্বিশের ১৫ জুলাই থেকে ৮ আগস্ট পর্যন্ত অনাকাঙ্ক্ষিত সব ঘটনার দায়মুক্তি দেয়ার সিদ্ধান্ত নেয়া হয়েছে। শিগগিই এই দায়মুক্তি সংক্রান্ত আদেশ জারি হবে। গতকাল স্বরাষ্ট্র মন্ত্রণালয়ে আইনশৃঙ্খলা সংক্রান্ত নিয়মিত বৈঠকে এ সিদ্ধান্ত নেয়া হয়। বৈঠক সূত্র এ তথ্য নিশ্চিত করেছে।",
-        "image_url": "https://media.ndiganta.com/images/July_Uprising_2024.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "তারেক রহমানের ফেরা, অতঃপর",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/44H8CFGWqVNc/",
-        "published_at": null,
-        "summary": "আবার স্বাধীনতার ৫৪ বছর পর আরেকটি ব্যাপক, বিপুল সংবর্ধিত একটি প্রত্যাবর্তন দেশবাসী প্রত্যক্ষ করেছে গত ২৫ ডিসেম্বর। সেটি তারেক রহমানের।",
-        "image_url": "https://media.ndiganta.com/images/opinion01_nbGXntp.ori.2e16d0ba.fill-445x250.format-webp.webp"
       }
     ],
     "sports": [
+      {
+        "headline": "বাবার কথা না শুনে সেঞ্চুরি হারিয়েও আফসোস নেই নবীর ছেলে হাসানের",
+        "url": "https://www.prothomalo.com/sports/cricket/8rfm1ve3cj",
+        "published_at": "2026-01-11T17:54:27.837000+00:00",
+        "summary": "বাবা মোহাম্মদ নবীর সঙ্গে প্রথমবার একই দলের হয়ে খেলতে নেমেছিলেন ছেলে হাসান ইসাখিল। বাবার সঙ্গে জুটিও গড়েছেন। তবে ৮ রানের সেঞ্চুরি হারিয়েছেন হাসান। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-11/80smllw5/WhatsApp-Image-2026-01-11-at-11.27.20-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/80smllw5/WhatsApp-Image-2026-01-11-at-11.27.20-PM.jpeg?auto=format,compress"
+      },
       {
         "headline": "টেন্ডুলকারের রেকর্ড ভাঙা কোহলি শুধু সেঞ্চুরিটাই পেলেন না",
         "url": "https://www.prothomalo.com/sports/cricket/1c1xak9xip",
@@ -7625,14 +7636,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/m9bueyqq/WhatsApp-Image-2026-01-09-at-6.04.28-PM.jpeg?auto=format,compress"
       },
       {
-        "headline": "বেগম খালেদা জিয়ার মৃত্যুতে ফিফা সভাপতির শোক",
-        "url": "https://www.prothomalo.com/sports/football/bzfdcln6zs",
-        "published_at": "2026-01-09T12:12:56.346000+00:00",
-        "summary": "আন্তর্জাতিক ফুটবল অঙ্গনের পক্ষ থেকে ফিফা সভাপতি বাংলাদেশ সরকার, বাংলাদেশ ফুটবল ফেডারেশন এবং বাংলাদেশের জনগণের প্রতি গভীর সমবেদনা জানান।",
-        "image_s3_key": "prothomalo-bangla/2026-01-09/ifxwfvan/New-Phototastic-Collage.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/ifxwfvan/New-Phototastic-Collage.jpg?auto=format,compress"
-      },
-      {
         "headline": "নোয়াখালীর বাবা-ছেলের কাছে হারল ঢাকা",
         "url": "https://www.ittefaq.com.bd/769928/%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%B2-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE",
         "published_at": null,
@@ -7780,13 +7783,6 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260106072025.jpg"
       },
       {
-        "headline": "ভারতের বদলে শ্রীলঙ্কায় হতে পারে বাংলাদেশের বিশ্বকাপ ম্যাচ",
-        "url": "https://www.amarsangbad.com/sports/news/333797",
-        "published_at": "1767549111",
-        "summary": "মোস্তাফিজুর রহমান ইস্যুতে আসন্ন টি-টোয়েন্টি বিশ্বকাপে ভারত সফর না করার সিদ্ধান্তে অনড় অবস্থান নিয়েছে বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। বাংলাদেশের পক্ষ থেকে ভেন্যু পরিবর্তনের আবেদনের প্রেক্ষিতে ইতিবাচক সাড়া দিয়েছে বিশ্ব ক্রিকেটের নিয়ন্ত্রক সংস্থা আইসিসি।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/sos-20260104175151.jpg"
-      },
-      {
         "headline": "বাংলাদেশে আইপিএল সম্প্রচার বন্ধ করতে তথ্য মন্ত্রণালয়ের নির্দেশ",
         "url": "https://www.amarsangbad.com/sports/news/333810",
         "published_at": "1767598026",
@@ -7829,6 +7825,13 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260106060918.jpg"
       },
       {
+        "headline": "বিশ্বকাপের আগে বড় ধাক্কা ভারতের",
+        "url": "https://www.amarsangbad.com/sports/news/334200",
+        "published_at": "1767863359",
+        "summary": "২০২৬ টি-টোয়েন্টি বিশ্বকাপের মহারণ শুরু হওয়ার ঠিক আগমুহূর্তে বড় দুঃসংবাদ পেলো ভারতীয় ক্রিকেট দল। দলের অন্যতম নির্ভরযোগ্য ব্যাটার এবং সর্বশেষ এশিয়া কাপ জয়ের নায়ক তিলক ভার্মা গুরুতর ইনজুরিতে পড়েছেন। পেটের সমস্যার (অ্যাবডোমেন ইনজুরি) কারণে আসন্ন নিউজিল্যান্ড সিরিজ থেকে তাঁর ছিটকে পড়া নিশ্চিত, এমনকি বিশ্বকাপের শুরুর দিকের ম্যাচগুলোতে তাঁকে পাওয়া নিয়ে প্রবল শঙ্কা দেখা দিয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260108090919.jpg"
+      },
+      {
         "headline": "বিশ্বকাপে টাইগারদের ভেন্যু কি পাকিস্তান? ভারতের ওপর বিসিবির অনড় অবস্থানে পিসিবির আগ্রহ",
         "url": "https://www.amarsangbad.com/sports/news/334545",
         "published_at": "1768137955",
@@ -7841,6 +7844,21 @@
         "published_at": "1768030057",
         "summary": "বাংলাদেশ ক্রিকেট বোর্ডের আয় নিয়ে সাম্প্রতিক সময়ে ক্রীড়াঙ্গনে আলোচনা ও বিতর্ক তৈরি হয়েছে। বিশেষ করে আন্তর্জাতিক ক্রিকেট কাউন্সিল থেকে বিসিবি কতটা রাজস্ব পায়, তা নিয়ে কৌতূহল বাড়ছে। এই প্রেক্ষাপটে বিসিবির শীর্ষ পর্যায়ের বক্তব্যে বিষয়টি স্পষ্ট হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260110072737.jpg"
+      },
+      {
+        "headline": "বেগম খালেদা জিয়ার মৃত্যুতে ফিফা সভাপতির শোক",
+        "url": "https://www.prothomalo.com/sports/football/bzfdcln6zs",
+        "published_at": "2026-01-09T12:12:56.346000+00:00",
+        "summary": "আন্তর্জাতিক ফুটবল অঙ্গনের পক্ষ থেকে ফিফা সভাপতি বাংলাদেশ সরকার, বাংলাদেশ ফুটবল ফেডারেশন এবং বাংলাদেশের জনগণের প্রতি গভীর সমবেদনা জানান।",
+        "image_s3_key": "prothomalo-bangla/2026-01-09/ifxwfvan/New-Phototastic-Collage.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/ifxwfvan/New-Phototastic-Collage.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ভারতের বদলে শ্রীলঙ্কায় হতে পারে বাংলাদেশের বিশ্বকাপ ম্যাচ",
+        "url": "https://www.amarsangbad.com/sports/news/333797",
+        "published_at": "1767549111",
+        "summary": "মোস্তাফিজুর রহমান ইস্যুতে আসন্ন টি-টোয়েন্টি বিশ্বকাপে ভারত সফর না করার সিদ্ধান্তে অনড় অবস্থান নিয়েছে বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। বাংলাদেশের পক্ষ থেকে ভেন্যু পরিবর্তনের আবেদনের প্রেক্ষিতে ইতিবাচক সাড়া দিয়েছে বিশ্ব ক্রিকেটের নিয়ন্ত্রক সংস্থা আইসিসি।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/sos-20260104175151.jpg"
       },
       {
         "headline": "বিগ ব্যাশে আবার রিশাদ ম্যাজিক, ছাড়ালেন সাকিবকে",
@@ -8498,13 +8516,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/08/2ea50ae7e2e81a1426c75daa4f5d6d89-695f503882567.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
       },
       {
-        "headline": "বিশ্বকাপের আগে বড় ধাক্কা ভারতের",
-        "url": "https://www.amarsangbad.com/sports/news/334200",
-        "published_at": "1767863359",
-        "summary": "২০২৬ টি-টোয়েন্টি বিশ্বকাপের মহারণ শুরু হওয়ার ঠিক আগমুহূর্তে বড় দুঃসংবাদ পেলো ভারতীয় ক্রিকেট দল। দলের অন্যতম নির্ভরযোগ্য ব্যাটার এবং সর্বশেষ এশিয়া কাপ জয়ের নায়ক তিলক ভার্মা গুরুতর ইনজুরিতে পড়েছেন। পেটের সমস্যার (অ্যাবডোমেন ইনজুরি) কারণে আসন্ন নিউজিল্যান্ড সিরিজ থেকে তাঁর ছিটকে পড়া নিশ্চিত, এমনকি বিশ্বকাপের শুরুর দিকের ম্যাচগুলোতে তাঁকে পাওয়া নিয়ে প্রবল শঙ্কা দেখা দিয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260108090919.jpg"
-      },
-      {
         "headline": "উপদেষ্টার সঙ্গে বৈঠক: ভারতে বিশ্বকাপ না খেলার সিদ্ধান্তে অটল বাংলাদেশ",
         "url": "https://www.prothomalo.com/sports/cricket/0hrht89gei",
         "published_at": "2026-01-07T12:05:49.025000+00:00",
@@ -8804,14 +8815,6 @@
         "published_at": null,
         "summary": "টসে হেরে আগে ব্যাট করে ৫ উইকেটে ১৯৮ রান তুলে চট্টগ্রাম রয়্যালস। জবাবে ১৯.৪ ওভার ব্যাট করে ১৮৪ রান তুলতে পারে সিলেট টাইটান্স। এই পয়েন্ট টেবিলের শীর্ষে উঠে এসেছে শেখ মেহেদীর দল।",
         "image_url": "https://media.ndiganta.com/original_images/BPL_Z3yfknJ.jpg"
-      },
-      {
-        "headline": "মোস্তাফিজকে বাদ দেওয়ার খবর বিসিসিআইয়ের কর্মকর্তারাই জেনেছেন ‘মিডিয়া থেকে’",
-        "url": "https://www.prothomalo.com/sports/cricket/1lxhv1n6j7",
-        "published_at": "2026-01-06T06:39:41.485000+00:00",
-        "summary": "মোস্তাফিজুর রহমানকে স্কোয়াড থেকে বাদ দিয়েছে আইপিএলের ফ্র্যাঞ্চাইজি দল কলকাতা নাইট রাইডার্স। ভারতের সংবাদমাধ্যম জানিয়েছে, বিসিসিআইয়ের সদস্যদের মধ্যে আলোচনার মাধ্যমে এই সিদ্ধান্ত নেওয়া হয়নি। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-06/y6x56k7b/WhatsApp_Image_2026_01_02_at_7_34_00_PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/y6x56k7b/WhatsApp_Image_2026_01_02_at_7_34_00_PM.jpeg?auto=format,compress"
       }
     ],
     "entertainment": [
