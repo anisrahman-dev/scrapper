@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-01-11T18:53:27.215185+00:00",
+  "fetched_at": "2026-01-11T19:15:32.148919+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "শেষ ওভারেই ডুবল পাকিস্তান, ১৪ রানের জয়ে সিরিজ ড্র করল শ্রীলঙ্কা",
+        "url": "https://www.prothomalo.com/sports/cricket/7uu2wtx6zc",
+        "published_at": "2026-01-11T19:04:34.327000+00:00",
+        "summary": "ডাম্বুলায় আজ পাকিস্তান-শ্রীলঙ্কা সিরিজের শেষ টি-টোয়েন্টি ম্যাচটি বৃষ্টিতে হয়ে যায় টি-টুয়েলভ ম্যাচ। সেই ম্যাচে ১৪ রানে জিতে সিরিজ ড্র করেছে শ্রীলঙ্কা।",
+        "image_s3_key": "prothomalo-bangla/2026-01-11/i8ob8l4y/820879-01-02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/i8ob8l4y/820879-01-02.jpg?auto=format,compress"
+      },
       {
         "headline": "ভারতের নিরাপত্তা উপদেষ্টা অজিত দোভাল কেন মোবাইল ও ইন্টারনেট ব্যবহার\n করেন না",
         "url": "https://www.prothomalo.com/world/india/02bjsd104i",
@@ -299,14 +307,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/xzeaegbk/1.JPG?auto=format,compress"
       },
       {
-        "headline": "মিয়ানমারের গুলিতে টেকনাফে গুলিবিদ্ধ শিশুটি লাইফ সাপোর্টে",
-        "url": "https://www.prothomalo.com/video/bangladesh/0nsyq0tbc0",
-        "published_at": "2026-01-11T14:47:22.077000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-11/9jyfnrp2/THUMNAILWEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/9jyfnrp2/THUMNAILWEB.jpg?auto=format,compress"
-      },
-      {
         "headline": "ক্ষমতার চেয়ার ও ভাঙা রাষ্ট্র",
         "url": "https://www.bd-pratidin.com/open-air-theater/2026/01/12/1203572",
         "published_at": "2026-01-12T00:35:57+06:00",
@@ -377,6 +377,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768144717-3d09dd4fb7ae224d246bb081f11a63d0.PNG"
       },
       {
+        "headline": "পাকিস্তানের ইসলামাবাদে বিয়েবাড়িতে ভয়াবহ বিস্ফোরণ, নবদম্পতিসহ নিহত ৮",
+        "url": "https://www.ittefaq.com.bd/769932/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3",
+        "published_at": null,
+        "summary": "পাকিস্তানের রাজধানী ইসলামাবাদে একটি বিয়েবাড়িতে ভয়াবহ বিস্ফোরণে নবদম্পতিসহ অন্তত ৮ জন নিহত হয়েছেন। এ ঘটনায় গুরুতর আহত হয়েছেন আরও অন্তত ১২ জন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/12/97483080956d1114be196a3f0506ca71-6963ecc0adb78.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "স্বতন্ত্র প্রার্থীদের পক্ষে স্বাক্ষরকারী ১ শতাংশ ভোটারের নিরাপত্তা ঝুঁকিতে",
         "url": "https://www.ittefaq.com.bd/769931/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A7%A7-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6",
         "published_at": null,
@@ -438,13 +445,6 @@
         "published_at": null,
         "summary": "কুমিল্লায় তুচ্ছ ঘটনাকে কেন্দ্র করে ফাহিমা আক্তার (২৫) নামে এক অন্তঃসত্ত্বা নারীকে কুপিয়ে হত্যার অভিযোগ উঠেছে। রোববার (১১ জানুয়ারি) বিকেলে জেলার বুড়িচং উপজেলা সদরের জগতপুর গ্রামে এ মর্মান্তিক ঘটনা ঘটে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/7e08b030cfaafb633de8bbf781d8c205-6963c43f750c0.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "মনোনয়ন গ্রহণ-বাতিলের বিরুদ্ধে দ্বিতীয় দিনে ৫৮ আপিল মঞ্জুর",
-        "url": "https://www.ittefaq.com.bd/769922/%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A7%AB%E0%A7%AE-%E0%A6%86%E0%A6%AA%E0%A6%BF%E0%A6%B2",
-        "published_at": null,
-        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং অফিসারের মনোনয়নপত্র গ্রহণ ও বাতিল আদেশের বিরুদ্ধে দ্বিতীয় দিনে ৫৮টি আপিল মঞ্জুর করেছে নির্বাচন কমিশন (ইসি)।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/aaaff62b1f80e50aca3789cf620cd84a-695cd7ba30567.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "জুলাই নায়কদের মিডিয়া ট্রায়াল",
@@ -534,7 +534,7 @@
         "headline": "আজকের সর্বশেষ খবর - January 12, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "ঢাকা-১ (দোহার-নবাবগঞ্জ) আসনে ইসলামী আন্দোলন বাংলাদেশের প্রার্থী মাওলানা নুরুল ইসলামের প্রার্থিতা নিয়ে চলা অনিশ্চয়তা দূর হয়েছে। বিদ্যুৎ বিল বকেয়া থাকার ...",
+        "summary": "‎বিএনপির কেন্দ্রীয় সাংগঠনিক সম্পাদক ও ফরিদপুর-২ আসনের ধানের শীষের মনোনীত প্রার্থী শামা ওবায়েদ ইসলাম বলেছেন, দুর্নীতি, দখলবাজি, টেন্ডারবাজি এই তিনটা ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -543,6 +543,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "মিয়ানমারের গুলিতে টেকনাফে গুলিবিদ্ধ শিশুটি লাইফ সাপোর্টে",
+        "url": "https://www.prothomalo.com/video/bangladesh/0nsyq0tbc0",
+        "published_at": "2026-01-11T14:47:22.077000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-11/9jyfnrp2/THUMNAILWEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/9jyfnrp2/THUMNAILWEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "মনোনয়ন গ্রহণ-বাতিলের বিরুদ্ধে দ্বিতীয় দিনে ৫৮ আপিল মঞ্জুর",
+        "url": "https://www.ittefaq.com.bd/769922/%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A7%AB%E0%A7%AE-%E0%A6%86%E0%A6%AA%E0%A6%BF%E0%A6%B2",
+        "published_at": null,
+        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং অফিসারের মনোনয়নপত্র গ্রহণ ও বাতিল আদেশের বিরুদ্ধে দ্বিতীয় দিনে ৫৮টি আপিল মঞ্জুর করেছে নির্বাচন কমিশন (ইসি)।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/aaaff62b1f80e50aca3789cf620cd84a-695cd7ba30567.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "পঞ্চগড়ে আন্দোলনকারীদের সড়ক অবরোধে লাঠিপেটা, আহত ২৬",
@@ -1477,20 +1492,6 @@
         "published_at": "2026-01-11T19:38:35+06:00",
         "summary": "বন্ড ব্যবস্থাপনাকে আধুনিক, গতিশীল ও প্রযুক্তিনির্ভর করতে অ্যাসাইকুডা ওয়ার্ল্ডের সঙ্গে বিজিএমইএ কর্তৃক ইস্যুকৃত ই-ইউডি (ইউটিলাইজেশন ডিক্লারেশন) পদ্ধতির আন্তঃসংযোগ স্থাপন করেছে জাতীয় রাজস্ব বোর্ড (এনবিআর)।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768138708-4d40106a6d70ab0fc6dcfc916b48ac7d.jpg"
-      },
-      {
-        "headline": "গণভোট বিষয়ক প্রশিক্ষণ ১৫ জানুয়ারি মধ্যে সম্পন্ন করার নির্দেশ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/11/1203366",
-        "published_at": "2026-01-11T19:25:13+06:00",
-        "summary": "গণভোট বিষয়ক প্রশিক্ষণ আগামী ১৫ জানুয়ারি ২০২৬ তারিখের মধ্যে সম্পন্ন করতে সারা দেশের সকল উপজেলা প্রাথমিক শিক্ষা অফিসারকে নির্দেশ দেওয়া হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768137909-d503937e7c4fdc99b4f2fc8254cf3e97.jpg"
-      },
-      {
-        "headline": "গণভোট উপলক্ষে জনসচেতনতা বৃদ্ধিতে গাইবান্ধায় সমন্বয় সভা",
-        "url": "https://www.bd-pratidin.com/country/2026/01/11/1203365",
-        "published_at": "2026-01-11T19:24:52+06:00",
-        "summary": "গণভোট উপলক্ষে জনসচেতনতা সৃষ্টির লক্ষ্যে গাইবান্ধায় সমন্বয় সভা অনুষ্ঠিত হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768137885-027e77177ca86a611eb66b0e55c1c345.PNG"
       }
     ],
     "bangladesh": [
@@ -4754,6 +4755,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768144717-3d09dd4fb7ae224d246bb081f11a63d0.PNG"
       },
       {
+        "headline": "পাকিস্তানের ইসলামাবাদে বিয়েবাড়িতে ভয়াবহ বিস্ফোরণ, নবদম্পতিসহ নিহত ৮",
+        "url": "https://www.ittefaq.com.bd/769932/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3",
+        "published_at": null,
+        "summary": "পাকিস্তানের রাজধানী ইসলামাবাদে একটি বিয়েবাড়িতে ভয়াবহ বিস্ফোরণে নবদম্পতিসহ অন্তত ৮ জন নিহত হয়েছেন। এ ঘটনায় গুরুতর আহত হয়েছেন আরও অন্তত ১২ জন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/12/97483080956d1114be196a3f0506ca71-6963ecc0adb78.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+      },
+      {
         "headline": "মাদুরোর পরিবর্তে নেতানিয়াহুকে অপহরণ করা উচিত: খাজা আসিফ",
         "url": "https://www.ittefaq.com.bd/769924/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AA%E0%A6%B9%E0%A6%B0%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%89%E0%A6%9A%E0%A6%BF%E0%A6%A4",
         "published_at": null,
@@ -4815,13 +4823,6 @@
         "published_at": null,
         "summary": "ইরানে চলমান গণবিক্ষোভ ঘিরে দেশটির সরকারের সঙ্গে আবারও মুখোমুখি অবস্থানে চলে গেছে যুক্তরাষ্ট্র। বিক্ষোভ দমনে ইরান সহিংস পদ্ধতি ব্যবহার করলে সামরিক হামলার মাধ্যমে সেটির জবাব দেওয়া হবে বলে একাধিকবার হুঁশিয়ার করেছেন মার্কিন প্রেসিডেন্ট ট্রাম্প।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/79af9a6f5f02eaf3a41329821d7462c7-6963899059ff5.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-      },
-      {
-        "headline": "সরকারবিরোধী বিক্ষোভে উত্তাল ইরান, নিরাপত্তা বাহিনীর শতাধিক সদস্য নিহতের দাবি",
-        "url": "https://www.ittefaq.com.bd/769886/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD%E0%A7%87-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B2-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE",
-        "published_at": null,
-        "summary": "ইরানে চলমান সরকারবিরোধী বিক্ষোভে নিরাপত্তা বাহিনীর অন্তত শতাধিক সদস্য নিহত হয়েছেন বলে দাবি করেছে দেশটির রাষ্ট্রীয় গণমাধ্যম।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/baf22fc23d3a89606579d4eafbb4174e-69638708db3bc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "জুলাই নায়কদের মিডিয়া ট্রায়াল",
@@ -4962,6 +4963,13 @@
         "published_at": "1768132983",
         "summary": "ভারতের অভ্যন্তরীণ বিচারব্যবস্থা এবং কারাবন্দী অধিকারকর্মী উমর খালিদকে কেন্দ্র করে ভারত ও যুক্তরাষ্ট্রের মধ্যে কূটনৈতিক উত্তেজনা তুঙ্গে উঠেছে। নিউইয়র্ক নগরের মেয়র জোহরান মামদানি উমর খালিদকে উদ্দেশ্য করে একটি চিঠি লেখায় ভারত সরকার তার তীব্র সমালোচনা করেছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-15-20260111120303.jpg"
+      },
+      {
+        "headline": "সরকারবিরোধী বিক্ষোভে উত্তাল ইরান, নিরাপত্তা বাহিনীর শতাধিক সদস্য নিহতের দাবি",
+        "url": "https://www.ittefaq.com.bd/769886/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD%E0%A7%87-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B2-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE",
+        "published_at": null,
+        "summary": "ইরানে চলমান সরকারবিরোধী বিক্ষোভে নিরাপত্তা বাহিনীর অন্তত শতাধিক সদস্য নিহত হয়েছেন বলে দাবি করেছে দেশটির রাষ্ট্রীয় গণমাধ্যম।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/baf22fc23d3a89606579d4eafbb4174e-69638708db3bc.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
       },
       {
         "headline": "ইরান ‘বড় বিপদে’ আছে, হামলা চালানোর নির্দেশ দেওয়া হতে পারে: ট্রাম্প",
@@ -5805,13 +5813,6 @@
         "published_at": "2026-01-11T13:51:00+06:00",
         "summary": "ভেনেজুয়েলার প্রেসিডেন্ট নিকোলাস মাদুরোকে অপহরণে পরিচালিত অভিযানে রহস্যময় অস্ত্র প্রয়োগ করেছিল মার্কিন বাহিনী, যার প্রভাবে মাদুরোর নিরাপত্তায় থাকা সেনাদের কারও নাক থেকে ঝরছিল রক্ত। আবারও কারও হচ্ছিল রক্তবমি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768117855-24b6b50fff8877487e89e65e4c18837d.jpg"
-      },
-      {
-        "headline": "প্রাথমিক শিক্ষক নিয়োগ পরীক্ষা বাতিলের দাবিতে চলছে বিক্ষোভ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/11/1203228",
-        "published_at": "2026-01-11T13:49:13+06:00",
-        "summary": "প্রাথমিক শিক্ষক নিয়োগ পরীক্ষায় প্রশ্নফাঁসমুক্ত স্বচ্ছ প্রক্রিয়া নিশ্চিত করে পুনরায় পরীক্ষা গ্রহণের দাবিতে মিরপুরে প্রাথমিক শিক্ষা অধিদফতর ঘেরাও করেছেন পরীক্ষার্থীরা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768117748-6c0305671edb7809c9a31e4c396c0357.jpg"
       }
     ],
     "business": [
@@ -7321,6 +7322,14 @@
     ],
     "sports": [
       {
+        "headline": "শেষ ওভারেই ডুবল পাকিস্তান, ১৪ রানের জয়ে সিরিজ ড্র করল শ্রীলঙ্কা",
+        "url": "https://www.prothomalo.com/sports/cricket/7uu2wtx6zc",
+        "published_at": "2026-01-11T19:04:34.327000+00:00",
+        "summary": "ডাম্বুলায় আজ পাকিস্তান-শ্রীলঙ্কা সিরিজের শেষ টি-টোয়েন্টি ম্যাচটি বৃষ্টিতে হয়ে যায় টি-টুয়েলভ ম্যাচ। সেই ম্যাচে ১৪ রানে জিতে সিরিজ ড্র করেছে শ্রীলঙ্কা।",
+        "image_s3_key": "prothomalo-bangla/2026-01-11/i8ob8l4y/820879-01-02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/i8ob8l4y/820879-01-02.jpg?auto=format,compress"
+      },
+      {
         "headline": "বাবার কথা না শুনে সেঞ্চুরি হারিয়েও আফসোস নেই নবীর ছেলে হাসানের",
         "url": "https://www.prothomalo.com/sports/cricket/8rfm1ve3cj",
         "published_at": "2026-01-11T17:54:27.837000+00:00",
@@ -7633,14 +7642,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/2fqvh23p/semenyo-shirt-number-wide.webp?auto=format,compress"
       },
       {
-        "headline": "বিপিএল: শেষ বলে ২ রান নিয়ে ২ উইকেটে জিতল চট্টগ্রাম",
-        "url": "https://www.prothomalo.com/sports/cricket/hy0l87ml59",
-        "published_at": "2026-01-09T12:14:16.497000+00:00",
-        "summary": "বিপিএলে আজ দিনের প্রথম ম্যাচে চট্টগ্রাম রয়্যালসের মুখোমুখি রাজশাহী ওয়ারিয়রস। এই ম্যাচের লাইভ বিবরণী, বিশ্লেষণ জানতে চােখ রাখুন এখানে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-09/m9bueyqq/WhatsApp-Image-2026-01-09-at-6.04.28-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/m9bueyqq/WhatsApp-Image-2026-01-09-at-6.04.28-PM.jpeg?auto=format,compress"
-      },
-      {
         "headline": "নোয়াখালীর বাবা-ছেলের কাছে হারল ঢাকা",
         "url": "https://www.ittefaq.com.bd/769928/%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%B2-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE",
         "published_at": null,
@@ -7849,6 +7850,14 @@
         "published_at": "1768030057",
         "summary": "বাংলাদেশ ক্রিকেট বোর্ডের আয় নিয়ে সাম্প্রতিক সময়ে ক্রীড়াঙ্গনে আলোচনা ও বিতর্ক তৈরি হয়েছে। বিশেষ করে আন্তর্জাতিক ক্রিকেট কাউন্সিল থেকে বিসিবি কতটা রাজস্ব পায়, তা নিয়ে কৌতূহল বাড়ছে। এই প্রেক্ষাপটে বিসিবির শীর্ষ পর্যায়ের বক্তব্যে বিষয়টি স্পষ্ট হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260110072737.jpg"
+      },
+      {
+        "headline": "বিপিএল: শেষ বলে ২ রান নিয়ে ২ উইকেটে জিতল চট্টগ্রাম",
+        "url": "https://www.prothomalo.com/sports/cricket/hy0l87ml59",
+        "published_at": "2026-01-09T12:14:16.497000+00:00",
+        "summary": "বিপিএলে আজ দিনের প্রথম ম্যাচে চট্টগ্রাম রয়্যালসের মুখোমুখি রাজশাহী ওয়ারিয়রস। এই ম্যাচের লাইভ বিবরণী, বিশ্লেষণ জানতে চােখ রাখুন এখানে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-09/m9bueyqq/WhatsApp-Image-2026-01-09-at-6.04.28-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-09/m9bueyqq/WhatsApp-Image-2026-01-09-at-6.04.28-PM.jpeg?auto=format,compress"
       },
       {
         "headline": "বেগম খালেদা জিয়ার মৃত্যুতে ফিফা সভাপতির শোক",
@@ -8813,13 +8822,6 @@
         "summary": "অ্যাশেজে সিডনি টেস্টে আজ তৃতীয় দিনে সেঞ্চুরি তুলে নেন অস্ট্রেলিয়ার ট্রাভিস হেড ও স্টিভেন স্মিথ।",
         "image_s3_key": "prothomalo-bangla/2026-01-06/mdndby88/811858-01-02.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/mdndby88/811858-01-02.jpg?auto=format,compress"
-      },
-      {
-        "headline": "বিপিএলজমজমাট ম্যাচে সিলেটকে হারিয়ে পয়েন্ট টেবিলের শীর্ষে চট্টগ্রাম",
-        "url": "https://dailynayadiganta.com/sports/cricket/vP7nrWUo80vo/",
-        "published_at": null,
-        "summary": "টসে হেরে আগে ব্যাট করে ৫ উইকেটে ১৯৮ রান তুলে চট্টগ্রাম রয়্যালস। জবাবে ১৯.৪ ওভার ব্যাট করে ১৮৪ রান তুলতে পারে সিলেট টাইটান্স। এই পয়েন্ট টেবিলের শীর্ষে উঠে এসেছে শেখ মেহেদীর দল।",
-        "image_url": "https://media.ndiganta.com/original_images/BPL_Z3yfknJ.jpg"
       }
     ],
     "entertainment": [

@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-11T18:53:27.215185+00:00",
+  "fetched_at": "2026-01-11T19:15:32.148919+00:00",
   "stories": [
+    {
+      "headline": "শেষ ওভারেই ডুবল পাকিস্তান, ১৪ রানের জয়ে সিরিজ ড্র করল শ্রীলঙ্কা",
+      "url": "https://www.prothomalo.com/sports/cricket/7uu2wtx6zc",
+      "published_at": "2026-01-11T19:04:34.327000+00:00",
+      "summary": "ডাম্বুলায় আজ পাকিস্তান-শ্রীলঙ্কা সিরিজের শেষ টি-টোয়েন্টি ম্যাচটি বৃষ্টিতে হয়ে যায় টি-টুয়েলভ ম্যাচ। সেই ম্যাচে ১৪ রানে জিতে সিরিজ ড্র করেছে শ্রীলঙ্কা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-11/i8ob8l4y/820879-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/i8ob8l4y/820879-01-02.jpg?auto=format,compress"
+    },
     {
       "headline": "ভারতের নিরাপত্তা উপদেষ্টা অজিত দোভাল কেন মোবাইল ও ইন্টারনেট ব্যবহার\n করেন না",
       "url": "https://www.prothomalo.com/world/india/02bjsd104i",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/xzeaegbk/1.JPG?auto=format,compress"
     },
     {
-      "headline": "মিয়ানমারের গুলিতে টেকনাফে গুলিবিদ্ধ শিশুটি লাইফ সাপোর্টে",
-      "url": "https://www.prothomalo.com/video/bangladesh/0nsyq0tbc0",
-      "published_at": "2026-01-11T14:47:22.077000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-11/9jyfnrp2/THUMNAILWEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/9jyfnrp2/THUMNAILWEB.jpg?auto=format,compress"
-    },
-    {
       "headline": "ক্ষমতার চেয়ার ও ভাঙা রাষ্ট্র",
       "url": "https://www.bd-pratidin.com/open-air-theater/2026/01/12/1203572",
       "published_at": "2026-01-12T00:35:57+06:00",
@@ -376,6 +376,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768144717-3d09dd4fb7ae224d246bb081f11a63d0.PNG"
     },
     {
+      "headline": "পাকিস্তানের ইসলামাবাদে বিয়েবাড়িতে ভয়াবহ বিস্ফোরণ, নবদম্পতিসহ নিহত ৮",
+      "url": "https://www.ittefaq.com.bd/769932/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3",
+      "published_at": null,
+      "summary": "পাকিস্তানের রাজধানী ইসলামাবাদে একটি বিয়েবাড়িতে ভয়াবহ বিস্ফোরণে নবদম্পতিসহ অন্তত ৮ জন নিহত হয়েছেন। এ ঘটনায় গুরুতর আহত হয়েছেন আরও অন্তত ১২ জন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/12/97483080956d1114be196a3f0506ca71-6963ecc0adb78.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
       "headline": "স্বতন্ত্র প্রার্থীদের পক্ষে স্বাক্ষরকারী ১ শতাংশ ভোটারের নিরাপত্তা ঝুঁকিতে",
       "url": "https://www.ittefaq.com.bd/769931/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A7%A7-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6",
       "published_at": null,
@@ -437,13 +444,6 @@
       "published_at": null,
       "summary": "কুমিল্লায় তুচ্ছ ঘটনাকে কেন্দ্র করে ফাহিমা আক্তার (২৫) নামে এক অন্তঃসত্ত্বা নারীকে কুপিয়ে হত্যার অভিযোগ উঠেছে। রোববার (১১ জানুয়ারি) বিকেলে জেলার বুড়িচং উপজেলা সদরের জগতপুর গ্রামে এ মর্মান্তিক ঘটনা ঘটে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/11/7e08b030cfaafb633de8bbf781d8c205-6963c43f750c0.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "মনোনয়ন গ্রহণ-বাতিলের বিরুদ্ধে দ্বিতীয় দিনে ৫৮ আপিল মঞ্জুর",
-      "url": "https://www.ittefaq.com.bd/769922/%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A7%AB%E0%A7%AE-%E0%A6%86%E0%A6%AA%E0%A6%BF%E0%A6%B2",
-      "published_at": null,
-      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং অফিসারের মনোনয়নপত্র গ্রহণ ও বাতিল আদেশের বিরুদ্ধে দ্বিতীয় দিনে ৫৮টি আপিল মঞ্জুর করেছে নির্বাচন কমিশন (ইসি)।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/aaaff62b1f80e50aca3789cf620cd84a-695cd7ba30567.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "জুলাই নায়কদের মিডিয়া ট্রায়াল",
@@ -533,7 +533,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 12, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ঢাকা-১ (দোহার-নবাবগঞ্জ) আসনে ইসলামী আন্দোলন বাংলাদেশের প্রার্থী মাওলানা নুরুল ইসলামের প্রার্থিতা নিয়ে চলা অনিশ্চয়তা দূর হয়েছে। বিদ্যুৎ বিল বকেয়া থাকার ...",
+      "summary": "‎বিএনপির কেন্দ্রীয় সাংগঠনিক সম্পাদক ও ফরিদপুর-২ আসনের ধানের শীষের মনোনীত প্রার্থী শামা ওবায়েদ ইসলাম বলেছেন, দুর্নীতি, দখলবাজি, টেন্ডারবাজি এই তিনটা ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -542,6 +542,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "মিয়ানমারের গুলিতে টেকনাফে গুলিবিদ্ধ শিশুটি লাইফ সাপোর্টে",
+      "url": "https://www.prothomalo.com/video/bangladesh/0nsyq0tbc0",
+      "published_at": "2026-01-11T14:47:22.077000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-11/9jyfnrp2/THUMNAILWEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/9jyfnrp2/THUMNAILWEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "মনোনয়ন গ্রহণ-বাতিলের বিরুদ্ধে দ্বিতীয় দিনে ৫৮ আপিল মঞ্জুর",
+      "url": "https://www.ittefaq.com.bd/769922/%E0%A6%AE%E0%A6%A8%E0%A7%8B%E0%A6%A8%E0%A7%9F%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A7%AB%E0%A7%AE-%E0%A6%86%E0%A6%AA%E0%A6%BF%E0%A6%B2",
+      "published_at": null,
+      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং অফিসারের মনোনয়নপত্র গ্রহণ ও বাতিল আদেশের বিরুদ্ধে দ্বিতীয় দিনে ৫৮টি আপিল মঞ্জুর করেছে নির্বাচন কমিশন (ইসি)।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/06/aaaff62b1f80e50aca3789cf620cd84a-695cd7ba30567.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "পঞ্চগড়ে আন্দোলনকারীদের সড়ক অবরোধে লাঠিপেটা, আহত ২৬",
@@ -1476,20 +1491,6 @@
       "published_at": "2026-01-11T19:38:35+06:00",
       "summary": "বন্ড ব্যবস্থাপনাকে আধুনিক, গতিশীল ও প্রযুক্তিনির্ভর করতে অ্যাসাইকুডা ওয়ার্ল্ডের সঙ্গে বিজিএমইএ কর্তৃক ইস্যুকৃত ই-ইউডি (ইউটিলাইজেশন ডিক্লারেশন) পদ্ধতির আন্তঃসংযোগ স্থাপন করেছে জাতীয় রাজস্ব বোর্ড (এনবিআর)।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768138708-4d40106a6d70ab0fc6dcfc916b48ac7d.jpg"
-    },
-    {
-      "headline": "গণভোট বিষয়ক প্রশিক্ষণ ১৫ জানুয়ারি মধ্যে সম্পন্ন করার নির্দেশ",
-      "url": "https://www.bd-pratidin.com/election/2026/01/11/1203366",
-      "published_at": "2026-01-11T19:25:13+06:00",
-      "summary": "গণভোট বিষয়ক প্রশিক্ষণ আগামী ১৫ জানুয়ারি ২০২৬ তারিখের মধ্যে সম্পন্ন করতে সারা দেশের সকল উপজেলা প্রাথমিক শিক্ষা অফিসারকে নির্দেশ দেওয়া হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768137909-d503937e7c4fdc99b4f2fc8254cf3e97.jpg"
-    },
-    {
-      "headline": "গণভোট উপলক্ষে জনসচেতনতা বৃদ্ধিতে গাইবান্ধায় সমন্বয় সভা",
-      "url": "https://www.bd-pratidin.com/country/2026/01/11/1203365",
-      "published_at": "2026-01-11T19:24:52+06:00",
-      "summary": "গণভোট উপলক্ষে জনসচেতনতা সৃষ্টির লক্ষ্যে গাইবান্ধায় সমন্বয় সভা অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/11/og/1768137885-027e77177ca86a611eb66b0e55c1c345.PNG"
     }
   ]
 }
