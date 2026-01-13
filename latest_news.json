@@ -1,6 +1,46 @@
 {
-  "fetched_at": "2026-01-13T05:03:20.892742+00:00",
+  "fetched_at": "2026-01-13T05:39:20.700454+00:00",
   "stories": [
+    {
+      "headline": "লিভারপুলের কাছ থেকে ‘রসগোল্লা’র মতো গোল পেয়ে অপমানবোধ করছে প্রতিপক্ষ",
+      "url": "https://www.prothomalo.com/sports/football/rdq5h5ifq3",
+      "published_at": "2026-01-13T05:10:00+00:00",
+      "summary": "এফএ কাপে গতকাল রাতে চোখ ধাঁধানো গোলের পর অবিশ্বাস্য এক ভুল করেন লিভারপুল তারকা দমিনিক সোবোসলাই।",
+      "image_s3_key": "prothomalo-bangla/2026-01-13/3djhkg3q/853301-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-13/3djhkg3q/853301-01-02.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বিএনপিতে যোগ দিলেন আওয়ামী লীগ, এনসিপি, জাতীয় পার্টির পাঁচ শতাধিক নেতা-কর্মী",
+      "url": "https://www.prothomalo.com/bangladesh/district/w51fc8q2ow",
+      "published_at": "2026-01-13T05:06:10.081000+00:00",
+      "summary": "পৌর আওয়ামী লীগের সাধারণ সম্পাদক মো. সাইফুল ইসলাম বলেন, ‘দেশের চলমান রাজনৈতিক পরিস্থিতি, গণতন্ত্র পুনরুদ্ধারের আন্দোলন এবং বিএনপির ঘোষিত কর্মসূচির প্রতি আস্থা রেখেই বিএনপিতে যোগ দিয়েছি।’",
+      "image_s3_key": "prothomalo-bangla/2026-01-13/wwmykxcf/WhatsApp-Image-2026-01-13-at-10.52.19.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-13/wwmykxcf/WhatsApp-Image-2026-01-13-at-10.52.19.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "১১ দলের ‘একক প্রার্থী’ নিয়ে যত আলোচনা",
+      "url": "https://www.prothomalo.com/bangladesh/district/ax9pvmnr81",
+      "published_at": "2026-01-13T05:00:53.477000+00:00",
+      "summary": "১৯৯১ সালে বিএনপি ও জামায়াত একটি করে আসনে জয় পেয়েছিল। ১৯৯৬ ও ২০০১ সালে দুটিতেই বিএনপির প্রার্থীরা জয় পান।",
+      "image_s3_key": "prothomalo-bangla/2026-01-13/xgiv6sqe/PA13012026.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-13/xgiv6sqe/PA13012026.png?auto=format,compress"
+    },
+    {
+      "headline": "২০২৬ সালে সব প্রবালপ্রাচীর ধ্বংস হয়ে যেতে পারে",
+      "url": "https://www.prothomalo.com/technology/science/n2hifjgmtx",
+      "published_at": "2026-01-13T05:00:00+00:00",
+      "summary": "জলবায়ু পরিবর্তনের ফলে সমুদ্রের তাপমাত্রা ক্রমে বাড়তে থাকায় ২০২৬ সাল হতে পারে বিশ্বজুড়ে প্রবালপ্রাচীর বা কোরাল রিফ বিলুপ্তির বছর।",
+      "image_s3_key": "prothomalo-bangla/2026-01-12/2icc4oo3/coral-reef.reuters.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/2icc4oo3/coral-reef.reuters.png?auto=format,compress"
+    },
+    {
+      "headline": "কুমিল্লায় গরু ভাগাভাগি নিয়ে দ্বন্দ্ব, ছেলের লাঠির আঘাতে বাবার মৃত্যু",
+      "url": "https://www.prothomalo.com/bangladesh/district/3d7y2sw75o",
+      "published_at": "2026-01-13T04:58:57.120000+00:00",
+      "summary": "কুমিল্লার মুরাদনগরে ছেলের লাঠির আঘাতে এক বৃদ্ধ নিহত হয়েছেন। গরু ভাগাভাগি ও বাবার হজের টাকা পরিশোধসংক্রান্ত বিরোধের জেরে এই হত্যাকাণ্ড ঘটেছে বলে জানিয়েছে পুলিশ।",
+      "image_s3_key": "prothomalo-bangla/2025-10-21/wvjeyff3/Death-body.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-21/wvjeyff3/Death-body.jpg?auto=format,compress"
+    },
     {
       "headline": "জাপান গার্ডেন সিটিতে বিষ দিয়ে কুকুর-বিড়ালগুলোকে তাহলে মারল কে",
       "url": "https://www.prothomalo.com/bangladesh/nt3hst4mgr",
@@ -90,30 +130,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-13/br2pggoj/3.jpg?auto=format,compress"
     },
     {
-      "headline": "এত প্রাকৃতিক সৌন্দর্য, তবু কেন পর্যটক নেই লাউচাপড়া বিনোদন কেন্দ্রে",
-      "url": "https://www.prothomalo.com/bangladesh/district/bp8lgl8u8r",
-      "published_at": "2026-01-13T04:00:00+00:00",
-      "summary": "গারো পাহাড়ের নয়নাভিরাম জামালপুরের বকশীগঞ্জ উপজেলার লাউচাপড়া অবসর বিনোদন কেন্দ্র প্রাকৃতিক সৌন্দর্যে ভরপুর হলেও আবাসন, খাবার ও নিরাপত্তার অভাবে পর্যটকশূন্য হয়ে আছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-12/4koq98tm/JamalpurDH056320260111Jamalpur-pic.2.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/4koq98tm/JamalpurDH056320260111Jamalpur-pic.2.JPG?auto=format,compress"
-    },
-    {
-      "headline": "এই ‘কাট–পিস’ সেই ‘কাট–পিস’ নয়",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/z95b38ilce",
-      "published_at": "2026-01-13T04:00:00+00:00",
-      "summary": "প্রায় অচেনা ঝুটপট্টির গল্প নিয়েই নিজের প্রথম সিনেমা বানিয়েছেন ইফ্ফাত জাহান। ঝুটকে অনেক সময় কাট-পিসও বলা হয়, এটা থেকে সিনেমার নাম ‘কাট-পিস’।",
-      "image_s3_key": "prothomalo-bangla/2026-01-12/3wmd543g/2f351b06-c1d6-4b84-8194-21d8568c3193.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/3wmd543g/2f351b06-c1d6-4b84-8194-21d8568c3193.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আপেল ধোয়ার সঠিক উপায় কী",
-      "url": "https://www.prothomalo.com/lifestyle/gzo4yj2i14",
-      "published_at": "2026-01-13T04:00:00+00:00",
-      "summary": "ধুলেই কি আপেল খাওয়ার জন্য নিরাপদ থাকে? যদি নিরাপদ না হয়, তাহলে আপেল পরিষ্কারের সবচেয়ে ভালো ও নিরাপদ উপায় কী?",
-      "image_s3_key": "prothomalo-bangla/2026-01-12/9ckbqe30/pexels_photo_7592334.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/9ckbqe30/pexels_photo_7592334.webp?auto=format,compress"
-    },
-    {
       "headline": "কুইন এলিজাবেথ স্কলারশিপ: আবেদন শেষ ১৪ জানুয়ারি",
       "url": "https://www.prothomalo.com/education/scholarship/9g40kgwfl8",
       "published_at": "2026-01-13T04:00:00+00:00",
@@ -128,6 +144,30 @@
       "summary": "৭ম গণবিজ্ঞপ্তি প্রকাশ করেছে বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ (এনটিআরসিএ)।  ",
       "image_s3_key": "prothomalo-bangla/2026-01-11/8hsfvmz7/XI-BIO-01.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/8hsfvmz7/XI-BIO-01.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আপেল ধোয়ার সঠিক উপায় কী",
+      "url": "https://www.prothomalo.com/lifestyle/gzo4yj2i14",
+      "published_at": "2026-01-13T04:00:00+00:00",
+      "summary": "ধুলেই কি আপেল খাওয়ার জন্য নিরাপদ থাকে? যদি নিরাপদ না হয়, তাহলে আপেল পরিষ্কারের সবচেয়ে ভালো ও নিরাপদ উপায় কী?",
+      "image_s3_key": "prothomalo-bangla/2026-01-12/9ckbqe30/pexels_photo_7592334.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/9ckbqe30/pexels_photo_7592334.webp?auto=format,compress"
+    },
+    {
+      "headline": "এত প্রাকৃতিক সৌন্দর্য, তবু কেন পর্যটক নেই লাউচাপড়া বিনোদন কেন্দ্রে",
+      "url": "https://www.prothomalo.com/bangladesh/district/bp8lgl8u8r",
+      "published_at": "2026-01-13T04:00:00+00:00",
+      "summary": "গারো পাহাড়ের নয়নাভিরাম জামালপুরের বকশীগঞ্জ উপজেলার লাউচাপড়া অবসর বিনোদন কেন্দ্র প্রাকৃতিক সৌন্দর্যে ভরপুর হলেও আবাসন, খাবার ও নিরাপত্তার অভাবে পর্যটকশূন্য হয়ে আছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-12/4koq98tm/JamalpurDH056320260111Jamalpur-pic.2.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/4koq98tm/JamalpurDH056320260111Jamalpur-pic.2.JPG?auto=format,compress"
+    },
+    {
+      "headline": "এই ‘কাট–পিস’ সেই ‘কাট–পিস’ নয়",
+      "url": "https://www.prothomalo.com/entertainment/dhallywood/z95b38ilce",
+      "published_at": "2026-01-13T04:00:00+00:00",
+      "summary": "প্রায় অচেনা ঝুটপট্টির গল্প নিয়েই নিজের প্রথম সিনেমা বানিয়েছেন ইফ্ফাত জাহান। ঝুটকে অনেক সময় কাট-পিসও বলা হয়, এটা থেকে সিনেমার নাম ‘কাট-পিস’।",
+      "image_s3_key": "prothomalo-bangla/2026-01-12/3wmd543g/2f351b06-c1d6-4b84-8194-21d8568c3193.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/3wmd543g/2f351b06-c1d6-4b84-8194-21d8568c3193.jpg?auto=format,compress"
     },
     {
       "headline": "দোয়া মাহফিলে ধানের শীষে ভোট চাওয়ার ভিডিও ভাইরাল, বিএনপি প্রার্থীকে শোকজ",
@@ -234,20 +274,12 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08-17/1og82psx/Brac.jpg?auto=format,compress"
     },
     {
-      "headline": "স্মার্টফোনের ক্যামেরার মাধ্যমে যেকোনো ভাষার লেখা অনুবাদ করবেন যেভাবে",
-      "url": "https://www.prothomalo.com/technology/advice/jxyml7eke1",
+      "headline": "এআই পড়াশোনায় সেরা ১০ বিশ্ববিদ্যালয়, শীর্ষে সিঙ্গাপুরের নানইয়াং, দ্বিতীয়-তৃতীয় কারা",
+      "url": "https://www.prothomalo.com/education/higher-education/769aku7o90",
       "published_at": "2026-01-13T02:00:00+00:00",
-      "summary": "স্মার্টফোনের ক্যামেরা ব্যবহার করে চাইলেই তাৎক্ষণিকভাবে এক ভাষায় লেখা অন্য ভাষায় অনুবাদ করে পড়া সম্ভব। ",
-      "image_s3_key": "prothomalo-bangla/2022-06/38ae5867-5731-4e25-a7c6-8a28b88d0f90/smartphone_scan_app.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-06/38ae5867-5731-4e25-a7c6-8a28b88d0f90/smartphone_scan_app.png?auto=format,compress"
-    },
-    {
-      "headline": "উৎসবে আজ দেখা যাবে সেসব সিনেমা",
-      "url": "https://www.prothomalo.com/entertainment/world-cinema/jmciyc2kze",
-      "published_at": "2026-01-13T02:00:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-12/84karsci/MV5BYTdjNzJmMmMtNzRkZi00OWVjLTkyMDktN2Y5ZTA4N2Y3MTJmXkEyXkFqcGc_V1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/84karsci/MV5BYTdjNzJmMmMtNzRkZi00OWVjLTkyMDktN2Y5ZTA4N2Y3MTJmXkEyXkFqcGc_V1.jpg?auto=format,compress"
+      "summary": "বিশ্বের শীর্ষ ১০ বিশ্ববিদ্যালয়ের মধ্যে ৩টি উচ্চশিক্ষার প্রতিষ্ঠান এশিয়াভিত্তিক, বাকি বিশ্ববিদ্যালয়গুলো উত্তর আমেরিকা ও অস্ট্রেলিয়ায় অবস্থিত।",
+      "image_s3_key": "prothomalo-bangla/2026-01-11/esdxtsvp/5.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/esdxtsvp/5.webp?auto=format,compress"
     },
     {
       "headline": "২০২৬ সালে চাকরির বাজারে এগিয়ে থাকার কৌশল কী কী",
@@ -274,22 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/jcz5srpo/Untitled-design-1.png?auto=format,compress"
     },
     {
-      "headline": "কুমিল্লার বার্ড যেন একটুকরো ফুলের রাজ্য",
-      "url": "https://www.prothomalo.com/bangladesh/district/hy0sg3ajt1",
-      "published_at": "2026-01-13T02:00:00+00:00",
-      "summary": "বাংলাদেশ পল্লী উন্নয়ন একাডেমি (বার্ড) সেজেছে নতুন রূপে। পুরো বার্ড আঙিনাতেই এখন বাহারি ফুলের সমাহার। বাগানে বাগানে ফুটে থাকা হাজার হাজার রংবেরঙের ফুল বিমোহিত করছে ফুলপ্রেমীদের।",
-      "image_s3_key": "prothomalo-bangla/2026-01-12/693siwc2/CumillaDH175220260112IMG-20260112-WA0050.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/693siwc2/CumillaDH175220260112IMG-20260112-WA0050.jpg?auto=format,compress"
-    },
-    {
-      "headline": "এআই পড়াশোনায় সেরা ১০ বিশ্ববিদ্যালয়, শীর্ষে সিঙ্গাপুরের নানইয়াং, দ্বিতীয়-তৃতীয় কারা",
-      "url": "https://www.prothomalo.com/education/higher-education/769aku7o90",
-      "published_at": "2026-01-13T02:00:00+00:00",
-      "summary": "বিশ্বের শীর্ষ ১০ বিশ্ববিদ্যালয়ের মধ্যে ৩টি উচ্চশিক্ষার প্রতিষ্ঠান এশিয়াভিত্তিক, বাকি বিশ্ববিদ্যালয়গুলো উত্তর আমেরিকা ও অস্ট্রেলিয়ায় অবস্থিত।",
-      "image_s3_key": "prothomalo-bangla/2026-01-11/esdxtsvp/5.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/esdxtsvp/5.webp?auto=format,compress"
-    },
-    {
       "headline": "বিশ্বকাপ নিয়ে আইসিসির ‘থ্রেট অ্যাসেসমেন্ট রিপোর্ট’ আসলে কী, কারা দেয় এই রিপোর্ট",
       "url": "https://www.prothomalo.com/sports/cricket/ekjgjohz03",
       "published_at": "2026-01-13T02:00:00+00:00",
@@ -298,12 +314,11 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/9es58wzk/iccc.jpg?auto=format,compress"
     },
     {
-      "headline": "সুন্দরবনে হরিণ শিকারে পাতা হচ্ছে চার ধরনের ফাঁদ, বাঘের নতুন বিপদ \n",
-      "url": "https://www.prothomalo.com/bangladesh/environment/dvar2lria1",
-      "published_at": "2026-01-13T01:36:26.539000+00:00",
-      "summary": "চোরা শিকারিদের পাতা হরিণ শিকারের ফাঁদে বাড়ছে সুন্দরবনের বাঘের ঝুঁকি। নষ্ট হতে পারে খাদ্যশৃঙ্খল।",
-      "image_s3_key": "prothomalo-bangla/2026-01-12/6nfsc4kp/Capture.PNG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/6nfsc4kp/Capture.PNG?auto=format,compress"
+      "headline": "জুরাইনে গাড়ির ধাক্কায় ভ্যানচালকের মৃত্যু",
+      "url": "https://www.bd-pratidin.com/city-news/2026/01/13/1204062",
+      "published_at": "2026-01-13T11:01:49+06:00",
+      "summary": "রাজধানীর শ্যামপুর থানার জুরাইন বালুর মাঠ এলাকায় অজ্ঞাত গাড়ির চাপায় ইব্রাহিম (৪০) নামে এক ভ্যানচালক নিহত হয়েছেন। সোমবার (১২ জানুয়ারি) দিবাগত রাত সাড়ে ১২টার দিকে এই দুর্ঘটনা ঘটে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/13/og/1768280503-5cd596c9bb98822dac8b8bb4a7d0e608.jpg"
     },
     {
       "headline": "ঢাকায় দক্ষিণ এশীয় উচ্চশিক্ষা সম্মেলন শুরু হচ্ছে আজ",
@@ -369,11 +384,32 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/13/og/1768273896-18e2999891374a475d0687ca9f989d83.jpg"
     },
     {
-      "headline": "আড়াই ঘণ্টা পর নিয়ন্ত্রণে মাতারবাড়ি তাপ বিদ্যুৎকেন্দ্রের আগুন",
-      "url": "https://www.bd-pratidin.com/chittagong-pratidin/2026/01/13/1204021",
-      "published_at": "2026-01-13T02:22:44+06:00",
-      "summary": "কক্সবাজারের মহেশখালীতে অবস্থিত মাতারবাড়ি তাপ বিদ্যুৎকেন্দ্রের স্ক্র্যাপ ইয়ার্ডে লাগা আগুন প্রায় আড়াই ঘণ্টার চেষ্টায় নিয়ন্ত্রণে এসেছে। সোমবার (১২ জানুয়ারি) রাত সাড়ে ১১টার দিকে মহেশখালী ও চকরিয়া ফায়ার সার্ভিসের দুটি ইউনিট আগুন নিয়ন্ত্রণে আনে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/13/og/1768249357-0f2e9564cf3aad08c2a34a2b44284179.jpg"
+      "headline": "ঢাকায় ভোটের নিরাপত্তায় থাকবে ২৫ হাজার পুলিশ",
+      "url": "https://www.ittefaq.com.bd/770117/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A7%A8%E0%A7%AB-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন ঘিরে ঢাকা মহানগরের ভোটকেন্দ্রগুলোতে নজিরবিহীন নিরাপত্তা ব্যবস্থা নিচ্ছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী। রাজধানীর ২ হাজার ১৩১টি ভোটকেন্দ্রের নিরাপত্তায় মোতায়েন থাকবেন প্রায় ২৫ হাজার পুলিশ সদস্য। ভোটের দিন কেন্দ্রগুলোর সার্বিক পরিস্থিতি নজরদারিতে ঢাকার চারটি গুরুত্বপূর্ণ স্থানে স্থাপন করা হচ্ছে কন্ট্রোল রুম।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/8b3c7aa9a52303a26fee4c440ea44839-6965d5770389e.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "‘সবকিছুর জন্য আলহামদুলিল্লাহ’",
+      "url": "https://www.ittefaq.com.bd/770116/%E2%80%98%E0%A6%B8%E0%A6%AC%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%86%E0%A6%B2%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%A6%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B9%E2%80%99",
+      "published_at": null,
+      "summary": "চিত্রনায়িকা পূর্ণিমা ওমরাহ পালন করেছেন। ওমরাহ পালনের পর স্যোশাল মিডিয়ায় একগুচ্ছ ছবি প্রকাশ করেছেন অভিনেত্রী।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/cfb2242004bf1a16ec96e2b3638030be-6965d2d1bc8fd.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "ইরানের কিছু মানুষ এখনও ব্যবহার করছে স্টারলিংকের ইন্টারনেট",
+      "url": "https://www.ittefaq.com.bd/770115/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "ইরানে সরকারবিরোধী বিক্ষোভ দমনে কর্তৃপক্ষের জারি করা নজিরবিহীন ইন্টারনেট ব্ল্যাকআউটের মধ্যেও ইলন মাস্কের স্টারলিংক স্যাটেলাইট ইন্টারনেট ব্যবহার করে বহির্বিশ্বের সঙ্গে যোগাযোগ রক্ষা করছেন দেশটির কিছু নাগরিক।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/204e06fa003252947368148bab86d724-6965d0ef54d85.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "ভোলায় ‘ভুল রক্ত‘ দেওয়ায় প্রসূতির মৃত্যুর অভিযোগ, স্বজনদের বিক্ষোভ",
+      "url": "https://www.ittefaq.com.bd/770114/%E0%A6%AD%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E2%80%98%E0%A6%AD%E0%A7%81%E0%A6%B2-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E2%80%98-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%82%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97",
+      "published_at": null,
+      "summary": "ভোলা শহরের কালিনাথ বাজার এলাকার বন্ধন হেলথ কেয়ার অ্যান্ড ডায়াবেটিস সেন্টারে এক প্রসূতি রোগীকে ভুল রক্ত দেওয়ায় তার মৃত্যুর অভিযোগ উঠেছে। এ ঘটনার প্রতিবাদে ওই স্বাস্থ্যকেন্দ্র ঘেরাও করে বিক্ষোভ মিছিল করেছেন রোগীর স্বজন ও স্থানীয়রা।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/781468bd38aa8c8f6b5303d2553a7f5d-6965d0966c257.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "ইউরোপের ৪ দেশের রাষ্ট্রদূতকে তলব করলো ইরান",
@@ -416,34 +452,6 @@
       "published_at": null,
       "summary": "নারায়ণগঞ্জের ফতুল্লায় পূর্বশত্রুতার জেরে রায়হান মিয়া ওরফে রোহান (৪৫) নামে এক বাবুর্চিকে প্রকাশ্যে কুপিয়ে হত্যা করেছে মাদক ব্যবসায়ীরা। সোমবার রাত ৮টার দিকে ফতুল্লার ইসদাইর রেলস্টেশন এলাকায় এ ঘটনা ঘটে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/babac9b68ffc06d2d9be1a1ad95b1225-6965bfda9ed7c.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "এখনো ইরানে সামরিক হামলার ছক কষছে ট্রাম্প প্রশাসন",
-      "url": "https://www.ittefaq.com.bd/770107/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%8B-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9B%E0%A6%95-%E0%A6%95%E0%A6%B7%E0%A6%9B%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8",
-      "published_at": null,
-      "summary": "ইরানে সরকারবিরোধী বিক্ষোভ ও ব্যাপক প্রাণহানির প্রেক্ষাপটে দেশটির ওপর বড় ধরনের সামরিক অভিযানের হুমকি অব্যাহত রেখেছে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের প্রশাসন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/03/bdf904013307596cb86ed2bb4862fed2-692fd16fabd50.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "গোল্ডেন গ্লোবস ২০২৬: সেরার সেরা যারা",
-      "url": "https://www.ittefaq.com.bd/770106/%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%B8-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BE",
-      "published_at": null,
-      "summary": "যুক্তরাষ্ট্রের ক্যালিফোর্নিয়ার দ্য বেভারলি হিলটন হোটেলে অনুষ্ঠিত হয়ে গেল গোল্ডেন গ্লোবের ৮৩তম আসর।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/26ea72cc81081ef16ee93dbc9c448dda-6965baf4e0bae.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "‘বিজয় আমাদের হয়েই গেছে, ১২ ফেব্রুয়ারি শুধু আনুষ্ঠানিকতা’",
-      "url": "https://www.ittefaq.com.bd/770105/%E2%80%98%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%87-%E0%A6%97%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A7%A7%E0%A7%A8-%E0%A6%AB%E0%A7%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%B6%E0%A7%81%E0%A6%A7%E0%A7%81",
-      "published_at": null,
-      "summary": "গণঅধিকার পরিষদের সভাপতি ও ডাকসুর সাবেক ভিপি নুরুল হক নুর বলেছেন, ‘আমরা বলতে পারি বিজয় আমাদের হয়েই গেছে। ১২ ফেব্রুয়ারি শুধু আনুষ্ঠানিকতা হবে।’",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/ab52be4f404cb80bc28af929b1efa8fe-6965baf44f108.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "এনসিপি থেকে পদত্যাগকারীদের নতুন প্ল্যাটফর্ম আসছে, নাম ‘জনযাত্রা’",
-      "url": "https://www.ittefaq.com.bd/770104/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87",
-      "published_at": null,
-      "summary": "জাতীয় নাগরিক পার্টি (এনসিপি) থেকে পদত্যাগ করা একাধিক নেতা এবং জুলাই গণ-অভ্যুত্থানে সক্রিয় ছাত্রনেতাদের উদ্যোগে নতুন একটি রাজনৈতিক প্ল্যাটফর্ম আত্মপ্রকাশ করতে যাচ্ছে। ‘জনযাত্রা’ নামের এই প্ল্যাটফর্মের আনুষ্ঠানিক ঘোষণা আসতে পারে আগামী ১৬ জানুয়ারি রাজধানীর কেন্দ্রীয় শহীদ মিনারে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/61179376fa09bbb296e67790408b9307-6965bae59f118.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "বাংলাদেশে বিদেশী বিনিয়োগের ব্যবস্থাপনা",
@@ -528,6 +536,73 @@
       "published_at": null,
       "summary": "সোমবার (১২ জানুয়ারি) রাত ১০টার দিকে বিশ্ববিদ্যালয়ের বিভিন্ন আবাসিক হল থেকে বিক্ষোভ মিছিল বের করেন শিক্ষার্থীরা।",
       "image_url": "https://media.ndiganta.com/original_images/SUST_WZ3f1IB.jpg"
+    },
+    {
+      "headline": "স্মার্টফোনের ক্যামেরার মাধ্যমে যেকোনো ভাষার লেখা অনুবাদ করবেন যেভাবে",
+      "url": "https://www.prothomalo.com/technology/advice/jxyml7eke1",
+      "published_at": "2026-01-13T02:00:00+00:00",
+      "summary": "স্মার্টফোনের ক্যামেরা ব্যবহার করে চাইলেই তাৎক্ষণিকভাবে এক ভাষায় লেখা অন্য ভাষায় অনুবাদ করে পড়া সম্ভব। ",
+      "image_s3_key": "prothomalo-bangla/2022-06/38ae5867-5731-4e25-a7c6-8a28b88d0f90/smartphone_scan_app.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-06/38ae5867-5731-4e25-a7c6-8a28b88d0f90/smartphone_scan_app.png?auto=format,compress"
+    },
+    {
+      "headline": "উৎসবে আজ দেখা যাবে সেসব সিনেমা",
+      "url": "https://www.prothomalo.com/entertainment/world-cinema/jmciyc2kze",
+      "published_at": "2026-01-13T02:00:00+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-12/84karsci/MV5BYTdjNzJmMmMtNzRkZi00OWVjLTkyMDktN2Y5ZTA4N2Y3MTJmXkEyXkFqcGc_V1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/84karsci/MV5BYTdjNzJmMmMtNzRkZi00OWVjLTkyMDktN2Y5ZTA4N2Y3MTJmXkEyXkFqcGc_V1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "কুমিল্লার বার্ড যেন একটুকরো ফুলের রাজ্য",
+      "url": "https://www.prothomalo.com/bangladesh/district/hy0sg3ajt1",
+      "published_at": "2026-01-13T02:00:00+00:00",
+      "summary": "বাংলাদেশ পল্লী উন্নয়ন একাডেমি (বার্ড) সেজেছে নতুন রূপে। পুরো বার্ড আঙিনাতেই এখন বাহারি ফুলের সমাহার। বাগানে বাগানে ফুটে থাকা হাজার হাজার রংবেরঙের ফুল বিমোহিত করছে ফুলপ্রেমীদের।",
+      "image_s3_key": "prothomalo-bangla/2026-01-12/693siwc2/CumillaDH175220260112IMG-20260112-WA0050.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/693siwc2/CumillaDH175220260112IMG-20260112-WA0050.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সুন্দরবনে হরিণ শিকারে পাতা হচ্ছে চার ধরনের ফাঁদ, বাঘের নতুন বিপদ \n",
+      "url": "https://www.prothomalo.com/bangladesh/environment/dvar2lria1",
+      "published_at": "2026-01-13T01:36:26.539000+00:00",
+      "summary": "চোরা শিকারিদের পাতা হরিণ শিকারের ফাঁদে বাড়ছে সুন্দরবনের বাঘের ঝুঁকি। নষ্ট হতে পারে খাদ্যশৃঙ্খল।",
+      "image_s3_key": "prothomalo-bangla/2026-01-12/6nfsc4kp/Capture.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/6nfsc4kp/Capture.PNG?auto=format,compress"
+    },
+    {
+      "headline": "আড়াই ঘণ্টা পর নিয়ন্ত্রণে মাতারবাড়ি তাপ বিদ্যুৎকেন্দ্রের আগুন",
+      "url": "https://www.bd-pratidin.com/chittagong-pratidin/2026/01/13/1204021",
+      "published_at": "2026-01-13T02:22:44+06:00",
+      "summary": "কক্সবাজারের মহেশখালীতে অবস্থিত মাতারবাড়ি তাপ বিদ্যুৎকেন্দ্রের স্ক্র্যাপ ইয়ার্ডে লাগা আগুন প্রায় আড়াই ঘণ্টার চেষ্টায় নিয়ন্ত্রণে এসেছে। সোমবার (১২ জানুয়ারি) রাত সাড়ে ১১টার দিকে মহেশখালী ও চকরিয়া ফায়ার সার্ভিসের দুটি ইউনিট আগুন নিয়ন্ত্রণে আনে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/13/og/1768249357-0f2e9564cf3aad08c2a34a2b44284179.jpg"
+    },
+    {
+      "headline": "এখনো ইরানে সামরিক হামলার ছক কষছে ট্রাম্প প্রশাসন",
+      "url": "https://www.ittefaq.com.bd/770107/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%8B-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9B%E0%A6%95-%E0%A6%95%E0%A6%B7%E0%A6%9B%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8",
+      "published_at": null,
+      "summary": "ইরানে সরকারবিরোধী বিক্ষোভ ও ব্যাপক প্রাণহানির প্রেক্ষাপটে দেশটির ওপর বড় ধরনের সামরিক অভিযানের হুমকি অব্যাহত রেখেছে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের প্রশাসন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2025/12/03/bdf904013307596cb86ed2bb4862fed2-692fd16fabd50.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "গোল্ডেন গ্লোবস ২০২৬: সেরার সেরা যারা",
+      "url": "https://www.ittefaq.com.bd/770106/%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%AC%E0%A6%B8-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BE",
+      "published_at": null,
+      "summary": "যুক্তরাষ্ট্রের ক্যালিফোর্নিয়ার দ্য বেভারলি হিলটন হোটেলে অনুষ্ঠিত হয়ে গেল গোল্ডেন গ্লোবের ৮৩তম আসর।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/26ea72cc81081ef16ee93dbc9c448dda-6965baf4e0bae.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "‘বিজয় আমাদের হয়েই গেছে, ১২ ফেব্রুয়ারি শুধু আনুষ্ঠানিকতা’",
+      "url": "https://www.ittefaq.com.bd/770105/%E2%80%98%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%87-%E0%A6%97%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A7%A7%E0%A7%A8-%E0%A6%AB%E0%A7%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%B6%E0%A7%81%E0%A6%A7%E0%A7%81",
+      "published_at": null,
+      "summary": "গণঅধিকার পরিষদের সভাপতি ও ডাকসুর সাবেক ভিপি নুরুল হক নুর বলেছেন, ‘আমরা বলতে পারি বিজয় আমাদের হয়েই গেছে। ১২ ফেব্রুয়ারি শুধু আনুষ্ঠানিকতা হবে।’",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/ab52be4f404cb80bc28af929b1efa8fe-6965baf44f108.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
+    },
+    {
+      "headline": "এনসিপি থেকে পদত্যাগকারীদের নতুন প্ল্যাটফর্ম আসছে, নাম ‘জনযাত্রা’",
+      "url": "https://www.ittefaq.com.bd/770104/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87",
+      "published_at": null,
+      "summary": "জাতীয় নাগরিক পার্টি (এনসিপি) থেকে পদত্যাগ করা একাধিক নেতা এবং জুলাই গণ-অভ্যুত্থানে সক্রিয় ছাত্রনেতাদের উদ্যোগে নতুন একটি রাজনৈতিক প্ল্যাটফর্ম আত্মপ্রকাশ করতে যাচ্ছে। ‘জনযাত্রা’ নামের এই প্ল্যাটফর্মের আনুষ্ঠানিক ঘোষণা আসতে পারে আগামী ১৬ জানুয়ারি রাজধানীর কেন্দ্রীয় শহীদ মিনারে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/13/61179376fa09bbb296e67790408b9307-6965bae59f118.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
     },
     {
       "headline": "আজকের সর্বশেষ খবর - January 13, 2026",
@@ -1414,79 +1489,6 @@
       "summary": "আইসিসি ভারতের কাছে কীভাবে ‘অসহায়’, তার উদাহরণ দিতে গিয়ে ভারত–পাকিস্তান সম্পর্ক টেনে আনেন সাবেক স্পিনার সাঈদ আজমল। ",
       "image_s3_key": "prothomalo-bangla/2021-05/37b205ee-f1e8-4274-b6df-b03401032b73/857730_73691_tyhiswvhht_1510587059.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-05/37b205ee-f1e8-4274-b6df-b03401032b73/857730_73691_tyhiswvhht_1510587059.jpg?auto=format,compress"
-    },
-    {
-      "headline": "চীনকে লাতিন আমেরিকা থেকে দূরে থাকতে বলল যুক্তরাষ্ট্র",
-      "url": "https://www.prothomalo.com/world/south-america/0h00n8rjl0",
-      "published_at": "2026-01-12T15:26:23.979000+00:00",
-      "summary": "মাদুরোকে তুলে নেওয়ার মধ্য দিয়ে যুক্তরাষ্ট্র একসঙ্গে অনেক লক্ষ্য অর্জন করেছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-12/q1chbgo0/Untitled-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/q1chbgo0/Untitled-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "খালেদা জিয়ার স্মরণে নাগরিক শোকসভা আগামী শুক্রবার",
-      "url": "https://www.prothomalo.com/politics/aa7u44x78o",
-      "published_at": "2026-01-12T15:25:23.249000+00:00",
-      "summary": "বিএনপির উদ্যোগে নাগরিক কমিটির ব্যানারে অনুষ্ঠেয় এই শোকসভায় রাজনীতিক ও বিশিষ্ট ব্যক্তিরা অংশ নেবেন। এ ছাড়া অংশ নেবেন অন্তর্বর্তী সরকারের প্রতিনিধিরাও।",
-      "image_s3_key": "prothomalo-bangla/2025-12-27/kw4fwzcx/Khaleda.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-27/kw4fwzcx/Khaleda.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বিদেশে পলাতক সন্ত্রাসীর পরিকল্পনায় খুন হন মোছাব্বির",
-      "url": "https://www.prothomalo.com/video/bangladesh/6dvqolftyb",
-      "published_at": "2026-01-12T15:21:07.507000+00:00",
-      "summary": "বিদেশে পলাতক সন্ত্রাসীর পরিকল্পনায় খুন হন মোছাব্বির",
-      "image_s3_key": "prothomalo-bangla/2026-01-12/6jxqgcwp/THUMNAILWEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/6jxqgcwp/THUMNAILWEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ফুলবাড়ী সীমান্তে বিজিবি–বিএসএফের সিও পর্যায়ে পতাকা বৈঠক",
-      "url": "https://www.ittefaq.com.bd/770073/%E0%A6%AB%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A7%80-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF%E2%80%93%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%8F%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%93-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%BE",
-      "published_at": null,
-      "summary": "কুড়িগ্রামের ফুলবাড়ী সীমান্তে আন্তর্জাতিক আইন লঙ্ঘন করে ভারতীয় সীমান্তরক্ষী বাহিনী (বিএসএফ) সড়ক নির্মাণের অভিযোগকে কেন্দ্র করে বর্ডার গার্ড বাংলাদেশ (বিজিবি) ও ভারতীয় সীমান্তরক্ষী বাহিনীর (বিএসএফ) অধিনায়ক (সিও) পর্যায়ে পতাকা বৈঠক অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x262914/uploads/media/2026/01/12/5205039d3f460e2cdbc2093a47273d28-696513a2497a5.jpg?watermark=media%2F2025%2F12%2F10%2F45aebedd9e9adf621d657b0c2b0b2eb6-693947246b54a.png"
-    },
-    {
-      "headline": "দিনের সব আলোচিত সংবাদ ll দিগন্ত প্রাইম টাইম",
-      "url": "https://dailynayadiganta.com/video/smTukSN8oaCE/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "সন্তান প্রসব ছাড়া রোহিঙ্গাদের আর কোনো কাজ নেই",
-      "url": "https://dailynayadiganta.com/video/LQ1oSxZ07mqN/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "নির্বাচনী নিরাপত্তা ও জোট সমঝোতার প্রশ্নে ঝুলছে দেশের রাজনীতি",
-      "url": "https://dailynayadiganta.com/video/y0p1gKPmGHQ2/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "একনজরে বিশ্বের আলোচিত সংবাদ",
-      "url": "https://dailynayadiganta.com/video/mHz9qibgpWUr/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "ডিএসই সূচকের পুনর্গঠন সম্পন্ন, ১৮ জানুয়ারি থেকে কার্যকর",
-      "url": "https://dailynayadiganta.com/economy/mBGUJcgM1krd/",
-      "published_at": null,
-      "summary": "সূচক পদ্ধতি অনুযায়ী এই পুনর্গঠন আগামী ১৮ জানুয়ারি থেকে কার্যকর হবে।",
-      "image_url": "https://media.ndiganta.com/original_images/Dhaka_Stock_Exchange.jpg"
-    },
-    {
-      "headline": "ডিএসইতে সূচকের মিশ্র প্রবণতা : লেনদেন ৩৫২ কোটি টাকা ছাড়াল",
-      "url": "https://dailynayadiganta.com/economy/hQF7SVReV1Gm/",
-      "published_at": null,
-      "summary": "ডিএসই শরিয়াহ সূচক (ডিএসইএস) ০ দশমিক ৯৮ পয়েন্ট কমে দাঁড়িয়েছে ৯৯৭ দশমিক ৯০ পয়েন্টে।",
-      "image_url": "https://media.ndiganta.com/original_images/13_ItSWRLl.jpg"
     }
   ]
 }
