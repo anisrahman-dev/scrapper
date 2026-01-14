@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-14T19:29:53.735285+00:00",
+  "fetched_at": "2026-01-14T19:44:54.328616+00:00",
   "stories": [
+    {
+      "headline": "ষাঁড়ের রণে ভঙ্গে ভেস্তে গেল লড়াই",
+      "url": "https://www.prothomalo.com/photo/bangladesh/ka6f3wg8my",
+      "published_at": "2026-01-14T19:23:22.212000+00:00",
+      "summary": "কিন্তু লড়াই শুরুর মুহূর্তে ঘটল বিপত্তি। লড়াইয়ের মাঠে প্রতিপক্ষ ষাঁড়গুলো একে অপরকে দেখে পালিয়ে যেতে থাকে। শেষ পর্যন্ত প্রশাসন বন্ধ করে দেয় ষাঁড়ের লড়াই প্রতিযোগিতা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-14/zhuyre4j/১.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-14/zhuyre4j/১.JPG?auto=format,compress"
+    },
     {
       "headline": "মঞ্জুরুল আহসানের বিষয়ে হাইকোর্টের আদেশে দেওয়া স্থগিতাদেশ বহাল, রুল নিষ্পত্তির নির্দেশ",
       "url": "https://www.prothomalo.com/bangladesh/dgkqn4kxq2",
@@ -42,7 +50,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-14/spyct0b4/amanazmi.jpeg?auto=format,compress"
     },
     {
-      "headline": "বাংলাদেশসহ ৭৫টি দেশের জন্য ইমিগ্র্যান্ট ভিসা স্থগিত করছে যুক্তরাষ্ট্র",
+      "headline": "বাংলাদেশসহ ৭৫টি দেশের জন্য অভিবাসী ভিসা স্থগিত করছে যুক্তরাষ্ট্র",
       "url": "https://www.prothomalo.com/world/usa/idgi0bl1cs",
       "published_at": "2026-01-14T17:51:49.180000+00:00",
       "summary": "আগামী ২১ জানুয়ারি থেকে এই সিদ্ধান্ত কার্যকর হচ্ছে। যুক্তরাষ্ট্রের পররাষ্ট্র দপ্তরের একটি নথিতে এমনটি উল্লেখ করা হয়েছে।",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-14/acdwyz5p/Web.jpg?auto=format,compress"
     },
     {
-      "headline": "বাহরাইনের বাসায় অনেকগুলো পোস্টাল ব্যালটের ঘটনার তদন্ত হচ্ছে: পররাষ্ট্র উপদেষ্টা",
-      "url": "https://www.prothomalo.com/bangladesh/9h8sh15jqy",
-      "published_at": "2026-01-14T15:14:49.372000+00:00",
-      "summary": "তিনি বলেছেন, প্রথমবারের মতো নেওয়া পোস্টাল ব্যালটে ভোট দিতে ইচ্ছুক ১৫ লাখ, সংখ্যাটা একেবারে কমও না। এই চেষ্টাতে কিছু সমস্যা হবেই।",
-      "image_s3_key": "prothomalo-bangla/2026-01-14/9ksfxdw7/Foreign-Advisor-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-14/9ksfxdw7/Foreign-Advisor-1.jpg?auto=format,compress"
-    },
-    {
       "headline": "গাইবান্ধা জেলা ছাত্রলীগের সাবেক সভাপতি আসিফ গ্রেপ্তার",
       "url": "https://www.bd-pratidin.com/country/2026/01/15/1204850",
       "published_at": "2026-01-15T00:50:16+06:00",
@@ -475,6 +475,20 @@
       "image_url": "https://media.ndiganta.com/images/iktedar-ahmed-logo_mK.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "আওয়ামী ফ্যাসিবাদের সবচেয়ে শক্তিশালী অংশীদার জাতীয় পার্টি",
+      "url": "https://dailynayadiganta.com/video/6qfCmDGp2dow/",
+      "published_at": null,
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "ব্রাহ্মণবাড়িয়ায় মাদক বিরোধী ক্রিকেট টুর্নামেন্ট অনুষ্ঠিত",
+      "url": "https://dailynayadiganta.com/video/93xZJZe9hHHT/",
+      "published_at": null,
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
       "headline": "টানা তৃতীয়বার আন্তর্জাতিক ‘আইএসও’  স্বীকৃতি পেল এপিক হেলথ কেয়ার",
       "url": "https://dailynayadiganta.com/printed-edition/s8tBZA8FtJqC/",
       "published_at": null,
@@ -508,20 +522,6 @@
       "published_at": null,
       "summary": "ইসলামী ব্যাংক বাংলাদেশ পিএলসির পরিচালনা পরিষদের এক সভা গতকাল বুধবার ইসলামী ব্যাংক টাওয়ারে অনুষ্ঠিত হয়। ব্যাংকের চেয়ারম্যান প্রফেসর ড. এম জুবায়দুর রহমান এতে সভাপতিত্ব করেন। সভায় এক্সিকিউটিভ কমিটির চেয়ারম্যান মোহাম্মদ খুরশীদ ওয়াহাব, অডিট কমিটির চেয়ারম্যান মো: আবদুস সালাম, এফসিএ, এফসিএস, রিস্ক ম্যানেজমেন্ট কমিটির চেয়ারম্যান প্রফেসর ড. এম মাসুদ রহমান, স্বতন্ত্র পরিচালক মো: আবদুল জলিল, ম্যানেজিং ডিরেক্টর মো: ওমর ফারুক খাঁন এবং কো¤পানি সেক্রেটারি মো: হাবিবুর রহমান উপস্থিত ছিলেন। বিজ্ঞপ্তি।",
       "image_url": "https://media.ndiganta.com/original_images/artho-1_SeBTTqx.jpg"
-    },
-    {
-      "headline": "ভালো কোম্পানিতে ফিরতে শুরু  করেছেন বিনিয়োগকারীরা",
-      "url": "https://dailynayadiganta.com/printed-edition/OGxRSJbnM6y4/",
-      "published_at": null,
-      "summary": "হারানো দর ফিওে পাচ্ছে দুর্বল আর্থিক প্রতিষ্ঠানগুলো",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "ফরিদপুর জেলায় নাতে রাসূলে শ্রেষ্ঠ মুস্তাকিম নাদিয়ান",
-      "url": "https://dailynayadiganta.com/printed-edition/Zm1KRwSoCxMc/",
-      "published_at": null,
-      "summary": "জাতীয় শিক্ষা সপ্তাহ-২০২৬ উপলক্ষে জেলা প্রশাসন ও জেলা শিক্ষা অফিস ফরিদপুরের আয়োজনে অনুষ্ঠিত প্রতিযোগিতায় ভাঙ্গা সরকারি মডেল পাইলট উচ্চবিদ্যালয়ের শিক্ষার্থী মুস্তাকিম নাদিয়ান নাতে রাসূল সা: শাখায় জেলায় শ্রেষ্ঠ নির্বাচিত হয়েছে। গত সোমবার জেলা শিল্পকলা একাডেমি হলরুমে জেলা পর্যায়ের শ্রেষ্ঠ হিসেবে মুস্তাকিমের নাম ঘোষণা করা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
       "headline": "বিচারের মুখে ‘গুম জিয়াউল’",
@@ -585,6 +585,28 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "বাহরাইনের বাসায় অনেকগুলো পোস্টাল ব্যালটের ঘটনার তদন্ত হচ্ছে: পররাষ্ট্র উপদেষ্টা",
+      "url": "https://www.prothomalo.com/bangladesh/9h8sh15jqy",
+      "published_at": "2026-01-14T15:14:49.372000+00:00",
+      "summary": "তিনি বলেছেন, প্রথমবারের মতো নেওয়া পোস্টাল ব্যালটে ভোট দিতে ইচ্ছুক ১৫ লাখ, সংখ্যাটা একেবারে কমও না। এই চেষ্টাতে কিছু সমস্যা হবেই।",
+      "image_s3_key": "prothomalo-bangla/2026-01-14/9ksfxdw7/Foreign-Advisor-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-14/9ksfxdw7/Foreign-Advisor-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ভালো কোম্পানিতে ফিরতে শুরু  করেছেন বিনিয়োগকারীরা",
+      "url": "https://dailynayadiganta.com/printed-edition/OGxRSJbnM6y4/",
+      "published_at": null,
+      "summary": "হারানো দর ফিওে পাচ্ছে দুর্বল আর্থিক প্রতিষ্ঠানগুলো",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "ফরিদপুর জেলায় নাতে রাসূলে শ্রেষ্ঠ মুস্তাকিম নাদিয়ান",
+      "url": "https://dailynayadiganta.com/printed-edition/Zm1KRwSoCxMc/",
+      "published_at": null,
+      "summary": "জাতীয় শিক্ষা সপ্তাহ-২০২৬ উপলক্ষে জেলা প্রশাসন ও জেলা শিক্ষা অফিস ফরিদপুরের আয়োজনে অনুষ্ঠিত প্রতিযোগিতায় ভাঙ্গা সরকারি মডেল পাইলট উচ্চবিদ্যালয়ের শিক্ষার্থী মুস্তাকিম নাদিয়ান নাতে রাসূল সা: শাখায় জেলায় শ্রেষ্ঠ নির্বাচিত হয়েছে। গত সোমবার জেলা শিল্পকলা একাডেমি হলরুমে জেলা পর্যায়ের শ্রেষ্ঠ হিসেবে মুস্তাকিমের নাম ঘোষণা করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
       "headline": "‘ক্রিকেটারদের পেছনে কোটি কোটি টাকা খরচ করছি, খারাপ খেললে ওই টাকা ফেরত চাচ্ছি নাকি’",
@@ -1461,27 +1483,6 @@
       "published_at": "2026-01-14T20:24:43+06:00",
       "summary": "ব্রাহ্মণবাড়িয়ার বাঞ্ছারামপুর উপজেলা নির্বাহী কর্মকর্তা (ইউএনও) ফেরদৌস আরার জানাজা ও দাফন সম্পন্ন হয়েছে।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768400677-92e6c1c8b95bc1076b653d9790ed4063.jpg"
-    },
-    {
-      "headline": "মাদারীপুরে জমি নিয়ে বিরোধে দুই পক্ষের সংঘর্ষ",
-      "url": "https://www.bd-pratidin.com/country/2026/01/14/1204668",
-      "published_at": "2026-01-14T20:23:27+06:00",
-      "summary": "মাদারীপুরের ডাসার উপজেলার খাতিয়াল গ্রামে দীর্ঘদিনের জমি-জমা সংক্রান্ত বিরোধকে কেন্দ্র করে দুই পক্ষের মধ্যে সংঘর্ষ, হামলা ও অগ্নিসংযোগের ঘটনা ঘটেছে। এতে একজন গুরুতর আহত হয়েছেন এবং অন্তত ১৫-১৬টি বসতঘর পুড়ে গেছে বলে অভিযোগ পাওয়া গেছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768400597-10148eb88fe76e9604f3a9d948495788.PNG"
-    },
-    {
-      "headline": "ইতিহাসের সেরা নির্বাচন উপহার দিতে পুলিশ দৃঢ়প্রতিজ্ঞ : ডিআইজি রেজাউল",
-      "url": "https://www.bd-pratidin.com/national/2026/01/14/1204667",
-      "published_at": "2026-01-14T20:21:40+06:00",
-      "summary": "ঢাকা রেঞ্জের উপ-মহাপরিদর্শক (ডিআইজি) রেজাউল করিম মল্লিক বলেছেন, ইতিহাসের সেরা নির্বাচন উপহার দিতে বাংলাদেশ পুলিশ বাহিনী দৃঢ়প্রতিজ্ঞাবদ্ধ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768400493-e7bcf9cf35d49b2f65834b35d748d854.PNG"
-    },
-    {
-      "headline": "ইসিতে পঞ্চম দিনের আপিলে প্রার্থিতা ফিরে পেলেন আরও ৭৩ প্রার্থী",
-      "url": "https://www.ittefaq.com.bd/770332/%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%AE-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AA%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A6%93",
-      "published_at": null,
-      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে মনোনয়নপত্র বাছাইয়ে রিটার্নিং কর্মকর্তার সিদ্ধান্তের বিরুদ্ধে করা আপিল শুনানির পঞ্চম দিনে প্রার্থিতা ফিরে পেলেন আরও ৭৩ জন প্রার্থী।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/14/357753ef92c6b0d8d07c0974b118424e-6967a1334591c.jpg"
     }
   ]
 }
