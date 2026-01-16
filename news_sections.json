@@ -1,7 +1,55 @@
 {
-  "fetched_at": "2026-01-16T05:01:28.397465+00:00",
+  "fetched_at": "2026-01-16T05:27:40.464826+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "রাজধানীর উত্তরায় বাড়িতে আগুন, নিহত ৩",
+        "url": "https://www.prothomalo.com/bangladesh/capital/lii1mqdxtb",
+        "published_at": "2026-01-16T05:09:48.465000+00:00",
+        "summary": "দুর্ঘটনায় অন্তত ১৩ জন আহত হয়েছেন। তাঁদের হাসপাতালে পাঠানো হয়েছে বলে ফায়ার সার্ভিস ও সিভিল ডিফেন্স সূত্র জানিয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2025-11-27/uxzkarbs/১.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-27/uxzkarbs/১.avif?auto=format,compress"
+      },
+      {
+        "headline": "শৈত্যপ্রবাহ আজ ৩ জেলায়, ঢাকার তাপমাত্রা কমল",
+        "url": "https://www.prothomalo.com/bangladesh/environment/pwlvwe4d6h",
+        "published_at": "2026-01-16T05:03:56.034000+00:00",
+        "summary": "আবহাওয়াবিদ শাহানাজ সুলতানা আজ সকালে প্রথম আলোকে বলেন, আজ দেশের সার্বিক তাপমাত্রা সামান্য কমে গেছে। শৈত্যপ্রবাহ বয়ে যাওয়া জেলা তিনটি হলেও শীতের অনুভূতি বেড়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-16/3pts0o4e/RajshahiWinter-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/3pts0o4e/RajshahiWinter-1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "এমবাপ্পের দলে কোচ হলেই যে বিপদ, চলে যাবে চাকরি",
+        "url": "https://www.prothomalo.com/sports/football/1np3g0manh",
+        "published_at": "2026-01-16T05:02:23.586000+00:00",
+        "summary": "ফুটবল-দুনিয়ায় আলোচনার কেন্দ্রে এখন রিয়াল মাদ্রিদ থেকে জাবি আলোনসোর বিদায়ের ঘটনা। রিয়াল কোচের ছাঁটাইকে ঘিরে সামনে আসছে ভেতরের নানা খবরও।",
+        "image_s3_key": "prothomalo-bangla/2026-01-14/2o4zbhn1/Kylian-Mbappe-Xabi-Alonso-Real-Madrid-Reuters-1200-2026-01-a60c9d32f55616e622892df621c614d0.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-14/2o4zbhn1/Kylian-Mbappe-Xabi-Alonso-Real-Madrid-Reuters-1200-2026-01-a60c9d32f55616e622892df621c614d0.avif?auto=format,compress"
+      },
+      {
+        "headline": "নবাবগঞ্জে পূর্বশত্রুতার জেরে হামলায় নিহত ১, এলাকায় উত্তেজনা",
+        "url": "https://www.prothomalo.com/bangladesh/district/a0uck715l0",
+        "published_at": "2026-01-16T05:01:13.908000+00:00",
+        "summary": "গতকাল বৃহস্পতিবার রাত আটটার দিকে ঢাকার নবাবগঞ্জ উপজেলার বান্দুরা ইউনিয়নের মহব্বতপুর গ্রামে এ হত্যাকাণ্ডের ঘটনা ঘটে।",
+        "image_s3_key": "prothomalo-bangla/2021-06/a026aab3-fce0-42aa-99fd-b1a1c88f21bd/murder.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-06/a026aab3-fce0-42aa-99fd-b1a1c88f21bd/murder.png?auto=format,compress"
+      },
+      {
+        "headline": "মুসলিম সভ্যতায় ধর্মীয় সহাবস্থান",
+        "url": "https://www.prothomalo.com/religion/islam/p19b854yyi",
+        "published_at": "2026-01-16T05:00:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-15/0lthou5o/digital-art-ramadan-celebration-3.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/0lthou5o/digital-art-ramadan-celebration-3.jpg?auto=format,compress"
+      },
+      {
+        "headline": "চুয়েটের ভর্তি পরীক্ষা কাল",
+        "url": "https://www.prothomalo.com/education/examination/xmu7m5obok",
+        "published_at": "2026-01-16T04:58:04.166000+00:00",
+        "summary": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ে (চুয়েট) ২০২৫-২৬ শিক্ষাবর্ষের স্নাতকে ভর্তি পরীক্ষার যোগ্য প্রার্থীর তালিকা প্রকাশ করা হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2025-12-05/1uubo5zk/38ca5e75-72bb-4028-b8aa-0fce1fff59fd.jfif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-05/1uubo5zk/38ca5e75-72bb-4028-b8aa-0fce1fff59fd.jfif?auto=format,compress"
+      },
       {
         "headline": "অবসর নেওয়ার পর কি নিজেকে গুরুত্বহীন মনে হচ্ছে",
         "url": "https://www.prothomalo.com/lifestyle/0uycysk5q1",
@@ -163,6 +211,14 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/cx9dqyqe/WhatsApp-Image-2026-01-15-at-4.38.47-PM-1.jpeg?auto=format,compress"
       },
       {
+        "headline": "স্কলারশিপ আবেদনে পূর্ণাঙ্গ গাইডলাইন দেখুন এখানে",
+        "url": "https://www.prothomalo.com/education/higher-education/53nnm3x52t",
+        "published_at": "2026-01-16T02:00:00+00:00",
+        "summary": "স্কলারশিপ শিক্ষার্থীদের ক্যারিয়ার, নতুন দক্ষতা অর্জন এবং বিশেষজ্ঞদের সঙ্গে নেটওয়ার্ক গড়তে সাহায্য করে। শিক্ষার্থীরা কেবল একাডেমিক অর্জনেই সীমাবদ্ধ থাকে না; তারা বিভিন্ন কার্যক্রমে অংশ নিয়ে অভিজ্ঞতা অর্জন করতে পারে।",
+        "image_s3_key": "prothomalo-bangla/2022-12/62e0bffa-34e2-4a69-9194-ca940afa9fc7/three_students_sitting_on_a_couch.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-12/62e0bffa-34e2-4a69-9194-ca940afa9fc7/three_students_sitting_on_a_couch.jpg?auto=format,compress"
+      },
+      {
         "headline": "সামান্য থেকেই শুরু হয়েছিল মনজুরুলের চেষ্টা, যেভাবে তৈরি করলেন আজকের অবস্থান",
         "url": "https://www.prothomalo.com/video/bangladesh/c0knkv8qao",
         "published_at": "2026-01-16T02:00:00+00:00",
@@ -171,12 +227,12 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/qphon0h2/WEB.jpg?auto=format,compress"
       },
       {
-        "headline": "স্কলারশিপ আবেদনে পূর্ণাঙ্গ গাইডলাইন দেখুন এখানে",
-        "url": "https://www.prothomalo.com/education/higher-education/53nnm3x52t",
+        "headline": "বিচিত্রিতা: আফকনে ফ্রান্সের জয়—মাঠে নয়, জন্মসনদে",
+        "url": "https://www.prothomalo.com/sports/football/abzk7xime8",
         "published_at": "2026-01-16T02:00:00+00:00",
-        "summary": "স্কলারশিপ শিক্ষার্থীদের ক্যারিয়ার, নতুন দক্ষতা অর্জন এবং বিশেষজ্ঞদের সঙ্গে নেটওয়ার্ক গড়তে সাহায্য করে। শিক্ষার্থীরা কেবল একাডেমিক অর্জনেই সীমাবদ্ধ থাকে না; তারা বিভিন্ন কার্যক্রমে অংশ নিয়ে অভিজ্ঞতা অর্জন করতে পারে।",
-        "image_s3_key": "prothomalo-bangla/2022-12/62e0bffa-34e2-4a69-9194-ca940afa9fc7/three_students_sitting_on_a_couch.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-12/62e0bffa-34e2-4a69-9194-ca940afa9fc7/three_students_sitting_on_a_couch.jpg?auto=format,compress"
+        "summary": "খেলার মাঠে খেলা তো হয়ই, এর বাইরেও থাকে বিচিত্র অনেক কিছুই। মাঠে ও মাঠের বাইরের বিচিত্র সব ঘটনা নিয়েই এ আয়োজন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/qo61xcu1/2026-01-14T164437Z1880178325UP1EM1E1AIBJ1RTRMADP3SOCCER-NATIONS-SEN-EGY.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/qo61xcu1/2026-01-14T164437Z1880178325UP1EM1E1AIBJ1RTRMADP3SOCCER-NATIONS-SEN-EGY.JPG?auto=format,compress"
       },
       {
         "headline": "যে ১০ চাকরিতে চাপ কম, আয় বেশি",
@@ -193,14 +249,6 @@
         "summary": "ইরানজুড়ে শুরু হওয়া বিক্ষোভের প্রায় দুই সপ্তাহ পর যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প তাঁর পছন্দের সামাজিক যোগাযোগমাধ্যম ট্রুথে একটি বার্তা দেন। তিনি লেখেন, ‘ইরান এমন এক স্বাধীনতার দিকে তাকিয়ে আছে, যা (ইরান) আগে কখনো দেখেনি। ",
         "image_s3_key": "prothomalo-bangla/2026-01-13/br2pggoj/3.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-13/br2pggoj/3.jpg?auto=format,compress"
-      },
-      {
-        "headline": "বিচিত্রিতা: আফকনে ফ্রান্সের জয়—মাঠে নয়, জন্মসনদে",
-        "url": "https://www.prothomalo.com/sports/football/abzk7xime8",
-        "published_at": "2026-01-16T02:00:00+00:00",
-        "summary": "খেলার মাঠে খেলা তো হয়ই, এর বাইরেও থাকে বিচিত্র অনেক কিছুই। মাঠে ও মাঠের বাইরের বিচিত্র সব ঘটনা নিয়েই এ আয়োজন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/qo61xcu1/2026-01-14T164437Z1880178325UP1EM1E1AIBJ1RTRMADP3SOCCER-NATIONS-SEN-EGY.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/qo61xcu1/2026-01-14T164437Z1880178325UP1EM1E1AIBJ1RTRMADP3SOCCER-NATIONS-SEN-EGY.JPG?auto=format,compress"
       },
       {
         "headline": "অরণ্যের দেবী বনবিবির পূজা: পুঁথির ছন্দে বেঁচে থাকার প্রার্থনা",
@@ -235,20 +283,20 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/w0b5oljy/Untitled-1.jpg?auto=format,compress"
       },
       {
-        "headline": "আজ টিভিতে যা দেখবেন (১৬ জানুয়ারি ২০২৬)",
-        "url": "https://www.prothomalo.com/sports/9dg8kdieez",
-        "published_at": "2026-01-16T01:00:00+00:00",
-        "summary": "বিপিএলে আজ হবে বৃহস্পতিবারের নির্ধারিত দুটি ম্যাচ। অনূর্ধ্ব-১৯ বিশ্বকাপ ক্রিকেটে মুখোমুখি ইংল্যান্ড ও পাকিস্তান। আছে বিগ ব্যাশের ম্যাচও।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/92789308/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/92789308/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg?auto=format,compress"
-      },
-      {
         "headline": "কল্যাণী কি বলিউডেও আসছেন",
         "url": "https://www.prothomalo.com/entertainment/bollywood/krmorg8g6a",
         "published_at": "2026-01-16T01:00:00+00:00",
         "summary": "মালয়ালম সিনেমার ইতিহাসে নতুন দিগন্ত খুলে দিয়েছে কল্যাণী প্রিয়দর্শন অভিনীত ‘লোকাহ: চ্যাপ্টার ১-চন্দ্র’। হিন্দিসহ বিভিন্ন ভাষার সিনেমা থেকেও তাঁর কাছে প্রস্তাব আসছে।",
         "image_s3_key": "prothomalo-bangla/2026-01-15/1w6elj59/kalyanipriyadarshan17264021773457634528153176346336865571.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/1w6elj59/kalyanipriyadarshan17264021773457634528153176346336865571.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আজ টিভিতে যা দেখবেন (১৬ জানুয়ারি ২০২৬)",
+        "url": "https://www.prothomalo.com/sports/9dg8kdieez",
+        "published_at": "2026-01-16T01:00:00+00:00",
+        "summary": "বিপিএলে আজ হবে বৃহস্পতিবারের নির্ধারিত দুটি ম্যাচ। অনূর্ধ্ব-১৯ বিশ্বকাপ ক্রিকেটে মুখোমুখি ইংল্যান্ড ও পাকিস্তান। আছে বিগ ব্যাশের ম্যাচও।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/92789308/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/92789308/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg?auto=format,compress"
       },
       {
         "headline": "ট্রাম্পকে নোবেল পুরস্কারের পদক উপহার দিলেন মাচাদো",
@@ -275,52 +323,25 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/ljn885o1/Jamat-Vote-01.jpeg?auto=format,compress"
       },
       {
-        "headline": "কালীগঞ্জের বিনিরাইলে এ বছরও বসেছিল ঐতিহ্যবাহী জামাই মেলা",
-        "url": "https://www.prothomalo.com/video/bangladesh/otd35jtxrn",
-        "published_at": "2026-01-15T19:15:41.400000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-15/gr45mlgt/THUMNAILWEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/gr45mlgt/THUMNAILWEB.jpg?auto=format,compress"
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
       },
       {
-        "headline": "বাবার চোখে পানি দেখে নিজেকে আড়াল করলেন মেয়ে",
-        "url": "https://www.prothomalo.com/bangladesh/udaor4zyd7",
-        "published_at": "2026-01-15T19:14:11.392000+00:00",
-        "summary": "দুর্নীতির মামলায় আদালতে আনা হয়েছিল অধ্যাপক আবুল বারকাতকে। আদালত এ মামলায় অভিযোগপত্র গ্রহণ করে পলাতক আসামিদের বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি করেছেন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/406hya32/Professor-barakar.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/406hya32/Professor-barakar.jpeg?auto=format,compress"
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
       },
       {
-        "headline": "গাজায় যুদ্ধবিরতি পরিকল্পনার দ্বিতীয় ধাপ শুরুর ঘোষণা যুক্তরাষ্ট্রের",
-        "url": "https://www.prothomalo.com/world/middle-east/hx070bmvm6",
-        "published_at": "2026-01-15T19:07:14.664000+00:00",
-        "summary": "২০২৫ সালের ১০ অক্টোবর শুরু হয়েছিল যুদ্ধবিরতির প্রথম ধাপ। যদিও এ ধাপের অনেক শর্ত পূরণ করেনি ইসরায়েল।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/6dqngb3r/gaza.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/6dqngb3r/gaza.JPG?auto=format,compress"
-      },
-      {
-        "headline": "দেশজুড়ে যৌথ বাহিনীর সপ্তাহব্যাপী অভিযানে ৩২৫ জন আটক",
-        "url": "https://www.prothomalo.com/bangladesh/czqo5ohavj",
-        "published_at": "2026-01-15T19:00:22.204000+00:00",
-        "summary": "সারা দেশে গত এক সপ্তাহে যৌথ বাহিনীর অভিযানে ৩২৫ জনকে আটক করা হয়েছে। এ সময় তাঁদের কাছ থেকে অবৈধ আগ্নেয়াস্ত্র ও মাদকদ্রব্য উদ্ধার করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/y4dhx8j9/Army-Operation-1.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/y4dhx8j9/Army-Operation-1.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "১১-দলীয় ঐক্যে মুক্তিযোদ্ধা ও জুলাই যোদ্ধার সম্মিলন ঘটেছে: অলি আহমদ",
-        "url": "https://www.prothomalo.com/politics/wx45gjb52i",
-        "published_at": "2026-01-15T18:55:07.027000+00:00",
-        "summary": "অলি আহমদ বলেন, ‘আপনারা আওয়ামী লীগের শাসন দেখেছেন, বিএনপির শাসন দেখেছেন। এখন আপনাদের অনুরোধ করব ন্যায়ের শাসন, সুশাসন, চাঁদাবাজমুক্ত-দুর্নীতিমুক্ত একটা শাসন দেখার জন্য।’",
-        "image_s3_key": "prothomalo-bangla/2025-10-26/mw667l0n/LDP.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-26/mw667l0n/LDP.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "ভিন্নমত গ্রহণ করতে না পারা দেশের বড় সংকট",
-        "url": "https://www.prothomalo.com/bangladesh/01dcwreccw",
-        "published_at": "2026-01-15T18:49:41.443000+00:00",
-        "summary": "আলোচনায় এসেছে, নির্বাচনের পর ফলাফল মেনে নেওয়ার সংস্কৃতি দেশে দুর্বল। যারা পরাজিত হয়, তারা নির্বাচনকে প্রশ্নবিদ্ধ করার পথেই হাঁটে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/og4tcnps/Untitled-1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/og4tcnps/Untitled-1.jpg?auto=format,compress"
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
       },
       {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
@@ -372,25 +393,32 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535791-b27181d12ab9dab0cb44d1f6fa8b829a.jpg"
       },
       {
-        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
-        "published_at": "2026-01-16T09:49:55+06:00",
-        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+        "headline": "ইরানের বিক্ষোভে কানাডার নাগরিকের প্রাণহানি, অটোয়ার তীব্র নিন্দা",
+        "url": "https://www.ittefaq.com.bd/770534/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%85%E0%A6%9F%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "ইরানজুড়ে চলমান সরকারবিরোধী আন্দোলনের ভয়াবহ সহিংসতায় এক কানাডীয় নাগরিকের মৃত্যু হয়েছে। স্থানীয় সময় বৃহস্পতিবার (১৫ জানুয়ারি) কানাডা সরকার এই তথ্য নিশ্চিত করার পর ইরানের শাসকগোষ্ঠীর কঠোর সমালোচনা করেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/09/f169f879f72c64c846d04b48b709dde9-696076287ca45.jpg"
       },
       {
-        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
-        "published_at": "2026-01-16T09:41:33+06:00",
-        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+        "headline": "মির্জা আব্বাসকে বিশ্রাম, নাসীরুদ্দীন পাটওয়ারীকে আরও শিখতে বললেন মেঘনা আলম",
+        "url": "https://www.ittefaq.com.bd/770533/%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%A8-%E0%A6%AA%E0%A6%BE%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87",
+        "published_at": null,
+        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ঢাকা-৮ আসনে প্রতিদ্বন্দ্বিতার ইঙ্গিত দিয়েছেন আলোচিত মডেল ও সাবেক মিস আর্থ বাংলাদেশমেঘনা আলম। এ নিয়ে সামাজিক যোগাযোগমাধ্যমে সরব এই মডেল। তিনি বলেছেন, মির্জা আব্বাসের বিশ্রাম নেওয়া এবং নাসীরুদ্দীন পাটওয়ারীর আরও শেখা উচিত।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/a59e9f6d7115ece3d62edd8173f3d53a-6969c6f937b48.jpg"
       },
       {
-        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
-        "published_at": "2026-01-16T09:31:26+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
+        "headline": "নোয়াখালীতে পিকআপের ধাক্কায় দুই মোটরসাইকেল আরোহী নিহত",
+        "url": "https://www.ittefaq.com.bd/770532/%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%95%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%86%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A7%80",
+        "published_at": null,
+        "summary": "নোয়াখালী জেলার মাইজদী এলাকায় পিকআপ ভ্যানের সঙ্গে মোটরসাইকেলের সংঘর্ষে দুই যুবক প্রাণ হারিয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/01/23/ccc20473ee3e17b7590efac1c5193715-6791b2f4be466.jpg"
+      },
+      {
+        "headline": "কর্পোরেট নিয়ন্ত্রণে বলিউড, মৌলিকত্ব হারাচ্ছে গান: এ আর রহমান",
+        "url": "https://www.ittefaq.com.bd/770531/%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%9F-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A6%BF%E0%A6%89%E0%A6%A1-%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%A8",
+        "published_at": null,
+        "summary": "তিন দশকের বেশি সময় ধরে আন্তর্জাতিক সংগীত জগতে নিজের সৃজনশীলতার স্বাক্ষর রেখে চলেছেন এ আর রহমান। অস্কার, গ্র্যামি থেকে শুরু করে অসংখ্য সম্মানে ভূষিত এই কিংবদন্তি সংগীতশিল্পী এবার বলিউডের বর্তমান বাস্তবতা নিয়ে স্পষ্ট ভাষায় নিজের অবস্থান তুলে ধরেছেন। তার মতে, হিন্দি চলচ্চিত্র শিল্পে এখন সৃজনশীল মানুষের চেয়ে ক্ষমতাবান হয়ে উঠেছে কর্পোরেট গোষ্ঠী।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/04325a877e3d1e2bbcd6c779be44e663-6969c66574bdd.png"
       },
       {
         "headline": "এসএসসি পরীক্ষার ফরম পূরণের সময় বাড়াল ঢাকা বোর্ড",
@@ -435,34 +463,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/06/08/b006040460a5500287cf031efa516a91-6845002d186e7.jpg"
       },
       {
-        "headline": "শতাধিক কুকুর পেলো নতুন আশ্রয়",
-        "url": "https://www.ittefaq.com.bd/770524/%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%95%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%9F",
-        "published_at": null,
-        "summary": "হাড় কাঁপানো শীতে দুর্ভোগে পড়েছে দক্ষিনাঞ্চলের প্রাণীকূলসহ সাধারণ মানুষ। শীতকাল অনেক প্রাণীর জন্য সহজ সময়ে পড়ে না। এই শীত থেকে রাস্তাঘাটে ঘুরে বেড়ানো কুকুরদের সুরক্ষায় ব্যতিক্রমী উদ্যোগ নিয়েছেন ‘অ্যানিমেল লাভারস অফ পটুয়াখালী’ সংগঠনের সদস্যরা।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/e04c8c345d04ee8db12ca13d291f0363-6969b4c2db81e.jpg"
-      },
-      {
-        "headline": "রাজধানীতে আজ আকাশ পরিষ্কার ও শুষ্ক থাকবে",
-        "url": "https://www.ittefaq.com.bd/770523/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%93-%E0%A6%B6%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%95-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87",
-        "published_at": null,
-        "summary": "রাজধানী ঢাকায় আজ দুপুর পর্যন্ত প্রধানত শুষ্ক আবহাওয়া এবং পরিষ্কার আকাশ বিরাজ করার সম্ভাবনা রয়েছে। আবহাওয়া অধিদপ্তরের পূর্বাভাস অনুযায়ী, আজ দিনের তাপমাত্রা প্রায় অপরিবর্তিত থাকতে পারে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/14/c81dffcaa46098518afc1fa82c7990fa-69670bbf860de.jpg"
-      },
-      {
-        "headline": "পোস্টাল ব্যালটে ফেনীতে ভোট দেবেন ৪০ হাজারের বেশি ভোটার",
-        "url": "https://www.ittefaq.com.bd/770522/%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%9F%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%A8-%E0%A7%AA%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে কেন্দ্র করে দেশের রাজনৈতিক অঙ্গনে বাড়ছে উত্তেজনা। সেই নির্বাচনী আমেজ এবার দেশের গণ্ডি পেরিয়ে প্রবাসেও ছড়িয়ে পড়েছে। দেশের ইতিহাসে এই প্রথমবারের মতো পোস্টাল ব্যালট ব্যবস্থায় ভোটাধিকার প্রয়োগের সুযোগ পাচ্ছেন বিদেশে বসবাসরত বাংলাদেশিরা।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2024/09/26/2c8e15205c4df693f27ec0a59b68b448-66f52fded73d7.jpg"
-      },
-      {
-        "headline": "অযত্ন-অবহেলায় ধ্বংসের পথে ২৬০ বছরের মঠবাড়ি মন্দির",
-        "url": "https://www.ittefaq.com.bd/770521/%E0%A6%85%E0%A6%AF%E0%A6%A4%E0%A7%8D%E0%A6%A8-%E0%A6%85%E0%A6%AC%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A7%A8%E0%A7%AC%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A0%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0",
-        "published_at": null,
-        "summary": "মঠবাড়ি মন্দির—মধ্যযুগীয় পুরাকীর্তির এক অনন্য নিদর্শন। সাতক্ষীরার কলারোয়া উপজেলার সোনাবাড়িয়া গ্রামে আজও স্বমহিমায় দাঁড়িয়ে আছে ঐতিহাসিক এই স্থাপনাটি। তবে অযত্ন, অবহেলা ও সঠিক রক্ষণাবেক্ষণের অভাবে বর্তমানে এটি ভগ্নদশায় পরিণত হয়েছে। তিনতলা বিশিষ্ট এই পুরাকীর্তিটি নবরত্ন মন্দির বা শ্যামসুন্দর মন্দির নামেও পরিচিত।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/55971bf5dfc992ebc983a623b010d38a-6969b26a90241.jpg"
-      },
-      {
         "headline": "ট্রাম্পের কর্মকাণ্ড মরণ কামড়",
         "url": "https://dailynayadiganta.com/opinions/sub-editorial/VekoOFBK7IVh/",
         "published_at": null,
@@ -482,6 +482,20 @@
         "published_at": null,
         "summary": "ইরানে চলমান আন্দোলন শাসনব্যবস্থার জন্য একটি বড় সতর্ক সঙ্কেত। তবে বর্তমান বাস্তবতায় তাৎক্ষণিক শাসন পরিবর্তনের সম্ভাবনা সীমিত। কারণ শক্ত নিরাপত্তা কাঠামো, নেতৃত্বের অভাব, সামাজিক বিভাজন এবং বিদেশী হস্তক্ষেপের ঝুঁকি আন্দোলনকে পূর্ণাঙ্গ বিপ্লবে রূপ নিতে বাধা দিচ্ছে। একই সাথে যুক্তরাষ্ট্র ও ইরানের পাল্টাপাল্টি হুঁশিয়ারি মধ্যপ্রাচ্যকে একটি বিপজ্জনক মোড়ে দাঁড় করিয়েছে। একটি ভুল হিসাব পুরো অঞ্চলকে নতুন সঙ্ঘাতের দিকে ঠেলে দিতে পারে, যার প্রভাব পড়বে বৈশ্বিক অর্থনীতি ও নিরাপত্তায়।এই বাস্তবতায় ক‚টনৈতিক সংযমই একমাত্র টেকসই পথ। নচেৎ ইরান সঙ্কট শুধু একটি দেশের অভ্যন্তরীণ প্রশ্নে সীমাবদ্ধ থাকবে না; গোটা মধ্যপ্রাচ্যের স্থিতিশীলতার জন্য কঠিন পরীক্ষায় পরিণত হবে",
         "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "বিপিএলের নতুন সূচি, টাকা ফেরত পাচ্ছেন দর্শকেরা",
+        "url": "https://dailynayadiganta.com/sports/cricket/HL4EKufoO31a/",
+        "published_at": null,
+        "summary": "বিপিএলের ঢাকা পর্বের খেলা স্থগিত হওয়ায় ১৫ জানুয়ারির টিকিটের টাকা ফেরত দেবে বিসিবি, আর সংশোধিত সূচি অনুযায়ী ১৬-১৮ জানুয়ারি ম্যাচগুলো অনুষ্ঠিত হবে, প্লে-অফ ও ফাইনালের তারিখও একদিন করে পিছিয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/bpl-2026.jpg"
+      },
+      {
+        "headline": "অপারেশন ডেভিল হান্টে সারাদেশে ২৪ ঘণ্টায় গ্রেফতার ৪২৪",
+        "url": "https://dailynayadiganta.com/bangladesh/crime/OORYPrOXLQB1/",
+        "published_at": null,
+        "summary": "অপারেশন ডেভিল হান্ট ফেজ-২-এর আওতায় গত ২৪ ঘণ্টায় সারাদেশে ৪২৪ জন গ্রেফতার হয়েছে; এ সময় আগ্নেয়াস্ত্র, গুলি ও ৭৫ হাজার ইয়াবাসহ বিপুল মাদক উদ্ধার করা হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/arrest-greftar-600_0tGhEi0.jpg"
       },
       {
         "headline": "বুটেক্স ভর্তি পরীক্ষার ফল প্রকাশ, প্রথম হয়েছেন আফসার",
@@ -533,17 +547,10 @@
         "image_url": "https://media.ndiganta.com/original_images/Dinajpur_J8QFJQY.jpg"
       },
       {
-        "headline": "বাংলাদেশীদের সব ধরনের ভিসা স্থগিত করেনি যুক্তরাষ্ট্র : বাংলাফ্যাক্ট",
-        "url": "https://dailynayadiganta.com/bangladesh/diplomacy/CIEgz0vGUxpa/",
-        "published_at": null,
-        "summary": "যুক্তরাষ্ট্র মূলত বাংলাদেশসহ ৭৫টি দেশের নাগরিকদের জন্য অভিবাসী ভিসা (ইমিগ্র্যান্ট ভিসা) দেয়ার প্রক্রিয়া স্থগিত করার সিদ্ধান্ত নিয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/US-Visa_l8kvCyi.jpg"
-      },
-      {
         "headline": "আজকের সর্বশেষ খবর - January 16, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "অস্কারজয়ী বিশ্বে অন্যতম শ্রেষ্ঠ সুরস্রষ্টা এআর রহমান মণি রত্নমের ‘রোজা’ সিনেমার মাধ্যমে বলিউডে কাজ শুরু করেছিলেন। তারপর ‘বম্বে’ ও ‘দিল ...",
+        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে নোয়াখালী–৬ (হাতিয়া) সংসদীয় আসনে ১১ দলীয় নির্বাচনী জোটের চূড়ান্ত প্রার্থী হিসেবে মনোনয়ন পেয়েছেন জাতীয় নাগরিক ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -552,6 +559,110 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "কালীগঞ্জের বিনিরাইলে এ বছরও বসেছিল ঐতিহ্যবাহী জামাই মেলা",
+        "url": "https://www.prothomalo.com/video/bangladesh/otd35jtxrn",
+        "published_at": "2026-01-15T19:15:41.400000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-15/gr45mlgt/THUMNAILWEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/gr45mlgt/THUMNAILWEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বাবার চোখে পানি দেখে নিজেকে আড়াল করলেন মেয়ে",
+        "url": "https://www.prothomalo.com/bangladesh/udaor4zyd7",
+        "published_at": "2026-01-15T19:14:11.392000+00:00",
+        "summary": "দুর্নীতির মামলায় আদালতে আনা হয়েছিল অধ্যাপক আবুল বারকাতকে। আদালত এ মামলায় অভিযোগপত্র গ্রহণ করে পলাতক আসামিদের বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি করেছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/406hya32/Professor-barakar.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/406hya32/Professor-barakar.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "গাজায় যুদ্ধবিরতি পরিকল্পনার দ্বিতীয় ধাপ শুরুর ঘোষণা যুক্তরাষ্ট্রের",
+        "url": "https://www.prothomalo.com/world/middle-east/hx070bmvm6",
+        "published_at": "2026-01-15T19:07:14.664000+00:00",
+        "summary": "২০২৫ সালের ১০ অক্টোবর শুরু হয়েছিল যুদ্ধবিরতির প্রথম ধাপ। যদিও এ ধাপের অনেক শর্ত পূরণ করেনি ইসরায়েল।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/6dqngb3r/gaza.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/6dqngb3r/gaza.JPG?auto=format,compress"
+      },
+      {
+        "headline": "দেশজুড়ে যৌথ বাহিনীর সপ্তাহব্যাপী অভিযানে ৩২৫ জন আটক",
+        "url": "https://www.prothomalo.com/bangladesh/czqo5ohavj",
+        "published_at": "2026-01-15T19:00:22.204000+00:00",
+        "summary": "সারা দেশে গত এক সপ্তাহে যৌথ বাহিনীর অভিযানে ৩২৫ জনকে আটক করা হয়েছে। এ সময় তাঁদের কাছ থেকে অবৈধ আগ্নেয়াস্ত্র ও মাদকদ্রব্য উদ্ধার করা হয়।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/y4dhx8j9/Army-Operation-1.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/y4dhx8j9/Army-Operation-1.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "১১-দলীয় ঐক্যে মুক্তিযোদ্ধা ও জুলাই যোদ্ধার সম্মিলন ঘটেছে: অলি আহমদ",
+        "url": "https://www.prothomalo.com/politics/wx45gjb52i",
+        "published_at": "2026-01-15T18:55:07.027000+00:00",
+        "summary": "অলি আহমদ বলেন, ‘আপনারা আওয়ামী লীগের শাসন দেখেছেন, বিএনপির শাসন দেখেছেন। এখন আপনাদের অনুরোধ করব ন্যায়ের শাসন, সুশাসন, চাঁদাবাজমুক্ত-দুর্নীতিমুক্ত একটা শাসন দেখার জন্য।’",
+        "image_s3_key": "prothomalo-bangla/2025-10-26/mw667l0n/LDP.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-26/mw667l0n/LDP.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "ভিন্নমত গ্রহণ করতে না পারা দেশের বড় সংকট",
+        "url": "https://www.prothomalo.com/bangladesh/01dcwreccw",
+        "published_at": "2026-01-15T18:49:41.443000+00:00",
+        "summary": "আলোচনায় এসেছে, নির্বাচনের পর ফলাফল মেনে নেওয়ার সংস্কৃতি দেশে দুর্বল। যারা পরাজিত হয়, তারা নির্বাচনকে প্রশ্নবিদ্ধ করার পথেই হাঁটে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/og4tcnps/Untitled-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/og4tcnps/Untitled-1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
+        "published_at": "2026-01-16T09:49:55+06:00",
+        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+      },
+      {
+        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
+        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
+        "published_at": "2026-01-16T09:41:33+06:00",
+        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+      },
+      {
+        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
+        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
+        "published_at": "2026-01-16T09:31:26+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
+      },
+      {
+        "headline": "শতাধিক কুকুর পেলো নতুন আশ্রয়",
+        "url": "https://www.ittefaq.com.bd/770524/%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%95%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%9F",
+        "published_at": null,
+        "summary": "হাড় কাঁপানো শীতে দুর্ভোগে পড়েছে দক্ষিনাঞ্চলের প্রাণীকূলসহ সাধারণ মানুষ। শীতকাল অনেক প্রাণীর জন্য সহজ সময়ে পড়ে না। এই শীত থেকে রাস্তাঘাটে ঘুরে বেড়ানো কুকুরদের সুরক্ষায় ব্যতিক্রমী উদ্যোগ নিয়েছেন ‘অ্যানিমেল লাভারস অফ পটুয়াখালী’ সংগঠনের সদস্যরা।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/e04c8c345d04ee8db12ca13d291f0363-6969b4c2db81e.jpg"
+      },
+      {
+        "headline": "রাজধানীতে আজ আকাশ পরিষ্কার ও শুষ্ক থাকবে",
+        "url": "https://www.ittefaq.com.bd/770523/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%93-%E0%A6%B6%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%95-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87",
+        "published_at": null,
+        "summary": "রাজধানী ঢাকায় আজ দুপুর পর্যন্ত প্রধানত শুষ্ক আবহাওয়া এবং পরিষ্কার আকাশ বিরাজ করার সম্ভাবনা রয়েছে। আবহাওয়া অধিদপ্তরের পূর্বাভাস অনুযায়ী, আজ দিনের তাপমাত্রা প্রায় অপরিবর্তিত থাকতে পারে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/14/c81dffcaa46098518afc1fa82c7990fa-69670bbf860de.jpg"
+      },
+      {
+        "headline": "পোস্টাল ব্যালটে ফেনীতে ভোট দেবেন ৪০ হাজারের বেশি ভোটার",
+        "url": "https://www.ittefaq.com.bd/770522/%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%9F%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87%E0%A6%A8-%E0%A7%AA%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে কেন্দ্র করে দেশের রাজনৈতিক অঙ্গনে বাড়ছে উত্তেজনা। সেই নির্বাচনী আমেজ এবার দেশের গণ্ডি পেরিয়ে প্রবাসেও ছড়িয়ে পড়েছে। দেশের ইতিহাসে এই প্রথমবারের মতো পোস্টাল ব্যালট ব্যবস্থায় ভোটাধিকার প্রয়োগের সুযোগ পাচ্ছেন বিদেশে বসবাসরত বাংলাদেশিরা।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2024/09/26/2c8e15205c4df693f27ec0a59b68b448-66f52fded73d7.jpg"
+      },
+      {
+        "headline": "অযত্ন-অবহেলায় ধ্বংসের পথে ২৬০ বছরের মঠবাড়ি মন্দির",
+        "url": "https://www.ittefaq.com.bd/770521/%E0%A6%85%E0%A6%AF%E0%A6%A4%E0%A7%8D%E0%A6%A8-%E0%A6%85%E0%A6%AC%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A7%A8%E0%A7%AC%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A0%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0",
+        "published_at": null,
+        "summary": "মঠবাড়ি মন্দির—মধ্যযুগীয় পুরাকীর্তির এক অনন্য নিদর্শন। সাতক্ষীরার কলারোয়া উপজেলার সোনাবাড়িয়া গ্রামে আজও স্বমহিমায় দাঁড়িয়ে আছে ঐতিহাসিক এই স্থাপনাটি। তবে অযত্ন, অবহেলা ও সঠিক রক্ষণাবেক্ষণের অভাবে বর্তমানে এটি ভগ্নদশায় পরিণত হয়েছে। তিনতলা বিশিষ্ট এই পুরাকীর্তিটি নবরত্ন মন্দির বা শ্যামসুন্দর মন্দির নামেও পরিচিত।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/55971bf5dfc992ebc983a623b010d38a-6969b26a90241.jpg"
+      },
+      {
+        "headline": "বাংলাদেশীদের সব ধরনের ভিসা স্থগিত করেনি যুক্তরাষ্ট্র : বাংলাফ্যাক্ট",
+        "url": "https://dailynayadiganta.com/bangladesh/diplomacy/CIEgz0vGUxpa/",
+        "published_at": null,
+        "summary": "যুক্তরাষ্ট্র মূলত বাংলাদেশসহ ৭৫টি দেশের নাগরিকদের জন্য অভিবাসী ভিসা (ইমিগ্র্যান্ট ভিসা) দেয়ার প্রক্রিয়া স্থগিত করার সিদ্ধান্ত নিয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/US-Visa_l8kvCyi.jpg"
       },
       {
         "headline": "শহীদ ওসমান হাদি হত্যা মামলায় সিআইডিকে অধিকতর তদন্তের নির্দেশ",
@@ -1369,126 +1480,33 @@
         "published_at": null,
         "summary": "বিএনপি চেয়ারপারসনের সাবেক উপদেষ্টা, সাবেক মেয়র ও সাবেক এমপি এবং আসন্ন নির্বাচনে রাজশাহী-২ (সদর) আসনের বিএনপি মনোনীত এমপি পদপ্রার্থী মিজানুর রহমান মিনু বলেছেন, সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়া ছিলেন এ দেশের একজন উজ্বল নত্র। আকাশে অনেক তারা জ্বলে এবং নিভে যায়; কিন্তু বেগম জিয়া সবার মধ্যে আজীবন উজ্জ্বল নত্র হয়েই থাকবেন। সাবেক প্রধানমন্ত্রী মরহুমা বেগম খালেদা জিয়ার রূহের মাগফিরাত কামনায় বুধবার দুপুরে রাজশাহী নগরীর একটি কমিউনিটি সেন্টারে জেলা বিএনপি আয়োজিত অনুষ্ঠানে প্রধান অতিথির বক্তব্যে তিনি এসব কথা বলেন।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "ইরানে মার্কিন হামলার আশঙ্কা!",
-        "url": "https://www.prothomalo.com/video/international/svq4zyohxy",
-        "published_at": "2026-01-15T15:44:25.302000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-15/9j63ey7b/THUMNAILWEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/9j63ey7b/THUMNAILWEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "চুয়াডাঙ্গায় অনৈতিক সম্পর্কের অভিযোগে গৃহবধূ ও যুবককে হেনস্তা",
-        "url": "https://www.prothomalo.com/bangladesh/district/mh3yw6ur3k",
-        "published_at": "2026-01-15T15:32:18.191000+00:00",
-        "summary": "চুয়াডাঙ্গায় অনৈতিক সম্পর্কের অভিযোগে এক গৃহবধূ ও এক যুবককে প্রকাশ্যে মাথার চুল কেটে ও জুতার মালা পরিয়ে হেনস্তা করার ঘটনা ঘটেছে।",
-        "image_s3_key": "prothomalo-bangla/2020-09/4cf9cf9e-2dbe-4fc1-9d50-92d80039149f/chuadanga.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-09/4cf9cf9e-2dbe-4fc1-9d50-92d80039149f/chuadanga.png?auto=format,compress"
-      },
-      {
-        "headline": "এক দিনে কোটি টাকার মাছ কেনাবেচা হয় যে মেলায়",
-        "url": "https://www.prothomalo.com/video/bangladesh/22kxttu1y6",
-        "published_at": "2026-01-15T15:30:17.636000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-15/axoxwq4k/THUMNAILWEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/axoxwq4k/THUMNAILWEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ছাত্রশিবির–সমর্থিত প্যানেলের ২৮ দফা ইশতেহার ঘোষণা",
-        "url": "https://www.prothomalo.com/bangladesh/district/ecast84c5w",
-        "published_at": "2026-01-15T15:29:27.963000+00:00",
-        "summary": "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের (শাবিপ্রবি) কেন্দ্রীয় ছাত্র সংসদ (শাকসু) নির্বাচনে ২৮ দফা ইশতেহার প্রকাশ করেছে ইসলামী ছাত্রশিবির–সমর্থিত ‘দুর্বার সাস্টিয়ান ঐক্য’ প্যানেলের প্রার্থীরা।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/frjk3r18/SUSTDH169220260115SUST-2-15-01-2025.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/frjk3r18/SUSTDH169220260115SUST-2-15-01-2025.jpg?auto=format,compress"
-      },
-      {
-        "headline": "দেশে আনুষ্ঠানিক কার্যক্রম শুরু করলো হোস্টিং ডটকম",
-        "url": "https://www.ittefaq.com.bd/770485/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%8B-%E0%A6%B9%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%82-%E0%A6%A1%E0%A6%9F%E0%A6%95%E0%A6%AE",
-        "published_at": null,
-        "summary": "বিশ্বখ্যাত হোস্টিং সেবাদাতা প্রতিষ্ঠান ‘হোস্টিং ডটকম’ (Hosting.com) বাংলাদেশে আনুষ্ঠানিকভাবে ব্যবসায়িক কার্যক্রম শুরু করেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/e84ac79afddeaa517fec5cc8a5f33515-6969083d74c51.jpeg"
-      },
-      {
-        "headline": "নির্বাচন ঘিরে সামাজিক যোগাযোগমাধ্যমে ব্যাপক অপপ্রচার চলছে: মাহ্‌দী আমিন",
-        "url": "https://www.prothomalo.com/politics/5wxwbut82u",
-        "published_at": "2026-01-15T15:26:36.802000+00:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন সামনে রেখে সামাজিক যোগাযোগমাধ্যমে ব্যাপক অপপ্রচার, বিভ্রান্তিকর তথ্য ও চরিত্রহনন চলছে বলে অভিযোগ করেছে বিএনপি।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/znrw9rpr/Mahdi-Amin.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/znrw9rpr/Mahdi-Amin.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "খলিল, তৈয়্যব ও আখতার বিমানের নতুন পরিচালক, হঠাৎ এই নিয়োগ নিয়ে প্রশ্ন",
-        "url": "https://www.prothomalo.com/bangladesh/f4tozge85t",
-        "published_at": "2026-01-15T15:23:10.305000+00:00",
-        "summary": "সরকারের একজন উপদেষ্টা, বিশেষ সহকারী ও নির্বাচন কমিশন সচিবকে হঠাৎ করে বিমান বাংলাদেশ এয়ারলাইনসের পরিচালনা পর্ষদে যুক্ত করা হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/rkwbfnf3/Untitled-1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/rkwbfnf3/Untitled-1.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ইরানে হামলার হুমকির মধ্যে মধ্যপ্রাচ্যে বিমানবাহী রণতরি পাঠাচ্ছে যুক্তরাষ্ট্র",
-        "url": "https://www.prothomalo.com/world/middle-east/7iuamougxx",
-        "published_at": "2026-01-15T15:16:16.267000+00:00",
-        "summary": "ওয়াল স্ট্রিট জার্নাল জানিয়েছে, বর্তমানে ক্যারিবীয় অঞ্চলে যুক্তরাষ্ট্রের ১২টি যুদ্ধজাহাজ মোতায়েন করা আছে। বর্তমানে মধ্যপ্রাচ্যে দেশটির যুদ্ধজাহাজ রয়েছে ছয়টি।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/t9op98jj/00-4.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/t9op98jj/00-4.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ভারতের ভিসা এখনো পাননি আদিল রশিদ ও রেহান আহমেদ, ইংল্যান্ডের পরিকল্পনায় ধাক্কা",
-        "url": "https://www.prothomalo.com/sports/cricket/u1m1mhr4yu",
-        "published_at": "2026-01-15T15:11:52.477000+00:00",
-        "summary": "পাকিস্তানি বংশোদ্ভূত এই দুই ক্রিকেটারের ভিসা পেতে দেরি হওয়ায় টি-টুয়েন্টি বিশ্বকাপ পরিকল্পনায় ভোগান্তি পোহাতে হচ্ছে ইংল্যান্ডকে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/0unwr6u6/395821.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/0unwr6u6/395821.webp?auto=format,compress"
-      },
-      {
-        "headline": "শর্ত দিয়ে এলপিজি ব্যবসা কঠিন করে ফেলা হয়েছে",
-        "url": "https://www.prothomalo.com/business/industry/hm5ldx6zdo",
-        "published_at": "2026-01-15T15:10:29.910000+00:00",
-        "summary": "এলপিজি ব্যবসায়ীরা সংকটের জন্য সরকারকে দায়ী করলেন। তাঁদের অভিযোগ, বেশি দাম নিচ্ছেন পরিবেশক ও খুচরা ব্যবসায়ীরা।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/xc0ur383/WhatsApp-Image-2026-01-15-at-9.09.54-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/xc0ur383/WhatsApp-Image-2026-01-15-at-9.09.54-PM.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "চট্টগ্রাম নগরীর যোগাযোগ ব্যবস্থাকে ঢেলে সাজানো হচ্ছে : চসিক মেয়র",
-        "url": "https://www.bd-pratidin.com/chittagong-pratidin/2026/01/15/1205119",
-        "published_at": "2026-01-15T21:24:56+06:00",
-        "summary": "চট্টগ্রাম সিটি কর্পোরেশনের মেয়র ডা. শাহাদাত হোসেন বলেছেন, মানসম্মত ও টেকসই রাস্তা নির্মাণে কোনো ধরনের অনিয়ম বা কারচুপি সহ্য করা হবে না। চসিকের সব প্রকৌশলী ও ঠিকাদারদের বলব, কাজের মান নিশ্চিত করা আপনাদের সবার নৈতিক দায়িত্ব। একই সঙ্গে এলাকাবাসী ও জনপ্রতিনিধিদেরও উন্নয়নকাজ তদারকিতে সক্রিয় ভূমিকা রাখা দরকার।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768490686-fd4c8e59b8a7add298869bd9fef2417c.JPG"
-      },
-      {
-        "headline": "১১ দলের আসন সমঝোতা: ১৭৯ আসনে জামায়াত, ৩০ আসনে এনসিপি",
-        "url": "https://www.ittefaq.com.bd/770484/%E0%A7%A7%E0%A7%A7-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A6%9D%E0%A7%8B%E0%A6%A4%E0%A6%BE-%E0%A7%A7%E0%A7%AD%E0%A7%AF-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A7%A9%E0%A7%A6-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87",
-        "published_at": null,
-        "summary": "নানা জল্পনা-কল্পনা শেষে ১১ দলীয় নির্বাচনী জোটের আসন ঘোষণা করলেও এখনও পর্যন্ত মীমাংসা হয়নি ইসলামী আন্দোলন বাংলাদেশের জোটে অংশগ্রহণ।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/5387df3119eea2667d8b93b8bac54c99-69690f1e88376.jpg"
-      },
-      {
-        "headline": "জুলাই গণ-অভ্যুত্থানকারীদের দায়মুক্তি দিতে অধ্যাদেশ অনুমোদন",
-        "url": "https://www.prothomalo.com/video/bangladesh/bsh9ke3l8y",
-        "published_at": "2026-01-15T15:09:19.492000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-15/ltjlz1gv/Asif-NazrulOrdinance.00031214.Still001.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/ltjlz1gv/Asif-NazrulOrdinance.00031214.Still001.jpg?auto=format,compress"
-      },
-      {
-        "headline": "শেখ মজিবুর ও হাসনাত কাইয়ুম প্রার্থিতা ফিরে পাওয়ায় কিশোরগঞ্জ-৫ আসনে উত্তাপ",
-        "url": "https://www.prothomalo.com/bangladesh/district/ky7j8m0wap",
-        "published_at": "2026-01-15T15:05:59.637000+00:00",
-        "summary": "২০১৫ সাল থেকে বাজিতপুর উপজেলা বিএনপির সভাপতি থাকা শেখ মজিবুর রহমান মনোনয়নবঞ্চিত হয়ে স্বতন্ত্র প্রার্থী হয়েছেন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/kaudcxnt/00-3.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/kaudcxnt/00-3.jpg?auto=format,compress"
-      },
-      {
-        "headline": "শীতের সকালে এই রকম ছবি দেখলে কেমন লাগে...",
-        "url": "https://www.prothomalo.com/entertainment/tv/w1189sq8x2",
-        "published_at": "2026-01-15T15:00:00+00:00",
-        "summary": " ফেসবুকে তারকারা বেশির ভাগ সময়ই সরব থাকেন। প্রকাশ করেন তাঁদের কাজের খবরসহ নানা ঘটনা। কখনো সেগুলোই বৈচিত্র্য হয়ে ধরা দেয় ভক্তদের কাছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/g80jz9hg/616443752_1473863320767092_8232251358196723568_n.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/g80jz9hg/616443752_1473863320767092_8232251358196723568_n.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "রাজধানীর উত্তরায় বাড়িতে আগুন, নিহত ৩",
+        "url": "https://www.prothomalo.com/bangladesh/capital/lii1mqdxtb",
+        "published_at": "2026-01-16T05:09:48.465000+00:00",
+        "summary": "দুর্ঘটনায় অন্তত ১৩ জন আহত হয়েছেন। তাঁদের হাসপাতালে পাঠানো হয়েছে বলে ফায়ার সার্ভিস ও সিভিল ডিফেন্স সূত্র জানিয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2025-11-27/uxzkarbs/১.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-27/uxzkarbs/১.avif?auto=format,compress"
+      },
+      {
+        "headline": "শৈত্যপ্রবাহ আজ ৩ জেলায়, ঢাকার তাপমাত্রা কমল",
+        "url": "https://www.prothomalo.com/bangladesh/environment/pwlvwe4d6h",
+        "published_at": "2026-01-16T05:03:56.034000+00:00",
+        "summary": "আবহাওয়াবিদ শাহানাজ সুলতানা আজ সকালে প্রথম আলোকে বলেন, আজ দেশের সার্বিক তাপমাত্রা সামান্য কমে গেছে। শৈত্যপ্রবাহ বয়ে যাওয়া জেলা তিনটি হলেও শীতের অনুভূতি বেড়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-16/3pts0o4e/RajshahiWinter-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/3pts0o4e/RajshahiWinter-1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "নবাবগঞ্জে পূর্বশত্রুতার জেরে হামলায় নিহত ১, এলাকায় উত্তেজনা",
+        "url": "https://www.prothomalo.com/bangladesh/district/a0uck715l0",
+        "published_at": "2026-01-16T05:01:13.908000+00:00",
+        "summary": "গতকাল বৃহস্পতিবার রাত আটটার দিকে ঢাকার নবাবগঞ্জ উপজেলার বান্দুরা ইউনিয়নের মহব্বতপুর গ্রামে এ হত্যাকাণ্ডের ঘটনা ঘটে।",
+        "image_s3_key": "prothomalo-bangla/2021-06/a026aab3-fce0-42aa-99fd-b1a1c88f21bd/murder.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-06/a026aab3-fce0-42aa-99fd-b1a1c88f21bd/murder.png?auto=format,compress"
+      },
       {
         "headline": "খালেদা জিয়া স্মরণে নাগরিক সমাজের শোকসভা আজ",
         "url": "https://www.prothomalo.com/bangladesh/ytpzucuhoh",
@@ -1786,28 +1804,25 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/g16d6vls/00-1.jpg?auto=format,compress"
       },
       {
-        "headline": "রাষ্ট্রপতির হাতে কিছু ক্ষমতা দেওয়া দরকার: আলী রীয়াজ",
-        "url": "https://www.prothomalo.com/bangladesh/district/q1qopl72xm",
-        "published_at": "2026-01-15T14:09:11.844000+00:00",
-        "summary": "চট্টগ্রামে প্রধান উপদেষ্টার বিশেষ সহকারী অধ্যাপক আলী রীয়াজ, গণভোটের প্রচারণায় আইনগত বাধা নেই।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/j3s11me6/WhatsApp-Image-2026-01-15-at-7.40.48-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/j3s11me6/WhatsApp-Image-2026-01-15-at-7.40.48-PM.jpeg?auto=format,compress"
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
       },
       {
-        "headline": "সংহতি জানাতে প্রথম আলো কার্যালয় পরিদর্শন",
-        "url": "https://www.prothomalo.com/bangladesh/d0qu1emp9m",
-        "published_at": "2026-01-15T14:01:00.560000+00:00",
-        "summary": "বাংলাদেশে সিঙ্গাপুরের চার্জ দ্য অ্যাফেয়ার্স (সিডিএ) মিচেল লি প্রথম আলো কার্যালয়ে এসে গণমাধ্যমের ওপর আক্রমণে উদ্বেগ জানিয়েছেন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/r1hx6jiz/Mitchel-Lee-01.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/r1hx6jiz/Mitchel-Lee-01.JPG?auto=format,compress"
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
       },
       {
-        "headline": "দুই ‘বিদ্রোহী’ প্রার্থীর বিরুদ্ধে দলীয় ব্যবস্থা চান বিএনপির প্রার্থী নাদিরা",
-        "url": "https://www.prothomalo.com/bangladesh/district/40vj4dil76",
-        "published_at": "2026-01-15T13:53:30.806000+00:00",
-        "summary": "মাদারীপুর-১ আসনে বিএনপির দুই বিদ্রোহী প্রার্থীর বিরুদ্ধে দলীয় শৃঙ্খলাভঙ্গের অভিযোগে ব্যবস্থা নিতে দলের কেন্দ্রীয় কমিটিতে চিঠি দিয়েছেন ওই আসনে বিএনপির প্রার্থী নাদিরা আক্তার।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/ibkody7a/WhatsApp-Image-2026-01-15-at-7.35.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/ibkody7a/WhatsApp-Image-2026-01-15-at-7.35.jpg?auto=format,compress"
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
       },
       {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
@@ -1857,27 +1872,6 @@
         "published_at": "2026-01-16T09:56:38+06:00",
         "summary": "বরিশাল সরকারি বিএম কলেজের সাবেক ভিপি ও নিষিদ্ধ ঘোষিত সংগঠন ছাত্রলীগের নেতা মইন তুষারকে আটক করেছে পুলিশ।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535791-b27181d12ab9dab0cb44d1f6fa8b829a.jpg"
-      },
-      {
-        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
-        "published_at": "2026-01-16T09:49:55+06:00",
-        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
-      },
-      {
-        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
-        "published_at": "2026-01-16T09:41:33+06:00",
-        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
-      },
-      {
-        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
-        "published_at": "2026-01-16T09:31:26+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
       },
       {
         "headline": "রাজধানীতে আজ আকাশ পরিষ্কার ও শুষ্ক থাকবে",
@@ -1950,6 +1944,13 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/c9697edc5521ab26ffe6b2de93917dcf-6968e8be7bedc.jpg"
       },
       {
+        "headline": "নোয়াখালীতে পিকআপের ধাক্কায় দুই মোটরসাইকেল আরোহী নিহত",
+        "url": "https://www.ittefaq.com.bd/770532/%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%95%E0%A6%86%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%86%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A7%80",
+        "published_at": null,
+        "summary": "নোয়াখালী জেলার মাইজদী এলাকায় পিকআপ ভ্যানের সঙ্গে মোটরসাইকেলের সংঘর্ষে দুই যুবক প্রাণ হারিয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/01/23/ccc20473ee3e17b7590efac1c5193715-6791b2f4be466.jpg"
+      },
+      {
         "headline": "শতাধিক কুকুর পেলো নতুন আশ্রয়",
         "url": "https://www.ittefaq.com.bd/770524/%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%81%E0%A6%95%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%9F",
         "published_at": null,
@@ -2013,13 +2014,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/a5140678a070454eafa0594fdee57929-6968d6a682efe.jpg"
       },
       {
-        "headline": "মেয়েকে নিয়ে ইছামতী খালে ঝাঁপ, মা বেচে গেলেও মারা গেছে মেয়ে",
-        "url": "https://www.ittefaq.com.bd/770452/%E0%A6%86%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%9D%E0%A6%BE%E0%A6%81%E0%A6%AA-%E0%A6%AE%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%B0",
-        "published_at": null,
-        "summary": "চট্টগ্রামের আনোয়ারা উপজেলায় নিজের মেয়েকে নিয়ে খালে ঝাপ দিয়ে আত্মহত্যার চেষ্টাকালে ৮ বছর বয়সী মেয়ে রাইছার মৃত্যু হয়েছে। মা জান্নাতুল ফেরদৌস (৩২) চিকিৎসাধীন অবস্থায় রয়েছে। বৃহস্পতিবার (১৫ জানুয়ারি) বেলা সাড়ে ১২টার দিকে উপজেলার খাদ্য গুদামের পাশে ইছামতী খালে এই ঘটনা ঘটে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/dcab9a7c74877dbcf0b8cca2b8ddf001-6968c8bf52607.jpg"
-      },
-      {
         "headline": "দায়িত্ব ছাড়ার পর যে ৩ কাজ করবেন ড. মুহাম্মদ ইউনূস",
         "url": "https://www.amarsangbad.com/bangladesh/news/334567",
         "published_at": "1768153066",
@@ -2076,18 +2070,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-3-20260109053557.jpg"
       },
       {
+        "headline": "উত্তরার আবাসিক ভবনে ভয়াবহ আগুন, নিহত ৩",
+        "url": "https://www.amarsangbad.com/bangladesh/news/335016",
+        "published_at": "1768539453",
+        "summary": "রাজধানীর উত্তরায় একটি ৭ তলা আবাসিক ভবনে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে। এতে অন্তত ৩ জন নিহত হয়েছেন এবং দগ্ধসহ আরও ১৩ জনকে উদ্ধার করে হাসপাতালে ভর্তি করা হয়েছে। শুক্রবার সকালে উত্তরার ১১ নম্বর সেক্টরে এই দুর্ঘটনা ঘটে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-4-20260116045733.jpg"
+      },
+      {
         "headline": "নিখোঁজের ২১ দিন পর গৃহশিক্ষিকার বাসা থেকে মা-মেয়ের মরদেহ উদ্ধার",
         "url": "https://www.amarsangbad.com/bangladesh/news/335014",
         "published_at": "1768538733",
         "summary": "রাজধানীর কেরানীগঞ্জে নিখোঁজ হওয়ার দীর্ঘ ২১ দিন পর এক স্কুলছাত্রী ও তার মায়ের অর্ধগলিত মরদেহ উদ্ধার করেছে পুলিশ।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-2-20260116044533.jpg"
-      },
-      {
-        "headline": "রমজানের আগে এলপিজি সংকটের সমাধান হবে",
-        "url": "https://www.amarsangbad.com/bangladesh/news/335010",
-        "published_at": "1768499503",
-        "summary": "আসন্ন রমজানের আগে তরলীকৃত পেট্রোলিয়াম গ্যাসের (এলপিজি) সংকট কেটে যাবে বলে আশ্বাস দিয়েছেন বাংলাদেশ এনার্জি রেগুলেটরি কমিশনের (বিইআরসি) চেয়ারম্যান জালাল আহমেদ।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/lkfhf-20260115175143.jpg"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-2-20260116044533.jpg"
       },
       {
         "headline": "ওয়াশিংটনে বাংলাদেশের বড় কূটনৈতিক জয়, মার্কিন বাজারে শুল্কমুক্ত পোশাক রপ্তানির নতুন দিগন্ত",
@@ -2228,6 +2222,65 @@
         "published_at": "1768490932",
         "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ফরিদপুর-১ (আলফাডাঙ্গা-বোয়ালমারী-মধুপুর) আসনে প্রার্থিতা ফিরে পেয়েছেন স্বতন্ত্র প্রার্থী মোহাম্মদ আরিফুর রহমান (দোলন)।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-31-20260115152852.jpg"
+      },
+      {
+        "headline": "রাষ্ট্রপতির হাতে কিছু ক্ষমতা দেওয়া দরকার: আলী রীয়াজ",
+        "url": "https://www.prothomalo.com/bangladesh/district/q1qopl72xm",
+        "published_at": "2026-01-15T14:09:11.844000+00:00",
+        "summary": "চট্টগ্রামে প্রধান উপদেষ্টার বিশেষ সহকারী অধ্যাপক আলী রীয়াজ, গণভোটের প্রচারণায় আইনগত বাধা নেই।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/j3s11me6/WhatsApp-Image-2026-01-15-at-7.40.48-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/j3s11me6/WhatsApp-Image-2026-01-15-at-7.40.48-PM.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "সংহতি জানাতে প্রথম আলো কার্যালয় পরিদর্শন",
+        "url": "https://www.prothomalo.com/bangladesh/d0qu1emp9m",
+        "published_at": "2026-01-15T14:01:00.560000+00:00",
+        "summary": "বাংলাদেশে সিঙ্গাপুরের চার্জ দ্য অ্যাফেয়ার্স (সিডিএ) মিচেল লি প্রথম আলো কার্যালয়ে এসে গণমাধ্যমের ওপর আক্রমণে উদ্বেগ জানিয়েছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/r1hx6jiz/Mitchel-Lee-01.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/r1hx6jiz/Mitchel-Lee-01.JPG?auto=format,compress"
+      },
+      {
+        "headline": "দুই ‘বিদ্রোহী’ প্রার্থীর বিরুদ্ধে দলীয় ব্যবস্থা চান বিএনপির প্রার্থী নাদিরা",
+        "url": "https://www.prothomalo.com/bangladesh/district/40vj4dil76",
+        "published_at": "2026-01-15T13:53:30.806000+00:00",
+        "summary": "মাদারীপুর-১ আসনে বিএনপির দুই বিদ্রোহী প্রার্থীর বিরুদ্ধে দলীয় শৃঙ্খলাভঙ্গের অভিযোগে ব্যবস্থা নিতে দলের কেন্দ্রীয় কমিটিতে চিঠি দিয়েছেন ওই আসনে বিএনপির প্রার্থী নাদিরা আক্তার।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/ibkody7a/WhatsApp-Image-2026-01-15-at-7.35.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/ibkody7a/WhatsApp-Image-2026-01-15-at-7.35.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
+        "published_at": "2026-01-16T09:49:55+06:00",
+        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+      },
+      {
+        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
+        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
+        "published_at": "2026-01-16T09:41:33+06:00",
+        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+      },
+      {
+        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
+        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
+        "published_at": "2026-01-16T09:31:26+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
+      },
+      {
+        "headline": "মেয়েকে নিয়ে ইছামতী খালে ঝাঁপ, মা বেচে গেলেও মারা গেছে মেয়ে",
+        "url": "https://www.ittefaq.com.bd/770452/%E0%A6%86%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%9D%E0%A6%BE%E0%A6%81%E0%A6%AA-%E0%A6%AE%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "চট্টগ্রামের আনোয়ারা উপজেলায় নিজের মেয়েকে নিয়ে খালে ঝাপ দিয়ে আত্মহত্যার চেষ্টাকালে ৮ বছর বয়সী মেয়ে রাইছার মৃত্যু হয়েছে। মা জান্নাতুল ফেরদৌস (৩২) চিকিৎসাধীন অবস্থায় রয়েছে। বৃহস্পতিবার (১৫ জানুয়ারি) বেলা সাড়ে ১২টার দিকে উপজেলার খাদ্য গুদামের পাশে ইছামতী খালে এই ঘটনা ঘটে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/dcab9a7c74877dbcf0b8cca2b8ddf001-6968c8bf52607.jpg"
+      },
+      {
+        "headline": "রমজানের আগে এলপিজি সংকটের সমাধান হবে",
+        "url": "https://www.amarsangbad.com/bangladesh/news/335010",
+        "published_at": "1768499503",
+        "summary": "আসন্ন রমজানের আগে তরলীকৃত পেট্রোলিয়াম গ্যাসের (এলপিজি) সংকট কেটে যাবে বলে আশ্বাস দিয়েছেন বাংলাদেশ এনার্জি রেগুলেটরি কমিশনের (বিইআরসি) চেয়ারম্যান জালাল আহমেদ।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/lkfhf-20260115175143.jpg"
       },
       {
         "headline": "আগামীকাল দেশব্যাপী বিক্ষোভের ডাক ইনকিলাব মঞ্চের",
@@ -2910,66 +2963,30 @@
         "summary": "কমিশনের প্রতিবেদনে ২০১৪, ২০১৮ ও ২০২৪ সালের সংসদ নির্বাচনে প্রশাসন, পুলিশ ও গোয়েন্দা সংস্থার ভূমিকা তুলে ধরা হয়েছে।",
         "image_s3_key": "prothomalo-bangla/2026-01-15/evqaqq7y/PA.png",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/evqaqq7y/PA.png?auto=format,compress"
-      },
-      {
-        "headline": "আশুগঞ্জে ট্রাকের সঙ্গে সংঘর্ষে মোটরসাইকেল আরোহী দুই বন্ধু নিহত",
-        "url": "https://www.prothomalo.com/bangladesh/district/zwiypjjios",
-        "published_at": "2026-01-15T05:15:00+00:00",
-        "summary": "ঢাকা-সিলেট মহাসড়কের ব্রাহ্মণবাড়িয়ার আশুগঞ্জ উপজেলায় একটি ট্রাক ও একটি মোটরসাইকেলের মুখোমুখি সংঘর্ষে মোটরসাইকেলের দুই আরোহী নিহত হয়েছেন।",
-        "image_s3_key": "prothomalo-bangla/2025-12-12/hejp5ud1/road_accident_02.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-12/hejp5ud1/road_accident_02.png?auto=format,compress"
-      },
-      {
-        "headline": "ইউক্রেনের দুই লাখ সেনা নিরুদ্দেশ",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/15/1205062",
-        "published_at": "2026-01-15T19:35:38+06:00",
-        "summary": "ইউক্রেনে হদিস মিলছে না দুই লাখ সেনার। তারা নিরুদ্দেশ হয়ে গেছেন। সংবাদমাধ্যমের প্রতিবেদন অনুযায়ী, অনুমতি ছাড়াই কাউকে কিছু না জানিয়ে এসব সেনা কর্মস্থল ছেড়ে পালিয়েছে। এতে রাশিয়ার সঙ্গে চলমান যুদ্ধে ভীষণ চাপের মুখে পড়েছে ইউক্রেনীয় সেনাবাহিনী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768484128-e3caf1eb61026ec625321bf6df75da84.jpg"
-      },
-      {
-        "headline": "বাংলাদেশে আসছে আইসিসির প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/15/1205061",
-        "published_at": "2026-01-15T19:29:49+06:00",
-        "summary": "আসন্ন টি-টোয়েন্টি বিশ্বকাপ নিয়ে বাংলাদেশ ও আইসিসির মধ্যে চলমান অচলাবস্থার প্রেক্ষাপটে এবার বাংলাদেশে প্রতিনিধি দল পাঠাচ্ছে আইসিসি। ভারতের মাটিতে বিশ্বকাপ খেলতে অনিচ্ছুক বাংলাদেশের অবস্থান পরিবর্তনে সরাসরি আলোচনার লক্ষ্যেই এই উদ্যোগ নেওয়া হচ্ছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768483782-f58ae6f5394f4f43ba55420e6ca01a2e.jpg"
-      },
-      {
-        "headline": "চাঁদপুরে খাল থেকে বৃদ্ধার মরদেহ উদ্ধার",
-        "url": "https://www.bd-pratidin.com/country/2026/01/15/1205059",
-        "published_at": "2026-01-15T19:26:03+06:00",
-        "summary": "চাঁদপুরের শাহরাস্তি উপজেলার সূচিপাড়া থেকে খুরশীদা বেগম (৭০) নামে বৃদ্ধার মরদেহ উদ্ধার করা হয়েছে। বৃহস্পতিবার (১৫ জানুয়ারি) দুপুরে সূচিপাড়া ইউনিয়নের ফেরুয়া গ্রামের হাজী বাড়ি সংলগ্ন খালের পানিতে মরদেহ ভাসতে দেখে স্থানীয়রা জরুরি সেবা ৯৯৯-এ খবর দেন। পরে শাহরাস্তি থানা পুলিশ ঘটনাস্থলে গিয়ে মরদেহ উদ্ধার করে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768483556-9b57b18098747e04ca7939afbd83c6c6.jpg"
-      },
-      {
-        "headline": "ধানের শীষের বিপক্ষে অবস্থান নেয়া দলের সঙ্গে বিশ্বাসঘাতকতা : প্রিন্স",
-        "url": "https://www.bd-pratidin.com/election/2026/01/15/1205058",
-        "published_at": "2026-01-15T19:22:19+06:00",
-        "summary": "বিএনপির যুগ্ম মহাসচিব ও ময়মনসিংহ-১ (হালুয়াঘাট-ধোবাউড়া) আসনে বিএনপির প্রার্থী সৈয়দ এমরান সালেহ প্রিন্স বলেছেন, দেশনেত্রী বেগম খালেদা জিয়ার আকস্মিক মৃত্যু এবং ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানের স্বদেশ প্রত্যাবর্তনের এই গুরুত্বপূর্ণ সময়ে নির্বাচনে সহযোগিতা না করে যারা ধানের শীষের বিপক্ষে অবস্থান নিচ্ছেন, তারা দল ও আদর্শের সঙ্গে বিশ্বাসঘাতকতা করছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768483330-f19d3395548fd8c9bbf3f95f5d81b8f8.jpg"
-      },
-      {
-        "headline": "বেগম খালেদা জিয়ার মাগফিরাত কামনায় মুন্সীগঞ্জে দোয়া মাহফিল",
-        "url": "https://www.bd-pratidin.com/country/2026/01/15/1205056",
-        "published_at": "2026-01-15T19:16:37+06:00",
-        "summary": "বিএনপি চেয়ারপার্সন ও সাবেক প্রধানমন্ত্রী প্রয়াত বেগম খালেদা জিয়ার রুহের মাগফেরাত কামনায় মুন্সীগঞ্জে দোয়া মাহফিল অনুষ্ঠিত হয়েছে। বৃহস্পতিবার (১৫ জানুয়ারি) দুপুরে জেলা প্রেসক্লাবের উদ্যোগে এ দোয়া মাহফিল অনুষ্ঠিত হয়। এ সময় বেগম খালেদা জিয়াসহ দেশবাসীর জন্য দোয়া কামনা করা হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768482989-a970b24ae23afdb239329161747c4482.jpg"
-      },
-      {
-        "headline": "অনির্দিষ্টকালের জন্য স্থগিত হচ্ছে বিপিএল",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/15/1205053",
-        "published_at": "2026-01-15T18:55:09+06:00",
-        "summary": "বাংলাদেশ ক্রিকেট বোর্ডের (বিসিবি) পরিচালক নাজমুল ইসলামের বিতর্কিত মন্তব্য এবং ক্রিকেটারদের অনড় অবস্থানের কারণে এক কঠিন সংকটে পড়েছে দেশের ক্রিকেট। দীর্ঘ টানাপোড়েন আর মাঠের লড়াই বর্জনের পর অবশেষে বাংলাদেশ প্রিমিয়ার লিগ (বিপিএল)-এর চলমান আসর অনির্দিষ্টকালের জন্য স্থগিত করার সিদ্ধান্ত নিয়েছে বিসিবি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768481702-3710cdcb8ba8da0ae920343ed25a0128.jpg"
-      },
-      {
-        "headline": "ট্রাম্পকে হত্যার হুমকি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/15/1205052",
-        "published_at": "2026-01-15T18:48:56+06:00",
-        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে লক্ষ্য করে কড়া ভাষায় একটি হত্যার হুমকি দেওয়া হয়েছে। ইরানের রাষ্ট্রীয় টেলিভিশনে ট্রাম্পের একটি রক্তাক্ত ছবির সঙ্গে কড়া হুমকি দেওয়া হয়। এতে লেখা হয়, এবার লক্ষ্যভ্রষ্ট হবে না।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768481328-44ad0b1e07719182dadc4426a6af300a.jpg"
       }
     ],
     "politics": [
+      {
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
+      },
+      {
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
+      },
+      {
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
+      },
       {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205323",
@@ -3018,27 +3035,6 @@
         "published_at": "2026-01-16T09:56:38+06:00",
         "summary": "বরিশাল সরকারি বিএম কলেজের সাবেক ভিপি ও নিষিদ্ধ ঘোষিত সংগঠন ছাত্রলীগের নেতা মইন তুষারকে আটক করেছে পুলিশ।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535791-b27181d12ab9dab0cb44d1f6fa8b829a.jpg"
-      },
-      {
-        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
-        "published_at": "2026-01-16T09:49:55+06:00",
-        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
-      },
-      {
-        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
-        "published_at": "2026-01-16T09:41:33+06:00",
-        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
-      },
-      {
-        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
-        "published_at": "2026-01-16T09:31:26+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
       },
       {
         "headline": "সংবাদ সম্মেলন ডেকেছে ইসলামী আন্দোলন বাংলাদেশ",
@@ -3191,8 +3187,29 @@
         "headline": "বাংলাদেশ জামায়াতে ইসলামী",
         "url": "https://www.jugantor.com/jamaat",
         "published_at": null,
-        "summary": "বাংলাদেশ জামায়াতে ইসলামীর নেতৃত্বে ১০টি দল নির্বাচনী সমঝোতায় পৌঁছেছে। যদিও এর নাম দেওয়া হয়েছে ‘১১–দলীয় নির্বাচনী ঐক‍্য’। ...",
+        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন উপলক্ষে ১১ দলীয় জোটের আসন সমঝোতা ঘোষণা করা হয়েছে। এতে ৩০০ আসনের মধ্যে ২৫৩টি আসনে ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
+        "published_at": "2026-01-16T09:49:55+06:00",
+        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+      },
+      {
+        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
+        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
+        "published_at": "2026-01-16T09:41:33+06:00",
+        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+      },
+      {
+        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
+        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
+        "published_at": "2026-01-16T09:31:26+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
       },
       {
         "headline": "কোপা দেল রে : তরেস-ইয়ামালের গোলে শেষ আটে বার্সা",
@@ -4348,27 +4365,6 @@
         "published_at": "2026-01-14T20:36:27+06:00",
         "summary": "বিপিএলে রাজশাহীর হয়ে দুর্দান্ত বোলিং করছেন মোহাম্মদ রিপন মন্ডল। তরুণ এই পেসারকে প্রশংসায় ভাসালেন সতীর্থ তানজিদ হাসান তামিম। তাকে বাংলাদেশের জন্য সম্ভাবনাময় খেলোয়াড় হিসেবে দেখছেন তিনি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768401381-c997de352cfe931fc2b94489a3ff54a6.jpg"
-      },
-      {
-        "headline": "খাগড়াছড়িতে নির্বাচনকালীন সাংবাদিকতা বিষয়ক প্রশিক্ষণ কর্মশালা",
-        "url": "https://www.bd-pratidin.com/country/2026/01/14/1204673",
-        "published_at": "2026-01-14T20:26:50+06:00",
-        "summary": "খাগড়াছড়ি জেলার গণমাধ্যমকর্মীদের জন্য নির্বাচনকালীন সাংবাদিকতা বিষয়ক দুই দিনব্যাপী প্রশিক্ষণ কর্মশালা অনুষ্ঠিত হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768400800-c11c60e021e918a1b079157f7f79dcd6.PNG"
-      },
-      {
-        "headline": "পোস্টাল ব্যালটের ভাঁজে ‘ধানের শীষ’, যা বলল ইসি",
-        "url": "https://www.bd-pratidin.com/election/2026/01/14/1204672",
-        "published_at": "2026-01-14T20:26:47+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পোস্টাল ব্যালটে বিএনপির নির্বাচনী প্রতীক ‘ধানের শীষ’ ভাঁজের মধ্যে পড়ে যাওয়া নিয়ে ইসির সিনিয়র সচিব আখতার আহমেদ জানিয়েছেন, ব্যালট পেপার ছাপানোর ক্ষেত্রে সরকারি গেজেটের ক্রমধারা বা ধারাবাহিকতা অনুসরণ করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768400801-67f33e389bcaa96596f89cbffc8d2ae0.jpg"
-      },
-      {
-        "headline": "দারুস-সালাম থানা বিএনপির আহ্বায়ক বহিষ্কার",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/01/14/1204671",
-        "published_at": "2026-01-14T20:26:38+06:00",
-        "summary": "রাজধানীর দারুস-সালাম থানা বিএনপির আহ্বায়ক এস এ সিদ্দিক সাজুকে দল থেকে বহিষ্কার করা হয়েছে। দলীয় সিদ্ধান্ত অমান্য করে সংগঠনবিরোধী কর্মকাণ্ডে জড়িত থাকার অভিযোগে তাকে বহিষ্কার করা হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768400792-e6a6213144a4e032e99e1f4a620c04b2.jpg"
       }
     ],
     "world": [
@@ -4693,6 +4689,27 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-14/phinid0x/Irani-in-London.jpg?auto=format,compress"
       },
       {
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
+      },
+      {
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
+      },
+      {
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
+      },
+      {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205323",
         "published_at": "2026-01-16T10:48:05+06:00",
@@ -4742,25 +4759,18 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535791-b27181d12ab9dab0cb44d1f6fa8b829a.jpg"
       },
       {
-        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
-        "published_at": "2026-01-16T09:49:55+06:00",
-        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+        "headline": "যুক্তরাষ্ট্রের সব বিকল্প খোলা, পাল্টা ব্যবস্থার হুঁশিয়ারি ইরানের",
+        "url": "https://www.ittefaq.com.bd/770535/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%96%E0%A7%8B%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "ইরানে চলমান নজিরবিহীন গণবিক্ষোভ ও রক্তক্ষয়ী সংঘর্ষের প্রেক্ষাপটে জাতিসংঘ নিরাপত্তা পরিষদের এক জরুরি বৈঠকে যুক্তরাষ্ট্র ও ইরান পাল্টাপাল্টি হুঁশিয়ারি বিনিময় করেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/9efe7a03592cd308e87220b3275eac23-6969caa20a140.jpg"
       },
       {
-        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
-        "published_at": "2026-01-16T09:41:33+06:00",
-        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
-      },
-      {
-        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
-        "published_at": "2026-01-16T09:31:26+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
+        "headline": "ইরানের বিক্ষোভে কানাডার নাগরিকের প্রাণহানি, অটোয়ার তীব্র নিন্দা",
+        "url": "https://www.ittefaq.com.bd/770534/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%85%E0%A6%9F%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "ইরানজুড়ে চলমান সরকারবিরোধী আন্দোলনের ভয়াবহ সহিংসতায় এক কানাডীয় নাগরিকের মৃত্যু হয়েছে। স্থানীয় সময় বৃহস্পতিবার (১৫ জানুয়ারি) কানাডা সরকার এই তথ্য নিশ্চিত করার পর ইরানের শাসকগোষ্ঠীর কঠোর সমালোচনা করেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/09/f169f879f72c64c846d04b48b709dde9-696076287ca45.jpg"
       },
       {
         "headline": "মাচাদোকে ‘অসাধারণ নারী’ বলে ভূয়সী প্রশংসা করলেন ট্রাম্প",
@@ -4817,20 +4827,6 @@
         "published_at": null,
         "summary": "ওয়াশিংটন ও তেহরানের মধ্যে চলমান উত্তেজনার মধ্যে ভ্রমণ নিয়ে নিজ নিজ দেশের নাগরিকদের সতর্কতা জারি করেছে যুক্তরাষ্ট্র ও যুক্তরাজ্য।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2024/03/18/3ee4bb33a7d9123a39c4946da23e3f82-65f7cff534d50.jpg"
-      },
-      {
-        "headline": "৪.২ মাত্রার ভূমিকম্পে কেঁপে উঠলো ইসরায়েল",
-        "url": "https://www.ittefaq.com.bd/770456/%E0%A7%AA.%E0%A7%A8-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A6%B2%E0%A7%8B-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2",
-        "published_at": null,
-        "summary": "ইসরায়েলে ৪ দশমিক ২ মাত্রার একটি ভূমিকম্প অনুভূত হয়েছে। দেশটির দক্ষিণাঞ্চলে এই কম্পন অনুভূত হওয়ায় স্থানীয়দের মধ্যে আতঙ্ক ছড়িয়ে পড়ে। বৃহস্পতিবার (১৫ জানুয়ারি) দ্য টাইমস অব ইসরায়েলের এক প্রতিবেদনে এ তথ্য জানানো হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/a3461f33c07d9e79d80201cd59acee9b-6968cfbe06e87.jpg"
-      },
-      {
-        "headline": "দক্ষিণ চীন সাগর থেকে মধ্যপ্রাচ্যের পথে যুক্তরাষ্ট্রের বিমানবাহী যুদ্ধজাহাজ ‘ইউএসএস আব্রাহাম লিংকন’",
-        "url": "https://www.ittefaq.com.bd/770454/%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%9A%E0%A7%80%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87",
-        "published_at": null,
-        "summary": "ইরানজুড়ে চলমান বিক্ষোভকে কেন্দ্র করে যুক্তরাষ্ট্র ও তেহরানের মধ্যে উত্তেজনা ক্রমেই বাড়ছে। এমন পরিস্থিতিতে দক্ষিণ চীন সাগর থেকে যুক্তরাষ্ট্রের বিমানবাহী যুদ্ধজাহাজ ইউএসএস আব্রাহাম লিংকন মধ্যপ্রাচ্যের দিকে সরিয়ে নেওয়া হচ্ছে বলে দাবি করেছে মার্কিন সংবাদমাধ্যম নিউজ নেশন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/566f250ddaff8504c551cde2ea9ac388-6968cc5876e2b.jpg"
       },
       {
         "headline": "ট্রাম্পের কর্মকাণ্ড মরণ কামড়",
@@ -4971,6 +4967,41 @@
         "published_at": "1768474939",
         "summary": "মধ্য ইসরায়েলে ভূমিকম্প অনুভূত হয়েছে তবে কোনো আহত বা ক্ষয়ক্ষতির খবর পাওয়া যায়নি। এছাড়া মৃত সাগর অঞ্চলে ভূমিকম্পের সতর্কতা জারি করা হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260115110219.jpg"
+      },
+      {
+        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
+        "published_at": "2026-01-16T09:49:55+06:00",
+        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+      },
+      {
+        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
+        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
+        "published_at": "2026-01-16T09:41:33+06:00",
+        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+      },
+      {
+        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
+        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
+        "published_at": "2026-01-16T09:31:26+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
+      },
+      {
+        "headline": "৪.২ মাত্রার ভূমিকম্পে কেঁপে উঠলো ইসরায়েল",
+        "url": "https://www.ittefaq.com.bd/770456/%E0%A7%AA.%E0%A7%A8-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A6%B2%E0%A7%8B-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2",
+        "published_at": null,
+        "summary": "ইসরায়েলে ৪ দশমিক ২ মাত্রার একটি ভূমিকম্প অনুভূত হয়েছে। দেশটির দক্ষিণাঞ্চলে এই কম্পন অনুভূত হওয়ায় স্থানীয়দের মধ্যে আতঙ্ক ছড়িয়ে পড়ে। বৃহস্পতিবার (১৫ জানুয়ারি) দ্য টাইমস অব ইসরায়েলের এক প্রতিবেদনে এ তথ্য জানানো হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/a3461f33c07d9e79d80201cd59acee9b-6968cfbe06e87.jpg"
+      },
+      {
+        "headline": "দক্ষিণ চীন সাগর থেকে মধ্যপ্রাচ্যের পথে যুক্তরাষ্ট্রের বিমানবাহী যুদ্ধজাহাজ ‘ইউএসএস আব্রাহাম লিংকন’",
+        "url": "https://www.ittefaq.com.bd/770454/%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%9A%E0%A7%80%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87",
+        "published_at": null,
+        "summary": "ইরানজুড়ে চলমান বিক্ষোভকে কেন্দ্র করে যুক্তরাষ্ট্র ও তেহরানের মধ্যে উত্তেজনা ক্রমেই বাড়ছে। এমন পরিস্থিতিতে দক্ষিণ চীন সাগর থেকে যুক্তরাষ্ট্রের বিমানবাহী যুদ্ধজাহাজ ইউএসএস আব্রাহাম লিংকন মধ্যপ্রাচ্যের দিকে সরিয়ে নেওয়া হচ্ছে বলে দাবি করেছে মার্কিন সংবাদমাধ্যম নিউজ নেশন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/566f250ddaff8504c551cde2ea9ac388-6968cc5876e2b.jpg"
       },
       {
         "headline": "বিক্ষোভকারীদের ফাঁসি দেওয়া শুরু হলে ‘অত্যন্ত কঠোর ব্যবস্থা’ নেওয়া হবে",
@@ -5788,42 +5819,6 @@
         "published_at": null,
         "summary": "ভারতের পররাষ্ট্র মন্ত্রণালয় ইরানে চলমান বিক্ষোভ দমন ও নিরাপত্তা ঝুঁকির কারণে দেশটিতে অবস্থানরত ভারতীয় নাগরিকদের দ্রুত ইরান ত্যাগের নির্দেশ দিয়েছে। তেহরানে ভারতীয় দূতাবাস শিক্ষার্থী, তীর্থযাত্রী, ব্যবসায়ী ও পর্যটকদের নিরাপদ যাতায়াতের পরামর্শ দিয়েছে।",
         "image_url": "https://media.ndiganta.com/original_images/india-iran.jpg"
-      },
-      {
-        "headline": "ইরানের বিরুদ্ধে ট্রাম্পের শুল্কের ঘোষণায় ভারতের চিন্তা কতটা বাড়ল",
-        "url": "https://www.prothomalo.com/world/india/fu2unun0xb",
-        "published_at": "2026-01-13T09:00:01.230000+00:00",
-        "summary": "ট্রাম্প লিখেছেন, ওইসব দেশকে যুক্তরাষ্ট্রের সঙ্গে বাণিজ্য করতে হলে বাড়তি এই শুল্ক দিতে হবে। সিদ্ধান্ত সোমবার রাত থেকেই কার্যকর।",
-        "image_s3_key": "prothomalo-bangla/2025-08-02/uqel13q1/Screenshot-2025-08-02-173829.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-08-02/uqel13q1/Screenshot-2025-08-02-173829.jpg?auto=format,compress"
-      },
-      {
-        "headline": "আজকেও রাজধানীর তিন স্থানে শিক্ষার্থীদের অবরোধ",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/15/1204938",
-        "published_at": "2026-01-15T13:28:23+06:00",
-        "summary": "প্রস্তাবিত ঢাকা সেন্ট্রাল ইউনিভার্সিটি অধ্যাদেশ জারির দাবিতে সাত কলেজের শিক্ষার্থীরা ফের রাজধানীর তিন স্থান অবরোধ করেছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768462096-792069df363c9e9a3737d98e38ffb46e.jpg"
-      },
-      {
-        "headline": "অপারেশন ডেভিল হান্টে রাজধানীতে গ্রেফতার ২৯",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/15/1204932",
-        "published_at": "2026-01-15T13:05:01+06:00",
-        "summary": "রাজধানীতে অপারেশন ডেভিল হান্ট ফেইজ-২ এর আওতায় গত ২৪ ঘণ্টায় ২৯ জনকে গ্রেফতার করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768460693-404b5574bd62959ebf24e247ed3b6520.jpg"
-      },
-      {
-        "headline": "ইরানের হুমকির পর কাতারের সামরিক ঘাঁটি থেকে সেনা সরাচ্ছে যুক্তরাষ্ট্র",
-        "url": "https://www.amarsangbad.com/international/news/334906",
-        "published_at": "1768452912",
-        "summary": "যুক্তরাষ্ট্র যদি হামলা চালায় তার জবাবে মধ্যপ্রাচ্যের বিভিন্ন দেশে অবস্থিত মার্কিন সামরিক ঘাঁটিগুলোতে পাল্টা হামলা চালানোর হুমকি দিয়েছে ইরান। এমন হুমকির পরেই কাতারের আল-উদেইদ বিমান ঘাঁটি থেকে আংশিক সেনা সরিয়ে নিয়েছে যুক্তরাষ্ট্র।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260115045512.jpg"
-      },
-      {
-        "headline": "হাদি হত্যা মামলা : চার্জশিটে আপত্তি বাদীর",
-        "url": "https://www.bd-pratidin.com/national/2026/01/15/1204929",
-        "published_at": "2026-01-15T12:57:27+06:00",
-        "summary": "ইনকিলাব মঞ্চের আহ্বায়ক শরিফ ওসমান বিন হাদি হত্যা মামলায় দাখিল করা চার্জশিটে আপত্তি জানিয়েছেন বাদী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768460236-efaf98db2eac3a61946ca0282ae6ddd4.jpg"
       }
     ],
     "business": [
@@ -7352,6 +7347,14 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/x96hurxz/Ctg-Kings-player-Mo-Mithun-meet-the-press5.jpg?auto=format,compress"
       },
       {
+        "headline": "এমবাপ্পের দলে কোচ হলেই যে বিপদ, চলে যাবে চাকরি",
+        "url": "https://www.prothomalo.com/sports/football/1np3g0manh",
+        "published_at": "2026-01-16T05:02:23.586000+00:00",
+        "summary": "ফুটবল-দুনিয়ায় আলোচনার কেন্দ্রে এখন রিয়াল মাদ্রিদ থেকে জাবি আলোনসোর বিদায়ের ঘটনা। রিয়াল কোচের ছাঁটাইকে ঘিরে সামনে আসছে ভেতরের নানা খবরও।",
+        "image_s3_key": "prothomalo-bangla/2026-01-14/2o4zbhn1/Kylian-Mbappe-Xabi-Alonso-Real-Madrid-Reuters-1200-2026-01-a60c9d32f55616e622892df621c614d0.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-14/2o4zbhn1/Kylian-Mbappe-Xabi-Alonso-Real-Madrid-Reuters-1200-2026-01-a60c9d32f55616e622892df621c614d0.avif?auto=format,compress"
+      },
+      {
         "headline": "কোপা দেল রে: কোয়ার্টার ফাইনাল নিশ্চিত করল টানা ১১ ম্যাচ জেতা বার্সা",
         "url": "https://www.prothomalo.com/sports/football/7teytuo2e3",
         "published_at": "2026-01-16T03:47:57.461000+00:00",
@@ -7648,14 +7651,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-13/qv90lobh/2026_01_03T090729Z_840673128_RC2JTIAZX6MV_RTRMADP_3_SOCCER_WORLDCUP_TROPHY.JPG?auto=format,compress"
       },
       {
-        "headline": "ভারতে ‘মারাত্মক নিরাপত্তাঝুঁকি’ দেখছে বিসিবি, আইসিসির চোখে ঝুঁকি ‘নিম্ন মাঝারি’ পর্যায়ের",
-        "url": "https://www.prothomalo.com/sports/cricket/vl529vsg0p",
-        "published_at": "2026-01-14T02:00:00+00:00",
-        "summary": "এক সংবাদ বিজ্ঞপ্তিতে বিসিবি বলেছে, টুর্নামেন্টের সূচি এরই মধ্যে ঘোষিত হয়ে যাওয়ায় বিসিবিকে সিদ্ধান্ত পুনর্বিবেচনার অনুরোধ করেছে আইসিসি। তবে বিসিবি অবস্থান বদলায়নি।",
-        "image_s3_key": "prothomalo-bangla/2026-01-13/dblwwj01/icc-bcb-t20.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-13/dblwwj01/icc-bcb-t20.jpg?auto=format,compress"
-      },
-      {
         "headline": "বিপিএলের বৃহস্পতিবারের খেলার টিকেটের টাকা ফেরত দেবে বিসিবি, পাবেন যেভাবে",
         "url": "https://www.ittefaq.com.bd/770528/%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%83%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4",
         "published_at": null,
@@ -7747,6 +7742,13 @@
         "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "বিপিএলের নতুন সূচি, টাকা ফেরত পাচ্ছেন দর্শকেরা",
+        "url": "https://dailynayadiganta.com/sports/cricket/HL4EKufoO31a/",
+        "published_at": null,
+        "summary": "বিপিএলের ঢাকা পর্বের খেলা স্থগিত হওয়ায় ১৫ জানুয়ারির টিকিটের টাকা ফেরত দেবে বিসিবি, আর সংশোধিত সূচি অনুযায়ী ১৬-১৮ জানুয়ারি ম্যাচগুলো অনুষ্ঠিত হবে, প্লে-অফ ও ফাইনালের তারিখও একদিন করে পিছিয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/bpl-2026.jpg"
+      },
+      {
         "headline": "বিতর্কের অবসান, আজই মাঠে গড়াচ্ছে বিপিএল",
         "url": "https://dailynayadiganta.com/sports/cricket/qZGpmmqNv2Dv/",
         "published_at": null,
@@ -7773,13 +7775,6 @@
         "published_at": null,
         "summary": "এর আগে এ ইস্যুতে একাধিকবার বিসিবি ও আইসিসির মধ্যে ই-মেইল যোগাযোগ হয়। পাশাপাশি এক দফা ভার্চুয়াল বৈঠকও অনুষ্ঠিত হলেও তাতে বাংলাদেশের সিদ্ধান্তে পরিবর্তন আসেনি। বরাবরের মতোই ভারতের মাটিতে খেলতে অস্বীকৃতি জানিয়ে আসছে বাংলাদেশ।",
         "image_url": "https://media.ndiganta.com/original_images/ICC.jpg"
-      },
-      {
-        "headline": "বিশ্বকাপ টিকিটের জন্য ফিফায় ৫০০ মিলিয়নের বেশি আবেদন",
-        "url": "https://dailynayadiganta.com/sports/football/Q9GZVxexvCoM/",
-        "published_at": null,
-        "summary": "‘মাত্র এক মাসের একটু বেশি সময়ে অর্ধ বিলিয়ন টিকিটের আবেদন কেবল চাহিদাই নয়, এটি একটি বৈশ্বিক বার্তা। এই অসাধারণ সাড়ার জন্য আমি বিশ্বব্যপী ফুটবলপ্রেমীদের ধন্যবাদ ও অভিনন্দন জানাই।’",
-        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_4_MEQc6X1.png"
       },
       {
         "headline": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডডিসেম্বরের সেরা স্টার্ক-উলভার্ট",
@@ -7824,18 +7819,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260110072737.jpg"
       },
       {
-        "headline": "তামিমকে বিসিবি পরিচালকের ‘ভারতীয় এজেন্ট’ আখ্যাউত্তাল ক্রিকেটপাড়া, ক্ষমা চাওয়ার দাবি সতীর্থদের",
-        "url": "https://www.amarsangbad.com/sports/news/334335",
-        "published_at": "1767962110",
-        "summary": "বাংলাদেশের ক্রিকেট ইতিহাসে মাঠের লড়াই ছাপিয়ে এখন আলোচনার কেন্দ্রে বোর্ড কর্মকর্তার শিষ্টাচার বহির্ভূত মন্তব্য। আসন্ন টি-টোয়েন্টি বিশ্বকাপে বাংলাদেশের ভারতে খেলতে যাওয়া না-যাওয়া সংক্রান্ত বিতর্কে নিজের ব্যক্তিগত মত প্রকাশ করে বিসিবি পরিচালক এম নাজমুল ইসলামের তোপের মুখে পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-23-20260109123510.jpg"
-      },
-      {
         "headline": "তামিমকে ‘ভারতীয় দালাল’ দালাল বলা পরিচালককে বিসিবির নোটিশ",
         "url": "https://www.amarsangbad.com/sports/news/334448",
         "published_at": "1768064451",
         "summary": "বাংলাদেশ জাতীয় ক্রিকেট দলের সাবেক অধিনায়ক তামিম ইকবালকে সামাজিক যোগাযোগমাধ্যমে ‘ভারতীয় দালাল’ বলে আখ্যা দেওয়ার ঘটনায় কঠোর অবস্থান নিয়েছে বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। এই কুরুচিপূর্ণ মন্তব্যের ব্যাখ্যা চেয়ে বোর্ডের পরিচালক ও অর্থ কমিটির চেয়ারম্যান এম নাজমুল ইসলামকে কারণ দর্শানোর নোটিশ (শোকজ) দেওয়া হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/bcb-20260110170051.jpg"
+      },
+      {
+        "headline": "তামিমকে বিসিবি পরিচালকের ‘ভারতীয় এজেন্ট’ আখ্যাউত্তাল ক্রিকেটপাড়া, ক্ষমা চাওয়ার দাবি সতীর্থদের",
+        "url": "https://www.amarsangbad.com/sports/news/334335",
+        "published_at": "1767962110",
+        "summary": "বাংলাদেশের ক্রিকেট ইতিহাসে মাঠের লড়াই ছাপিয়ে এখন আলোচনার কেন্দ্রে বোর্ড কর্মকর্তার শিষ্টাচার বহির্ভূত মন্তব্য। আসন্ন টি-টোয়েন্টি বিশ্বকাপে বাংলাদেশের ভারতে খেলতে যাওয়া না-যাওয়া সংক্রান্ত বিতর্কে নিজের ব্যক্তিগত মত প্রকাশ করে বিসিবি পরিচালক এম নাজমুল ইসলামের তোপের মুখে পড়েছেন দেশসেরা ওপেনার তামিম ইকবাল।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-23-20260109123510.jpg"
       },
       {
         "headline": "বাংলাদেশ ইস্যুতে বৈঠকে বসছেন জয় শাহ",
@@ -7864,6 +7859,21 @@
         "published_at": "1768488728",
         "summary": "সব ধরনের ক্রিকেট বয়কটের অবস্থান থেকে সরে এসেছে ক্রিকেটারদের সংগঠন কোয়াব। আগামীকাল শুক্রবার থেকেই ক্রিকেটে ফিরতে চায় তারা। তবে এ জন্য কিছু শর্ত দিয়েছে সংগঠনটি।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-29-20260115145208.jpg"
+      },
+      {
+        "headline": "ভারতে ‘মারাত্মক নিরাপত্তাঝুঁকি’ দেখছে বিসিবি, আইসিসির চোখে ঝুঁকি ‘নিম্ন মাঝারি’ পর্যায়ের",
+        "url": "https://www.prothomalo.com/sports/cricket/vl529vsg0p",
+        "published_at": "2026-01-14T02:00:00+00:00",
+        "summary": "এক সংবাদ বিজ্ঞপ্তিতে বিসিবি বলেছে, টুর্নামেন্টের সূচি এরই মধ্যে ঘোষিত হয়ে যাওয়ায় বিসিবিকে সিদ্ধান্ত পুনর্বিবেচনার অনুরোধ করেছে আইসিসি। তবে বিসিবি অবস্থান বদলায়নি।",
+        "image_s3_key": "prothomalo-bangla/2026-01-13/dblwwj01/icc-bcb-t20.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-13/dblwwj01/icc-bcb-t20.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বিশ্বকাপ টিকিটের জন্য ফিফায় ৫০০ মিলিয়নের বেশি আবেদন",
+        "url": "https://dailynayadiganta.com/sports/football/Q9GZVxexvCoM/",
+        "published_at": null,
+        "summary": "‘মাত্র এক মাসের একটু বেশি সময়ে অর্ধ বিলিয়ন টিকিটের আবেদন কেবল চাহিদাই নয়, এটি একটি বৈশ্বিক বার্তা। এই অসাধারণ সাড়ার জন্য আমি বিশ্বব্যপী ফুটবলপ্রেমীদের ধন্যবাদ ও অভিনন্দন জানাই।’",
+        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_4_MEQc6X1.png"
       },
       {
         "headline": "অনির্দিষ্টকালের জন্য বিপিএল স্থগিত করলো বিসিবি",
@@ -8800,20 +8810,6 @@
         "published_at": null,
         "summary": "নির্বাচন ঘিরে দেশী-বিদেশী অস্ত্র ব্যবসায়ী চক্র তৎপর",
         "image_url": "https://media.ndiganta.com/images/first-1_OZ7cvzU.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "ইরানে ধ্বংসাত্মক বিক্ষোভ",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/jmCiNDU67tuH/",
-        "published_at": null,
-        "summary": "বর্তমান অস্থিরতা ইসলামিক প্রজাতন্ত্রের জন্য একটি গুরুতর চ্যালেঞ্জ, যা তীব্র অর্থনৈতিক চাপ, গভীর রাজনৈতিক অভিযোগ এবং একটি অস্থিতিশীল আঞ্চলিক ও আন্তর্জাতিক পরিবেশের সংমিশ্রণ। ইরানের অর্থনীতি বছরের পর বছর ধরে উচ্চ মুদ্রাস্ফীতি এবং নিম্ন প্রবৃদ্ধির সাথে লড়াই করছে। ব্যাপক বাজেট ঘাটতি এবং পঙ্গু নিষেধাজ্ঞার মধ্যে শিকড় যা টেকসই রাজস্ব এবং তহবিলের অ্যাক্সেসকে বাধা দিয়েছে, এই অর্থনৈতিক দুর্দশাগুলো স্বল্পমেয়াদে সমাধান করা প্রায় অসম্ভব। এসব পরিস্থিতিতে ইরান সরকার যদি স্থিতাবস্থা নিয়ন্ত্রণে ব্যর্থ হয়, তাহলে বিক্ষোভ দীর্ঘস্থায়ী হওয়ার সম্ভাবনা রয়েছে। যুক্তরাষ্ট্র ও ইসরাইল এটিকে হস্তক্ষেপের উপযুক্ত সময় হিসেবে দেখছে।",
-        "image_url": "https://media.ndiganta.com/images/Bazlur.original.origi.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "ভারতে খেলা অথবা পয়েন্ট হারানো, বিসিবিকে আইসিসির কড়া বার্তা",
-        "url": "https://www.amarsangbad.com/sports/news/334037",
-        "published_at": "1767755933",
-        "summary": "আসন্ন টি-টোয়েন্টি বিশ্বকাপে অংশগ্রহণ নিয়ে বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি) এবং আন্তর্জাতিক ক্রিকেট কাউন্সিল (আইসিসি)-এর মধ্যে চরম অচলাবস্থা সৃষ্টি হয়েছে। ইএসপিএন-ক্রিকইনফোর এক প্রতিবেদনে দাবি করা হয়েছে, বিসিবি-কে সাফ জানিয়ে দেওয়া হয়েছে যে, হয় তাদের ভারতেই খেলতে হবে, অন্যথায় পয়েন্ট হারানোর (ওয়াকওভার) ঝুঁকি নিতে হবে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-2-20260107031853.jpg"
       }
     ],
     "entertainment": [
@@ -9138,6 +9134,27 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-13/nldkls98/WhatsApp-Image-2026-01-13-at-3.38.22-PM.jpeg?auto=format,compress"
       },
       {
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
+      },
+      {
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
+      },
+      {
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
+      },
+      {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205323",
         "published_at": "2026-01-16T10:48:05+06:00",
@@ -9187,25 +9204,11 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535791-b27181d12ab9dab0cb44d1f6fa8b829a.jpg"
       },
       {
-        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
-        "published_at": "2026-01-16T09:49:55+06:00",
-        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
-      },
-      {
-        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
-        "published_at": "2026-01-16T09:41:33+06:00",
-        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
-      },
-      {
-        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
-        "published_at": "2026-01-16T09:31:26+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
+        "headline": "কর্পোরেট নিয়ন্ত্রণে বলিউড, মৌলিকত্ব হারাচ্ছে গান: এ আর রহমান",
+        "url": "https://www.ittefaq.com.bd/770531/%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%9F-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A6%BF%E0%A6%89%E0%A6%A1-%E0%A6%AE%E0%A7%8C%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%A8",
+        "published_at": null,
+        "summary": "তিন দশকের বেশি সময় ধরে আন্তর্জাতিক সংগীত জগতে নিজের সৃজনশীলতার স্বাক্ষর রেখে চলেছেন এ আর রহমান। অস্কার, গ্র্যামি থেকে শুরু করে অসংখ্য সম্মানে ভূষিত এই কিংবদন্তি সংগীতশিল্পী এবার বলিউডের বর্তমান বাস্তবতা নিয়ে স্পষ্ট ভাষায় নিজের অবস্থান তুলে ধরেছেন। তার মতে, হিন্দি চলচ্চিত্র শিল্পে এখন সৃজনশীল মানুষের চেয়ে ক্ষমতাবান হয়ে উঠেছে কর্পোরেট গোষ্ঠী।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/04325a877e3d1e2bbcd6c779be44e663-6969c66574bdd.png"
       },
       {
         "headline": "২৩ বছর পর স্টেন্টোরিয়ানের নতুন গান ‘ছায়া বৃত্ত’",
@@ -9269,13 +9272,6 @@
         "published_at": null,
         "summary": "বলিউড অভিনেত্রী সেলিনা জেটলি অভিনয়ের থেকে ব্যক্তিগত জীবনের টানাপোড়েন নিয়ে প্রায়ই আলোচনায় আসেন। এবার নিজের জীবনসঙ্গীর দেওয়া এক চরম ‘উপহার’ এবং সন্তানদের ফিরে পাওয়ার আকুলতা নিয়ে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/6f1a92d21b729f845e3167882b316499-6968559146ed3.jpg"
-      },
-      {
-        "headline": "ওয়ার্ল্ড ট্যুরে বিটিএস, ৩৪ শহরে ৭৯ কনসার্ট",
-        "url": "https://www.ittefaq.com.bd/770372/%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%A1-%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%B8-%E0%A7%A9%E0%A7%AA-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A7%AD%E0%A7%AF-%E0%A6%95%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F",
-        "published_at": null,
-        "summary": "দীর্ঘ অপেক্ষার অবসান ঘটিয়ে আবারও বিশ্বমঞ্চে ফিরছে জনপ্রিয় কে–পপ সুপারস্টার বিটিএস। নতুন অ্যালবামের ঘোষণার পর এবার বিশাল ওয়ার্ল্ড ট্যুরের আনুষ্ঠানিক ঘোষণা দিয়েছে গ্রুপটি। প্রায় চার বছরের বিরতির পর পূর্ণাঙ্গ ট্যুরে নামতে যাচ্ছে আরএম, জিন, সুগা, জে-হোপ, জিমিন, ভি ও জাংকুক।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/8a7ecf06b92f9ee2a2e8bd6d846fd890-696851065f786.png"
       },
       {
         "headline": "ট্রাম্পের কর্মকাণ্ড মরণ কামড়",
@@ -9416,6 +9412,34 @@
         "published_at": "1768382188",
         "summary": "দীর্ঘদিনের গুঞ্জনের অবসান ঘটিয়ে অবশেষে বিবাহবন্ধনে আবদ্ধ হয়েছেন সময়ের আলোচিত কণ্ঠশিল্পী জেফার রহমান ও জনপ্রিয় উপস্থাপক রাফসান সাবাব। শোবিজ অঙ্গনে বহুল আলোচিত এই সম্পর্কটি বুধবার (১৪ জানুয়ারি) আনুষ্ঠানিক পরিণয় হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260114091628.jpg"
+      },
+      {
+        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
+        "published_at": "2026-01-16T09:49:55+06:00",
+        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+      },
+      {
+        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
+        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
+        "published_at": "2026-01-16T09:41:33+06:00",
+        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+      },
+      {
+        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
+        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
+        "published_at": "2026-01-16T09:31:26+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
+      },
+      {
+        "headline": "ওয়ার্ল্ড ট্যুরে বিটিএস, ৩৪ শহরে ৭৯ কনসার্ট",
+        "url": "https://www.ittefaq.com.bd/770372/%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%A1-%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%B8-%E0%A7%A9%E0%A7%AA-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A7%AD%E0%A7%AF-%E0%A6%95%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F",
+        "published_at": null,
+        "summary": "দীর্ঘ অপেক্ষার অবসান ঘটিয়ে আবারও বিশ্বমঞ্চে ফিরছে জনপ্রিয় কে–পপ সুপারস্টার বিটিএস। নতুন অ্যালবামের ঘোষণার পর এবার বিশাল ওয়ার্ল্ড ট্যুরের আনুষ্ঠানিক ঘোষণা দিয়েছে গ্রুপটি। প্রায় চার বছরের বিরতির পর পূর্ণাঙ্গ ট্যুরে নামতে যাচ্ছে আরএম, জিন, সুগা, জে-হোপ, জিমিন, ভি ও জাংকুক।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/8a7ecf06b92f9ee2a2e8bd6d846fd890-696851065f786.png"
       },
       {
         "headline": "কোপা দেল রে : তরেস-ইয়ামালের গোলে শেষ আটে বার্সা",
@@ -10239,35 +10263,6 @@
         "published_at": "2026-01-15T10:25:04+06:00",
         "summary": "নিজেদের আকাশসীমা সাময়িকভাবে বন্ধ ঘোষণা করেছে ইরান। পূর্বানুমতি ছাড়া সব ধরনেরফ্লাইট নিষিদ্ধ থাকবে। তবে আন্তর্জাতিক বেসামরিক ফ্লাইটের আগমন ও প্রস্থান সীমিত আকারে অনুমোদিত থাকবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768451093-bf797894b784dd5bee4fac6ba52ce3b2.jpg"
-      },
-      {
-        "headline": "তেহরানে ব্রিটিশ দূতাবাস সাময়িকভাবে বন্ধ ঘোষণা",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/15/1204891",
-        "published_at": "2026-01-15T09:59:07+06:00",
-        "summary": "ইরানের রাজধানী তেহরানে অবস্থিত ব্রিটিশ দূতাবাস সাময়িকভাবে বন্ধ ঘোষণা করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768449539-c4a940ec7c7848d0ffab4b0edec2551c.jpg"
-      },
-      {
-        "headline": "সাহসী পোশাকে হাজির হয়ে আলোচনায় দুই জেনিফার",
-        "url": "https://www.prothomalo.com/entertainment/hollywood/scw8i9d30x",
-        "published_at": "2026-01-12T14:00:00+00:00",
-        "summary": "এবারের আসরে সাহসী পোশাকে হাজির হওয়া তারকার তালিকায় সবার আগে উঠে এসেছে জেনিফার লরেন্স ও জেনিফার লোপেজের নাম।",
-        "image_s3_key": "prothomalo-bangla/2026-01-12/c8zkoa7u/b907603a-6aad-4152-8922-23cf158cd06a.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/c8zkoa7u/b907603a-6aad-4152-8922-23cf158cd06a.jpg?auto=format,compress"
-      },
-      {
-        "headline": "নিজের স্বার্থের ঊর্ধ্বে দেশের কথা ভাবতে হবে : তথ্য উপদেষ্টা",
-        "url": "https://www.bd-pratidin.com/national/2026/01/15/1204889",
-        "published_at": "2026-01-15T09:49:19+06:00",
-        "summary": "তথ্য ও সম্প্রচার, পরিবেশ, বন ও জলবায়ু পরিবর্তন এবং পানি সম্পদ মন্ত্রণালয়ের উপদেষ্টা সৈয়দা রিজওয়ানা হাসান বলেছেন, নিজের স্বার্থের ঊর্ধ্বে উঠে দেশের কথা ভাবতে হবে। সৃষ্টির সেরা জীব হিসেবে নিজেকে অন্যান্য প্রাণ ও প্রকৃতির সেবায় নিয়োজিত করতে হবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768448953-1db82b8ec457774967ad514d718ca530.jpg"
-      },
-      {
-        "headline": "টাইব্রেকারে ইয়াসিন ‍বুনোর বীরত্বে ফাইনালে মরক্কো",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/15/1204887",
-        "published_at": "2026-01-15T09:35:59+06:00",
-        "summary": "২০২২ কাতার বিশ্বকাপ থেকেই নিজেকে আলোচনার কেন্দ্রবিন্দুতে নিয়ে এসেছেন গোলরক্ষক ইয়াসিন বুনো। তার অসাধারণ দক্ষতা যে কতটা কার্যকর, তা আবারও প্রমাণ হলো আরেকটি ফল নির্ধারণী ম্যাচে। টাইব্রেকারে বুনোর দারুণ দুটি সেভের ওপর ভর করে শক্তিশালী নাইজেরিয়াকে হারিয়েছে মরক্কো। নির্ধারিত সময়ে গোলশূন্য ড্রয়ের পর পেনাল্টি শ্যুটআউটে ৪-২ ব্যবধানে জয় পেয়ে আফ্রিকা কাপ অব নেশন্সের (আফকন) ফাইনালে জায়গা করে নিয়েছে উত্তর আফ্রিকার দলটি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768448153-1341b0756c3348c2604f00fabd617102.jpg"
       }
     ],
     "jobs": [
@@ -10592,6 +10587,27 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-09-24/l6u1oodj/Health Ministry.webp?auto=format,compress"
       },
       {
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
+      },
+      {
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
+      },
+      {
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
+      },
+      {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205323",
         "published_at": "2026-01-16T10:48:05+06:00",
@@ -10639,27 +10655,6 @@
         "published_at": "2026-01-16T09:56:38+06:00",
         "summary": "বরিশাল সরকারি বিএম কলেজের সাবেক ভিপি ও নিষিদ্ধ ঘোষিত সংগঠন ছাত্রলীগের নেতা মইন তুষারকে আটক করেছে পুলিশ।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535791-b27181d12ab9dab0cb44d1f6fa8b829a.jpg"
-      },
-      {
-        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
-        "published_at": "2026-01-16T09:49:55+06:00",
-        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
-      },
-      {
-        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
-        "published_at": "2026-01-16T09:41:33+06:00",
-        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
-      },
-      {
-        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
-        "published_at": "2026-01-16T09:31:26+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
       },
       {
         "headline": "ডাক বিভাগের লিখিত পরীক্ষার সময়সূচি প্রকাশ",
@@ -10821,6 +10816,27 @@
         "published_at": null,
         "summary": "নিয়োগ পরীক্ষার প্রস্তুতিতে সফল হতে হলে দরকার সঠিক তথ্য, আপডেটেড সিলেবাস ও নির্ভরযোগ্য রিসোর্স। প্রতিটি নিয়োগ পরীক্ষার ধরন, প্রশ্নের গঠন ও মানদণ্ড ভিন্ন হওয়ায় সময়মতো সঠিক নির্দেশনা জানা অত্যন্ত জরুরি। লিখিত, এমসিকিউ ও মৌখিক পরীক্ষার প্রস্তুতিতে বিগত বছরের প্রশ্নপত্র, সময় ব্যবস্থাপনা কৌশল, বিষয়ের ওপর ভিত্তি করে অধ্যয়ন পরিকল্পনা এবং মানসম্পন্ন প্র্যাকটিস সেট আপনাকে সঠিক পথে এগিয়ে নিতে পারে।",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
+        "published_at": "2026-01-16T09:49:55+06:00",
+        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+      },
+      {
+        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
+        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
+        "published_at": "2026-01-16T09:41:33+06:00",
+        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+      },
+      {
+        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
+        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
+        "published_at": "2026-01-16T09:31:26+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
       },
       {
         "headline": "কোপা দেল রে : তরেস-ইয়ামালের গোলে শেষ আটে বার্সা",
@@ -11698,27 +11714,6 @@
         "summary": "বছরের শুরুতে সরকারি নিয়োগের পাশাপাশি বেসরকারি বিভিন্ন ব্যাংকসহ প্রতিষ্ঠানে কয়েকটি চাকরির বিজ্ঞপ্তি আছে।",
         "image_s3_key": "prothomalo-bangla/2026-01-08/mpn1cg63/jobs-3.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-08/mpn1cg63/jobs-3.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "বিদেশি হস্তক্ষেপের বিরুদ্ধে আত্মরক্ষায় প্রস্তুত ইরান : পররাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/14/1204709",
-        "published_at": "2026-01-14T21:35:20+06:00",
-        "summary": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প সাম্প্রতিক এক মন্তব্যে ইরানের বেসামরিক নাগরিকদের ‘বিক্ষোভ অব্যাহত রাখার’ আহ্বান জানানোর পর ইরানি পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি সতর্ক করে বলেছেন, তার দেশ ‘অশুভ এবং বিদেশি হস্তক্ষেপের’ বিরুদ্ধে আত্মরক্ষা করবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768404915-00f4259fa33e61665424d6880914b0de.jpg"
-      },
-      {
-        "headline": "দেশকে স্বনির্ভর করতে তারেক রহমানের সুপরিকল্পনা রয়েছে : যুবদল সভাপতি",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/01/14/1204702",
-        "published_at": "2026-01-14T21:29:42+06:00",
-        "summary": "বাংলাদেশ জাতীয়তাবাদী যুবদল কেন্দ্রীয় কমিটির সভাপতি আবদুল মোনায়েম মুন্না বলেছেন, দেশকে সমৃদ্ধ ও স্বনির্ভর করে গড়ে তুলতে তারেক রহমান সব ধরনের পরিকল্পনা হাতে নিয়েছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768404577-94ae413234d918c72d40bfe8c339ff4b.PNG"
-      },
-      {
-        "headline": "নড়াইলে ঘোড়দৌড় প্রতিযোগিতায় হাজারো দর্শকের ঢল",
-        "url": "https://www.bd-pratidin.com/country/2026/01/14/1204700",
-        "published_at": "2026-01-14T21:26:05+06:00",
-        "summary": "নড়াইলে গ্রামবাংলার ঐতিহ্যবাহী ঘোড়দৌড় প্রতিযোগিতা অনুষ্ঠিত হয়েছে। বুধবার বিকেলে সদর উপজেলার বিছালী ইউনিয়নের চাকই গ্রামে অনুষ্ঠিত এ প্রতিযোগিতা দেখতে হাজারো মানুষের ঢল নামে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768404358-e5105809f5b28c58bdb2577b2b480843.PNG"
       }
     ],
     "opinion": [
@@ -12442,6 +12437,27 @@
     "football": [],
     "election": [
       {
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
+      },
+      {
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
+      },
+      {
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
+      },
+      {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205323",
         "published_at": "2026-01-16T10:48:05+06:00",
@@ -12491,39 +12507,11 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535791-b27181d12ab9dab0cb44d1f6fa8b829a.jpg"
       },
       {
-        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
-        "published_at": "2026-01-16T09:49:55+06:00",
-        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
-      },
-      {
-        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
-        "published_at": "2026-01-16T09:41:33+06:00",
-        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
-      },
-      {
-        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
-        "published_at": "2026-01-16T09:31:26+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
-      },
-      {
         "headline": "কুমিল্লা সিটি নির্বাচন",
         "url": "https://www.amarsangbad.com/election/",
         "published_at": null,
         "summary": "বার্তা ও বাণিজ্যিক কার্যালয়: ১২৮, মতিঝিল, বা/এ, ঢাকা-১০০০।",
         "image_url": null
-      },
-      {
-        "headline": "পাবনা-১ ও ২ আসনে নির্বাচন স্থগিত",
-        "url": "https://www.amarsangbad.com/election/news/334280",
-        "published_at": "1767935500",
-        "summary": "সীমানা নির্ধারণ নিয়ে আইনি জটিলতার কারণে পাবনা-১ ও পাবনা-২ আসনে আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোট স্থগিত করেছে নির্বাচন কমিশন (ইসি)। সুপ্রিম কোর্টের আপিল বিভাগের নির্দেশনার প্রেক্ষিতে কমিশন এই সিদ্ধান্ত গ্রহণ করেছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260109051140.jpg"
       },
       {
         "headline": "ব্যালটে ‘ধানের শীষ’ ভাঁজের মধ্যে থাকা নিয়ে যা জানাল ইসি",
@@ -12575,11 +12563,46 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-2--20260111083536.jpg"
       },
       {
+        "headline": "পাবনা-১ ও ২ আসনে ভোট স্থগিত, সীমানা জটিলতায় ইসির বড় সিদ্ধান্ত",
+        "url": "https://www.amarsangbad.com/election/news/334428",
+        "published_at": "1768047877",
+        "summary": "পাবনা জেলার রাজনৈতিক সমীকরণে আকস্মিক মোড় এসেছে। সীমানা নির্ধারণ নিয়ে দীর্ঘদিনের আইনি লড়াইয়ের জেরে ত্রয়োদশ জাতীয় সংসদ নির্বাচনে পাবনার দুটি আসনের ভোটগ্রহণ স্থগিত ঘোষণা করেছে নির্বাচন কমিশন। আসন দুটি হলো ৬৮, পাবনা ১ এবং ৬৯, পাবনা ২।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-29-20260110122437.jpg"
+      },
+      {
         "headline": "ত্রয়োদশ জাতীয় নির্বাচন১ লাখ সেনাসহ ৯ লাখ বাহিনীর নিরাপত্তায় ‘ডিজিটাল দুর্গ’ হচ্ছে বাংলাদেশ",
         "url": "https://www.amarsangbad.com/election/news/334811",
         "published_at": "1768378912",
         "summary": "বাংলাদেশের ইতিহাসে সবচেয়ে বড় ও প্রযুক্তিনির্ভর নিরাপত্তা পরিকল্পনার মধ্য দিয়ে অনুষ্ঠিত হতে যাচ্ছে আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন। গত রোববার স্বরাষ্ট্র উপদেষ্টা লেফটেন্যান্ট জেনারেল (অব.) জাহাঙ্গীর আলম চৌধুরীর সভাপতিত্বে অনুষ্ঠিত এক রুদ্ধদ্বার বৈঠকে এই মহাপরিকল্পনা চূড়ান্ত করা হয়েছে। সিদ্ধান্ত অনুযায়ী, নির্বাচনের আগে ও পরে মোট সাত দিন দেশজুড়ে বিশেষ নিরাপত্তা বলয় থাকবে। বিশেষ করে ভোটের আগের চার দিন সারা দেশে ‘নিবিড় টহল’ দেবে সেনাবাহিনীসহ অন্যান্য বাহিনী।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260114082152.jpg"
+      },
+      {
+        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
+        "published_at": "2026-01-16T09:49:55+06:00",
+        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+      },
+      {
+        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
+        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
+        "published_at": "2026-01-16T09:41:33+06:00",
+        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+      },
+      {
+        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
+        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
+        "published_at": "2026-01-16T09:31:26+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
+      },
+      {
+        "headline": "পাবনা-১ ও ২ আসনে নির্বাচন স্থগিত",
+        "url": "https://www.amarsangbad.com/election/news/334280",
+        "published_at": "1767935500",
+        "summary": "সীমানা নির্ধারণ নিয়ে আইনি জটিলতার কারণে পাবনা-১ ও পাবনা-২ আসনে আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোট স্থগিত করেছে নির্বাচন কমিশন (ইসি)। সুপ্রিম কোর্টের আপিল বিভাগের নির্দেশনার প্রেক্ষিতে কমিশন এই সিদ্ধান্ত গ্রহণ করেছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260109051140.jpg"
       },
       {
         "headline": "কোপা দেল রে : তরেস-ইয়ামালের গোলে শেষ আটে বার্সা",
@@ -13812,37 +13835,30 @@
         "published_at": "2026-01-14T15:51:40+06:00",
         "summary": "ইরানে সাম্প্রতিক বিক্ষোভের ঘটনায় গ্রেফতার হওয়া সন্দেহভাজনদের বিরুদ্ধে দ্রুত বিচার কার্যক্রম পরিচালনার ঘোষণা দিয়েছেন দেশটির বিচার বিভাগের প্রধান গোলাম হোসেইন মোহসেনি এজেই।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768384293-0c985a0be21ee2f9471c64a15ead935d.jpg"
-      },
-      {
-        "headline": "ইরানে বিক্ষোভে নিহত অন্তত ২,৬০০ জন, দাবি মানবাধিকার সংস্থার",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/14/1204538",
-        "published_at": "2026-01-14T15:43:25+06:00",
-        "summary": "ইরানে গত দুই সপ্তাহ ধরে চলমান দেশব্যাপী বিক্ষোভে অন্তত ২,৬০০ জন নিহত হওয়ার অভিযোগ উঠেছে। নিহতদের মধ্যে বিক্ষোভকারী, সাধারণ বেসামরিক নাগরিক এবং নিরাপত্তা বাহিনীর সদস্য রয়েছেন। বুধবার (১৪ জানুয়ারি) যুক্তরাষ্ট্রভিত্তিক মানবাধিকার সংগঠন হিউম্যান রাইটস অ্যাক্টিভিস্টস নিউজ এজেন্সি (এইচআরএএনএ) এ দাবি করেছে। ব্রিটিশ বার্তা সংস্থারয়টার্সএ খবর নিশ্চিত করেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768383798-4ba9e3108002db3c6b5d4bb2cffa9c28.jpg"
-      },
-      {
-        "headline": "জুলাই সনদ অক্ষরে অক্ষরে বাস্তবায়ন করবে বিএনপি : সালাহউদ্দিন",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/01/14/1204537",
-        "published_at": "2026-01-14T15:39:07+06:00",
-        "summary": "বিএনপির স্থায়ী কমিটির সদস্য সালাহউদ্দিন আহমদ বলেছেন, স্বাক্ষরিত জুলাই জাতীয় সনদের পক্ষে আছে বিএনপি। ঐকমত্যের ভিত্তিতে যে জুলাই জাতীয় সনদ স্বাক্ষরিত হয়েছে তা আমরা অক্ষরে অক্ষরে প্রতিটি প্রস্তাব বাস্তবায়ন করব। জুলাই সনদের বাইরে আমাদের কোনো বক্তব্য নেই। যেটা জাতীয়ভাবে ঐকমত্য হবে সেই বিষয়ে আমরা ঐক্যবদ্ধ। যেটা ঐকমত্য হয়েছে সেই বিষয়ে আমরা অঙ্গীকারবদ্ধ এবং প্রতিশ্রুতিবদ্ধ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768383541-d509da1b1f84d744072db878fc2f4419.jpg"
-      },
-      {
-        "headline": "নিরাপদ কর্মস্থল চান রাবি কর্মকর্তা ও কর্মচারীরা",
-        "url": "https://www.bd-pratidin.com/campus-online/2026/01/14/1204536",
-        "published_at": "2026-01-14T15:38:48+06:00",
-        "summary": "রাজশাহী বিশ্ববিদ্যালয়ে (রাবি) নিরাপদ কর্মস্থলের দাবিতে মানববন্ধন করেছেন বিশ্ববিদ্যালয়ের কর্মকতা-কর্মচারীরা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768383520-c6451dc02590cadcda1acad2af4cfb97.jpg"
-      },
-      {
-        "headline": "চুয়াডাঙ্গায় বিএনপি নেতার জানাজা সম্পন্ন",
-        "url": "https://www.bd-pratidin.com/country/2026/01/14/1204530",
-        "published_at": "2026-01-14T15:21:28+06:00",
-        "summary": "চুয়াডাঙ্গার জীবননগরে যৌথবাহিনীর হেফাজতে মারা যাওয়া পৌর বিএনপির সাধারণ সম্পাদক শামসুজ্জামান ডাবলু’র জানাজা সম্পন্ন হয়েছে। আজ বুধবার বেলা ১১টায় জীবননগর পৌর ঈদগাঁ মাঠে জানাজা অনুষ্ঠিত হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768382482-9f7704504f4b74d05797275e5ca4bd3a.jpg"
       }
     ],
     "city": [
+      {
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
+      },
+      {
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
+      },
+      {
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
+      },
       {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205323",
@@ -15221,30 +15237,30 @@
         "published_at": "2026-01-14T13:44:31+06:00",
         "summary": "গোপালগঞ্জ-২ (গোপালগঞ্জ-কাশিয়ানির একাংশ) আসনে বিএনপির বিদ্রোহী প্রার্থী সিরাজুল ইসলাম সিরাজের মনোনয়নপত্র বৈধ ঘোষণা করেছে নির্বাচন কমিশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768376666-c96c21c09769c20b49aeab8cfd98ef7e.jpg"
-      },
-      {
-        "headline": "আজ ঢাকার তিন স্থানে অবরোধের ঘোষণা সাত কলেজের শিক্ষার্থীদের",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/14/1204449",
-        "published_at": "2026-01-14T04:01:45+06:00",
-        "summary": "প্রস্তাবিত ঢাকা সেন্ট্রাল ইউনিভার্সিটি গঠনের লক্ষ্যে চূড়ান্ত অধ্যাদেশ জারির এক দফা দাবিতে আজ বুধবার রাজধানীর তিনটি গুরুত্বপূর্ণ স্থানে অবরোধ কর্মসূচি পালনের ঘোষণা দিয়েছেন সাত কলেজের শিক্ষার্থীরা। গতকাল মঙ্গলবার এক সংবাদ বিজ্ঞপ্তিতে ‘সাত কলেজ বিশ্ববিদ্যালয় রূপান্তর আন্দোলনের’ পক্ষ থেকে এ কর্মসূচি ঘোষণা দেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768341689-090c5511104d7d1d766278a7cd656cf9.jpg"
-      },
-      {
-        "headline": "আবারও ফেটেছে গ্যাস লাইনের ভালভ, যেসব এলাকায় সরবরাহ বন্ধ",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/14/1204435",
-        "published_at": "2026-01-14T01:44:54+06:00",
-        "summary": "সার্ভিস লাইনের ভাল্ভ ফেটে উচ্চ চাপে গ্যাস লিকেজ হওয়ায় রাজধানীর উত্তরা, উত্তরখান ও দক্ষিনখান এলাকায় গ্যাস সরবরাহ বন্ধ রয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768333486-36bd001ee2c970a5a5d5eba1a9d093a1.jpg"
-      },
-      {
-        "headline": "জাস্টিস ফর হাদি, ইনশাআল্লাহ: মির্জা ফখরুল",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/01/14/1204434",
-        "published_at": "2026-01-14T01:41:29+06:00",
-        "summary": "ক্ষমতায় এলে বিএনপি শহীদ শরিফ ওসমান হাদি হত্যার বিচার করবে বলে প্রত্যয় ব্যক্ত করেছেন দলটির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768333553-9e304f5bb124d74bf570ffed1ad42f2d.jpg"
       }
     ],
     "campus": [
+      {
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
+      },
+      {
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
+      },
+      {
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
+      },
       {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205323",
@@ -15295,27 +15311,6 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535791-b27181d12ab9dab0cb44d1f6fa8b829a.jpg"
       },
       {
-        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
-        "published_at": "2026-01-16T09:49:55+06:00",
-        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
-      },
-      {
-        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
-        "published_at": "2026-01-16T09:41:33+06:00",
-        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
-      },
-      {
-        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
-        "published_at": "2026-01-16T09:31:26+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
-      },
-      {
         "headline": "৩০ লাখ টাকার ফেলোশিপ পাচ্ছেন যবিপ্রবির ৫৬ শিক্ষার্থী",
         "url": "https://www.amarsangbad.com/education/news/334856",
         "published_at": "1768392636",
@@ -15335,13 +15330,6 @@
         "published_at": "1768136241",
         "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) জুলাই বিপ্লববিরোধী ভূমিকায় থাকা শিক্ষক-কর্মকর্তা-কর্মচারী ও শিক্ষার্থীদের বিরুদ্ধে অভিযোগের ধরন পর্যালোচনা ও শাস্তির মাত্রা নির্ধারণে গঠিত রিভিউ কমিটি পুনর্গঠন করা হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/ebbbbb-20260111125721.jpg"
-      },
-      {
-        "headline": "প্রাথমিকের শিক্ষক নিয়োগ পরীক্ষা আজ",
-        "url": "https://www.amarsangbad.com/education/news/334282",
-        "published_at": "1767936372",
-        "summary": "সরকারি প্রাথমিক বিদ্যালয়ের সহকারী শিক্ষক নিয়োগ-২০২৫ এর লিখিত পরীক্ষা আজ শুক্রবার অনুষ্ঠিত হচ্ছে। তিন পার্বত্য জেলা বাদে দেশের বাকি ৬১ জেলায় একযোগে এই বিশাল নিয়োগ পরীক্ষা আয়োজিত হয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-2-20260109052612.jpg"
       },
       {
         "headline": "চলতি মাসেই প্রাথমিক শিক্ষক নিয়োগ পরীক্ষার ফল প্রকাশ",
@@ -15372,6 +15360,13 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/jbi-20260109095302.jpg"
       },
       {
+        "headline": "প্রাথমিক শিক্ষক নিয়োগপ্রশ্নফাঁসের ‘বিশ্বাসযোগ্য’ প্রমাণ মেলেনি, শিগগির ফল প্রকাশ",
+        "url": "https://www.amarsangbad.com/education/news/334653",
+        "published_at": "1768224346",
+        "summary": "সরকারি প্রাথমিক বিদ্যালয়ের সহকারী শিক্ষক নিয়োগে প্রশ্নফাঁসের যে অভিযোগ চাকরিপ্রার্থীরা তুলেছেন, তার কোনো ‘বিশ্বাসযোগ্য প্রমাণ’ পায়নি প্রাথমিক শিক্ষা অধিদপ্তর। ফলে এ পরীক্ষা বাতিল হচ্ছে না। এখন পুরোদমে ফল প্রস্তুতের কাজ চলছে। শিগগির ফলাফল প্রকাশ করা হবে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260112132546.jpg"
+      },
+      {
         "headline": "জাহাঙ্গীরনগরে ইংরেজি বিভাগের শিক্ষার্থীদের বিদ্রোহ, শ্রেণিকক্ষ সংকটে প্রশাসনিক ভবন ঘেরাও",
         "url": "https://www.amarsangbad.com/education/news/334956",
         "published_at": "1768472653",
@@ -15384,6 +15379,34 @@
         "published_at": "1768467032",
         "summary": "রাঙ্গামাটির প্রাকৃতিক সৌন্দর্যকে কেন্দ্র করে শিক্ষা ও পর্যটনের এক অনন্য মেলবন্ধনের উদ্যোগ নিতে যাচ্ছে রাঙ্গামাটি বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (রাবিপ্রবি)। বিশ্ববিদ্যালয় ক্যাম্পাসের ভেতরেই ‘মিনি ট্যুরিজম হাব’ গড়ে তোলার পরিকল্পনার কথা জানিয়েছেন উপাচার্য প্রফেসর ড. আতিয়ার রহমান। একই সঙ্গে রাবিপ্রবিতে আয়োজিত হতে যাওয়া জাতীয় ট্যুরিজম কনফারেন্স-২০২৬-এর বিস্তারিত কর্মসূচিও তুলে ধরেন তিনি।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260115085032.jpg"
+      },
+      {
+        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
+        "published_at": "2026-01-16T09:49:55+06:00",
+        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+      },
+      {
+        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
+        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
+        "published_at": "2026-01-16T09:41:33+06:00",
+        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+      },
+      {
+        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
+        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
+        "published_at": "2026-01-16T09:31:26+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
+      },
+      {
+        "headline": "প্রাথমিকের শিক্ষক নিয়োগ পরীক্ষা আজ",
+        "url": "https://www.amarsangbad.com/education/news/334282",
+        "published_at": "1767936372",
+        "summary": "সরকারি প্রাথমিক বিদ্যালয়ের সহকারী শিক্ষক নিয়োগ-২০২৫ এর লিখিত পরীক্ষা আজ শুক্রবার অনুষ্ঠিত হচ্ছে। তিন পার্বত্য জেলা বাদে দেশের বাকি ৬১ জেলায় একযোগে এই বিশাল নিয়োগ পরীক্ষা আয়োজিত হয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-2-20260109052612.jpg"
       },
       {
         "headline": "কোপা দেল রে : তরেস-ইয়ামালের গোলে শেষ আটে বার্সা",
@@ -16616,37 +16639,30 @@
         "published_at": "2026-01-14T17:17:49+06:00",
         "summary": "গাজীপুর কৃষি বিশ্ববিদ্যালয়ে (গাকৃবি) জমকালো আয়োজনে অনুষ্ঠিত হলো বিশ্বের শিক্ষার্থীদের সর্ববৃহৎ সামাজিক উদ্যোক্তা তৈরির প্রতিযোগিতামূলক সংগঠন এবং বিশ্বজুড়ে শিক্ষার্থীদের নোবেল পুরস্কার নামে পরিচিত ‘হাল্ট প্রাইজ’ অন-ক্যাম্পাস ২০২৫-২৬ এর গ্র্যান্ড ফিনালে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768389463-9ebe3ccef90d3c54359b0cbed75a32da.jpg"
-      },
-      {
-        "headline": "আন্তর্জাতিক বাজারে সর্বকালের সর্বোচ্চ দামে স্বর্ণ–রুপা",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/14/1204571",
-        "published_at": "2026-01-14T17:03:25+06:00",
-        "summary": "আন্তর্জাতিক বাজারে সর্বকালের সর্বোচ্চ পর্যায়ে পৌঁছেছে স্বর্ণ ও রুপার দাম।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768388599-1f29dafa7364eae87964a96f2d5a7ed2.jpg"
-      },
-      {
-        "headline": "বৃহস্পতিবার আবারও গুরুত্বপূর্ণ তিন মোড় অবরোধের ঘোষণা শিক্ষার্থীদের",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/14/1204557",
-        "published_at": "2026-01-14T16:24:47+06:00",
-        "summary": "সাত কলেজের সমন্বয়ে প্রস্তাবিত ঢাকা সেন্ট্রাল ইউনিভার্সিটি বাস্তবায়নের দাবিতে রাজধানীর বিভিন্ন গুরুত্বপূর্ণ সড়ক অবরোধ করে আজ আন্দোলন করেছেন শিক্ষার্থীরা। আগামীকাল বৃহস্পতিবার (১৫ জানুয়ারি) একই দাবিতে রাজধানীর তিন গুরুত্বপূর্ণ মোড়-পুরান ঢাকার তাঁতিবাজার, সায়েন্স ল্যাব ও গাবতলীর টেকনিক্যালে অবস্থান কর্মসূচির ঘোষণা দিয়েছেন সাত কলেজের শিক্ষার্থীরা",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768386281-8dca7a4987a815a6dbdaf5a805b0359d.jpg"
-      },
-      {
-        "headline": "যে কারণে ইরানে হামলা চালাতে পারছে না যুক্তরাষ্ট্র",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/14/1204553",
-        "published_at": "2026-01-14T16:09:41+06:00",
-        "summary": "বিক্ষোভে উত্তাল ইরানে সামরিক হামলা চালানো থেকে যুক্তরাষ্ট্রকে বিরত রাখতে চেষ্টা অব্যাহত রেখেছে কয়েকটি আরব দেশ। এ উদ্যোগে সৌদি আরবের সঙ্গে যুক্ত হয়েছে কাতার ও ওমান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768385377-3e926c52bd3210ab9ea076e479f45c4e.jpg"
-      },
-      {
-        "headline": "বিগব্যাশে আবারও রিশাদ ঝলক",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/14/1204550",
-        "published_at": "2026-01-14T16:08:57+06:00",
-        "summary": "বিগ ব্যাশে বাংলাদেশের স্পিনার রিশাদ হোসেন আবারো তাক লাগানোর পারফরম্যান্স দেখালেন। ব্রিসবেন হিটের বিপক্ষে রিশাদ ২৭ রানে ২ উইকেট তুলে দলের জন্য বড় অবদান রাখেন। তার স্পিনে হিটকে ১৬০ রানে আটকে রাখতে সক্ষম হয় হোবার্ট হারিকেন্স।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768385333-44d4764dbae78f12f8bafd011ac93e60.jpg"
       }
     ],
     "tech": [
+      {
+        "headline": "উত্তরায় আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205330",
+        "published_at": "2026-01-16T11:19:13+06:00",
+        "summary": "রাজধানীর উত্তরা ১১ নম্বরে সেক্টরের একটি আবাসিক ভবনে অগ্নিকাণ্ডে তিনজনের মৃত্যু হয়েছে। তাৎক্ষণিকভাবে তাদের পরিচয় জানা যায়নি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540747-c2e7c69c9b5432423e23920da47aaf4b.jpg"
+      },
+      {
+        "headline": "পদক উপহার পেয়ে মাচাদোর ভূয়সী প্রশংসা করলেন ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205328",
+        "published_at": "2026-01-16T11:09:04+06:00",
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে নিজের নোবেল শান্তি পুরস্কারের পদক উপহার দিয়েছেন ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768540139-3693aa2f22f7c15e5c0c58a2950b10ae.jpg"
+      },
+      {
+        "headline": "ইরান ইস্যুতে জাতিসংঘের নিরাপত্তা পরিষদে জরুরি বৈঠক",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205327",
+        "published_at": "2026-01-16T11:05:14+06:00",
+        "summary": "ইরানের সাম্প্রতিক রক্তক্ষয়ী বিক্ষোভ এবং ওয়াশিংটনের পক্ষ থেকে আসা সামরিক হামলার হুমকির মুখে জাতিসংঘ নিরাপত্তা পরিষদে এক জরুরি বৈঠক অনুষ্ঠিত হয়। কাতারভিত্তিক সংবাদমাধ্যম আলজাজিরা তাদের এক প্রতিবেদনে এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768539908-f34069602d25d5b6ce943f7f245e9f78.jpg"
+      },
       {
         "headline": "‘স্বাধীন ইরান’ অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে: পাহলভি",
         "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205323",
@@ -16695,27 +16711,6 @@
         "published_at": "2026-01-16T09:56:38+06:00",
         "summary": "বরিশাল সরকারি বিএম কলেজের সাবেক ভিপি ও নিষিদ্ধ ঘোষিত সংগঠন ছাত্রলীগের নেতা মইন তুষারকে আটক করেছে পুলিশ।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535791-b27181d12ab9dab0cb44d1f6fa8b829a.jpg"
-      },
-      {
-        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
-        "published_at": "2026-01-16T09:49:55+06:00",
-        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
-      },
-      {
-        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
-        "published_at": "2026-01-16T09:41:33+06:00",
-        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
-      },
-      {
-        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
-        "published_at": "2026-01-16T09:31:26+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
       },
       {
         "headline": "দেশে আনুষ্ঠানিক কার্যক্রম শুরু করলো হোস্টিং ডটকম",
@@ -16933,6 +16928,27 @@
         "published_at": null,
         "summary": "বিশ্বখ্যাত হোস্টিং সেবাদাতা প্রতিষ্ঠান হোস্টিং ডটকম বাংলাদেশে আনুষ্ঠানিকভাবে ব্যবসায়িক কার্যক্রম শুরু করেছে। বৃহস্পতিবার (১৫ জানুয়ারি) ডাক, টেলিযোগাযোগ ও তথ্যপ্ ...",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "ছুটির দিনেও দূষিত বাতাসের শহরের তালিকার শীর্ষে ঢাকা",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205306",
+        "published_at": "2026-01-16T09:49:55+06:00",
+        "summary": "নানা কারণে বিশ্বের বিভিন্ন শহরে দিন দিন বাড়ছে বায়ুদূষণ। দীর্ঘদিন ধরে মেগাসিটি ঢাকাও বায়ুদূষণের কবলে। বেশ কিছু দিন ধরে বিশ্বের দূষিত শহরের তালিকায় প্রথমদিকেই রয়েছে রাজধানী ঢাকা। মাঝে শহরটির বায়ুমান বৃষ্টির কারণে কিছুটা উন্নতির দিকে ছিল। কিন্তু বিগত বেশ কিছুদিন ধরেই শহরটির বাতাসে ফের বেড়ে গেছে দূষণ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768535390-517f02a47849d9f495cad02156659df5.jpg"
+      },
+      {
+        "headline": "দ্বিতীয়বার আইসিসি মাস সেরা উলভার্ট",
+        "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205305",
+        "published_at": "2026-01-16T09:41:33+06:00",
+        "summary": "আইসিসি প্লেয়ার অব দ্য মান্থ অ্যাওয়ার্ডে নারী বিভাগে  ডিসেম্বরের সেরা হলেন দক্ষিণ আফ্রিকার ব্যাটার লরা উলভার্ট। আর পুরুষ বিভাগে সেরা হয়েছেন অস্ট্রেলিয়ার পেসার মিচেল স্টার্ক।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534887-fee7559bd9aa859429f396a03b121e94.jpg"
+      },
+      {
+        "headline": "প্রার্থিতা ফিরে পেতে আপিলের সপ্তম দিনের শুনানি আজ",
+        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205303",
+        "published_at": "2026-01-16T09:31:26+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে আপিল শুনানির আজ সপ্তম দিন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768534279-d09555ed1fb6be155412f7d1801080a8.jpg"
       },
       {
         "headline": "কোপা দেল রে : তরেস-ইয়ামালের গোলে শেষ আটে বার্সা",
@@ -18025,27 +18041,6 @@
         "published_at": "2026-01-14T18:06:07+06:00",
         "summary": "ময়মনসিংহ বিভাগের উপজেলা ভূমি অফিস ও ইউনিয়ন ভূমি অফিস সংলগ্ন কাচারি পুকুর, খননযোগ্য ও ইজারাযোগ্য সরকারি অন্যান্য জলমহাল সংস্কার ও খনন প্রকল্প বাস্তবায়নে স্টেকহোল্ডার সভা অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768392360-a9acfd6aca4bc60678331efd7a3b5c9e.jpg"
-      },
-      {
-        "headline": "চলতি অর্থবছরে প্রবৃদ্ধি হবে ৪.৬ শতাংশ, বিশ্বব্যাংকের পূর্বাভাস",
-        "url": "https://www.bd-pratidin.com/economy/2026/01/14/1204607",
-        "published_at": "2026-01-14T18:05:01+06:00",
-        "summary": "চলতি অর্থবছর শেষে বাংলাদেশের মোট দেশজ উৎপাদনের প্রবৃদ্ধি (জিডিপি) ৪ দশমিক ৬ শতাংশ হবে বলে পূর্বাভাস দিয়েছে বিশ্বব্যাংক। সংস্থাটির পূর্বাভাস অনুযায়ী, আগামী অর্থবছর অর্থাৎ ২০২৬-২৭ অর্থবছরে প্রবৃদ্ধি বেড়ে ৬ দশমিক ১ শতাংশ হতে পারে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768392298-6de77110a9ae49ba269eeab58e4220d9.jpg"
-      },
-      {
-        "headline": "নির্ধারিত সময়ে শাকসু নির্বাচনের দাবিতে স্মারকলিপি",
-        "url": "https://www.bd-pratidin.com/campus-online/2026/01/14/1204604",
-        "published_at": "2026-01-14T17:55:17+06:00",
-        "summary": "তিনটি শর্ত প্রত্যাখ্যান করে নির্ধারিত সময়ে শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় ছাত্র সংসদ (শাকসু) নির্বাচন আয়োজনের দাবিতে নির্বাচন কমিশনের কাছে স্মারকলিপি দিয়েছেন কেন্দ্রীয় ও হল সংসদের প্রার্থীরা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768391711-340253451262025b4a6f522d2a4c8030.PNG"
-      },
-      {
-        "headline": "লালমনিরহাটে তিনটি বিরল প্রজাতির অসুস্থ শকুন উদ্ধার",
-        "url": "https://www.bd-pratidin.com/country/2026/01/14/1204603",
-        "published_at": "2026-01-14T17:54:09+06:00",
-        "summary": "লালমনিরহাটের পাটগ্রাম উপজেলায় তিনটি বিরল প্রজাতির অসুস্থ শকুন উদ্ধার করেছেন বন বিভাগের কর্মকর্তারা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/14/og/1768391640-b2e9728e5bb33e0111b2c9f162ca8ad2.PNG"
       }
     ]
   }
