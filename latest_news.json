@@ -1,13 +1,61 @@
 {
-  "fetched_at": "2026-01-16T08:56:45.933735+00:00",
+  "fetched_at": "2026-01-16T09:25:57.463277+00:00",
   "stories": [
     {
-      "headline": "বিপিএল: হাসান ইসাখিলকে আউট করে নাচলেন শরীফুল",
+      "headline": "এক আত্মগত মহাকাব্যের জন্ম",
+      "url": "https://www.prothomalo.com/onnoalo/prose/cphol49t4f",
+      "published_at": "2026-01-16T09:12:12.576000+00:00",
+      "summary": "‘কামাইতাচি’ একধরনের আত্মগত দলিল—যেখানে লোককথা, পারফরম্যান্স আর্ট এবং ব্যক্তিগত আত্মশুদ্ধির অভিজ্ঞতা একাকার হয়ে গেছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-16/kgyu8v1b/9961630b-0890-469e-a326-52451b2b2865.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/kgyu8v1b/9961630b-0890-469e-a326-52451b2b2865.jfif?auto=format,compress"
+    },
+    {
+      "headline": "বিপিএল: মেহেদীর তৃতীয় শিকার, এবার আউট হাবিবুর",
       "url": "https://www.prothomalo.com/sports/cricket/n5pzo3hqrm",
-      "published_at": "2026-01-16T08:50:39.663000+00:00",
+      "published_at": "2026-01-16T09:10:20.271000+00:00",
       "summary": "আজ থেকে আবার মাঠে গড়াচ্ছে বিপিএল। দিনের প্রথম ম্যাচে চট্টগ্রাম রয়্যালস খেলবে নোয়াখালী এক্সপ্রেসের বিপক্ষে। এই ম্যাচের আপডেট পেতে চোখ রাখুন এখানে।",
       "image_s3_key": "prothomalo-bangla/2026-01-16/40q6jfyc/c1702de2-149f-45f7-ac76-cf8821b6655c.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/40q6jfyc/c1702de2-149f-45f7-ac76-cf8821b6655c.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আলোর তরঙ্গ ধর্ম প্রমাণ করেন থমাস ইয়ং",
+      "url": "https://www.prothomalo.com/education/examination/7ipv4wx344",
+      "published_at": "2026-01-16T09:06:18.342000+00:00",
+      "summary": "পদার্থবিজ্ঞান: বহুনির্বাচনি প্রশ্ন",
+      "image_s3_key": "prothomalo-bangla/2024-04/d3342d43-c00a-4db9-a9bb-a3f06d0eb02b/12.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-04/d3342d43-c00a-4db9-a9bb-a3f06d0eb02b/12.webp?auto=format,compress"
+    },
+    {
+      "headline": "ইসলামিক ফাউন্ডেশনের নিয়োগ পরীক্ষার ফল প্রকাশ",
+      "url": "https://www.prothomalo.com/chakri/chakri-news/ymydn0ocd8",
+      "published_at": "2026-01-16T09:01:27.960000+00:00",
+      "summary": "ইসলামিক ফাউন্ডেশনের নিয়োগ পরীক্ষার চূড়ান্ত ফল প্রকাশ",
+      "image_s3_key": "prothomalo-bangla/2023-04/2e786862-31ff-49da-8d62-1edf4c51d965/754a42fa_2c62_41dc_89ed_9c086390c052.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-04/2e786862-31ff-49da-8d62-1edf4c51d965/754a42fa_2c62_41dc_89ed_9c086390c052.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পনির টিক্কা খাবেন? রেসিপি দেখুন",
+      "url": "https://www.prothomalo.com/lifestyle/recipe/opzv2lm1ui",
+      "published_at": "2026-01-16T09:00:00+00:00",
+      "summary": "শীত এলেই পোড়ানো বা ঝলসানো খাবারের ধুম পড়ে যায়। সহজে বাসায় বানাতে পারেন পনির টিক্কা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-15/0z6v14jw/040A8376.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/0z6v14jw/040A8376.JPG?auto=format,compress"
+    },
+    {
+      "headline": "শোবার ঘরের খাটের নিচে ছিল থানা থেকে লুট হওয়া গুলি, যুবক আটক",
+      "url": "https://www.prothomalo.com/bangladesh/district/tq98k75xed",
+      "published_at": "2026-01-16T08:59:58.353000+00:00",
+      "summary": "আটক যুবকের নাম মো. রিফাত (৩২)। তিনি ওই এলাকার মো. সিদ্দিকের ছেলে। পুলিশ জানায়, রিফাতের নামে লোহাগাড়া থানায় বিভিন্ন অপরাধে ১৪টি মামলা রয়েছে। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-16/q7sl9gfm/12d24c8c-75b1-46b4-838f-e9aed863541e.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/q7sl9gfm/12d24c8c-75b1-46b4-838f-e9aed863541e.jfif?auto=format,compress"
+    },
+    {
+      "headline": "ইউরোপের শীর্ষ পাঁচ লিগে যে ক্লাব থেকে আসে সবচেয়ে বেশি খেলোয়াড়",
+      "url": "https://www.prothomalo.com/sports/football/hxzc15dny7",
+      "published_at": "2026-01-16T08:52:53.606000+00:00",
+      "summary": "অনেক ক্লাব পারফরম্যান্সের দিক থেকে ওপরে থাকলেও খেলোয়াড় তৈরিতে অতটা ভালো নয়। অন্যদের তৈরি করা খেলোয়াড়দের কিনে এনেই তারা সাফল্য লাভ করে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-15/6318gioa/prothomalo-bangla2025-08-04ylycopvyWhatsApp-Image-2025-08-04-at-8.42.32-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/6318gioa/prothomalo-bangla2025-08-04ylycopvyWhatsApp-Image-2025-08-04-at-8.42.32-PM.jpeg?auto=format,compress"
     },
     {
       "headline": "অন্তর্বর্তী সরকার কেন ‘হ্যাঁ’ ভোটের জয় চায়",
@@ -18,7 +66,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/ngxf40oc/16012026-cm-5.jpg?auto=format,compress"
     },
     {
-      "headline": "পাল্টা শুল্কের অস্থিরতাও দমাতে পারেনি,\n১ ট্রিলিয়ন ডলারের বাণিজ্য উদ্বৃত্ত চীনের",
+      "headline": "ট্রাম্পের পাল্টা শুল্ক উপেক্ষা করে ১ ট্রিলিয়ন ডলার ছাড়াল চীনের বাণিজ্য উদ্বৃত্ত",
       "url": "https://www.prothomalo.com/business/world-business/5ekq2uoeel",
       "published_at": "2026-01-16T08:47:10.156000+00:00",
       "summary": null,
@@ -98,7 +146,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-11/lfujyj7h/Minneapolis.jpg?auto=format,compress"
     },
     {
-      "headline": "ঘর পুড়িয়ে দিলে ভোটকেন্দ্রে যাব কেন: জাতীয় হিন্দু মহাজোট",
+      "headline": "নির্যাতনের মাত্রা অতীতের যেকোনো রেকর্ড অতিক্রম করেছে : হিন্দু মহাজোট ",
       "url": "https://www.prothomalo.com/bangladesh/lghfskb3jq",
       "published_at": "2026-01-16T07:39:01.545000+00:00",
       "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের আগে হিন্দু সম্প্রদায়ের ওপর হুমকি, নির্যাতন ও সম্পদ লুটের ঘটনা বেড়েছে। নিরাপত্তা নিশ্চিতে সাত দফা প্রস্তাব দিয়েছে বাংলাদেশ জাতীয় হিন্দু মহাজোট।",
@@ -274,44 +322,18 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/lpjp1p4f/Masukart15012026-Color.jpg?auto=format,compress"
     },
     {
-      "headline": "ইসলামে শিক্ষকের মর্যাদা",
-      "url": "https://www.prothomalo.com/opinion/column/awu54nyhki",
-      "published_at": "2026-01-16T05:45:37.177000+00:00",
-      "summary": "শিক্ষা আদান-প্রদান একটি ইবাদত। রাসুলুল্লাহ (সা.) বলেছেন, ‘জ্ঞান অন্বেষণ করা প্রত্যেক মুসলিম নর-নারীর জন্য ফরজ।’ (ইবনে মাজাহ: ২২৪, বায়হাকি: ১৬৬৭, সহিহ্ আলবানি)",
-      "image_s3_key": "prothomalo-bangla/2020-10/4e81edeb-bb5b-43e6-a880-0c625b6772bd/Shikkhok.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-10/4e81edeb-bb5b-43e6-a880-0c625b6772bd/Shikkhok.png?auto=format,compress"
+      "headline": "নোবেল পদক দিয়েও ট্রাম্পের মন পেলেন না মাচাদো",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205368",
+      "published_at": "2026-01-16T15:16:46+06:00",
+      "summary": "ভেনেজুয়েলার বিরোধী নেতা মারিয়া কোরিনা মাচাদো বৃহস্পতিবার হোয়াইট হাউসে প্রবেশ করেছিলেন এমন একটি উপহার নিয়ে যা ছিল মার্কিন প্রেসিডেন্ট ট্রাম্পের দীর্ঘদিনের আকাঙ্ক্ষা। অর্থাৎ নোবেল শান্তি পুরস্কার। গণতন্ত্র জোরদারের ক্যাম্পেইনের জন্য গত বছর পাওয়া সেই পদকটি তিনি ট্রাম্পকে উপহার দেন। তবে এই প্রতীকী উপহারও ট্রাম্পের রাজনৈতিক সমর্থন আদায়ে কার্যকর হয়নি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768554999-00b35bd28042b026ba426b0390f65ab1.jpg"
     },
     {
-      "headline": "ইরানকে একবার ‘সুযোগ দিতে’ ট্রাম্পকে রাজি করিয়েছে সৌদি, কাতার ও ওমান",
-      "url": "https://www.prothomalo.com/world/middle-east/2chm9bcdvl",
-      "published_at": "2026-01-16T05:39:13.133000+00:00",
-      "summary": "সৌদি আরবের একজন ঊর্ধ্বতন কর্মকর্তা গতকাল বৃহস্পতিবার বার্তা সংস্থা এএফপিকে দেওয়া এক সাক্ষাৎকারে এই তথ্য জানিয়েছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-15/3bpna083/Trump-says.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/3bpna083/Trump-says.avif?auto=format,compress"
-    },
-    {
-      "headline": "চুয়েটে স্নাতক প্রথম বর্ষে ভর্তি পরীক্ষা কাল, প্রতি আসনে পরীক্ষার্থী ১৫ জন",
-      "url": "https://www.prothomalo.com/education/examination/65tw8m8vz9",
-      "published_at": "2026-01-16T05:35:42.914000+00:00",
-      "summary": "পরীক্ষার প্রস্তুতির ব্যাপারে চুয়েটের ভর্তি পরীক্ষা কমিটির সভাপতি অধ্যাপক কাজী দেলোয়ার হোসাইন প্রথম আলোকে বলেন, আমাদের প্রস্তুতি ভালো।",
-      "image_s3_key": "prothomalo-bangla/2022-07/bf5b0dfc-c5f7-4e5a-a998-1fee9fe5d8de/Rajshahi_DH0670_20220725_20220725_111510.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-07/bf5b0dfc-c5f7-4e5a-a998-1fee9fe5d8de/Rajshahi_DH0670_20220725_20220725_111510.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ধানুশ আর ম্রুণাল ঠাকুর কি বিয়ে করছেন",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/qtu615036w",
-      "published_at": "2026-01-16T05:31:47.338000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-16/8imaflwz/deccanherald2025-08-05dv1cftg7Dhanush-and-Mrunal-Thakur.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/8imaflwz/deccanherald2025-08-05dv1cftg7Dhanush-and-Mrunal-Thakur.avif?auto=format,compress"
-    },
-    {
-      "headline": "ব্যবহারকারীদের অজান্তেই নিয়মিত তথ্য পাচার করে স্মার্টফোন, কেন",
-      "url": "https://www.prothomalo.com/technology/cyberworld/v06cp5mmje",
-      "published_at": "2026-01-16T05:30:00+00:00",
-      "summary": "রাতে ঘুমানোর সময় বা দীর্ঘ সময় স্মার্টফোন ব্যবহার না করলে অনেকেই মনে করেন, স্মার্টফোন নিষ্ক্রিয় অবস্থায় থাকে। বাস্তবে তা নয়।",
-      "image_s3_key": "prothomalo-bangla/2026-01-15/chdha2fu/Smartphone.-Reuters1.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/chdha2fu/Smartphone.-Reuters1.png?auto=format,compress"
+      "headline": "খেলোয়াড়দের পক্ষে না দাঁড়ালে সভাপতি থাকার মানে নেই: মিঠুন",
+      "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205364",
+      "published_at": "2026-01-16T14:58:38+06:00",
+      "summary": "বিসিবি পরিচালক এম নাজমুল ইসলামের একটি মন্তব্যকে কেন্দ্র করে গত দুই দিন দেশের ক্রিকেট অঙ্গন ছিল উত্তাল। তার পদত্যাগ দাবি করে ক্রিকেটারদের সব ধরনের খেলা বয়কটের ঘোষণা আসে। স্থগিত হয় বিপিএল। শেষ পর্যন্ত বোর্ড ও ক্রিকেটার্স ওয়েলফেয়ার অ্যাসোসিয়েশন অব বাংলাদেশ কোয়াবের মধ্যে সমঝোতায় পরিস্থিতি কিছুটা স্বাভাবিক হয়।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768553912-1d7555277dc99accc00cda57f83748ca.jpg"
     },
     {
       "headline": "তারেক রহমানের সঙ্গে ট্রাম্প প্রশাসনের বাণিজ্য প্রতিনিধিদলের বৈঠক",
@@ -332,7 +354,7 @@
       "url": "https://www.bd-pratidin.com/current-politics/2026/01/16/1205355",
       "published_at": "2026-01-16T13:52:47+06:00",
       "summary": "বিএনপির সিনিয়র যুগ্ম মহাসচিব রুহুল কবির রিজভী আহমেদ বলেছেন, ‘একজন খালেদা জিয়া ছিলেন বলেই বাংলাদেশের স্বাধীনতা ও সার্বভৌমত্ব সুরক্ষিত ছিল।’",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768549961-88ea62f70be0658d1de3b2ae6c32c773.jpg"
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768554441-88ea62f70be0658d1de3b2ae6c32c773.jpg"
     },
     {
       "headline": "ঢাকা-চট্টগ্রাম মহাসড়কে সড়ক দুর্ঘটনায় যুবকের মৃত্যু",
@@ -370,18 +392,18 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768544301-19ae11dedd4428b53a626f161c4d0797.jpg"
     },
     {
-      "headline": "পাবনা ১ ও ২ আসন : নতুন তফসিলে মনোনয়নপত্র জমার শেষ সময় রবিবার",
-      "url": "https://www.bd-pratidin.com/election/2026/01/16/1205336",
-      "published_at": "2026-01-16T11:48:16+06:00",
-      "summary": "সুপ্রিম কোর্টের আপিল বিভাগের নির্দেশ অনুযায়ী আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে পাবনা-১ ও ২ আসনের নতুন নির্বাচনী তফসিল ঘোষণা করেছে নির্বাচন কমিশন (ইসি)।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768542488-f12045cfcc9327a0ca7138114be20efd.jpg"
+      "headline": "পরিচালক পদ কাড়ার ক্ষমতা নেই বিসিবির",
+      "url": "https://www.ittefaq.com.bd/770568/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%95-%E0%A6%AA%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0",
+      "published_at": null,
+      "summary": "বিসিবির সাম্প্রতিক ইতিহাসে এমন অস্থির সময় খুব কমই দেখা গেছে। পরিচালক এম নাজমুল ইসলামের একের পর এক বিতর্কিত মন্তব্যে উত্তাল হয়ে উঠেছে দেশের ক্রিকেটাঙ্গন। বিষয়টি শুরু হয়েছিল একটি ফেসবুক পোস্ট থেকে, এরপর তা ছড়িয়ে পড়ে বিসিবির অন্দরমহল থেকে মাঠের ক্রিকেট পর্যন্ত। শেষ পর্যন্ত ক্রিকেটারদের আলটিমেটামের মুখে কঠিন সিদ্ধান্ত নিতে বাধ্য হয়েছে বিসিবি। অর্থ কমিটির চেয়ারম্যানের পদ থেকে সরিয়ে দেওয়া হয়েছে এম নাজমুল ইসলামকে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/16/de5204195ff8f1ab54c1f28aea6079d4-696a0061b1266.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
     },
     {
-      "headline": "কালো এলাচে আছে অনেক রকম গুণ",
-      "url": "https://www.bd-pratidin.com/life/2026/01/16/1205335",
-      "published_at": "2026-01-16T11:48:05+06:00",
-      "summary": "সবার রান্নাঘরেই এমন অনেক মসলা খুঁজে পাওয়া যায়, যা স্বাস্থ্য উন্নত করে এবং দেহকে শক্তিশালী করে তোলে। জিরা থেকে দারুচিনি, খাদ্যাভ্যাসে সব মসলা অন্তর্ভুক্ত করলে তা শরীরের জন্য কিছু না কিছু উপকার আনে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768542478-b2c880d4c7e06ec318a2158a534e17f5.jpg"
+      "headline": "বাংলাদেশে নারী ও সংখ্যালঘুদের ওপর সহিংসতা বাড়ছে: এইচআরডব্লিউ",
+      "url": "https://www.ittefaq.com.bd/770567/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%93-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87",
+      "published_at": null,
+      "summary": "বাংলাদেশে ২০২৪ সালের ‘বর্ষা বিপ্লব’ পরবর্তী সময়ে নারী, শিশু ও ধর্মীয় সংখ্যালঘুদের ওপর হামলার ঘটনা আশঙ্কাজনকভাবে বৃদ্ধি পেয়েছে বলে জানিয়েছে আন্তর্জাতিক মানবাধিকার সংস্থা হিউম্যান রাইটস ওয়াচ (এইচআরডব্লিউ)।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/9692f55a28cbfc54f41a127355cce976-6969fc74a44c6.jpg"
     },
     {
       "headline": "ঘন কুয়াশা থেকে ফসল বাঁচাতে ‘পলিথিন থেরাপি’",
@@ -440,20 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/f4af8807f36b369fd7f356fd156c4ebe-6969efb21754f.jpg"
     },
     {
-      "headline": "নোবেল পদকের বিনিময়ে মাচাদোকে ব্যাগ উপহার দিলেন ট্রাম্প",
-      "url": "https://www.ittefaq.com.bd/770558/%E0%A6%A8%E0%A7%8B%E0%A6%AC%E0%A7%87%E0%A6%B2-%E0%A6%AA%E0%A6%A6%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97-%E0%A6%89%E0%A6%AA%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8",
-      "published_at": null,
-      "summary": "ভেনেজুয়েলার প্রভাবশালী বিরোধী নেত্রী মারিয়া কোরিনা মাচাদো বৃহস্পতিবার (১৫ জানুয়ারি) হোয়াইট হাউসে প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের সঙ্গে এক নজিরবিহীন সাক্ষাৎকারে মিলিত হন। এই বৈঠকে তিনি নিজের অর্জিত নোবেল শান্তি পুরস্কারের পদকটি ট্রাম্পকে উপহার হিসেবে দিলেও বিনিময়ে কেবল ট্রাম্পের স্বাক্ষর সংবলিত একটি উপহারব্যাগ নিয়েই সন্তুষ্ট থাকতে হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/6f230c69c63d879217c8d0730f221f11-6969ee66c30f7.jpg"
-    },
-    {
-      "headline": "কোর্টের ওপর পাখির বিষ্ঠা, ভারতে আন্তর্জাতিক টেনিস টুর্নামেন্টের খেলা বন্ধ",
-      "url": "https://www.ittefaq.com.bd/770557/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%96%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87",
-      "published_at": null,
-      "summary": "ছাদ থেকে পাখির বিষ্ঠা পড়ে ভারতের টেনিস তারকা এইচএস প্রণয় ও সিঙ্গাপুরের সাবেক বিশ্বচ্যাম্পিয়ন লো কিয়ান ইউয়ের মধ্যকার ম্যাচটি দুইবার থেমে যায়। প্রথম বিরতি ঘটে প্রথম গেমের শেষ দিকে এবং দ্বিতীয়টি তৃতীয় গেমের শুরুতে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/16/2143c25a9f4e607ed1f57a97e1a609fa-6969ee5d90a63.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-    },
-    {
       "headline": "ট্রাম্পের কর্মকাণ্ড মরণ কামড়",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/VekoOFBK7IVh/",
       "published_at": null,
@@ -473,6 +481,20 @@
       "published_at": null,
       "summary": "ইরানে চলমান আন্দোলন শাসনব্যবস্থার জন্য একটি বড় সতর্ক সঙ্কেত। তবে বর্তমান বাস্তবতায় তাৎক্ষণিক শাসন পরিবর্তনের সম্ভাবনা সীমিত। কারণ শক্ত নিরাপত্তা কাঠামো, নেতৃত্বের অভাব, সামাজিক বিভাজন এবং বিদেশী হস্তক্ষেপের ঝুঁকি আন্দোলনকে পূর্ণাঙ্গ বিপ্লবে রূপ নিতে বাধা দিচ্ছে। একই সাথে যুক্তরাষ্ট্র ও ইরানের পাল্টাপাল্টি হুঁশিয়ারি মধ্যপ্রাচ্যকে একটি বিপজ্জনক মোড়ে দাঁড় করিয়েছে। একটি ভুল হিসাব পুরো অঞ্চলকে নতুন সঙ্ঘাতের দিকে ঠেলে দিতে পারে, যার প্রভাব পড়বে বৈশ্বিক অর্থনীতি ও নিরাপত্তায়।এই বাস্তবতায় ক‚টনৈতিক সংযমই একমাত্র টেকসই পথ। নচেৎ ইরান সঙ্কট শুধু একটি দেশের অভ্যন্তরীণ প্রশ্নে সীমাবদ্ধ থাকবে না; গোটা মধ্যপ্রাচ্যের স্থিতিশীলতার জন্য কঠিন পরীক্ষায় পরিণত হবে",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "রাবি ভর্তি পরীক্ষায় মোবাইলসহ আটক এক ভর্তিচ্ছু",
+      "url": "https://dailynayadiganta.com/bangladesh/education-campus/YhLXJEr3bHyY/",
+      "published_at": null,
+      "summary": "এই শিক্ষার্থী মোবাইল ফোন ব্যবহার করে চারটা ছবি তোলেন। তারপর ‘ডিপসিক’ নামক এআই অ্যাপ ব্যবহার করে উত্তর খুঁজে লেখার চেষ্টা করেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Rabi-u.jpg"
+    },
+    {
+      "headline": "ঘিওরে চাষিদের পিঠা উৎসব, গ্রামবাংলার ঐতিহ্যে মিলনমেলা",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/11Qpeulc9xgN/",
+      "published_at": null,
+      "summary": "মাঘের শুরুর প্রান্তে শীতের কোমল রোদ আর গ্রামীণ পরিবেশে সাইংজুরী মাঠে কৃষক স্কুল সমবায় সমিতির উদ্যোগে অনুষ্ঠিত এই পিঠা উৎসব গ্রামবাংলার ঐতিহ্যকে নতুন করে প্রাণবন্ত করে তোলে।",
+      "image_url": "https://media.ndiganta.com/original_images/Ghior_QCMquG6.jpg"
     },
     {
       "headline": "যথাসময়ে দেশে নির্বাচন অনুষ্ঠিত হবে, নির্বাচন নিয়ে শঙ্কা নেই",
@@ -517,6 +539,88 @@
       "image_url": "https://media.ndiganta.com/original_images/UTTARA-FIRE-2.jpg"
     },
     {
+      "headline": "আজকের সর্বশেষ খবর - January 16, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "বিএনপির সিনিয়র যুগ্ম মহাসচিব রুহুল কবির রিজভী আহমেদ বলেছেন, একজন খালেদা জিয়া ছিলেন বলেই বাংলাদেশের স্বাধীনতা ও সার্বভৌমত্ব সুরক্ষিত ছিল। ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ইসলামে শিক্ষকের মর্যাদা",
+      "url": "https://www.prothomalo.com/opinion/column/awu54nyhki",
+      "published_at": "2026-01-16T05:45:37.177000+00:00",
+      "summary": "শিক্ষা আদান-প্রদান একটি ইবাদত। রাসুলুল্লাহ (সা.) বলেছেন, ‘জ্ঞান অন্বেষণ করা প্রত্যেক মুসলিম নর-নারীর জন্য ফরজ।’ (ইবনে মাজাহ: ২২৪, বায়হাকি: ১৬৬৭, সহিহ্ আলবানি)",
+      "image_s3_key": "prothomalo-bangla/2020-10/4e81edeb-bb5b-43e6-a880-0c625b6772bd/Shikkhok.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-10/4e81edeb-bb5b-43e6-a880-0c625b6772bd/Shikkhok.png?auto=format,compress"
+    },
+    {
+      "headline": "ইরানকে একবার ‘সুযোগ দিতে’ ট্রাম্পকে রাজি করিয়েছে সৌদি, কাতার ও ওমান",
+      "url": "https://www.prothomalo.com/world/middle-east/2chm9bcdvl",
+      "published_at": "2026-01-16T05:39:13.133000+00:00",
+      "summary": "সৌদি আরবের একজন ঊর্ধ্বতন কর্মকর্তা গতকাল বৃহস্পতিবার বার্তা সংস্থা এএফপিকে দেওয়া এক সাক্ষাৎকারে এই তথ্য জানিয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-15/3bpna083/Trump-says.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/3bpna083/Trump-says.avif?auto=format,compress"
+    },
+    {
+      "headline": "চুয়েটে স্নাতক প্রথম বর্ষে ভর্তি পরীক্ষা কাল, প্রতি আসনে পরীক্ষার্থী ১৫ জন",
+      "url": "https://www.prothomalo.com/education/examination/65tw8m8vz9",
+      "published_at": "2026-01-16T05:35:42.914000+00:00",
+      "summary": "পরীক্ষার প্রস্তুতির ব্যাপারে চুয়েটের ভর্তি পরীক্ষা কমিটির সভাপতি অধ্যাপক কাজী দেলোয়ার হোসাইন প্রথম আলোকে বলেন, আমাদের প্রস্তুতি ভালো।",
+      "image_s3_key": "prothomalo-bangla/2022-07/bf5b0dfc-c5f7-4e5a-a998-1fee9fe5d8de/Rajshahi_DH0670_20220725_20220725_111510.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-07/bf5b0dfc-c5f7-4e5a-a998-1fee9fe5d8de/Rajshahi_DH0670_20220725_20220725_111510.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ধানুশ আর ম্রুণাল ঠাকুর কি বিয়ে করছেন",
+      "url": "https://www.prothomalo.com/entertainment/bollywood/qtu615036w",
+      "published_at": "2026-01-16T05:31:47.338000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-16/8imaflwz/deccanherald2025-08-05dv1cftg7Dhanush-and-Mrunal-Thakur.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/8imaflwz/deccanherald2025-08-05dv1cftg7Dhanush-and-Mrunal-Thakur.avif?auto=format,compress"
+    },
+    {
+      "headline": "ব্যবহারকারীদের অজান্তেই নিয়মিত তথ্য পাচার করে স্মার্টফোন, কেন",
+      "url": "https://www.prothomalo.com/technology/cyberworld/v06cp5mmje",
+      "published_at": "2026-01-16T05:30:00+00:00",
+      "summary": "রাতে ঘুমানোর সময় বা দীর্ঘ সময় স্মার্টফোন ব্যবহার না করলে অনেকেই মনে করেন, স্মার্টফোন নিষ্ক্রিয় অবস্থায় থাকে। বাস্তবে তা নয়।",
+      "image_s3_key": "prothomalo-bangla/2026-01-15/chdha2fu/Smartphone.-Reuters1.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/chdha2fu/Smartphone.-Reuters1.png?auto=format,compress"
+    },
+    {
+      "headline": "পাবনা ১ ও ২ আসন : নতুন তফসিলে মনোনয়নপত্র জমার শেষ সময় রবিবার",
+      "url": "https://www.bd-pratidin.com/election/2026/01/16/1205336",
+      "published_at": "2026-01-16T11:48:16+06:00",
+      "summary": "সুপ্রিম কোর্টের আপিল বিভাগের নির্দেশ অনুযায়ী আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে পাবনা-১ ও ২ আসনের নতুন নির্বাচনী তফসিল ঘোষণা করেছে নির্বাচন কমিশন (ইসি)।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768542488-f12045cfcc9327a0ca7138114be20efd.jpg"
+    },
+    {
+      "headline": "কালো এলাচে আছে অনেক রকম গুণ",
+      "url": "https://www.bd-pratidin.com/life/2026/01/16/1205335",
+      "published_at": "2026-01-16T11:48:05+06:00",
+      "summary": "সবার রান্নাঘরেই এমন অনেক মসলা খুঁজে পাওয়া যায়, যা স্বাস্থ্য উন্নত করে এবং দেহকে শক্তিশালী করে তোলে। জিরা থেকে দারুচিনি, খাদ্যাভ্যাসে সব মসলা অন্তর্ভুক্ত করলে তা শরীরের জন্য কিছু না কিছু উপকার আনে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768542478-b2c880d4c7e06ec318a2158a534e17f5.jpg"
+    },
+    {
+      "headline": "নোবেল পদকের বিনিময়ে মাচাদোকে ব্যাগ উপহার দিলেন ট্রাম্প",
+      "url": "https://www.ittefaq.com.bd/770558/%E0%A6%A8%E0%A7%8B%E0%A6%AC%E0%A7%87%E0%A6%B2-%E0%A6%AA%E0%A6%A6%E0%A6%95-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97-%E0%A6%89%E0%A6%AA%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8",
+      "published_at": null,
+      "summary": "ভেনেজুয়েলার প্রভাবশালী বিরোধী নেত্রী মারিয়া কোরিনা মাচাদো বৃহস্পতিবার (১৫ জানুয়ারি) হোয়াইট হাউসে প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের সঙ্গে এক নজিরবিহীন সাক্ষাৎকারে মিলিত হন। এই বৈঠকে তিনি নিজের অর্জিত নোবেল শান্তি পুরস্কারের পদকটি ট্রাম্পকে উপহার হিসেবে দিলেও বিনিময়ে কেবল ট্রাম্পের স্বাক্ষর সংবলিত একটি উপহারব্যাগ নিয়েই সন্তুষ্ট থাকতে হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/6f230c69c63d879217c8d0730f221f11-6969ee66c30f7.jpg"
+    },
+    {
+      "headline": "কোর্টের ওপর পাখির বিষ্ঠা, ভারতে আন্তর্জাতিক টেনিস টুর্নামেন্টের খেলা বন্ধ",
+      "url": "https://www.ittefaq.com.bd/770557/%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%96%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87",
+      "published_at": null,
+      "summary": "ছাদ থেকে পাখির বিষ্ঠা পড়ে ভারতের টেনিস তারকা এইচএস প্রণয় ও সিঙ্গাপুরের সাবেক বিশ্বচ্যাম্পিয়ন লো কিয়ান ইউয়ের মধ্যকার ম্যাচটি দুইবার থেমে যায়। প্রথম বিরতি ঘটে প্রথম গেমের শেষ দিকে এবং দ্বিতীয়টি তৃতীয় গেমের শুরুতে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/16/2143c25a9f4e607ed1f57a97e1a609fa-6969ee5d90a63.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
+    },
+    {
       "headline": "খালেদা জিয়া ছিলেন বলেই সার্বভৌমত্ব সুরক্ষিত ছিল : রিজভী",
       "url": "https://dailynayadiganta.com/bangladesh/politics/fK6uaPUcwnFi/",
       "published_at": null,
@@ -529,20 +633,6 @@
       "published_at": null,
       "summary": "বিএনপির চেয়ারম্যান তারেক রহমান যুক্তরাষ্ট্রের বাণিজ্য প্রতিনিধি জেমিসন গ্রিয়ারের নেতৃত্বে একটি প্রতিনিধিদলের সাথে ভার্চুয়াল বৈঠকে অংশ নিয়ে দ্বিপক্ষীয় বাণিজ্য, শুল্কহার ও ভবিষ্যৎ অর্থনৈতিক সহযোগিতা নিয়ে আলোচনা করেছেন।",
       "image_url": "https://media.ndiganta.com/original_images/Tarique-Rahman_inWbvKy.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - January 16, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "মাধ্যমিক স্কুল সার্টিফিকেট (এসএসসি) পরীক্ষার ফরম পূরণের সময় বাড়িয়েছে ঢাকা মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড। ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "রাজধানীর উত্তরায় বাড়িতে আগুন, নিহতের সংখ্যা বেড়ে ৬",
@@ -1402,97 +1492,6 @@
       "summary": null,
       "image_s3_key": "prothomalo-bangla/2026-01-15/4upv6sqj/THUMNAILWEB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/4upv6sqj/THUMNAILWEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "১১ দলের নির্বাচনী ঐক্যকে ‘ঐতিহাসিক যাত্রা’ বললেন নাহিদ ইসলাম",
-      "url": "https://www.prothomalo.com/politics/r0tgbxwcy2",
-      "published_at": "2026-01-15T18:45:42.116000+00:00",
-      "summary": "নাহিদ ইসলাম বলেন, ‘সারা বাংলাদেশের সব আসনে আমাদের কোনো দলের প্রার্থী থাকবে না। আজকের ঘোষণার পর থেকে নির্বাচনী ঐক্যের প্রার্থী হিসেবেই তাঁরা বিবেচিত হবেন।’",
-      "image_s3_key": "prothomalo-bangla/2026-01-15/ibooqkej/Nahid-Jamat-Jote.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/ibooqkej/Nahid-Jamat-Jote.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "ভোটের হিসাব নিয়ে তোমরা ঘরে ফিরবা: তরুণ-যুবকদের উদ্দেশে জামায়াত আমির",
-      "url": "https://www.prothomalo.com/politics/2obosn8ltr",
-      "published_at": "2026-01-15T18:21:34.541000+00:00",
-      "summary": "‘অতীতের মতো কোনো নির্বাচনী ইঞ্জিনিয়ারিং আমরা দেখতে চাই না। এটা আমরা একেবারেই বরদাশত করব না, ইনশা–আল্লাহ,’ বলেছেন তিনি।",
-      "image_s3_key": "prothomalo-bangla/2026-01-15/uyd8ukxc/Jamat-Vote-04.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/uyd8ukxc/Jamat-Vote-04.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "প্রধান উপদেষ্টার সঙ্গে সাক্ষাৎ করলেন তারেক রহমান",
-      "url": "https://www.prothomalo.com/politics/tkyfzdozj2",
-      "published_at": "2026-01-15T18:07:18.646000+00:00",
-      "summary": "বিএনপির চেয়ারম্যান হিসেবে গতকালই প্রথম তারেক রহমান অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূসের সঙ্গে বৈঠক করেন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-15/kof1h5de/Tarek-Younus-01.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/kof1h5de/Tarek-Younus-01.jpg?auto=format,compress"
-    },
-    {
-      "headline": "স্রোতের বিপরীতে দাঁড়ানো সংগ্রামীদের উদীচীর স্মরণ",
-      "url": "https://www.prothomalo.com/bangladesh/capital/aonaan6jlq",
-      "published_at": "2026-01-15T18:01:43.506000+00:00",
-      "summary": "আলোচনা, স্মৃতিচারণা, গান ও আবৃত্তি দিয়ে সাজানো অনুষ্ঠানে এই দুই গুণীর জন্মদিন উদ্‌যাপন করেছে উদীচী।  ",
-      "image_s3_key": "prothomalo-bangla/2026-01-15/myjx5gn4/WhatsApp-Image-2026-01-15-at-11.47.49-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/myjx5gn4/WhatsApp-Image-2026-01-15-at-11.47.49-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "নভোচারীর অসুস্থতার কারণে প্রথমবারের মতো আগেই মহাকাশ মিশন শেষ করল নাসা",
-      "url": "https://www.prothomalo.com/world/usa/dajne044jx",
-      "published_at": "2026-01-15T18:00:19.679000+00:00",
-      "summary": "নভোচারীদের নিয়ে স্পেসএক্সের ক্যাপসুলটি বুধবার দিবাগত রাত পৌনে একটার দিকে যুক্তরাষ্ট্রের ক্যালিফোর্নিয়া অঙ্গরাজ্যের সান দিয়েগো উপকূলবর্তী প্রশান্ত মহাসাগরে নিরাপদে অবতরণ করে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-15/7ar9ruzy/00-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/7ar9ruzy/00-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আজ মুক্তি পাচ্ছে দুই সিনেমা, কোনটিতে কী আছে",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/gni82tg5as",
-      "published_at": "2026-01-15T18:00:00+00:00",
-      "summary": "আজ স্টার সিনেপ্লেক্সে মুক্তি পাচ্ছে ‘এখানে রাজনৈতিক আলাপ জরুরি’ ও ‘সুলতানা’স ড্রিম’। প্রথমটি ঢাকার ছবি, পরেরটি রোকেয়ার ফ্যান্টাসি অবলম্বনে স্প্যানিশ সিনেমা।",
-      "image_s3_key": "prothomalo-bangla/2026-01-15/z51kitxu/82ffc4f2-29dd-4fcc-92ab-2087a12ed1de.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/z51kitxu/82ffc4f2-29dd-4fcc-92ab-2087a12ed1de.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রাতের বৈঠকে সমঝোতা, শুক্রবার থেকেই আবার বিপিএল",
-      "url": "https://www.prothomalo.com/sports/cricket/b23uek13pj",
-      "published_at": "2026-01-15T17:43:55.110000+00:00",
-      "summary": "স্থগিত হওয়া দুটি ম্যাচ শুক্রবার অনুষ্ঠিত হবে বলে জানিয়েছেন বিপিএল গভর্নিং কাউন্সিলের সদস্যসচিব ইফতেখার রহমান।",
-      "image_s3_key": "prothomalo-bangla/2024-02/0aa8ef81-5de3-45c5-ba3a-6291ada67ec3/Mirpur_Shere_Bangla_Stadium__3_.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-02/0aa8ef81-5de3-45c5-ba3a-6291ada67ec3/Mirpur_Shere_Bangla_Stadium__3_.jpg?auto=format,compress"
-    },
-    {
-      "headline": "কোপা দেল রে : তরেস-ইয়ামালের গোলে শেষ আটে বার্সা",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/16/1205299",
-      "published_at": "2026-01-16T09:24:27+06:00",
-      "summary": "রেসিং সান্তান্দেরকে হারিয়ে কোপা দেল রের কোয়ার্টার-ফাইনালে উঠল হান্সি ফ্লিকের দল। দ্বিতীয় স্তরের দল রেসিংয়ের মাঠে বৃহস্পতিবার (১৫ জানুয়ারি) রাতে শেষ ষোলোয় ২-০ গোলে জিতেছে শিরোপাধারীরা।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768533860-2d40d41a16c1f3ab0afac882725cf8c7.jpg"
-    },
-    {
-      "headline": "শুক্রবার বন্ধ রাজধানীর যেসব মার্কেটসহ দর্শনীয় স্থান",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205298",
-      "published_at": "2026-01-16T09:13:02+06:00",
-      "summary": "প্রতিদিনের নানা প্রয়োজনে আমাদের মার্কেটে যেতেই হয়। তবে রাজধানী ঢাকা শহরে সপ্তাহের ভিন্ন ভিন্ন দিনে ভিন্ন ভিন্ন এলাকার মার্কেট ও দোকানপাট বন্ধ থাকে। কিন্তু তীব্র যানজট পেরিয়ে গিয়ে যদি দেখতে পায় সব দোকানপাট বন্ধ, তাহলে বিফলে যাবে সব।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768533173-619a92c038002baa7132182b44671754.jpg"
-    },
-    {
-      "headline": "কেমন থাকবে আজ ঢাকার তাপমাত্রা",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205293",
-      "published_at": "2026-01-16T09:00:47+06:00",
-      "summary": "রাজধানী ঢাকা ও আশপাশের এলাকায় আজ শুক্রবার দুপুর পর্যন্ত তাপমাত্রা কেমন থাকবে, তা জানিয়েছে আবহাওয়া অধিদপ্তর।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768532442-c1eb083c0cefba520c124326a6df032c.jpg"
-    },
-    {
-      "headline": "বিশ্ব আরো বিপজ্জনক হয়ে উঠছে: পুতিন",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205291",
-      "published_at": "2026-01-16T08:54:24+06:00",
-      "summary": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন বলেছেন, আন্তর্জাতিক পরিস্থিতির অবনতি ঘটেছে এবং বিশ্ব আরো বিপজ্জনক হয়ে উঠছে। বৃহস্পতিবার এমন মন্তব্য করেন তিনি। তবে ভেনেজুয়েলা ও ইরানের পরিস্থিতি নিয়ে কিছু বলেননি তিনি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768532058-67e633b9a98cf4347d4fd095e8872859.jpg"
-    },
-    {
-      "headline": "রাজধানী ঢাকায় আজ কোথায় কোন কর্মসূচি",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/16/1205290",
-      "published_at": "2026-01-16T08:53:36+06:00",
-      "summary": "রাজধানীসহ সারাদেশে প্রতিদিন নানা কর্মসূচি পালন করে সরকারের বিভিন্ন দফতর, সংস্থা, বিভিন্ন রাজনৈতিক দল ও অনেক সংগঠন। বিভিন্ন কর্মসূচির কারণে স্থবির হয়ে পড়ে নানা সড়ক।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768532009-19bdc43ae2ac0e89e5b4bbbcf38781ed.jpg"
     }
   ]
 }
