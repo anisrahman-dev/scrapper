@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-01-18T22:47:39.484785+00:00",
+  "fetched_at": "2026-01-18T23:20:51.375058+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "গাজা পরিচালনা নিয়ে যুক্তরাষ্ট্র সমর্থিত ফিলিস্তিনি কমিটির পরিকল্পনা প্রকাশ",
+        "url": "https://www.prothomalo.com/bangladesh/759zsnroi5",
+        "published_at": "2026-01-18T23:00:31.304000+00:00",
+        "summary": "গাজা নিয়ে ট্রাম্পের ২০ দফার শান্তি পরিকল্পনার অংশ হিসেবে এনজিএসি গঠিত হয়েছে এবং জাতিসংঘ নিরাপত্তা পরিষদের ২৮০৩ নম্বর প্রস্তাবের আওতায় এটি অনুমোদন পেয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-18/0t5cr18k/Gaza-Committee.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/0t5cr18k/Gaza-Committee.jpg?auto=format,compress"
+      },
       {
         "headline": "ইরানে বিক্ষোভ ঘিরে নিহত বেড়ে ৫ হাজার ",
         "url": "https://www.prothomalo.com/world/middle-east/j331chniyo",
         "published_at": "2026-01-18T22:39:47.436000+00:00",
         "summary": "ইরানি কর্মকর্তার দেওয়া তথ্যের আগে যুক্তরাষ্ট্রভিত্তিক মানবাধিকার সংস্থা এইচআরএএনএ ইরানে বিক্ষোভ ঘিরে নিহতদের সর্বশেষ হালনাগাদ তথ্য দিয়েছিল। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-18/plt3sa5j/car-burns.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/plt3sa5j/car-burns.png?auto=format,compress"
+        "image_s3_key": "prothomalo-bangla/2026-01-18/sdrpbsyy/car-burns.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/sdrpbsyy/car-burns.jpg?auto=format,compress"
       },
       {
         "headline": "চোরাই পণ্য ক্রয়-বিক্রয়ে ইসলামের বিধান",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/807n5na7/DU-Women-01.jpeg?auto=format,compress"
       },
       {
-        "headline": "ট্রেনের ধাক্কায় ডোবায় পড়া হাতিটি উদ্ধার, চিকিৎসা চলছে",
-        "url": "https://www.prothomalo.com/video/bangladesh/g4678thd64",
-        "published_at": "2026-01-18T15:47:51.895000+00:00",
-        "summary": "ট্রেনের ধাক্কায় ডোবায় পড়া হাতিটি উদ্ধার, চিকিৎসা চলছে",
-        "image_s3_key": "prothomalo-bangla/2026-01-18/gq7zm5hs/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/gq7zm5hs/WEB.jpg?auto=format,compress"
-      },
-      {
         "headline": "রাজধানীতে যুবকের রহস্যজনক মৃত্যু",
         "url": "https://www.bd-pratidin.com/city-news/2026/01/19/1206463",
         "published_at": "2026-01-19T01:07:13+06:00",
@@ -393,6 +393,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768752437-6412886cf59bdf6f290f1e220d343b34.jpg"
       },
       {
+        "headline": "আমদানি বন্ধের সুযোগে বাজারে সংকট তৈরি করে মূল্যবৃদ্ধি",
+        "url": "https://www.ittefaq.com.bd/770898/%E0%A6%86%E0%A6%AE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87",
+        "published_at": null,
+        "summary": "চালের বাজার নিয়ে নৈরাজ্য চলছে। চাহিদার ঘাটতি না থাকলেও হঠাত্ করে পাইকারি ও খুচরা বাজারে চালের দাম বেড়ে গেছে। বিক্রেতারা জানান, চিনিগুঁড়া চাল বস্তাপ্রতি প্রায় ১ হাজার ৪০০ টাকা ও অন্যান্য চিকন জাতের চাল বস্তাপ্রতি ৩০০-৪০০ টাকা বেড়ে গেছে। গত দুই মাস যাবত্ চাল আমদানি বন্ধ। করপোরেট হাউজ, মিল মালিক ও মধ্যস্বত্বভোগীরা চালের মজুত করে দাম বাড়িয়ে দিয়েছে বলে পাইকারি বিক্রেতাদের অভিযোগ। সম্প্রতি আমন ধান উঠেছে এবং বোরো চাষের আবাদ শুরু হয়েছে। দেশে চালের কোনো সংকট নেই। এমতাবস্থায় চালের মূল্যবৃদ্ধির কারণ মিলছে না।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/01/12/b9b574903ad7c29518795ee6d400750c-6783389fc3599.jpeg"
+      },
+      {
         "headline": "চলতি মৌসুমে বিশ্বব্যাপী শস্যের মজুত বৃদ্ধির পূর্বাভাস",
         "url": "https://www.ittefaq.com.bd/770900/%E0%A6%9A%E0%A6%B2%E0%A6%A4%E0%A6%BF-%E0%A6%AE%E0%A7%8C%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%80-%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%A4-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%B0",
         "published_at": null,
@@ -454,13 +461,6 @@
         "published_at": null,
         "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনের আচরণবিধি লঙ্ঘনের অভিযোগে জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক নাহিদ ইসলাম ও মুখ্য সমন্বয়ক নাসীরুদ্দীন পাটওয়ারীকে কারণ দর্শানোর নোটিশ (শোকজ) দিয়েছে নির্বাচন কমিশন (ইসি)। তবে সেই শোকজের জবাব দিয়েছে এনসিপি।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/19/418fd17d38993ac75a32c51eccf5b1ba-696d221a6b09f.jpg"
-      },
-      {
-        "headline": "মুফতি আমির হামজার বিরুদ্ধে মামলা",
-        "url": "https://www.ittefaq.com.bd/770886/%E0%A6%AE%E0%A7%81%E0%A6%AB%E0%A6%A4%E0%A6%BF-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-        "published_at": null,
-        "summary": "বাংলাদেশ জামায়াতে ইসলামী মনোনীত সংসদ সদস্য প্রার্থী মুফতি আমির হামজার বিরুদ্ধে মানহানির অভিযোগে কুষ্টিয়া আদালতে একটি ফৌজদারি মামলা দায়ের করা হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/09/21/729ac2cdcd8534c43c580e96d36119d1-68cfeb946f370.jpg"
       },
       {
         "headline": "গণভোট ঘিরে বিভ্রান্তির রাজনীতি",
@@ -557,7 +557,7 @@
         "headline": "আজকের সর্বশেষ খবর - January 19, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "ইরানের চলমান সরকারবিরোধী আন্দোলনে অংশ নেওয়া বহু মানুষ এখন নিজেদের প্রতারিত মনে করছেন। যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের বক্তব্য ও অবস্থান ...",
+        "summary": "নির্বাচনী আচরণবিধি লঙ্ঘনের দায়ে সমর্থককে জরিমানা করার ঘটনায় ক্ষিপ্ত হয়ে নির্বাহী ম্যাজিস্ট্রেটের সঙ্গে অশোভন আচরণ এবং হুমকি প্রদান করায় ব্রাহ্মণবাড়িয়া-২ ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -566,6 +566,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ট্রেনের ধাক্কায় ডোবায় পড়া হাতিটি উদ্ধার, চিকিৎসা চলছে",
+        "url": "https://www.prothomalo.com/video/bangladesh/g4678thd64",
+        "published_at": "2026-01-18T15:47:51.895000+00:00",
+        "summary": "ট্রেনের ধাক্কায় ডোবায় পড়া হাতিটি উদ্ধার, চিকিৎসা চলছে",
+        "image_s3_key": "prothomalo-bangla/2026-01-18/gq7zm5hs/WEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/gq7zm5hs/WEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "মুফতি আমির হামজার বিরুদ্ধে মামলা",
+        "url": "https://www.ittefaq.com.bd/770886/%E0%A6%AE%E0%A7%81%E0%A6%AB%E0%A6%A4%E0%A6%BF-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+        "published_at": null,
+        "summary": "বাংলাদেশ জামায়াতে ইসলামী মনোনীত সংসদ সদস্য প্রার্থী মুফতি আমির হামজার বিরুদ্ধে মানহানির অভিযোগে কুষ্টিয়া আদালতে একটি ফৌজদারি মামলা দায়ের করা হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/09/21/729ac2cdcd8534c43c580e96d36119d1-68cfeb946f370.jpg"
       },
       {
         "headline": "সিলেট ওসমানী হাসপাতালে শিক্ষানবিশ চিকিৎসকের ওপর হামলার ঘটনায় বিএনপির নিন্দা",
@@ -1476,23 +1491,17 @@
         "published_at": "2026-01-18T20:22:25+06:00",
         "summary": "সিলেটে ট্রেনের ধাক্কায় খাদে পড়া হাতিকে ১৮ ঘণ্টা পর উদ্ধার করেছে ফায়ার সার্ভিস।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768746144-83a6523c769df364940f62d696d794b2.PNG"
-      },
-      {
-        "headline": "‘গণভোটে হ্যাঁ জয়ী হলে অভ্যুত্থানের কাঙ্ক্ষিত পরিবর্তনের যাত্রা শুরু হবে’",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/18/1206283",
-        "published_at": "2026-01-18T20:15:28+06:00",
-        "summary": "পরিবেশ, বন ও জলবায়ু পরিবর্তন, পানি সম্পদ মন্ত্রণালয় এবং তথ্য ও সম্প্রচার উপদেষ্টা সৈয়দা রিজওয়ানা হাসান বলেছেন, গণভোটে যদি ‘হ্যাঁ’ জয়ী হয়, তাহলে জুলাই অভ্যুত্থানের যে লক্ষ্য ও পরিবর্তনের স্বপ্ন ছিল, তার আনুষ্ঠানিক বাস্তবায়ন শুরু হবে। একই সঙ্গে জুলাই পরবর্তী সময়ে মানুষের মধ্যে যে পরিবর্তনের আশা তৈরি হয়েছে, সেটির প্রাতিষ্ঠানিক যাত্রাও তখন শুরু হবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768745727-cf42a68c3c4246857a16f8ad18e26fc7.jpg"
-      },
-      {
-        "headline": "সোমবার আবারও ইসির সামনে ছাত্রদলের অবস্থানের ঘোষণা",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/01/18/1206280",
-        "published_at": "2026-01-18T20:07:39+06:00",
-        "summary": "তিন দফা দাবিতে আগামীকাল সোমবার নির্বাচন কমিশন কার্যালয়ের সামনে আবারও কর্মসূচি পালনের ঘোষণা দিয়েছে ছাত্রদল। সোমবার বেলা ১১টা থেকে এই কর্মসূচি পালন করা হবে বলে জানিয়েছেন কেন্দ্রীয় ছাত্রদলের সভাপতি রাকিবুল ইসলাম রাকিব।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768745257-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "গাজা পরিচালনা নিয়ে যুক্তরাষ্ট্র সমর্থিত ফিলিস্তিনি কমিটির পরিকল্পনা প্রকাশ",
+        "url": "https://www.prothomalo.com/bangladesh/759zsnroi5",
+        "published_at": "2026-01-18T23:00:31.304000+00:00",
+        "summary": "গাজা নিয়ে ট্রাম্পের ২০ দফার শান্তি পরিকল্পনার অংশ হিসেবে এনজিএসি গঠিত হয়েছে এবং জাতিসংঘ নিরাপত্তা পরিষদের ২৮০৩ নম্বর প্রস্তাবের আওতায় এটি অনুমোদন পেয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-18/0t5cr18k/Gaza-Committee.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/0t5cr18k/Gaza-Committee.jpg?auto=format,compress"
+      },
       {
         "headline": "আন্দোলনে সামনের কাতারে থাকলেও শ্রমজীবীরা বঞ্চিত থাকেন",
         "url": "https://www.prothomalo.com/bangladesh/ifihojrbhv",
@@ -1804,14 +1813,6 @@
         "summary": "টাঙ্গাইলে সাবেক শাশুড়িকে হত্যার দায়ে এক ব্যক্তিকে যাবজ্জীবন কারাদণ্ডের আদেশ দিয়েছেন আদালত।",
         "image_s3_key": "prothomalo-bangla/2025-10-21/176alour/Untitled-1.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-21/176alour/Untitled-1.jpg?auto=format,compress"
-      },
-      {
-        "headline": "‘কম্বলডা পায়ে খুব ভেলো লেগদেছে’",
-        "url": "https://www.prothomalo.com/bangladesh/district/et1q9tnc72",
-        "published_at": "2026-01-18T12:12:25.907000+00:00",
-        "summary": "সাতক্ষীরা থেকে প্রায় ১০০ কিলোমিটার দূরে এসব গ্রামে গিয়ে আগেই শীতার্ত ও দুস্থ মানুষের তালিকা তৈরি করেন প্রথম আলো বন্ধুসভার সদস্যরা।",
-        "image_s3_key": "prothomalo-bangla/2026-01-18/kp0y4mm5/SatkhiraDH0550.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/kp0y4mm5/SatkhiraDH0550.jpg?auto=format,compress"
       },
       {
         "headline": "রাজধানীতে যুবকের রহস্যজনক মৃত্যু",
@@ -2232,6 +2233,14 @@
         "published_at": "1768749739",
         "summary": "খাগড়াছড়ি জেলার মাটিরাঙ্গা পৌর বিএনপির উদ্যোগে তিনবারের সফল প্রধানমন্ত্রী, সদ্য সাবেক বিএনপির চেয়ারপার্সন মরহুমা বেগম খালেদা জিয়ার রুহের মাগফেরাত কামনায় স্মরণ সভা ও দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/mati-20260118152219.jpg"
+      },
+      {
+        "headline": "‘কম্বলডা পায়ে খুব ভেলো লেগদেছে’",
+        "url": "https://www.prothomalo.com/bangladesh/district/et1q9tnc72",
+        "published_at": "2026-01-18T12:12:25.907000+00:00",
+        "summary": "সাতক্ষীরা থেকে প্রায় ১০০ কিলোমিটার দূরে এসব গ্রামে গিয়ে আগেই শীতার্ত ও দুস্থ মানুষের তালিকা তৈরি করেন প্রথম আলো বন্ধুসভার সদস্যরা।",
+        "image_s3_key": "prothomalo-bangla/2026-01-18/kp0y4mm5/SatkhiraDH0550.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/kp0y4mm5/SatkhiraDH0550.jpg?auto=format,compress"
       },
       {
         "headline": "চট্টগ্রামের দুই আদালত সাতকানিয়ায় স্থানান্তরের গেজেট স্থগিত চেয়ে রিটের আদেশ মঙ্গলবার",
@@ -2960,13 +2969,6 @@
         "published_at": null,
         "summary": "ঢাকার পূর্বাচল নতুন শহর প্রকল্পে সরকারি প্লট বরাদ্দ নিয়ে অনিয়মের অভিযোগে দায়ের করা মামলার যুক্তিতর্ক শেষ হয়েছে। ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা, তার বোনের মেয়ে টিউলিপ রিজওয়ানা সিদ্দিক, ছেলে রাদওয়ান মুজিব সিদ্দিকসহ ১৮ জনের বিরুদ্ধে করা এই মামলার রায় ঘোষণা করা হবে আগামী ২ ফেব্রুয়ারি।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/6134696f28f6442f249002ccee049149-696c862b2c284.jpg"
-      },
-      {
-        "headline": "সিদ্ধিরগঞ্জে খালে ভাসমান ড্রামের ভিতর থেকে যুবকের মরদেহ উদ্ধার",
-        "url": "https://www.ittefaq.com.bd/770808/%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%B0%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0",
-        "published_at": null,
-        "summary": "নারায়ণগঞ্জের সিদ্ধিরগঞ্জে খালে ভাসতে থাকা ড্রামের ভিতর থেকে অজ্ঞাত যুবকের মরদেহ উদ্ধার করেছে পুলিশ।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/bf5e85b15623d395219bc5bcb8b6d5b2-696c8bc4cdfe7.jpg"
       }
     ],
     "politics": [
@@ -4377,8 +4379,8 @@
         "url": "https://www.prothomalo.com/world/middle-east/j331chniyo",
         "published_at": "2026-01-18T22:39:47.436000+00:00",
         "summary": "ইরানি কর্মকর্তার দেওয়া তথ্যের আগে যুক্তরাষ্ট্রভিত্তিক মানবাধিকার সংস্থা এইচআরএএনএ ইরানে বিক্ষোভ ঘিরে নিহতদের সর্বশেষ হালনাগাদ তথ্য দিয়েছিল। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-18/plt3sa5j/car-burns.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/plt3sa5j/car-burns.png?auto=format,compress"
+        "image_s3_key": "prothomalo-bangla/2026-01-18/sdrpbsyy/car-burns.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/sdrpbsyy/car-burns.jpg?auto=format,compress"
       },
       {
         "headline": "গাজার ‘শান্তি পর্ষদে’ পাকিস্তানকে আমন্ত্রণ জানিয়েছেন ট্রাম্প",
@@ -6125,6 +6127,13 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/unoyctm5/13-01-26-BHBFC-MANEGERS-CONFERENCE074557.png?auto=format,compress"
       },
       {
+        "headline": "আমদানি বন্ধের সুযোগে বাজারে সংকট তৈরি করে মূল্যবৃদ্ধি",
+        "url": "https://www.ittefaq.com.bd/770898/%E0%A6%86%E0%A6%AE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87",
+        "published_at": null,
+        "summary": "চালের বাজার নিয়ে নৈরাজ্য চলছে। চাহিদার ঘাটতি না থাকলেও হঠাত্ করে পাইকারি ও খুচরা বাজারে চালের দাম বেড়ে গেছে। বিক্রেতারা জানান, চিনিগুঁড়া চাল বস্তাপ্রতি প্রায় ১ হাজার ৪০০ টাকা ও অন্যান্য চিকন জাতের চাল বস্তাপ্রতি ৩০০-৪০০ টাকা বেড়ে গেছে। গত দুই মাস যাবত্ চাল আমদানি বন্ধ। করপোরেট হাউজ, মিল মালিক ও মধ্যস্বত্বভোগীরা চালের মজুত করে দাম বাড়িয়ে দিয়েছে বলে পাইকারি বিক্রেতাদের অভিযোগ। সম্প্রতি আমন ধান উঠেছে এবং বোরো চাষের আবাদ শুরু হয়েছে। দেশে চালের কোনো সংকট নেই। এমতাবস্থায় চালের মূল্যবৃদ্ধির কারণ মিলছে না।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/01/12/b9b574903ad7c29518795ee6d400750c-6783389fc3599.jpeg"
+      },
+      {
         "headline": "চলতি মৌসুমে বিশ্বব্যাপী শস্যের মজুত বৃদ্ধির পূর্বাভাস",
         "url": "https://www.ittefaq.com.bd/770900/%E0%A6%9A%E0%A6%B2%E0%A6%A4%E0%A6%BF-%E0%A6%AE%E0%A7%8C%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%80-%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%A4-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%B0",
         "published_at": null,
@@ -6186,13 +6195,6 @@
         "published_at": null,
         "summary": "রপ্তানি আয়ের গতি কমে যাওয়ায় চলতি অর্থবছরের শুরুতেই পণ্য বাণিজ্যে ঘাটতি আবারও বাড়তে শুরু করেছে। চলতি ২০২৫-২৬ অর্থবছরের প্রথম পাঁচ মাসে (জুলাই-নভেম্বর) দেশের পণ্য বাণিজ্য ঘাটতি দাঁড়িয়েছে ৯৪০ কোটি ৭০ লাখ ডলারে, যা গত অর্থবছরের একই সময়ের তুলনায় ১৫.৬৩ শতাংশ বেশি।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2024/12/25/b9a6077122594cde14c0bfa5bd6b2956-676b76d2f30b3.jpg"
-      },
-      {
-        "headline": "দেশে স্বর্ণের দামে ফের রেকর্ড, ভরি ২ লাখ ৩৪ হাজার টাকা",
-        "url": "https://www.ittefaq.com.bd/770363/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%AD%E0%A6%B0%E0%A6%BF-%E0%A7%A8-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A7%A9%E0%A7%AA-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0",
-        "published_at": null,
-        "summary": "দেশের বাজারে আরেক দফা স্বর্ণের দাম বাড়ানোর সিদ্ধান্ত নিয়েছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন (বাজুস)। এবার ভরিতে ২ হাজার ৬২৫ টাকা বাড়িয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের দাম ২ লাখ ৩৪ হাজার ৬৮০ টাকা নির্ধারণ করা হয়েছে। যা দেশের ইতিহাসে মূল্যবান এই ধাতুর সর্বোচ্চ দাম।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/10/08/c97078784610b40d451ba0373889c630-68e681ead7068.jpg"
       },
       {
         "headline": "গণভোট ঘিরে বিভ্রান্তির রাজনীতি",
@@ -6333,6 +6335,13 @@
         "published_at": "1768630503",
         "summary": "দেশে রান্নার গ্যাসের প্রধান উৎস তরলীকৃত পেট্রোলিয়াম গ্যাসের (এলপিজি) বাজারে এখন চরম অস্থিরতা বিরাজ করছে। একদিকে ক্রমবর্ধমান চাহিদা, অন্যদিকে আমদানিতে বড় ধরনের পতন, এই দুইয়ের যাঁতাকলে পড়ে সাধারণ মানুষের নাভিশ্বাস উঠছে। বাংলাদেশ এনার্জি রেগুলেটরি কমিশন (বিইআরসি) এবং আমদানিকারকদের দেওয়া তথ্যে এক ভয়াবহ চিত্র ফুটে উঠেছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-13-20260117061503.jpg"
+      },
+      {
+        "headline": "দেশে স্বর্ণের দামে ফের রেকর্ড, ভরি ২ লাখ ৩৪ হাজার টাকা",
+        "url": "https://www.ittefaq.com.bd/770363/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%AD%E0%A6%B0%E0%A6%BF-%E0%A7%A8-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A7%A9%E0%A7%AA-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "দেশের বাজারে আরেক দফা স্বর্ণের দাম বাড়ানোর সিদ্ধান্ত নিয়েছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন (বাজুস)। এবার ভরিতে ২ হাজার ৬২৫ টাকা বাড়িয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের দাম ২ লাখ ৩৪ হাজার ৬৮০ টাকা নির্ধারণ করা হয়েছে। যা দেশের ইতিহাসে মূল্যবান এই ধাতুর সর্বোচ্চ দাম।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/10/08/c97078784610b40d451ba0373889c630-68e681ead7068.jpg"
       },
       {
         "headline": "আমানতকারীদের দুই বছরের মুনাফার ‘হেয়ারকাট’ করলো বাংলাদেশ ব্যাংক",
@@ -7317,13 +7326,6 @@
         "published_at": null,
         "summary": "বাংলাদেশের অপ্রতুল অবকাঠামো-সুবিধা, সরকারের ঘোষিত নীতি-পদ্ধতিতে বাস্তবায়নে দীর্ঘসূত্রতার অনুযোগ আনা হলেও বাংলাদেশের স্বার্থ নিশ্চিতকারী নীতি-নিয়মকানুনগুলো উপেক্ষা করে সুযোগ-সুবিধাগুলো ঠিকই ব্যবহার করা হয়েছে। ওয়ার্ক পারমিটের ব্যবস্থা পাশ কাটিয়ে বাংলাদেশে অদক্ষ বহু বিদেশী শ্রমিক টেকনিশিয়ান ছদ্মবেশে কর্মরত রয়েছে বলে অভিযোগ পাওয়া যায়। অভিযোগ রয়েছে, তাদের বেতন যথাযথভাবে ঘোষণা করা হয় না এবং তাদের অর্জিত আয় বৈদেশিক মুদ্রায় পাচার হয় দেশীয় ব্যাংক ও আর্থিক প্রতিষ্ঠানগুলোর নিয়ন্ত্রণ অপারগতায়, অনীহায় কিংবা যোগসাজশে।",
         "image_url": "https://media.ndiganta.com/images/Majid-1.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "কমিউনিটি ব্যাংকের সঙ্গে ঝিল ম্যায়েস্ট্রিয়া রেস্টুরেন্টের ব্যবসায়িক অংশীদারিত্ব",
-        "url": "https://www.amarsangbad.com/economy/news/333997",
-        "published_at": "1767700364",
-        "summary": "গ্রাহকদের জন্য বিশেষ ডাইনিং সুবিধা নিশ্চিত করতে ঝিল ম্যায়েস্ট্রিয়া রেস্টুরেন্টের সঙ্গে ব্যবসায়িক অংশীদারিত্ব চুক্তি করেছে কমিউনিটি ব্যাংক বাংলাদেশ পিএলসি।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/cmm-20260106115244.jpg"
       }
     ],
     "sports": [
