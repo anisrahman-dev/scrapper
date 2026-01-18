@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-01-18T05:29:00.175446+00:00",
+  "fetched_at": "2026-01-18T05:51:37.599416+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "ড্যাফোডিলের ‘ওয়ান স্টুডেন্ট, ওয়ান ল্যাপটপ’ প্রকল্প বদলে দিয়েছে হাজারো শিক্ষার্থীর জীবন",
+        "url": "https://www.prothomalo.com/lifestyle/s2d23w3gml",
+        "published_at": "2026-01-18T05:43:57.745000+00:00",
+        "summary": "বেসরকারি এই বিশ্ববিদ্যালয়ের কর্তৃপক্ষ বলছে, এ পর্যন্ত তারা প্রায় ৮০ হাজার শিক্ষার্থীকে ল্যাপটপ দিয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-18/nf2aq5mn/DSC09275.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/nf2aq5mn/DSC09275.JPG?auto=format,compress"
+      },
+      {
+        "headline": "‘মানুষের মন বোঝা শক্ত’",
+        "url": "https://www.prothomalo.com/politics/falac1oqad",
+        "published_at": "2026-01-18T05:43:51.638000+00:00",
+        "summary": "অঞ্চলটি খুলনা-১ আসনে। দাকোপ ও বটিয়াঘাটা—এই দুই উপজেলা নিয়ে আসনটি। এই আসন দেশের মানুষের দৃষ্টি কেড়েছে মূলত জামায়াতের প্রার্থীর কারণে। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-17/6hjpktyz/Motamot-2.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/6hjpktyz/Motamot-2.jpg?auto=format,compress"
+      },
+      {
+        "headline": "৮৮ লাখ ৪০ হাজার কোটি টাকার মালিক ইলন মাস্ক কী কী কিনতে পারেন",
+        "url": "https://www.prothomalo.com/world/usa/m2ufa7et1y",
+        "published_at": "2026-01-18T05:35:17.869000+00:00",
+        "summary": "পুঁজিবাজার যেকোনো সময় অস্থির হয়ে উঠতে পারে, পুঁজি বাজারে ধস নামলে শেয়ারের মূল্যও দ্রুত পড়ে যেতে পারে। তাতে সম্পদের পরিমাণ উল্লেখযোগ্যভাবে কমবে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-18/a9s8sjqp/Elon-Musk.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/a9s8sjqp/Elon-Musk.avif?auto=format,compress"
+      },
+      {
+        "headline": "আগামী মাসে ডাচ–বাংলা ও মিডল্যান্ড ব্যাংকে নতুন এমডি",
+        "url": "https://www.prothomalo.com/business/bank/3cgjt1u1bj",
+        "published_at": "2026-01-18T05:30:00+00:00",
+        "summary": "সম্প্রতি ঢাকা ব্যাংক, মেঘনা ব্যাংক, সাউথ বাংলা এগ্রিকালচার অ্যান্ড কমার্স ও সাউথইস্ট ব্যাংকে নতুন এমডি যোগ দিয়েছেন। ইস্টার্ন ব্যাংকও নতুন এমডি খুঁজছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-17/1q32x01k/00-5.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/1q32x01k/00-5.jpg?auto=format,compress"
+      },
+      {
+        "headline": "‘হ্যাঁ’ ভোটের পক্ষে প্রচারে প্রজাতন্ত্রের কর্মচারীদের বাধা নেই: আলী রীয়াজ",
+        "url": "https://www.prothomalo.com/bangladesh/hmabc3yr45",
+        "published_at": "2026-01-18T05:25:53.903000+00:00",
+        "summary": "মতবিনিময় সভায় আলী রীয়াজ বলেন, ‘এবারের গণভোট কোনো দলকে ক্ষমতায় বসানো কিংবা কোনো দলকে ক্ষমতায় যেতে বাধা দেওয়ার এজেন্ডা নয়।’",
+        "image_s3_key": "prothomalo-bangla/2026-01-18/js5iscre/Riaz.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/js5iscre/Riaz.jpeg?auto=format,compress"
+      },
       {
         "headline": "পাকিস্তানের করাচিতে শপিং মলে আগুন: নিহত ৫, আহত অনেকে",
         "url": "https://www.prothomalo.com/world/pakistan/8lpkhdd9jw",
@@ -219,20 +259,20 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/54vb5txg/Gmail.-google.png?auto=format,compress"
       },
       {
-        "headline": "বন্ধ্যা মাছি দিয়ে বিষমুক্ত শুঁটকি",
-        "url": "https://www.prothomalo.com/bangladesh/district/z7s3uj6mmk",
-        "published_at": "2026-01-18T03:00:00+00:00",
-        "summary": "২০২১ সালে প্রকল্পটি চালু হয়। টানা কয়েক বছরে ৯০ লাখ বন্ধ্যা মাছি ছাড়া হয়েছিল। এরপর গবেষণায় আসে সাফল্য।",
-        "image_s3_key": "prothomalo-bangla/2026-01-17/s0o9ruxv/WhatsApp-Image-2026-01-17-at-10.35.00-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/s0o9ruxv/WhatsApp-Image-2026-01-17-at-10.35.00-PM.jpeg?auto=format,compress"
-      },
-      {
         "headline": "তালাবদ্ধ ভবনে মৃত্যুর এই মিছিল থামাবে কে",
         "url": "https://www.prothomalo.com/opinion/editorial/ow6r95mhrv",
         "published_at": "2026-01-18T03:00:00+00:00",
         "summary": "শুধু উত্তরার এই ভবন নয়, রাজধানীর অনেক ভবনেই জীবনের ঝুঁকি নিয়ে লাখ লাখ মানুষকে বসবাস করতে হচ্ছে।",
         "image_s3_key": "prothomalo-bangla/2020-10/0ecf7067-d7c9-4778-946d-6ab4364b034e/editorial_2.png",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-10/0ecf7067-d7c9-4778-946d-6ab4364b034e/editorial_2.png?auto=format,compress"
+      },
+      {
+        "headline": "বন্ধ্যা মাছি দিয়ে বিষমুক্ত শুঁটকি",
+        "url": "https://www.prothomalo.com/bangladesh/district/z7s3uj6mmk",
+        "published_at": "2026-01-18T03:00:00+00:00",
+        "summary": "২০২১ সালে প্রকল্পটি চালু হয়। টানা কয়েক বছরে ৯০ লাখ বন্ধ্যা মাছি ছাড়া হয়েছিল। এরপর গবেষণায় আসে সাফল্য।",
+        "image_s3_key": "prothomalo-bangla/2026-01-17/s0o9ruxv/WhatsApp-Image-2026-01-17-at-10.35.00-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/s0o9ruxv/WhatsApp-Image-2026-01-17-at-10.35.00-PM.jpeg?auto=format,compress"
       },
       {
         "headline": "ভবন চালু হতে কি এক যুগ পেরিয়ে যাবে",
@@ -275,44 +315,25 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-11/4eeb5dd5-307a-4878-8169-7066023ef41a/Untitled_2.jpg?auto=format,compress"
       },
       {
-        "headline": "আয়ারল্যান্ড সরকারি স্কলারশিপ: বছরে ২০ লাখ টাকা স্টাইপেন্ডস",
-        "url": "https://www.prothomalo.com/education/higher-education/eggule1z2n",
-        "published_at": "2026-01-18T02:09:45.812000+00:00",
-        "summary": "নির্বাচিত শিক্ষার্থীরা বছরে ১৯ হাজার ইউরো স্টাইপেন্ড পাবেন। এ ছাড়া বছরে ৫ হাজার ৭৫০ ইউরো টিউশন ফি ও ৩ হাজার ২৫০ ইউরো গবেষণাসহায়তা প্রদান করা হবে প্রার্থীকে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-12/atzkbdyb/47.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/atzkbdyb/47.jpg?auto=format,compress"
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
       },
       {
-        "headline": "সিঙ্গেল মাদার হিসেবে একটা আলাদা সংগ্রাম আছে",
-        "url": "https://www.prothomalo.com/entertainment/entertainment-interview/kejvm3dtqp",
-        "published_at": "2026-01-18T02:00:00+00:00",
-        "summary": "শুক্রবার মুক্তি পাওয়া ‘এখানে রাজনৈতিক আলাপ জরুরি’ সিনেমায় অভিনয় করেছেন মডেল কেয়া আল জান্নাহ। আহমেদ হাসান পরিচালিত ছবিতে তাঁর অভিনয় পছন্দ করছেন দর্শক",
-        "image_s3_key": "prothomalo-bangla/2026-01-17/klsft55w/shudiptodas1759325219373381302320859515848272565615.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/klsft55w/shudiptodas1759325219373381302320859515848272565615.jpg?auto=format,compress"
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
       },
       {
-        "headline": "কুয়াশামাখা শীতের সকালে হাইল হাওরের পাড়ে",
-        "url": "https://www.prothomalo.com/bangladesh/district/vyigm07lw6",
-        "published_at": "2026-01-18T02:00:00+00:00",
-        "summary": "জলাভূমির কাছে কচুরিপানার ওপর, ঝোপের মধ্যে, পাতাঝরা গাছের ডালে দু-একটা সাদা বক, পানকৌড়ি, মাছরাঙা, চিল বসে আছে। ফুটে আছে বুনো ফুল।",
-        "image_s3_key": "prothomalo-bangla/2026-01-17/bbh4v6om/MoulavibazarDH053720260117haor-sorali-7moulvibazar.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/bbh4v6om/MoulavibazarDH053720260117haor-sorali-7moulvibazar.JPG?auto=format,compress"
-      },
-      {
-        "headline": "ট্রাম্পের ইরান আক্রমণে কেন বাধা দিচ্ছে সৌদি আরব",
-        "url": "https://www.prothomalo.com/opinion/column/yv78t71afj",
-        "published_at": "2026-01-18T02:00:00+00:00",
-        "summary": "কয়েক বছর আগে অনেক আরব দেশ, বিশেষ করে উপসাগরীয় রাষ্ট্রগুলো হয়তো ইরানে হামলা চালিয়ে সেখানকার শাসন পরিবর্তনে যুক্তরাষ্ট্রের হামলাকে ইতিবাচকভাবে দেখত।",
-        "image_s3_key": "prothomalo-bangla/2025-05-13/cy3aaxna/Trump-speaks-with-Saudi-Arabias.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-05-13/cy3aaxna/Trump-speaks-with-Saudi-Arabias.png?auto=format,compress"
-      },
-      {
-        "headline": "‘কোথায় ছিলাম, কোথায় এসেছি, বিস্ময়কর লাগে’",
-        "url": "https://www.prothomalo.com/sports/sports-interview/9fh5dd43bn",
-        "published_at": "2026-01-18T02:00:00+00:00",
-        "summary": "রাঙামাটির দুর্গম পাহাড় থেকে উঠে আসা বিকেএসপির দ্বাদশ শ্রেণির ছাত্রী খই খই মারমা এখন দেশের টেবিল টেনিসের রানি। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-17/n28ue8dn/KhoyKhoy-in-action-During-40th-Na-Tt-Match-11.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/n28ue8dn/KhoyKhoy-in-action-During-40th-Na-Tt-Match-11.JPG?auto=format,compress"
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
       },
       {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
@@ -322,7 +343,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -332,7 +353,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -354,7 +375,7 @@
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206081",
         "published_at": "2026-01-18T11:02:33+06:00",
         "summary": "প্রধান নির্বাচন কমিশনার (সিইসি) এ এম এম নাসির উদ্দিনের সঙ্গে আজ রবিবার বিকালে বৈঠকে বসতে যাচ্ছেন বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712552-d6e8cde5ade66646b8c1b40919214b01.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713889-c6df1bdcb06b5e804ce0831cfb143487.jpg"
       },
       {
         "headline": "আমির হামজার বিরুদ্ধে বিক্ষোভ, কুশপুত্তলিকায় জুতার মালা",
@@ -364,25 +385,32 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
       },
       {
-        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
-        "published_at": "2026-01-18T10:07:04+06:00",
-        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+        "headline": "এক ট্রিলিয়ন ডলারের পথে ইলন মাস্ক, সম্পদ ৭৮০ বিলিয়ন ডলার",
+        "url": "https://www.ittefaq.com.bd/770793/%E0%A6%8F%E0%A6%95-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%87%E0%A6%B2%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A6-%E0%A7%AD%E0%A7%AE%E0%A7%A6-%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8",
+        "published_at": null,
+        "summary": "বিশ্বের শীর্ষ ধনীদের তালিকায় ইলন মাস্কের আধিপত্য দিন দিন আরও শক্ত হচ্ছে। সম্পদ বৃদ্ধির যে গতি তিনি ধরে রেখেছেন, তাতে ইতিহাসের প্রথম ব্যক্তি হিসেবে এক ট্রিলিয়ন ডলারের মালিক হওয়া এখন কেবল সময়ের অপেক্ষা—এমনটাই মনে করছেন বিশ্লেষকেরা। সেই লক্ষ্যপথে আরও এক ধাপ এগিয়ে গেছেন টেসলা ও স্পেসএক্সের প্রধান নির্বাহী।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/8ee84664cae095a65531fdf26cbb88ce-696c721203138.png"
       },
       {
-        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
-        "published_at": "2026-01-18T09:44:05+06:00",
-        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+        "headline": "নিজস্ব ইন্টারনেট ও সোশ্যাল মিডিয়া আনছে ইরান",
+        "url": "https://www.ittefaq.com.bd/770792/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A6%B8%E0%A7%8D%E0%A6%AC-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%9F-%E0%A6%93-%E0%A6%B8%E0%A7%8B%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%86%E0%A6%A8%E0%A6%9B%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8",
+        "published_at": null,
+        "summary": "ইরানকে বৈশ্বিক ইন্টারনেট থেকে কার্যত স্থায়ীভাবে বিচ্ছিন্ন করার পথে হাঁটছে দেশটির সরকার—এমন আশঙ্কা প্রকাশ করেছেন ডিজিটাল অধিকারকর্মীরা। তাদের দাবি, নতুন এই ব্যবস্থায় সাধারণ মানুষের জন্য আন্তর্জাতিক ইন্টারনেট আর নাগরিক অধিকার হিসেবে গণ্য হবে না; বরং সরকারের অনুমোদন পাওয়া সীমিত একটি গোষ্ঠীই নিয়ন্ত্রিতভাবে বৈশ্বিক নেটওয়ার্ক ব্যবহারের সুযোগ পাবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/eaed7041745a64a430c358aedac8b528-696c710191013.jpg"
       },
       {
-        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
-        "published_at": "2026-01-18T08:48:47+06:00",
-        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
+        "headline": "নানক-তাপসসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল",
+        "url": "https://www.ittefaq.com.bd/770791/%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%95-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A6%B8%E0%A6%B9-%E0%A7%A8%E0%A7%AE-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97",
+        "published_at": null,
+        "summary": "মানবতাবিরোধী অপরাধের একটি মামলায় সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ মোট ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করা হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/a108e8110bc45ae45b90cf6ffcb2fd81-696c70c5d1648.jpg"
+      },
+      {
+        "headline": "‘সুদ’ থেকে আয়ের টাকা কেউ কেউ দান করে দিতেও পারে: তাহেরি",
+        "url": "https://www.ittefaq.com.bd/770790/%E2%80%98%E0%A6%B8%E0%A7%81%E0%A6%A6%E2%80%99-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%89-%E0%A6%95%E0%A7%87%E0%A6%89-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে হবিগঞ্জ-৪ (মাধবপুর–চুনারুঘাট) আসনে ইসলামী ফ্রন্টের প্রার্থী হিসেবে প্রতিদ্বন্দ্বিতা করছেন আলোচিত ইসলামি বক্তা মো. গিয়াস উদ্দিন তাহেরি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/0e9394baabc50a875cc9ed12baff4658-696c6fffb9c64.jpg"
       },
       {
         "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ডোনাল্ড ট্রাম্প",
@@ -402,7 +430,7 @@
         "headline": "নোয়াখালীতে ‘ডাকাত আখ্যা’ দিয়ে প্রকাশ্যে পিটিয়ে যুবক হত্যা",
         "url": "https://www.ittefaq.com.bd/770787/%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E2%80%98%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%86%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E2%80%99-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A7%9F%E0%A7%87",
         "published_at": null,
-        "summary": "নোয়াখালীর কবিরহাট উপজেলায় এক যুবককে প্রকাশ্যে পিটিয়ে হত্যার অভিযোগ উঠেছে। শনিবার (১৭ জানুয়ারি) রাত ১০টার দিকে উপজেলার নরোত্তমপুর ইউনিয়নের ২ নম্বর ওয়ার্ডের কালিরহাট বাজারসংলগ্ন কাজী বাড়ির সামনে সড়কে এ ঘটনা ঘটে। হত্যাকাণ্ডের পর নিহতকে ‘ডাকাত’ আখ্যা দিয়ে একদল যুবক বাজারে মিষ্টি বিতরণ করার অভিযোগ উঠেছে।",
+        "summary": "নোয়াখালীর কবিরহাট উপজেলায় এক যুবককে প্রকাশ্যে পিটিয়ে হত্যার অভিযোগ উঠেছে। শনিবার (১৭ জানুয়ারি) রাত ১০টার দিকে উপজেলার নরোত্তমপুর ইউনিয়নের ২ নম্বর ওয়ার্ডের কালিরহাট বাজারসংলগ্ন কাজী বাড়ির সামনে সড়কে এ ঘটনা ঘটে। হত্যাকাণ্ডের পর নিহতকে ‘ডাকাত’ আখ্যা দিয়ে একদল যুবকের বিরুদ্ধে বাজারে মিষ্টি বিতরণ করার অভিযোগ উঠেছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/ae2ff1a669a67cbacbaac1a27a150df3-696c672be6a49.jpg"
       },
       {
@@ -427,34 +455,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/b6ec2aad715762b712acc4e9fa84f8fe-696c5efb481f2.jpg"
       },
       {
-        "headline": "ধানুশের সঙ্গে বিয়ের গুঞ্জন, নীরবতা ভাঙলেন ম্রুণাল",
-        "url": "https://www.ittefaq.com.bd/770783/%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%A8-%E0%A6%A8%E0%A7%80%E0%A6%B0%E0%A6%AC%E0%A6%A4%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A6%BE%E0%A6%B2",
-        "published_at": null,
-        "summary": "বলিউড ও দক্ষিণী সিনেমার জনপ্রিয় দুই তারকা ধানুশ ও ম্রুণাল ঠাকুরের বিয়ের গুঞ্জনে মেতে উঠেছে নেটিজেনরা। শোনা যাচ্ছে, ভালোবাসা দিবসেই নাকি গাঁটছড়া বাঁধবেন এ জুটি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/9f68ef263a5d729c524808ba844b4a59-696c5d0c31046.jpg"
-      },
-      {
-        "headline": "সারিয়াকান্দি যমুনা নদীতে নব্যতা সংকট, অনেক খেয়াঘাট বন্ধ",
-        "url": "https://www.ittefaq.com.bd/770782/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF-%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F-%E0%A6%85%E0%A6%A8%E0%A7%87%E0%A6%95-%E0%A6%96%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%9F",
-        "published_at": null,
-        "summary": "বগুড়ার সারিয়াকান্দিতে যমুনা নদীর নাব্যতা সংকট প্রকট আকার ধারণ করেছে। ডুবোচরে আটকে যাচ্ছে নৌকা। উপজেলার অনেক নৌরুট গত কয়েকমাস ধরে বন্ধ রয়েছে। ফলে যমুনার চরাঞ্চলের কৃষকরা তাদের উৎপাদিত কৃষি পণ্য সহজে পরিবহন করতে পারছেন না। এতে ফলের দামও বৃদ্ধি পাচ্ছে। এছাড়া যাতায়াতে যাত্রীরা চরম দুর্ভোগের শিকার হচ্ছেন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/9dab83cea34b0a25d3a3da2dd4738902-696c5e106b3b0.jpg"
-      },
-      {
-        "headline": "অন্তর্বর্তী আমলেও কেন হলো না সাগর-রুনি হত্যার বিচার?",
-        "url": "https://www.ittefaq.com.bd/770781/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0-%E0%A6%B0%E0%A7%81%E0%A6%A8%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0",
-        "published_at": null,
-        "summary": "সাংবাদিক দম্পতি সাগর সরওয়ার ও মেহেরুন রুনি হত্যাকাণ্ডের বিচারের বিষয়ে অন্তর্বর্তী সরকারের আমলেও তেমন কোনো অগ্রগতি নেই। বরং তদন্ত প্রতিবেদন জমা দেওয়ার তারিখ ১১বার পেছানো হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/3b2332e69e89638db198c0303aae57bc-696c5bbaea6d2.jpg"
-      },
-      {
-        "headline": "আল্পস পর্বতমালায় ভয়াবহ তুষারধস, নিহত পাঁচ",
-        "url": "https://www.ittefaq.com.bd/770780/%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%B8-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9-%E0%A6%A4%E0%A7%81%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A6%A7%E0%A6%B8-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A",
-        "published_at": null,
-        "summary": "ইউরোপের জনপ্রিয় স্কিইং অঞ্চল অস্ট্রিয়ার আল্পস পর্বতমালায় ভয়াবহ তুষারধসে অন্তত পাঁচজন প্রাণ হারিয়েছেন। ভারী তুষারপাত ও ঝুঁকিপূর্ণ আবহাওয়ার মধ্যে ঘটে যাওয়া এই দুর্ঘটনায় আবারও নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে। খবর বিবিসির।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/54e07bb361f3f64b293fe661ca7c18af-696c5c09dd67f.png"
-      },
-      {
         "headline": "গণভোট ঘিরে বিভ্রান্তির রাজনীতি",
         "url": "https://dailynayadiganta.com/printed-edition/cbQmHOIIyd4B/",
         "published_at": null,
@@ -474,6 +474,27 @@
         "published_at": null,
         "summary": "ভালো নির্বাচন অনুষ্ঠানের কাজটি সুচারুরূপে সম্পন্ন করতে \r\nচাইলে নির্বাচন কমিশনকে সরকারের আন্তরিক সহযোগিতা \r\nপেতে হবে। পুলিশ বাহিনীতে অনেক মেধাবী অফিসার রয়েছেন; তাদের কাজে লাগাতে হলে সঠিক নেতৃত্ব ও দিকনির্দেশনা দিতে হবে। ইতোমধ্যে ডিসি-এসপিদের নিরপেক্ষতা নিয়ে প্রশ্ন উঠেছে। রাজনীতির গণতান্ত্রিক চরিত্র নিশ্চিত করতে চাইলে প্রশাসনকে কঠোরভাবে নিরপেক্ষতা ও পেশাদারিত্ব বজায় রেখে দায়িত্ব পালন করতে হবে। প্রশাসন নিরপেক্ষতা হারালে দেশে অস্থিরতা বাড়বে। তাই দেশের শান্তির জন্য পেশাজীবীদের দেশ, জাতি ও জনগণের প্রতি অনুগত থেকে এবং নিরপেক্ষতা বজায় রেখে দায়িত্ব পালন করতে হবে। এই দৃষ্টিভঙ্গি পেশার ভাবমর্যাদা উজ্জ্বল করবে",
         "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "নোয়াখালীতে পিকআপ-অটোরিকশা সংঘর্ষে শিশু নিহত",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/7liueWmZZglw/",
+        "published_at": null,
+        "summary": "রাতে উপজেলার বিনোদপুর ইউনিয়নের আনন্দ পুকুর পাড় এলাকায় এ দুর্ঘটনা ঘটে।",
+        "image_url": "https://media.ndiganta.com/original_images/Noakhali-Map_W9Ysp8g.jpg"
+      },
+      {
+        "headline": "বরিশালে একদিনে পৃথক ২ আগুনের ঘটনা",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/LIDNVcqFVsS7/",
+        "published_at": null,
+        "summary": "শর্ট সার্কিট থেকে আগুনের সূত্রপাত হয়। খবর পেয়ে ফায়ার সার্ভিসের দু’টি ইউনিট ঘটনাস্থলে পৌঁছে আগুন নিয়ন্ত্রণে আনে।",
+        "image_url": "https://media.ndiganta.com/original_images/fire_SIejS7x.JPG"
+      },
+      {
+        "headline": "রাশিয়ার ড্রোন হামলায় ইউক্রেনে নারী নিহত",
+        "url": "https://dailynayadiganta.com/international/europe/IImmsSbCGP4o/",
+        "published_at": null,
+        "summary": "রাশিয়ার ড্রোন ও বিমান হামলায় ইউক্রেনের খারকিভে ২০ বছর বয়সী এক নারী নিহত এবং সুমি অঞ্চলে শিশুসহ কয়েকজন আহত হয়েছে। খারকিভ, সুমি ও ওডেসায় আবাসিক ভবন ও গুরুত্বপূর্ণ অবকাঠামো লক্ষ্য করে এসব হামলা চালানো হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/ukrine-russia_ysecX69.jpg"
       },
       {
         "headline": "প্রস্তাবিত মহাপরিকল্পনা যাচাই-বাছাই করতে হবে : বাপা সভাপতি ড. নজরুল",
@@ -518,6 +539,109 @@
         "image_url": "https://media.ndiganta.com/original_images/Tayeba-Mazumder.jpg"
       },
       {
+        "headline": "আজকের সর্বশেষ খবর - January 18, 2026",
+        "url": "https://www.jugantor.com/latest",
+        "published_at": null,
+        "summary": "গাজীপুরের কালীগঞ্জে কলার ছড়ি চুরির ঘটনাকে কেন্দ্র করে এক হোটেল ব্যবসায়ীকে হত্যা করার অভিযোগ পাওয়া গেছে।  এ ঘটনায় তিনজনকে ...",
+        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+      },
+      {
+        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+        "published_at": null,
+        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "আয়ারল্যান্ড সরকারি স্কলারশিপ: বছরে ২০ লাখ টাকা স্টাইপেন্ডস",
+        "url": "https://www.prothomalo.com/education/higher-education/eggule1z2n",
+        "published_at": "2026-01-18T02:09:45.812000+00:00",
+        "summary": "নির্বাচিত শিক্ষার্থীরা বছরে ১৯ হাজার ইউরো স্টাইপেন্ড পাবেন। এ ছাড়া বছরে ৫ হাজার ৭৫০ ইউরো টিউশন ফি ও ৩ হাজার ২৫০ ইউরো গবেষণাসহায়তা প্রদান করা হবে প্রার্থীকে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-12/atzkbdyb/47.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-12/atzkbdyb/47.jpg?auto=format,compress"
+      },
+      {
+        "headline": "সিঙ্গেল মাদার হিসেবে একটা আলাদা সংগ্রাম আছে",
+        "url": "https://www.prothomalo.com/entertainment/entertainment-interview/kejvm3dtqp",
+        "published_at": "2026-01-18T02:00:00+00:00",
+        "summary": "শুক্রবার মুক্তি পাওয়া ‘এখানে রাজনৈতিক আলাপ জরুরি’ সিনেমায় অভিনয় করেছেন মডেল কেয়া আল জান্নাহ। আহমেদ হাসান পরিচালিত ছবিতে তাঁর অভিনয় পছন্দ করছেন দর্শক",
+        "image_s3_key": "prothomalo-bangla/2026-01-17/klsft55w/shudiptodas1759325219373381302320859515848272565615.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/klsft55w/shudiptodas1759325219373381302320859515848272565615.jpg?auto=format,compress"
+      },
+      {
+        "headline": "কুয়াশামাখা শীতের সকালে হাইল হাওরের পাড়ে",
+        "url": "https://www.prothomalo.com/bangladesh/district/vyigm07lw6",
+        "published_at": "2026-01-18T02:00:00+00:00",
+        "summary": "জলাভূমির কাছে কচুরিপানার ওপর, ঝোপের মধ্যে, পাতাঝরা গাছের ডালে দু-একটা সাদা বক, পানকৌড়ি, মাছরাঙা, চিল বসে আছে। ফুটে আছে বুনো ফুল।",
+        "image_s3_key": "prothomalo-bangla/2026-01-17/bbh4v6om/MoulavibazarDH053720260117haor-sorali-7moulvibazar.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/bbh4v6om/MoulavibazarDH053720260117haor-sorali-7moulvibazar.JPG?auto=format,compress"
+      },
+      {
+        "headline": "ট্রাম্পের ইরান আক্রমণে কেন বাধা দিচ্ছে সৌদি আরব",
+        "url": "https://www.prothomalo.com/opinion/column/yv78t71afj",
+        "published_at": "2026-01-18T02:00:00+00:00",
+        "summary": "কয়েক বছর আগে অনেক আরব দেশ, বিশেষ করে উপসাগরীয় রাষ্ট্রগুলো হয়তো ইরানে হামলা চালিয়ে সেখানকার শাসন পরিবর্তনে যুক্তরাষ্ট্রের হামলাকে ইতিবাচকভাবে দেখত।",
+        "image_s3_key": "prothomalo-bangla/2025-05-13/cy3aaxna/Trump-speaks-with-Saudi-Arabias.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-05-13/cy3aaxna/Trump-speaks-with-Saudi-Arabias.png?auto=format,compress"
+      },
+      {
+        "headline": "‘কোথায় ছিলাম, কোথায় এসেছি, বিস্ময়কর লাগে’",
+        "url": "https://www.prothomalo.com/sports/sports-interview/9fh5dd43bn",
+        "published_at": "2026-01-18T02:00:00+00:00",
+        "summary": "রাঙামাটির দুর্গম পাহাড় থেকে উঠে আসা বিকেএসপির দ্বাদশ শ্রেণির ছাত্রী খই খই মারমা এখন দেশের টেবিল টেনিসের রানি। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-17/n28ue8dn/KhoyKhoy-in-action-During-40th-Na-Tt-Match-11.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/n28ue8dn/KhoyKhoy-in-action-During-40th-Na-Tt-Match-11.JPG?auto=format,compress"
+      },
+      {
+        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
+        "published_at": "2026-01-18T10:07:04+06:00",
+        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+      },
+      {
+        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
+        "published_at": "2026-01-18T09:44:05+06:00",
+        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+      },
+      {
+        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
+        "published_at": "2026-01-18T08:48:47+06:00",
+        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
+      },
+      {
+        "headline": "ধানুশের সঙ্গে বিয়ের গুঞ্জন, নীরবতা ভাঙলেন ম্রুণাল",
+        "url": "https://www.ittefaq.com.bd/770783/%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%A8-%E0%A6%A8%E0%A7%80%E0%A6%B0%E0%A6%AC%E0%A6%A4%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A6%BE%E0%A6%B2",
+        "published_at": null,
+        "summary": "বলিউড ও দক্ষিণী সিনেমার জনপ্রিয় দুই তারকা ধানুশ ও ম্রুণাল ঠাকুরের বিয়ের গুঞ্জনে মেতে উঠেছে নেটিজেনরা। শোনা যাচ্ছে, ভালোবাসা দিবসেই নাকি গাঁটছড়া বাঁধবেন এ জুটি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/9f68ef263a5d729c524808ba844b4a59-696c5d0c31046.jpg"
+      },
+      {
+        "headline": "সারিয়াকান্দি যমুনা নদীতে নব্যতা সংকট, অনেক খেয়াঘাট বন্ধ",
+        "url": "https://www.ittefaq.com.bd/770782/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF-%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F-%E0%A6%85%E0%A6%A8%E0%A7%87%E0%A6%95-%E0%A6%96%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%9F",
+        "published_at": null,
+        "summary": "বগুড়ার সারিয়াকান্দিতে যমুনা নদীর নাব্যতা সংকট প্রকট আকার ধারণ করেছে। ডুবোচরে আটকে যাচ্ছে নৌকা। উপজেলার অনেক নৌরুট গত কয়েকমাস ধরে বন্ধ রয়েছে। ফলে যমুনার চরাঞ্চলের কৃষকরা তাদের উৎপাদিত কৃষি পণ্য সহজে পরিবহন করতে পারছেন না। এতে ফলের দামও বৃদ্ধি পাচ্ছে। এছাড়া যাতায়াতে যাত্রীরা চরম দুর্ভোগের শিকার হচ্ছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/9dab83cea34b0a25d3a3da2dd4738902-696c5e106b3b0.jpg"
+      },
+      {
+        "headline": "অন্তর্বর্তী আমলেও কেন হলো না সাগর-রুনি হত্যার বিচার?",
+        "url": "https://www.ittefaq.com.bd/770781/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%86%E0%A6%AE%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0-%E0%A6%B0%E0%A7%81%E0%A6%A8%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "সাংবাদিক দম্পতি সাগর সরওয়ার ও মেহেরুন রুনি হত্যাকাণ্ডের বিচারের বিষয়ে অন্তর্বর্তী সরকারের আমলেও তেমন কোনো অগ্রগতি নেই। বরং তদন্ত প্রতিবেদন জমা দেওয়ার তারিখ ১১বার পেছানো হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/3b2332e69e89638db198c0303aae57bc-696c5bbaea6d2.jpg"
+      },
+      {
+        "headline": "আল্পস পর্বতমালায় ভয়াবহ তুষারধস, নিহত পাঁচ",
+        "url": "https://www.ittefaq.com.bd/770780/%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%B8-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9-%E0%A6%A4%E0%A7%81%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A6%A7%E0%A6%B8-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A",
+        "published_at": null,
+        "summary": "ইউরোপের জনপ্রিয় স্কিইং অঞ্চল অস্ট্রিয়ার আল্পস পর্বতমালায় ভয়াবহ তুষারধসে অন্তত পাঁচজন প্রাণ হারিয়েছেন। ভারী তুষারপাত ও ঝুঁকিপূর্ণ আবহাওয়ার মধ্যে ঘটে যাওয়া এই দুর্ঘটনায় আবারও নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে। খবর বিবিসির।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/54e07bb361f3f64b293fe661ca7c18af-696c5c09dd67f.png"
+      },
+      {
         "headline": "জন্মদিনে রিয়াল মাদ্রিদকে জয় উপহার কোচ আরবেলোয়ার",
         "url": "https://dailynayadiganta.com/sports/football/IR9RF7fojJgO/",
         "published_at": null,
@@ -537,20 +661,6 @@
         "published_at": null,
         "summary": "অভিযানে দু’টি দেশীয় অস্ত্র, একটি কুড়াল, দু’টি লোকাল ছুরি ও দু’টি রামদাসহ মোট সাতটি অস্ত্র উদ্ধার করা হয়।",
         "image_url": "https://media.ndiganta.com/original_images/Shibganj.jpg"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর - January 18, 2026",
-        "url": "https://www.jugantor.com/latest",
-        "published_at": null,
-        "summary": "আগ্রহী প্রার্থীরা অনলাইনে আবেদন করতে পারবেন। নির্বাচিত প্রার্থীরা মাসিক বেতন ছাড়াও প্রতিষ্ঠানের নীতিমালা অনুযায়ী আরো বিভিন্ন সুযোগ-সুবিধা পাবেন ...",
-        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-      },
-      {
-        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-        "published_at": null,
-        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
       },
       {
         "headline": "গ্লাস মিস্ত্রির কাজ করেছেন, এখন তিনি বিশ্ববিদ্যালয়ের শিক্ষক",
@@ -1382,118 +1492,25 @@
         "published_at": null,
         "summary": "সুশাসনের জন্য নাগরিক-সুজনের প্রধান নির্বাহী ড. বদিউল আলম মজুমদার বলেছেন, ‘হ্যাঁ ভোট দেয়া মানে সংস্কারের পক্ষে আর না ভোট দেয়া মানে পুরনো কাঠামোর পক্ষে, যে কাঠামোতে শেখ হাসিনা স্বৈরাচারী হয়ে উঠেছিল’।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "মাঝখানে মা, দুই পাশে বাবা ও সন্তান  চিরনিদ্রায় একই পরিবারের ৩ প্রাণ",
-        "url": "https://dailynayadiganta.com/printed-edition/TBgt7LEAhNcd/",
-        "published_at": null,
-        "summary": "রাজধানীর উত্তরার সেই মর্মান্তিক অগ্নিকাণ্ড কেড়ে নিল কুমিল্লার এক সুখী পরিবারের স্বপ্ন। ধোঁয়ায় দমবন্ধ হয়ে প্রাণ হারানো কাজী ফজলে রাব্বি রিজভী (৩৮), তার স্ত্রী আফরোজা আক্তার সুবর্ণা (৩৭) এবং তাদের দুই বছরের একমাত্র সন্তান কাজী ফাইয়াজ রিশানকে চিরনিদ্রায় শায়িত করা হয়েছে। গতকাল শনিবার সকালে কুমিল্লার  চৌদ্দগ্রামের চিওড়া কাজী বাড়িতে তিনজনের নামাজে জানাজা শেষে পারিবারিক কবরস্থানে তাদের পাশাপাশি দাফন করা হয়।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "তিস্তা মহাপরিকল্পনা নিয়ে মুখোমুখি বাপা ও তিস্তা বাঁচাও নদী বাঁচাও সংগ্রাম পরিষদ",
-        "url": "https://dailynayadiganta.com/printed-edition/9gRAc0QSTMoh/",
-        "published_at": null,
-        "summary": "তিস্তা মহাপরিকল্পনা বাস্তবায়ন নিয়ে মুখোমুখি অবস্থানে দাঁড়িয়েছে বাংলাদেশ পরিবেশ আন্দোলন (বাপা) এবং ‘তিস্তা বাঁচাও নদী বাঁচাও সংগ্রাম পরিষদ’। প্রকল্পের সুদূরপ্রসারী প্রভাব নিয়ে বাপার পক্ষ থেকে অধিকতর যাচাই-বাছাইয়ের দাবি তোলা হলেও একে ‘বাস্তবায়ন ঠেকানোর ষড়যন্ত্র’ বলে অভিহিত করেছেন স্থানীয় নদী রক্ষা আন্দোলনের নেতারা।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "দেশের নৈরাজ্য ঠিক করতে সঠিক মানুষ দরকার",
-        "url": "https://dailynayadiganta.com/printed-edition/weAQJ2AkcVxK/",
-        "published_at": null,
-        "summary": "খ্যাতিমান দার্শনিক ও বিশিষ্ট শিক্ষাবিদ নর্থ সাউথ বিশ্ববিদ্যালয়ের ইতিহাস ও দর্শন বিভাগের অধ্যাপক ড. সলিমুল্লাহ খান বলেছেন, বর্তমান ‘মুনাফাভিত্তিক’ ও ‘কুশিক্ষার’ ব্যবস্থা পরিবর্তন করে একটি বৈষম্যহীন ও যুগোপযোগী ব্যবস্থা চালু করতে হবে। তিনি বলেন, শিক্ষার উদ্দেশ্য হলো দেশকে উজ্জীবিত করা, সাহিত্যকে উজ্জীবিত করা। কিন্তু আমরা সেটা না করে শিক্ষাকে পণ্য হিসেবে ব্যবহার করছি। তিনি বলেন, দেশের সর্বত্র নৈরাজ্য চলছে। এটাকে ঠিক করার জন্য সঠিক মানুষের দরকার। আমরা যদি দেশকে ভালোবাসি তাহলে শুধু  অতীতের কথা মনে রাখলে হবে না, বর্তমান ও ভবিষ্যতের কথাও ভাবতে  হবে। এখনো দেশের লাখ লাখ মানুষ সাধারণ শিক্ষার সুযোগ পাচ্ছে না। শিক্ষার জন্য সরকার টাকা খরচ করতে চায় না। অথচ এ দেশের জনগণের ট্যাক্সের টাকায় সরকার চলে। সরকারে যারা আসে শিক্ষাব্যবস্থা নিয়ে তারা পক্ষপাতমূলক আচরণ করে। আমাদের রাষ্ট্র  জাতির দায়িত্ব নিতে চায় না। কারণ আমরা একটি অভিশপ্ত জাতি।",
-        "image_url": "https://media.ndiganta.com/original_images/3rd-5_iRZavTp.png"
-      },
-      {
-        "headline": "৪ ঘণ্টা ১৫ মিনিটে ‘বাংলা চ্যানেল’ পাড়ি, আবারও চ্যাম্পিয়ন সাইফুল",
-        "url": "https://www.prothomalo.com/bangladesh/district/0q6gmssdpj",
-        "published_at": "2026-01-17T15:06:05.003000+00:00",
-        "summary": "আজ শনিবার ৪ ঘণ্টা ১৫ মিনিটে বাংলা চ্যানেল সাঁতার কেটে আবার চ্যাম্পিয়ন হয়েছেন সাঁতারু ও ঢাকসুর সাবেক সদস্য সাইফুল ইসলাম রাসেল।",
-        "image_s3_key": "prothomalo-bangla/2026-01-17/esfg48oq/WhatsApp-Image-2026-01-17-at-20.57.53.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/esfg48oq/WhatsApp-Image-2026-01-17-at-20.57.53.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "বিক্ষোভে ‘হাজার হাজার মৃত্যুর’ পেছনে যুক্তরাষ্ট্র ও ইসরায়েল: খামেনির অভিযোগ",
-        "url": "https://www.prothomalo.com/world/middle-east/b5en9u93n3",
-        "published_at": "2026-01-17T15:01:37.832000+00:00",
-        "summary": "যুক্তরাষ্ট্র ও ইসরায়েল সরাসরি এই সহিংসতার সঙ্গে জড়িত বলে অভিযোগ করেন খামেনি। তিনি মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে একজন ‘অপরাধী’ হিসেবে বর্ণনা করেন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-17/4bv9j856/Khameni.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/4bv9j856/Khameni.jpg?auto=format,compress"
-      },
-      {
-        "headline": "স্পেনে বিদেশি কর্মীর সংখ্যাই এখন বেশি, দুবছরে প্রায় ৯০ শতাংশ",
-        "url": "https://www.prothomalo.com/video/international/22dblqzi56",
-        "published_at": "2026-01-17T15:00:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-17/6ukz9z89/THUMNAILWEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/6ukz9z89/THUMNAILWEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "স্ত্রীকে হত্যার পর কাঁদতে কাঁদতে থানায় আত্মসমর্পণ করলেন স্বামী",
-        "url": "https://www.ittefaq.com.bd/770748/%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%A4%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A6%A3",
-        "published_at": null,
-        "summary": "ভারতের উত্তর প্রদেশের কানপুরে পারিবারিক কলহের জেরে স্ত্রীকে নৃশংসভাবে হত্যার পর থানায় গিয়ে আত্মসমর্পণ করেছেন শচীন নামের ২২ বছর বয়সী এক তরুণ। শনিবার (১৭ জানুয়ারি) সকালে মহারাজপুর থানায় হাজির হয়ে কান্নায় ভেঙে পড়েন ওই যুবক এবং দায়িত্বরত পুলিশ পরিদর্শকের কাছে নিজের অপরাধ স্বীকার করেন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/9920333086297b1a5ed160e6d5391214-696ba9d14c8cc.jpg"
-      },
-      {
-        "headline": "২২ জানুয়ারি থেকে নির্বাচনী প্রচারে নামবে জামায়াত",
-        "url": "https://dailynayadiganta.com/printed-edition/p92afyDqkhk8/",
-        "published_at": null,
-        "summary": "ইসলামী আন্দোলন বাংলাদেশের জোটে ফিরে আসার সুযোগ থাকার কথা জানিয়েছেন জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল এবং প্রচার ও মিডিয়া বিভাগের প্রধান অ্যাডভোকেট এহসানুল মাহবুব জুবায়ের। এককভাবে নির্বাচনের ঘোষণা দিয়ে ইসলামী আন্দোলনের সংবাদ সম্মেলনের পরদিন গতকাল রাজধানীর মগবাজারে দলীয় কার্যালয়ে সাংবাদিকদের এক প্রশ্নের জবাবে তিনি এ কথা বলেন। ইসলামী আন্দোলনের জন্য জামায়াতের দরজা এখনো খোলা রয়েছে কি নাÑ এমন প্রশ্নের জবাবে তিনি বলেন, সবার জন্য জামায়াতের দরজা খোলা আছে।",
-        "image_url": "https://media.ndiganta.com/original_images/first-2_yDb43Ul.png"
-      },
-      {
-        "headline": "পাঁচ ব্যাংকের নজির, ৯ আর্থিক প্রতিষ্ঠানের শঙ্কা",
-        "url": "https://dailynayadiganta.com/printed-edition/BBIDztXQMRdH/",
-        "published_at": null,
-        "summary": "‘হেয়ারকাট’ নীতিতে পুঁজিবাজার কি ধীরে ধীরে বিনিয়োগশূন্য হয়ে পড়ছে?",
-        "image_url": "https://media.ndiganta.com/original_images/first-1_rn5JZEn.png"
-      },
-      {
-        "headline": "রেকর্ড ২৫তম গ্র্যান্ড স্ল্যামের লক্ষ্য জোকোভিচের",
-        "url": "https://dailynayadiganta.com/printed-edition/EnPBgnEByfvw/",
-        "published_at": null,
-        "summary": "রেকর্ড ২৫তম গ্র্যান্ড স্ল্যাম জয়ের লক্ষ্যে আবারো অস্ট্রেলিয়ান ওপেনে নামছেন নোভাক জোকোভিচ। তবে তার লক্ষ্য অর্জনের পথে বড় বাধা বর্তমান টেনিসের দুই পরাশক্তি কার্লোস আলকারাজ ও জেনিক সিনার। যাদের দ্বৈরথকে অনেকে ডাকছেন ‘সিনকারাজ’ নামে।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "ইতিহাসের মুখোমুখি সেনেগাল-মরক্কো",
-        "url": "https://dailynayadiganta.com/printed-edition/gLgrEH3bC6PU/",
-        "published_at": null,
-        "summary": "আফ্রিকান ফুটবলের সবচেয়ে মর্যাদাপূর্ণ আসর নেশন্স কাপের ফাইনালে আজ মুখোমুখি হচ্ছে বর্তমান চ্যাম্পিয়ন সেনেগাল ও  স্বাগতিক মরক্কো। রাবাতের প্রিন্স মৌলায় আবদেল্লাহ স্টেডিয়ামে ম্যাচটি শুরু বাংলাদেশ সময় রাত ১টায়।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "জট খুলতে আর কত অপেক্ষা",
-        "url": "https://dailynayadiganta.com/printed-edition/jFT8pQB5bT8A/",
-        "published_at": null,
-        "summary": "টি-২০ বিশ্বকাপে বাংলাদেশের খেলা না খেলার বিষয়টি এখনো সমাধান হয়নি। সমাধান করতে গতকাল ঢাকায় আসেন আইসিসির দু’জন কর্মকর্তা। শেরেবাংলা স্টেডিয়ামে হয়েছে দুই পক্ষের বৈঠক। আইসিসি প্রতিনিধিদলের প্রতিনিধিত্ব করেন ইভেন্টস অ্যান্ড করপোরেট কমিউনিকেশনসের জেনারেল ম্যানেজার গৌরব সাক্সেনা এবং ইন্টিগ্রিটি ইউনিটের জেনারেল ম্যানেজার অ্যান্ড্রু এফগ্রেভ। গৌরব সাক্সেনার ভিসা নির্ধারিত সময়ের চেয়ে দেরিতে পাওয়ায় তিনি ব্যক্তিগতভাবে বৈঠকে যোগ দিতে পারেননি এবং তাই ভার্চুয়ালি আলোচনায় যোগ দেন। বিসিবির পক্ষ থেকে সভাপতি মো: আমিনুল ইসলাম, সহসভাপতি মো: শাখাওয়াত হোসেন এবং ফারুক আহমেদ, ক্রিকেট অপারেশনস কমিটির পরিচালক ও চেয়ারম্যান নাজমুল আবেদীন এবং প্রধান নির্বাহী কর্মকর্তা নিজাম উদ্দিন চৌধুরী। বিসিবি এবং আইসিসি এই বিষয়ে গঠনমূলক সংলাপ চালিয়ে যেতে একমত পোষণ করেছে। তবে ফাইনালি কোনো সিদ্ধান্তে আসতে পারেনি কেউই।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "ফাহাদের ফাইফারে ২৩৮ ভারতের",
-        "url": "https://dailynayadiganta.com/printed-edition/pngbsX0mdihx/",
-        "published_at": null,
-        "summary": "টি-২০ বিশ্বকাপ নিয়ে সম্প্রতি যে উত্তাপ ছড়িয়েছে, সেটির রেশ এবার পড়ল অনূর্ধ্ব-১৯ বিশ্বকাপ ক্রিকেটেও। ভারতীয় ক্রিকেট দলের নাটক চলছেই। এশিয়া কাপে পাকিস্তান ক্রিকেট দলের সাথে যেমনটা করেছিল, এবার বাংলাদেশ দলের সাথেও তারই পুনরাবৃত্তি করল ভারত। জিম্বাবুয়ে ও নামিবিয়ায় যৌথভাবে শুরু হয়েছে অনূর্ধ্ব-১৯ বিশ্বকাপ। যেখানে ‘বি’ গ্রুপে বাংলাদেশ অনূর্ধ্ব-১৯ দলের সাথে রয়েছে ভারতও। আসরে গতকাল প্রথম ম্যাচে ভারতের প্রতিপক্ষ ছিল যুব টাইগাররা। ম্যাচ শুরুর আগে টস করে আয়ুশ মাত্রেকে দেখা গেল আজিজুল হাকিমের সাথে হাত না মিলিয়ে এড়িয়ে যেতে। কোন দলের সিদ্ধান্তে ‘নো হ্যান্ডশেক’ তা স্পষ্ট না হলেও সম্প্রতি শেষ হওয়া এশিয়া কাপে পাকিস্তান ক্রিকেট দলের সাথে একই আচরণ ছিল ভারতীয়দেরই। তবে বিসিবি এক সংবাদ বিজ্ঞপ্তিতে জানিয়েছে, হাত না মেলানোর বিষয়টি ছিল অনিচ্ছাকৃত।",
-        "image_url": "https://media.ndiganta.com/original_images/khela-2_AJfuREW.png"
-      },
-      {
-        "headline": "ঢাকাকে বিদায় করে প্লে অফে রংপুর",
-        "url": "https://dailynayadiganta.com/printed-edition/Qz1ofYMGxf4C/",
-        "published_at": null,
-        "summary": "বিপিএলে তিনটি দলের প্লে অফ নিশ্চিত হলেও অপেক্ষায় ছিল রংপুর রাইডার্স ও ঢাকা ক্যাপিটালস। গতকাল দুপুরে গুরুত্বপূর্ণ ম্যাচে ঢাকাকে ১১ রানে হারিয়ে শেষ দল হিসেবে প্লে অফে জায়গা করে নিয়েছে রংপুর রাইডার্স। মিরপুর শেরেবাংলায় আগে ব্যাটিংয়ে নেমে ডেভিড মালান ও তৌহিদ হৃদয়ের ফিফটিতে চার উইকেটে ১৮১ রান করে রাইডার্সরা। জবাবে সাইফউদ্দিনের ঝড়ো ব্যাটিংয়ের পরও সাত উইকেটে ১৭০ রানের বেশি করতে না পারায় চতুর্থ দল হিসেবে প্লে অফ নিশ্চিত হয় রংপুরের। এই জয়ে টানা তিন হারের পর লিটন কুমার দাসের অধিনায়কত্বে জয় তুলে নিলো রংপুর। ৯ ম্যাচে ১০ পয়েন্ট নিয়ে এখন টেবিলের চারে রংপুর।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "আপিলে প্রার্থিতা ফিরে পেলেন আরও ৪৩ জন, বিএনপির মঞ্জুরুলের বাতিল",
-        "url": "https://www.prothomalo.com/bangladesh/ke0o6twmfi",
-        "published_at": "2026-01-17T17:48:14.088000+00:00",
-        "summary": "কুমিল্লা-৪ আসনে বিএনপির প্রার্থী মঞ্জুরুল আহসান মুন্সীর মনোনয়নপত্র বাতিল করেছে নির্বাচন কমিশন (ইসি)।",
-        "image_s3_key": "prothomalo-bangla/2026-01-17/ay0f4a53/image.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/ay0f4a53/image.webp?auto=format,compress"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "‘মানুষের মন বোঝা শক্ত’",
+        "url": "https://www.prothomalo.com/politics/falac1oqad",
+        "published_at": "2026-01-18T05:43:51.638000+00:00",
+        "summary": "অঞ্চলটি খুলনা-১ আসনে। দাকোপ ও বটিয়াঘাটা—এই দুই উপজেলা নিয়ে আসনটি। এই আসন দেশের মানুষের দৃষ্টি কেড়েছে মূলত জামায়াতের প্রার্থীর কারণে। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-17/6hjpktyz/Motamot-2.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/6hjpktyz/Motamot-2.jpg?auto=format,compress"
+      },
+      {
+        "headline": "‘হ্যাঁ’ ভোটের পক্ষে প্রচারে প্রজাতন্ত্রের কর্মচারীদের বাধা নেই: আলী রীয়াজ",
+        "url": "https://www.prothomalo.com/bangladesh/hmabc3yr45",
+        "published_at": "2026-01-18T05:25:53.903000+00:00",
+        "summary": "মতবিনিময় সভায় আলী রীয়াজ বলেন, ‘এবারের গণভোট কোনো দলকে ক্ষমতায় বসানো কিংবা কোনো দলকে ক্ষমতায় যেতে বাধা দেওয়ার এজেন্ডা নয়।’",
+        "image_s3_key": "prothomalo-bangla/2026-01-18/js5iscre/Riaz.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/js5iscre/Riaz.jpeg?auto=format,compress"
+      },
       {
         "headline": "নানক-তাপসসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল",
         "url": "https://www.prothomalo.com/bangladesh/aljm6c1grr",
@@ -1799,20 +1816,25 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/qtfdkfco/WhatsApp-Image-2026-01-17-at-18.54.40.jpeg?auto=format,compress"
       },
       {
-        "headline": "বিতর্কের অবসান, ভাসানচর সন্দ্বীপের অংশ",
-        "url": "https://www.prothomalo.com/bangladesh/district/ozsdhffi4m",
-        "published_at": "2026-01-17T12:56:38.667000+00:00",
-        "summary": "ভাসানচর সন্দ্বীপের নাকি হাতিয়ার—অবশেষে এই বিতর্কের অবসান হলো। ভাসানচরের ছয়টি মৌজা সন্দ্বীপের অন্তর্গত বলে এমন সিদ্ধান্ত দিয়েছে ভূমি মন্ত্রণালয়।",
-        "image_s3_key": "prothomalo-bangla/2025-04-10/sny7x67a/Untitled-6.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-04-10/sny7x67a/Untitled-6.jpg?auto=format,compress"
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
       },
       {
-        "headline": "বৈষম্যবিরোধী ছাত্র আন্দোলনের দুই নেতার ওপর হামলার অভিযোগ, প্রতিবাদে সড়ক অবরোধ",
-        "url": "https://www.prothomalo.com/bangladesh/district/f3ksfn086i",
-        "published_at": "2026-01-17T12:55:52.217000+00:00",
-        "summary": "হামলার শিকার ওই দুই নেতা হলেন বৈষম্যবিরোধী ছাত্র আন্দোলনের সাবেক চট্টগ্রাম দক্ষিণ জেলার সংগঠক হাসনাত আবদুল্লাহ ও সাবেক মহানগরের সংগঠক মঈন উদ্দীন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-17/m66vf4f4/WhatsApp-Image-2026-01-17-at-6.44.48-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/m66vf4f4/WhatsApp-Image-2026-01-17-at-6.44.48-PM.jpeg?auto=format,compress"
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
+      },
+      {
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
       },
       {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
@@ -1822,7 +1844,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -1832,7 +1854,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -1854,7 +1876,7 @@
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206081",
         "published_at": "2026-01-18T11:02:33+06:00",
         "summary": "প্রধান নির্বাচন কমিশনার (সিইসি) এ এম এম নাসির উদ্দিনের সঙ্গে আজ রবিবার বিকালে বৈঠকে বসতে যাচ্ছেন বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712552-d6e8cde5ade66646b8c1b40919214b01.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713889-c6df1bdcb06b5e804ce0831cfb143487.jpg"
       },
       {
         "headline": "আমির হামজার বিরুদ্ধে বিক্ষোভ, কুশপুত্তলিকায় জুতার মালা",
@@ -1864,25 +1886,11 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
       },
       {
-        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
-        "published_at": "2026-01-18T10:07:04+06:00",
-        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
-      },
-      {
-        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
-        "published_at": "2026-01-18T09:44:05+06:00",
-        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
-      },
-      {
-        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
-        "published_at": "2026-01-18T08:48:47+06:00",
-        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
+        "headline": "নানক-তাপসসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল",
+        "url": "https://www.ittefaq.com.bd/770791/%E0%A6%A8%E0%A6%BE%E0%A6%A8%E0%A6%95-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A6%B8%E0%A6%B9-%E0%A7%A8%E0%A7%AE-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97",
+        "published_at": null,
+        "summary": "মানবতাবিরোধী অপরাধের একটি মামলায় সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ মোট ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করা হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/a108e8110bc45ae45b90cf6ffcb2fd81-696c70c5d1648.jpg"
       },
       {
         "headline": "কাদের-পরশ-সাদ্দামসহ ৭ আসামির বিরুদ্ধে অভিযোগ গঠনের শুনানি আজ",
@@ -1948,13 +1956,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/c739db9deba124e0788d2355f5e9fc6d-696b9249ebfff.jpg"
       },
       {
-        "headline": "বাংলাদেশ নিয়মভিত্তিক বৈশ্বিক অর্থনৈতিক সহযোগিতাকে সমর্থন করে: পররাষ্ট্র উপদেষ্টা",
-        "url": "https://www.ittefaq.com.bd/770720/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87",
-        "published_at": null,
-        "summary": "পররাষ্ট্র উপদেষ্টা মো. তৌহিদ হোসেন নিয়মভিত্তিক আন্তর্জাতিক শৃঙ্খলা এবং সম্মিলিত বৈশ্বিক পদক্ষেপের পক্ষে বাংলাদেশের অঙ্গীকার পুনর্ব্যক্ত করেছেন। অভিন্ন অর্থনৈতিক চ্যালেঞ্জ মোকাবিলায় আলোচনা ও সহযোগিতার ওপরও গুরুত্বারোপ করেছেন তিনি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/b9410b9c0496028c0e5106c9d83f4435-696b823d68c22.jpg"
-      },
-      {
         "headline": "প্রতিবেশীর বিড়াল পিটিয়ে হত্যা, থানায় অভিযোগ",
         "url": "https://www.ittefaq.com.bd/770788/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A7%9C%E0%A6%BE%E0%A6%B2-%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97",
         "published_at": null,
@@ -1965,7 +1966,7 @@
         "headline": "নোয়াখালীতে ‘ডাকাত আখ্যা’ দিয়ে প্রকাশ্যে পিটিয়ে যুবক হত্যা",
         "url": "https://www.ittefaq.com.bd/770787/%E0%A6%A8%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E2%80%98%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%86%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E2%80%99-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A7%9F%E0%A7%87",
         "published_at": null,
-        "summary": "নোয়াখালীর কবিরহাট উপজেলায় এক যুবককে প্রকাশ্যে পিটিয়ে হত্যার অভিযোগ উঠেছে। শনিবার (১৭ জানুয়ারি) রাত ১০টার দিকে উপজেলার নরোত্তমপুর ইউনিয়নের ২ নম্বর ওয়ার্ডের কালিরহাট বাজারসংলগ্ন কাজী বাড়ির সামনে সড়কে এ ঘটনা ঘটে। হত্যাকাণ্ডের পর নিহতকে ‘ডাকাত’ আখ্যা দিয়ে একদল যুবক বাজারে মিষ্টি বিতরণ করার অভিযোগ উঠেছে।",
+        "summary": "নোয়াখালীর কবিরহাট উপজেলায় এক যুবককে প্রকাশ্যে পিটিয়ে হত্যার অভিযোগ উঠেছে। শনিবার (১৭ জানুয়ারি) রাত ১০টার দিকে উপজেলার নরোত্তমপুর ইউনিয়নের ২ নম্বর ওয়ার্ডের কালিরহাট বাজারসংলগ্ন কাজী বাড়ির সামনে সড়কে এ ঘটনা ঘটে। হত্যাকাণ্ডের পর নিহতকে ‘ডাকাত’ আখ্যা দিয়ে একদল যুবকের বিরুদ্ধে বাজারে মিষ্টি বিতরণ করার অভিযোগ উঠেছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/ae2ff1a669a67cbacbaac1a27a150df3-696c672be6a49.jpg"
       },
       {
@@ -2233,6 +2234,50 @@
         "published_at": "1768663669",
         "summary": "নারায়ণগঞ্জের আড়াইহাজার উপজেলায় এক মৎস্য ব্যবসায়ীর বাড়িতে দুর্ধর্ষ ডাকাতির ঘটনা ঘটেছে। এ ঘটনায় নগদ টাকা ও স্বর্ণালঙ্কারসহ বিপুল পরিমাণ সম্পদ লুট হয়েছে। ডাকাতদের হামলায় গৃহকর্তার ছেলে আহত হয়েছেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/IMG20260117191435-20260117152749.jpg"
+      },
+      {
+        "headline": "বিতর্কের অবসান, ভাসানচর সন্দ্বীপের অংশ",
+        "url": "https://www.prothomalo.com/bangladesh/district/ozsdhffi4m",
+        "published_at": "2026-01-17T12:56:38.667000+00:00",
+        "summary": "ভাসানচর সন্দ্বীপের নাকি হাতিয়ার—অবশেষে এই বিতর্কের অবসান হলো। ভাসানচরের ছয়টি মৌজা সন্দ্বীপের অন্তর্গত বলে এমন সিদ্ধান্ত দিয়েছে ভূমি মন্ত্রণালয়।",
+        "image_s3_key": "prothomalo-bangla/2025-04-10/sny7x67a/Untitled-6.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-04-10/sny7x67a/Untitled-6.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বৈষম্যবিরোধী ছাত্র আন্দোলনের দুই নেতার ওপর হামলার অভিযোগ, প্রতিবাদে সড়ক অবরোধ",
+        "url": "https://www.prothomalo.com/bangladesh/district/f3ksfn086i",
+        "published_at": "2026-01-17T12:55:52.217000+00:00",
+        "summary": "হামলার শিকার ওই দুই নেতা হলেন বৈষম্যবিরোধী ছাত্র আন্দোলনের সাবেক চট্টগ্রাম দক্ষিণ জেলার সংগঠক হাসনাত আবদুল্লাহ ও সাবেক মহানগরের সংগঠক মঈন উদ্দীন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-17/m66vf4f4/WhatsApp-Image-2026-01-17-at-6.44.48-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/m66vf4f4/WhatsApp-Image-2026-01-17-at-6.44.48-PM.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
+        "published_at": "2026-01-18T10:07:04+06:00",
+        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+      },
+      {
+        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
+        "published_at": "2026-01-18T09:44:05+06:00",
+        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+      },
+      {
+        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
+        "published_at": "2026-01-18T08:48:47+06:00",
+        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
+      },
+      {
+        "headline": "বাংলাদেশ নিয়মভিত্তিক বৈশ্বিক অর্থনৈতিক সহযোগিতাকে সমর্থন করে: পররাষ্ট্র উপদেষ্টা",
+        "url": "https://www.ittefaq.com.bd/770720/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87",
+        "published_at": null,
+        "summary": "পররাষ্ট্র উপদেষ্টা মো. তৌহিদ হোসেন নিয়মভিত্তিক আন্তর্জাতিক শৃঙ্খলা এবং সম্মিলিত বৈশ্বিক পদক্ষেপের পক্ষে বাংলাদেশের অঙ্গীকার পুনর্ব্যক্ত করেছেন। অভিন্ন অর্থনৈতিক চ্যালেঞ্জ মোকাবিলায় আলোচনা ও সহযোগিতার ওপরও গুরুত্বারোপ করেছেন তিনি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/b9410b9c0496028c0e5106c9d83f4435-696b823d68c22.jpg"
       },
       {
         "headline": "আওয়ামী লীগ নেতার বাড়িতে অভিযান, অস্ত্র তৈরির সরঞ্জামসহ দুই ভাই গ্রেপ্তার",
@@ -2926,53 +2971,30 @@
         "published_at": "1768655279",
         "summary": "নেত্রকোণা-৪ আসনে স্বতন্ত্র প্রার্থী তাহমিনা জামান শ্রাবণী মনোনয়ন প্রত্যাহার করেছেন। তিনি একই আসনে বিএনপির প্রার্থী সাবেক স্বরাষ্ট্র প্রতিমন্ত্রী লুৎফুজ্জামান বাবরের স্ত্রী।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/mohon-20260117130759.jpg"
-      },
-      {
-        "headline": "সিলেটে দুই বাসের মুখোমুখি সংঘর্ষে নিহত ২",
-        "url": "https://www.prothomalo.com/bangladesh/district/wi8x65rwaz",
-        "published_at": "2026-01-17T05:29:00+00:00",
-        "summary": "আজ শনিবার সকালে সিলেটের ওসমানীনগরে ঢাকা-সিলেট মহাসড়কে দুই বাসের মুখোমুখি সংঘর্ষে দুজন নিহত হয়েছেন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-17/o57hxm1o/SylhetDH077820260117sylhet-acc.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/o57hxm1o/SylhetDH077820260117sylhet-acc.jpg?auto=format,compress"
-      },
-      {
-        "headline": "কক্সবাজারে বন বিভাগের কর্মীকে প্রাণনাশের হুমকি",
-        "url": "https://www.bd-pratidin.com/country/2026/01/17/1205824",
-        "published_at": "2026-01-17T18:47:15+06:00",
-        "summary": "কয়েক বছর আগে উখিয়া রেঞ্জে বনকর্মী সাজ্জাদকে হত্যার ঘটনার পর এবার উখিয়া রেঞ্জের সদর বিট কর্মকর্তা মোহাম্মদ আব্দুল মান্নানকে প্রাণনাশের হুমকি দেওয়া হয়েছে বলে অভিযোগ উঠেছে। কক্সবাজার দক্ষিণ বনবিভাগের উখিয়া রেঞ্জ অফিসের এই কর্মকর্তাকে টেলিফোন ও হোয়াটসঅ্যাপে প্রাণনাশের হুমকি দেওয়া হয়েছে বলে জানা গেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768654029-6ef83ec065770c76c4d00d5971a2a9e8.jpg"
-      },
-      {
-        "headline": "নারীকে বাদ দিয়ে দেশে গণতন্ত্র ঘটবে না: উপদেষ্টা শারমীন",
-        "url": "https://www.ittefaq.com.bd/770679/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%97%E0%A6%A3%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%89%E0%A6%AA%E0%A6%A6%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE",
-        "published_at": null,
-        "summary": "নারীদের বাদ দিয়ে দেশে কোনোদিন গণতন্ত্র ঘটবে না বলে মন্তব্য করেছেন সমাজকল্যাণ এবং নারী ও শিশু বিষয়ক উপদেষ্টা শারমীন এস মুরশিদ।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/c922ed3d2c7527aafc78f9eaa3dc71eb-696b4b4e53a0c.jpg"
-      },
-      {
-        "headline": "রাজধানীর বনশ্রীতে দশম শ্রেণির ছাত্রীকে গলা কেটে হত্যা",
-        "url": "https://www.amarsangbad.com/bangladesh/news/334437",
-        "published_at": "1768054222",
-        "summary": "রাজধানীর খিলগাঁও থানাধীন দক্ষিণ বনশ্রী এলাকায় নিজ বাসায় ফাতেমা আক্তার লিলি (১৭) নামের দশম শ্রেণির এক শিক্ষার্থীকে গলা কেটে নৃশংসভাবে হত্যা করেছে দুর্বৃত্তরা।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-38-20260110141022.jpg"
-      },
-      {
-        "headline": "দুই দিনে সাড়ে ৪ হাজার মামলা করেছে ডিএমপি",
-        "url": "https://www.amarsangbad.com/national/news/335135",
-        "published_at": "1768646819",
-        "summary": "রাজধানীর বিভিন্ন এলাকায় ট্রাফিক আইন লঙ্ঘনকারীদের বিরুদ্ধে অভিযান পরিচালনা করে গত দুই দিনে সাড়ে চার হাজার মামলা করেছে ঢাকা মহানগর পুলিশের (ডিএমপি) ট্রাফিক বিভাগ।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260117104659.jpg"
-      },
-      {
-        "headline": "ময়মনসিংহে ছুরিকাঘাতে ‘বিদ্রোহী’ প্রার্থীর কর্মীকে হত্যার ঘটনায় লিখিত অভিযোগ",
-        "url": "https://www.prothomalo.com/bangladesh/district/vsd28zjj5j",
-        "published_at": "2026-01-17T05:21:02.491000+00:00",
-        "summary": "ময়মনসিংহ-১ (হালুয়াঘাট-ধোবাউড়া) আসনে বিএনপির ‘বিদ্রোহী’ প্রার্থীর এক সমর্থককে ছুরিকাঘাতে হত্যার ঘটনায় থানায় অভিযোগ দেওয়া হয়েছে। আজ শনিবার ভোরে লিখিত অভিযোগটি করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-01-16/9wua7w3x/MYMENSINGHDH169420260116IMG-20260116-WA0115.JPG.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-16/9wua7w3x/MYMENSINGHDH169420260116IMG-20260116-WA0115.JPG.JPG?auto=format,compress"
       }
     ],
     "politics": [
+      {
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
+      },
+      {
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
+      },
+      {
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
+      },
       {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
         "url": "https://www.bd-pratidin.com/city-news/2026/01/18/1206091",
@@ -2981,7 +3003,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -2991,7 +3013,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -3013,7 +3035,7 @@
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206081",
         "published_at": "2026-01-18T11:02:33+06:00",
         "summary": "প্রধান নির্বাচন কমিশনার (সিইসি) এ এম এম নাসির উদ্দিনের সঙ্গে আজ রবিবার বিকালে বৈঠকে বসতে যাচ্ছেন বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712552-d6e8cde5ade66646b8c1b40919214b01.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713889-c6df1bdcb06b5e804ce0831cfb143487.jpg"
       },
       {
         "headline": "আমির হামজার বিরুদ্ধে বিক্ষোভ, কুশপুত্তলিকায় জুতার মালা",
@@ -3023,25 +3045,11 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
       },
       {
-        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
-        "published_at": "2026-01-18T10:07:04+06:00",
-        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
-      },
-      {
-        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
-        "published_at": "2026-01-18T09:44:05+06:00",
-        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
-      },
-      {
-        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
-        "published_at": "2026-01-18T08:48:47+06:00",
-        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
+        "headline": "‘সুদ’ থেকে আয়ের টাকা কেউ কেউ দান করে দিতেও পারে: তাহেরি",
+        "url": "https://www.ittefaq.com.bd/770790/%E2%80%98%E0%A6%B8%E0%A7%81%E0%A6%A6%E2%80%99-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%89-%E0%A6%95%E0%A7%87%E0%A6%89-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে হবিগঞ্জ-৪ (মাধবপুর–চুনারুঘাট) আসনে ইসলামী ফ্রন্টের প্রার্থী হিসেবে প্রতিদ্বন্দ্বিতা করছেন আলোচিত ইসলামি বক্তা মো. গিয়াস উদ্দিন তাহেরি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/0e9394baabc50a875cc9ed12baff4658-696c6fffb9c64.jpg"
       },
       {
         "headline": "তারেক রহমানের সাথে ব্রিটিশ হাইকমিশনারের সাক্ষাৎ",
@@ -3107,13 +3115,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/ab4df6a75e8e1858697301d7e04c5a26-696b8a14c894b.jpg"
       },
       {
-        "headline": "কৌশলে নির্বাচন থেকে সরে দাঁড়ানোর সুযোগ কাউকে দেবে না বিএনপি: সালাহউদ্দিন আহমদ",
-        "url": "https://www.ittefaq.com.bd/770718/%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%95%E0%A6%BE%E0%A6%89%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87",
-        "published_at": null,
-        "summary": "নির্বাচন কমিশন (ইসি) ও একটি দল নির্বাচন থেকে সরে দাঁড়ানোর সুযোগ খুঁজছে। আমরা তাদের সেই সুযোগ দেব না- এমনটাই মন্তব্য করেছেন বিএনপির স্থায়ী কমিটির সদস্য সালাহউদ্দিন আহমদ।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/d48109d9917ad569313bac5341a0f766-696b805ce62fe.jpg"
-      },
-      {
         "headline": "হাতপাখাকে ৪৫ আসন ছাড়, বুধবার চূড়ান্ত ঘোষণা জামায়াতের",
         "url": "https://www.amarsangbad.com/politics/news/334771",
         "published_at": "1768319616",
@@ -3170,18 +3171,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260117125232.jpg"
       },
       {
+        "headline": "‘হ্যাঁ’ ভোট নিয়ে বিএনপির অবস্থান স্পষ্ট করলেন ইশরাক",
+        "url": "https://www.amarsangbad.com/politics/news/335187",
+        "published_at": "1768714734",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পাশাপাশি গণভোট অনুষ্ঠিত হবে আগামী ১২ ফেব্রুয়ারি। এ নির্বাচনে ‘হ্যাঁ’ ভোট জয়ী করতে অন্তর্বর্তী সরকারের পাশাপাশি বিভিন্ন রাজনৈতিক দলও প্রচারণা চালাচ্ছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-1-20260118053854.jpg"
+      },
+      {
         "headline": "ফেসবুকের শীর্ষ ১০০ কনটেন্ট ক্রিয়েটরের তালিকায় তারেক রহমান",
         "url": "https://www.amarsangbad.com/politics/news/335184",
         "published_at": "1768712738",
         "summary": "সামাজিক যোগাযোগমাধ্যমে আলোচনার পরিধি ও প্রভাবের দিক থেকে নতুন এক অবস্থানে পৌঁছেছেন বিএনপির চেয়ারম্যান তারেক রহমান। আন্তর্জাতিক সামাজিক মাধ্যম বিশ্লেষণধর্মী ওয়েবসাইট সোশ্যাল ব্লেড প্রকাশিত ফেসবুকের শীর্ষ ১০০ কনটেন্ট ক্রিয়েটরের তালিকায় জায়গা করে নিয়েছেন তিনি।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-1-20260118050538.jpg"
-      },
-      {
-        "headline": "তারেক রহমানের সঙ্গে ব্রিটিশ হাইকমিশনারের সাক্ষাৎ",
-        "url": "https://www.amarsangbad.com/politics/news/335174",
-        "published_at": "1768665047",
-        "summary": "বিএনপি চেয়ারম্যান তারেক রহমানের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন ঢাকায় নিযুক্ত ব্রিটিশ হাইকমিশনার সারাহ কুক।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/kuke-20260117155047.jpg"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260118050538.jpg"
       },
       {
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
@@ -3196,6 +3197,41 @@
         "published_at": null,
         "summary": "জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল এবং কেন্দ্রীয় প্রচার ও মিডিয়া বিভাগের প্রধান অ্যাডভোকেট এহসানুল মাহবুব জুবায়ের জানিয়েছেন, ইসলামী আন্দোলনের জন্য ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
+        "published_at": "2026-01-18T10:07:04+06:00",
+        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+      },
+      {
+        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
+        "published_at": "2026-01-18T09:44:05+06:00",
+        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+      },
+      {
+        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
+        "published_at": "2026-01-18T08:48:47+06:00",
+        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
+      },
+      {
+        "headline": "কৌশলে নির্বাচন থেকে সরে দাঁড়ানোর সুযোগ কাউকে দেবে না বিএনপি: সালাহউদ্দিন আহমদ",
+        "url": "https://www.ittefaq.com.bd/770718/%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%B8%E0%A7%81%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%95%E0%A6%BE%E0%A6%89%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87",
+        "published_at": null,
+        "summary": "নির্বাচন কমিশন (ইসি) ও একটি দল নির্বাচন থেকে সরে দাঁড়ানোর সুযোগ খুঁজছে। আমরা তাদের সেই সুযোগ দেব না- এমনটাই মন্তব্য করেছেন বিএনপির স্থায়ী কমিটির সদস্য সালাহউদ্দিন আহমদ।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/d48109d9917ad569313bac5341a0f766-696b805ce62fe.jpg"
+      },
+      {
+        "headline": "তারেক রহমানের সঙ্গে ব্রিটিশ হাইকমিশনারের সাক্ষাৎ",
+        "url": "https://www.amarsangbad.com/politics/news/335174",
+        "published_at": "1768665047",
+        "summary": "বিএনপি চেয়ারম্যান তারেক রহমানের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন ঢাকায় নিযুক্ত ব্রিটিশ হাইকমিশনার সারাহ কুক।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/kuke-20260117155047.jpg"
       },
       {
         "headline": "২২ রানে ৭ উইকেট খুইয়ে হার দিয়ে বিশ্বকাপ শুরু বাংলাদেশের",
@@ -4337,44 +4373,17 @@
         "published_at": "2026-01-16T18:17:08+06:00",
         "summary": "গণভোট ও জাতীয় সংসদ নির্বাচন নিয়ে জনসচেতনতা বাড়াতে ‘ভোটের গাড়ি’ এখন বাগেরহাটে অবস্থান করছে। “গণভোট ও সংসদ নির্বাচন, দেশের চাবি আপনার হাতে”—এই স্লোগানকে সামনে রেখে সকালে গাড়িটি জেলার মোল্লাহাট উপজেলার গাংনি ইউনিয়ন পরিষদ মাঠে পৌঁছায়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768565822-67ec4ed8e6a1007ca2553d8add95e8cf.jpg"
-      },
-      {
-        "headline": "বাকী ৩২ আসনে কাদের সমর্থন দেবে, জানাল ইসলামী আন্দোলন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/16/1205425",
-        "published_at": "2026-01-16T18:14:37+06:00",
-        "summary": "জামায়াতসহ ১১ দলীয় নির্বাচনী ঐক্যে যাচ্ছে না ইসলামী আন্দোলন বাংলাদেশ (আইএবি)। আজ শুক্রবার বিকেল ৩টায় রাজধানীর পুরানা পল্টনে আইএবির কেন্দ্রীয় কার্যালয়ে এক সংবাদ সম্মেলনে দলের পক্ষ থেকে এ ঘোষণা দেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768565668-4bc16a9cfa1bf82325f02c80a6ab9a5a.jpg"
-      },
-      {
-        "headline": "চট্টগ্রাম ওয়াসার জায়গা দখলের অভিযোগ",
-        "url": "https://www.bd-pratidin.com/chittagong-pratidin/2026/01/16/1205421",
-        "published_at": "2026-01-16T17:44:01+06:00",
-        "summary": "চট্টগ্রাম নগরের কেন্দ্রীয় শহীদ মিনারের পাশে ওয়াসার পাম্প হাউজের বাউন্ডারি দেয়াল ভেঙে ভেতরে প্রবেশ করে জায়গা দখলের চেষ্টা চালানোর অভিযোগ উঠেছে।  বৃহস্পতিবার রাত ১২টার দিকে একদল দুর্বৃত্ত ওয়াসার জায়গা দখলের চেষ্টা করে। এ সময় বিএনপি সমর্থিত হকার দলের সাইনবোর্ডও সেখানে লাগানো হয় বলে অভিযোগ করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768563834-e06d061a77a7bde916b8a91163029d41.jpg"
-      },
-      {
-        "headline": "নতুন রাজনৈতিক প্ল্যাটফর্ম ‘এনপিএ’র আত্মপ্রকাশ",
-        "url": "https://www.amarsangbad.com/politics/news/335057",
-        "published_at": "1768564308",
-        "summary": "পাঁচটি মূলনীতি সামনে রেখে ‘নেটওয়ার্ক ফর পিপলস অ্যালায়েন্স’ (এনপিএ) নামে নতুন একটি রাজনৈতিক প্ল্যাটফর্মের আত্মপ্রকাশ ঘটেছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-20-20260116115148.jpg"
-      },
-      {
-        "headline": "আওয়ামী লীগের পাঁচ শতাধিক নেতাকর্মীর বিএনপিতে যোগদান",
-        "url": "https://www.ittefaq.com.bd/770559/%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%A4%E0%A7%87",
-        "published_at": null,
-        "summary": "লালমনিরহাটের আদিতমারী উপজেলায় আওয়ামী লীগের পাঁচ শতাধিক নেতাকর্মী বিএনপিতে যোগ দিয়েছেন।বৃহস্পতিবার (১৫ জানুয়ারি) রাতে ভেলাবাড়ী ইউনিয়নের চেয়ারম্যানটারী এলাকায় আয়োজিত এক সমাবেশে আনুষ্ঠানিকভাবে বিএনপিতে যোগ দেন তারা।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/16/f4af8807f36b369fd7f356fd156c4ebe-6969efb21754f.jpg"
-      },
-      {
-        "headline": "'ইসলামের পক্ষে ওয়ান বক্স নীতিতে যারা আসতে চায় তাদের জন্য দরজা খোলা'",
-        "url": "https://www.bd-pratidin.com/election/2026/01/16/1205419",
-        "published_at": "2026-01-16T17:43:17+06:00",
-        "summary": "৩০০ আসনেই প্রার্থী থাকবে এবং ইসলামের পক্ষে ওয়ান বক্স নীতিতে যারা আসতে চায় তাদের জন্য দরজা খোলা বলে ঘোষণা দিয়েছে ইসলামী আন্দোলন বাংলাদেশ। একক নির্বাচনের এই অবস্থান স্পষ্ট করে দলটি জানায়, আদর্শিক প্রশ্নে আপস করে কোনো জোটে যাওয়ার সুযোগ নেই।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768563790-535b091cafbf3cb0af22599b17cb3be8.jpg"
       }
     ],
     "world": [
+      {
+        "headline": "৮৮ লাখ ৪০ হাজার কোটি টাকার মালিক ইলন মাস্ক কী কী কিনতে পারেন",
+        "url": "https://www.prothomalo.com/world/usa/m2ufa7et1y",
+        "published_at": "2026-01-18T05:35:17.869000+00:00",
+        "summary": "পুঁজিবাজার যেকোনো সময় অস্থির হয়ে উঠতে পারে, পুঁজি বাজারে ধস নামলে শেয়ারের মূল্যও দ্রুত পড়ে যেতে পারে। তাতে সম্পদের পরিমাণ উল্লেখযোগ্যভাবে কমবে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-18/a9s8sjqp/Elon-Musk.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-18/a9s8sjqp/Elon-Musk.avif?auto=format,compress"
+      },
       {
         "headline": "পাকিস্তানের করাচিতে শপিং মলে আগুন: নিহত ৫, আহত অনেকে",
         "url": "https://www.prothomalo.com/world/pakistan/8lpkhdd9jw",
@@ -4688,12 +4697,25 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/sm3qtiak/3126fb20-f202-11f0-b5f7-49f0357294ff.jpg.webp?auto=format,compress"
       },
       {
-        "headline": "ইরানে হামলার হুমকির মধ্যে মধ্যপ্রাচ্যে বিমানবাহী রণতরি পাঠাচ্ছে যুক্তরাষ্ট্র",
-        "url": "https://www.prothomalo.com/world/middle-east/7iuamougxx",
-        "published_at": "2026-01-15T15:16:16.267000+00:00",
-        "summary": "ওয়াল স্ট্রিট জার্নাল জানিয়েছে, বর্তমানে ক্যারিবীয় অঞ্চলে যুক্তরাষ্ট্রের ১২টি যুদ্ধজাহাজ মোতায়েন করা আছে। বর্তমানে মধ্যপ্রাচ্যে দেশটির যুদ্ধজাহাজ রয়েছে ছয়টি।",
-        "image_s3_key": "prothomalo-bangla/2026-01-15/t9op98jj/00-4.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/t9op98jj/00-4.jpg?auto=format,compress"
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
+      },
+      {
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
+      },
+      {
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
       },
       {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
@@ -4703,7 +4725,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -4713,7 +4735,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -4735,7 +4757,7 @@
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206081",
         "published_at": "2026-01-18T11:02:33+06:00",
         "summary": "প্রধান নির্বাচন কমিশনার (সিইসি) এ এম এম নাসির উদ্দিনের সঙ্গে আজ রবিবার বিকালে বৈঠকে বসতে যাচ্ছেন বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712552-d6e8cde5ade66646b8c1b40919214b01.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713889-c6df1bdcb06b5e804ce0831cfb143487.jpg"
       },
       {
         "headline": "আমির হামজার বিরুদ্ধে বিক্ষোভ, কুশপুত্তলিকায় জুতার মালা",
@@ -4745,25 +4767,18 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
       },
       {
-        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
-        "published_at": "2026-01-18T10:07:04+06:00",
-        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+        "headline": "এক ট্রিলিয়ন ডলারের পথে ইলন মাস্ক, সম্পদ ৭৮০ বিলিয়ন ডলার",
+        "url": "https://www.ittefaq.com.bd/770793/%E0%A6%8F%E0%A6%95-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%87%E0%A6%B2%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A6-%E0%A7%AD%E0%A7%AE%E0%A7%A6-%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8",
+        "published_at": null,
+        "summary": "বিশ্বের শীর্ষ ধনীদের তালিকায় ইলন মাস্কের আধিপত্য দিন দিন আরও শক্ত হচ্ছে। সম্পদ বৃদ্ধির যে গতি তিনি ধরে রেখেছেন, তাতে ইতিহাসের প্রথম ব্যক্তি হিসেবে এক ট্রিলিয়ন ডলারের মালিক হওয়া এখন কেবল সময়ের অপেক্ষা—এমনটাই মনে করছেন বিশ্লেষকেরা। সেই লক্ষ্যপথে আরও এক ধাপ এগিয়ে গেছেন টেসলা ও স্পেসএক্সের প্রধান নির্বাহী।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/8ee84664cae095a65531fdf26cbb88ce-696c721203138.png"
       },
       {
-        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
-        "published_at": "2026-01-18T09:44:05+06:00",
-        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
-      },
-      {
-        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
-        "published_at": "2026-01-18T08:48:47+06:00",
-        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
+        "headline": "নিজস্ব ইন্টারনেট ও সোশ্যাল মিডিয়া আনছে ইরান",
+        "url": "https://www.ittefaq.com.bd/770792/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A6%B8%E0%A7%8D%E0%A6%AC-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%9F-%E0%A6%93-%E0%A6%B8%E0%A7%8B%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%86%E0%A6%A8%E0%A6%9B%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8",
+        "published_at": null,
+        "summary": "ইরানকে বৈশ্বিক ইন্টারনেট থেকে কার্যত স্থায়ীভাবে বিচ্ছিন্ন করার পথে হাঁটছে দেশটির সরকার—এমন আশঙ্কা প্রকাশ করেছেন ডিজিটাল অধিকারকর্মীরা। তাদের দাবি, নতুন এই ব্যবস্থায় সাধারণ মানুষের জন্য আন্তর্জাতিক ইন্টারনেট আর নাগরিক অধিকার হিসেবে গণ্য হবে না; বরং সরকারের অনুমোদন পাওয়া সীমিত একটি গোষ্ঠীই নিয়ন্ত্রিতভাবে বৈশ্বিক নেটওয়ার্ক ব্যবহারের সুযোগ পাবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/18/eaed7041745a64a430c358aedac8b528-696c710191013.jpg"
       },
       {
         "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ডোনাল্ড ট্রাম্প",
@@ -4822,20 +4837,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/d83632ef09a20f6a58cc0f61efd04ace-696ba0bd8ba14.jpg"
       },
       {
-        "headline": "ইন্দোনেশিয়ায় ১১ জন আরোহীসহ যাত্রীবাহী বিমান নিখোঁজ",
-        "url": "https://www.ittefaq.com.bd/770739/%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A7%A7%E0%A7%A7-%E0%A6%9C%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%96%E0%A7%8B%E0%A6%81%E0%A6%9C",
-        "published_at": null,
-        "summary": "ইন্দোনেশিয়ায় ১১ জন আরোহী নিয়ে একটি যাত্রীবাহী অভ্যন্তরীণ ফ্লাইট নিখোঁজ হয়েছে। শনিবার (১৭ জানুয়ারি) জাকার্তা থেকে মাকাসার অভিমুখে যাওয়ার পথে বিমানটি এয়ার ট্রাফিক কন্ট্রোলের সঙ্গে সংযোগ হারিয়ে ফেলে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/10cecc1dd22d6bb599d1fa8c53d5b2da-696b9f031b419.jpg"
-      },
-      {
-        "headline": "ইয়েমেনের হুথি বিদ্রোহীদের ওপর যুক্তরাষ্ট্রের নতুন নিষেধাজ্ঞা",
-        "url": "https://www.ittefaq.com.bd/770734/%E0%A7%A8%E0%A7%A7-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8",
-        "published_at": null,
-        "summary": "ইয়েমেনের ইরান-পন্থী হুথি গোষ্ঠী এবং তাদের অর্থায়নকারী নেটওয়ার্কের ওপর নতুন করে কঠোর নিষেধাজ্ঞা আরোপ করেছে ট্রাম্প প্রশাসন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/72283237753c100aed53b62f064983a8-696b94673c2ff.jpg"
-      },
-      {
         "headline": "গণভোট ঘিরে বিভ্রান্তির রাজনীতি",
         "url": "https://dailynayadiganta.com/printed-edition/cbQmHOIIyd4B/",
         "published_at": null,
@@ -4857,6 +4858,13 @@
         "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "রাশিয়ার ড্রোন হামলায় ইউক্রেনে নারী নিহত",
+        "url": "https://dailynayadiganta.com/international/europe/IImmsSbCGP4o/",
+        "published_at": null,
+        "summary": "রাশিয়ার ড্রোন ও বিমান হামলায় ইউক্রেনের খারকিভে ২০ বছর বয়সী এক নারী নিহত এবং সুমি অঞ্চলে শিশুসহ কয়েকজন আহত হয়েছে। খারকিভ, সুমি ও ওডেসায় আবাসিক ভবন ও গুরুত্বপূর্ণ অবকাঠামো লক্ষ্য করে এসব হামলা চালানো হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/ukrine-russia_ysecX69.jpg"
+      },
+      {
         "headline": "গ্রিনল্যান্ড ইস্যুতে ইউরোপের শক্তিশালী কয়েকটি দেশের ওপর শুল্কারোপ ট্রাম্পের",
         "url": "https://dailynayadiganta.com/international/europe/cyVtSur5dME2/",
         "published_at": null,
@@ -4869,13 +4877,6 @@
         "published_at": null,
         "summary": "শনিবার তুরস্ক জানিয়েছে, গতকাল শুক্রবার ট্রাম্পের পাঠানো এক চিঠিতে এ প্রস্তাব দেয়া হয়। চিঠিতে ট্রাম্প তাকে বোর্ডের ‘প্রতিষ্ঠাতা সদস্য’ হওয়ার আমন্ত্রণ জানান।",
         "image_url": "https://media.ndiganta.com/original_images/Erdogan-Trump_x00R7gi.jpg"
-      },
-      {
-        "headline": "দক্ষিণ আফ্রিকায় গুলিতে নারীসহ নিহত ৭",
-        "url": "https://dailynayadiganta.com/international/africa/IeQxF2dbSJbC/",
-        "published_at": null,
-        "summary": "দক্ষিণ আফ্রিকার কেপ টাউনের উপকণ্ঠে বন্দুকধারীদের হামলায় এক নারীসহ সাতজন নিহত ও তিনজন আহত হয়েছেন, যা চাঁদাবাজি-সংক্রান্ত সহিংসতার সাথে যুক্ত বলে ধারণা করা হচ্ছে। গ্যাং সহিংসতায় কুখ্যাত ওই এলাকায় এখনো কাউকে গ্রেফতার করা হয়নি।",
-        "image_url": "https://media.ndiganta.com/original_images/South-African.jpg"
       },
       {
         "headline": "পাকিস্তানে ট্রাক খালে পড়ে নিহত ১৪",
@@ -4974,6 +4975,56 @@
         "published_at": "1768664126",
         "summary": "ইরানে গত কয়েক সপ্তাহ ধরে চলা বিক্ষোভ ও সহিংসতার ঘটনায় সরাসরি যুক্তরাষ্ট্র এবং ইসরায়েলকে দায়ী করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলি খামেনি।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/ali-20260117153526.jpg"
+      },
+      {
+        "headline": "ইরানে হামলার হুমকির মধ্যে মধ্যপ্রাচ্যে বিমানবাহী রণতরি পাঠাচ্ছে যুক্তরাষ্ট্র",
+        "url": "https://www.prothomalo.com/world/middle-east/7iuamougxx",
+        "published_at": "2026-01-15T15:16:16.267000+00:00",
+        "summary": "ওয়াল স্ট্রিট জার্নাল জানিয়েছে, বর্তমানে ক্যারিবীয় অঞ্চলে যুক্তরাষ্ট্রের ১২টি যুদ্ধজাহাজ মোতায়েন করা আছে। বর্তমানে মধ্যপ্রাচ্যে দেশটির যুদ্ধজাহাজ রয়েছে ছয়টি।",
+        "image_s3_key": "prothomalo-bangla/2026-01-15/t9op98jj/00-4.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/t9op98jj/00-4.jpg?auto=format,compress"
+      },
+      {
+        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
+        "published_at": "2026-01-18T10:07:04+06:00",
+        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+      },
+      {
+        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
+        "published_at": "2026-01-18T09:44:05+06:00",
+        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+      },
+      {
+        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
+        "published_at": "2026-01-18T08:48:47+06:00",
+        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
+      },
+      {
+        "headline": "ইন্দোনেশিয়ায় ১১ জন আরোহীসহ যাত্রীবাহী বিমান নিখোঁজ",
+        "url": "https://www.ittefaq.com.bd/770739/%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A7%A7%E0%A7%A7-%E0%A6%9C%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%96%E0%A7%8B%E0%A6%81%E0%A6%9C",
+        "published_at": null,
+        "summary": "ইন্দোনেশিয়ায় ১১ জন আরোহী নিয়ে একটি যাত্রীবাহী অভ্যন্তরীণ ফ্লাইট নিখোঁজ হয়েছে। শনিবার (১৭ জানুয়ারি) জাকার্তা থেকে মাকাসার অভিমুখে যাওয়ার পথে বিমানটি এয়ার ট্রাফিক কন্ট্রোলের সঙ্গে সংযোগ হারিয়ে ফেলে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/10cecc1dd22d6bb599d1fa8c53d5b2da-696b9f031b419.jpg"
+      },
+      {
+        "headline": "ইয়েমেনের হুথি বিদ্রোহীদের ওপর যুক্তরাষ্ট্রের নতুন নিষেধাজ্ঞা",
+        "url": "https://www.ittefaq.com.bd/770734/%E0%A7%A8%E0%A7%A7-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8",
+        "published_at": null,
+        "summary": "ইয়েমেনের ইরান-পন্থী হুথি গোষ্ঠী এবং তাদের অর্থায়নকারী নেটওয়ার্কের ওপর নতুন করে কঠোর নিষেধাজ্ঞা আরোপ করেছে ট্রাম্প প্রশাসন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/72283237753c100aed53b62f064983a8-696b94673c2ff.jpg"
+      },
+      {
+        "headline": "দক্ষিণ আফ্রিকায় গুলিতে নারীসহ নিহত ৭",
+        "url": "https://dailynayadiganta.com/international/africa/IeQxF2dbSJbC/",
+        "published_at": null,
+        "summary": "দক্ষিণ আফ্রিকার কেপ টাউনের উপকণ্ঠে বন্দুকধারীদের হামলায় এক নারীসহ সাতজন নিহত ও তিনজন আহত হয়েছেন, যা চাঁদাবাজি-সংক্রান্ত সহিংসতার সাথে যুক্ত বলে ধারণা করা হচ্ছে। গ্যাং সহিংসতায় কুখ্যাত ওই এলাকায় এখনো কাউকে গ্রেফতার করা হয়নি।",
+        "image_url": "https://media.ndiganta.com/original_images/South-African.jpg"
       },
       {
         "headline": "ট্রাম্পের এই সিদ্ধান্তের ভুক্তভোগী হবেন কারা",
@@ -5778,58 +5829,17 @@
         "published_at": "2026-01-17T14:53:22+06:00",
         "summary": "ডেভিড মালান ও তাওহীদ হৃদয়ের দুর্দান্ত ফিফটিতে ঢাকা ক্যাপিটালসের বিপক্ষে ১৮২ রানের চ্যালেঞ্জিং লক্ষ্য ছুড়ে দিয়েছে রংপুর রাইডার্স। আজ শনিবার মিরপুরের শের-ই-বাংলা জাতীয় ক্রিকেট স্টেডিয়ামে বিপিএলে দিনের প্রথম ম্যাচে আগে ব্যাট করে ২০ ওভারে ৪ উইকেট হারিয়ে ১৮১ রান সংগ্রহ করে রংপুর।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768639997-53e863b7ee7f61e9ac2b4fb03262940f.jpg"
-      },
-      {
-        "headline": "ইরানে বিক্ষোভে নিহত তিন হাজারের বেশি: এইচআরএএনএ",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/17/1205744",
-        "published_at": "2026-01-17T14:51:04+06:00",
-        "summary": "ইরানজুড়ে দুই সপ্তাহের বেশি সময় ধরে চলা বিক্ষোভে তিন হাজারের বেশি মানুষ নিহত হয়েছে বলে জানিয়েছেন মানবাধিকার কর্মীরা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768639859-c4a940ec7c7848d0ffab4b0edec2551c.jpg"
-      },
-      {
-        "headline": "এ মাসে কি আর শৈত্যপ্রবাহ হবে?",
-        "url": "https://www.bd-pratidin.com/national/2026/01/17/1205742",
-        "published_at": "2026-01-17T14:48:30+06:00",
-        "summary": "আজ শনিবার দেশের সর্বনিম্ন তাপমাত্রা রেকর্ড করা হয়েছে উত্তরের জেলা পঞ্চগড়ের তেঁতুলিয়ায় ৯ ডিগ্রি সেলসিয়াস। আবহাওয়া অধিদপ্তরের হিসাবে কোনো এলাকায় তাপমাত্রা ৮ দশমিক ১ থেকে ১০ ডিগ্রি সেলসিয়াসের মধ্যে থাকলে সেখানে শৈত্যপ্রবাহ ধরা হয়। তবে আজ দেশের মাত্র একটি স্থানে তাপমাত্রা ১০ ডিগ্রির নিচে থাকায় এটিকে শৈত্যপ্রবাহ হিসেবে ঘোষণা করা হয়নি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768639705-7b19c34faab1550ee983a5152f1c9938.jpg"
-      },
-      {
-        "headline": "'এটা তো অঙ্ক না যে, আমরা ধরে নেব আমাদের বাবারা মৃত!'",
-        "url": "https://www.bd-pratidin.com/national/2026/01/17/1205740",
-        "published_at": "2026-01-17T14:42:46+06:00",
-        "summary": "'এটা তো অঙ্ক না যে, আমরা ধরে নেব আমাদের বাবারা মৃত!' কথাটি আওয়ামী ফ্যাসিবাদের হাতে গুম হওয়া এক বাবার কিশোরীর। বিগত সরকারের আমলে গুম, খুন ও নির্যাতনের শিকার ব্যক্তিদের পরিবারের সদস্যদের সাথে বিএনপির মতবিনিময় সভায় কান্নাভেজা গলায় নিজের ভেতর চেপে বসে থাকা কষ্টকে সামনে আনেন সেই কিশোরীটি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768639361-30729167fc1d3be6c199eda80ee412a9.jpg"
-      },
-      {
-        "headline": "আশঙ্কাজনক অবস্থায় হাসপাতালে ভর্তি শাপুর জাদরান",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/17/1205739",
-        "published_at": "2026-01-17T14:42:30+06:00",
-        "summary": "আফগানিস্তান ক্রিকেটের শুরুর দিকের অন্যতম তারকা পেসার শাপুর জাদরান বর্তমানে জীবন-মৃত্যুর সন্ধিক্ষণে। গুরুতর অসুস্থ অবস্থায় তিনি হাসপাতালে ভর্তি আছেন। তার শারীরিক অবস্থার বিষয়টি নিশ্চিত করেছে জাদরানের পরিবার এবং আফগানিস্তান ক্রিকেট বোর্ড (এসিবি)।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768639343-a5446e024424a6cd66be429b71eeaad9.jpg"
-      },
-      {
-        "headline": "গুম-খুনের শিকারের দায় রাষ্ট্র এড়াতে পারে না : তারেক রহমান",
-        "url": "https://www.bd-pratidin.com/national/2026/01/17/1205736",
-        "published_at": "2026-01-17T14:36:39+06:00",
-        "summary": "বিএনপি চেয়ারম্যান তারেক রহমান বলেছেন, ষড়যন্ত্র করে বিএনপিকে কেউ দমিয়ে রাখতে পারবে না। যারা গুম-খুনের শিকার হয়েছেন রাষ্ট্র তাদের দায় এড়াতে পারে না। বিএনপি সরকারে এলে এসব শহীদদের নামে সড়কের নামকরণ করা হবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768639953-40a84cec932adb45d44033821ba98550.jpg"
-      },
-      {
-        "headline": "টসের পর হাত মেলালেন না বাংলাদেশ-ভারতের ক্রিকেটার",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/17/1205733",
-        "published_at": "2026-01-17T14:24:50+06:00",
-        "summary": "টি-টোয়েন্টি বিশ্বকাপ খেলতে ভারতে না যাওয়ার অবস্থানে অনড় বাংলাদেশ। মুস্তাফিজুর রহমানকে আইপিএল থেকে বাদ দেওয়ার ইস্যু ধরে দুই দেশের রাজনৈতিক সম্পর্কে টানাপোড়েন সৃষ্টি হয়েছে। এমন উত্তাপের মাঝেই দুই দলের যুব ক্রিকেটাররা মুখোমুখি হচ্ছে বুলাওয়েতে। আজ (শনিবার) বাংলাদেশ সময় বেলা দেড়টায় ম্যাচ শুরু হওয়ার কথা। নিয়ম অনুযায়ী আধঘণ্টা আগে টস হওয়ার কথা থাকলেও বৃষ্টির কারণে কিছুটা বিলম্বিত হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768638284-3ef5622cd8ea4ef35fcc5ff27ad0430a.jpg"
-      },
-      {
-        "headline": "গাজা যুদ্ধের প্রভাবে ইসরায়েলি সেনাদের বাড়ছে আত্মহত্যার প্রবণতা",
-        "url": "https://www.ittefaq.com.bd/770639/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BE-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%9B%E0%A7%87",
-        "published_at": null,
-        "summary": "গাজায় টানা দুই বছর ধরে চলা সামরিক অভিযানের পর ইসরায়েলি সেনাদের মধ্যে পোস্ট-ট্রমাটিক স্ট্রেস ডিসঅর্ডার (পিটিএসডি) ও আত্মহত্যার প্রবণতা উল্লেখযোগ্যভাবে বেড়েছে। ২০২৩ সালের ৭ অক্টোবর দক্ষিণ ইসরায়েলে হামাসের হামলার পর শুরু হওয়া যুদ্ধই এ সংকটের মূল কারণ। খবর ফ্রান্স২৪ এর।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/17/c7f19bcc434393d34bd9c9278b2b2192-696af93814574.jpg"
       }
     ],
     "business": [
+      {
+        "headline": "আগামী মাসে ডাচ–বাংলা ও মিডল্যান্ড ব্যাংকে নতুন এমডি",
+        "url": "https://www.prothomalo.com/business/bank/3cgjt1u1bj",
+        "published_at": "2026-01-18T05:30:00+00:00",
+        "summary": "সম্প্রতি ঢাকা ব্যাংক, মেঘনা ব্যাংক, সাউথ বাংলা এগ্রিকালচার অ্যান্ড কমার্স ও সাউথইস্ট ব্যাংকে নতুন এমডি যোগ দিয়েছেন। ইস্টার্ন ব্যাংকও নতুন এমডি খুঁজছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-17/1q32x01k/00-5.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-17/1q32x01k/00-5.jpg?auto=format,compress"
+      },
       {
         "headline": "বিশ্বের প্রথম ট্রিলিয়নিয়ার হতে কতটুকু দূরে ইলন মাস্ক, সম্পদ ৭৮০ বিলিয়ন ডলার",
         "url": "https://www.prothomalo.com/business/world-business/rx214f9ts3",
@@ -6135,14 +6145,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-14/i9e1tlwj/389b32a9-5d49-4e55-8333-4239f9c2b738.jpg?auto=format,compress"
       },
       {
-        "headline": "আমানতকারীদের দুই বছরের\nমুনাফার ‘হেয়ারকাট’ করল বাংলাদেশ ব্যাংক",
-        "url": "https://www.prothomalo.com/business/bank/k7v1d4qdrk",
-        "published_at": "2026-01-14T15:26:30.670000+00:00",
-        "summary": "বাংলাদেশ ব্যাংক জানিয়েছে, পাঁচ ব্যাংকের আমানতকারীরা ২০২৪ ও ২০২৫ সালের তাঁদের স্থিতির ওপর কোনো মুনাফা পাবেন না।",
-        "image_s3_key": "prothomalo-bangla/2025-11-17/4p689gcw/Untitled-13.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-17/4p689gcw/Untitled-13.jpg?auto=format,compress"
-      },
-      {
         "headline": "ক্ষুদ্রঋণ ব্যাংকের লাইসেন্স ও তদারকি করবে বাংলাদেশ ব্যাংক",
         "url": "https://www.ittefaq.com.bd/770762/%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%8B%E0%A6%A3-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%93-%E0%A6%A4%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
         "published_at": null,
@@ -6351,6 +6353,14 @@
         "published_at": "1768578992",
         "summary": "বাংলাদেশের অর্থনীতির হৃদপিণ্ড খ্যাত চট্টগ্রাম বন্দর এক নতুন উচ্চতায় পৌঁছেছে। গত পাঁচ বছরে ২০২১ থেকে ২০২৫ সাল পর্যন্ত রাজস্ব আয়, উদ্বৃত্ত এবং রাষ্ট্রীয় কোষাগারে অবদানের ক্ষেত্রে বন্দরটি এমন এক নজিরবিহীন সাফল্য দেখিয়েছে, যা দেশের অন্যান্য রাষ্ট্রীয় প্রতিষ্ঠানের জন্য উদাহরণ হতে পারে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/bondor-20260116155632.jpg"
+      },
+      {
+        "headline": "আমানতকারীদের দুই বছরের\nমুনাফার ‘হেয়ারকাট’ করল বাংলাদেশ ব্যাংক",
+        "url": "https://www.prothomalo.com/business/bank/k7v1d4qdrk",
+        "published_at": "2026-01-14T15:26:30.670000+00:00",
+        "summary": "বাংলাদেশ ব্যাংক জানিয়েছে, পাঁচ ব্যাংকের আমানতকারীরা ২০২৪ ও ২০২৫ সালের তাঁদের স্থিতির ওপর কোনো মুনাফা পাবেন না।",
+        "image_s3_key": "prothomalo-bangla/2025-11-17/4p689gcw/Untitled-13.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-17/4p689gcw/Untitled-13.jpg?auto=format,compress"
       },
       {
         "headline": "মিরসরাইয়ে বালিশ বানানোর কারখানা করবে জান্ট এক্সেসরিজ",
@@ -7327,13 +7337,6 @@
         "published_at": null,
         "summary": "চলতি অর্থবছরের জুলাই থেকে ১১ জানুয়ারি পর্যন্ত প্রবাসীরা ১৭ হাজার ৬০১ মিলিয়ন ডলার রেমিট্যান্স পাঠিয়েছেন, যা আগের অর্থবছরের একই সময়ে ছিল ১৪ হাজার ৫১৩ মিলিয়ন মার্কিন ডলার।",
         "image_url": "https://media.ndiganta.com/original_images/july-remittance.JPG"
-      },
-      {
-        "headline": "২ লাখ কোটি টাকার সংশোধিত এডিপি অনুমোদন",
-        "url": "https://dailynayadiganta.com/economy/TYyjgo6a030B/",
-        "published_at": null,
-        "summary": "২০২৫-২৬ অর্থবছরের দু’ লাখ কোটি টাকার আরএডিপির মধ্যে এক লাখ ২৮ হাজার কোটি টাকা আসবে অভ্যন্তরীণ উৎস থেকে এবং ৭২ হাজার কোটি টাকা আসবে বৈদেশিক উৎস থেকে।",
-        "image_url": "https://media.ndiganta.com/original_images/Bangladesh-Govt_GkT4mOU.jpg"
       }
     ],
     "sports": [
@@ -9133,6 +9136,27 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-15/i1du8x8y/61355166714283425519831311579414427163796421n.jpg?auto=format,compress"
       },
       {
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
+      },
+      {
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
+      },
+      {
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
+      },
+      {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
         "url": "https://www.bd-pratidin.com/city-news/2026/01/18/1206091",
         "published_at": "2026-01-18T11:20:36+06:00",
@@ -9140,7 +9164,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -9150,7 +9174,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -9180,27 +9204,6 @@
         "published_at": "2026-01-18T10:19:07+06:00",
         "summary": "পাবনার ঈশ্বরদীতে সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার ছোট ছেলে প্রয়াত আরাফাত রহমান কোকোর নাম বিকৃত ও কটূক্তির প্রতিবাদে জামায়াত নেতা মুফতি আমির হামজার বিরুদ্ধে বিক্ষোভ মিছিল করেছে বিএনপি। এসময় তার কুশপুতুলে জুতার মালা পরিয়ে জুতা নিক্ষেপ করে প্রতিবাদ জানান নেতাকর্মীরা।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
-      },
-      {
-        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
-        "published_at": "2026-01-18T10:07:04+06:00",
-        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
-      },
-      {
-        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
-        "published_at": "2026-01-18T09:44:05+06:00",
-        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
-      },
-      {
-        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
-        "published_at": "2026-01-18T08:48:47+06:00",
-        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "ধানুশের সঙ্গে বিয়ের গুঞ্জন, নীরবতা ভাঙলেন ম্রুণাল",
@@ -9411,6 +9414,27 @@
         "published_at": "1768476604",
         "summary": "একদিন আগেই আফরান নিশোর সঙ্গে ২৪ সেকেন্ডের শুটিংয়ের একটি দৃশ্যের ভিডিও ফাঁস হয়েছে পূজা চেরির। রেদওয়ান রনির ‘দম’ সিনেমার শুটিং এটি। এবার সামাজিক যোগাযোগ মাধ্যমে পূজার গায়েহলুদের ভিডিও ফাঁস হয়েছে। বেশ কয়েকটি পেজে দেখা গেছে ভিডিওটি।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-15-20260115113004.jpg"
+      },
+      {
+        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
+        "published_at": "2026-01-18T10:07:04+06:00",
+        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+      },
+      {
+        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
+        "published_at": "2026-01-18T09:44:05+06:00",
+        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+      },
+      {
+        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
+        "published_at": "2026-01-18T08:48:47+06:00",
+        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "গাড়ির ভেতরের যৌন দৃশ্যে অভিনয়, তোপের মুখে নায়িকা",
@@ -10251,28 +10275,6 @@
         "published_at": null,
         "summary": "বিয়ে করেছেন বলিউড অভিনেত্রী কৃতি শ্যাননের বোন নূপুর শ্যানন, পাত্র দীর্ঘ পাঁচ বছরের প্রেমিক স্টেবিন বেন। দুই পরিবারের উপস্থিতিতে হিন্দু ও খ্রিস্টান- উভয় রীতিতেই সম্পন্ন হয়েছে এই জমকালো বিয়ে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/15/c1f11a4b2bf199058e1a6cb3e8ba9e7b-6968adc313e6b.jpg"
-      },
-      {
-        "headline": "অনেক ফোন আসছে, কিন্তু ধরতে পারছি না, ফেসবুকে ফারিয়া",
-        "url": "https://www.prothomalo.com/entertainment/tv/j1jfraba3u",
-        "published_at": "2026-01-14T11:40:01.651000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2025-03-23/91y12xx5/48025591311931295021721838183126454173318472n.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-23/91y12xx5/48025591311931295021721838183126454173318472n.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ইরানে এসএমএস চালু, বন্ধই থাকছে ইন্টারনেট ও ফোনকল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/17/1205691",
-        "published_at": "2026-01-17T11:46:19+06:00",
-        "summary": "এক সপ্তাহেরও বেশি সময় পর সীমিত আকারে মোবাইল নেটওয়ার্ক চালু করেছে ইরানের সরকার। এতে দেশটির মোবাইল ব্যবহারকারীরা আবার এসএমএস আদানপ্রদান করতে পারছেন। তবে ফোনকল ও ইন্টারনেট পরিষেবা এখনও বন্ধ রয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768628773-6d38237b111fba9d49903aa2af6dfbcf.jpg"
-      },
-      {
-        "headline": "ট্রাম্পকে মাচাদোর নোবেল দেওয়া নিয়ে যা বলল নরওয়ের কমিটি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/17/1205689",
-        "published_at": "2026-01-17T11:25:29+06:00",
-        "summary": "নিজের নোবেল শান্তি পুরস্কার মার্কিন প্রেসিডেন্ট প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের হাতে স্বেচ্ছায় তুলে দিয়েছেন ভেনেজুয়েলার বিরোধী নেত্রী মারিয়া কোরিনা মাচাদো। ট্রাম্প তা গ্রহণও করেছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/17/og/1768627523-01889c1a2c27f7e93629251084cbebb9.jpg"
       }
     ],
     "jobs": [
@@ -10597,6 +10599,27 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-11/50cc0f87-0613-4f52-a13e-b908ae2121b7/11__jobs.JPG?auto=format,compress"
       },
       {
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
+      },
+      {
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
+      },
+      {
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
+      },
+      {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
         "url": "https://www.bd-pratidin.com/city-news/2026/01/18/1206091",
         "published_at": "2026-01-18T11:20:36+06:00",
@@ -10604,7 +10627,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -10614,7 +10637,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -10644,27 +10667,6 @@
         "published_at": "2026-01-18T10:19:07+06:00",
         "summary": "পাবনার ঈশ্বরদীতে সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার ছোট ছেলে প্রয়াত আরাফাত রহমান কোকোর নাম বিকৃত ও কটূক্তির প্রতিবাদে জামায়াত নেতা মুফতি আমির হামজার বিরুদ্ধে বিক্ষোভ মিছিল করেছে বিএনপি। এসময় তার কুশপুতুলে জুতার মালা পরিয়ে জুতা নিক্ষেপ করে প্রতিবাদ জানান নেতাকর্মীরা।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
-      },
-      {
-        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
-        "published_at": "2026-01-18T10:07:04+06:00",
-        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
-      },
-      {
-        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
-        "published_at": "2026-01-18T09:44:05+06:00",
-        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
-      },
-      {
-        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
-        "published_at": "2026-01-18T08:48:47+06:00",
-        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "প্রধান শিক্ষক নিয়োগে প্রতি পদে ৬২৪ প্রতিযোগী, পরীক্ষা ঢাকায়",
@@ -10826,6 +10828,27 @@
         "published_at": null,
         "summary": "নিয়োগ পরীক্ষার প্রস্তুতিতে সফল হতে হলে দরকার সঠিক তথ্য, আপডেটেড সিলেবাস ও নির্ভরযোগ্য রিসোর্স। প্রতিটি নিয়োগ পরীক্ষার ধরন, প্রশ্নের গঠন ও মানদণ্ড ভিন্ন হওয়ায় সময়মতো সঠিক নির্দেশনা জানা অত্যন্ত জরুরি। লিখিত, এমসিকিউ ও মৌখিক পরীক্ষার প্রস্তুতিতে বিগত বছরের প্রশ্নপত্র, সময় ব্যবস্থাপনা কৌশল, বিষয়ের ওপর ভিত্তি করে অধ্যয়ন পরিকল্পনা এবং মানসম্পন্ন প্র্যাকটিস সেট আপনাকে সঠিক পথে এগিয়ে নিতে পারে।",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
+        "published_at": "2026-01-18T10:07:04+06:00",
+        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+      },
+      {
+        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
+        "published_at": "2026-01-18T09:44:05+06:00",
+        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+      },
+      {
+        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
+        "published_at": "2026-01-18T08:48:47+06:00",
+        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "বিমানবাহিনীতে অফিসার ক্যাডেট নিয়োগ, বিদেশে প্রশিক্ষণ ও উচ্চশিক্ষার সুযোগ",
@@ -11703,27 +11726,6 @@
         "published_at": "2026-01-16T19:15:31+06:00",
         "summary": "যুক্তরাজ্যের বার্মিংহামে বাংলাদেশের সহকারী হাইকমিশনে দ্বিতীয় সচিব পদে চুক্তিভিত্তিক নিয়োগ পেয়েছেন ওমর বিন হাদি। তিনি ‌‘ইনকিলাব মঞ্চের’ প্রতিষ্ঠাতা আহ্বায়ক ও মুখপাত্র শহীদ শরিফ ওসমান বিন হাদির বড় ভাই।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768569324-8869fb3e4d827a41723d3bea16e730dc.jpg"
-      },
-      {
-        "headline": "বরিশাল-৩ আসনে প্রার্থীতা প্রত্যাহার করলেন বিএনপি নেতা",
-        "url": "https://www.bd-pratidin.com/election/2026/01/16/1205442",
-        "published_at": "2026-01-16T19:14:46+06:00",
-        "summary": "বরিশাল-৩ আসনে বিএনপির মনোনীত প্রার্থী এ্যাড. জয়নুল আবেদীন বিদ্রোহী মুক্ত হয়েছেন। এ আসনে বিদ্রোহী হিসেবে (স্বতন্ত্র প্রার্থী) মনোনয়নপত্র জমা দিয়েছিলেন বিএনপি নেতা আ. ছত্তার খান। বিএনপির চেয়ারম্যান তারেক রহমানের আহবানে নির্বাচন থেকে নিজেকে সরিয়ে নিয়েছেন তিনি। যদিও বাছাইয়ে তার মনোনয়নপত্র অবৈধ ঘোষণা করেছিলো রিটানিং কর্মকর্তা। এর বিরুদ্ধে নির্বাচন কমিশনে আপীল করেছিলেন তিনি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768569279-0559f72f3e983908c2b525c931324cc1.jpg"
-      },
-      {
-        "headline": "‘বাংলাদেশকে ভালো থাকতে হলে বেগম জিয়াকে ধারণ করতে হবে’",
-        "url": "https://www.bd-pratidin.com/national/2026/01/16/1205430",
-        "published_at": "2026-01-16T18:24:03+06:00",
-        "summary": "তিনবারের সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার স্মৃতিচারণ করে আইন উপদেষ্টা অধ্যাপক আসিফ নজরুল বলেছেন, ‘বাংলাদেশকে ভালো থাকতে হলে বেগম খালেদা জিয়ার অস্তিত্বকে ধারণ করতে হবে।’",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768573161-64068dc3a0b2cf4a5d88472a8ab3f4d9.jpg"
-      },
-      {
-        "headline": "নতুন রাজনৈতিক প্ল্যাটফর্মের আত্মপ্রকাশ",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/01/16/1205429",
-        "published_at": "2026-01-16T18:22:51+06:00",
-        "summary": "নতুন রাজনৈতিক প্ল্যাটফর্ম নেটওয়ার্ক ফর পিপলসের (এনপিএ) আত্মপ্রকাশ ঘটেছে। আজ শুক্রবার বিকেলে কেন্দ্রীয় শহীদ মিনার থেকে নতুন এই প্ল্যাটফর্মটির আনুষ্ঠানিক যাত্রার ঘোষণা করা হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768566166-35453290f825dfe9debc9903d11e82ae.jpg"
       }
     ],
     "opinion": [
@@ -12545,6 +12547,27 @@
     "football": [],
     "election": [
       {
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
+      },
+      {
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
+      },
+      {
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
+      },
+      {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
         "url": "https://www.bd-pratidin.com/city-news/2026/01/18/1206091",
         "published_at": "2026-01-18T11:20:36+06:00",
@@ -12552,7 +12575,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -12562,7 +12585,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -12592,27 +12615,6 @@
         "published_at": "2026-01-18T10:19:07+06:00",
         "summary": "পাবনার ঈশ্বরদীতে সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার ছোট ছেলে প্রয়াত আরাফাত রহমান কোকোর নাম বিকৃত ও কটূক্তির প্রতিবাদে জামায়াত নেতা মুফতি আমির হামজার বিরুদ্ধে বিক্ষোভ মিছিল করেছে বিএনপি। এসময় তার কুশপুতুলে জুতার মালা পরিয়ে জুতা নিক্ষেপ করে প্রতিবাদ জানান নেতাকর্মীরা।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
-      },
-      {
-        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
-        "published_at": "2026-01-18T10:07:04+06:00",
-        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
-      },
-      {
-        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
-        "published_at": "2026-01-18T09:44:05+06:00",
-        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
-      },
-      {
-        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
-        "published_at": "2026-01-18T08:48:47+06:00",
-        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "কুমিল্লা সিটি নির্বাচন",
@@ -12683,6 +12685,27 @@
         "published_at": "1768707932",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রার্থিতা ফিরে পেতে রিটার্নিং কর্মকর্তাদের সিদ্ধান্তের বিরুদ্ধে দায়ের করা আপিল শুনানির শেষ দিন আজ।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/EC-20260118034532.jpg"
+      },
+      {
+        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
+        "published_at": "2026-01-18T10:07:04+06:00",
+        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+      },
+      {
+        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
+        "published_at": "2026-01-18T09:44:05+06:00",
+        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+      },
+      {
+        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
+        "published_at": "2026-01-18T08:48:47+06:00",
+        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "২২ রানে ৭ উইকেট খুইয়ে হার দিয়ে বিশ্বকাপ শুরু বাংলাদেশের",
@@ -13922,30 +13945,30 @@
         "published_at": "2026-01-15T23:37:29+06:00",
         "summary": "বিএনপি মহাসচিব ও ঠাকুরগাঁও-১ আসনে দলটির মনোনীত প্রার্থী মির্জা ফখরুল ইসলাম আলমগীর একটি আবেগঘন বার্তা দিয়েছেন। বৃহস্পতিবার রাতে নিজের ভেরিফায়েড ফেসবুক পেজে দেওয়া এক পোস্টে তিনি জীবনের দীর্ঘ রাজনৈতিক পথচলা ও মানুষের প্রতি দায়বদ্ধতার কথা তুলে ধরেন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768498644-c6df1bdcb06b5e804ce0831cfb143487.jpg"
-      },
-      {
-        "headline": "শিক্ষাপ্রতিষ্ঠান এমপিওভুক্তি নিয়ে মন্ত্রণালয়ের সতর্কবার্তা",
-        "url": "https://www.bd-pratidin.com/national/2026/01/15/1205136",
-        "published_at": "2026-01-15T22:50:04+06:00",
-        "summary": "বেসরকারি শিক্ষাপ্রতিষ্ঠান এমপিওভুক্তির ক্ষেত্রে কারও সঙ্গে ব্যক্তিগত যোগাযোগ অথবা কোনো ধরনের আর্থিক লেনদেন না করার জন্য সংশ্লিষ্ট সবাইকে সতর্ক করেছে শিক্ষা মন্ত্রণালয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768495797-63f290ebb68e2671a29b3e791f925d43.jpg"
-      },
-      {
-        "headline": "বৃহস্পতিবার ৬০ আপিল মঞ্জুর",
-        "url": "https://www.bd-pratidin.com/election/2026/01/15/1205134",
-        "published_at": "2026-01-15T22:33:25+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং অফিসারের মনোনয়নপত্র গ্রহণ ও বাতিলের আদেশের বিরুদ্ধে বৃহস্পতিবার ষষ্ঠ দিনে আরও ৬০টি আপিল মঞ্জুর করেছে নির্বাচন কমিশন (ইসি)। এছাড়া ২৯ টি আপিল নামঞ্জুর করা হয়েছে। অপরদিকে অপেক্ষমাণ রাখা হয়েছে ১০ টি আপিল।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768494796-7b325a1b24b6d5bce369a86804910657.jpg"
-      },
-      {
-        "headline": "চীনের সমাধিতে মিলল ২০০০ বছর আগের কম্পিউটার",
-        "url": "https://www.bd-pratidin.com/tech-world/2026/01/15/1205127",
-        "published_at": "2026-01-15T21:48:33+06:00",
-        "summary": "কম্পিউটার বলতে সাধারণত ইলেকট্রনিক চিপ ও বিদ্যুৎনির্ভর যন্ত্রকেই বোঝানো হয়। তবে সেই ধারণাকে নতুন করে ভাবতে বাধ্য করছে চীনের বিজ্ঞানীদের সাম্প্রতিক এক গবেষণা। পশ্চিম চীনের একটি প্রাচীন সমাধিতে প্রায় ২০০০ বছর আগের একটি যন্ত্রের সন্ধান পাওয়া গেছে, যা আধুনিক কম্পিউটারের আদি রূপ হতে পারে বলে দাবি করা হচ্ছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768492106-01064810064600c1dc7798eb05a29f4d.jpg"
       }
     ],
     "city": [
+      {
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
+      },
+      {
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
+      },
+      {
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
+      },
       {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
         "url": "https://www.bd-pratidin.com/city-news/2026/01/18/1206091",
@@ -13954,7 +13977,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -13964,7 +13987,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -15324,30 +15347,37 @@
         "published_at": "2026-01-15T19:56:09+06:00",
         "summary": "বাংলাদেশ জাতীয়তাবাদী দলের (বিএনপি) চেয়ারম্যানের উপদেষ্টা ও নির্বাচন পরিচালনা কমিটির মুখপাত্র মাহ্দী আমিন বলেছেন, ‘নানা উপায়ে লেভেল প্লেয়িং ফিল্ড নষ্ট করা হচ্ছে। একটি বিতর্কিত নির্বাচন প্রক্রিয়া সৃষ্টি হতে যাচ্ছে।’",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768485361-7d02d29b8f19cfb8d8d698edd6fb86be.jpg"
-      },
-      {
-        "headline": "শান্ত হচ্ছে ইরান, বিশ্ববাজারে কমলো তেলের দাম",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/15/1205073",
-        "published_at": "2026-01-15T19:55:07+06:00",
-        "summary": "ইরানে সরকারবিরোধী বিক্ষোভ ক্রমেই নিস্তেজ হচ্ছে। স্বাভাবিক হয়ে উঠছে জনজীবন। পরিস্থিতি শান্ত হতেই বিশ্ববাজারে তেলের দামে উল্লেখযোগ্য পতন দেখা গেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768485301-e4ad061bfecbe0e76362493fb72dba29.jpg"
-      },
-      {
-        "headline": "জীবনের শেষ দিন পর্যন্ত খালেদা জিয়া গণতন্ত্রের জন্য সংগ্রাম করেছেন: আমীর খসরু",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/01/15/1205070",
-        "published_at": "2026-01-15T19:47:50+06:00",
-        "summary": "বিএনপির স্থায়ী কমিটির সদস্য আমীর খসরু মাহমুদ চৌধুরী বলেছেন, বাংলাদেশের স্বাধীনতা, সার্বভৌমত্ব ও গণতন্ত্র রক্ষার সংগ্রামে আজীবন আপোষহীন ভূমিকা পালন করেছেন দেশনেত্রী বেগম খালেদা জিয়া। জীবনের শেষ দিন পর্যন্ত তিনি গণতন্ত্রের জন্য সংগ্রাম করে গেছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768484860-e785c701ec1b17730a16afc7f7b801a8.jpg"
-      },
-      {
-        "headline": "শেরপুরে বিএনপির উদ্যোগে শীতবস্ত্র বিতরণ",
-        "url": "https://www.bd-pratidin.com/country/2026/01/15/1205063",
-        "published_at": "2026-01-15T19:37:12+06:00",
-        "summary": "বিএনপি চেয়ারপার্সন ও সাবেক প্রধানমন্ত্রী মরহুমা বেগম খালেদা জিয়ার রুহের মাগফেরাত কামনায় দোয়া এবং দুস্থদের মাঝে শীতবস্ত্র বিতরণ করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768484218-22a77ac1f897d892347a1b614f73e183.jpg"
       }
     ],
     "campus": [
+      {
+        "headline": "পাকিস্তানে শপিংমলে অগ্নিকাণ্ডে নিহত ৫",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206098",
+        "published_at": "2026-01-18T11:50:30+06:00",
+        "summary": "পাকিস্তানের করাচির এমএ জিন্নাহ রোডের গুল প্লাজা শপিং মলে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে। ঘটনাস্থল থেকে অন্তত পাঁচজনের মৃতদেহ উদ্ধার করা হয়েছে এবং ২০ জন আহত হয়েছেন। রবিবার (১৮ জানুয়ারি) দেশটির সংবাদমাধ্যম ডন এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768715429-1ac3f7b79e9913d4a31fbb4b00fd56b6.jpg"
+      },
+      {
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
+      },
+      {
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
+      },
+      {
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
+      },
       {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
         "url": "https://www.bd-pratidin.com/city-news/2026/01/18/1206091",
@@ -15356,7 +15386,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -15366,7 +15396,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -15389,34 +15419,6 @@
         "published_at": "2026-01-18T11:02:33+06:00",
         "summary": "প্রধান নির্বাচন কমিশনার (সিইসি) এ এম এম নাসির উদ্দিনের সঙ্গে আজ রবিবার বিকালে বৈঠকে বসতে যাচ্ছেন বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713889-c6df1bdcb06b5e804ce0831cfb143487.jpg"
-      },
-      {
-        "headline": "আমির হামজার বিরুদ্ধে বিক্ষোভ, কুশপুত্তলিকায় জুতার মালা",
-        "url": "https://www.bd-pratidin.com/country/2026/01/18/1206076",
-        "published_at": "2026-01-18T10:19:07+06:00",
-        "summary": "পাবনার ঈশ্বরদীতে সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার ছোট ছেলে প্রয়াত আরাফাত রহমান কোকোর নাম বিকৃত ও কটূক্তির প্রতিবাদে জামায়াত নেতা মুফতি আমির হামজার বিরুদ্ধে বিক্ষোভ মিছিল করেছে বিএনপি। এসময় তার কুশপুতুলে জুতার মালা পরিয়ে জুতা নিক্ষেপ করে প্রতিবাদ জানান নেতাকর্মীরা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
-      },
-      {
-        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
-        "published_at": "2026-01-18T10:07:04+06:00",
-        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
-      },
-      {
-        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
-        "published_at": "2026-01-18T09:44:05+06:00",
-        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
-      },
-      {
-        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
-        "published_at": "2026-01-18T08:48:47+06:00",
-        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "৩০ লাখ টাকার ফেলোশিপ পাচ্ছেন যবিপ্রবির ৫৬ শিক্ষার্থী",
@@ -15487,6 +15489,34 @@
         "published_at": "1768625353",
         "summary": "সাত কলেজের সমন্বয়ে ‘ঢাকা সেন্ট্রাল ইউনিভার্সিটি’ গঠনের লক্ষ্যে চূড়ান্ত অধ্যাদেশ জারির এক দফা দাবিতে নতুন কর্মসূচি ঘোষণা করেছেন শিক্ষার্থীরা।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-8-20260117044913.jpg"
+      },
+      {
+        "headline": "আমির হামজার বিরুদ্ধে বিক্ষোভ, কুশপুত্তলিকায় জুতার মালা",
+        "url": "https://www.bd-pratidin.com/country/2026/01/18/1206076",
+        "published_at": "2026-01-18T10:19:07+06:00",
+        "summary": "পাবনার ঈশ্বরদীতে সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার ছোট ছেলে প্রয়াত আরাফাত রহমান কোকোর নাম বিকৃত ও কটূক্তির প্রতিবাদে জামায়াত নেতা মুফতি আমির হামজার বিরুদ্ধে বিক্ষোভ মিছিল করেছে বিএনপি। এসময় তার কুশপুতুলে জুতার মালা পরিয়ে জুতা নিক্ষেপ করে প্রতিবাদ জানান নেতাকর্মীরা।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
+      },
+      {
+        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
+        "published_at": "2026-01-18T10:07:04+06:00",
+        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+      },
+      {
+        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
+        "published_at": "2026-01-18T09:44:05+06:00",
+        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+      },
+      {
+        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
+        "published_at": "2026-01-18T08:48:47+06:00",
+        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "২২ রানে ৭ উইকেট খুইয়ে হার দিয়ে বিশ্বকাপ শুরু বাংলাদেশের",
@@ -16719,37 +16749,37 @@
         "published_at": "2026-01-15T23:48:56+06:00",
         "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোটে ভোটগ্রহণ প্রক্রিয়া সহজ ও সুশৃঙ্খল করতে ‘পোস্টাল ভোট বিডি’ অ্যাপ ব্যবহারের বিষয়ে সব তফসিলি ব্যাংককে আনুষ্ঠানিক নির্দেশনা দিয়েছে বাংলাদেশ ব্যাংক।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768499329-8a1a63f3507859fbab3a7a8e0a1876c7.jpg"
-      },
-      {
-        "headline": "এই আমানত রক্ষা করাই আমার জীবনের শেষ লক্ষ্য: মির্জা ফখরুল",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/01/15/1205164",
-        "published_at": "2026-01-15T23:37:29+06:00",
-        "summary": "বিএনপি মহাসচিব ও ঠাকুরগাঁও-১ আসনে দলটির মনোনীত প্রার্থী মির্জা ফখরুল ইসলাম আলমগীর একটি আবেগঘন বার্তা দিয়েছেন। বৃহস্পতিবার রাতে নিজের ভেরিফায়েড ফেসবুক পেজে দেওয়া এক পোস্টে তিনি জীবনের দীর্ঘ রাজনৈতিক পথচলা ও মানুষের প্রতি দায়বদ্ধতার কথা তুলে ধরেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768498644-c6df1bdcb06b5e804ce0831cfb143487.jpg"
-      },
-      {
-        "headline": "শিক্ষাপ্রতিষ্ঠান এমপিওভুক্তি নিয়ে মন্ত্রণালয়ের সতর্কবার্তা",
-        "url": "https://www.bd-pratidin.com/national/2026/01/15/1205136",
-        "published_at": "2026-01-15T22:50:04+06:00",
-        "summary": "বেসরকারি শিক্ষাপ্রতিষ্ঠান এমপিওভুক্তির ক্ষেত্রে কারও সঙ্গে ব্যক্তিগত যোগাযোগ অথবা কোনো ধরনের আর্থিক লেনদেন না করার জন্য সংশ্লিষ্ট সবাইকে সতর্ক করেছে শিক্ষা মন্ত্রণালয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768495797-63f290ebb68e2671a29b3e791f925d43.jpg"
-      },
-      {
-        "headline": "বৃহস্পতিবার ৬০ আপিল মঞ্জুর",
-        "url": "https://www.bd-pratidin.com/election/2026/01/15/1205134",
-        "published_at": "2026-01-15T22:33:25+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে রিটার্নিং অফিসারের মনোনয়নপত্র গ্রহণ ও বাতিলের আদেশের বিরুদ্ধে বৃহস্পতিবার ষষ্ঠ দিনে আরও ৬০টি আপিল মঞ্জুর করেছে নির্বাচন কমিশন (ইসি)। এছাড়া ২৯ টি আপিল নামঞ্জুর করা হয়েছে। অপরদিকে অপেক্ষমাণ রাখা হয়েছে ১০ টি আপিল।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768494796-7b325a1b24b6d5bce369a86804910657.jpg"
-      },
-      {
-        "headline": "চীনের সমাধিতে মিলল ২০০০ বছর আগের কম্পিউটার",
-        "url": "https://www.bd-pratidin.com/tech-world/2026/01/15/1205127",
-        "published_at": "2026-01-15T21:48:33+06:00",
-        "summary": "কম্পিউটার বলতে সাধারণত ইলেকট্রনিক চিপ ও বিদ্যুৎনির্ভর যন্ত্রকেই বোঝানো হয়। তবে সেই ধারণাকে নতুন করে ভাবতে বাধ্য করছে চীনের বিজ্ঞানীদের সাম্প্রতিক এক গবেষণা। পশ্চিম চীনের একটি প্রাচীন সমাধিতে প্রায় ২০০০ বছর আগের একটি যন্ত্রের সন্ধান পাওয়া গেছে, যা আধুনিক কম্পিউটারের আদি রূপ হতে পারে বলে দাবি করা হচ্ছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/15/og/1768492106-01064810064600c1dc7798eb05a29f4d.jpg"
       }
     ],
     "tech": [
+      {
+        "headline": "পাকিস্তানে শপিংমলে অগ্নিকাণ্ডে নিহত ৫",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206098",
+        "published_at": "2026-01-18T11:50:30+06:00",
+        "summary": "পাকিস্তানের করাচির এমএ জিন্নাহ রোডের গুল প্লাজা শপিং মলে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে। ঘটনাস্থল থেকে অন্তত পাঁচজনের মৃতদেহ উদ্ধার করা হয়েছে এবং ২০ জন আহত হয়েছেন। রবিবার (১৮ জানুয়ারি) দেশটির সংবাদমাধ্যম ডন এ খবর জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768715429-1ac3f7b79e9913d4a31fbb4b00fd56b6.jpg"
+      },
+      {
+        "headline": "ইরাকের সেই ঘাঁটি ছেড়ে চলে গেছে মার্কিন সেনারা!",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206095",
+        "published_at": "2026-01-18T11:35:06+06:00",
+        "summary": "ইরাকের আইন আল-আসাদ বিমানঘাঁটি থেকে চলে গেছে মার্কিন সেনারা। সেখানে মার্কিনি ছাড়াও তাদের নেতৃত্বাধীন অন্যান্য দেশের সেনারাও ছিল। তারা ঘাঁটি ছাড়ার পর এটির পূর্ণ নিয়ন্ত্রণ নিয়েছে ইরাকের সেনাবাহিনী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714505-12c529375cd4ef8cf45d5c0bc2cf524d.jpg"
+      },
+      {
+        "headline": "আজ শাবানের চাঁদ দেখা যাবে কি, শবেবরাত কবে?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206094",
+        "published_at": "2026-01-18T11:34:56+06:00",
+        "summary": "মধ্যপ্রাচ্যের বিভিন্ন দেশে আজ রবিবার (১৮ জানুয়ারি) হিজরি ১৪৪৭ সনের শাবান মাসের চাঁদের সন্ধান করা হবে। বর্তমানে ওই অঞ্চলে রজব মাসের ২৯তম দিন চলছে। শাবান মাসের ১৫তম রাতে মুসলমানদের ধর্মীয় রাত শবেবরাত পালিত হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714495-dd69ca2a55c60f103a1fe0edf5562ab5.jpg"
+      },
+      {
+        "headline": "গণঅভ্যুত্থানে ক্ষতিগ্রস্তদের পরিবারের সঙ্গে তারেক রহমানের মতবিনিময়",
+        "url": "https://www.bd-pratidin.com/national/2026/01/18/1206093",
+        "published_at": "2026-01-18T11:32:56+06:00",
+        "summary": "জুলাই গণঅভ্যুত্থানে শহীদ ও আহতদের পরিবারের সদস্যদের সঙ্গে মতবিনিময়ে বসেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768714375-b2c880d4c7e06ec318a2158a534e17f5.jpg"
+      },
       {
         "headline": "গুলশানে তরুণীর গলাকাটা মরদেহ উদ্ধার",
         "url": "https://www.bd-pratidin.com/city-news/2026/01/18/1206091",
@@ -16758,7 +16788,7 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713635-d9e20570c5d1ed3f31b798846da8ec86.jpg"
       },
       {
-        "headline": "আয়ারল্যান্ডের ‘না’! : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
+        "headline": "আয়ারল্যান্ডের ‘না’ : ভারতে বিশ্বকাপ না খেলার জন্য গ্রুপ বদলের প্রস্তাব",
         "url": "https://www.bd-pratidin.com/sports/2026/01/18/1206088",
         "published_at": "2026-01-18T11:15:15+06:00",
         "summary": "টি টোয়েন্টি বিশ্বকাপ নিয়ে তৈরি হওয়া জটিলতায় নিজেদের অবস্থান স্পষ্ট করেছে ক্রিকেট আয়ারল্যান্ড। সংস্থাটি জানিয়েছে, তারা ভারতে গিয়ে বিশ্বকাপ খেলবে না। পাশাপাশি আইসিসি থেকেও আশ্বাস পেয়েছে যে, তাদের নির্ধারিত ম্যাচ শ্রীলঙ্কা থেকে সরানো হবে না।",
@@ -16768,7 +16798,7 @@
         "headline": "তাপস-নানকসহ ২৮ জনের বিরুদ্ধে ট্রাইব্যুনালে আনুষ্ঠানিক অভিযোগ",
         "url": "https://www.bd-pratidin.com/national/2026/01/18/1206085",
         "published_at": "2026-01-18T11:06:21+06:00",
-        "summary": "চব্বিশের মানবতাবিরোধী অপরাধের ঘটনায় ঢাকা দক্ষিণ সিটি করপোরেশন সাবেক মেয়র শেখ ফজলে নূর তাপস ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক জাহাঙ্গীর কবির নানকসহ ২৮ জনের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করেছে প্রসিকিউশন।",
+        "summary": "জুলাই গণ-অভ্যুত্থানের সময় রাজধানীর মোহাম্মদপুর এলাকায় সংঘটিত মানবতাবিরোধী অপরাধের একটি মামলায় আওয়ামী লীগের সাবেক বস্ত্র ও পাটমন্ত্রী জাহাঙ্গীর কবির নানক এবং ঢাকা দক্ষিণ সিটি করপোরেশনের সাবেক মেয়র শেখ ফজলে নূর তাপসসহ ২৮ জনকে আসামি করে আনুষ্ঠানিক অভিযোগ (ফরমাল চার্জ) দাখিল করেছে প্রসিকিউশন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768712780-bcd217b18d9958e9ec0d04f2bcd051dd.jpg"
       },
       {
@@ -16791,34 +16821,6 @@
         "published_at": "2026-01-18T11:02:33+06:00",
         "summary": "প্রধান নির্বাচন কমিশনার (সিইসি) এ এম এম নাসির উদ্দিনের সঙ্গে আজ রবিবার বিকালে বৈঠকে বসতে যাচ্ছেন বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768713889-c6df1bdcb06b5e804ce0831cfb143487.jpg"
-      },
-      {
-        "headline": "আমির হামজার বিরুদ্ধে বিক্ষোভ, কুশপুত্তলিকায় জুতার মালা",
-        "url": "https://www.bd-pratidin.com/country/2026/01/18/1206076",
-        "published_at": "2026-01-18T10:19:07+06:00",
-        "summary": "পাবনার ঈশ্বরদীতে সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার ছোট ছেলে প্রয়াত আরাফাত রহমান কোকোর নাম বিকৃত ও কটূক্তির প্রতিবাদে জামায়াত নেতা মুফতি আমির হামজার বিরুদ্ধে বিক্ষোভ মিছিল করেছে বিএনপি। এসময় তার কুশপুতুলে জুতার মালা পরিয়ে জুতা নিক্ষেপ করে প্রতিবাদ জানান নেতাকর্মীরা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
-      },
-      {
-        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
-        "published_at": "2026-01-18T10:07:04+06:00",
-        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
-      },
-      {
-        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
-        "published_at": "2026-01-18T09:44:05+06:00",
-        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
-      },
-      {
-        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
-        "published_at": "2026-01-18T08:48:47+06:00",
-        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "অস্ট্রেলিয়ায় এক মাসেই বন্ধ হলো ৫০ লাখ কিশোর-কিশোরীর সোশ্যাল মিডিয়া অ্যাকাউন্ট",
@@ -17036,6 +17038,34 @@
         "published_at": null,
         "summary": "ওপেনএআই প্ল্যাটফর্ম 'চ্যাটজিপিটি ট্রান্সলেট' নামক একটি নতুন টুল চালু করেছে, যা ব্যবহারকারীদের একই লেখাকে ভিন্নভাবে অনুবাদ করার সুযোগ প্রদান করবে। ...",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "আমির হামজার বিরুদ্ধে বিক্ষোভ, কুশপুত্তলিকায় জুতার মালা",
+        "url": "https://www.bd-pratidin.com/country/2026/01/18/1206076",
+        "published_at": "2026-01-18T10:19:07+06:00",
+        "summary": "পাবনার ঈশ্বরদীতে সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার ছোট ছেলে প্রয়াত আরাফাত রহমান কোকোর নাম বিকৃত ও কটূক্তির প্রতিবাদে জামায়াত নেতা মুফতি আমির হামজার বিরুদ্ধে বিক্ষোভ মিছিল করেছে বিএনপি। এসময় তার কুশপুতুলে জুতার মালা পরিয়ে জুতা নিক্ষেপ করে প্রতিবাদ জানান নেতাকর্মীরা।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709946-c879a57a3426329bc74396f7acd984f8.jpg"
+      },
+      {
+        "headline": "গাজায় ‘শান্তি পর্ষদে’ এরদোয়ান ও সিসিকে চান ট্রাম্প",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206074",
+        "published_at": "2026-01-18T10:07:04+06:00",
+        "summary": "গাজার অন্তর্বর্তী প্রশাসনের কার্যক্রম তদারক করতে ঘোষণা করা ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যুক্ত হতে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ও মিশরের প্রেসিডেন্ট আবদেল ফাত্তাহ আল-সিসিকে আমন্ত্রণ জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768709222-ae88de1581e17912755c7ecf69d8dc78.jpg"
+      },
+      {
+        "headline": "বিক্ষোভে ‘হাজার হাজার’ নিহতের নেপথ্যে যুক্তরাষ্ট্র-ইসরায়েল: খামেনি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206070",
+        "published_at": "2026-01-18T09:44:05+06:00",
+        "summary": "ইরানের সাম্প্রতিক সরকারবিরোধী বিক্ষোভে হাজার হাজার মানুষ নিহতের ঘটনায় যুক্তরাষ্ট্র ও ইসরায়েল সংশ্লিষ্ট শক্তিগুলোর দায়ী বলে মন্তব্য করেছেন দেশটির সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি। স্থানীয় সময় শনিবার শিক্ষার্থীদের সঙ্গে এক বৈঠকে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768707844-c89d1a648b65a961c739c25a5e1b5907.jpg"
+      },
+      {
+        "headline": "শান্তি আলোচনায় যুক্তরাষ্ট্রে ইউক্রেনীয় প্রতিনিধি দল",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/18/1206060",
+        "published_at": "2026-01-18T08:48:47+06:00",
+        "summary": "প্রায় চার বছর ধরে চলমান যুদ্ধের অবসানে যুক্তরাষ্ট্রের নেতৃত্বে কূটনৈতিক উদ্যোগের অংশ হিসেবে ইউক্রেনের একটি প্রতিনিধি দল শনিবার যুক্তরাষ্ট্রে পৌঁছেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/18/og/1768704526-7711c2a8d982c469c930a05505b3515b.jpg"
       },
       {
         "headline": "২২ রানে ৭ উইকেট খুইয়ে হার দিয়ে বিশ্বকাপ শুরু বাংলাদেশের",
@@ -18121,34 +18151,6 @@
         "published_at": "2026-01-16T10:48:05+06:00",
         "summary": "ইরানে বর্তমান শাসনব্যবস্থা পতনের পর একটি “স্বাধীন ইরান” গঠিত হলে দেশটি অবিলম্বে ইসরায়েলকে স্বীকৃতি দেবে এবং যুক্তরাষ্ট্রের সঙ্গে কূটনৈতিক সম্পর্ক স্বাভাবিক করা হবে জানিয়েছেন নির্বাসিত ইরানি যুবরাজ রেজা পাহলভি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768538879-28ffab861704d24b916b58fa9574c7bf.jpg"
-      },
-      {
-        "headline": "ভূমধ্যসাগর পাড়ি দিয়ে অবৈধভাবে ইউরোপে প্রবেশ, শীর্ষে বাংলাদেশ",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205322",
-        "published_at": "2026-01-16T10:43:23+06:00",
-        "summary": "ইউরোপে অবৈধভাবে সমুদ্রপথে ও বলকান সীমান্ত দিয়ে প্রবেশ ২০২৫ সালে ২৬ শতাংশ কমেছে। তবে ভূমধ্যসাগর দিয়ে অবৈধভাবে ইউরোপ প্রবেশে গতবছর শীর্ষে ছিলেন বাংলাদেশিরা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768538597-b9fb9d37bdf15a699bc071ce49baea53.jpg"
-      },
-      {
-        "headline": "ইয়েমেনের নতুন প্রধানমন্ত্রী হলেন জিনদানি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205319",
-        "published_at": "2026-01-16T10:40:20+06:00",
-        "summary": "ইয়েমেনের প্রধানমন্ত্রী হলেন শায়া মোহসেন জিনদানি। সালেম বিন ব্রেইক পদত্যাগ করায় তার স্থলাভিষিক্ত হয়েছেন জিনদানি। প্রধানমন্ত্রী হওয়ার আগে তিনি দেশটির পররাষ্ট্রমন্ত্রীর দায়িত্ব পালন করছিলেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768538415-4f6fa2948e662ff1a62f42a969bc7d74.jpg"
-      },
-      {
-        "headline": "নাসার হাবল টেলিস্কোপে ধরা পড়লো মহাবিশ্বের নতুন রহস্য ‘ব্যর্থ ছায়াপথ’",
-        "url": "https://www.ittefaq.com.bd/769457/%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%8B%E0%A6%AA%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A6%BE-%E0%A6%AA%E0%A7%9C%E0%A6%B2%E0%A7%8B-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8",
-        "published_at": null,
-        "summary": "নাসার হাবল স্পেস টেলিস্কোপ ব্যবহার করে মহাকাশে এক অভূতপূর্ব মহাজাগতিক বস্তুর সন্ধান পেয়েছেন জ্যোতির্বিজ্ঞানীরা, যাকে বিজ্ঞানের ভাষায় ‘ব্যর্থ ছায়াপথ’ বলা হচ্ছে। পৃথিবী থেকে প্রায় এক কোটি ৪০ লাখ আলোকবর্ষ দূরে অবস্থিত এই বস্তুটির নাম দেওয়া হয়েছে ‘ক্লাউড-৯’।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/08/eadf331389ac17bd1f26f5d9a2d8a5bf-695f4c9731641.jpg"
-      },
-      {
-        "headline": "দখলের দাবিতে অনড় ট্রাম্প: গ্রিনল্যান্ডে ইউরোপীয় সেনা মোতায়েন",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/16/1205316",
-        "published_at": "2026-01-16T10:19:50+06:00",
-        "summary": "গ্রিনল্যান্ডে ইউরোপীয় ন্যাটো সদস্যদেশগুলোর সামরিক সদস্যরা পৌঁছাতে শুরু করেছেন। যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প গ্রিনল্যান্ডকে জাতীয় নিরাপত্তার জন্য প্রয়োজনীয় বলে দাবি করার পরেই এই পদক্ষেপ নিলো ইউরোপীয় দেশগুলো।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/16/og/1768537185-815c1bf173a1ba08bd1916ab915a026f.jpg"
       }
     ]
   }
