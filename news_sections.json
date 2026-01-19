@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-01-19T22:21:36.552779+00:00",
+  "fetched_at": "2026-01-19T22:49:53.357109+00:00",
   "sections": {
     "latest": [
       {
@@ -307,14 +307,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-20/zj9aw2i8/720e0420-01e3-4fea-865b-55ca7aa70335.jfif?auto=format,compress"
       },
       {
-        "headline": "আসিফকে নিয়ে ছাত্রদলের এত অভিযোগ কেন?",
-        "url": "https://www.prothomalo.com/video/bangladesh/280nad81s5",
-        "published_at": "2026-01-19T16:08:48.459000+00:00",
-        "summary": "আসিফকে নিয়ে ছাত্রদলের এত অভিযোগ কেন?",
-        "image_s3_key": "prothomalo-bangla/2026-01-19/xlninj38/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-19/xlninj38/WEB.jpg?auto=format,compress"
-      },
-      {
         "headline": "সিদ্ধান্ত নেওয়ার জন্য আইসিসি কোনো সুনির্দিষ্ট তারিখ দেয়নি: বিসিবি",
         "url": "https://www.bd-pratidin.com/sports/2026/01/20/1206878",
         "published_at": "2026-01-20T02:37:12+06:00",
@@ -476,6 +468,13 @@
         "image_url": "https://media.ndiganta.com/images/Majid-1.original.orig.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "ধামরাইয়ে অবাঞ্ছিত ঘোষণাকারীদের সাথে নিয়ে এনসিপির প্রার্থীর সংবাদ সম্মেলন",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/cGhP6S6k1GU0/",
+        "published_at": null,
+        "summary": "সোমবার (১৯ জানুয়ারি) সন্ধ্যায় স্থানীয় এনসিপি নেতৃবৃন্দকে নিয়ে এ সংবাদ সম্মেলন করেন তিনি, যাদের মধ্যে তাকে অবাঞ্ছিত ঘোষণা করা অংশও ছিল।",
+        "image_url": "https://media.ndiganta.com/original_images/Dhamrai-NCP.jpg"
+      },
+      {
         "headline": "হাসপাতালে নবজাতক রেখে নিখোঁজ মা, চিরকুটে মিলল পরিচয়",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/vWs9kJeSdHgJ/",
         "published_at": null,
@@ -518,13 +517,6 @@
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "দ্বৈত নাগরিকদের মনোনয়ন বাতিল না হলে পরিণতি খারাপ হবে, হুঁশিয়ারি বৈষম্যবিরোধী ছাত্র আন্দোলনের",
-        "url": "https://dailynayadiganta.com/video/RRtlNOMU101T/",
-        "published_at": null,
-        "summary": null,
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
         "headline": "সংসদ নির্বাচনে প্রার্থিতা প্রত্যাহারের শেষ দিন আজ",
         "url": "https://dailynayadiganta.com/bangladesh/national/z67wKZT1YbrS/",
         "published_at": null,
@@ -539,7 +531,7 @@
         "image_url": "https://media.ndiganta.com/original_images/Pic_Footbale_Laxmichari.jpg"
       },
       {
-        "headline": "জামায়াত চট্টগ্রাম মহানগরী আমিরন্যায়বিচার ও ইসলামী মূল্যবোধ প্রতিষ্ঠার স্বার্থে ‘হ্যাঁ’ ভোটকে বিজয়ী করুন",
+        "headline": "ন্যায়বিচার ও ইসলামী মূল্যবোধ প্রতিষ্ঠার স্বার্থে ‘হ্যাঁ’ ভোটকে বিজয়ী করুন",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/PDClDpJLgYg0/",
         "published_at": null,
         "summary": "‘বাংলাদেশের স্বাধীনতা, সার্বভৌমত্ব ও মর্যাদা সমুন্নত রাখতে আসন্ন গুরুত্বপূর্ণ সিদ্ধান্তে জনগণকে সচেতনভাবে ‘হ্যাঁ’ ভোট প্রদান করতে হবে। দেশের কল্যাণ, ন্যায়বিচার ও ইসলামী মূল্যবোধ প্রতিষ্ঠার স্বার্থেই ‘হ্যাঁ’ ভোটকে বিজয়ী করা সময়ের দাবি।’",
@@ -551,13 +543,6 @@
         "published_at": null,
         "summary": "‘কোনো অজুহাতে নির্বাচন পিছানোর সুযোগ নেই। কোনো প্রচারণায় ১২ ফেব্রুয়ারির নির্বাচন আটকানোর সুযোগ নেই। কারো যদি কিছু থাকে তা বলতে পারে। কিন্তু নির্বাচনকে বাধা দেয়ার মতো কোনো পরিস্থিতি তৈরি হয়নি।’",
         "image_url": "https://media.ndiganta.com/original_images/Feni_Saleh.jpg"
-      },
-      {
-        "headline": "চান্দিনায় বাসে তল্লাসী, বিদেশী পিস্তলসহ আটক ২",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/TYYscX0TwiaY/",
-        "published_at": null,
-        "summary": "কুমিল্লার চান্দিনায় যাত্রীবাহী বাসে তল্লাসী চালিয়ে বিদেশী পিস্তল, ম্যাগজিনসহ দুইজনকে আটক করেছে হাইওয়ে পুলিশ।",
-        "image_url": "https://media.ndiganta.com/original_images/Chandina-Arms-news-pic-1.jpg"
       },
       {
         "headline": "আজকের সর্বশেষ খবর - January 20, 2026",
@@ -572,6 +557,28 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "আসিফকে নিয়ে ছাত্রদলের এত অভিযোগ কেন?",
+        "url": "https://www.prothomalo.com/video/bangladesh/280nad81s5",
+        "published_at": "2026-01-19T16:08:48.459000+00:00",
+        "summary": "আসিফকে নিয়ে ছাত্রদলের এত অভিযোগ কেন?",
+        "image_s3_key": "prothomalo-bangla/2026-01-19/xlninj38/WEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-19/xlninj38/WEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "দ্বৈত নাগরিকদের মনোনয়ন বাতিল না হলে পরিণতি খারাপ হবে, হুঁশিয়ারি বৈষম্যবিরোধী ছাত্র আন্দোলনের",
+        "url": "https://dailynayadiganta.com/video/RRtlNOMU101T/",
+        "published_at": null,
+        "summary": null,
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "চান্দিনায় বাসে তল্লাসী, বিদেশী পিস্তলসহ আটক ২",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/TYYscX0TwiaY/",
+        "published_at": null,
+        "summary": "কুমিল্লার চান্দিনায় যাত্রীবাহী বাসে তল্লাসী চালিয়ে বিদেশী পিস্তল, ম্যাগজিনসহ দুইজনকে আটক করেছে হাইওয়ে পুলিশ।",
+        "image_url": "https://media.ndiganta.com/original_images/Chandina-Arms-news-pic-1.jpg"
       },
       {
         "headline": "অবৈধ স্থাপনায় রাজউকের কড়াকড়ি, তেজগাঁও-গুলশানে অভিযান",
@@ -1489,13 +1496,6 @@
         "published_at": null,
         "summary": "বুধবার (১৪ জানুয়ারি) সদর উপজেলার চরমুগরিয়া এলাকার একটি ব্যাংক থেকে টাকা উত্তোলন শেষে বাড়ি ফিরছিলেন ডাসার উপজেলার বালিগ্রাম ইউনিয়নের খাতিয়াল গ্রামের মোসলেম চৌধুরীর ছেলে আব্বাস চৌধুরী (৪৫)। মাঝপথে সদর উপজেলার ঘটমাঝি ইউনিয়নের বাহেরান্দি এলাকায় এলে পূর্ব শত্রুতার জেরে আব্বাসকে কুপিয়ে জখম করে প্রতিপক্ষের লোকজন।",
         "image_url": "https://media.ndiganta.com/original_images/Madaripur-Murder-HumanChain.jpg"
-      },
-      {
-        "headline": "শহীদ প্রেসিডেন্ট জিয়াউর রহমান ছিলেন একজন ক্ষণজন্মা পুরুষ",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/Qn9HfO6mbMt2/",
-        "published_at": null,
-        "summary": "‘শহীদ প্রেসিডেন্ট ছিলেন একজন ক্ষণজন্মা পুরুষ। তিনি জন্মগ্রহণ না করলে বিএনপি দলের জন্ম হতো না। আমি দুলু এমপি মন্ত্রী হতে পারতাম না।’",
-        "image_url": "https://media.ndiganta.com/original_images/Dulu_Natore_JZrjVm5.jpg"
       }
     ],
     "bangladesh": [
