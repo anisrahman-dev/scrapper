@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-20T20:45:53.703196+00:00",
+  "fetched_at": "2026-01-20T21:21:17.297196+00:00",
   "stories": [
+    {
+      "headline": "‘সাধারণ ঘরের ছেলে এমপি হতে চাই, এটাকেই অনেকে বেয়াদবি হিসেবে দেখছেন’",
+      "url": "https://www.prothomalo.com/bangladesh/11ui0sdwe6",
+      "published_at": "2026-01-20T20:58:34.280000+00:00",
+      "summary": "বিভিন্ন সময় নাগরিকদের নানা দুর্ভোগের প্রতিবাদ করে দেশি–বিদেশি গণমাধ্যমের শিরোনাম হয়েছেন মিজানুর রহমান। এবার তিনি সংসদ সদস্য প্রার্থী হয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-20/ecf7t8jo/Mijanur-Rahman-01.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-20/ecf7t8jo/Mijanur-Rahman-01.jpeg?auto=format,compress"
+    },
     {
       "headline": "তারেক রহমানের সঙ্গে চার দেশের রাষ্ট্রদূতদের সাক্ষাৎ",
       "url": "https://www.prothomalo.com/politics/prsgrenlpo",
@@ -314,19 +322,11 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-20/15hmydnn/Afgan-Minister.jpg?auto=format,compress"
     },
     {
-      "headline": "উদ্ভিদ কীভাবে শ্বাস নেয়, সরাসরি দেখলেন গবেষকেরা",
-      "url": "https://www.prothomalo.com/technology/science/nprnwgs3f6",
-      "published_at": "2026-01-20T15:47:50.262000+00:00",
-      "summary": "যন্ত্রটির মাধ্যমে প্রথমবারের মতো সরাসরি উদ্ভিদের শ্বাস নেওয়ার প্রক্রিয়া দেখা সম্ভব হয়েছে বলে দাবি করেছেন গবেষকেরা।",
-      "image_s3_key": "prothomalo-bangla/2026-01-20/0874gdgg/plant.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-20/0874gdgg/plant.png?auto=format,compress"
-    },
-    {
-      "headline": "ট্রাম্পের ‘বোর্ড অব পিস’-এ প্রথম সমর্থন আরব আমিরাতের",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/21/1207310",
-      "published_at": "2026-01-21T02:16:19+06:00",
-      "summary": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প প্রস্তাবিত নতুন উদ্যোগ ‘বোর্ড অব পিস’-এ যোগ দেওয়ার আমন্ত্রণ গ্রহণ করেছে সংযুক্ত আরব আমিরাত (ইউএই)। মঙ্গলবার ইউএইর পররাষ্ট্র মন্ত্রণালয় এ তথ্য নিশ্চিত করে জানায়, এই উদ্যোগে সক্রিয়ভাবে অবদান রাখতে প্রস্তুত আবুধাবি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/21/og/1768940178-929bf2b2ecb99381b307d1d695b0fa36.jpg"
+      "headline": "করাচিতে শপিং মলে আগুন : নিহত ২৮, নিখোঁজ ৮১",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/21/1207325",
+      "published_at": "2026-01-21T03:05:30+06:00",
+      "summary": "পাকিস্তানের বাণিজ্যিক রাজধানী করাচির ব্যস্ততম শপিং কমপ্লেক্স গুল প্লাজায় ভয়াবহ অগ্নিকাণ্ডে অন্তত ২৮ জন নিহত হয়েছেন এবং এখনো নিখোঁজ রয়েছেন ৮১ জন। এ ঘটনায় শতাধিক মানুষ আহত হয়েছেন বলে জানিয়েছে স্থানীয় প্রশাসন ও ফায়ার সার্ভিস।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/21/og/1768943129-ad158cf44e7b8d5f9466d87e782d60ce.jpg"
     },
     {
       "headline": "ট্রাম্পের আমন্ত্রণে গাজা বোর্ড অব পিসে যুক্ত হলো ইউএই",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/20/og/1768922076-a91c8dfbe2405703c15844e20f1a81a5.jpg"
     },
     {
+      "headline": "‘না’ ভোট দেবে জাপা: জি এম কাদের",
+      "url": "https://www.ittefaq.com.bd/771199/%E2%80%98%E0%A6%A8%E0%A6%BE%E2%80%99-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE-%E0%A6%9C%E0%A6%BF-%E0%A6%8F%E0%A6%AE-%E0%A6%95%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "জাতীয় পার্টি (জাপা) সংবিধান সংস্কারের বিরুদ্ধে অবস্থান নেবে বলে জানিয়েছেন দলটির চেয়ারম্যান জি এম কাদের। তিনি বলেছেন, আমরা ‘না’ ভোট দেব। আইনের শাসনের স্বার্থে জনগণকে ‘না’ ভোট দিতে অনুরোধ করব। ‘হ্যাঁ’ ভোটে সংবিধান বিরুদ্ধ, দেশের রাজনৈতিক স্থিতিশীলতা ধ্বংস হয়ে যাবে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/21/1fa8ce0d73364a86e616a4b81b597f19-696fd917e778a.jpg"
+    },
+    {
       "headline": "আরও ৩৬ বাংলাদেশিকে ফেরত পাঠালো যুক্তরাষ্ট্র",
       "url": "https://www.ittefaq.com.bd/771203/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%A9%E0%A7%AC-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0",
       "published_at": null,
@@ -453,13 +460,6 @@
       "published_at": null,
       "summary": "নিরাপত্তা পরিস্থিতির কথা বিবেচনা করে বাংলাদেশে কর্মরত ভারতীয় কর্মকর্তাদের পরিবারের সদস্যদের আপাতত দেশে ফিরিয়ে নেওয়ার সিদ্ধান্ত নিয়েছে ভারত।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/21/74530fa60318d380da0bf75a72640893-696fe4cb8260e.jpg"
-    },
-    {
-      "headline": "সরকারি ঋণের চাহিদা পূরণে পুঁজিবাজারকে গুরুত্ব দিতে হবে: আমির খসরু",
-      "url": "https://www.ittefaq.com.bd/771187/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%8B%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6%E0%A6%BE-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87",
-      "published_at": null,
-      "summary": "বিএনপির স্থায়ী কমিটির সদস্য আমির খসরু মাহমুদ চৌধুরী বলেছেন, সরকারের ঋণ চাহিদা পূরণে বৈদেশিক ঋণের ওপর অতিমাত্রায় নির্ভরশীলতার পরিবর্তে পুঁজিবাজারকে গুরুত্বপূর্ণ ভূমিকা দিতে হবে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/20/ae9a720aadd26af1ea50cc3fb94efa39-696fada8cf1d2.jpg"
     },
     {
       "headline": "হুম্মাম কাদেরের জবানবন্দী",
@@ -584,7 +584,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 21, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ব্যক্তি শ্রেণির করদাতাদের আয়কর রিটার্ন দাখিলের সময় দ্বিতীয় দফায় যে সময় বাড়িয়েছিল জাতীয় রাজস্ব বোর্ড-এনবিআর, সে সময় শেষ হতে বাকি ...",
+      "summary": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প নিশ্চিত করেছেন, রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনকে ‘বোর্ড অব পিস’-এ যোগদানের জন্য আমন্ত্রণ জানানো হয়েছে। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -593,6 +593,28 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "উদ্ভিদ কীভাবে শ্বাস নেয়, সরাসরি দেখলেন গবেষকেরা",
+      "url": "https://www.prothomalo.com/technology/science/nprnwgs3f6",
+      "published_at": "2026-01-20T15:47:50.262000+00:00",
+      "summary": "যন্ত্রটির মাধ্যমে প্রথমবারের মতো সরাসরি উদ্ভিদের শ্বাস নেওয়ার প্রক্রিয়া দেখা সম্ভব হয়েছে বলে দাবি করেছেন গবেষকেরা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-20/0874gdgg/plant.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-20/0874gdgg/plant.png?auto=format,compress"
+    },
+    {
+      "headline": "ট্রাম্পের ‘বোর্ড অব পিস’-এ প্রথম সমর্থন আরব আমিরাতের",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/21/1207310",
+      "published_at": "2026-01-21T02:16:19+06:00",
+      "summary": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প প্রস্তাবিত নতুন উদ্যোগ ‘বোর্ড অব পিস’-এ যোগ দেওয়ার আমন্ত্রণ গ্রহণ করেছে সংযুক্ত আরব আমিরাত (ইউএই)। মঙ্গলবার ইউএইর পররাষ্ট্র মন্ত্রণালয় এ তথ্য নিশ্চিত করে জানায়, এই উদ্যোগে সক্রিয়ভাবে অবদান রাখতে প্রস্তুত আবুধাবি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/21/og/1768940178-929bf2b2ecb99381b307d1d695b0fa36.jpg"
+    },
+    {
+      "headline": "সরকারি ঋণের চাহিদা পূরণে পুঁজিবাজারকে গুরুত্ব দিতে হবে: আমির খসরু",
+      "url": "https://www.ittefaq.com.bd/771187/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%8B%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6%E0%A6%BE-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87",
+      "published_at": null,
+      "summary": "বিএনপির স্থায়ী কমিটির সদস্য আমির খসরু মাহমুদ চৌধুরী বলেছেন, সরকারের ঋণ চাহিদা পূরণে বৈদেশিক ঋণের ওপর অতিমাত্রায় নির্ভরশীলতার পরিবর্তে পুঁজিবাজারকে গুরুত্বপূর্ণ ভূমিকা দিতে হবে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/20/ae9a720aadd26af1ea50cc3fb94efa39-696fada8cf1d2.jpg"
     },
     {
       "headline": "৮টি ব্যাংকে অফিসার পদের নিয়োগ পরীক্ষার তারিখ পরিবর্তন",
@@ -1477,27 +1499,6 @@
       "published_at": "2026-01-20T19:38:14+06:00",
       "summary": "বিচার ব্যবস্থা আধুনিকায়ন ও বিচারপ্রার্থী জনগণের দুর্ভোগ লাঘবে আগামীকাল বুধবার প্রচলিত বেইলবন্ড দাখিল পদ্ধতির পরিবর্তে ডিজিটাল মাধ্যমে ই-বেইলবন্ড চালুকরণ উদ্বোধন করা হবে।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/20/og/1768916293-4cdf9fb1556b1d162d1fa77c1f36b83c.jpg"
-    },
-    {
-      "headline": "শেষ বলে ছক্কা মেরে সিলেটকে জিতিয়ে যা বললেন ওকস",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/20/1207127",
-      "published_at": "2026-01-20T19:33:37+06:00",
-      "summary": "চলমান বিপিএলের এলিমিনেটর ম্যাচে রংপুর রাইডার্সের বিপক্ষে নাটকীয় জয়ে সিলেট টাইটান্সকে দ্বিতীয় কোয়ালিফায়ারে পৌঁছে দিয়েছেন ইংলিশ ব্যাটসম্যান ক্রিস ওকস। ম্যাচের শেষ বলে জয়ের জন্য যখন প্রয়োজন ছিল ৬ রান, তখন এক ছক্কায় সিলেটকে জয়ের বন্দরে পৌঁছে দেন তিনি। এই ইনিংসই হয়ে উঠল তার প্রথম বিপিএলকে স্মরণীয় করে রাখার মুহূর্ত।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/20/og/1768916016-10cbe9454b69402ea044d30ac76af350.jpg"
-    },
-    {
-      "headline": "বাংলাদেশের পরিবর্তন করতে হলে গণভোটে ‘হ্যাঁ’ ভোট দিতে হবে : নৌপরিবহন উপদেষ্টা",
-      "url": "https://www.bd-pratidin.com/national/2026/01/20/1207126",
-      "published_at": "2026-01-20T19:33:36+06:00",
-      "summary": "নৌপরিবহন মন্ত্রণালয় এবং শ্রম ও কর্মসংস্থান মন্ত্রণালয়ের উপদেষ্টা ব্রিগেডিয়ার জেনারেল (অব.) ড. এম সাখাওয়াত হোসেন বলেছেন, গণভোটে যদি ‌‘হ্যাঁ’ জয়যুক্ত করতে না পারি, ‌‌‘না’ জয়যুক্ত হয়, তাহলে এতগুলো রক্তের বিনিময়ে যে সুযোগ এসেছে, সেটা আমরা হারাব। আগের নিয়মে ফিরে যাবো।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/20/og/1768916014-748efb91a7bb9708b112d6bf0f586901.jpg"
-    },
-    {
-      "headline": "লক্ষ্মীপুরে জামায়াত নেতাসহ তিন জনের প্রার্থীতা প্রত্যাহার",
-      "url": "https://www.bd-pratidin.com/election/2026/01/20/1207125",
-      "published_at": "2026-01-20T19:26:47+06:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে লক্ষ্মীপুর-১ (রামগঞ্জ) আসনের জামায়াতের প্রার্থী মোহাম্মদ নাজমুল হাসান পাটওয়ারী প্রার্থীতা প্রত্যাহার করেছেন। জোটগত কারণে তিনি এনসিপির প্রার্থী মাহবুব আলমকে সমর্থন জানিয়ে প্রার্থীতা প্রত্যাহার করেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/20/og/1768915606-f566990108960de56f437df9c69366fc.jpg"
     }
   ]
 }
