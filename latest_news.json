@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-21T22:24:04.161889+00:00",
+  "fetched_at": "2026-01-21T22:55:59.546248+00:00",
   "stories": [
+    {
+      "headline": "মুসলিম সিসিলির উত্থান-পতনের ইতিহাস",
+      "url": "https://www.prothomalo.com/religion/islam/wcjr4hza77",
+      "published_at": "2026-01-21T22:30:00+00:00",
+      "summary": "দীর্ঘ ২০০ বছরের বেশি সময় এই দ্বীপ মুসলিম শাসনের অধীন ছিল, যা কেবল সামরিক বিজয় নয়, বরং জ্ঞানবিজ্ঞান ও সংস্কৃতির এক অনন্য মিলনস্থলে পরিণত হয়েছিল।",
+      "image_s3_key": "prothomalo-bangla/2026-01-21/p8ob47ka/Palermo-photo.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-21/p8ob47ka/Palermo-photo.jpg?auto=format,compress"
+    },
     {
       "headline": "বিএনপির নির্বাচনী ‘থিম সং’ প্রকাশ, ধানের শীষ ঘিরে বার্তা",
       "url": "https://www.prothomalo.com/politics/tmw8zbc3yd",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-21/zbfnt36u/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
     },
     {
-      "headline": "টানা তিন দিনের দরবৃদ্ধিতে সোনার ভরি ছাড়াল আড়াই লাখ টাকা",
-      "url": "https://www.prothomalo.com/business/industry/elz2uwfg5n",
-      "published_at": "2026-01-21T16:28:04.387000+00:00",
-      "summary": "আজ বুধবার রাতে সোনার মূল্যবৃদ্ধির এ সিদ্ধান্তের কথা জানিয়েছে বাংলাদেশ জুয়েলার্স সমিতি (বাজুস)।",
-      "image_s3_key": "prothomalo-bangla/2024-10-20/zj9aw2i8/720e0420-01e3-4fea-865b-55ca7aa70335.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-20/zj9aw2i8/720e0420-01e3-4fea-865b-55ca7aa70335.jfif?auto=format,compress"
-    },
-    {
       "headline": "কলাবাগানে ছিনতাইকারী সন্দেহে গণপিটুনিতে দুই যুবক আহত",
       "url": "https://www.bd-pratidin.com/city-news/2026/01/22/1207754",
       "published_at": "2026-01-22T04:01:16+06:00",
@@ -584,7 +584,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 22, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "পীরগাছায় আবু সাঈদসহ একাধিক হত্যা মামলার আসামি জেলা যুবলীগের সাংগঠনিক সম্পাদক নাহিদ হোসেন লিটন পুলিশ হেফাজতে থাকা অবস্থায় পালিয়ে গেছেন। ...",
+      "summary": "স্বাক্ষর জাল করে ভুয়া সনদসহ তথ্য গোপন করে চাকরি নেওয়ার অভিযোগে রাঙামাটি বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের (রাবিপ্রবি) কম্পিউটার সায়েন্স ও ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -593,6 +593,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "টানা তিন দিনের দরবৃদ্ধিতে সোনার ভরি ছাড়াল আড়াই লাখ টাকা",
+      "url": "https://www.prothomalo.com/business/industry/elz2uwfg5n",
+      "published_at": "2026-01-21T16:28:04.387000+00:00",
+      "summary": "আজ বুধবার রাতে সোনার মূল্যবৃদ্ধির এ সিদ্ধান্তের কথা জানিয়েছে বাংলাদেশ জুয়েলার্স সমিতি (বাজুস)।",
+      "image_s3_key": "prothomalo-bangla/2024-10-20/zj9aw2i8/720e0420-01e3-4fea-865b-55ca7aa70335.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-20/zj9aw2i8/720e0420-01e3-4fea-865b-55ca7aa70335.jfif?auto=format,compress"
     },
     {
       "headline": "জাপানে শিনজো আবের হত্যাকারীর বিরুদ্ধে সাজা ঘোষণা",
@@ -1492,14 +1500,6 @@
       "summary": "সিমিন রহমানের বিরুদ্ধে দায়ের করা মোট চারটি মামলার মধ্যে এটিসহ তিনটি মামলায় ইতিমধ্যে ফাইনাল রিপোর্ট দেওয়া হয়েছে।",
       "image_s3_key": "prothomalo-bangla/2026-01-10/1zwjo88p/CMM-Court.jpeg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-10/1zwjo88p/CMM-Court.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "‘মাস্তান ও মেরুদণ্ডহীন শিক্ষকদের সমন্বয় ভীতিকর হয়ে দাঁড়িয়েছে’",
-      "url": "https://www.prothomalo.com/bangladesh/capital/ic1cgl5o72",
-      "published_at": "2026-01-21T13:31:27.415000+00:00",
-      "summary": "চাপের মুখে ইউনিভার্সিটি অব এশিয়া প্যাসিফিকের (ইউএপি) দুই শিক্ষককে বরখাস্ত করার প্রতিবাদ জানিয়েছে বিশ্ববিদ্যালয় শিক্ষক নেটওয়ার্ক।",
-      "image_s3_key": "prothomalo-bangla/2026-01-21/kibv4rv7/teacher-network-presscon-210126.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-21/kibv4rv7/teacher-network-presscon-210126.jpg?auto=format,compress"
     }
   ]
 }
