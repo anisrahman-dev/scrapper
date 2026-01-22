@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-22T19:49:58.962752+00:00",
+  "fetched_at": "2026-01-22T20:24:15.178791+00:00",
   "stories": [
+    {
+      "headline": "নদীর পাড়ে দিন কাটল গানে গানে ",
+      "url": "https://www.prothomalo.com/bangladesh/z514hfqbrm",
+      "published_at": "2026-01-22T19:56:04.936000+00:00",
+      "summary": "উৎসবের অতিথি বিশিষ্ট অভিনয়শিল্পী ফজলুর রহমান বাবু বলেন, ‘শীতের সকালে নদীর পাড়ে প্রাকৃতিক পরিবেশে এমন আয়োজন অত্যন্ত আনন্দময়।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/lgwd53so/1.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/lgwd53so/1.PNG?auto=format,compress"
+    },
     {
       "headline": "‘রাঙ্গাবালী উপজেলার সকল আওয়ামী লীগ এখন বিএনপিকে সমর্থন করেছে’",
       "url": "https://www.prothomalo.com/video/bangladesh/xm8cs8k746",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/apuhnaoa/MoulavibazarDH05372026012220260122201809.jpg?auto=format,compress"
     },
     {
-      "headline": "আমরা কার্ডের ওয়াদা দিচ্ছি না, দুহাজার টাকায় কী হয়, প্রশ্ন জামায়াতের আমিরের\n",
-      "url": "https://www.prothomalo.com/video/bangladesh/l82kqxygoz",
-      "published_at": "2026-01-22T15:18:09.120000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-22/d5f9xeyu/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/d5f9xeyu/WEB.jpg?auto=format,compress"
-    },
-    {
       "headline": "ব্রাহ্মণবাড়িয়ায় জনসভা মঞ্চে তারেক রহমান",
       "url": "https://www.bd-pratidin.com/election/2026/01/22/1208060",
       "published_at": "2026-01-22T22:55:46+06:00",
@@ -376,6 +376,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769090138-1c1475381010476d424be1fef686cf57.jpg"
     },
     {
+      "headline": "বিএনপির ২৮৮ ও জামায়াতের ২২৪ জনসহ নির্বাচনে প্রতিদ্বন্দ্বিতা করবেন ১,৯৮১ প্রার্থী",
+      "url": "https://www.ittefaq.com.bd/771476/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A7%A8%E0%A7%AE%E0%A7%AE-%E0%A6%93-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A7%A8%E0%A7%A8%E0%A7%AA-%E0%A6%9C%E0%A6%A8%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87",
+      "published_at": null,
+      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে প্রতিদ্বন্দ্বী প্রার্থীর সংখ্যা চূড়ান্ত করেছে নির্বাচন কমিশন (ইসি)। সারা দেশে ২৯৮টি নির্বাচনী এলাকায় মোট ১ হাজার ৯৮১ জন প্রার্থী চূড়ান্তভাবে ভোটের লড়াইয়ে নামছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/23/f843c9cc4191bb9881387e733d3e4a6d-69727a89b56d3.jpg"
+    },
+    {
       "headline": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে নারী প্রার্থী ৭৬ জন",
       "url": "https://www.ittefaq.com.bd/771477/%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%8B%E0%A6%A6%E0%A6%B6-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A7%AD%E0%A7%AC-%E0%A6%9C%E0%A6%A8",
       "published_at": null,
@@ -439,13 +446,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/b1cc0674fd6b2344c902028fad4ecf41-69724e8aa29f8.jpeg"
     },
     {
-      "headline": "ঢাকায় মার্কিন রাষ্ট্রদূতের মন্তব্যকে ‘দায়িত্বজ্ঞানহীন ও ভিত্তিহীন’ আখ্যা চীনের",
-      "url": "https://www.ittefaq.com.bd/771443/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%82%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%87",
-      "published_at": null,
-      "summary": "ঢাকায় চীনের দূতাবাস যুক্তরাষ্ট্রের নতুন রাষ্ট্রদূত ব্রেন্ট ক্রিস্টেনসেনের মন্তব্যকে “দায়িত্বজ্ঞানহীন ও সম্পূর্ণ ভিত্তিহীন” বলে অভিহিত করেছে। দূতাবাসের মুখপাত্র বৃহস্পতিবার দুপুরে এক সংবাদবার্তায় বলেছেন, এসব মন্তব্যে “ভুল-শুদ্ধ গুলিয়ে ফেলা হয়েছে” এবং এর পেছনে স্পষ্টভাবে “অসৎ উদ্দেশ্য” রয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/fd915d42db6d6e7ea9461e2ddee89050-697227c31e7c1.jpg"
-    },
-    {
       "headline": "সাংবাদিক ঐক্যের ডাক কতটা প্রাসঙ্গিক",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/c9zdcLhSYB8C/",
       "published_at": null,
@@ -465,6 +465,13 @@
       "published_at": null,
       "summary": "সুষ্ঠু, অবাধ ও নিরপেক্ষ নির্বাচন নিশ্চিত করা তাই কোনো দলের অনুগ্রহ নয়- এটি জনগণের অধিকার এবং রাষ্ট্রের অপরিহার্য কর্তব্য।",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "জিএম কাদের না ভোটের পক্ষে প্রোপাগান্ডা চালিয়ে শহীদদের অবমাননা করছেন",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/PwEvbyiOFvme/",
+      "published_at": null,
+      "summary": "জিএম কাদের না ভোটের পক্ষে প্রোপাগান্ডা চালিয়ে শহীদদের অবমাননা করছেন। দ্রুত তাকে গ্রেফতার করে আইনের আওতায় আনার দাবি জানিয়েছেন জামায়াতের কেন্দ্রীয় শূরা সদস্য ও রংপুর-দিনাজপুর অঞ্চলের সহকারি পরিচালক মমতাজ উদ্দিন।",
+      "image_url": "https://media.ndiganta.com/original_images/Rangpur-23-1-26.jpg"
     },
     {
       "headline": "এবারও ভোট নিয়ে ষড়যন্ত্র হচ্ছে",
@@ -509,13 +516,6 @@
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "নরসিংদী জেলার পাঁচদোনা এলাকায়  শাহ্জালাল ইসলামী ব্যাংকের শীতবস্ত্র বিতরণ",
-      "url": "https://dailynayadiganta.com/printed-edition/QoB8Rl5cnl16/",
-      "published_at": null,
-      "summary": "শাহ্জালাল ইসলামী ব্যাংক পিএলসির করপোরেট সামাজিক দায়বদ্ধতা কর্মসূচির অংশ হিসেবে সম্প্রতি নরসিংদী জেলার পাঁচদোনা এলাকায় অবস্থিত খন্দকার বাড়ি মিসবাহুল উলুম মডেল মাদরাসা মাঠ প্রাঙ্গণে দুস্থ ও শীতার্তদের মধ্যে শীতবস্ত্র হিসেবে কম্বল বিতরণ করা হয়। শাহ্জালাল ইসলামী ব্যাংক পিএলসির পরিচালক খন্দকার শাকিব আহমেদ প্রধান অতিথি থেকে দুস্থ ও শীতার্তদের মধ্যে কম্বল বিতরণ করেন। অনুষ্ঠানে শাহ্জালাল ইসলামী ব্যাংকের মাধবদী শাখার ব্যবস্থাপক মো: আবদুল কাইয়ুম, মিসবাহুল উলুম মডেল মাদরাসার ভারপ্রাপ্ত অধ্যক্ষ শায়েখ হাসান মাহমুদ, মসজিদ কমিটির সেক্রেটারি খন্দকার আশরাফুল ইসলাম (বাদল), মেহেরপাড়া ইউনিয়ন পরিষদের সাবেক মেম্বার কামরুল হাসান তুহিন এবং সংশ্লিষ্ট মাদরাসার অন্য শিক্ষকরাসহ স্থানীয় ব্যক্তিরা উপস্থিত ছিলেন। বিজ্ঞপ্তি।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
       "headline": "গত ১৫ বছর আপনারা ভোট দিতে পারেননি, আগে নিশিরাতে ভোট হয়েছে",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/IGXFURBYjSNd/",
       "published_at": null,
@@ -537,17 +537,10 @@
       "image_url": "https://media.ndiganta.com/original_images/ShahJahan.jpg"
     },
     {
-      "headline": "শীতকালীন ক্রীড়ায় জাতীয় পর্যায়ে সেমিফাইনালে কাঁঠালবাড়িয়া এজি মাধ্যমিক বিদ্যালয়",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/w2wfaO0NiTWz/",
-      "published_at": null,
-      "summary": "‘আমাদের শিক্ষার্থীদের এ সাফল্য পুরো বিদ্যালয় ও শ্যামনগরবাসীর জন্য গর্বের বিষয়। খেলাধুলা ও সহশিক্ষা কার্যক্রমের মাধ্যমে শিক্ষার্থীদের মেধা ও মননের বিকাশে আমরা সবসময় গুরুত্ব দিয়ে আসছি।’",
-      "image_url": "https://media.ndiganta.com/original_images/A_G_Secondary.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - January 23, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ঢাকা-১৭ আসনে বিএনপির মনোনীত প্রার্থী তারেক রহমানের পক্ষে সর্বাত্মক গণজোয়ার গড়ে তোলার আহ্বান জানিয়েছেন বিএনপি নির্বাচন পরিচালনা কমিটির প্রধান সমন্বয়ক ...",
+      "summary": "জাল রেকর্ডপত্র তৈরি করে ৯০০ কোটি টাকা ঋণ জালিয়াতির অভিযোগে বাংলাদেশ ব্যাংকের ডেপুটি গভর্নর ড. মো. কবির আহাম্মদ, সিকদার গ্রুপের ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -556,6 +549,35 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "আমরা কার্ডের ওয়াদা দিচ্ছি না, দুহাজার টাকায় কী হয়, প্রশ্ন জামায়াতের আমিরের\n",
+      "url": "https://www.prothomalo.com/video/bangladesh/l82kqxygoz",
+      "published_at": "2026-01-22T15:18:09.120000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-22/d5f9xeyu/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/d5f9xeyu/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ঢাকায় মার্কিন রাষ্ট্রদূতের মন্তব্যকে ‘দায়িত্বজ্ঞানহীন ও ভিত্তিহীন’ আখ্যা চীনের",
+      "url": "https://www.ittefaq.com.bd/771443/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%82%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%87",
+      "published_at": null,
+      "summary": "ঢাকায় চীনের দূতাবাস যুক্তরাষ্ট্রের নতুন রাষ্ট্রদূত ব্রেন্ট ক্রিস্টেনসেনের মন্তব্যকে “দায়িত্বজ্ঞানহীন ও সম্পূর্ণ ভিত্তিহীন” বলে অভিহিত করেছে। দূতাবাসের মুখপাত্র বৃহস্পতিবার দুপুরে এক সংবাদবার্তায় বলেছেন, এসব মন্তব্যে “ভুল-শুদ্ধ গুলিয়ে ফেলা হয়েছে” এবং এর পেছনে স্পষ্টভাবে “অসৎ উদ্দেশ্য” রয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/fd915d42db6d6e7ea9461e2ddee89050-697227c31e7c1.jpg"
+    },
+    {
+      "headline": "নরসিংদী জেলার পাঁচদোনা এলাকায়  শাহ্জালাল ইসলামী ব্যাংকের শীতবস্ত্র বিতরণ",
+      "url": "https://dailynayadiganta.com/printed-edition/QoB8Rl5cnl16/",
+      "published_at": null,
+      "summary": "শাহ্জালাল ইসলামী ব্যাংক পিএলসির করপোরেট সামাজিক দায়বদ্ধতা কর্মসূচির অংশ হিসেবে সম্প্রতি নরসিংদী জেলার পাঁচদোনা এলাকায় অবস্থিত খন্দকার বাড়ি মিসবাহুল উলুম মডেল মাদরাসা মাঠ প্রাঙ্গণে দুস্থ ও শীতার্তদের মধ্যে শীতবস্ত্র হিসেবে কম্বল বিতরণ করা হয়। শাহ্জালাল ইসলামী ব্যাংক পিএলসির পরিচালক খন্দকার শাকিব আহমেদ প্রধান অতিথি থেকে দুস্থ ও শীতার্তদের মধ্যে কম্বল বিতরণ করেন। অনুষ্ঠানে শাহ্জালাল ইসলামী ব্যাংকের মাধবদী শাখার ব্যবস্থাপক মো: আবদুল কাইয়ুম, মিসবাহুল উলুম মডেল মাদরাসার ভারপ্রাপ্ত অধ্যক্ষ শায়েখ হাসান মাহমুদ, মসজিদ কমিটির সেক্রেটারি খন্দকার আশরাফুল ইসলাম (বাদল), মেহেরপাড়া ইউনিয়ন পরিষদের সাবেক মেম্বার কামরুল হাসান তুহিন এবং সংশ্লিষ্ট মাদরাসার অন্য শিক্ষকরাসহ স্থানীয় ব্যক্তিরা উপস্থিত ছিলেন। বিজ্ঞপ্তি।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "শীতকালীন ক্রীড়ায় জাতীয় পর্যায়ে সেমিফাইনালে কাঁঠালবাড়িয়া এজি মাধ্যমিক বিদ্যালয়",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/w2wfaO0NiTWz/",
+      "published_at": null,
+      "summary": "‘আমাদের শিক্ষার্থীদের এ সাফল্য পুরো বিদ্যালয় ও শ্যামনগরবাসীর জন্য গর্বের বিষয়। খেলাধুলা ও সহশিক্ষা কার্যক্রমের মাধ্যমে শিক্ষার্থীদের মেধা ও মননের বিকাশে আমরা সবসময় গুরুত্ব দিয়ে আসছি।’",
+      "image_url": "https://media.ndiganta.com/original_images/A_G_Secondary.jpg"
     },
     {
       "headline": "প্রতিটি ভোটকেন্দ্রে কমপক্ষে পাঁচজন অস্ত্রধারী আইনশৃঙ্খলা বাহিনীর সদস্য মোতায়েন থাকবেন: স্বরাষ্ট্র উপদেষ্টা",
@@ -1480,30 +1502,6 @@
       "summary": "সিপিবির সভাপতিমণ্ডলীর সদস্য মুজাহিদুল ইসলাম সেলিম বলেন, ব্যবস্থা বদল না হলে মানুষের ভাগ্য বদলানো যাবে না।",
       "image_s3_key": "prothomalo-bangla/2026-01-22/o9fry4hv/juktofront.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/o9fry4hv/juktofront.jpg?auto=format,compress"
-    },
-    {
-      "headline": "পাঁচ ঘণ্টা পর ছাড়া পেলেন নড়াইল নার্সিং কলেজের অবরুদ্ধ অধ্যক্ষ ও প্রশিক্ষক",
-      "url": "https://www.prothomalo.com/bangladesh/district/a1gvrtt4r8",
-      "published_at": "2026-01-22T11:46:52.828000+00:00",
-      "summary": "বৃহস্পতিবার সকাল সাড়ে ১০টা থেকে বেলা সাড়ে তিনটা পর্যন্ত অধ্যক্ষ ও প্রশিক্ষককে অবরুদ্ধ করে রাখেন শিক্ষার্থীরা। তদন্তের আশ্বাসে তাঁদের ছাড়া হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/wdtp65cm/WhatsApp-Image-2026-01-22-at-5.40.46-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/wdtp65cm/WhatsApp-Image-2026-01-22-at-5.40.46-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "নারায়ণগঞ্জে পাঁচ আসনের চারটিতে বিএনপির ছয় ‘বিদ্রোহী’ প্রার্থী",
-      "url": "https://www.prothomalo.com/bangladesh/district/cfrwco6uhl",
-      "published_at": "2026-01-22T11:42:25.401000+00:00",
-      "summary": "দলীয় শৃঙ্খলাভঙ্গের অভিযোগে তাঁদের বহিষ্কার করা হলেও তাঁরা নির্বাচনী মাঠ ছাড়েননি।",
-      "image_s3_key": "prothomalo-bangla/2025-06-18/a7lctjdz/বিএনপি-জামাত.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-18/a7lctjdz/বিএনপি-জামাত.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ওসমান হাদি হত্যা মামলায় কেরানীগঞ্জ থেকে গ্রেপ্তার রুবেল রিমান্ডে",
-      "url": "https://www.prothomalo.com/bangladesh/crime/zzilg4z8dg",
-      "published_at": "2026-01-22T11:31:43.023000+00:00",
-      "summary": "ইনকিলাব মঞ্চের আহ্বায়ক শহীদ শরিফ ওসমান হাদি হত্যা মামলায় মূল অভিযুক্ত ফয়সাল করিমের সহযোগী মো. রুবেল আহমেদ রিমান্ডে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/hvsm0k35/WhatsApp-Image-2026-01-22-at-4.24.20-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/hvsm0k35/WhatsApp-Image-2026-01-22-at-4.24.20-PM.jpeg?auto=format,compress"
     }
   ]
 }
