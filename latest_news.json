@@ -1,6 +1,182 @@
 {
-  "fetched_at": "2026-01-22T12:40:29.973724+00:00",
+  "fetched_at": "2026-01-22T13:49:05.457667+00:00",
   "stories": [
+    {
+      "headline": " দুদকের চাকরির পরীক্ষার সময়সূচি প্রকাশ",
+      "url": "https://www.prothomalo.com/chakri/wfcxj1k309",
+      "published_at": "2026-01-22T13:39:56.447000+00:00",
+      "summary": "দুর্নীতি দমন কমিশনের (দুদক) ‘উপসহকারী পরিচালক’ পদের মৌখিক পরীক্ষার সময়সূচি প্রকাশ করা হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2025-03-23/ms3egj2x/Untitled-5.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-23/ms3egj2x/Untitled-5.jpg?auto=format,compress"
+    },
+    {
+      "headline": "নির্বাচনী প্রচারের শুরুতে পাঁচ কর্মসূচির ঘোষণা বিএনপির",
+      "url": "https://www.prothomalo.com/politics/d2ka3ugapt",
+      "published_at": "2026-01-22T13:36:06.484000+00:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন সামনে রেখে নির্বাচনী প্রচারের প্রথম দিনেই পাঁচটি কর্মসূচি ঘোষণা করেছে বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি)।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/2bdqym9p/BNP-Tareq.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/2bdqym9p/BNP-Tareq.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "শ্রীপুরে বকেয়া বেতনের দাবিতে সড়ক অবরোধ, শ্রমিক-পুলিশ সংঘর্ষে আহত ৩০",
+      "url": "https://www.prothomalo.com/bangladesh/district/3t96g8kl0d",
+      "published_at": "2026-01-22T13:33:03.500000+00:00",
+      "summary": "শ্রমিকদের সঙ্গে পুলিশের দফায় দফায় সংঘর্ষে অন্তত ৩০ জন আহত হয়েছেন বলে শ্রমিকদের পক্ষ থেকে দাবি করা হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/n6kpnydr/Messengercreation669277B4-19F3-4B39-8EA8-F0709DA943D5.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/n6kpnydr/Messengercreation669277B4-19F3-4B39-8EA8-F0709DA943D5.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "ঘুমিয়ে পড়েছে রঙিন উপকথারা",
+      "url": "https://www.prothomalo.com/onnoalo/poem/vd6i5wamc2",
+      "published_at": "2026-01-22T13:30:03.810000+00:00",
+      "summary": "সময়টা মাথা তুলে দাঁড়াবার মতো সাহসী হলো\nএখনো সফল আগামীর কথা ভেবে তাকিয়ে আছে—",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/ssdrks28/WhatsApp-Image-2026-01-22-at-18.44.23-1.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/ssdrks28/WhatsApp-Image-2026-01-22-at-18.44.23-1.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "নির্বাচনী আচরণবিধি লঙ্ঘনের অভিযোগে বিএনপির প্রার্থীকে কারণ দর্শানোর নোটিশ",
+      "url": "https://www.prothomalo.com/bangladesh/district/a6a4qocste",
+      "published_at": "2026-01-22T13:29:23.257000+00:00",
+      "summary": "২৫ জানুয়ারি দুপুর ১২টায় নির্বাচনী অনুসন্ধান ও বিচারিক কমিটির কার্যালয়ে সশরীর হাজির হয়ে বা উপযুক্ত প্রতিনিধির মাধ্যমে লিখিত ব্যাখ্যা দিতে বলা হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/e80fck76/UV6368.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/e80fck76/UV6368.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বেহেশত শুধু আল্লাহর হাতে, কারও হাতে নয়: আবদুল আউয়াল মিন্টু",
+      "url": "https://www.prothomalo.com/bangladesh/district/ci3ajgpw4z",
+      "published_at": "2026-01-22T13:24:30.884000+00:00",
+      "summary": "আজ বৃহস্পতিবার দুপুরে ফেনীর দাগনভূঞা উপজেলার ইয়াকুবপুর ইউনিয়নের এতিমখানা বাজার এলাকায় নির্বাচনী প্রচারে তিনি এ কথা বলেন। তিনি ফেনী-৩ আসনের বিএনপির প্রার্থী।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/0s05jc8a/WhatsApp-Image-2026-01-22-at-7.04.06-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/0s05jc8a/WhatsApp-Image-2026-01-22-at-7.04.06-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "‘দিল্লি নয়, পিন্ডি নয়, সবার আগে বাংলাদেশ’, সিলেটে প্রথম নির্বাচনী জনসভায় তারেক রহমান",
+      "url": "https://www.prothomalo.com/video/bangladesh/2qyame17xs",
+      "published_at": "2026-01-22T13:22:30.689000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-22/k88g879z/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/k88g879z/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "৭ ধাপে সাদা জুতা ঝকঝকে রাখুন, দেখাবে একেবারে নতুনের মতো",
+      "url": "https://www.prothomalo.com/lifestyle/fashion/n17fq44a5p",
+      "published_at": "2026-01-22T13:22:24.742000+00:00",
+      "summary": "বাংলাদেশের আবহাওয়ায় সাদা জুতা পরিষ্কার রাখা সত্যিই চ্যালেঞ্জ। ধুলা, বৃষ্টি ও কাদা—সব মিলিয়ে কয়েক দিন পরই ঝকঝকে সাদা জুতার রং যা হয়, তা দেখার মতো নয়। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/w6422tjc/pexels_photo_11324525.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/w6422tjc/pexels_photo_11324525.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আগের কথা ভুলে যান, মানুষকে বাধ্য করে এবার নির্বাচন করা যাবে না",
+      "url": "https://www.prothomalo.com/politics/zl5wy7z21x",
+      "published_at": "2026-01-22T13:20:13.616000+00:00",
+      "summary": "সাইফুল হক বলেন, ‘কোনো কোনো মহল থেকে আমার কিছু কিছু ভাইদেরকে হুমকি দেওয়া হচ্ছে। আমি পরিষ্কার করে বলতে চাই, এটা বন্ধ করেন।’",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/pvtvba1a/saifulhaq.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/pvtvba1a/saifulhaq.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "ফ্ল্যাট দেওয়ার কথা বলে তারা বস্তি উচ্ছেদের পরিকল্পনা করেছে: নাহিদ ইসলাম ",
+      "url": "https://www.prothomalo.com/video/bangladesh/rxxv1a4pwl",
+      "published_at": "2026-01-22T13:03:07.936000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-22/c85p6wri/এক-দিকে-বলা-হচ্ছে-কার্ড-দিবে-আরেক-দিকে-ঋণখেলাপীদেরকে-সংসদে-নিয়ে-যাওয়ার-চেষ্টা-করা-হচ্ছে-নাহিদ-ইসলাম.00043720.Still002.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/c85p6wri/এক-দিকে-বলা-হচ্ছে-কার্ড-দিবে-আরেক-দিকে-ঋণখেলাপীদেরকে-সংসদে-নিয়ে-যাওয়ার-চেষ্টা-করা-হচ্ছে-নাহিদ-ইসলাম.00043720.Still002.jpg?auto=format,compress"
+    },
+    {
+      "headline": "এটি কি শান্তিমঞ্চ নাকি ‘সম্রাট’ ট্রাম্পের দরবার",
+      "url": "https://www.prothomalo.com/opinion/column/xvip2xjxyc",
+      "published_at": "2026-01-22T13:00:35.156000+00:00",
+      "summary": "ট্রাম্পের এই সনদের পুরো নথির বড় অংশজুড়ে আছে ক্লাবের নিয়মকানুন। সেখানে চেয়ারম্যান ডোনাল্ড ট্রাম্প সর্বময় ক্ষমতার অধিকারী। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/vshgoc2s/trumpafp.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/vshgoc2s/trumpafp.jpg?auto=format,compress"
+    },
+    {
+      "headline": "নির্বাচনী মাঠে ইসির নিরপেক্ষতা নিয়ে প্রশ্ন তুললেন জামায়াত প্রার্থী এনায়াত",
+      "url": "https://www.prothomalo.com/politics/6q8parlfnh",
+      "published_at": "2026-01-22T12:54:45.454000+00:00",
+      "summary": "নির্বাচন কমিশনের (ইসি) বিরুদ্ধে পক্ষপাতিত্বের অভিযোগ তুলেছেন ঢাকা-৭ সংসদীয় আসনে জামায়াতে ইসলামী মনোনীত প্রার্থী মো. এনায়াত উল্লা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/n7dkcpkn/Enaet-Ullah.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/n7dkcpkn/Enaet-Ullah.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "শৈশবের বন্ধুকে পেয়ে আড্ডায় মেতে উঠলেন সালাহউদ্দিন আহমদ",
+      "url": "https://www.prothomalo.com/video/bangladesh/dy5flxzzn5",
+      "published_at": "2026-01-22T12:50:35.524000+00:00",
+      "summary": "শৈশবের বন্ধুকে পেয়ে আড্ডায় মেতে উঠলেন সালাহউদ্দিন আহমদ",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/z358lnen/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/z358lnen/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "জামায়াতের নারী কর্মীদের চড়থাপ্পড় মারার অভিযোগ বিএনপি নেতা-কর্মীদের বিরুদ্ধে",
+      "url": "https://www.prothomalo.com/bangladesh/district/g8brjzjtmh",
+      "published_at": "2026-01-22T12:49:03.165000+00:00",
+      "summary": "নাটোরে জামায়াতের নির্বাচনী গণসংযোগে নারী কর্মীদের চড়থাপ্পড় মারার অভিযোগ উঠেছে জেলা বিএনপির নেতা-কর্মীদের বিরুদ্ধে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/s73726s7/WhatsApp-Image-2026-01-22-at-6.39.09-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/s73726s7/WhatsApp-Image-2026-01-22-at-6.39.09-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "আনুষ্ঠানিকভাবে শান্তি পর্ষদের যাত্রা শুরু, সনদে স্বাক্ষর করলেন ট্রাম্প",
+      "url": "https://www.prothomalo.com/world/europe/pdxmy7g95q",
+      "published_at": "2026-01-22T12:44:13.333000+00:00",
+      "summary": "সম্প্রতি গাজা পুনর্গঠনকে কেন্দ্র করে শান্তি পর্ষদ গঠনের ঘোষণা দেন ট্রাম্প।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/2v848js7/Untitled-1.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/2v848js7/Untitled-1.png?auto=format,compress"
+    },
+    {
+      "headline": "কৃষিতে নারীর শ্রম কেন অদৃশ্যই থেকে যায়",
+      "url": "https://www.prothomalo.com/opinion/letter/hnajf9bcgf",
+      "published_at": "2026-01-22T12:43:52.829000+00:00",
+      "summary": "বাংলাদেশ একটি কৃষিনির্ভর দেশ। দেশের অর্থনীতি, খাদ্যনিরাপত্তা ও গ্রামীণ জীবনের সঙ্গে কৃষি নিবিড়ভাবে যুক্ত। এই কৃষিব্যবস্থার পেছনে রয়েছে লক্ষ মানুষের পরিশ্রম।",
+      "image_s3_key": "prothomalo-bangla/2023-11/7c69e060-b49d-456a-90bf-62d31579f32b/Faridpur.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-11/7c69e060-b49d-456a-90bf-62d31579f32b/Faridpur.jpg?auto=format,compress"
+    },
+    {
+      "headline": "যে প্রাণি পানির নিচেও গন্ধ পায়",
+      "url": "https://www.prothomalo.com/fun/qiltlvh60v",
+      "published_at": "2026-01-22T12:42:16.270000+00:00",
+      "summary": "গবেষকেরা আলবেনিয়া–গ্রিস সীমান্তের একটি গুহায় বিশাল এক মাকড়সার জাল খুঁজে পেয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/npj6xr2r/1917ET1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/npj6xr2r/1917ET1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "জীববৈচিত্র্য সংরক্ষণ: প্রতিটি ইউনিয়নে সংরক্ষিত জলাশয়-উদ্যান জরুরি",
+      "url": "https://www.prothomalo.com/opinion/column/nqakh2gv09",
+      "published_at": "2026-01-22T12:41:47.425000+00:00",
+      "summary": "সংরক্ষিত জলাশয় কিংবা বনের জন্য খুব বেশি টাকার প্রয়োজন হবে, এমনটাও নয়। দেশে যেহেতু অসংখ্য জলাশয় আছে, তাই প্রতিটি ইউনিয়নে একটি করে জলাশয়কে সংরক্ষিত ঘোষণা করা কঠিন কিছু নয়। এ জন্য কোনো জমি অধিগ্রহণ করতে হবে না।",
+      "image_s3_key": "prothomalo-bangla/2022-08/7abff331-e71e-488f-9899-8f070fcfacea/2.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-08/7abff331-e71e-488f-9899-8f070fcfacea/2.JPG?auto=format,compress"
+    },
+    {
+      "headline": "একে একে ছয়জনকে হত্যার অভিযোগ, ‘সিরিয়াল কিলারের’ যাবজ্জীবন কারাদণ্ড",
+      "url": "https://www.prothomalo.com/world/india/9yj73qxym0",
+      "published_at": "2026-01-22T12:41:17.381000+00:00",
+      "summary": "এক নারীকে অপহরণ ও হত্যার দায়ে ভারতে ৫৪ বছর বয়সী এক মানসিক বিকারগ্রস্ত খুনিকে যাবজ্জীবন কারাদণ্ড দিয়েছেন আদালত।",
+      "image_s3_key": "prothomalo-bangla/2025-01-13/kfx81coc/prothomalobangla2022041197bb5ab9dc46fe9e9e9f21e7bae415prothomalobanglaTeacher.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-01-13/kfx81coc/prothomalobangla2022041197bb5ab9dc46fe9e9e9f21e7bae415prothomalobanglaTeacher.jfif?auto=format,compress"
+    },
+    {
+      "headline": "এই ট্র্যাপ থেকে বের হব কী করে",
+      "url": "https://www.prothomalo.com/fun/xqh6lqk8ee",
+      "published_at": "2026-01-22T12:39:07.024000+00:00",
+      "summary": "এ তো ভয়ংকর কথা। চলেন, মিটিং রুমে গিয়ে শুনব কী হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/8nctsmy5/1917ET2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/8nctsmy5/1917ET2.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সম্পদের ধারণা বদলেছে, বদলে যাক ওয়াক্‌ফের ধারণাও",
+      "url": "https://www.prothomalo.com/religion/islam/1fsbvg4h7s",
+      "published_at": "2026-01-22T12:36:26+00:00",
+      "summary": "একটি আবাসিক ভবন ওয়াকফ করার পরিবর্তে আপনি জীবন রক্ষাকারী কোনো ওষুধের ‘পেটেন্ট’ বা স্বত্ব ওয়াকফ করেন যা লাখো মানুষের প্রাণ বাঁচাবে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-22/0ywtnjrr/صورةمسجدقباءفيالمدينةالمنورة.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/0ywtnjrr/صورةمسجدقباءفيالمدينةالمنورة.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ডেলয়েট মানি লিগ: রিয়াল আবারও শীর্ষে, ইংলিশ ক্লাবগুলোর মধ্যে শীর্ষে লিভারপুল",
+      "url": "https://www.prothomalo.com/sports/m4o95dc4hi",
+      "published_at": "2026-01-22T12:34:30.215000+00:00",
+      "summary": "১০২ কোটি ইউরো (প্রায় ১৪ হাজার ৬১৫ কোটি টাকা) আয় করে সবার ওপরে অবস্থান করছে রিয়াল। তবে এ বছর বড় চমক হয়ে এসেছে লিভারপুল।",
+      "image_s3_key": "prothomalo-bangla/2026-01-21/pvm4ynr1/905363-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-21/pvm4ynr1/905363-01-02.jpg?auto=format,compress"
+    },
     {
       "headline": "প্রথম দিনে মাঠে নেই মান্নার সমর্থকেরা, ধানের শীষে প্রচারণা শুরু শাহে আলমের",
       "url": "https://www.prothomalo.com/bangladesh/district/8rfmmrevsl",
@@ -144,6 +320,237 @@
       "summary": "চলতি শীতে যাঁরা সবচেয়ে বেশি কষ্টে আছেন, তাঁদের অগ্রাধিকার দেওয়া হয়েছে। কম্বল বিতরণ কার্যক্রমে সহায়তা করেছে শাহজালাল ইসলামী ব্যাংক পিএলসি।",
       "image_s3_key": "prothomalo-bangla/2026-01-22/ws3nleo7/Patuakhali1.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/ws3nleo7/Patuakhali1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "রিমান্ড শেষে পিএসসির সাবেক সেই গাড়িচালক আবেদ আলী কারাগারে",
+      "url": "https://www.bd-pratidin.com/city-news/2026/01/22/1207993",
+      "published_at": "2026-01-22T19:40:31+06:00",
+      "summary": "জ্ঞাত আয়বহির্ভূত সম্পদ অর্জনের অভিযোগে দুর্নীতি দমন কমিশনের (দুদক) দায়ের করা মামলায় সরকারি কর্ম কমিশনের (পিএসসি) সাবেক গাড়িচালক সৈয়দ আবেদ আলীকে তিন দিনের রিমান্ড শেষে কারাগারে পাঠানো হয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769089230-92cd7e584a4db02cdd307e75c714727b.jpg"
+    },
+    {
+      "headline": "রাঙামাটিতে প্রার্থীদের নির্বাচনি প্রচারণা শুরু",
+      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207987",
+      "published_at": "2026-01-22T19:12:40+06:00",
+      "summary": "প্রতীক বরাদ্দের পর আনুষ্ঠানিকভাবে প্রচারণায় নেমেছে রাঙামাটি ২৯৯ নং আসনের প্রার্থীরা। আজ বৃহস্পতিবার সকালে চট্টগ্রামের রাঙ্গুনিয়া উপজেলায় শহীদ রাষ্ট্রপতি জিয়াউর রহমানের প্রথম সমাধিস্থলে পুষ্পস্থবক অর্পণের পর নির্বাচনের প্রচারণা শুরু করেন রাঙামাটি জেলা বিএনপির প্রার্থী এ্যাডভোকেট দীপনে দেওয়ান।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769087559-6eac9d8b4d01c34316bd1f7c787c846e.jpg"
+    },
+    {
+      "headline": "ট্রাম্পের ‘বোর্ড অব পিস’ সনদে স্বাক্ষর করেছে যে ১৯ দেশ",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/22/1207983",
+      "published_at": "2026-01-22T19:09:06+06:00",
+      "summary": "নিজের প্রস্তাবিত ‘বোর্ড অব পিস’ সনদে স্বাক্ষর করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769087345-b7be89f7a28f2ba5f25e98b434ac392a.jpg"
+    },
+    {
+      "headline": "জাতীয় বিশ্ববিদ্যালয়ের কলেজগুলোর জন্য ‘অতীব জরুরি’ নির্দেশনা",
+      "url": "https://www.bd-pratidin.com/campus-online/2026/01/22/1207981",
+      "published_at": "2026-01-22T19:04:16+06:00",
+      "summary": "জাতীয় বিশ্ববিদ্যালয় অধিভুক্ত কলেজ ও শিক্ষা প্রতিষ্ঠানগুলোর মানোন্নয়নের জন্য একাডেমিক ও প্রশাসনিক কার্যক্রমের তথ্য সংগ্রহ করা হচ্ছে। এরইমধ্যে মধ্যে প্রায় দুই হাজার কলেজ তথ্য পাঠিয়েছে। তবে যেসব কলেজ এখনও তথ্য পাঠায়নি তাদের জন্য নতুন করে সময় নির্ধারণ করে দিয়েছে বিশ্ববিদ্যালয় কর্তৃপক্ষ।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769087055-4f466e6b89106f216d887486e0a5f3dc.jpg"
+    },
+    {
+      "headline": "কৃষি উন্নয়নের মাধ্যমে সবুজায়নের বাংলাদেশ গড়ে তোলা হবে : টুকু",
+      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207979",
+      "published_at": "2026-01-22T19:02:15+06:00",
+      "summary": "বিএনপির স্থায়ী কমিটির সদস্য ও সাবেকমন্ত্রী ইকবাল হাসান মাহমুদ টুকু বলেছেন, কৃষি উন্নয়নের মাধ্যমে সবুজায়নের বাংলাদেশ গড়ে তোলা হবে। দেশের এক ইঞ্চি আবাদি জমি নষ্ট করে শিল্প-ইন্ডাস্ট্রি গড়ে তোলা হবে না। কৃষিকাজ সফলভাবে করতে কৃষকদের কৃষি কার্ড দেওয়া হবে। যার মাধ্যমে ন্যায্যমূল্যে সার-বীজ পেয়ে ফসল উৎপাদন বাড়াতে পারবে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769086934-a93d69097c0466f7df9218cf447a3f17.jpg"
+    },
+    {
+      "headline": "গাজীপুর কৃষি বিশ্ববিদ্যালয়ে কৃষিযন্ত্র ও প্রযুক্তি বিষয়ক কৃষক প্রশিক্ষণ অনুষ্ঠিত",
+      "url": "https://www.bd-pratidin.com/campus-online/2026/01/22/1207976",
+      "published_at": "2026-01-22T18:56:27+06:00",
+      "summary": "বাংলাদেশের কৃষিকে আরও আধুনিক, টেকসই ও উৎপাদনমুখী করার প্রত্যয়ে গাজীপুর কৃষি বিশ্ববিদ্যালয়ে (গাকৃবি) অনুষ্ঠিত হলো কৃষিযন্ত্র ও সূক্ষ্ম প্রকৌশল প্রযুক্তি বিষয়ক এক ব্যতিক্রমধর্মী কৃষক প্রশিক্ষণ। কৃষকের জীবনমান উন্নয়ন, কৃষি প্রযুক্তির সঠিক ব্যবহার এবং স্বল্প সময়ে অধিক উৎপাদনের বাস্তবসম্মত পথ দেখাতেই এই প্রশিক্ষণের আয়োজন করা হয়।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769086586-9ebe3ccef90d3c54359b0cbed75a32da.jpg"
+    },
+    {
+      "headline": "নির্বাচনী মিছিলে অসুস্থ হয়ে বিএনপি নেতার মৃত্যু",
+      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207973",
+      "published_at": "2026-01-22T18:49:35+06:00",
+      "summary": "কুমিল্লার বুড়িচং উপজেলায় নির্বাচনী মিছিলে অংশ নিয়ে অসুস্থ হয়ে এক বিএনপি নেতার মৃত্যু হয়েছে। নিহত নেতার নাম মো. মমিন মিয়া। তিনি মোকাম ইউনিয়ন বিএনপির সহ-সভাপতি ছিলেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769086173-0e923834aedfeabdcf0a3c5e89645f4c.jpg"
+    },
+    {
+      "headline": "এবার ভোটকেন্দ্র থেকে ব্যালট ছিনতাইয়ের সুযোগ নেই: স্বরাষ্ট্র উপদেষ্টা",
+      "url": "https://www.bd-pratidin.com/national/2026/01/22/1207970",
+      "published_at": "2026-01-22T18:40:12+06:00",
+      "summary": "স্বরাষ্ট্র উপদেষ্টা লেফটেন্যান্ট জেনারেল (অব.) মো. জাহাঙ্গীর আলম চৌধুরী বলেছেন, আসন্ন জাতীয় সংসদ নির্বাচনে দুষ্কৃতকারীদের ভোটকেন্দ্র থেকে ব্যালট ছিনতাইয়ের কোনো সুযোগ নেই। এবারই প্রথমবারের মতো প্রতিটি ভোটকেন্দ্রে পর্যাপ্তসংখ্যক আইনশৃঙ্খলা বাহিনীর সদস্য মোতায়েন থাকবে, যা অতীতের যেকোনো নির্বাচনের তুলনায় নজিরবিহীন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769086464-f5b9c82a638d772c1d5563a6581d4b03.jpg"
+    },
+    {
+      "headline": "যাত্রাবাড়ী ও ডেমরায় ধানের শীষের ব্যাপক গণসংযোগ",
+      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207966",
+      "published_at": "2026-01-22T18:31:53+06:00",
+      "summary": "দোয়া ও মোনাজাতের মধ্য দিয়ে ত্রয়োদশ জাতীয় সংসদ নির্বাচনের প্রচারণার আনুষ্ঠানিকতা শুরু করেন ঢাকা-৫ আসনের বিএনপি মনোনীত ধানের শীষ প্রতীকের প্রার্থী নবীউল্লাহ নবী। বৃহস্পতিবার নিজ আসনের সকল মসজিদের ইমাম, খতিব, মুয়াজ্জিন ও খাদেমদের উপস্থিতিতে বিশেষ দোয়া মাহফিলের মাধ্যমে তার নির্বাচনী কার্যক্রমের সূচনা করা হয়।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769085112-7be99d72f1a9cd3e0acb37c98d9a1be6.jpg"
+    },
+    {
+      "headline": "রাঙামাটিতে বাস চলাচল বন্ধ, দুর্ভোগে যাত্রীরা",
+      "url": "https://www.bd-pratidin.com/country/2026/01/22/1207963",
+      "published_at": "2026-01-22T18:29:53+06:00",
+      "summary": "রাঙামাটি-চট্টগ্রাম সড়কে হঠাৎ বাস চলাচল বন্ধ করে দিয়েছে মোটর মালিক সমিতি। আজ বৃহস্পতিবার সকাল থেকে কোনো বাস ছেড়ে যায়নি রাঙামাটি শহর থেকে। কিন্তু এর আগে রাঙামাটি ও চট্টগ্রাম সড়কে বাস চলাচল বন্ধ থাকার আনুষ্ঠানিক কোনো ঘোষণা দেয়নি সংগঠনটি। যে কারণে চরম দুর্ভোগে পড়তে হয় রাঙামাটির যাত্রীদের। এতে সাধারণ যাত্রীদের মাঝে তীব্র ক্ষোভ দেখা দিয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769084992-6eac9d8b4d01c34316bd1f7c787c846e.jpg"
+    },
+    {
+      "headline": "পাকিস্তানের কাছে হেরে শিরোপার আশা শেষ বাংলাদেশের",
+      "url": "https://www.ittefaq.com.bd/771445/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A7%87%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%BE-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0%C2%A0",
+      "published_at": null,
+      "summary": "পুরুষ সাফ ফুটসাল চ্যাম্পিয়নশিপে পাকিস্তানের কাছে বড় ব্যবধানে হেরেছে বাংলাদেশ। ম্যাচে লাল কার্ড দেখায় একজন কম নিয়ে খেলাতে হয় পাকিস্তানকে। তবুও সেই সুযোগ কাজে লাগাতে ব্যর্থ রাহবার খানের দল। ৫-১ গোলের বড় ব্যবধানে হেরেছে লাল-সবুজের প্রতিনিধিরা।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/22/561e575d8269dc4b52c6358cc7dc879a-697228716cbbb.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
+    },
+    {
+      "headline": "বিদেশি পিস্তল, ম্যাগাজিন, গুলিসহ কুমিল্লা আদালতের এজিপি আটক",
+      "url": "https://www.ittefaq.com.bd/771444/%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%B2-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%A8-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%A4%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "কুমিল্লায় আগ্নেয়াস্ত্র, গুলিসহ কুমিল্লা আদালতের এক সহকারী সরকারি কৌঁসুলি (এজিপি) কে আই এম মাসুদুল হক ওরফে মাসুমসহ দুজনকে আটক করেছে পুলিশ। তাদের কাছ থেকে একটি বিদেশি পিস্তল, দুটি ম্যাগাজিন ও ১০টি গুলি উদ্ধার করা হয়েছে বলে ভাষ্য পুলিশের।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/eaa5e21ce2ff31c42b3392b9a3d6e033-697228401ca2d.jpg"
+    },
+    {
+      "headline": "যৌথ বাহিনীর অভিযানে ঢাল-বর্শা-কাস্তেসহ বিপুল অস্ত্র উদ্ধার, আটক ১৮",
+      "url": "https://www.ittefaq.com.bd/771442/%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A7%81%E0%A6%B2",
+      "published_at": null,
+      "summary": "ফরিদপুরের নগরকান্দায় যৌথ অভিযানে আগ্নেয়াস্ত্রসহ বিপুল পরিমাণ দেশীয় অস্ত্র ও মাদক উদ্ধার করা হয়েছে। এ সময় নারী-পুরুষসহ ১৮ জনকে আটক করে নগরকান্দা থানায় হস্তান্তর করা হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/41234196de608ef69ef12c398db1d36b-6972249b6e6ca.jpg"
+    },
+    {
+      "headline": "ভারতে বসে শেখ হাসিনার বিবৃতি বাংলাদেশ প্রত্যাশা করে না",
+      "url": "https://www.ittefaq.com.bd/771441/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A7%83%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6%E0%A6%BE",
+      "published_at": null,
+      "summary": "বাংলাদেশের অন্তর্বর্তী সরকার ভারতে বসে শেখ হাসিনার বিবৃতি প্রত্যাশা করে না বলে মন্তব্য করেছেন পররাষ্ট্র উপদেষ্টা তৌহিদ হোসেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/ab88996d1efc8c93ef43242791b54414-697223dc5719e.png"
+    },
+    {
+      "headline": "সমাবেশ মঞ্চেই নামাজ আদায় করলেন তারেক রহমান",
+      "url": "https://www.ittefaq.com.bd/771440/%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%B6-%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A7%87%E0%A6%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "মৌলভীবাজারের আইনপুরে বিএনপির আয়োজিত সমাবেশ চলাকালীন মাগরিবের আজান হলে নেতাকর্মীদের নিয়ে সমাবেশ মঞ্চেই নামাজ আদায় করেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/18c63ea9f49254c2b39b116b9a75ffc6-69722155bc6bf.jpg"
+    },
+    {
+      "headline": "পারমাণবিক বিদ্যুৎকেন্দ্রে রিঅ্যাক্টর স্থাপনের একদিন পর বন্ধ করলো জাপান",
+      "url": "https://www.ittefaq.com.bd/771439/%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BF%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "জাপানের উত্তর-মধ্যভাগে অবস্থিত কাশিওয়াজাকি-করিওয়া পারমাণবিক বিদ্যুৎ কেন্দ্রের ৬ নম্বর রিঅ্যাক্টর পুনরায় চালু করার প্রক্রিয়া স্থগিত করা হয়েছে। তবে টোকিও ইলেকট্রিক পাওয়ার কোম্পানি জানিয়েছে, রিঅ্যাক্টরটি বর্তমানে ‘স্থিতিশীল’ রয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/e19aa27e99a7b737d727e2f293f930fa-69722085c2ab0.jpg"
+    },
+    {
+      "headline": "হ্যাটট্রিক জয়ে সুপার সিক্সে বাংলাদেশ",
+      "url": "https://www.ittefaq.com.bd/771438/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+      "published_at": null,
+      "summary": "স্পিনার সানজিদা আকতার মেঘলার বোলিং নৈপূণ্যে হ্যাটট্রিক জয়ে আইসিসি নারী টি-টোয়েন্টি বিশ্বকাপ বাছাই পর্বের সুপার সিক্স নিশ্চিত করেছে বাংলাদেশ। বৃহস্পতিবার (২২ জানুয়ারি) ‘এ’ গ্রুপে নিজেদের তৃতীয় ম্যাচে নামিবিয়াকে ৮০ রানের বড় ব্যবধানে হারিয়েছে নিগার সুলতানা জ্যোতির দল।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/22/b5e40be1350a2a66b68573d8390c663a-6972208b3c7fd.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
+    },
+    {
+      "headline": "ফ্যাসিবাদী লড়াইয়ের অন্যতম বীর সেনাপতি জামায়াত আমির: নাহিদ",
+      "url": "https://www.ittefaq.com.bd/771437/%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%B2%E0%A7%9C%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%AE-%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4",
+      "published_at": null,
+      "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক এবং ঢাকা-১১ আসনের সংসদ সদস্য প্রার্থী নাহিদ ইসলাম বলেছেন, আজকের এই আয়োজনের প্রধান অতিথি বাংলাদেশ জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান। যাকে ঘিরে আজকের এই জনসমাবেশ। তবে এতটুকু পরিচয় ওনার জন্য যথেষ্ট নয়। ওনি ১০ দলীয় জোটে ফ্যাসিবাদী লড়াইয়ের অন্যতম বীর সেনাপতি। যিনি এই বাংলার মাটিতে দাঁড়িয়ে নির্যাতিত হয়েছেন। ফ্যাসিবাদের বিরুদ্ধে লড়াই করে গিয়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/98f59c23f5eaa77ff5e9fc98239e48ad-69721eae2914c.jpg"
+    },
+    {
+      "headline": "চলন্ত মোটরসাইকেল থেকে স্বেচ্ছাসেবক দল নেতাকে লক্ষ্য করে গুলি",
+      "url": "https://www.ittefaq.com.bd/771436/%E0%A6%9A%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%95-%E0%A6%A6%E0%A6%B2-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87",
+      "published_at": null,
+      "summary": "পাবনার সাঁথিয়ায় দিনে দুপুরে স্বেচ্ছাসেবক দলের স্থানীয় নেতা মন্তাজ আলীকে লক্ষ্য করে (৫১) গুলি করেছে দুর্বৃত্তরা।গুলিটি লক্ষ্যভ্রষ্ট হয়ে তার হাতের পাশ দিয়ে চলে গেছে বলে জানা গেছে। তবে এই ঘটনায় আতঙ্ক ছড়িয়ে পড়ার পর জড়িতদের শনাক্তে তদন্ত চলছে বলে পুলিশের পক্ষ থেকে জানানো হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/8ae1a79e41f0755c641f7e16ef1c6c2d-69721b94c6f65.jpg"
+    },
+    {
+      "headline": "বিড়ি খাওয়া নিয়ে বক্তব্য দেওয়াতে জামায়াতের ২ কোটি ভোট বেড়েছে: ফয়জুল হক",
+      "url": "https://www.ittefaq.com.bd/771435/%E0%A6%AC%E0%A6%BF%E0%A6%A1%E0%A6%BC%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A7%A8-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF",
+      "published_at": null,
+      "summary": "সামাজিক যোগাযোগমাধ্যমে আলোচিত-সমালোচিত বক্তব্যকে নেতিবাচক নয়, বরং রাজনৈতিকভাবে লাভজনক হিসেবে দেখছেন ঝালকাঠি-১ আসনে জামায়াতে ইসলামীর প্রার্থী  ফয়জুল হক। তার দাবি, সাম্প্রতিক এক বক্তব্য ঘিরে তৈরি হওয়া ভাইরাল আলোচনা জামায়াতের পক্ষে নতুন করে বিপুল ভোটের সম্ভাবনা তৈরি করেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/64c246a67c3292d4e8de940dc64ed583-69721b9a6a7f3.jpg"
+    },
+    {
+      "headline": "সাংবাদিক ঐক্যের ডাক কতটা প্রাসঙ্গিক",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/c9zdcLhSYB8C/",
+      "published_at": null,
+      "summary": "প্রতিষ্ঠানটির সভাপতি পদে আসীন ফ্যাসিবাদের কট্টর সমর্থক এক বড় গার্মেন্ট ব্যবসায়ী। পালিয়ে যাওয়ার আগে ফ্যাসিবাদের দোসর অর্থলোভী অলিগার্কদের যে গ্রুপটি নিয়ে হাসিনা সভা করেছিলেন, সেখানে তিনি উপস্থিত হয়ে জোরালো সমর্থন ব্যক্ত করেন।",
+      "image_url": "https://media.ndiganta.com/images/jsm_uddn_shb.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "রক্তের ইতিহাস, অদৃশ্য রাষ্ট্র",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/zgCdUwbL7y2s/",
+      "published_at": null,
+      "summary": "ইতিহাস কখনো কখনো রক্ত দিয়ে লেখা হয়; কিন্তু রাষ্ট্র সবসময় সেই রক্ত পড়তে জানে না। ২০২৪ সালের গণ-অভ্যুত্থানে প্রায় দুই হাজার মানুষের শাহাদত ও হাজার হাজার মানুষের পঙ্গুত্ববরণ বাংলাদেশের রাজনৈতিক অভিধানে একটি নতুন শব্দ যুক্ত করেছিল- নতুন আশা। রাজপথে উচ্চারিত হয়েছিল জবাবদিহির দাবি, ক্ষমতার ভারসাম্য পুনর্বিন্যাসের আকাক্সক্ষা এবং রাষ্ট্রকে জনগণের কাছে ফিরিয়ে আনার দৃঢ় সঙ্কল্প। অথচ কয়েক মাস না যেতেই স্পষ্ট হয়ে উঠল, রাষ্ট্র বদলায়নি, কেবল মুখ বদলেছে।",
+      "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "সুষ্ঠু অবাধ ও নিরপেক্ষ নির্বাচনের চ্যালেঞ্জ",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/OVf2jlQJ9LAB/",
+      "published_at": null,
+      "summary": "সুষ্ঠু, অবাধ ও নিরপেক্ষ নির্বাচন নিশ্চিত করা তাই কোনো দলের অনুগ্রহ নয়- এটি জনগণের অধিকার এবং রাষ্ট্রের অপরিহার্য কর্তব্য।",
+      "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "এবারের নির্বাচন রোল মডেল হয়ে থাকবে : স্বরাষ্ট্র উপদেষ্টা",
+      "url": "https://dailynayadiganta.com/bangladesh/national/Ki6tbO4YlGOt/",
+      "published_at": null,
+      "summary": "নির্বাচনে নিয়োজিত কর্মকর্তা ও আইনশৃঙ্খলা বাহিনীর সদস্যদের শতভাগ সততা, নিরপেক্ষতা ও পেশাদারিত্বের সাথে দায়িত্ব পালন করতে হবে।",
+      "image_url": "https://media.ndiganta.com/original_images/Jahangir-3.JPG"
+    },
+    {
+      "headline": "জাতীয় নিরাপত্তা উপদেষ্টার সাথে মার্কিন রাষ্ট্রদূতের সাক্ষাৎ",
+      "url": "https://dailynayadiganta.com/bangladesh/national/inpjc8Og4RMt/",
+      "published_at": null,
+      "summary": "রাষ্ট্রদূত ক্রিস্টেনসেন বাংলাদেশে গণতান্ত্রিক রূপান্তরে যুক্তরাষ্ট্রের দৃঢ় সমর্থন পুনর্ব্যক্ত করেন এবং আসন্ন নির্বাচন ও ব্যাপক সংস্কারের ক্ষেত্রে অন্তর্বর্তী সরকারের প্রচেষ্টার প্রশংসা করেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Khalil.jpg"
+    },
+    {
+      "headline": "‘ঢাকা সেন্ট্রাল ইউনিভার্সিটি’ অধ্যাদেশ অনুমোদন",
+      "url": "https://dailynayadiganta.com/bangladesh/education-campus/hh27s4gzL9P5/",
+      "published_at": null,
+      "summary": "বৃহস্পতিবার (২২ জানুয়ারি) প্রধান উপদেষ্টার সভাপতিত্বে অনুষ্ঠিত উপদেষ্টা পরিষদের বৈঠকে এ অধ্যাদেশ অনুমোদিত হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/dhaka-central-university.jpg"
+    },
+    {
+      "headline": "রাজশাহী-৫ আসনের স্বতন্ত্র ২ প্রার্থীকে বহিষ্কার করলো বিএনপি",
+      "url": "https://dailynayadiganta.com/sports/cricket/UZ8yBLnu4KsB/",
+      "published_at": null,
+      "summary": "এ ব্যাপারে সদ্য বিএনপি থেকে বহিষ্কৃত স্বতন্ত্র প্রার্থী ইসফা খায়রুল হক শিমুল বলেন, আমি দীর্ঘদিন বিএনপির রাজনীতির সাথে যুক্ত। জনগণের আহ্বানেই নির্বাচনে অংশ নিয়েছি। বহিষ্কারের সিদ্ধান্তে আমি মর্মাহত, তবে দলের প্রতি আমার শ্রদ্ধা আগের মতোই আছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Rajshahi-Map.jpg"
+    },
+    {
+      "headline": "ম্যানচেস্টার রুটে ফ্লাইট সাময়িক স্থগিতের ব্যাখ্যা দিলো বিমান",
+      "url": "https://dailynayadiganta.com/bangladesh/national/dIYv7LhD0Po9/",
+      "published_at": null,
+      "summary": "আগামী ১ মার্চ থেকে বিমান বাংলাদেশ এয়ারলাইনসের ঢাকা-সিলেট-ম্যানচেস্টার রুটে ফ্লাইট সাময়িকভাবে স্থগিতের সিদ্ধান্ত নেয়া হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Biman_Bangladesh.JPG"
+    },
+    {
+      "headline": "সাভারে অবৈধ সীসা ও পাইরোলাইসিস কারখানায় অভিযান",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/lR1oIBjAKlRN/",
+      "published_at": null,
+      "summary": "সুনির্দিষ্ট অভিযোগের ভিত্তিতে ভ্রাম্যমান আদালত পরিচালনা করে বায়ু দূষনকারী অবৈধ সীসা ও পাইরোলাইসিস কারখানার বিরুদ্ধে অভিযান পরিচালনা করা হয়েছে। ভবিষ্যতেও এরকম বায়ুদূষণকারী অবৈধ প্রতিষ্ঠানের বিরুদ্ধে একইভাবে ভ্রাম্যমান আদালত পরিচালনা করা হবে।",
+      "image_url": "https://media.ndiganta.com/original_images/Savar-Raid.gif"
+    },
+    {
+      "headline": "জামালপুরে সড়ক দুর্ঘটনায় একজন নিহত",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/ofuuu8zRoH6B/",
+      "published_at": null,
+      "summary": "নিহত সাইফুল ইসলাম গুজামানিকা এলাকার বাসিন্দা। তিনি রাজমিস্ত্রীর কাজ করতেন।",
+      "image_url": "https://media.ndiganta.com/original_images/accident_Zt5byQQ.JPG"
+    },
+    {
+      "headline": "অধ্যাপক আলী রীয়াজগণভোটে হ্যাঁ-তে সিল দিলে নতুন বাংলাদেশ গড়ার দরজা খুলে যাবে",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/WKXpGy8B6eRC/",
+      "published_at": null,
+      "summary": "‘এর মাধ্যমে তত্ত্বাবধায়ক সরকার ও নির্বাচন কমিশন গঠনে সরকার ও বিরোধীদল একসাথে কাজ করবে। ক্ষমতাসীনরা ইচ্ছেমতো সংবিধান পরিবর্তন করতে পারবে না। গুরুত্বপূর্ণ সাংবিধানিক পরিবর্তনের জন্য জনগণের সম্মতি নিতে হবে। বিরোধী দল থেকে ডেপুটি স্পিকার ও গুরুত্বপূর্ণ সংসদীয় কমিটির সভাপতি নির্বাচিত হবেন। একজন ব্যক্তি সর্বোচ্চ ১০ বছরের বেশি প্রধানমন্ত্রী থাকতে পারবেন না। বিচারব্যবস্থা স্বাধীনভাবে কাজ করবে।’",
+      "image_url": "https://media.ndiganta.com/original_images/Khulna-Ali-Riaz.gif"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - January 22, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "অন্তর্বর্তীকালীন সরকারের পররাষ্ট্র বিষয়ক উপদেষ্টা তৌহিদ হোসেন বলেছেন, ‘ভারতে সংখ্যালঘুদের বিরুদ্ধে কর্মকাণ্ডের বিষয়ে আমরা কোনো মন্তব্য করি না এবং আমি ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "পবিত্র রমজানে নামাজে লাউডস্পিকার ব্যবহার নিষিদ্ধ করেছে সৌদি আরব",
@@ -322,20 +729,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/ors2dacf/TIB.jpeg?auto=format,compress"
     },
     {
-      "headline": "যাত্রাবাড়ী ও ডেমরায় ধানের শীষের ব্যাপক গণসংযোগ",
-      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207966",
-      "published_at": "2026-01-22T18:31:53+06:00",
-      "summary": "দোয়া ও মোনাজাতের মধ্য দিয়ে ত্রয়োদশ জাতীয় সংসদ নির্বাচনের প্রচারণার আনুষ্ঠানিকতা শুরু করেন ঢাকা-৫ আসনের বিএনপি মনোনীত ধানের শীষ প্রতীকের প্রার্থী নবীউল্লাহ নবী। বৃহস্পতিবার নিজ আসনের সকল মসজিদের ইমাম, খতিব, মুয়াজ্জিন ও খাদেমদের উপস্থিতিতে বিশেষ দোয়া মাহফিলের মাধ্যমে তার নির্বাচনী কার্যক্রমের সূচনা করা হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769085112-7be99d72f1a9cd3e0acb37c98d9a1be6.jpg"
-    },
-    {
-      "headline": "রাঙামাটিতে বাস চলাচল বন্ধ, দুর্ভোগে যাত্রীরা",
-      "url": "https://www.bd-pratidin.com/country/2026/01/22/1207963",
-      "published_at": "2026-01-22T18:29:53+06:00",
-      "summary": "রাঙামাটি-চট্টগ্রাম সড়কে হঠাৎ বাস চলাচল বন্ধ করে দিয়েছে মোটর মালিক সমিতি। আজ বৃহস্পতিবার সকাল থেকে কোনো বাস ছেড়ে যায়নি রাঙামাটি শহর থেকে। কিন্তু এর আগে রাঙামাটি ও চট্টগ্রাম সড়কে বাস চলাচল বন্ধ থাকার আনুষ্ঠানিক কোনো ঘোষণা দেয়নি সংগঠনটি। যে কারণে চরম দুর্ভোগে পড়তে হয় রাঙামাটির যাত্রীদের। এতে সাধারণ যাত্রীদের মাঝে তীব্র ক্ষোভ দেখা দিয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769084992-6eac9d8b4d01c34316bd1f7c787c846e.jpg"
-    },
-    {
       "headline": "চন্দনাইশে দুই বাসের মুখোমুখি সংঘর্ষ, অক্ষত যাত্রীরা",
       "url": "https://www.bd-pratidin.com/chittagong-pratidin/2026/01/22/1207956",
       "published_at": "2026-01-22T18:12:04+06:00",
@@ -462,27 +855,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/038bc42fb97dec037c9df2402a47b251-69720a31d6955.jpg"
     },
     {
-      "headline": "সাংবাদিক ঐক্যের ডাক কতটা প্রাসঙ্গিক",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/c9zdcLhSYB8C/",
-      "published_at": null,
-      "summary": "প্রতিষ্ঠানটির সভাপতি পদে আসীন ফ্যাসিবাদের কট্টর সমর্থক এক বড় গার্মেন্ট ব্যবসায়ী। পালিয়ে যাওয়ার আগে ফ্যাসিবাদের দোসর অর্থলোভী অলিগার্কদের যে গ্রুপটি নিয়ে হাসিনা সভা করেছিলেন, সেখানে তিনি উপস্থিত হয়ে জোরালো সমর্থন ব্যক্ত করেন।",
-      "image_url": "https://media.ndiganta.com/images/jsm_uddn_shb.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "রক্তের ইতিহাস, অদৃশ্য রাষ্ট্র",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/zgCdUwbL7y2s/",
-      "published_at": null,
-      "summary": "ইতিহাস কখনো কখনো রক্ত দিয়ে লেখা হয়; কিন্তু রাষ্ট্র সবসময় সেই রক্ত পড়তে জানে না। ২০২৪ সালের গণ-অভ্যুত্থানে প্রায় দুই হাজার মানুষের শাহাদত ও হাজার হাজার মানুষের পঙ্গুত্ববরণ বাংলাদেশের রাজনৈতিক অভিধানে একটি নতুন শব্দ যুক্ত করেছিল- নতুন আশা। রাজপথে উচ্চারিত হয়েছিল জবাবদিহির দাবি, ক্ষমতার ভারসাম্য পুনর্বিন্যাসের আকাক্সক্ষা এবং রাষ্ট্রকে জনগণের কাছে ফিরিয়ে আনার দৃঢ় সঙ্কল্প। অথচ কয়েক মাস না যেতেই স্পষ্ট হয়ে উঠল, রাষ্ট্র বদলায়নি, কেবল মুখ বদলেছে।",
-      "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "সুষ্ঠু অবাধ ও নিরপেক্ষ নির্বাচনের চ্যালেঞ্জ",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/OVf2jlQJ9LAB/",
-      "published_at": null,
-      "summary": "সুষ্ঠু, অবাধ ও নিরপেক্ষ নির্বাচন নিশ্চিত করা তাই কোনো দলের অনুগ্রহ নয়- এটি জনগণের অধিকার এবং রাষ্ট্রের অপরিহার্য কর্তব্য।",
-      "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
       "headline": "৪৮তম বিসিএস থেকে ৩২৬৩ জনকে ক্যাডার পদে নিয়োগ",
       "url": "https://dailynayadiganta.com/bangladesh/national/NSiu8UhbZvgd/",
       "published_at": null,
@@ -537,20 +909,6 @@
       "published_at": null,
       "summary": "সৌদিয়া পরিবহনের সাথে দ্বন্দ্বের জেরে রাঙ্গামাটিতে হঠাৎ বন্ধ হয়ে গেছে দূরপাল্লা ও অভ্যন্তরীণ সব বাস চলাচল। এতে চরম ভোগান্তিতে পড়েছেন যাত্রী ও পর্যটকরা।",
       "image_url": "https://media.ndiganta.com/original_images/Rangamati_bus_strike_newsws-22-01-2026-pic-1.JPG"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - January 22, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "আমাদের বিশ্বকাপ খেলার যে অধিকার, যেটা শ্রীলংকাতে আমাদের খেলার সুযোগ রয়েছে—এরকম বহু নজির পৃথিবীতে আছে যে, অন্য একটা ভেন্যুতে সিকিউরিটি ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "নির্বাচনী প্রচারের আড়ালে এনআইডি সংগ্রহ না করতে আহ্বান ইসির",
@@ -1133,362 +1491,6 @@
       "summary": "বিভিন্ন চাকরির পরীক্ষায় এমসিকিউ প্রশ্ন আসে। পরীক্ষার্থীদের চর্চার সুবিধার জন্য প্রথম আলোর এ আয়োজন।",
       "image_s3_key": "prothomalo-bangla/2024-11-28/cm2019qx/107.jpeg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-11-28/cm2019qx/107.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "একটি দল এই দেব, ওই দেব, টিকিট দেব বলছে, বলছে না? প্রশ্ন তারেক রহমানের",
-      "url": "https://www.prothomalo.com/video/bangladesh/62gtn0i50a",
-      "published_at": "2026-01-22T08:47:10.731000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-22/bkk5w9he/Web.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/bkk5w9he/Web.jpg?auto=format,compress"
-    },
-    {
-      "headline": "মার্কিন রাষ্ট্রদূতের মন্তব্যকে ‘দায়িত্বজ্ঞানহীন ও সম্পূর্ণ ভিত্তিহীন’ বলছে চীন দূতাবাস",
-      "url": "https://www.prothomalo.com/bangladesh/bne8wh5po6",
-      "published_at": "2026-01-22T08:46:54.377000+00:00",
-      "summary": "চীন দূতাবাসের মুখপাত্র বলেন, বাংলাদেশে নিযুক্ত যুক্তরাষ্ট্রের রাষ্ট্রদূতের এ ধরনের মন্তব্য দায়িত্বজ্ঞানহীন ও সম্পূর্ণ ভিত্তিহীন।",
-      "image_s3_key": "prothomalo-bangla/2025-02-09/mbegk1zd/china.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-02-09/mbegk1zd/china.jpg?auto=format,compress"
-    },
-    {
-      "headline": "দিল্লি নয়, পিন্ডি নয়, সবার আগে বাংলাদেশ : তারেক রহমান",
-      "url": "https://www.prothomalo.com/bangladesh/district/c65256e0ee",
-      "published_at": "2026-01-22T08:41:49.677000+00:00",
-      "summary": "দিল্লি নয়, পিন্ডি নয়, অন্য কোনো দেশ নয়, সবার আগে বাংলাদেশ উল্লেখ করে নির্বাচনী প্রচার শুরু করলেন বিএনপির চেয়ারম্যান তারেক রহমান।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/codko4el/WhatsApp-Image-2026-01-22-at-1.41.13-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/codko4el/WhatsApp-Image-2026-01-22-at-1.41.13-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "মানসিক স্বাস্থ্য: যুক্তরাষ্ট্রের অভিজ্ঞতা ও বাংলাদেশের বাস্তবতা",
-      "url": "https://nagorik.prothomalo.com/durporobash/a8cmyk8n51",
-      "published_at": "2026-01-22T08:40:44.206000+00:00",
-      "summary": "যুক্তরাষ্ট্রে মানসিক স্বাস্থ্যকে শারীরিক স্বাস্থ্যের সমান গুরুত্ব দেওয়া হয়। এটি প্রাথমিক চিকিৎসা, শিক্ষাব্যবস্থা, কর্মক্ষেত্র ও স্বাস্থ্যবিমার সঙ্গে যুক্ত।",
-      "image_s3_key": "prothomalo/import/media/2017/12/27/4e8c2310afc17ed99ae82e99af802f04-5a436044480f4.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo/import/media/2017/12/27/4e8c2310afc17ed99ae82e99af802f04-5a436044480f4.jpg?auto=format,compress"
-    },
-    {
-      "headline": "একসঙ্গে সব স্তরে বেতন বাড়ানো অযৌক্তিক",
-      "url": "https://www.prothomalo.com/business/analysis/x1sfryld5a",
-      "published_at": "2026-01-22T08:36:50.662000+00:00",
-      "summary": "সুপারিশ করা স্কেল অনুযায়ী বেতন বাড়ানো হলে সরকারের যে পরিমাণ পরিচালন ব্যয় দাঁড়াবে, তা প্রতিবছর জোগান দিতে হবে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/jv3mg0ay/1-image-Template-2.jpg৩.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/jv3mg0ay/1-image-Template-2.jpg৩.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ভৌত জগতে যা পরিমাপ করা যায়, তা–ই রাশি",
-      "url": "https://www.prothomalo.com/education/examination/riz389v0pv",
-      "published_at": "2026-01-22T08:28:11.293000+00:00",
-      "summary": "২০২৬ সালের এসএসসি পরীক্ষা—পদার্থ বিজ্ঞান: অধ্যায়–১",
-      "image_s3_key": "prothomalo-bangla/2026-01-20/arw9wm81/student-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-20/arw9wm81/student-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সরকারি চাকরিজীবীদের সন্তানের শিক্ষা ভাতা ১৫০০ টাকা বৃদ্ধির সুপারিশ, টিফিনে ৮০০",
-      "url": "https://www.prothomalo.com/education/higher-education/jyzplih47n",
-      "published_at": "2026-01-22T08:25:18.567000+00:00",
-      "summary": "নবম জাতীয় পে-স্কেলে সরকারি চাকরিজীবীদের সন্তানদের জন্য শিক্ষা ভাতা এক হাজার ৫০০ টাকা বৃদ্ধি করে ২ হাজার টাকা করার সুপারিশ করা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/0kejuozc/prothomalo-bangla2026-01-21dzi0g7jjWhatsApp-Image-2026-01-21-at-10.34.29-PM.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/0kejuozc/prothomalo-bangla2026-01-21dzi0g7jjWhatsApp-Image-2026-01-21-at-10.34.29-PM.avif?auto=format,compress"
-    },
-    {
-      "headline": "তারেক রহমানকে প্রধানমন্ত্রী করে গণতান্ত্রিক, সুখী, সমৃদ্ধ বাংলাদেশ গড়ে তুলব: মির্জা ফখরুল",
-      "url": "https://www.prothomalo.com/bangladesh/district/6jp0dj1yct",
-      "published_at": "2026-01-22T08:24:14.495000+00:00",
-      "summary": "আজ বৃহস্পতিবার বেলা একটার দিকে সিলেট নগরের আলিয়া মাদ্রাসা মাঠে বিএনপির প্রথম নির্বাচনী জনসভায় বিশেষ অতিথির বক্তব্য দেন বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/82rqcf9s/fakrul.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/82rqcf9s/fakrul.JPG?auto=format,compress"
-    },
-    {
-      "headline": "সৌদি আরবসহ কোন ১০ দেশের স্থায়ী কোনো নদী নেই",
-      "url": "https://www.prothomalo.com/world/middle-east/hthjfavsoo",
-      "published_at": "2026-01-22T08:23:31.135000+00:00",
-      "summary": "শুষ্ক জলবায়ু, ছোট ভূখণ্ড বা বিশেষ ভূতাত্ত্বিক অবস্থার কারণে যেসব দেশের ভেতরে কোনো স্থায়ী নদী নেই, এসব দেশকে মিঠাপানির চাহিদা মেটাতে বিকল্প উপায়ের ওপর নির্ভর করতে হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/wgu1fnei/01.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/wgu1fnei/01.avif?auto=format,compress"
-    },
-    {
-      "headline": "প্রচারে নেমে ইশরাক বললেন, ‘আপনাদের সন্তান হিসেবে এসেছি, একটা সুযোগ চাচ্ছি’",
-      "url": "https://www.prothomalo.com/politics/4j74sj3id5",
-      "published_at": "2026-01-22T08:15:28.437000+00:00",
-      "summary": "সকাল ১০টার দিকে জুরাইন কবরস্থানে গিয়ে ইশরাক তাঁর বাবা ঢাকার প্রয়াত মেয়র সাদেক হোসেন খোকার কবর জিয়ারত করেন। এরপর বাংলাবাজার চৌরাস্তা এলাকা থেকে হেঁটে নির্বাচনী প্রচার শুরু করেন তিনি।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/lrahgse1/Image.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/lrahgse1/Image.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "সায়েন্স ল্যাবে ঢাকা কলেজ–আইডিয়াল কলেজের শিক্ষার্থীদের সংঘর্ষ, এক ঘণ্টা যান চলাচল বন্ধ",
-      "url": "https://www.prothomalo.com/bangladesh/capital/szfi9on4il",
-      "published_at": "2026-01-22T08:08:42.820000+00:00",
-      "summary": "বেলা সাড়ে ১১টার দিকে দুই কলেজের শিক্ষার্থীদের মধ্যে সংঘর্ষ হয়। মিরপুর থেকে নিউমার্কেটগামী সড়কে যান চলাচল বন্ধ হয়। সোয়া একটার দিকে স্বাভাবিক হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/ag9ityka/science-lab-1.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/ag9ityka/science-lab-1.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "ট্রাম্প কেন হঠাৎ গ্রিনল্যান্ডে সামরিক পদক্ষেপ থেকে সরে গেলেন",
-      "url": "https://www.prothomalo.com/world/usa/wactov3pen",
-      "published_at": "2026-01-22T08:04:33.541000+00:00",
-      "summary": "হোয়াইট হাউস সূত্র জানায়, ট্রাম্প প্রশাসনের কর্মকর্তারা প্রেসিডেন্টকে উসকানিমূলক বক্তব্য থেকে সরে আসতে চাপ দিচ্ছিলেন। সামরিক শক্তি দিয়ে গ্রিনল্যান্ড দখলের বিষয়ে অনেক গুরুত্বপূর্ণ কর্মকর্তাই অনাগ্রহী।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/s3nobh13/Trump-Greenland.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/s3nobh13/Trump-Greenland.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘বিড়ি খাওয়া’ বক্তব্য দেওয়ায় জামায়াতের দুই কোটি ভোট বেড়েছে : ফয়জুল হক",
-      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207889",
-      "published_at": "2026-01-22T16:10:19+06:00",
-      "summary": "ঝালকাঠি-১ আসনে ১০ দলীয় জোটের জামায়াতে ইসলামীর প্রার্থী ড. ফয়জুল হক বলেছেন, ‘আমার একটা বক্তব্য নিয়ে অনেকে সমালোচনা করছে, কিন্তু ওই বক্তব্য দেওয়ায় জামায়াতের ২ কোটি ভোট বেড়েছে। আমি বলেছি, আমার কোনো কর্মী যদি বিড়ি খোরও হয়, তবে সে বিড়ি খাওয়া অবস্থায় জামায়াত ইসলামীর দাওয়াত দিবে। এতে করে আল্লাহ তাকে ওই খারাপ অভ্যাস থেকে বের করে আনতে পারেন।’",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769076618-cc6aa9a3f103af6f0dcc39614fa053b8.jpg"
-    },
-    {
-      "headline": "মিনি ম্যারাথনে হালুয়াঘাটে শুরু প্রিন্সের নির্বাচনী প্রচারণা",
-      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207888",
-      "published_at": "2026-01-22T16:06:08+06:00",
-      "summary": "বিএনপির যুগ্ম মহাসচিব ও ময়মনসিংহ–১ আসনের বিএনপি মনোনীত প্রার্থী সৈয়দ এমরান সালেহ প্রিন্সের আনুষ্ঠানিক নির্বাচনী প্রচারণা শুরু হয়েছে হালুয়াঘাটে ব্যতিক্রমধর্মী আয়োজনে। সামাজিক, সাংস্কৃতিক ও ক্রীড়া সংগঠনের উদ্যোগে লেটস রান উইথ প্রিন্স শিরোনামে মিনি ম্যারাথনের মাধ্যমে এই প্রচারণার সূচনা হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769076367-30c0dcfae8a20647365f66a8f5d6c8d0.jpg"
-    },
-    {
-      "headline": "বগুড়া-৬ আসনে তারেক রহমানের পক্ষে ভোট চেয়ে প্রচারণা শুরু",
-      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207884",
-      "published_at": "2026-01-22T16:02:01+06:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বগুড়া-৬ (সদর) আসনে বিএনপি মনোনীত প্রার্থী দলের চেয়ারম্যান তারেক রহমানের পক্ষে ধানের শীষ প্রতীকে ভোট চেয়ে আনুষ্ঠানিকভাবে প্রচার-প্রচারণা শুরু করা হয়েছে। বৃহস্পতিবার (২২ জানুয়ারি) বেলা ১১টার দিকে সদরের লাহিড়ীপাড়া ইউনিয়নে গণসংযোগ ও লিফলেট বিতরণ করেন জেলা বিএনপির নেতৃবৃন্দ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769076121-a8e5dc50effe8b4ea299a5044f9bc87c.jpg"
-    },
-    {
-      "headline": "৪৮তম বিসিএস থেকে ৩২৬৩ জনকে ক্যাডার পদে নিয়োগ",
-      "url": "https://www.bd-pratidin.com/national/2026/01/22/1207882",
-      "published_at": "2026-01-22T15:55:09+06:00",
-      "summary": "৪৮তম বিসিএস (বিশেষ) পরীক্ষা-২০২৫ এর মাধ্যমে ৩ হাজার ২৬৩ জন প্রার্থীকে বাংলাদেশ সিভিল সার্ভিসের (বিসিএস) বিভিন্ন ক্যাডারের পদে নিয়োগ দেওয়া হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769075708-382f60ef037fe0c7fcbb06e83941fdc6.jpg"
-    },
-    {
-      "headline": "চরম বর্ববরতা, ভারতে প্রেমিকজুটিকে হাত-পা বেঁধে হত্যার পর মাটিচাপা!",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/22/1207880",
-      "published_at": "2026-01-22T15:48:57+06:00",
-      "summary": "ঘটনাটি ভারতের উত্তর প্রদেশের মোরাদাবাদের। সেখানে ভিন্ন ধর্মের মধ্যে প্রেমের জেরে এক প্রেমিকজুটিকে হত্যার পর মাটিচাপা দিয়েছেন তরুণীর ভাইয়েরা।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769075336-17fc77624dfc8ff81db1993b52068664.jpg"
-    },
-    {
-      "headline": "ঢাকা সেন্ট্রাল ইউনিভার্সিটির অধ্যাদেশ অনুমোদন",
-      "url": "https://www.bd-pratidin.com/campus-online/2026/01/22/1207879",
-      "published_at": "2026-01-22T15:48:27+06:00",
-      "summary": "ঢাকার সাত সরকারি কলেজকে একীভূত করে ‘ঢাকা সেন্ট্রাল ইউনিভার্সিটি’ প্রতিষ্ঠার লক্ষ্যে প্রণীত অধ্যাদেশ উপদেষ্টা পরিষদে অনুমোদিত হয়েছে। অর্ন্তবর্তী সরকারের শিক্ষা উপদেষ্টা অধ্যাপক চৌধুরী রফিকুল আবরার নিজেই এই তথ্য নিশ্চিত করেছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769075306-a33cbef35954e4bebd1814676d8a4e08.jpg"
-    },
-    {
-      "headline": "'বাংলাদেশের পাশে দাঁড়াতে বিশ্বকাপ বয়কট করা উচিত পাকিস্তানের'",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/22/1207878",
-      "published_at": "2026-01-22T15:41:51+06:00",
-      "summary": "পাকিস্তানের সাবেক অধিনায়ক রশিদ লতিফ বলেছেন, আন্তর্জাতিক ক্রিকেট কাউন্সিলের (আইসিসি) সিদ্ধান্তের প্রতিবাদে বাংলাদেশের পাশে দাঁড়িয়ে পাকিস্তানকে টি-টোয়েন্টি বিশ্বকাপ ২০২৬ বয়কট করা উচিত। তিনি এ মন্তব্য করেছেন ইউটিউব চ্যানেল কট বিহাইন্ড শো-এ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769074910-af51472a61a79934c31527525398156a.jpg"
-    },
-    {
-      "headline": "নামিবিয়াকে ১৪৫ রানের লক্ষ্য দিল বাংলাদেশ",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/22/1207875",
-      "published_at": "2026-01-22T15:38:07+06:00",
-      "summary": "নারী টি-টোয়েন্টি বিশ্বকাপ বাছাই পর্বে টানা দুই ম্যাচ জয়ের পর তৃতীয় ম্যাচে নামিবিয়ার বিপক্ষে মাঠে নেমেছে বাংলাদেশ নারী ক্রিকেট দল। টস জিতে আগে ব্যাটিং করার সিদ্ধান্ত নেয় নামিবিয়া। ব্যাট করতে নেমে শুরু থেকেই দলে ধাক্কা খায় টাইগ্রেসরা, তবে পরে গুরুত্বপূর্ণ উইকেট জুটিতে সংগ্রহটা দাঁড়ায় ১৪৪ রানে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769074686-9cecdde6b7eb8da993edc704c8edf6e9.jpg"
-    },
-    {
-      "headline": "একাত্তরেই বাংলার মানুষ তাদের দেখে নিয়েছে: তারেক রহমান",
-      "url": "https://www.ittefaq.com.bd/771406/%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95",
-      "published_at": null,
-      "summary": "যারা অমুককে দেখেছি, তমুককে দেখেছি, এবার একে দেখেন বলে, তাদের বাংলাদেশের মানুষ আগেই দেখে নিয়েছে বলে মন্তব্য করেছেন বিএনপির চেয়ারম্যান তারেক রহমান। সিলেট নগরের সরকারি আলিয়া মাদ্রাসা মাঠে বৃহস্পতিবার (২২ জানুয়ারি) প্রথম নির্বাচনী জনসভায় তিনি এসব কথা বলেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/6724312127407f42af171cd21a59b0f5-6971ec817586e.jpg"
-    },
-    {
-      "headline": "সরকারি চাকরিজীবীদের সন্তানের শিক্ষা ভাতা ১৫০০ টাকা বাড়ানোর প্রস্তাব",
-      "url": "https://www.ittefaq.com.bd/771405/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A7%A7%E0%A7%AB%E0%A7%A6%E0%A7%A6-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE",
-      "published_at": null,
-      "summary": "নবম জাতীয় পে-স্কেলে সরকারি চাকরিজীবীদের সন্তানদের জন্য শিক্ষা ভাতা ১ হাজার ৫০০ টাকা বৃদ্ধি করে ২ হাজার টাকা করার সুপারিশ করা হয়েছে। একইসঙ্গে টিফিন ভাতা ৮০০ টাকা বাড়িয়ে ১০০০ টাকা করার প্রস্তাব করা হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/29d2114a837d69fe6d1c5ecf518cfb77-6971e7f7c0195.jpg"
-    },
-    {
-      "headline": "ট্রাম্পের ‘শান্তি পর্ষদে’ যোগ দিচ্ছে ৯ মুসলিম দেশ",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/AUyg8sE1rkHg/",
-      "published_at": null,
-      "summary": "সৌদি আরব, কাতার, তুরস্কসহ ৯টি মুসলিম-প্রধান দেশ ট্রাম্পের নেতৃত্বাধীন ‘শান্তি পর্ষদে’ যোগ দিতে সম্মত হয়েছে, যা মূলত গাজা সঙ্কট মোকাবিলায় কাজ করবে। তবে পর্ষদের ভূমিকা ও গঠন নিয়ে কিছু ইউরোপীয় দেশ ও ইসরাইলের আপত্তি রয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Trump_KUkzUAA.jpg"
-    },
-    {
-      "headline": "ইরানে বিক্ষোভে নিহতের সংখ্যা জানাল সরকার",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/p8sMMOctND1l/",
-      "published_at": null,
-      "summary": "গত ডিসেম্বর থেকে ইরানে চলা বিক্ষোভে নিহতের সংখ্যা জানিয়েছে সরকার। অর্থনৈতিক আন্দোলন থেকে শুরু হওয়া এই বিক্ষোভ দ্রুত সরকারবিরোধী গণ-আন্দোলনে রূপ নেয় বলে জানিয়েছে কর্তৃপক্ষ।",
-      "image_url": "https://media.ndiganta.com/original_images/iran-flag_txIsXvi.jpg"
-    },
-    {
-      "headline": "স্বাধীনতা-সার্বভৌমত্ব রক্ষায় সৎ ও যোগ্য প্রার্থীকে ভোট দিতে হবে : ডা: তাহের",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/c3DrE5bjqauz/",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে দাঁড়িপাল্লা প্রতীক ও ‘হ্যাঁ’ ভোটের পক্ষে প্রথম সমাবেশে প্রধান অতিথির বক্তব্যে তিনি এ আহ্বান জানান।",
-      "image_url": "https://media.ndiganta.com/original_images/Taher_3kdCEU7.jpg"
-    },
-    {
-      "headline": "নেছারাবাদে স্বতন্ত্র প্রার্থী মাহমুদ হোসেনের নির্বাচনী ক্যাম্পে হামলার অভিযোগ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/l8nGyYxqprGK/",
-      "published_at": null,
-      "summary": "দুপুরে উপজেলার স্বরূপকাঠী পৌরসভার ৭ নম্বর ওয়ার্ডে তার নির্বাচনী ক্যাম্পে এ হামলার ঘটনা ঘটে।",
-      "image_url": "https://media.ndiganta.com/original_images/Necharabad.jpg"
-    },
-    {
-      "headline": "ফকিরহাটে দুর্বৃত্তের হাতে গৃহিনী খুন",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/hXfKeM3IHIri/",
-      "published_at": null,
-      "summary": "লাশের মুখে একাধিক আঘাতের চিহ্ন রয়েছে। এছাড়াও কানের নিচেও আঘাতের চিহ্ন দেখা গেছে। তাকে কিল, ঘুসি মেরে আঘাত করে এবং গলায় ওড়না দিয়ে ফাঁস লাগিয়ে হত্যা করা হতে পারে বলে প্রাথমিকভাবে ধারণা করা হচ্ছে। চোরকে চিনে ফেলায় গৃহিনীকে হত্যা করা হতে পারে।",
-      "image_url": "https://media.ndiganta.com/original_images/Murder_eoJAdRn.jpg"
-    },
-    {
-      "headline": "গাজায় শিশুদের মধ্যে সৌদির উষ্ণতা",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/6uS8cURXgKuB/",
-      "published_at": null,
-      "summary": "দেশটি মনে করে- শীতকাল গাজার শিশুদের জীবনের অন্যতম একটি চ্যালেঞ্জ। এমন পরিস্থিতিতে তাদেরকে শীতবস্ত্র প্রদান গুরুত্বপূর্ণ একটি মানবিক কাজ।",
-      "image_url": "https://media.ndiganta.com/original_images/Saudi_warmth_among_children_in_Gaza.jpg"
-    },
-    {
-      "headline": "আলতাফ হোসেন চৌধুরীবাংলাদেশে অস্থিতিশীল পরিস্থিতি সৃষ্টি ও নির্বাচনকে বানচাল করতে নানা ষড়যন্ত্র চলছে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/Qy3qmtDzjXA2/",
-      "published_at": null,
-      "summary": "মির্জাগঞ্জ উপজেলা বিএনপির উদ্যোগে আসন্ন নির্বাচনে উপজেলার ভোট কেন্দ্র কমিটির নেতৃবৃন্দের সাথে মতবিনিময় সভায় প্রধান অতিথির বক্তব্যে তিনি এসব কথা বলেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Patuakhali_rZyCLwY.jpg"
-    },
-    {
-      "headline": "তিন নেতা ও হাদির কবর জিয়ারত দিয়ে এনসিপির নির্বাচনী প্রচারণা শুরু",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/6KpAscvJ7FaL/",
-      "published_at": null,
-      "summary": "ঢাকা বিশ্ববিদ্যালয়ে তিন নেতার মাজার ও শহীদ শরিফ ওসমান হাদির কবর জিয়ারতের মাধ্যমে এনসিপি আনুষ্ঠানিকভাবে নির্বাচনী প্রচারণা শুরু করেছে। গণভোটে ‘হ্যাঁ’ ভোট ও সংস্কার অব্যাহত রাখার আহ্বান জানান দলের আহ্বায়ক নাহিদ ইসলাম।",
-      "image_url": "https://media.ndiganta.com/original_images/ncp-election.jpg"
-    },
-    {
-      "headline": "নগরকান্দায় আলী মোল্লা হত্যাকাণ্ডের রহস্য উন্মোচন",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/leBFzKrqF1jZ/",
-      "published_at": null,
-      "summary": "ঢাকার যাত্রাবাড়িতে পৌঁছে আলী মোল্লার হাত-পা বেঁধে ফেলেন তারা। তবে কিছুক্ষণ পর চেতনা ফিরলে আলী মোল্লা হাত-পা বাঁধার কারণ জানতে চান। এ সময় স্কচটেপ দিয়ে তার মুখ আটকে তারা আলী মোল্লার ওপর বসে হাতুড়ি দিয়ে উপর্যুপরি আঘাত করেন। এরপর রাত আনুমানিক ৪টার দিকে নগরকান্দার নারায়ণখালীতে এসে ব্রিজের নিচে গলায় আঘাত করে ব্রিজের ঢালসংলগ্ন ডোবায় লাশ ফেলে পালিয়ে যান মমরেজ ও ফিরোজ।",
-      "image_url": "https://media.ndiganta.com/original_images/Faridpur-Murder-Accused-Arr.gif"
-    },
-    {
-      "headline": "ঘাড়ের ব্যথার অন্যতম কারণ সারভাইক্যাল মাইলোপ্যাথি, লক্ষণ ও প্রতিকার জানুন",
-      "url": "https://www.prothomalo.com/lifestyle/health/9gf7vxyavh",
-      "published_at": "2026-01-22T08:00:00+00:00",
-      "summary": "অনেক সময় দীর্ঘ সময় ভুল পজিশনে কম্পিউটার, ল্যাপটপ, মুঠোফোনসহ বিভিন্ন ডিভাইস দীর্ঘক্ষণ ব্যবহারের কারণে এ ধরনের সমস্যা বাড়ে।",
-      "image_s3_key": "prothomalo-bangla/2025-11-13/5amw6jyk/pexels-photo-7298634.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-13/5amw6jyk/pexels-photo-7298634.jpg?auto=format,compress"
-    },
-    {
-      "headline": "অগ্নিদুর্ঘটনা রোধে রাজউক আগের চেয়ে বেশি সচেতন: মো. নাজমুস সাকিব জামালী ",
-      "url": "https://www.prothomalo.com/video/bangladesh/bj7m7vywln",
-      "published_at": "2026-01-22T08:00:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-22/mcindr4p/Nazmus-Sakib-Jamali.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/mcindr4p/Nazmus-Sakib-Jamali.JPG?auto=format,compress"
-    },
-    {
-      "headline": "নিজের এলাকায় তরুণদের সঙ্গে খেলতে নেমে পড়লেন সালাহউদ্দিন আহমদ",
-      "url": "https://www.prothomalo.com/video/bangladesh/klrnbscx5i",
-      "published_at": "2026-01-22T07:55:40.549000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-22/aa802pxw/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/aa802pxw/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রাস্তায় পিটিয়ে মেরে ফেলা হলো অটোরিকশাচালককে, দূরে দাঁড়িয়ে দেখলেও এগিয়ে এলেন না কেউ",
-      "url": "https://www.prothomalo.com/bangladesh/district/1hkyujsoh0",
-      "published_at": "2026-01-22T07:53:01.136000+00:00",
-      "summary": "তিনজন ব্যক্তি লাঠি দিয়ে পেটাতে পেটাতে রাস্তায় ফেলে দেন অপর একজনকে। পড়ে যাওয়ার পরও নিস্তেজ না হওয়া পর্যন্ত তাঁকে পেটানো হয়। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/ejf1ly2y/WhatsApp-Image-2026-01-22-at-13.38.27.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/ejf1ly2y/WhatsApp-Image-2026-01-22-at-13.38.27.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "নারী প্রার্থী কম, দলগুলো কথা রাখেনি ",
-      "url": "https://www.prothomalo.com/bangladesh/i7azk39un0",
-      "published_at": "2026-01-22T07:47:08.539000+00:00",
-      "summary": "৫ শতাংশ নারীকে মনোনয়ন দেওয়ার বিষয়ে সম্মতি দিয়েছিল জামায়াতে ইসলামীও। জোটবদ্ধ হওয়ার পর আসন সমঝোতায় জামায়াতে ইসলামী দুই শতাধিক আসনে প্রার্থী দিচ্ছে। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/kl00iugk/7727dc53-8a0c-4a84-b3c7-df67e539f9aa.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/kl00iugk/7727dc53-8a0c-4a84-b3c7-df67e539f9aa.jfif?auto=format,compress"
-    },
-    {
-      "headline": "সৌদি আরবে রোনালদোর গোলের রেকর্ড, পর্তুগালে পুড়ল তাঁর ভাস্কর্য",
-      "url": "https://www.prothomalo.com/sports/football/xf4ur7snqf",
-      "published_at": "2026-01-22T07:46:19.781000+00:00",
-      "summary": "সৌদি প্রো লিগে আল নাসরের হয়ে আরেকটি রেকর্ড ভেঙেছেন রোনালদো। তিনিই এখন আল নাসরের ইতিহাসে বিদেশি খেলোয়াড়দের মধ্যে সর্বোচ্চ গোলদাতা।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/ff59g833/619061261186744234850564218724689065598764707n.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/ff59g833/619061261186744234850564218724689065598764707n.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আরএসএসের নিয়ন্ত্রণমুক্ত  বিজেপি, নতুন সভাপতি নীতিনের খুঁটির জোর কোথায়",
-      "url": "https://www.prothomalo.com/world/india/poc8io5qi6",
-      "published_at": "2026-01-22T07:42:37.315000+00:00",
-      "summary": "সংঘ চাইছিল এমন একজনকে, যিনি সংঘের আদর্শে লালিত ও পালিত, সংঘের চেতনায় দল পরিচালনা করবেন। কিন্তু মোদি–শাহ জুটি চাইছিলেন তাঁদের অনুগত কাউকে বেছে নিতে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/twrxb9jp/Untitled-8.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/twrxb9jp/Untitled-8.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বগুড়া-৬ আসনে তারেক রহমানের পক্ষে ধানের শীষের আনুষ্ঠানিক প্রচারণা শুরু",
-      "url": "https://www.prothomalo.com/bangladesh/district/a5m00cke7e",
-      "published_at": "2026-01-22T07:39:08.132000+00:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বগুড়া-৬ (বগুড়া পৌরসভার ২১টি ওয়ার্ড ও সদর উপজেলা নিয়ে গঠিত) আসনে বিএনপির চেয়ারম্যান তারেক রহমানের পক্ষে ধানের শীষ প্রতীকের আনুষ্ঠানিক নির্বাচনী প্রচারণা শুরু হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-22/cccdrr91/BoguraDH061120260122IMG-20260122-WA0037.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-22/cccdrr91/BoguraDH061120260122IMG-20260122-WA0037.jpg?auto=format,compress"
-    },
-    {
-      "headline": "কোনো ভোটারের এনআইডি নিলে শাস্তির হুঁশিয়ারি ইসির",
-      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207872",
-      "published_at": "2026-01-22T15:30:39+06:00",
-      "summary": "গণভোট ও সংসদ নির্বাচনকে সামনে রেখে কোনো ভোটারের জাতীয় পরিচয়পত্র (এনআইডি) নিলে সংশ্লিষ্টদের বিরুদ্ধে শাস্তিমূলক ব্যবস্থা নেওয়ার হুঁশিয়ারি দিয়েছে নির্বাচন কমিশন (ইসি)।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769074238-d5235a5361041d7d62c839f9da7c09cd.jpg"
-    },
-    {
-      "headline": "নির্বাচনে ধানের শীষের বিজয় হবে: লক্ষ্মীপুরে এ্যানি",
-      "url": "https://www.bd-pratidin.com/election/2026/01/22/1207869",
-      "published_at": "2026-01-22T15:28:15+06:00",
-      "summary": "বিএনপির যুগ্ম মহাসচিব ও লক্ষ্মীপুর-৩ (সদর) আসনে দলটির মনোনীত সংসদ সদস্য প্রার্থী শহীদ উদ্দিন চৌধুরী এ্যানি বলেছেন, আগামী জাতীয় সংসদ নির্বাচনে ধানের শীষ প্রতীক বিজয় অর্জন করবে এবং আগামী দিনে প্রধানমন্ত্রী হয়ে বাংলাদেশকে নেতৃত্ব দেবেন তারেক রহমান।’",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769074094-5ea3b7c2194dd85d652d14619830e579.jpg"
-    },
-    {
-      "headline": "জাতীয় শিক্ষা সপ্তাহে গোল্ড মেডেল অর্জন বগুড়ার সৌমিকার",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/22/1207867",
-      "published_at": "2026-01-22T15:17:27+06:00",
-      "summary": "জাতীয় শিক্ষা সপ্তাহ ২০২৬-এর প্রতিযোগিতায় জাতীয় পর্যায়ে অসাধারণ সাফল্য অর্জন করেছে বগুড়ার কৃতী শিক্ষার্থী সৌমিকা লাহিড়ী। দেশাত্মবোধক গানে প্রথম স্থান অর্জন করে সে গোল্ড মেডেল এবং নজরুল সংগীতে দ্বিতীয় স্থান অর্জন করে রৌপ্য মেডেল লাভ করেছে। সম্প্রতি রাজধানীর ওসমানী স্মৃতি মিলনায়তনে আয়োজিত এক অনুষ্ঠানে সারাদেশের বিজয়ীদের মাঝে পুরস্কার বিতরণ করা হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769073446-29521499abc3c5b8d1776c552ab0487a.jpg"
-    },
-    {
-      "headline": "‘হ্যাঁ’ ভোটের প্রার্থী আপনি, আমি, আমরা সবাই: আলী রীয়াজ",
-      "url": "https://www.bd-pratidin.com/national/2026/01/22/1207866",
-      "published_at": "2026-01-22T15:16:24+06:00",
-      "summary": "প্রধান উপদেষ্টার বিশেষ সহকারী অধ্যাপক আলী রীয়াজ বলেছেন, অনেকেই প্রশ্ন করেন ‘হ্যাঁ’ ভোটের প্রার্থী কে? আমি বলি, হ্যাঁ’র প্রার্থী আপনি, আমি, আমরা সবাই। কারণ হ্যাঁ ভোট আমাদের উপহার দেবে একটি গণতান্ত্রিক ও মানবিক বাংলাদেশ যেটি জুলাই গণঅভ্যুত্থানের আকাঙ্ক্ষা।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769073383-2616a929c228e89ac322f09ae556bfa5.jpg"
-    },
-    {
-      "headline": "কালো কিশমিশ ভিজিয়ে খেলে শরীরে কি হয়?",
-      "url": "https://www.bd-pratidin.com/life/2026/01/22/1207862",
-      "published_at": "2026-01-22T15:08:49+06:00",
-      "summary": "আধুনিক যুগের ব্যস্ত জীবনে অনেকেই এমন কিছু খাবারের খোঁজ করেন, যা অল্প পরিমাণে খেলেই শরীরের নানা উপকারে আসবে। ঠিক এমনই একটি সহজ এবং অত্যন্ত কার্যকর খাবার হলো কালো শুকনা আঙুর বা কালো কিশমিশ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769072928-8e9516bc9ae04f48bd345325ef79d382.jpg"
-    },
-    {
-      "headline": "বিশ্বকাপ ফুটবল বয়কটের আলোচনা ইউরোপে",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/22/1207861",
-      "published_at": "2026-01-22T15:07:49+06:00",
-      "summary": "মঞ্চ প্রস্তুত, কাউন্টডাউনও অনেক আগেই শুরু হয়েছে। আগামী জুন-জুলাইয়ে যুক্তরাষ্ট্র, মেক্সিকো ও কানাডায় অনুষ্ঠেয় ফিফা ফুটবল বিশ্বকাপ ঘিরে যখন উত্তেজনা তুঙ্গে, ঠিক তখনই নতুন করে বিতর্কে জড়িয়েছে আসরটি। বিতর্কের কেন্দ্রে রয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প এবং ডেনমার্কের স্বায়ত্তশাসিত অঞ্চল গ্রিনল্যান্ড নিয়ে তাঁর সাম্প্রতিক অবস্থান। এর জেরে ইউরোপজুড়ে ক্ষোভ ছড়িয়ে পড়েছে, উঠেছে বিশ্বকাপ বয়কটের সম্ভাবনার কথাও।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/22/og/1769072868-4e7770d7a1f9f3d00541dcbc6d9dfef8.jpg"
-    },
-    {
-      "headline": "সমুদ্রের ঢেউয়ে ভেসে এলো কন্যা শিশুর মরদেহ",
-      "url": "https://www.ittefaq.com.bd/771404/%E0%A6%B8%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A2%E0%A7%87%E0%A6%89%E0%A7%9F%E0%A7%87-%E0%A6%AD%E0%A7%87%E0%A6%B8%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A7%8B-%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B9",
-      "published_at": null,
-      "summary": "কক্সবাজারের টেকনাফ উপজেলার সমুদ্র সৈকত থেকে অজ্ঞাত এক কন্যা শিশুর মরদেহ উদ্ধার করেছে পুলিশ। বৃহস্পতিবার (২২ জানুয়ারি) দুপুরের দিকে টেকনাফের মহেশখালীয় পাড়া সমুদ্র সৈকত ঘাট এলাকা থেকে মরদেহটি উদ্ধার করা হয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/a6fe58bd69f3017638741eedc3f43e1b-6971e6ea18c0b.jpg"
-    },
-    {
-      "headline": "‘হ্যাঁ’-এর প্রার্থী আপনি আমি আমরা সবাই: আলী রীয়াজ",
-      "url": "https://www.ittefaq.com.bd/771403/%E2%80%98%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%81%E2%80%99-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A6%86%E0%A6%AA%E0%A6%A8%E0%A6%BF-%E0%A6%86%E0%A6%AE%E0%A6%BF-%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%86%E0%A6%B2%E0%A7%80-%E0%A6%B0%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%9C",
-      "published_at": null,
-      "summary": "প্রধান উপদেষ্টার বিশেষ সহকারী (উপদেষ্টা পদমর্যাদা) অধ্যাপক আলী রীয়াজ বলেছেন, অনেকেই জিজ্ঞেস করেন, ‘হ্যাঁ’ এর প্রার্থী কে? আমি বলি, হ্যাঁ-এর প্রার্থী আপনি, আমি, আমরা সবাই। কারণ ‘হ্যাঁ’ আমাদের উপহার দেবে, একটি গণতান্ত্রিক-মানবিক বাংলাদেশ। যেটি জুলাই গণঅভ্যুত্থানের আকাঙ্ক্ষা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/c9f70f79c96b77a96f86d9b4f73d196a-6971e59a342ac.jpg"
-    },
-    {
-      "headline": "অটোরিকশাচালককে রাস্তায় পিটিয়ে হত্যা, সামনে থেকেও নীরব পথচারীরা",
-      "url": "https://www.ittefaq.com.bd/771402/%E0%A6%85%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%93",
-      "published_at": null,
-      "summary": "চট্টগ্রাম নগরে প্রকাশ্য রাস্তায় লাঠি দিয়ে পিটিয়ে এক অটোরিকশাচালককে হত্যা করা হয়েছে। ভয়াবহ এই ঘটনার সময় আশপাশে একাধিক মানুষ উপস্থিত থাকলেও কেউ এগিয়ে আসেননি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/22/b609eea7831f2f20ab8e336d9851fb2b-6971e581deeb3.jpg"
     }
   ]
 }
