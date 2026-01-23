@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-01-23T19:02:29.547019+00:00",
+  "fetched_at": "2026-01-23T19:29:37.873668+00:00",
   "stories": [
+    {
+      "headline": "খেলা নিয়ে ‘অনিশ্চয়তায়’ চিন্তিত নাজমুল",
+      "url": "https://www.prothomalo.com/sports/cricket/ct2f8wkwk2",
+      "published_at": "2026-01-23T19:20:25.015000+00:00",
+      "summary": "প্রায় মিনিট বিশেকের প্রশ্ন-উত্তর পর্বে তাঁর কাছে শেষ প্রশ্ন ছিল, ‘পরের খেলাটা কবে তা কি জানেন?’ নাজমুল এক কথায় উত্তর দিলেন, ‘না’। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-23/bfnvn3og/Raj-Wrri-Captan-after-match-meet-the-press.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/bfnvn3og/Raj-Wrri-Captan-after-match-meet-the-press.jpg?auto=format,compress"
+    },
+    {
+      "headline": "যুদ্ধ বন্ধে প্রথম ত্রিপক্ষীয় বৈঠকে রাশিয়া, ইউক্রেন ও যুক্তরাষ্ট্র",
+      "url": "https://www.prothomalo.com/world/otdivn71fy",
+      "published_at": "2026-01-23T19:13:25.056000+00:00",
+      "summary": "রাশিয়া–ইউক্রেন যুদ্ধকে দ্বিতীয় বিশ্বযুদ্ধের পর ইউরোপে সবচেয়ে প্রাণঘাতী যুদ্ধ বলা হচ্ছে। চলতি সপ্তাহেই রাশিয়ার হামলায় কিয়েভের বেশির ভাগ এলাকা বিদ্যুৎ–বিচ্ছিন্ন হয়ে পড়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-23/zt5vs0bz/ukr.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/zt5vs0bz/ukr.JPG?auto=format,compress"
+    },
     {
       "headline": "জগন্নাথ বিশ্ববিদ্যালয়ে ৩৭ পূজামণ্ডপে সরস্বতীপূজা উদ্‌যাপন",
       "url": "https://www.prothomalo.com/bangladesh/p0gsfjg513",
@@ -306,22 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/m2yqdu2j/GWyBSvbYAAq3ca.jpg?auto=format,compress"
     },
     {
-      "headline": "ধানের শীষেই উন্নয়ন: তারেক রহমান",
-      "url": "https://www.prothomalo.com/politics/w6c12nrtxf",
-      "published_at": "2026-01-23T15:25:17.267000+00:00",
-      "summary": "‘আমি আপনাদেরই সন্তান। এই এলাকায় বড় হয়েছি। তাই এই এলাকার মানুষের দুঃখ-কষ্ট, প্রত্যাশা ও সমস্যার দায় আমি নিতেই চাই,’ বলেছেন তারেক রহমান।",
-      "image_s3_key": "prothomalo-bangla/2026-01-23/40tfum9q/tariqur-rahman-bhasantek-230126-1.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/40tfum9q/tariqur-rahman-bhasantek-230126-1.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "শারমিন একাডেমি স্কুলে চার বছরের শিশু নির্যাতন: ব্যবস্থাপক কারাগারে",
-      "url": "https://www.prothomalo.com/video/bangladesh/o8dl8wpttp",
-      "published_at": "2026-01-23T15:17:21.054000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-23/akhiy4jz/CHILD-ABUSE-1080.00045924.Still003.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/akhiy4jz/CHILD-ABUSE-1080.00045924.Still003.jpg?auto=format,compress"
-    },
-    {
       "headline": "পুলিশ কর্মকর্তাদের কর্মস্থল ত্যাগ নিয়ে ‘কড়া’ নির্দেশনা",
       "url": "https://www.bd-pratidin.com/national/2026/01/23/1208382",
       "published_at": "2026-01-23T21:42:31+06:00",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/23/og/1769173865-bf9691b5543387dc701086a8b86d2b73.jpg"
     },
     {
+      "headline": "‘শান্তি পর্ষদে’ কানাডাকে দেওয়া আমন্ত্রণ প্রত্যাহার করে নিলেন ট্রাম্প",
+      "url": "https://www.ittefaq.com.bd/771606/%E2%80%98%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A6%E0%A7%87%E2%80%99-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%86%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0",
+      "published_at": null,
+      "summary": "ফিলিস্তিনের গাজার অন্তর্বর্তী প্রশাসন তদারকিতে গঠিত ‘বোর্ড অব পিস’ বা শান্তি পর্ষদে যোগ দেওয়ার জন্য কানাডাকে দেওয়া আমন্ত্রণ প্রত্যাহার করে নিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। সুইজারল্যান্ডের দাভোসে বিশ্ব অর্থনৈতিক ফোরামে (ডব্লিউইএফ) কানাডার প্রধানমন্ত্রী মার্ক কার্নির বক্তব্যের প্রতিক্রিয়ায় বৃহস্পতিবার এ সিদ্ধান্ত নেন তিনি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/497b931c674e1f1f32d745254d0544bf-6973be0c9390e.jpg"
+    },
+    {
       "headline": "একটি দল ভারতের সঙ্গে আপস করে বাংলাদেশকে বিক্রি করে দিতে চায়: তাহের",
       "url": "https://www.ittefaq.com.bd/771605/%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A6%B2-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%C2%A0%E0%A6%86%E0%A6%AA%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87",
       "published_at": null,
@@ -455,13 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/23/be55e683f786471e3acaf9f7f269b4aa-6973997976d98.jpg"
     },
     {
-      "headline": "অন্তত পাঁচটি বছর আমাদের পরীক্ষা করে দেখুন: জামায়াত আমির",
-      "url": "https://www.ittefaq.com.bd/771596/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%81%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4",
-      "published_at": null,
-      "summary": "জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান বলেছেন, আমরা কোনো বিভক্তি নয়, সাম্য ও ঐক্যের বার্তা নিয়ে আপনাদের দুয়ারে এসেছি অন্তত পাঁচটি বছর আমাদেরকে পরীক্ষা করে দেখুন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/23/c7277720d88b6b955e603284e08da39f-697398fbde70a.jpg"
-    },
-    {
       "headline": "সাংবাদিক ঐক্যের ডাক কতটা প্রাসঙ্গিক",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/c9zdcLhSYB8C/",
       "published_at": null,
@@ -481,6 +481,55 @@
       "published_at": null,
       "summary": "সুষ্ঠু, অবাধ ও নিরপেক্ষ নির্বাচন নিশ্চিত করা তাই কোনো দলের অনুগ্রহ নয়- এটি জনগণের অধিকার এবং রাষ্ট্রের অপরিহার্য কর্তব্য।",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "সাগরকন্যার অ্যাডভেঞ্চার",
+      "url": "https://dailynayadiganta.com/printed-edition/eNcFSjOLLbI9/",
+      "published_at": null,
+      "summary": "‘হ্যাঁ! তা হলেই কেবল আমি তোমার লেজের পরিবর্তে মানুষের মতো পা দিতে পারি। সেই পা দিয়ে তুমি হেঁটে হেঁটে রাজকুমারের কাছে যাবে। তবে তা মাত্র তিন দিনের জন্য। মনে রেখো, এই তিন দিন পার হলে তোমার পা আবার লেজে পরিণত হবে।’",
+      "image_url": "https://media.ndiganta.com/original_images/nittodin-1_SiNf3wT.jpg"
+    },
+    {
+      "headline": "নিজেকে বাঁচাতে কামড় দেয় ব্ল্যাক উইডো",
+      "url": "https://dailynayadiganta.com/printed-edition/Hzv6VpwnpS8P/",
+      "published_at": null,
+      "summary": "বলছি, ‘ব্ল্যাক উইডো’র কথা; দক্ষিণ আমেরিকার একটি বিষাক্ত মাকড়সা। শুধু স্ত্রী ব্ল্যাক উইডোই বিষাক্ত। পুরুষ মাকড়সার কামড়ে কোনো ক্ষতি হয় না। স্ত্রী মাকড়সার কামড় মানুষের জন্য খুবই বিষাক্ত। তবে এর কামড়ে মৃত্যুর ঘটনা বিরল। কারণ এরা কামড় দেয়ার সময় সামান্য পরিমাণ বিষ প্রয়োগ করে। বিষের পরিমাণ বেশি হলে মানুষের ক্ষেত্রে বড় ধরনের ক্ষতি হতে পারে। বয়স্কদের তুলনায় শিশুদের ক্ষেত্রে এ ক্ষতির পরিমাণ বেশি।",
+      "image_url": "https://media.ndiganta.com/original_images/nittodin-1_5Mde1JF.jpg"
+    },
+    {
+      "headline": "সাউথ পয়েন্ট স্কুল অ্যান্ড কলেজ বনানীর বার্ষিক ক্রীড়া প্রতিযোগিতা",
+      "url": "https://dailynayadiganta.com/printed-edition/CHpSNp7tEvRv/",
+      "published_at": null,
+      "summary": "খেলাধুলাসহ বিভিন্ন প্রতিযোগিতায় অংশগ্রহণের মাধ্যমে তুমি নিজেকে বুঝবে-জানবে এবং অধিকতর আত্মবিশ্বাসী এক নতুন নিজেকে খুঁজে পাবে। মনে রাখবে লেখাপড়ার পাশাপাশি নিয়মিত খেলাধুলায় অংশগ্রহণের ফলে তোমার মধ্যে কর্মস্পৃহা ও উদ্দীপনা বৃদ্ধি পাবে।গত ২০ জানুয়ারি সাউথ পয়েন্ট স্কুল অ্যান্ড কলেজ, বনানী ক্যাম্পাসের বার্ষিক ক্রীড়া প্রতিযোগিতা ২০২৬-এর উদ্বোধনী অনুষ্ঠানে প্রধান অতিথির বক্তব্যে এসব কথা বলেন প্রতিষ্ঠানটির গভর্নিং বডির সদস্য মিসেস মনিমুন নাহার। রাজধানীর বনানীতে অনুষ্ঠিত এ অনুষ্ঠানে সভাপতিত্ব করেন প্রতিষ্ঠানটির অধ্যক্ষ কর্নেল ড. ই. এম. মোরশেদ আলম (অব.)। ব্যান্ডের তালে তালে শৃঙ্খলাবদ্ধ প্যারেডের পর শিক্ষার্থীদের অংশগ্রহণে বিভিন্ন আকর্ষণীয় ডিসপ্লে পরিবেশিত হয়। বক্তব্য পর্বে প্রতিযোগিদের শুভকামনা জানিয়ে প্রধান অতিথি ও বিশেষ অতিথির বক্তব্য রাখেন যথাক্রমে মিসেস মনিমুন নাহার ও ইঞ্জিনিয়ার এম. এ. রশিদ ফাউন্ডেশনের সদস্য মিসেস এনামুন নাহার ও আতিনা রশিদ। সভাপতির বক্তব্যে অধ্যক্ষ কর্নেল ড. ই. এম. মোরশেদ আলম  (অব.) অনুষ্ঠানে অংশগ্রহণের জন্য সবাইকে ধন্যবাদ জানিয়ে খেলাধুলা শারীরিক ও মানসিক সুস্থতাসহ ক্যারিয়ার তথা জীবন গঠনে কিভাবে ভূমিকা রাখে তা ব্যাখ্যা করেন। দিনব্যাপী এ আয়োজনে শ্রেণী ও বয়সভিত্তিক বিভিন্ন দৌড় প্রতিযোগিতা এবং ‘যেমন খুশি তেমন সাজো’-সহ নানা ধরনের খেলাধুলা অনুষ্ঠিত হয়। অনুষ্ঠানে সাউথ পয়েন্টের মালিবাগ ক্যাম্পাসের অধ্যক্ষ কর্নেল মো. শামসুল আলম, পিএসসি (অব.), বারিধারা ক্যাম্পাসের অধ্যক্ষ এয়ার কমডর কাজী আব্দুল মঈন (অব.), উত্তরা ক্যাম্পাসের অধ্যক্ষ গ্রুপ ক্যাপ্টেন কর্নেল মো. জাহাঙ্গীর আলম তালুকদার, পিএসসি (অব.), মিরপুর ক্যাম্পাসের অধ্যক্ষ লে. কর্নেল মো. জাহাঙ্গীর আলম (অব.), শ্যামপুর ক্যাম্পাসের অধ্যক্ষ নাজমুল হক সিকদার এবং প্রধান অর্থ কর্মকর্তা মো. সাখাওয়াত উল্লাসহ শিক্ষক, কর্মকর্তা ও কর্মচারীরা উপস্থিত ছিলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/sy-4_gc8Vqet.jpg"
+    },
+    {
+      "headline": "এইচএসসি পরীক্ষার প্রস্তুতি : হিসাববিজ্ঞান প্রথম পত্র",
+      "url": "https://dailynayadiganta.com/printed-edition/PCasZ22aUWAy/",
+      "published_at": null,
+      "summary": "সুপ্রিয় এইচএসসি পরীক্ষার শিক্ষার্থী বন্ধুরা, শুভেচ্ছা নিও। আজ তোমাদের হিসাববিজ্ঞান প্রথম পত্র  বিষয়ের ‘প্রথম অধ্যায় : হিসাববিজ্ঞান পরিচিতি’ থেকে আরো  ১১টি বহুনির্বাচনী প্রশ্ন ও উত্তর নিয়ে আলোচনা করা হলো।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "২০২৬ সালের এসএসসি পরীক্ষার প্রস্তুতি : পদার্থবিজ্ঞান",
+      "url": "https://dailynayadiganta.com/printed-edition/7vifjKClyXs7/",
+      "published_at": null,
+      "summary": "সিনিয়র শিক্ষক, সরকারি বিজ্ঞান কলেজ সংযুক্ত হাইস্কুল, তেজগাঁও, ঢাকা",
+      "image_url": "https://media.ndiganta.com/original_images/sy-3_rjja4sc.jpg"
+    },
+    {
+      "headline": "এসএসসি পরীক্ষার প্রস্তুতি : বাংলা প্রথম পত্র",
+      "url": "https://dailynayadiganta.com/printed-edition/BzIoIdc8hMni/",
+      "published_at": null,
+      "summary": "সিনিয়র শিক্ষক (বাংলা বিভাগ), বনানী বিদ্যানিকেতন স্কুল অ্যান্ড কলেজ, বনানী, ঢাকা।",
+      "image_url": "https://media.ndiganta.com/original_images/sy-2_OXjD9oA.jpg"
+    },
+    {
+      "headline": "এসএসসি পরীক্ষার প্রস্তুতি : রসায়ন",
+      "url": "https://dailynayadiganta.com/printed-edition/eyBOsHuwFYtI/",
+      "published_at": null,
+      "summary": "ষষ্ঠ অধ্যায় : মোলের ধারণা ও রাসায়নিক গণনা",
+      "image_url": "https://media.ndiganta.com/original_images/sy-1_4aUWr8r.jpg"
     },
     {
       "headline": "মান্দায় নিজ ইউনিয়নে জনসভা দিয়ে ১০ দলীয় জোট প্রার্থীর প্রচারণা শুরু",
@@ -535,7 +584,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 24, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "কিশোরগঞ্জ-৪ (ইটনা-মিঠামইন-অষ্টগ্রাম) আসনে নির্বাচনি জনসভায় চেয়ারে বসাকে কেন্দ্র করে বিএনপি ও যুবদলের নেতাকর্মীদের মধ্যে ব্যাপক সংঘর্ষের ঘটনা ঘটেছে। ...",
+      "summary": "পটুয়াখালীর রাঙ্গাবালী উপজেলা কৃষক লীগের সাবেক সভাপতি শাহ আলম মাস্টারসহ আওয়ামী লীগ ও সহযোগী সংগঠনের অন্তত ৩০ জন নেতাকর্মী বিএনপিতে ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -544,6 +593,29 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ধানের শীষেই উন্নয়ন: তারেক রহমান",
+      "url": "https://www.prothomalo.com/politics/w6c12nrtxf",
+      "published_at": "2026-01-23T15:25:17.267000+00:00",
+      "summary": "‘আমি আপনাদেরই সন্তান। এই এলাকায় বড় হয়েছি। তাই এই এলাকার মানুষের দুঃখ-কষ্ট, প্রত্যাশা ও সমস্যার দায় আমি নিতেই চাই,’ বলেছেন তারেক রহমান।",
+      "image_s3_key": "prothomalo-bangla/2026-01-23/40tfum9q/tariqur-rahman-bhasantek-230126-1.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/40tfum9q/tariqur-rahman-bhasantek-230126-1.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "শারমিন একাডেমি স্কুলে চার বছরের শিশু নির্যাতন: ব্যবস্থাপক কারাগারে",
+      "url": "https://www.prothomalo.com/video/bangladesh/o8dl8wpttp",
+      "published_at": "2026-01-23T15:17:21.054000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-23/akhiy4jz/CHILD-ABUSE-1080.00045924.Still003.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/akhiy4jz/CHILD-ABUSE-1080.00045924.Still003.jpg?auto=format,compress"
+    },
+    {
+      "headline": "অন্তত পাঁচটি বছর আমাদের পরীক্ষা করে দেখুন: জামায়াত আমির",
+      "url": "https://www.ittefaq.com.bd/771596/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%81%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4",
+      "published_at": null,
+      "summary": "জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান বলেছেন, আমরা কোনো বিভক্তি নয়, সাম্য ও ঐক্যের বার্তা নিয়ে আপনাদের দুয়ারে এসেছি অন্তত পাঁচটি বছর আমাদেরকে পরীক্ষা করে দেখুন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/23/c7277720d88b6b955e603284e08da39f-697398fbde70a.jpg"
     },
     {
       "headline": "যদি ঘোষণা দিই, ঢাকা শহরে জামায়াতের প্রার্থী রাস্তায় নামতে পারবে না: ইশরাক",
@@ -1415,81 +1487,6 @@
       "published_at": null,
       "summary": "প্রভাবশালী শক্তির উচিত গাজাকে ভূ-রাজনৈতিক \r\nপ্রতিযোগিতার মঞ্চ বানানো বন্ধ করা। ন্যূনতম একটি বৈশ্বিক ঐকমত্যে পৌঁছাতে হবে, স্থায়ী যুদ্ধবিরতি, মানবিক সহায়তার নিশ্চয়তা, সব পক্ষের আইন ভঙ্গের জবাবদিহি, বন্দীদের মুক্তি ও বেসামরিক সুরক্ষা এবং ফিলিস্তিনি রাষ্ট্রত্বসহ একটি বাস্তব রাজনৈতিক পথরেখা। এর কম কিছু হলে সহিংসতা, চরমপন্থা ও আঞ্চলিক অস্থিতিশীলতার চক্র চলতে থাকবে। যদি মুসলিম সংখ্যাগরিষ্ঠ রাষ্ট্রগুলো গাজা ধ্বংস হতে থাকা অবস্থায় স্বার্থের রাজনীতি চালিয়ে যায়, তবে ইতিহাস শুধু সহিংসতার নায়কদের নয়, নীরব বা সুবিধাবাদী দর্শকদের কঠোরভাবে বিচার করবে। আর যদি বিশ্বশক্তিগুলো ফিলিস্তিনিদের দুর্ভোগকে ‘ব্যবস্থাপনাযোগ্য’ \r\nবলে ধরে নেয়, তবে আন্তর্জাতিক ব্যবস্থার বিশ্বাসযোগ্যতা \r\nএকে একে ধ্বংসপ্রাপ্ত নগরের মতো ভেঙে পড়বে",
       "image_url": "https://media.ndiganta.com/original_images/Rokon_Uddin_FVxYDab.jpg"
-    },
-    {
-      "headline": "জাতীয় নির্বাচন ২০২৬ : মূল চ্যালেঞ্জগুলো",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/zFZsLnyUUOlF/",
-      "published_at": null,
-      "summary": "সরকার এবং নির্বাচন কমিশনের সদিচ্ছাতেই কেবল সুষ্ঠু নির্বাচন সম্ভব হবে না। সব দলকে একটি সুষ্ঠু-নিরপেক্ষ নির্বাচনের সদিচ্ছা গ্রহণ করতে হবে। অন্যথায় একটি নির্বাচনের মাধ্যমে একটি দল ক্ষমতায় আসবে ঠিক, কিন্তু আবারো ফ্যাসিবাদ ফিরে আসার শঙ্কা থেকেই যাবে। মনে রাখতে হবে, ফ্যাসিবাদী গোষ্ঠী ক্ষমতাচ্যুত হলেও কাঠামো পুরোটা রয়ে গেছে। এ কাঠামোতে আবার ফ্যাসিস্ট হয়ে ওঠার সব উপাদান বিদ্যমান রয়েছে। তবে ৫ আগস্ট এদেশের তরুণ প্রজন্মকে প্রতিবাদ করার পদ্ধতি শিখিয়েছে। তারা যেকোনো মূল্যে অন্যায়ের বিরুদ্ধে দাঁড়াতে শিখেছে। কাজেই অন্যায় প্রক্রিয়ায় এবার কারো ক্ষমতায় যাওয়া সম্ভব হবে বলে মনে হয় না।",
-      "image_url": "https://media.ndiganta.com/original_images/Maksudul_Haque_k1yDtDy.jpg"
-    },
-    {
-      "headline": "মেহেরপুর শহরে চাঞ্চল্যকর গৃহবধূ হত্যার ঘটনায় আটক ৩",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/vJDa4Jb8NPKg/",
-      "published_at": null,
-      "summary": "‘গত ৩০ ডিসেম্বর রাতে পূর্বপরিকল্পনা অনুযায়ী শীতল তার বন্ধু অমরকে দিয়ে প্রতিবেশী ভাবি টগর খাতুনকে নিজ বাসায় ডেকে নিয়ে আসেন। এ সময় আগে থেকেই আরেক বন্ধু তানভীর শীতলের বাসভবনে অবস্থান করেন। টগর বাসায় প্রবেশ করলে শীতল ও তানভীর একটি রশি দিয়ে টগর খাতুনের গলায় ফাঁস লাগিয়ে তাকে হত্যা করে। পরে লাশ গুম করার জন্য প্লাস্টিকের বস্তায় নিহত টগরকে ভরে বাসার ছাদে নিয়ে গিয়ে পাশের পরিত্যক্ত জমিতে ছাদ থেকে ফেলে দেয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Meherpur-Thana.gif"
-    },
-    {
-      "headline": "বেসরকারিভাবে দেশে প্রথম দাঁতের পূর্ণাঙ্গ হাসপাতাল চালু",
-      "url": "https://dailynayadiganta.com/bangladesh/health/52IIrfWzBzMy/",
-      "published_at": null,
-      "summary": "‘ইনডোর এবং আউটডোর সেবাসহ আইসিইউ সুবিধা থাকবে এ হাসপাতালে। শতাধিক চিকিৎসকের সমন্বয়ে গঠিত এ হাসপাতালে ডেন্টিস্ট্রির সব বিভাগের দক্ষ এবং বিশেষজ্ঞ চিকিৎসকরা সেবা দেবেন।’",
-      "image_url": "https://media.ndiganta.com/original_images/ADM.jpg"
-    },
-    {
-      "headline": "বাহাত্তরের সংবিধানই দেশে ফ্যাসিবাদ তৈরির আঁতুরঘর : ফারুক ওয়াসিফ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/pdg1nMN5zHs8/",
-      "published_at": null,
-      "summary": "রাজশাহী জেলার সাংবাদিকদের নিয়ে পিআইবি আয়োজিত নির্বাচনকালীন সাংবাদিকতা বিষয়ক দুই দিনব্যাপী প্রশিক্ষণ কর্মশালার সমাপনী অনুষ্ঠানে সভাপতির বক্তব্যে তিনি এসব কথা বলেন।",
-      "image_url": "https://media.ndiganta.com/original_images/PIB-Rajshahi.jpg"
-    },
-    {
-      "headline": "দেশের মানুষ সু-শাসন চায়, দুর্নীতি দেখতে চায় না : তারেক রহমান",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/S9htzLkEgzOv/",
-      "published_at": null,
-      "summary": "‘যারা সরকারে থাকবে তারা দেশের মানুষের সুখ-দুঃখের সমাধান করবে। যে স্বাধীনতা আমরা ৭১ সালে অর্জন করেছিলাম ২৪ সালে দেশের ছাত্র-জনতা ও জনগণ মিলে দেশের স্বাধীনতাকে রক্ষা করেছিল।’",
-      "image_url": "https://media.ndiganta.com/original_images/Tarek_Rahman.JPG"
-    },
-    {
-      "headline": "বিএনপি বনাম জামায়াত, প্রচারের শুরুতেই উত্তাপ",
-      "url": "https://www.prothomalo.com/video/bangladesh/n0l1aq8im4",
-      "published_at": "2026-01-23T11:42:12.655000+00:00",
-      "summary": "নির্বাচনী প্রচারে উত্তাপ ছড়াচ্ছে রাজনৈতিক দলগুলো",
-      "image_s3_key": "prothomalo-bangla/2026-01-23/q33cp565/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/q33cp565/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "দুদিন আগে কিনে দেওয়া মোটরসাইকেল নিয়ে বাজারে যাওয়ার পথে দুর্ঘটনায় তরুণ নিহত",
-      "url": "https://www.prothomalo.com/bangladesh/district/id03c9yj34",
-      "published_at": "2026-01-23T11:33:46.918000+00:00",
-      "summary": "বাড়ি থেকে মোটরসাইকেলে বাজারে যাওয়ার সময় রাস্তার পাশে রাখা ইটের সঙ্গে ধাক্কা লেগে ছিটকে পড়েন তরুণ। হাসপাতালে নেওয়ার পথে মৃত্যু হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-01-23/rjktdd6g/WhatsApp-Image-2026-01-23-at-5.28.39-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/rjktdd6g/WhatsApp-Image-2026-01-23-at-5.28.39-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "ছেলে এনসিপির প্রার্থী, বাবা ভোট চাইলেন বিএনপির জন্য",
-      "url": "https://www.prothomalo.com/bangladesh/district/rwpztywu1z",
-      "published_at": "2026-01-23T11:28:00.169000+00:00",
-      "summary": "ছেলে নির্বাচনে লড়ছেন জাতীয় নাগরিক পার্টির (এনসিপির) প্রতীক শাপলা কলি নিয়ে। তবে বাবা ভোট চাচ্ছেন ওই আসনের বিএনপির প্রার্থীর প্রতীক ধানের শীষের জন্য। লক্ষ্মীপুর–১ (রামগঞ্জ) আসনে এ চিত্র দেখা গেছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-23/7fbd8i1k/WhatsApp-Image-2026-01-23-at-4.48.05-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/7fbd8i1k/WhatsApp-Image-2026-01-23-at-4.48.05-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "কুমিল্লার রেললাইনে চট্টগ্রামের যুবকের গলাকাটা লাশ, পরিবারের দাবি পরিকল্পিত হত্যা",
-      "url": "https://www.prothomalo.com/bangladesh/district/gjy9dltzaf",
-      "published_at": "2026-01-23T11:23:47.134000+00:00",
-      "summary": "গলাকাটা ও হাত-পা বিচ্ছিন্ন অবস্থায় আবদুল আজিজের লাশ উদ্ধার হয়। সুরতহাল প্রতিবেদন তৈরির পর  লাশটি ময়নাতদন্তের জন্য কুমিল্লা মেডিকেল কলেজ হাসপাতালের মর্গে পাঠিয়েছে রেল পুলিশ।",
-      "image_s3_key": "prothomalo-bangla/2026-01-23/zayqsk2x/WhatsApp-Image-2026-01-23-at-5.06.40-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/zayqsk2x/WhatsApp-Image-2026-01-23-at-5.06.40-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "কেউ ভোট ডাকাতি করতে আসলে রুখে দিতে হবে: জামায়াতের আমির",
-      "url": "https://www.prothomalo.com/video/bangladesh/629kevhwz6",
-      "published_at": "2026-01-23T11:17:03.678000+00:00",
-      "summary": "কেউ ভোট ডাকাতি করতে আসলে রুখে দিতে হবে: জামায়াতের আমির",
-      "image_s3_key": "prothomalo-bangla/2026-01-23/44jf62h8/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/44jf62h8/WEB.jpg?auto=format,compress"
     }
   ]
 }
