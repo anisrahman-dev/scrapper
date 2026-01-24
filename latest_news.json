@@ -1,6 +1,46 @@
 {
-  "fetched_at": "2026-01-24T08:25:27.205238+00:00",
+  "fetched_at": "2026-01-24T08:53:41.549747+00:00",
   "stories": [
+    {
+      "headline": "আমরা যুবকদের বেকার ভাতা দেব না, দক্ষ হিসেবে গড়ে তুলব: জামায়াত আমির",
+      "url": "https://www.prothomalo.com/bangladesh/district/qc5t83bnsm",
+      "published_at": "2026-01-24T08:46:04.918000+00:00",
+      "summary": "আজ শনিবার বেলা ১১টায় গাইবান্ধার পলাশবাড়ী এসএম পাইলট উচ্চবিদ্যালয় মাঠে অনুষ্ঠিত জনসভায় প্রধান অতিথির বক্তব্য দেন বাংলাদেশ জামায়াতে ইসলামীর আমির শফিকুর রহমান",
+      "image_s3_key": "prothomalo-bangla/2026-01-24/v0i5t8yu/gaibandhadh059920260124img-20260124-wa0036.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/v0i5t8yu/gaibandhadh059920260124img-20260124-wa0036.jpg?auto=format,compress"
+    },
+    {
+      "headline": "দেশের জন্য আবু সাঈদের মতো বুক পেতে দিতে রাজি আছি: জামায়াত আমির",
+      "url": "https://www.prothomalo.com/video/bangladesh/2jt184gsn8",
+      "published_at": "2026-01-24T08:43:47.271000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-24/lif4qsmf/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/lif4qsmf/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ভারতের সঙ্গে চুক্তির কথা ভিত্তিহীন, এটা জামায়াতের অপপ্রচার: বিএনপি",
+      "url": "https://www.prothomalo.com/politics/mzrfrq7aaz",
+      "published_at": "2026-01-24T08:29:25.196000+00:00",
+      "summary": "মাহদী আমীন বলেন, জামায়াতের  প্রভাবশালী একজন নেতা ভারতের সঙ্গে বিএনপির চুক্তির যে দাবি করেছেন, তার পক্ষে তিনি কোনো প্রমাণ উপস্থাপন করতে পারেননি এবং পারবেনও না।",
+      "image_s3_key": "prothomalo-bangla/2026-01-24/u397w7zc/mahdi-amin-bnp-240126-.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/u397w7zc/mahdi-amin-bnp-240126-.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "চালকের দক্ষতায় যেভাবে ডাকাত দলের হাত থেকে রক্ষা পেলেন যাত্রীরা",
+      "url": "https://www.prothomalo.com/video/bangladesh/gptsx62szb",
+      "published_at": "2026-01-24T08:25:16.023000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-24/l42oc5vs/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/l42oc5vs/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বজ্রপাতের চরে আশ্রয়ছাউনি: জলবায়ু অভিযোজনের নতুন গল্প",
+      "url": "https://www.prothomalo.com/bangladesh/district/l8qa05ep0y",
+      "published_at": "2026-01-24T08:24:00+00:00",
+      "summary": "বিভিন্ন গ্রাম থেকে আসা কৃষকের জন্য কৃষকছাউনিটি এখন শুধু আশ্রয় নয়, কর্মদিবসের মাঝখানে একটু নিশ্চিন্ত বিরতিও।",
+      "image_s3_key": "prothomalo-bangla/2026-01-24/hk2gb8ow/KURIGRAM1.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/hk2gb8ow/KURIGRAM1.JPG?auto=format,compress"
+    },
     {
       "headline": "সাভারে সড়কে গাছ ফেলে ডাকাতির চেষ্টা, গাড়ির কাচ ভাঙচুর",
       "url": "https://www.prothomalo.com/bangladesh/district/7nu6mud1et",
@@ -282,51 +322,32 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08-23/jyrluyxc/Gazette.webp?auto=format,compress"
     },
     {
-      "headline": "আমগোরে ভোট দাও, মামলাও খাইতা ন, হামলাও খাইতা ন: নির্বাচনী সভায় বিএনপি নেতা",
-      "url": "https://www.prothomalo.com/bangladesh/district/x5c6clmq1m",
-      "published_at": "2026-01-24T05:15:45.637000+00:00",
-      "summary": "‘আমগোরে ভোট দাও, তোমরা মামলাও খাইতা ন, হামলাও খাইতা ন, এক ভাই হিসাবে চাইলাম। ধানের শীষে ভোট মারো, তোমরা তো আর জমাতে যাইতা ন।’",
-      "image_s3_key": "prothomalo-bangla/2026-01-24/jx55mbio/BNP-Leader.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/jx55mbio/BNP-Leader.jpg?auto=format,compress"
+      "headline": "বাংলাদেশের বিশ্বকাপ খেলার অধিকার কেড়ে নিচ্ছে আইসিসি: আসিফ নজরুল",
+      "url": "https://www.bd-pratidin.com/sports/2026/01/24/1208602",
+      "published_at": "2026-01-24T14:39:51+06:00",
+      "summary": "নিরাপত্তা ইস্যুতে ভারতে গিয়ে বিশ্বকাপ না খেলার সিদ্ধান্ত ঘিরে চলমান সংকটের মধ্যে এবার লাইভ টিভিতে মুখ খুলেছেন অন্তর্বর্তীকালীন সরকারের ক্রীড়া উপদেষ্টা আসিফ নজরুল।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769243988-93df0a2d20598f3ccd1e7266b12d818b.jpg"
     },
     {
-      "headline": "অপরূপ রাঙাচ্যাগার খোঁজে ",
-      "url": "https://www.prothomalo.com/bangladesh/environment/8ayt9hmp69",
-      "published_at": "2026-01-24T05:02:01.976000+00:00",
-      "summary": "রাঙাচ্যাগার আচরণ দেখে একেবার মনে হয় খুব লাজুক পাখি। মানুষকে ভয় করে এমনটাও মনে হয় না। তবে খুব সতর্ক। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-24/3of3tq2k/Bird-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/3of3tq2k/Bird-1.jpg?auto=format,compress"
+      "headline": "‘দেশ পরিচালনার দায়িত্ব পেলে শহীদ পরিবারের প্রতি অঙ্গীকার বাস্তবায়ন করবে বিএনপি’",
+      "url": "https://www.bd-pratidin.com/election/2026/01/24/1208600",
+      "published_at": "2026-01-24T14:35:44+06:00",
+      "summary": "বিএনপির যুগ্ম মহাসচিব ও নরসিংদী-১ (সদর) আসনের ধানের শীষের প্রার্থী খায়রুল কবির খোকন বলেছেন, আগামী দিনে জনগণ যদি বিএনপিকে দেশ পরিচালনার দায়িত্ব দেয়, তাহলে শহীদ পরিবারগুলোকে সর্বোচ্চ সম্মান ও রাষ্ট্রীয় সকল সুযোগ-সুবিধা নিশ্চিত করা হবে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769243742-bdefed127f2a4f9a0ac2f22a621946f0.jpg"
     },
     {
-      "headline": "‘জেমস বন্ড’ হতে চান রিজ আহমেদ, কিন্তু...",
-      "url": "https://www.prothomalo.com/entertainment/hollywood/k9fk6ydfw8",
-      "published_at": "2026-01-24T05:01:06.760000+00:00",
-      "summary": "রিজ আহমেদ এবার সরাসরি জেমস বন্ড হওয়ার ইচ্ছার কথা জানালেন। অভিনেতা জেমস বন্ড হওয়া নিয়ে কথা বলেছেন তাঁর অভিনীত নতুন সিরিজের সূত্র ধরেই।",
-      "image_s3_key": "prothomalo-bangla/2026-01-24/b1b4191z/922439-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/b1b4191z/922439-01-02.jpg?auto=format,compress"
+      "headline": "যুক্তরাষ্ট্রে সন্তানদের সামনেই স্ত্রীসহ চারজনকে গুলি করে হত্যা করলেন এক ভারতীয়",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/24/1208598",
+      "published_at": "2026-01-24T14:21:43+06:00",
+      "summary": "যুক্তরাষ্ট্রের জর্জিয়ায় নিজের স্ত্রীসহ চারজনকে গুলি করে হত্যা করেছেন এক ভারতীয়। পারিবারিক দ্বন্দ্ব থেকে এ হত্যাকাণ্ড ঘটানো হয়েছে বলে ধারণা করা হচ্ছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769242900-e15b102a9fe95b6fd79478afc8890b0c.jpg"
     },
     {
-      "headline": "গুগল ফটোজের নতুন ৪ সুবিধা",
-      "url": "https://www.prothomalo.com/technology/qetgwdfq5h",
-      "published_at": "2026-01-24T05:00:00+00:00",
-      "summary": "সম্প্রতি গুগল ফটোজে বেশ কিছু এআইচালিত সুবিধা যুক্ত হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2025-06-29/c3xf1dnq/google_photos_google.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-29/c3xf1dnq/google_photos_google.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ফরিদপুরে অবৈধ আগ্নেয়াস্ত্র তৈরির কারখানায় অভিযান, একজন গ্রেপ্তার",
-      "url": "https://www.prothomalo.com/bangladesh/district/2wly3f8u31",
-      "published_at": "2026-01-24T04:57:37.409000+00:00",
-      "summary": "গোয়েন্দা তথ্যে জানা যায়, বাদল সরকার নিজস্ব কারখানায় নিয়মিতভাবে অস্ত্র তৈরি করতেন এবং এসব অস্ত্র ফরিদপুরের বিভিন্ন এলাকার দুর্বৃত্তদের কাছে সরবরাহ করা হতো।",
-      "image_s3_key": "prothomalo-bangla/2026-01-24/7n35i3up/ChatGPT-Image-Jan-24-2026-105521-AM.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/7n35i3up/ChatGPT-Image-Jan-24-2026-105521-AM.png?auto=format,compress"
-    },
-    {
-      "headline": "জামায়াত স্বাধীনতার বিরোধিতা করেছিল: মির্জা ফখরুল",
+      "headline": "দাঁড়িপাল্লায় যারা ভোট চাচ্ছে তারা স্বাধীনতার বিপক্ষে ছিল: মির্জা ফখরুল",
       "url": "https://www.bd-pratidin.com/election/2026/01/24/1208597",
       "published_at": "2026-01-24T14:18:43+06:00",
-      "summary": "বিএনপি মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর বলেছেন, জামায়াত স্বাধীনতার বিরোধিতা করেছিল। একাত্তরে তাদের কর্মকাণ্ডের কারণে অনেক মানুষকে বাড়িঘর ছেড়ে পালাতে হয়েছিল এবং তারা লুটপাটেও জড়িত ছিল।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769242721-0c595576e6d6acb85df8d32f6d3599a0.jpg"
+      "summary": "বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর বলেছেন, দাঁড়িপাল্লা নিয়ে যারা আজ ভোট চাইছে, তারা বাংলাদেশের স্বাধীনতার বিরোধিতা করেছিল। তারা স্বাধীনতার পক্ষে ছিল না, ছিল বিপক্ষে। সে সময় আপনাদের বাড়িঘর ছেড়ে চলে যেতে হয়েছিল, লুটপাটও হয়েছিল।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769244292-98d8206631314f3dedbb57153da82ba8.jpg"
     },
     {
       "headline": "বগুড়ায় চিলেকোঠা সাহিত্য পরিষদের ৫০তম আড্ডা",
@@ -371,25 +392,25 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769233653-d7902e5103f75de47f47d7ec976b1b92.jpg"
     },
     {
-      "headline": "ইন্দোনেশিয়ায় পাহাড় ধসে নিহত ৭, নিখোঁজ ৮২",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/24/1208565",
-      "published_at": "2026-01-24T11:19:00+06:00",
-      "summary": "ইন্দোনেশিয়ার পশ্চিম জাভা প্রদেশে ভয়াবহ এক ভূমিধসের ঘটনায় অন্তত সাতজন নিহত হয়েছেন। ভূমিধসের এ ঘটনায় এখন পর্যন্ত নিখোঁজ রয়েছেন আরও ৮২ জন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769231937-c512980db799b0243a99c98e30712fcb.jpg"
+      "headline": "‘দাঁড়িপাল্লা মার্কা নিয়ে যে দল আসছে, তারা মুক্তিযুদ্ধের বিপক্ষে ছিল’",
+      "url": "https://www.ittefaq.com.bd/771662/%E2%80%98%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%A6%E0%A6%B2-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE",
+      "published_at": null,
+      "summary": "দাঁড়িপাল্লা মার্কা নিয়ে যে দলটি আজ ভোট চাইতে আসছে, ১৯৭১ সালে তারা মুক্তিযুদ্ধের বিপক্ষে ছিল- এমনটাই মন্তব্য করেছেন ঠাকুরগাঁও-১ আসনে বিএনপি মনোনীত ধানের শীষ প্রতীকের প্রার্থী এবং দলটির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/11513160b89687205f64a039f1388d7e-697483cbbc90e.jpg"
     },
     {
-      "headline": "ট্রাম্পের মন্তব্যের জবাবে যা বললেন প্রিন্স হ্যারি",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/24/1208556",
-      "published_at": "2026-01-24T10:33:30+06:00",
-      "summary": "আফগানিস্তান যুদ্ধে অংশ নেওয়া ন্যাটো সৈন্যদের নিয়ে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের মন্তেব্য প্রতিক্রিয়া জানিয়েছেন ব্রিটিশ রাজপুত্র প্রিন্স হ্যারি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769229207-11f99a111da52d3549d563eccba6b17c.jpg"
+      "headline": "‘সঠিক নিয়মে’ হিজাব না পরায় গ্রেপ্তার আফগান তরুণী, ১৩ দিন পর মুক্ত",
+      "url": "https://www.ittefaq.com.bd/771661/%E2%80%98%E0%A6%B8%E0%A6%A0%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE%E0%A7%87%E2%80%99-%E0%A6%B9%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%AC-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A7%80",
+      "published_at": null,
+      "summary": "‘সঠিক নিয়মে’ হিজাব না পরা, গান চালানো ও তার ব্যায়ামাগারে নারী–পুরুষ উভয়কে একসঙ্গে ব্যায়ামের সুযোগ দেওয়ার অভিযোগে গ্রেপ্তার হয়েছিলেন আফগান তরুণী তায়কোয়ান্দো কোচ খাদিজা। কারাগারে ১৩ দিন কাটিয়ে অবশেষে মুক্তি পেয়েছেন তিনি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/3ecede269cddd51c346191d33d5c0429-697482a8846cd.jpg"
     },
     {
-      "headline": "অপমানজনক মন্তব্য, ট্রাম্পকে ক্ষমা চাইতে বললেন ব্রিটিশ প্রধানমন্ত্রী",
-      "url": "https://www.bd-pratidin.com/international-news/2026/01/24/1208552",
-      "published_at": "2026-01-24T09:44:42+06:00",
-      "summary": "আফগানিস্তানে যুদ্ধ প্রসঙ্গে ন্যাটো সেনা নিয়ে মন্তব্যের জেরে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে ক্ষমা চাইতে বললেন ব্রিটিশ প্রধানমন্ত্রী কিয়ার স্টারমার।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769226280-fb31d78171f6f5767087ad03e990ad09.jpg"
+      "headline": "১০০তম গ্র্যান্ড স্ল্যাম ম্যাচে আলকারাজের জয়",
+      "url": "https://www.ittefaq.com.bd/771660/%E0%A7%A7%E0%A7%A6%E0%A7%A6%E0%A6%A4%E0%A6%AE-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1-%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%87-%E0%A6%86%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%AF%E0%A6%BC",
+      "published_at": null,
+      "summary": "১০০তম গ্র্যান্ড স্ল্যাম লড়াইয়ে দুর্দান্ত ছিলেন কার্লোস আলকারাজ। এই স্প্যানিশ তারকা রড লেভার অ্যারেনায় আবারও প্রমাণ করেছেন তিনি কেন সেরাদের সেরা। তিন সেটের খেলায় ৬-২, ৬-৪, ৬-১ গেমে ফরাসি কোরেন্টিন মাউতেটকে হারিয়ে জয় করেছেন নিজের শততম গ্র্যান্ড স্ল্যাম ম্যাচ। পুরো খেলা জুড়ে ড্রপ-শট, টুইনার ও নিখুঁত পাসিং শটে দর্শকদের মুগ্ধ করে রাখেন স্প্যানিশ তারকা। মেলবোর্ন পার্কে প্রথম অস্ট্রেলিয়ান ওপেন শিরোপার খোঁজে নামা ২২ বছর বয়সী আলকারাজ চারটি গ্র্যান্ড স্ল্যাম জয়ের জন্য সর্বকনিষ্ঠ খেলোয়াড় হওয়ার পথে রয়েছেন এবং টুর্নামেন্টের প্রথম সপ্তাহে তাকে প্রায় অপ্রতিরোধ্যই মনে হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/24/db843a260c03cdba7f7a9ebf2eb8ee03-69748173687f3.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
     },
     {
       "headline": "অবিবাহিত তরুণ-তরুণীদের এইচআইভি সংক্রমণ বাড়ছে",
@@ -406,7 +427,7 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/dfc5499b8644c85e204e670727be0fab-69747cbd19dad.jpg"
     },
     {
-      "headline": "ট্রাম্পের কারণে বিশ্বকাপ বয়কট চান জার্মান ফুটবল অফিশিয়াল",
+      "headline": "ট্রাম্পের কারণে বিশ্বকাপ বয়কট চান জার্মান ফুটবল কর্মকর্তা",
       "url": "https://www.ittefaq.com.bd/771657/%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA-%E0%A6%AC%E0%A7%9F%E0%A6%95%E0%A6%9F-%E0%A6%9A%E0%A6%BE%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AC%E0%A6%B2",
       "published_at": null,
       "summary": "জার্মান ফুটবল ফেডারেশনের (ডিএফবি) নির্বাহী কমিটির সদস্য ওকে গটলিশ বলেছেন, যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের কর্মকাণ্ডের কারণে ২০২৬ বিশ্বকাপ বয়কটের বিষয়টি এখন গুরুত্বের সঙ্গে বিবেচনা করার সময় এসেছে।",
@@ -441,27 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/2a8b64d64837b118176f9f6f1d9f86e6-697476540d515.jpg"
     },
     {
-      "headline": "বুলবুলের ওপর ক্ষুব্ধ আইসিসির বোর্ড সদস্যরা",
-      "url": "https://www.ittefaq.com.bd/771652/%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%81%E0%A6%AC%E0%A7%8D%E0%A6%A7-%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A6%BE",
-      "published_at": null,
-      "summary": "নিরাপত্তা শঙ্কায় নিজেদের টি-টোয়েন্টি বিশ্বকাপ ভেন্যু ভারত থেকে সরিয়ে নিতে আইসিসিকে অনুরোধ করেছিল বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। তবে আইসিসি তা প্রত্যাখান করে। তবে নিজেদের সিদ্ধান্তে অনড় থাকে বিসিবি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/24/4cc6e80ad2d3d67ecc79991bf731a956-697474b8368b5.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-    },
-    {
-      "headline": "আফগান যুদ্ধে ন্যাটো সেনাদের নিয়ে ট্রাম্পের বিরূপ মন্তব্য, যুক্তরাজ্যের তীব্র ক্ষোভ",
-      "url": "https://www.ittefaq.com.bd/771651/%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%8B-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%82%E0%A6%AA",
-      "published_at": null,
-      "summary": "আফগান যুদ্ধে ন্যাটোর সদস্যদেশগুলোর সেনারা সম্মুখসমরে না থেকে নিরাপদ দূরত্বে ছিল—মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প-এর এমন মন্তব্যকে ‘অপমানজনক ও ভয়ানক’ বলে আখ্যা দিয়েছেন ব্রিটিশ প্রধানমন্ত্রী কিয়ার স্টারমার। শুক্রবার (২৩ জানুয়ারি) এক ভিডিও বার্তায় তিনি এই ক্ষোভ প্রকাশ করেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/612960607f263d7e7a44d78799e095d7-697473a9b5fa2.jpg"
-    },
-    {
-      "headline": "১২ ফেব্রুয়ারির মধ্যে আসা পোস্টাল ভোট গণনায় নেবে ইসি",
-      "url": "https://www.ittefaq.com.bd/771650/%E0%A7%A7%E0%A7%A8-%E0%A6%AB%E0%A7%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%BE-%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B2-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%97%E0%A6%A3%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A7%87%E0%A6%AC%E0%A7%87",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে এবারই প্রথম পোস্টাল ব্যালটে ভোটগ্রহণ শুরু করেছে নির্বাচন কমিশন (ইসি)। ইসি জানিয়েছে, নির্বাচনের দিন ১২ ফেব্রুয়ারি বিকাল সাড়ে ৪টার মধ্যে রিটার্নিং কর্মকর্তার কাছে পৌঁছানো পোস্টাল ভোটগুলোই শুধু গণনায় অন্তর্ভুক্ত হবে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/8adc68c0650b03d3cd03ed999b1e1ab3-6974709653ff2.jpg"
-    },
-    {
       "headline": "সাংবাদিক ঐক্যের ডাক কতটা প্রাসঙ্গিক",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/c9zdcLhSYB8C/",
       "published_at": null,
@@ -481,6 +481,13 @@
       "published_at": null,
       "summary": "সুষ্ঠু, অবাধ ও নিরপেক্ষ নির্বাচন নিশ্চিত করা তাই কোনো দলের অনুগ্রহ নয়- এটি জনগণের অধিকার এবং রাষ্ট্রের অপরিহার্য কর্তব্য।",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "ভাতা নয়, কাজ দিয়ে দেশ বেকারমুক্ত করা হবে : জামায়াত আমির",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/PVWDx3QLl2oA/",
+      "published_at": null,
+      "summary": "ভাতা নয়, কর্মসংস্থানের মাধ্যমে দেশকে বেকারমুক্ত করার প্রতিশ্রুতি দিয়ে গাইবান্ধার জনসভায় জামায়াত আমির ডা. শফিকুর রহমান কৃষির আধুনিকায়ন, ফসলের ন্যায্যমূল্য ও সংরক্ষণাগার গড়ে তোলার কথা বলেন। তিনি গণভোটে ‘হ্যাঁ’ ভোটের আহ্বান জানিয়ে জনবান্ধব, বৈষম্যহীন বাংলাদেশ গড়ার অঙ্গীকার করেন।",
+      "image_url": "https://media.ndiganta.com/original_images/gaibandha-jamaat.jpg"
     },
     {
       "headline": "দ্বিতীয় নির্বাচনী প্রচারাভিযানে রাতে চট্টগ্রামে যাচ্ছেন তারেক রহমান",
@@ -525,17 +532,10 @@
       "image_url": "https://media.ndiganta.com/original_images/koko.jpg"
     },
     {
-      "headline": "ভাঙ্গায় নিরাময় কেন্দ্রে নির্যাতনে যুবকের মৃত্যু, প্রতিষ্ঠান সিলগালা",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/MUbDKnsMiDx4/",
-      "published_at": null,
-      "summary": "ঘটনার পর ভাঙ্গা উপজেলার সহকারী কমিশনার (ভূমি) ও নির্বাহী ম্যাজিস্ট্রেট সাদরুল আলম সিয়ামের নেতৃত্বে পরিচালিত অভিযানে প্রতিষ্ঠানটি সিলগালা করে দিয়েছে প্রশাসন।",
-      "image_url": "https://media.ndiganta.com/original_images/Bhangga.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - January 24, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "গাজীপুরের কাপাসিয়ায় বিক্রির উদ্দেশ্যে রাতের আঁধারে ৮টি ঘোড়া জবাই করা হয়েছে। শনিবার (২৪ জানুয়ারি) মধ্যরাতে কাপাসিয়ার দুর্গাপুর ইউনিয়নের মাশক এলাকায় ...",
+      "summary": "সন্তান জন্মের পর মায়েদের মানসিক স্বাস্থ্য নিয়ে অনেক আলোচনা হলেও, নতুন বাবাদের মানসিক টানাপোড়েন বা ‘নিউ ড্যাড অ্যাংজাইটি’র বিষয়টি প্রায়ই ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -544,6 +544,95 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "আমগোরে ভোট দাও, মামলাও খাইতা ন, হামলাও খাইতা ন: নির্বাচনী সভায় বিএনপি নেতা",
+      "url": "https://www.prothomalo.com/bangladesh/district/x5c6clmq1m",
+      "published_at": "2026-01-24T05:15:45.637000+00:00",
+      "summary": "‘আমগোরে ভোট দাও, তোমরা মামলাও খাইতা ন, হামলাও খাইতা ন, এক ভাই হিসাবে চাইলাম। ধানের শীষে ভোট মারো, তোমরা তো আর জমাতে যাইতা ন।’",
+      "image_s3_key": "prothomalo-bangla/2026-01-24/jx55mbio/BNP-Leader.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/jx55mbio/BNP-Leader.jpg?auto=format,compress"
+    },
+    {
+      "headline": "অপরূপ রাঙাচ্যাগার খোঁজে ",
+      "url": "https://www.prothomalo.com/bangladesh/environment/8ayt9hmp69",
+      "published_at": "2026-01-24T05:02:01.976000+00:00",
+      "summary": "রাঙাচ্যাগার আচরণ দেখে একেবার মনে হয় খুব লাজুক পাখি। মানুষকে ভয় করে এমনটাও মনে হয় না। তবে খুব সতর্ক। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-24/3of3tq2k/Bird-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/3of3tq2k/Bird-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "‘জেমস বন্ড’ হতে চান রিজ আহমেদ, কিন্তু...",
+      "url": "https://www.prothomalo.com/entertainment/hollywood/k9fk6ydfw8",
+      "published_at": "2026-01-24T05:01:06.760000+00:00",
+      "summary": "রিজ আহমেদ এবার সরাসরি জেমস বন্ড হওয়ার ইচ্ছার কথা জানালেন। অভিনেতা জেমস বন্ড হওয়া নিয়ে কথা বলেছেন তাঁর অভিনীত নতুন সিরিজের সূত্র ধরেই।",
+      "image_s3_key": "prothomalo-bangla/2026-01-24/b1b4191z/922439-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/b1b4191z/922439-01-02.jpg?auto=format,compress"
+    },
+    {
+      "headline": "গুগল ফটোজের নতুন ৪ সুবিধা",
+      "url": "https://www.prothomalo.com/technology/qetgwdfq5h",
+      "published_at": "2026-01-24T05:00:00+00:00",
+      "summary": "সম্প্রতি গুগল ফটোজে বেশ কিছু এআইচালিত সুবিধা যুক্ত হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2025-06-29/c3xf1dnq/google_photos_google.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-29/c3xf1dnq/google_photos_google.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ফরিদপুরে অবৈধ আগ্নেয়াস্ত্র তৈরির কারখানায় অভিযান, একজন গ্রেপ্তার",
+      "url": "https://www.prothomalo.com/bangladesh/district/2wly3f8u31",
+      "published_at": "2026-01-24T04:57:37.409000+00:00",
+      "summary": "গোয়েন্দা তথ্যে জানা যায়, বাদল সরকার নিজস্ব কারখানায় নিয়মিতভাবে অস্ত্র তৈরি করতেন এবং এসব অস্ত্র ফরিদপুরের বিভিন্ন এলাকার দুর্বৃত্তদের কাছে সরবরাহ করা হতো।",
+      "image_s3_key": "prothomalo-bangla/2026-01-24/7n35i3up/ChatGPT-Image-Jan-24-2026-105521-AM.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/7n35i3up/ChatGPT-Image-Jan-24-2026-105521-AM.png?auto=format,compress"
+    },
+    {
+      "headline": "ইন্দোনেশিয়ায় পাহাড় ধসে নিহত ৭, নিখোঁজ ৮২",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/24/1208565",
+      "published_at": "2026-01-24T11:19:00+06:00",
+      "summary": "ইন্দোনেশিয়ার পশ্চিম জাভা প্রদেশে ভয়াবহ এক ভূমিধসের ঘটনায় অন্তত সাতজন নিহত হয়েছেন। ভূমিধসের এ ঘটনায় এখন পর্যন্ত নিখোঁজ রয়েছেন আরও ৮২ জন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769231937-c512980db799b0243a99c98e30712fcb.jpg"
+    },
+    {
+      "headline": "ট্রাম্পের মন্তব্যের জবাবে যা বললেন প্রিন্স হ্যারি",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/24/1208556",
+      "published_at": "2026-01-24T10:33:30+06:00",
+      "summary": "আফগানিস্তান যুদ্ধে অংশ নেওয়া ন্যাটো সৈন্যদের নিয়ে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের মন্তেব্য প্রতিক্রিয়া জানিয়েছেন ব্রিটিশ রাজপুত্র প্রিন্স হ্যারি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769229207-11f99a111da52d3549d563eccba6b17c.jpg"
+    },
+    {
+      "headline": "অপমানজনক মন্তব্য, ট্রাম্পকে ক্ষমা চাইতে বললেন ব্রিটিশ প্রধানমন্ত্রী",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/24/1208552",
+      "published_at": "2026-01-24T09:44:42+06:00",
+      "summary": "আফগানিস্তানে যুদ্ধ প্রসঙ্গে ন্যাটো সেনা নিয়ে মন্তব্যের জেরে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে ক্ষমা চাইতে বললেন ব্রিটিশ প্রধানমন্ত্রী কিয়ার স্টারমার।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/24/og/1769226280-fb31d78171f6f5767087ad03e990ad09.jpg"
+    },
+    {
+      "headline": "বুলবুলের ওপর ক্ষুব্ধ আইসিসির বোর্ড সদস্যরা",
+      "url": "https://www.ittefaq.com.bd/771652/%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%81%E0%A6%AC%E0%A7%8D%E0%A6%A7-%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A6%BE",
+      "published_at": null,
+      "summary": "নিরাপত্তা শঙ্কায় নিজেদের টি-টোয়েন্টি বিশ্বকাপ ভেন্যু ভারত থেকে সরিয়ে নিতে আইসিসিকে অনুরোধ করেছিল বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। তবে আইসিসি তা প্রত্যাখান করে। তবে নিজেদের সিদ্ধান্তে অনড় থাকে বিসিবি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/24/4cc6e80ad2d3d67ecc79991bf731a956-697474b8368b5.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
+    },
+    {
+      "headline": "আফগান যুদ্ধে ন্যাটো সেনাদের নিয়ে ট্রাম্পের বিরূপ মন্তব্য, যুক্তরাজ্যের তীব্র ক্ষোভ",
+      "url": "https://www.ittefaq.com.bd/771651/%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%8B-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%82%E0%A6%AA",
+      "published_at": null,
+      "summary": "আফগান যুদ্ধে ন্যাটোর সদস্যদেশগুলোর সেনারা সম্মুখসমরে না থেকে নিরাপদ দূরত্বে ছিল—মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প-এর এমন মন্তব্যকে ‘অপমানজনক ও ভয়ানক’ বলে আখ্যা দিয়েছেন ব্রিটিশ প্রধানমন্ত্রী কিয়ার স্টারমার। শুক্রবার (২৩ জানুয়ারি) এক ভিডিও বার্তায় তিনি এই ক্ষোভ প্রকাশ করেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/612960607f263d7e7a44d78799e095d7-697473a9b5fa2.jpg"
+    },
+    {
+      "headline": "১২ ফেব্রুয়ারির মধ্যে আসা পোস্টাল ভোট গণনায় নেবে ইসি",
+      "url": "https://www.ittefaq.com.bd/771650/%E0%A7%A7%E0%A7%A8-%E0%A6%AB%E0%A7%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%BE-%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B2-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%97%E0%A6%A3%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A7%87%E0%A6%AC%E0%A7%87",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে এবারই প্রথম পোস্টাল ব্যালটে ভোটগ্রহণ শুরু করেছে নির্বাচন কমিশন (ইসি)। ইসি জানিয়েছে, নির্বাচনের দিন ১২ ফেব্রুয়ারি বিকাল সাড়ে ৪টার মধ্যে রিটার্নিং কর্মকর্তার কাছে পৌঁছানো পোস্টাল ভোটগুলোই শুধু গণনায় অন্তর্ভুক্ত হবে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/8adc68c0650b03d3cd03ed999b1e1ab3-6974709653ff2.jpg"
+    },
+    {
+      "headline": "ভাঙ্গায় নিরাময় কেন্দ্রে নির্যাতনে যুবকের মৃত্যু, প্রতিষ্ঠান সিলগালা",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/MUbDKnsMiDx4/",
+      "published_at": null,
+      "summary": "ঘটনার পর ভাঙ্গা উপজেলার সহকারী কমিশনার (ভূমি) ও নির্বাহী ম্যাজিস্ট্রেট সাদরুল আলম সিয়ামের নেতৃত্বে পরিচালিত অভিযানে প্রতিষ্ঠানটি সিলগালা করে দিয়েছে প্রশাসন।",
+      "image_url": "https://media.ndiganta.com/original_images/Bhangga.jpg"
     },
     {
       "headline": "নবম শ্রেণির শিক্ষার্থীদের আবার রেজিস্ট্রেশনের সুযোগ",
@@ -1410,90 +1499,6 @@
       "published_at": "2026-01-23T19:30:55+06:00",
       "summary": "বিএনপির চেয়ারম্যান তারেক রহমান নির্বাসিত জীবনে দেশের কল্যাণের কথা ভেবেছেন বলে জানিয়েছেন দলটির স্থায়ী কমিটির সদস্য নজরুল ইসলাম খান।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/23/og/1769175051-39d035021d47d3701983e011fa9d4c75.jpg"
-    },
-    {
-      "headline": "কানাডাকে প্রথম বছরের মধ্যেই ‘খেয়ে ফেলবে’ চীন: ট্রাম্প",
-      "url": "https://www.ittefaq.com.bd/771619/%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%87-%E2%80%98%E0%A6%96%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%AC%E0%A7%87%E2%80%99-%E0%A6%9A%E0%A7%80%E0%A6%A8",
-      "published_at": null,
-      "summary": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প গ্রিনল্যান্ডে প্রস্তাবিত ‘গোল্ডেন ডোম’ ক্ষেপণাস্ত্র প্রতিরক্ষা প্রকল্প প্রত্যাখ্যান করায় কানাডার বিরুদ্ধে তীব্র ক্ষোভ প্রকাশ করেছেন। তিনি সতর্ক করে বলেছেন, যুক্তরাষ্ট্রের নিরাপত্তা কাঠামোর বদলে চীনের সঙ্গে ঘনিষ্ঠ সম্পর্ক বেছে নিলে এক বছরের মধ্যেই বেইজিং কানাডাকে ‘গ্রাস’ করতে পারে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/c72c33f516f9f7fe9a94be15a9d15bc6-69742f011e13e.jpg"
-    },
-    {
-      "headline": "সিলেট বিভাগের ১৯ আসনেই লড়াই হবে হাড্ডাহাড্ডি",
-      "url": "https://www.ittefaq.com.bd/771613/%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%AF-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87%E0%A6%87%C2%A0%E0%A6%B2%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BF",
-      "published_at": null,
-      "summary": "আসন্ন সংসদ নির্বাচনের আর মাত্র ২০ দিন বাকি। নির্বাচনকে সামনে রেখে প্রার্থীরা ভোট টানতে মরিয়া। সিলেট বিভাগের ১৯টি আসনের মধ্যে প্রায় আসনেই প্রতিদ্বন্দ্বিতাপূর্ণ নির্বাচন অনুষ্ঠিত হবে। প্রার্থীরা নানা কৌশলে ভোটারদের আকৃষ্ট করার চেষ্টা করছেন। প্রতিশ্রুতির ঢালিও খুলে দিচ্ছেন। এবার মূল নির্বাচনি লড়াই হবে বিএনপি-জামায়াতের প্রার্থীদের মধ্যে। অনেক জায়গায় বিএনপির বাধা বিদ্রোহী প্রার্থী। এদিকে ১৭ বছর পর একটি প্রতিদ্বন্দ্বিতাপূর্ণ নির্বাচনকে ঘিরে উত্তাপ ছড়াচ্ছে। মর্যাদার আসন সিলেট-১ আসন থেকে আনুষ্ঠানিক প্রচারণা শুরু করেছে বিএনপি। সেইসঙ্গে অন্যান্য রাজনৈতিক দলের প্রার্থী ও তাদের কর্মী-সমর্থকরা চষে বেড়াচ্ছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/cabdad2e46ab90ddb2b101d90fe38608-6973dac84fa82.jpg"
-    },
-    {
-      "headline": "জামায়াত-যুক্তরাষ্ট্র নীতিগত যোগাযোগ গভীর উদ্বেগের অশনিসংকেত: ফরহাদ মজহার",
-      "url": "https://www.ittefaq.com.bd/771612/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%97%E0%A6%A4-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%97%E0%A6%AD%E0%A7%80%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%97%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "বিশিষ্ট কবি ও চিন্তক ফরহাদ মজহার মন্তব্য করেছেন, জামায়াতে ইসলামীর সঙ্গে যুক্তরাষ্ট্রের নীতিগত যোগাযোগ বাংলাদেশের জন্য একটি গভীর উদ্বেগের বার্তা বহন করে। এই সম্পর্ককে তিনি ভবিষ্যত্ রাজনৈতিক পরিস্থিতির জন্য অশনি সংকেত হিসেবে অভিহিত করেছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/6e18a282a87de12e2bab50a7b66e6509-6973ccb3d6086.jpg"
-    },
-    {
-      "headline": "আইন থাকলেও বন্ধ হচ্ছে না শিক্ষার্থীদের শারীরিক নির্যাতন",
-      "url": "https://www.ittefaq.com.bd/771609/%E0%A6%86%E0%A6%87%E0%A6%A8-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%93-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0%E0%A6%BF%E0%A6%95",
-      "published_at": null,
-      "summary": "২০১১ সালে হাইকোর্ট শিশুদের শারীরিক শাস্তি দেওয়ার বিষয়টি বেআইনি এবং অসাংবিধানিক ঘোষণা করে। আর হাইকোর্টের নির্দেশনা অনুযায়ী দেশের সব শিক্ষাপ্রতিষ্ঠানে শিক্ষার্থীদের শারীরিক ও মানসিক শাস্তি দেওয়া সম্পূর্ণ নিষিদ্ধ করে একটি পরিপত্র জারি করে শিক্ষা মন্ত্রণালয়। কিন্তু তারপরও প্রায়ই ঘটছে শিক্ষাপ্রতিষ্ঠানে শিক্ষার্থী নির্যাতনের ঘটনা। রাজধানীর নামকরা একটি স্কুলে শিক্ষকের পিটুনিতে পঞ্চম শ্রেণির শিক্ষার্থীর পিঠের হাড় ভেঙে গেছে। বরিশালে শিক্ষকের মারধরে দাঁত ভাঙল এক শিক্ষার্থীর। রাজধানীর পল্টনে শারমিন একাডেমি নামে একটি কিন্ডারগার্টেন স্কুলে চার বছরের শিশু শিক্ষার্থীকে মারধর করেন দুই শিক্ষক, যার ভিডিও সামাজিক যোগাযোগ মাধ্যমে ভাইরাল হয়েছে। এদিকে বাড়ির কাজ না আনা, লিখতে-পড়তে ভুল করা, দুষ্টুমি করার মতো কারণে শিক্ষাপ্রতিষ্ঠানে শিশুকে দাঁড় করিয়ে রাখা, চুল টানা, কান মলা, সহপাঠীদের থেকে বিচ্ছিন্ন করে পাঠদানে বিরত রাখা, বকাঝকা করার মতো শাস্তি অহরহ দেওয়া হচ্ছে অধিকাংশ স্কুলে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/24/cd23502822ec87e2a9d6bd7d6c98b927-6973ce5875351.jpg"
-    },
-    {
-      "headline": "ভোটের পুরোনো হিসাব এবার বদলে যাবে: আসিফ মাহমুদ",
-      "url": "https://www.ittefaq.com.bd/771614/%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC%C2%A0%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87-%C2%A0%E0%A6%86%E0%A6%B8%E0%A6%BF%E0%A6%AB-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AE%E0%A7%81%E0%A6%A6",
-      "published_at": null,
-      "summary": "গণঅভ্যুত্থানের পর বাংলাদেশে এবারের নির্বাচনে ভোটের পুরোনো হিসাব-নিকাশ বদলে যাবে বলে দাবি করেছেন জাতীয় নাগরিক পার্টির (এনসিপি) মুখপাত্র আসিফ মাহমুদ সজীব ভূঁইয়া। আসিফ মাহমুদ বলেছেন, ‘বাংলাদেশে গণতন্ত্রের ইতিহাসে যে ইকুয়েশন ৫০-৫৫ বছর ধরে চলে আসছিল, সেই প্রতিটি ইকুয়েশন এবারের নির্বাচনে ভেঙে গেছে। ইতিমধ্যে আপনারা যদি রাস্তায় যান, বাজার করতে গেলে যে সবজিওয়ালা আছে, রিকশায় উঠলে যে রিকশাওয়ালা মামা আছেন, শিক্ষক-ছাত্র থেকে সব শ্রেণি, পেশা ও কমিউনিটির মানুষের সঙ্গে যখন আমরা কথা বলি, তখন আমরা সেই পলিটিক্যাল ডেমোগ্রাফি যে পরিবর্তন হয়েছে, সেটা উপলব্ধি করতে পারি। সুতরাং আগের গতানুগতিক হিসাব-নিকাশ যে অমুক দলের ৩০ শতাংশ, অমুক দলের ৪০ শতাংশ, সেই হিসাব এবার বাংলাদেশের জনগণ তাদের ভোটাধিকারের মধ্য দিয়ে বদলে দেবে।’",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/23/9f37f76885f26c43e4fa84661928c48a-6973999c2a24f.jpg"
-    },
-    {
-      "headline": "সাগরকন্যার অ্যাডভেঞ্চার",
-      "url": "https://dailynayadiganta.com/printed-edition/eNcFSjOLLbI9/",
-      "published_at": null,
-      "summary": "‘হ্যাঁ! তা হলেই কেবল আমি তোমার লেজের পরিবর্তে মানুষের মতো পা দিতে পারি। সেই পা দিয়ে তুমি হেঁটে হেঁটে রাজকুমারের কাছে যাবে। তবে তা মাত্র তিন দিনের জন্য। মনে রেখো, এই তিন দিন পার হলে তোমার পা আবার লেজে পরিণত হবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/nittodin-1_SiNf3wT.jpg"
-    },
-    {
-      "headline": "নিজেকে বাঁচাতে কামড় দেয় ব্ল্যাক উইডো",
-      "url": "https://dailynayadiganta.com/printed-edition/Hzv6VpwnpS8P/",
-      "published_at": null,
-      "summary": "বলছি, ‘ব্ল্যাক উইডো’র কথা; দক্ষিণ আমেরিকার একটি বিষাক্ত মাকড়সা। শুধু স্ত্রী ব্ল্যাক উইডোই বিষাক্ত। পুরুষ মাকড়সার কামড়ে কোনো ক্ষতি হয় না। স্ত্রী মাকড়সার কামড় মানুষের জন্য খুবই বিষাক্ত। তবে এর কামড়ে মৃত্যুর ঘটনা বিরল। কারণ এরা কামড় দেয়ার সময় সামান্য পরিমাণ বিষ প্রয়োগ করে। বিষের পরিমাণ বেশি হলে মানুষের ক্ষেত্রে বড় ধরনের ক্ষতি হতে পারে। বয়স্কদের তুলনায় শিশুদের ক্ষেত্রে এ ক্ষতির পরিমাণ বেশি।",
-      "image_url": "https://media.ndiganta.com/original_images/nittodin-1_5Mde1JF.jpg"
-    },
-    {
-      "headline": "সাউথ পয়েন্ট স্কুল অ্যান্ড কলেজ বনানীর বার্ষিক ক্রীড়া প্রতিযোগিতা",
-      "url": "https://dailynayadiganta.com/printed-edition/CHpSNp7tEvRv/",
-      "published_at": null,
-      "summary": "খেলাধুলাসহ বিভিন্ন প্রতিযোগিতায় অংশগ্রহণের মাধ্যমে তুমি নিজেকে বুঝবে-জানবে এবং অধিকতর আত্মবিশ্বাসী এক নতুন নিজেকে খুঁজে পাবে। মনে রাখবে লেখাপড়ার পাশাপাশি নিয়মিত খেলাধুলায় অংশগ্রহণের ফলে তোমার মধ্যে কর্মস্পৃহা ও উদ্দীপনা বৃদ্ধি পাবে।গত ২০ জানুয়ারি সাউথ পয়েন্ট স্কুল অ্যান্ড কলেজ, বনানী ক্যাম্পাসের বার্ষিক ক্রীড়া প্রতিযোগিতা ২০২৬-এর উদ্বোধনী অনুষ্ঠানে প্রধান অতিথির বক্তব্যে এসব কথা বলেন প্রতিষ্ঠানটির গভর্নিং বডির সদস্য মিসেস মনিমুন নাহার। রাজধানীর বনানীতে অনুষ্ঠিত এ অনুষ্ঠানে সভাপতিত্ব করেন প্রতিষ্ঠানটির অধ্যক্ষ কর্নেল ড. ই. এম. মোরশেদ আলম (অব.)। ব্যান্ডের তালে তালে শৃঙ্খলাবদ্ধ প্যারেডের পর শিক্ষার্থীদের অংশগ্রহণে বিভিন্ন আকর্ষণীয় ডিসপ্লে পরিবেশিত হয়। বক্তব্য পর্বে প্রতিযোগিদের শুভকামনা জানিয়ে প্রধান অতিথি ও বিশেষ অতিথির বক্তব্য রাখেন যথাক্রমে মিসেস মনিমুন নাহার ও ইঞ্জিনিয়ার এম. এ. রশিদ ফাউন্ডেশনের সদস্য মিসেস এনামুন নাহার ও আতিনা রশিদ। সভাপতির বক্তব্যে অধ্যক্ষ কর্নেল ড. ই. এম. মোরশেদ আলম  (অব.) অনুষ্ঠানে অংশগ্রহণের জন্য সবাইকে ধন্যবাদ জানিয়ে খেলাধুলা শারীরিক ও মানসিক সুস্থতাসহ ক্যারিয়ার তথা জীবন গঠনে কিভাবে ভূমিকা রাখে তা ব্যাখ্যা করেন। দিনব্যাপী এ আয়োজনে শ্রেণী ও বয়সভিত্তিক বিভিন্ন দৌড় প্রতিযোগিতা এবং ‘যেমন খুশি তেমন সাজো’-সহ নানা ধরনের খেলাধুলা অনুষ্ঠিত হয়। অনুষ্ঠানে সাউথ পয়েন্টের মালিবাগ ক্যাম্পাসের অধ্যক্ষ কর্নেল মো. শামসুল আলম, পিএসসি (অব.), বারিধারা ক্যাম্পাসের অধ্যক্ষ এয়ার কমডর কাজী আব্দুল মঈন (অব.), উত্তরা ক্যাম্পাসের অধ্যক্ষ গ্রুপ ক্যাপ্টেন কর্নেল মো. জাহাঙ্গীর আলম তালুকদার, পিএসসি (অব.), মিরপুর ক্যাম্পাসের অধ্যক্ষ লে. কর্নেল মো. জাহাঙ্গীর আলম (অব.), শ্যামপুর ক্যাম্পাসের অধ্যক্ষ নাজমুল হক সিকদার এবং প্রধান অর্থ কর্মকর্তা মো. সাখাওয়াত উল্লাসহ শিক্ষক, কর্মকর্তা ও কর্মচারীরা উপস্থিত ছিলেন।",
-      "image_url": "https://media.ndiganta.com/original_images/sy-4_gc8Vqet.jpg"
-    },
-    {
-      "headline": "এইচএসসি পরীক্ষার প্রস্তুতি : হিসাববিজ্ঞান প্রথম পত্র",
-      "url": "https://dailynayadiganta.com/printed-edition/PCasZ22aUWAy/",
-      "published_at": null,
-      "summary": "সুপ্রিয় এইচএসসি পরীক্ষার শিক্ষার্থী বন্ধুরা, শুভেচ্ছা নিও। আজ তোমাদের হিসাববিজ্ঞান প্রথম পত্র  বিষয়ের ‘প্রথম অধ্যায় : হিসাববিজ্ঞান পরিচিতি’ থেকে আরো  ১১টি বহুনির্বাচনী প্রশ্ন ও উত্তর নিয়ে আলোচনা করা হলো।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "মান্দায় নিজ ইউনিয়নে জনসভা দিয়ে ১০ দলীয় জোট প্রার্থীর প্রচারণা শুরু",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/JODILfViYgPN/",
-      "published_at": null,
-      "summary": "নওগাঁর মান্দা উপজেলায় নিজ ইউনিয়নে জনসভার মাধ্যমে আনুষ্ঠানিকভাবে নির্বাচনী প্রচারণা শুরু করেছেন নওগাঁ-৪ (মান্দা) আসনে ১০ দলীয় নির্বাচনী ঐক্য সমর্থিত ও বাংলাদেশ জামায়াতে ইসলামী মনোনীত এমপি প্রার্থী খন্দকার আব্দুর রাকিব।",
-      "image_url": "https://media.ndiganta.com/original_images/Manda_UYGhP5w.jpg"
-    },
-    {
-      "headline": "মোহনগঞ্জে ২৮টি নির্বাচনী সভায় ধানের শীষে ভোট চান লুৎফুজ্জামান বাবর",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/T61NLklT4Yoq/",
-      "published_at": null,
-      "summary": "নেত্রকোণা-৪ (মদন-মোহনগঞ্জ-খালিয়াজুড়ি) আসনে ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বাংলাদেশ জাতীয়তাবাদী দলের (বিএনপি) প্রার্থী সাবেক স্বরাষ্ট্র প্রতিমন্ত্রী লুৎফুজ্জামান বাবর ধানের শীষ প্রতীকে ভোট চেয়ে প্রচারণা চালাচ্ছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Babar_fi8xyKA.jpg"
-    },
-    {
-      "headline": "উলিপুরে বিদ্যুৎস্পৃষ্ট হয়ে যুবকের মৃত্যু",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/zkZ9QCDspZzD/",
-      "published_at": null,
-      "summary": "কুড়িগ্রামের উলিপুরে বিদ্যুৎস্পৃষ্ট হয়ে লক্ষণ রায় (২৫) নামে এক যুবকের মৃত্যু হয়েছে। শুক্রবার (২৩ জানুয়ারি) দুপুরে উপজেলার বুড়াবুড়ি ইউনিয়নের দলবাড়ি দাসপাড়া এলাকায় এ ঘটনা ঘটে।",
-      "image_url": "https://media.ndiganta.com/original_images/death111_LvWCFha.jpg"
     }
   ]
 }
