@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-25T23:20:22.527760+00:00",
+  "fetched_at": "2026-01-25T23:45:35.749425+00:00",
   "stories": [
+    {
+      "headline": "নতুন করে একটি দল ষড়যন্ত্র শুরু করেছে",
+      "url": "https://www.prothomalo.com/politics/0wsxpt7tup",
+      "published_at": "2026-01-25T23:31:28.858000+00:00",
+      "summary": "তারেক রহমান বলেন, বিএনপির জনসভায় মানুষের স্বতঃস্ফূর্ত উপস্থিতি এবং ধানের শীষে ভোট দেওয়ার আগ্রহ দেখে অনেকের মাথা খারাপ হয়ে গেছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-25/2c75v3ki/tareq-n-one.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/2c75v3ki/tareq-n-one.jpeg?auto=format,compress"
+    },
     {
       "headline": "কেন্দ্র পাহারা দিয়ে বিজয় নিশ্চিত হওয়ার পর বাড়ি ফিরবেন",
       "url": "https://www.prothomalo.com/politics/l0c010tp11",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/cnbm68e5/KhulnaDH063020260123Khulna-Golam-23-2.JPG?auto=format,compress"
     },
     {
-      "headline": "কোনো কোনো দল আছে, দেশের মানুষকে ধোঁকা দিতে চায়: চৌদ্দগ্রামে তারেক রহমান",
-      "url": "https://www.prothomalo.com/bangladesh/district/ynd6l085dk",
-      "published_at": "2026-01-25T16:22:52.120000+00:00",
-      "summary": "রোববার রাতে কুমিল্লার চৌদ্দগ্রাম সদরের এইচ জে সরকারি পাইলট উচ্চবিদ্যালয় মাঠে নির্বাচনী সমাবেশে প্রধান অতিথির বক্তব্যে তারেক রহমান এ কথা বলেন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-25/qw9vjvu2/cumilladh175220260125img-20260125-wa0082-2.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/qw9vjvu2/cumilladh175220260125img-20260125-wa0082-2.jpg?auto=format,compress"
-    },
-    {
       "headline": "আমরা কি সম্পর্ককে গুরুত্ব দিচ্ছি",
       "url": "https://www.bd-pratidin.com/open-air-theater/2026/01/26/1209343",
       "published_at": "2026-01-26T00:45:29+06:00",
@@ -556,7 +556,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 26, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "কক্সবাজারের রামুতে দ্বিতীয় বিশ্বযুদ্ধের শক্তিশালী অবিস্ফোরিত বোমা উদ্ধার করা হয়েছে। এই বোমার ওপর দাঁড়িয়ে গত দেড় দশক ধরে স্থানীয়রা নিয়মিত ...",
+      "summary": "১০ দলীয় জোটের প্রার্থীকে সমর্থন দিয়ে নারায়ণগঞ্জ-৩ (সোনারগাঁও-সিদ্ধিরগঞ্জ) আসনের জামায়াত ইসলামীর প্রার্থী ড. ইকবাল হোসেন ভুঁইয়া নির্বাচন থেকে সরে দাঁড়ানোর ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -565,6 +565,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "কোনো কোনো দল আছে, দেশের মানুষকে ধোঁকা দিতে চায়: চৌদ্দগ্রামে তারেক রহমান",
+      "url": "https://www.prothomalo.com/bangladesh/district/ynd6l085dk",
+      "published_at": "2026-01-25T16:22:52.120000+00:00",
+      "summary": "রোববার রাতে কুমিল্লার চৌদ্দগ্রাম সদরের এইচ জে সরকারি পাইলট উচ্চবিদ্যালয় মাঠে নির্বাচনী সমাবেশে প্রধান অতিথির বক্তব্যে তারেক রহমান এ কথা বলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-25/qw9vjvu2/cumilladh175220260125img-20260125-wa0082-2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/qw9vjvu2/cumilladh175220260125img-20260125-wa0082-2.jpg?auto=format,compress"
     },
     {
       "headline": "ব্রাহ্মণবাড়িয়ার কয়েকটি এলাকায় আজ গ্যাস থাকবে না",
@@ -1492,14 +1500,6 @@
       "summary": "শীতার্ত মানুষের সহায়তায় এগিয়ে আসতে পারেন আপনিও। সহায়তা পাঠানো যাবে ব্যাংক ও বিকাশের মাধ্যমে।",
       "image_s3_key": "prothomalo-bangla/2026-01-25/13y3zh94/BholaDH059220260125bhola-kambol-2.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/13y3zh94/BholaDH059220260125bhola-kambol-2.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ভোটের বাক্সে দুর্বৃত্তরা হাত দিলে, সেই হাত গুঁড়িয়ে দেওয়া হবে: জামায়াত আমির",
-      "url": "https://www.prothomalo.com/video/bangladesh/d4chi3o1g9",
-      "published_at": "2026-01-25T13:14:28.634000+00:00",
-      "summary": "ভোটের বাক্সে দুর্বৃত্তরা হাত দিলে, সেই হাত গুঁড়িয়ে দেওয়া হবে: জামায়াত আমির",
-      "image_s3_key": "prothomalo-bangla/2026-01-25/w45o704x/Web.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/w45o704x/Web.jpg?auto=format,compress"
     }
   ]
 }
