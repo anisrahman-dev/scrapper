@@ -1,6 +1,46 @@
 {
-  "fetched_at": "2026-01-25T18:27:50.189442+00:00",
+  "fetched_at": "2026-01-25T18:56:34.364497+00:00",
   "stories": [
+    {
+      "headline": "চাঁদাবাজি নিয়ে ডাকসুর নেতারা ও ছাত্রদলের পাল্টাপাল্টি অভিযোগ, তদন্তে কমিটি গঠন",
+      "url": "https://www.prothomalo.com/bangladesh/qyd9mfq0fd",
+      "published_at": "2026-01-25T18:49:03.499000+00:00",
+      "summary": "ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাসে ছাত্রদলের চাঁদাবাজির অভিযোগ তুলে ধরতে ডাকসু নেতারা প্রজেক্টরের মাধ্যমে কয়েকটি ভিডিও উপস্থাপন করেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-25/yg7dx56j/projector.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/yg7dx56j/projector.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ভোট চাইতে গিয়ে কেন পরকালের প্রসঙ্গ আসছে, কী বলছেন বিশ্লেষকেরা",
+      "url": "https://www.prothomalo.com/video/bangladesh/ix7goz1pob",
+      "published_at": "2026-01-25T18:44:00.271000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-25/nbsgub1f/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/nbsgub1f/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "স্কয়ার ফুডের বিক্রয় সম্মেলনে নতুন পণ্য আনার ঘোষণা",
+      "url": "https://www.prothomalo.com/bangladesh/khlo0ohtc3",
+      "published_at": "2026-01-25T18:43:35.480000+00:00",
+      "summary": "বিক্রয় সম্মেলনে শিগগিরই কয়েকটি ক্যাটাগরিতে নতুন পণ্য বাজারে আনার আনুষ্ঠানিক ঘোষণা দেয় স্কয়ার ফুড অ্যান্ড বেভারেজ লিমিটেড।",
+      "image_s3_key": "prothomalo-bangla/2026-01-25/ey625gc0/Square-Food-BeverageImage.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/ey625gc0/Square-Food-BeverageImage.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আমরা কোনো চাপের কাছে মাথা নত করি না: থালাপতি বিজয়",
+      "url": "https://www.prothomalo.com/entertainment/bollywood/5nmw5m5cxz",
+      "published_at": "2026-01-25T18:30:00+00:00",
+      "summary": "বিজয় আজ রোববার তামিলনাড়ুর মহাবালিপুরমে রাজ্য ও জেলা স্তরের নির্বাহী ক্যাডারদের নিয়ে এক পরামর্শ সভায় তিনি এ কথা বলেন।",
+      "image_s3_key": "prothomalo-bangla/2025-09-27/ilegxu9b/vijay2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-09-27/ilegxu9b/vijay2.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ঢাকা মেডিকেলের নতুন ভবনের নিচ থেকে রোগীর মরদেহ উদ্ধার",
+      "url": "https://www.prothomalo.com/bangladesh/bpk8x8vb9a",
+      "published_at": "2026-01-25T18:23:52.789000+00:00",
+      "summary": "ঢাকা মেডিকেল কলেজ হাসপাতাল পুলিশ ফাঁড়ির পরিদর্শক মো. ফারুক বলেন, রোগীর স্বজনদের সঙ্গে কথা বলে যতটুকু জানা গেছে, মেয়েটি লাফিয়ে পড়ে আত্মহত্যা করেছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-23/v0i11hbq/১.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/v0i11hbq/১.avif?auto=format,compress"
+    },
     {
       "headline": "ডাকসু নিয়ে বিতর্কিত মন্তব্যের জন্য জামায়াত নেতার দুঃখ প্রকাশ",
       "url": "https://www.prothomalo.com/bangladesh/district/a3suxogr0i",
@@ -282,36 +322,18 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/yxm475ze/62181479414720106876287541157187205419020763n_2.jpg?auto=format,compress"
     },
     {
-      "headline": "আমরা একটি বাসযোগ্য বাংলাদেশ চাই: মাহমুদুর রহমান মান্না",
-      "url": "https://www.prothomalo.com/bangladesh/district/h7orjipbml",
-      "published_at": "2026-01-25T15:43:28.503000+00:00",
-      "summary": "বগুড়া-২ (শিবগঞ্জ) আসনে নির্বাচনী প্রচারের চতুর্থ দিনে কেটলি প্রতীক নিয়ে মাঠে নেমেছেন নাগরিক ঐক্যের প্রার্থী মাহমুদুর রহমান মান্না।",
-      "image_s3_key": "prothomalo-bangla/2026-01-25/k5kugl4a/WhatsApp-Image-2026-01-25-at-9.39.42-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/k5kugl4a/WhatsApp-Image-2026-01-25-at-9.39.42-PM.jpeg?auto=format,compress"
+      "headline": "আমরা কি সম্পর্ককে গুরুত্ব দিচ্ছি",
+      "url": "https://www.bd-pratidin.com/open-air-theater/2026/01/26/1209343",
+      "published_at": "2026-01-26T00:45:29+06:00",
+      "summary": "১.নতুন মার্কিন রাষ্ট্রদূত, ঢাকার কথাবার্তা আর কূটনীতির সূক্ষ্ম সুর",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/26/og/1769366727-0ea0528485fa8e379890b7ca6348a84e.PNG"
     },
     {
-      "headline": "যুক্তরাষ্ট্রে আইসিইর গুলিতে আবারও মৃত্যু, ছড়িয়ে পড়ছে বিক্ষোভ",
-      "url": "https://www.prothomalo.com/video/international/5wm66478kb",
-      "published_at": "2026-01-25T15:42:08.208000+00:00",
-      "summary": "যুক্তরাষ্ট্রে আইসিইর গুলিতে আবারও মৃত্যু, ছড়িয়ে পড়ছে বিক্ষোভ",
-      "image_s3_key": "prothomalo-bangla/2026-01-25/2arh4w3b/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/2arh4w3b/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘পাস করে বেরোনোর আগেই অনেকে বিভিন্ন কোম্পানিতে ডাক পান’",
-      "url": "https://www.prothomalo.com/lifestyle/e9uqe70c8a",
-      "published_at": "2026-01-25T15:34:52.122000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-25/dbxmpdse/040A9417.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/dbxmpdse/040A9417.jpg?auto=format,compress"
-    },
-    {
-      "headline": "প্রেতপুরীতে রাম: ভারতীয় অনুপ্রেরণার উৎস",
-      "url": "https://www.prothomalo.com/onnoalo/prose/tf8gnpuio8",
-      "published_at": "2026-01-25T15:34:34.275000+00:00",
-      "summary": "মাইকেল তাঁর মহাকাব্যে জীবন থেকে চরিত্র না নিয়ে বরং চরিত্রদের জীবন দান করে বিশ্বস্তভাবে অটল থাকেন হিন্দু পুরাণের জগতে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-25/5ysoenzr/Probandha-w.jpg.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/5ysoenzr/Probandha-w.jpg.jpeg?auto=format,compress"
+      "headline": "যেকোনো মূল্যে দুর্নীতির টুঁটি চেপে ধরব",
+      "url": "https://www.bd-pratidin.com/election/2026/01/26/1209342",
+      "published_at": "2026-01-26T00:33:45+06:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বিএনপি নির্বাচিত হলে যেকোনো মূল্যে দুর্নীতির টুঁটি চেপে ধরার ঘোষণা দিয়েছেন দলের চেয়ারম্যান তারেক রহমান। তিনি বলেন, দেশের জনগণ পাশে থাকলে কঠোর হস্তে আইনশৃঙ্খলা নিয়ন্ত্রণ করা হবে। যাতে দেশের সাধারণ খেটে-খাওয়া মানুষ নির্বিঘ্নে জীবিকা নির্বাহ করতে পারে। বিএনপি চেয়ারম্যান সবার জানমালের নিরাপত্তা, কর্মসংস্থান, জলাবদ্ধতা, নারীর ক্ষমতায়ন এবং চট্টগ্রামকে সত্যিকারের বাণিজ্যিক রাজধানীতে পরিণত করাসহ তাঁর দলের নানা পরিকল্পনার কথা তুলে ধরেন। রবিবার (২৫ জানুয়ারি) দুপুরে চট্টগ্রামের ঐতিহাসিক পলোগ্রাউন্ড মাঠে অনুষ্ঠিত বিশাল নির্বাচনি জনসভায় ‘জনরায় নিয়ে বিএনপি সরকারে গেলে’ তাদের পরবর্তী করণীয় কী হবে- সেসব পরিকল্পনার বর্ণনা দেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/26/og/1769366023-a5d6e3271cef9ac0d7c510a2e5f43662.PNG"
     },
     {
       "headline": "ঢাকা-৯ আসন : প্রতিহিংসার রাজনীতি নয়, সবাইকে নিয়ে কাজ করতে চান হাবিব",
@@ -356,7 +378,7 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/25/og/1769358474-b70ad45800c91b5fdf52d89f9851777d.jpg"
     },
     {
-      "headline": "ভারতের জন্য ভেন্যু বদল, বাংলাদেশের বেলায় বাদ; আইসিসির দ্বিমুখী নীতি?",
+      "headline": "ভারতের জন্য ভেন্যু বদল, বাংলাদেশ বেলায় বাদ; আইসিসির আসল চেহারা উন্মোচিত",
       "url": "https://www.bd-pratidin.com/sports/2026/01/25/1209213",
       "published_at": "2026-01-25T21:58:33+06:00",
       "summary": "আসন্ন টি-টোয়েন্টি বিশ্বকাপ থেকে বাংলাদেশকে বাদ দিয়ে স্কটল্যান্ডকে অন্তর্ভুক্ত করায় আন্তর্জাতিক ক্রিকেট কাউন্সিলের (আইসিসি) ভূমিকা নিয়ে প্রশ্ন তুলেছে প্রভাবশালী ক্রিকেট সাময়িকী উইজডেন। একই ধরনের পরিস্থিতিতে ভিন্ন সিদ্ধান্ত নেওয়ায় আইসিসি কি ‘ডাবল স্ট্যান্ডার্ড’ অনুসরণ করছে—এমন প্রশ্নই তুলেছে তারা।",
@@ -368,20 +390,6 @@
       "published_at": "2026-01-25T21:38:50+06:00",
       "summary": "আসন্ন গণভোট ও ত্রয়োদশ জাতীয় সংসদ নির্বাচন পর্যবেক্ষণ করবে দেশি ৫৫ হাজার ৪৫৪ জন। এছাড়াও ভোট দেখতে বিদেশ থেকে আসবেন ৫০০ সাংবাদিক ও পর্যবেক্ষক।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/25/og/1769355527-18e2999891374a475d0687ca9f989d83.jpg"
-    },
-    {
-      "headline": "চ্যাম্পিয়ন ফুটসাল দলকে অভিনন্দন তারেক রহমানের",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/25/1209202",
-      "published_at": "2026-01-25T21:29:59+06:00",
-      "summary": "নারী সাফ ফুটসালের প্রথম আসরে বাজিমাত করেছে বাংলাদেশ। অভিষেক আসরেই শিরোপা ঘরে তুলেছেন সাবিনা খাতুন-কৃষ্ণা রানী সরকাররা।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/25/og/1769354997-aa214af232f9b1422779c09fcf6409be.jpg"
-    },
-    {
-      "headline": "‘সাকিবকে খেলার জন্য বিবেচনা করা ক্রিকেট বোর্ডের স্টান্টবাজি,’ বললেন আমিনুল",
-      "url": "https://www.bd-pratidin.com/sports/2026/01/25/1209197",
-      "published_at": "2026-01-25T21:18:16+06:00",
-      "summary": "সাকিব আল হাসানকে আবারও জাতীয় দলে খেলাতে চায় বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। শনিবার রাতে ক্রিকেট বোর্ডের সভা শেষে এমন তথ্যই জানিয়েছিল বোর্ড পরিচালকরা।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/25/og/1769354291-d24bf4f437927ba58e17f9eef28d1ad9.jpg"
     },
     {
       "headline": "ব্রাহ্মণবাড়িয়ার কয়েকটি এলাকায় আজ গ্যাস থাকবে না",
@@ -576,7 +584,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 26, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "বাংলাদেশ অ্যাডমিনেস্ট্রেটিভ সার্ভিস এসোসিয়েশনের ২০২৬-২৭ মেয়াদের ৫২ সদস্যের কমিটি গঠন করা হয়েছে । কমিটিতে এসোসিয়েশনের ইতিহাসে প্রথম নারী হিসেবে সভাপতি ...",
+      "summary": "বিএনপির চেয়ারম্যান তারেক রহমান বলেছেন, আমাদের লক্ষ্য এবং উদ্দেশ্য হচ্ছে জনগণের উন্নয়ন এবং ভাগ্যের পরিবর্তন করা। দেশের উন্নয়ন কীভাবে করতে ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -585,6 +593,52 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "আমরা একটি বাসযোগ্য বাংলাদেশ চাই: মাহমুদুর রহমান মান্না",
+      "url": "https://www.prothomalo.com/bangladesh/district/h7orjipbml",
+      "published_at": "2026-01-25T15:43:28.503000+00:00",
+      "summary": "বগুড়া-২ (শিবগঞ্জ) আসনে নির্বাচনী প্রচারের চতুর্থ দিনে কেটলি প্রতীক নিয়ে মাঠে নেমেছেন নাগরিক ঐক্যের প্রার্থী মাহমুদুর রহমান মান্না।",
+      "image_s3_key": "prothomalo-bangla/2026-01-25/k5kugl4a/WhatsApp-Image-2026-01-25-at-9.39.42-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/k5kugl4a/WhatsApp-Image-2026-01-25-at-9.39.42-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রে আইসিইর গুলিতে আবারও মৃত্যু, ছড়িয়ে পড়ছে বিক্ষোভ",
+      "url": "https://www.prothomalo.com/video/international/5wm66478kb",
+      "published_at": "2026-01-25T15:42:08.208000+00:00",
+      "summary": "যুক্তরাষ্ট্রে আইসিইর গুলিতে আবারও মৃত্যু, ছড়িয়ে পড়ছে বিক্ষোভ",
+      "image_s3_key": "prothomalo-bangla/2026-01-25/2arh4w3b/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/2arh4w3b/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "‘পাস করে বেরোনোর আগেই অনেকে বিভিন্ন কোম্পানিতে ডাক পান’",
+      "url": "https://www.prothomalo.com/lifestyle/e9uqe70c8a",
+      "published_at": "2026-01-25T15:34:52.122000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-25/dbxmpdse/040A9417.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/dbxmpdse/040A9417.jpg?auto=format,compress"
+    },
+    {
+      "headline": "প্রেতপুরীতে রাম: ভারতীয় অনুপ্রেরণার উৎস",
+      "url": "https://www.prothomalo.com/onnoalo/prose/tf8gnpuio8",
+      "published_at": "2026-01-25T15:34:34.275000+00:00",
+      "summary": "মাইকেল তাঁর মহাকাব্যে জীবন থেকে চরিত্র না নিয়ে বরং চরিত্রদের জীবন দান করে বিশ্বস্তভাবে অটল থাকেন হিন্দু পুরাণের জগতে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-25/5ysoenzr/Probandha-w.jpg.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/5ysoenzr/Probandha-w.jpg.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "চ্যাম্পিয়ন ফুটসাল দলকে অভিনন্দন তারেক রহমানের",
+      "url": "https://www.bd-pratidin.com/sports/2026/01/25/1209202",
+      "published_at": "2026-01-25T21:29:59+06:00",
+      "summary": "নারী সাফ ফুটসালের প্রথম আসরে বাজিমাত করেছে বাংলাদেশ। অভিষেক আসরেই শিরোপা ঘরে তুলেছেন সাবিনা খাতুন-কৃষ্ণা রানী সরকাররা।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/25/og/1769354997-aa214af232f9b1422779c09fcf6409be.jpg"
+    },
+    {
+      "headline": "‘সাকিবকে খেলার জন্য বিবেচনা করা ক্রিকেট বোর্ডের স্টান্টবাজি,’ বললেন আমিনুল",
+      "url": "https://www.bd-pratidin.com/sports/2026/01/25/1209197",
+      "published_at": "2026-01-25T21:18:16+06:00",
+      "summary": "সাকিব আল হাসানকে আবারও জাতীয় দলে খেলাতে চায় বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। শনিবার রাতে ক্রিকেট বোর্ডের সভা শেষে এমন তথ্যই জানিয়েছিল বোর্ড পরিচালকরা।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/25/og/1769354291-d24bf4f437927ba58e17f9eef28d1ad9.jpg"
     },
     {
       "headline": "কোন দলের কী অঙ্গীকার, কিসের ইঙ্গিত",
@@ -1445,55 +1499,6 @@
       "published_at": "2026-01-25T20:04:13+06:00",
       "summary": "কুড়িগ্রামের রাজারহাট উপজেলায় ভয়াবহ অগ্নিকাণ্ডে ৫টি পরিবারের ১২টি ঘর পুড়ে ভস্মীভূত হয়েছে।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/25/og/1769349849-cdbae8072cb82dcc9d5769408fe2ef57.PNG"
-    },
-    {
-      "headline": "ইসলামের সেই ইনসাফের বাক্সটি ছিনতাই হয়ে গেছে: সৈয়দ রেজাউল করীম",
-      "url": "https://www.ittefaq.com.bd/771840/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%87%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%9F%E0%A6%BF-%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%87-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%88%E0%A7%9F%E0%A6%A6",
-      "published_at": null,
-      "summary": "‘ইসলামের পক্ষের ও ইনসাফের যে বাক্সটির প্রতি দেশের মানুষের অধীর আগ্রহ ছিল, সেটি ছিনতাই হয়ে গেছে। এখন সেই বাক্সে কেবল প্রচলিত আইন অনুসারে দেশ চালানোর বিষয়গুলোই অবশিষ্ট আছে।’",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/25/fe80849048e3fba650b401bdc8726b71-6976225379bc6.jpg"
-    },
-    {
-      "headline": "‘বাংলাদেশকে ভুল পথে পরিচালিত করেছে পাকিস্তান’",
-      "url": "https://www.ittefaq.com.bd/771839/%E2%80%98%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95%E0%A7%87-%E0%A6%AD%E0%A7%81%E0%A6%B2-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E2%80%99",
-      "published_at": null,
-      "summary": "নিরাপত্তা শঙ্কায় টি-টোয়েন্টি বিশ্বকাপ খেলতে ভারতে না যাওয়ার সিদ্ধান্ত নেয় বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। এরই প্রেক্ষিতে বাংলাদেশকে বাদ দিয়ে বিশ্বকাপে স্কটল্যান্ডকে দিয়েছে আন্তর্জাতিক ক্রিকেট কাউন্সিল (আইসিসি)। বিশ্ব ক্রিকেটের নিয়ন্ত্রক সংস্থার এই সিদ্ধান্তকে শতভাগ সঠিক বলে মনে করছেন ভারতের বিশ্বকাপজয়ী সাবেক ক্রিকেটার মদন লাল।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1x260046/uploads/media/2026/01/25/9376f820d16ff93d50b48d178f1a2ab6-69761fb7a553f.jpg?watermark=media%2F2025%2F11%2F20%2F637319c5b6f43f7028a86cd19b04585b-691f29793524f.png"
-    },
-    {
-      "headline": "নদীতে মাছ ধরতে এসে মিলল ৮টি ককটেল সদৃশ্য বস্তু",
-      "url": "https://www.ittefaq.com.bd/771838/%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%9B-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%B8%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2-%E0%A7%AE%E0%A6%9F%E0%A6%BF-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81",
-      "published_at": null,
-      "summary": "চাঁপাইনবাবগঞ্জের গোমস্তাপুর উপজেলার রহনপুর পৌর এলাকার পুনর্ভবা নদীর পাড় মহন্ত ঘাট থেকে ৮টি ককটেল সাদৃশ্য বস্তু উদ্ধার করেছে পুলিশ। ঘটনার সত্যতা নিশ্চিত করেছেন গোমস্তাপুর থানার ওসি আব্দুল বারিক। এ ঘটনায় স্থানীয় বাসিন্দাদের মধ্যে সৃষ্টি হয়েছে আতঙ্ক ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/25/00eccc9a29dcf459adae2d8debab6c2c-69761efeb1fd6.jpeg"
-    },
-    {
-      "headline": "চীনের শীর্ষ সামরিক জেনারেলের বিরুদ্ধে তদন্ত শুরু",
-      "url": "https://www.ittefaq.com.bd/771837/%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A4%E0%A6%A6%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81",
-      "published_at": null,
-      "summary": "চীনের শীর্ষ সামরিক কমিটির দুই শীর্ষ কর্মকর্তার একজন ঝাং ইউক্সিয়া গুরুতর শৃঙ্খলা ও আইনের লঙ্ঘনের সন্দেহে তদন্তের আওতায় আনা হয়েছে। শনিবার (২৪ জানুয়ারি)  এ তথ্য জানিয়েছে চীনের প্রতিরক্ষা মন্ত্রণালয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/25/fa140fa09c22bb4de7116a72589d3239-69761e307bbac.jpg"
-    },
-    {
-      "headline": "সিইসির দ্বারে এবি পার্টি, ৫ আসনে বাধা ও হামলার প্রতিকারের দাবি",
-      "url": "https://www.ittefaq.com.bd/771836/%E0%A6%B8%E0%A6%BF%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A7%AB-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE-%E0%A6%93-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0",
-      "published_at": null,
-      "summary": "নির্বাচনী প্রচারণায় বাধা, নেতাকর্মীদের ওপর হামলা এবং স্থানীয় প্রশাসনের নিষ্ক্রিয়তার অভিযোগ তুলে প্রধান নির্বাচন কমিশনার (সিইসি) এ এম এম নাসির উদ্দিনের সঙ্গে বৈঠক করেছে আমার বাংলাদেশ পার্টি (এবি পার্টি)। দলটির অভিযোগ, বিশেষ করে বরিশাল–৩ আসনে তাদের প্রার্থীরা চরম বৈরী পরিস্থিতির মুখোমুখি হচ্ছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/25/0c0d7c718b0a42ad04443cfdad179f65-69761d2896b0f.jpg"
-    },
-    {
-      "headline": "হাত ধোয়ার বেসিন ধসে সিরাজগঞ্জে ২ শিশুর মৃত্যু",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/ZjwXF0EFpkJC/",
-      "published_at": null,
-      "summary": "রোববার বিকেলে শিশুরা বেসিনের গোড়ায় খেলাধুলাকালে সেটি হঠাৎ ধসে পড়ে। এতে চার শিশু চাপা পড়ে। স্থানীয়রা তাদের উদ্ধার করে হাসপাতালে নিলে দুই শিশুর মৃত্যু হয় এবং সানজিদা (৫) নামের আরেক শিশু গুরুতর আহত হয়ে চিকিৎসাধীন রয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Sirajganj-Death-Child.gif"
-    },
-    {
-      "headline": "চাঁদাবাজরাই এখন সংখ্যালঘুদের কাছে ভোট চাইছে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/DimaV85GojJn/",
-      "published_at": null,
-      "summary": "যারা ৫ আগস্টের পর ডুমুরিয়ায় চাঁদাবাজি ও ভাঙচুর চালিয়েছে, তারাই এখন আবার সংখ্যালঘুদের কাছে গিয়ে নিরাপত্তা দেয়ার নামে ভোট চাইছে। তিনি বলেন, চাঁদা, কার্ড আর মিথ্যার রাজনীতি দিয়ে বাংলার মানুষকে আর বোকা বানানো যাবে না।",
-      "image_url": "https://media.ndiganta.com/original_images/Dumuria--Mia-25-01-26.jpg"
     }
   ]
 }
