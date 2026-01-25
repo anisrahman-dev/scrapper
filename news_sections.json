@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-01-25T22:19:48.989605+00:00",
+  "fetched_at": "2026-01-25T22:49:15.753686+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "কেন্দ্র পাহারা দিয়ে বিজয় নিশ্চিত হওয়ার পর বাড়ি ফিরবেন",
+        "url": "https://www.prothomalo.com/politics/l0c010tp11",
+        "published_at": "2026-01-25T22:35:01.542000+00:00",
+        "summary": "তারেক রহমান বলেন, আগামী ১২ ফেব্রুয়ারি আপনারা সকলে মিলে তাহাজ্জুদের নামাজ আদায় করে ভোটকেন্দ্রে যাবেন। সাথে অন্য ধর্মের লোকদেরকে নিয়ে যাবেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-25/x1f6xudr/tareq-one.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/x1f6xudr/tareq-one.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "পরিখার যুদ্ধ: ইতিহাসের পালাবদল",
+        "url": "https://www.prothomalo.com/religion/islam/664e3jp0q7",
+        "published_at": "2026-01-25T22:30:00+00:00",
+        "summary": "মদিনার তিন দিক ছিল পাহাড় ও ঘন খেজুরবাগানে ঘেরা, যা প্রাকৃতিকভাবেই সুরক্ষিত ছিল। কেবল উত্তর দিক ছিল উন্মুক্ত, যেখান দিয়ে শত্রুর প্রবেশের সম্ভাবনা ছিল।",
+        "image_s3_key": "prothomalo-bangla/2026-01-25/h2nuslru/camel-caravan-dune-erg-chebbi-morocco.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/h2nuslru/camel-caravan-dune-erg-chebbi-morocco.jpg?auto=format,compress"
+      },
       {
         "headline": "ঝড়ে রাতে বিদ্যুৎহীন হয় গ্রিনল্যান্ড, পরে পরিস্থিতি স্বাভাবিক",
         "url": "https://www.prothomalo.com/world/l7vf66s66k",
@@ -307,22 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/qw9vjvu2/cumilladh175220260125img-20260125-wa0082-2.jpg?auto=format,compress"
       },
       {
-        "headline": "খেতাবপ্রাপ্ত ও শহীদ মুক্তিযোদ্ধাসহ কয়েকটি খাতে ভাতা বাড়ছে",
-        "url": "https://www.prothomalo.com/business/economics/lrr1glwahq",
-        "published_at": "2026-01-25T16:18:15.939000+00:00",
-        "summary": "জুলাই গণ–অভ্যুত্থানে শহীদ পরিবার ও আহতদের মাসিক সম্মানী ভাতা ও ভিজিএফ কার্যক্রমকে সামাজিক নিরাপত্তা কর্মসূচি–সংক্রান্ত উপদেষ্টা পরিষদ কমিটির কার্যপরিধিতে আনার সুপারিশ করা হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2021-02/1b375a29-a923-4ad8-a7ea-cb8addf88058/bangladesh_government_logo.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-02/1b375a29-a923-4ad8-a7ea-cb8addf88058/bangladesh_government_logo.png?auto=format,compress"
-      },
-      {
-        "headline": "হজরত শাহজালাল বিমানবন্দর এলাকায় নীরব জোন বাস্তবায়নে অভিযান, ৯৪ মামলা",
-        "url": "https://www.prothomalo.com/bangladesh/capital/8yuwsfez6b",
-        "published_at": "2026-01-25T16:15:56.972000+00:00",
-        "summary": "শব্দদূষণ নিয়ন্ত্রণে হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর ও এর আশপাশের এলাকায় ‘নীরব জোন’ বাস্তবায়নে আজ রোববার অভিযান চালানো হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2024-08-27/k4p1axpt/DMP.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08-27/k4p1axpt/DMP.webp?auto=format,compress"
-      },
-      {
         "headline": "আমরা কি সম্পর্ককে গুরুত্ব দিচ্ছি",
         "url": "https://www.bd-pratidin.com/open-air-theater/2026/01/26/1209343",
         "published_at": "2026-01-26T00:45:29+06:00",
@@ -566,6 +566,22 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "খেতাবপ্রাপ্ত ও শহীদ মুক্তিযোদ্ধাসহ কয়েকটি খাতে ভাতা বাড়ছে",
+        "url": "https://www.prothomalo.com/business/economics/lrr1glwahq",
+        "published_at": "2026-01-25T16:18:15.939000+00:00",
+        "summary": "জুলাই গণ–অভ্যুত্থানে শহীদ পরিবার ও আহতদের মাসিক সম্মানী ভাতা ও ভিজিএফ কার্যক্রমকে সামাজিক নিরাপত্তা কর্মসূচি–সংক্রান্ত উপদেষ্টা পরিষদ কমিটির কার্যপরিধিতে আনার সুপারিশ করা হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2021-02/1b375a29-a923-4ad8-a7ea-cb8addf88058/bangladesh_government_logo.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-02/1b375a29-a923-4ad8-a7ea-cb8addf88058/bangladesh_government_logo.png?auto=format,compress"
+      },
+      {
+        "headline": "হজরত শাহজালাল বিমানবন্দর এলাকায় নীরব জোন বাস্তবায়নে অভিযান, ৯৪ মামলা",
+        "url": "https://www.prothomalo.com/bangladesh/capital/8yuwsfez6b",
+        "published_at": "2026-01-25T16:15:56.972000+00:00",
+        "summary": "শব্দদূষণ নিয়ন্ত্রণে হজরত শাহজালাল আন্তর্জাতিক বিমানবন্দর ও এর আশপাশের এলাকায় ‘নীরব জোন’ বাস্তবায়নে আজ রোববার অভিযান চালানো হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2024-08-27/k4p1axpt/DMP.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08-27/k4p1axpt/DMP.webp?auto=format,compress"
       },
       {
         "headline": "‘ভারতীয় প্রক্সি বাহিনীর’ সঙ্গে পাকিস্তানি বাহিনীর তুমুল সংঘর্ষ, নিহত ৩",
@@ -1486,22 +1502,6 @@
         "summary": "গতকাল শনিবার রাত ১১টায় খুলনা মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় তাঁর মৃত্যু হয়।",
         "image_s3_key": "prothomalo-bangla/2026-01-25/nq0b4swo/MEHERPURAL-death.JPG",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/nq0b4swo/MEHERPURAL-death.JPG?auto=format,compress"
-      },
-      {
-        "headline": "লেবুপানি খাওয়ার যে ৮ উপকারের কথা জানাচ্ছেন বিশেষজ্ঞরা",
-        "url": "https://www.prothomalo.com/lifestyle/health/jxdfgqhnbn",
-        "published_at": "2026-01-25T13:04:18.809000+00:00",
-        "summary": "শুধু পানিতে শরীরের পানির চাহিদা পূরণ হয়। কিন্তু লেবুযুক্ত পানি খেলে শরীর ও মনে তার ইতিবাচক প্রভাব পড়ে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-25/45fpdj9q/KBRH2282.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-25/45fpdj9q/KBRH2282.JPG?auto=format,compress"
-      },
-      {
-        "headline": " ইএফটিতে বেতন: মাউশির জরুরি নির্দেশনা",
-        "url": "https://www.prothomalo.com/education/ar8n80qg3e",
-        "published_at": "2026-01-25T13:03:24.611000+00:00",
-        "summary": "এমপিওভুক্ত শিক্ষক-কর্মচারীদের বেতনের টাকা ইলেকট্রনিক ফান্ড ট্রান্সফারের (ইএফটি) মাধ্যমে পাঠানোর জন্য ২৭ জানুয়ারির মধ্যে এ মাসের বিল অনলাইনে সাবমিট করতে প্রতিষ্ঠানপ্রধানদের নির্দেশ দেওয়া হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2023-07/4de0e4ea-2758-4413-b6a2-130ca4e9ce97/Untitled_3.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-07/4de0e4ea-2758-4413-b6a2-130ca4e9ce97/Untitled_3.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -3211,7 +3211,7 @@
         "headline": "বাংলাদেশ জামায়াতে ইসলামী",
         "url": "https://www.jugantor.com/jamaat",
         "published_at": null,
-        "summary": "‘নির্বাচনে কারচুপি হলে জামায়াত ক্ষমতায় আসবে’ বাংলাদেশে নিযুক্ত ভারতের সাবেক হাইকমিশনার ও বর্তমান রাজ্যসভার সদস্য হর্ষবর্ধন শ্রিংলার এমন মন্তব্যে তীব্র ...",
+        "summary": "বাংলাদেশে গত ৫৪ বছরে যে চটকদারি কথা বলার রাজনীতি হয়েছে, তা ভবিষ্যৎ বাংলাদেশে আর চলবে না বলে মন্তব্য করেছেন ডাকসু ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
       },
       {
