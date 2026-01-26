@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-01-26T19:33:56.648975+00:00",
+  "fetched_at": "2026-01-26T19:50:07.546702+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "মাদুরোকে ধরতে ভেনেজুয়েলায় গোপন এক অস্ত্র ব্যবহার করেছে মার্কিন বাহিনী, দাবি ট্রাম্পের",
+        "url": "https://www.prothomalo.com/world/usa/c7tlaoinw1",
+        "published_at": "2026-01-26T19:41:00.516000+00:00",
+        "summary": "যুক্তরাষ্ট্রের সেনাবাহিনী বছরের পর বছর ধরে অ্যাকটিভ ডিনায়েল সিস্টেম (এডিএস) নামের একটি তাপ বিকীরণ অস্ত্র ব্যবহার করে আসছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-26/a24thxpz/Trump-Venezuela.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/a24thxpz/Trump-Venezuela.jpg?auto=format,compress"
+      },
       {
         "headline": "মিয়ানমারে নির্বাচনে সেনা-সমর্থিত দলের জয় দাবি, বৈধতা নিয়ে প্রশ্ন বিরোধীদের",
         "url": "https://www.prothomalo.com/world/asia/j2dwphl216",
@@ -307,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/0e9afu3r/military-strike.png?auto=format,compress"
       },
       {
-        "headline": "বাংলাদেশের জন্য খারাপ লাগছে বিশ্বকাপে ডাক পাওয়া স্কটল্যান্ডের",
-        "url": "https://www.prothomalo.com/sports/cricket/4my72rknky",
-        "published_at": "2026-01-26T16:23:50.933000+00:00",
-        "summary": "আগামী ৭ ফেব্রুয়ারি ভারতে শুরু হচ্ছে ২০ দলের টি-টুয়েন্টি বিশ্বকাপ। বাংলাদেশের জায়গায় গ্রুপ ‘সি’-তে সুযোগ পেয়েছে স্কটল্যান্ড। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-26/4pkdgzrh/GcJHeXIAAuHzg.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/4pkdgzrh/GcJHeXIAAuHzg.jpg?auto=format,compress"
-      },
-      {
         "headline": "আগামীর চ্যালেঞ্জ মোকাবিলায় দক্ষ জনশক্তি গড়তে বাংলাদেশ বদ্ধপরিকর: আসিফ নজরুল",
         "url": "https://www.bd-pratidin.com/national/2026/01/27/1209755",
         "published_at": "2026-01-27T01:24:00+06:00",
@@ -593,6 +593,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "বাংলাদেশের জন্য খারাপ লাগছে বিশ্বকাপে ডাক পাওয়া স্কটল্যান্ডের",
+        "url": "https://www.prothomalo.com/sports/cricket/4my72rknky",
+        "published_at": "2026-01-26T16:23:50.933000+00:00",
+        "summary": "আগামী ৭ ফেব্রুয়ারি ভারতে শুরু হচ্ছে ২০ দলের টি-টুয়েন্টি বিশ্বকাপ। বাংলাদেশের জায়গায় গ্রুপ ‘সি’-তে সুযোগ পেয়েছে স্কটল্যান্ড। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-26/4pkdgzrh/GcJHeXIAAuHzg.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/4pkdgzrh/GcJHeXIAAuHzg.jpg?auto=format,compress"
       },
       {
         "headline": "ডাকসুর চার মাসে কী কাজ হয়েছে, জানালেন নেতারা",
@@ -1488,13 +1496,6 @@
       {
         "headline": "নেত্রকোণায় ইসলামী আন্দোলনের শতাধিক নেতাকর্মীর জামায়াতে যোগদান",
         "url": "https://dailynayadiganta.com/video/8yzAAWngXkYB/",
-        "published_at": null,
-        "summary": null,
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "দিনের সব আলোচিত সংবাদ ll দিগন্ত প্রাইম টাইম",
-        "url": "https://dailynayadiganta.com/video/KuBfFIkIA9Di/",
         "published_at": null,
         "summary": null,
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
@@ -4398,6 +4399,14 @@
     ],
     "world": [
       {
+        "headline": "মাদুরোকে ধরতে ভেনেজুয়েলায় গোপন এক অস্ত্র ব্যবহার করেছে মার্কিন বাহিনী, দাবি ট্রাম্পের",
+        "url": "https://www.prothomalo.com/world/usa/c7tlaoinw1",
+        "published_at": "2026-01-26T19:41:00.516000+00:00",
+        "summary": "যুক্তরাষ্ট্রের সেনাবাহিনী বছরের পর বছর ধরে অ্যাকটিভ ডিনায়েল সিস্টেম (এডিএস) নামের একটি তাপ বিকীরণ অস্ত্র ব্যবহার করে আসছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-26/a24thxpz/Trump-Venezuela.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/a24thxpz/Trump-Venezuela.jpg?auto=format,compress"
+      },
+      {
         "headline": "মিয়ানমারে নির্বাচনে সেনা-সমর্থিত দলের জয় দাবি, বৈধতা নিয়ে প্রশ্ন বিরোধীদের",
         "url": "https://www.prothomalo.com/world/asia/j2dwphl216",
         "published_at": "2026-01-26T19:26:04.815000+00:00",
@@ -4710,14 +4719,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-24/m1xcl38s/usa-child.jpg?auto=format,compress"
       },
       {
-        "headline": "বিরল খনিজ সম্পদের জন্যই কি গ্রিনল্যান্ডের দিকে ট্রাম্পের নজর: আসলে কী আছে সেখানে",
-        "url": "https://www.prothomalo.com/world/europe/gfjc6nr0j7",
-        "published_at": "2026-01-24T12:00:00+00:00",
-        "summary": "ট্রাম্প প্রশাসন প্রকাশ্যে গ্রিনল্যান্ডকে জাতীয় নিরাপত্তার জন্য প্রয়োজন বললেও, পর্দার আড়ালে আসল লক্ষ্য হিসেবে দ্বীপটির প্রাকৃতিক সম্পদের নাগাল পাওয়ার বিষয়টিকেই বড় করে দেখা হচ্ছে।",
-        "image_s3_key": "prothomalo-bangla/2025-01-09/fvfwr64b/greenland-01.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-01-09/fvfwr64b/greenland-01.webp?auto=format,compress"
-      },
-      {
         "headline": "আগামীর চ্যালেঞ্জ মোকাবিলায় দক্ষ জনশক্তি গড়তে বাংলাদেশ বদ্ধপরিকর: আসিফ নজরুল",
         "url": "https://www.bd-pratidin.com/national/2026/01/27/1209755",
         "published_at": "2026-01-27T01:24:00+06:00",
@@ -4996,6 +4997,14 @@
         "published_at": "1769413494",
         "summary": "ইরানের রাজপথ এখন জনশূন্য, কিন্তু এই নিস্তব্ধতা কি শান্তির নাকি বড় কোনো ঝড়ের পূর্বাভাস? ইসলামি প্রজাতন্ত্র ইরানের বর্তমান অবস্থাকে বিশ্লেষকরা একটি সুপ্ত আগ্নেয়গিরির সঙ্গে তুলনা করছেন। উপরে দমন-পীড়নের কঠিন আবরণ থাকলেও ভেতরে বইছে লাভার মতো উত্তপ্ত জনক্ষোভ। ১৯৭৯ সালের ইসলামি বিপ্লবের পর ইরান কখনোই এমন অস্তিত্ব সংকটে পড়েনি। একদিকে ধুঁকতে থাকা অর্থনীতি, অন্যদিকে আঞ্চলিক প্রভাব বলয় ভেঙে পড়া—সব মিলিয়ে এক অস্থির সময়ের মধ্য দিয়ে যাচ্ছে পারস্য উপসাগরের এই দেশটি।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260126074454.jpg"
+      },
+      {
+        "headline": "বিরল খনিজ সম্পদের জন্যই কি গ্রিনল্যান্ডের দিকে ট্রাম্পের নজর: আসলে কী আছে সেখানে",
+        "url": "https://www.prothomalo.com/world/europe/gfjc6nr0j7",
+        "published_at": "2026-01-24T12:00:00+00:00",
+        "summary": "ট্রাম্প প্রশাসন প্রকাশ্যে গ্রিনল্যান্ডকে জাতীয় নিরাপত্তার জন্য প্রয়োজন বললেও, পর্দার আড়ালে আসল লক্ষ্য হিসেবে দ্বীপটির প্রাকৃতিক সম্পদের নাগাল পাওয়ার বিষয়টিকেই বড় করে দেখা হচ্ছে।",
+        "image_s3_key": "prothomalo-bangla/2025-01-09/fvfwr64b/greenland-01.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-01-09/fvfwr64b/greenland-01.webp?auto=format,compress"
       },
       {
         "headline": "আদানির বিরুদ্ধে যুক্তরাষ্ট্রের পাঠানো সমন ফেরতের বিষয়ে ভারত সরকারের বক্তব্য কতটা সত্য",
@@ -5841,13 +5850,6 @@
         "published_at": "2026-01-25T21:38:50+06:00",
         "summary": "আসন্ন গণভোট ও ত্রয়োদশ জাতীয় সংসদ নির্বাচন পর্যবেক্ষণ করবে দেশি ৫৫ হাজার ৪৫৪ জন। এছাড়াও ভোট দেখতে বিদেশ থেকে আসবেন ৫০০ সাংবাদিক ও পর্যবেক্ষক।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/25/og/1769355527-18e2999891374a475d0687ca9f989d83.jpg"
-      },
-      {
-        "headline": "ইরানের ওপর যুক্তরাষ্ট্র-ইসরায়েলের সম্ভাব্য হামলা, সর্মথন করবে জর্ডান- সংযুক্ত আরব আমিরাত",
-        "url": "https://www.ittefaq.com.bd/771829/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-        "published_at": null,
-        "summary": "যদি যুক্তরাষ্ট্র ইরানের ওপর হামলা করলে লজিস্টিক ও গোয়েন্দা সহায়তা প্রদান করতে পারে জর্ডান, সংযুক্ত আরব আমিরাত (ইউএই) এবং যুক্তরাজ্য। ইসরায়েলি সংবাদমাধ্যমের বরাতে এ তথ্য জানিয়েছে মিডল ইস্ট আই।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/25/517aec2941fb4a1debd93d8753d3b304-6976113bb438e.jpg"
       }
     ],
     "business": [
