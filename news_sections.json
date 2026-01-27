@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-01-27T20:22:46.305680+00:00",
+  "fetched_at": "2026-01-27T20:50:33.287746+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "জীবন দিয়ে আদায় করা অধিকার কেউ যেন ষড়যন্ত্র করে ছিনিয়ে নিতে না পারে: তারেক রহমান",
+        "url": "https://www.prothomalo.com/politics/iz2muay053",
+        "published_at": "2026-01-27T20:29:38.182000+00:00",
+        "summary": "তারেক রহমান বলেন, ‘আন্দোলন হয়েছে, সংগ্রাম হয়েছে, স্বৈরাচার বিদায় হয়েছে দেশ থেকে। এখন দেশ গড়ার পালা। এখন মানুষের ভাগ্য পরিবর্তন করার সময় হয়েছে।’",
+        "image_s3_key": "prothomalo-bangla/2026-01-27/9q1n3kty/১.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/9q1n3kty/১.avif?auto=format,compress"
+      },
       {
         "headline": "ক্র্যাব সদস্যদের ওপর হামলার ঘটনায় গ্রেপ্তার ৩",
         "url": "https://www.prothomalo.com/bangladesh/crime/ajb9ng4sgv",
@@ -63,8 +71,8 @@
         "url": "https://www.prothomalo.com/world/middle-east/hm4z0hqipg",
         "published_at": "2026-01-27T19:08:57.015000+00:00",
         "summary": "ইরান সরকারের পতন ঘটানোর লক্ষ্যেই এ বিশাল সামরিক শক্তি জড়ো করা হচ্ছে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-27/co83g1k9/1.PNG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/co83g1k9/1.PNG?auto=format,compress"
+        "image_s3_key": "prothomalo-bangla/2026-01-27/3nm598zf/uss.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/3nm598zf/uss.jpg?auto=format,compress"
       },
       {
         "headline": "হোসনি মোবারকের বিরুদ্ধে আরব বসন্তের কথা কি ৩ কোটি মিসরীয় জানেন",
@@ -305,14 +313,6 @@
         "summary": "ডিম নিক্ষেপের অভিযোগ বিএনপির বিরুদ্ধে | একটি দল স্বৈরাচারী ভাষা ব্যবহার করছে: তারেক রহমান",
         "image_s3_key": "prothomalo-bangla/2026-01-27/81xxjlri/AUDIO-NEWS-THUMB.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/81xxjlri/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "আবার বড় পর্দায় সালমান শাহর সিনেমা",
-        "url": "https://www.prothomalo.com/video/entertainment/cr6vbqrcrz",
-        "published_at": "2026-01-27T16:20:53.240000+00:00",
-        "summary": "আবার বড় পর্দায় সালমান শাহর সিনেমা",
-        "image_s3_key": "prothomalo-bangla/2025-12-07/10epdqew/Salman.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-07/10epdqew/Salman.avif?auto=format,compress"
       },
       {
         "headline": "ভোটের সিলে কালি বেশি লাগলো কিনা, পরীক্ষা করতে বলল ইসি",
@@ -584,7 +584,7 @@
         "headline": "আজকের সর্বশেষ খবর - January 28, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "স্বল্পোন্নত দেশ (এলডিসি) থেকে উত্তরণ নিয়ে ব্যবসায়ী ও বাংলাদেশ ব্যাংকের গভর্নর পালটাপালটি মত দিয়েছে। ব্যবসায়ীদের মতে, উত্তরণ-পরবর্তী চ্যালেঞ্জ মোকাবিলায় বাংলাদেশ ...",
+        "summary": "বিশ্বের অন্যতম উন্নত দেশ যুক্তরাজ্যে দারিদ্র্য আরও বেড়েছে। বর্তমানে সেখানে ৬৮ লাখ মানুষ অতিদারিদ্র্যের মধ্যে বসবাস করছেন। যা গত তিন ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -593,6 +593,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "আবার বড় পর্দায় সালমান শাহর সিনেমা",
+        "url": "https://www.prothomalo.com/video/entertainment/cr6vbqrcrz",
+        "published_at": "2026-01-27T16:20:53.240000+00:00",
+        "summary": "আবার বড় পর্দায় সালমান শাহর সিনেমা",
+        "image_s3_key": "prothomalo-bangla/2025-12-07/10epdqew/Salman.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-07/10epdqew/Salman.avif?auto=format,compress"
       },
       {
         "headline": "গালফ ফুড ফেয়ারে আকিজ এসেনশিয়ালস",
@@ -1500,13 +1508,6 @@
         "published_at": "2026-01-27T19:17:27+06:00",
         "summary": "ইউনিভার্সিটি পুত্রা মালয়েশিয়ার বাংলাদেশি শিক্ষার্থীদের সংগঠন ইন্টারন্যাশনাল স্টুডেন্টস অ্যাসোসিয়েশন (UPMISA)-এর উদ্যোগে UPMISA ফুটসাল টুর্নামেন্ট ২০২৬ সফলভাবে সম্পন্ন হয়েছে। আন্তর্জাতিক শিক্ষা প্রতিষ্ঠান হাইপারকানেক্ট ছিল টুর্নামেন্টটির টাইটেল স্পন্সর।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/27/og/1769519844-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
-      },
-      {
-        "headline": "বিশ্বকাপে বাংলাদেশের অনুপস্থিতি খুবই দুঃখজনক: ডি ভিলিয়ার্স",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/27/1209978",
-        "published_at": "2026-01-27T19:14:17+06:00",
-        "summary": "ভারতে নিরাপত্তা শঙ্কা দেখিয়ে টি-টুয়েন্টি বিশ্বকাপে খেলতে অস্বীকৃতি জানায় বাংলাদেশ। নিরাপত্তাজনিত উদ্বেগে ম্যাচগুলো শ্রীলঙ্কায় সরানোর অনুরোধ করলেও আইসিসি তা মেনে নেয়নি। এরপর বিশ্বকাপ থেকে বাংলাদেশের জায়গায় স্কটল্যান্ডকে অন্তর্ভুক্ত করে আইসিসি। এই ঘটনার প্রেক্ষিতে সাবেক দক্ষিণ আফ্রিকার অধিনায়ক এবি ডি ভিলিয়ার্সও মুখ খুলেছেন এবং বাংলাদেশের অনুপস্থিতিকে ক্রিকেটের জন্য ‘দুঃখজনক’ বলে মন্তব্য করেছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/27/og/1769519654-e9334ea4283546109b899a3e9adbc791.jpg"
       }
     ],
     "bangladesh": [
@@ -3227,7 +3228,7 @@
         "headline": "বাংলাদেশ জামায়াতে ইসলামী",
         "url": "https://www.jugantor.com/jamaat",
         "published_at": null,
-        "summary": "রাজধানীর সোহরাওয়ার্দী উদ্যানে আগামী ৩১ জানুয়ারি বাংলাদেশ জামায়াতে ইসলামীর মহিলা বিভাগের উদ্যোগে আয়োজিত ‘প্রতিবাদী সমাবেশকে’ দলটির জন্য একটি যুগান্তকারী পদক্ষেপ ...",
+        "summary": "বাংলাদেশ জামায়াতে ইসলামীর নায়েবে আমির সাবেক এমপি ডা. সৈয়দ আব্দুল্লাহ মো. তাহের সারা দেশে সংগঠনের নারী কর্মীদের ওপর প্রতিপক্ষের হামলার ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
       },
       {
@@ -4413,8 +4414,8 @@
         "url": "https://www.prothomalo.com/world/middle-east/hm4z0hqipg",
         "published_at": "2026-01-27T19:08:57.015000+00:00",
         "summary": "ইরান সরকারের পতন ঘটানোর লক্ষ্যেই এ বিশাল সামরিক শক্তি জড়ো করা হচ্ছে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-27/co83g1k9/1.PNG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/co83g1k9/1.PNG?auto=format,compress"
+        "image_s3_key": "prothomalo-bangla/2026-01-27/3nm598zf/uss.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/3nm598zf/uss.jpg?auto=format,compress"
       },
       {
         "headline": "হোসনি মোবারকের বিরুদ্ধে আরব বসন্তের কথা কি ৩ কোটি মিসরীয় জানেন",
