@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-28T23:53:29.752716+00:00",
+  "fetched_at": "2026-01-29T01:27:11.840399+00:00",
   "stories": [
+    {
+      "headline": "আজ টিভিতে যা দেখবেন (২৯ জানুয়ারি ২০২৬)",
+      "url": "https://www.prothomalo.com/sports/2hmun7u3u6",
+      "published_at": "2026-01-29T01:00:00+00:00",
+      "summary": "অস্ট্রেলিয়ান ওপেনের নারী এককের দুটি সেমিফাইনালই আজ। টি-টোয়েন্টিতে মুখোমুখি পাকিস্তান ও অস্ট্রেলিয়া এবং দক্ষিণ আফ্রিকা ও ওয়েস্ট ইন্ডিজ।",
+      "image_s3_key": "prothomalo-bangla/2026-01-28/38eancou/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/38eancou/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg?auto=format,compress"
+    },
     {
       "headline": "গোলকিপারের গোলে প্লে–অফে বেনফিকা, রিয়াল–পিএসজিও প্লে–অফে, সরাসরি শেষ ষোলোতে কারা",
       "url": "https://www.prothomalo.com/sports/football/i97leer5qp",
@@ -306,22 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/k3gjpsof/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "‘এটা আমাদেরই গল্প’ নাটকের অবিশ্বাস্য রেকর্ড",
-      "url": "https://www.prothomalo.com/entertainment/tv/kiykzpoyvk",
-      "published_at": "2026-01-28T16:30:00+00:00",
-      "summary": "সিনেমাওয়ালার ব্যানারে নির্মিত নাটকটির নতুন পর্ব সপ্তাহের প্রতি মঙ্গল ও বুধবার রাত সাড়ে নয়টায় চ্যানেল আইয়ের পর্দায় এবং বুধ ও বৃহস্পতিবার দুপুর ১২টায় সিনেমাওয়ালা ইউটিউব চ্যানেলে মুক্তি পাচ্ছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-28/mhtgksgq/565708406_1341498800697925_9131369263884690555_n.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/mhtgksgq/565708406_1341498800697925_9131369263884690555_n.jpg?auto=format,compress"
-    },
-    {
-      "headline": "মোটরসাইকেল চালিয়ে ভোটারদের বাড়ি বাড়ি যাচ্ছেন আন্দালিভ রহমান পার্থ",
-      "url": "https://www.prothomalo.com/video/bangladesh/56g5d68wk4",
-      "published_at": "2026-01-28T16:19:22.696000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-01-28/4ymza7a1/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/4ymza7a1/WEB.jpg?auto=format,compress"
-    },
-    {
       "headline": "টাইম ম্যাগাজিনকে দেওয়া সাক্ষাৎকারে যা বললেন তারেক রহমান",
       "url": "https://www.bd-pratidin.com/national/2026/01/29/1210554",
       "published_at": "2026-01-29T00:23:39+06:00",
@@ -392,6 +384,20 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769613598-95bbbac574cc600954afc0af533d955f.jpg"
     },
     {
+      "headline": "আজ রাজশাহী ও বগুড়ায় যাচ্ছেন তারেক রহমান",
+      "url": "https://www.ittefaq.com.bd/772284/%E0%A6%86%E0%A6%9C-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%93-%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "দীর্ঘ ১৯ বছর পর বগুড়ায় আসছেন বিএনপির চেয়ারম্যান তারেক রহমান। আজ বৃহস্পতিবার বিকালে বগুড়ার ঐতিহাসিক আলতাফুন্নেছা খেলার মাঠে আয়োজিত নির্বাচনি জনসভায় বক্তব্য দেবেন তিনি। এ উপলক্ষ্যে বগুড়ায় ব্যাপক প্রস্তুতি নেওয়ার কথা জানিয়েছে জেলা বিএনপি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/07a7a6de9867103ed8a3c25828cc1e54-697a685fa26cf.jpg"
+    },
+    {
+      "headline": "১৭ সংস্থা থেকে ৬৪ শতাংশ পর্যবেক্ষক নিয়োগ!",
+      "url": "https://www.ittefaq.com.bd/772287/%E0%A7%A7%E0%A7%AD-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%AC%E0%A7%AA-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে এবার ৮১টি নিবন্ধিত পর্যবেক্ষক সংস্থা থেকে ৫৫ হাজার ৪৫৪ পর্যবেক্ষক ৩০০ নির্বাচনি আসনে পর্যবেক্ষক হিসেবে দায়িত্ব পালন করবেন। তবে ৮১টির মধ্যে ১৭টি পর্যবেক্ষক সংস্থা থেকে এবার পর্যবেক্ষক হিসেবে নিয়োগ পেয়েছেন ৩৫ হাজার ৪২৭ জন অর্থাত্ মোট পর্যবেক্ষকের ৬৪ শতাংশই সংশ্লিষ্ট প্রতিষ্ঠানগুলোর। নির্দিষ্ট পর্যবেক্ষক সংস্থা থেকে বিপুলসংখ্যক পর্যবেক্ষক নিয়োগ নিয়ে ইতিমধ্যে নানা প্রশ্ন উঠেছে। কিছু পর্যবেক্ষক সংস্থার বিরুদ্ধে রাজনৈতিক সংশ্লিষ্ঠতার অভিযোগও রয়েছে। এবার শুধুুমাত্র পিপলস অ্যাসোসিয়েশন ফর সোশ্যাল অ্যাডভান্সমেন্ট নামের একটি বেসরকারি সংস্থা (এনজিও) থেকে ১০ হাজার ৫৫৯ জন পর্যবেক্ষক নিয়োগের অনুমোদন দেওয়া হয়েছে। এছাড়াও নাম নামসর্বস্ব কুড়িগ্রামের গরিব উন্নয়ন সংস্থা থেকেও বিপুল পর্যবেক্ষক নিয়োগ পেয়েছেন। দেশীয় পর্যবেক্ষকের পাশাপাশি ৩৯টি দেশ ও সংস্থার ৫০০ বিদেশি পর্যবেক্ষক ও সাংবাদিক এবারের নির্বাচনে পর্যবেক্ষণ ও সংবাদ সংগ্রহ করবেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/12/14/fee5934667a4343a339a1da8ff63d5c0-693ed4bbabe06.png"
+    },
+    {
       "headline": "সড়কে যানবাহনের রেষারেষি ও প্রাণহানি",
       "url": "https://www.ittefaq.com.bd/772291/%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B7%E0%A6%BF-%E0%A6%93-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BF",
       "published_at": null,
@@ -446,20 +452,6 @@
       "published_at": null,
       "summary": "গোপালগঞ্জ জেলা ও দায়রা জজ আদলতের বিচারক মো. শামছুল হকের বাসভবনে ককটেল হামলা করেছে দুর্বৃত্তরা।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/c8b1859c332db735cec8c10c2064b38f-697a61a2923af.jpg"
-    },
-    {
-      "headline": "শিক্ষা মন্ত্রণালয়ে শত শত তদবির, আগে টাকা দিলেই কাজ হতো",
-      "url": "https://www.ittefaq.com.bd/772280/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B6%E0%A6%A4-%E0%A6%B6%E0%A6%A4-%E0%A6%A4%E0%A6%A6%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%87",
-      "published_at": null,
-      "summary": "শিক্ষা মন্ত্রণালয়ে তদবির ও অনিয়মের বাস্তব চিত্র তুলে ধরেছেন সাবেক শিক্ষা উপদেষ্টা ও অর্থনীতিবিদ ওয়াহিদউদ্দিন মাহমুদ। দায়িত্ব পালনকালের অভিজ্ঞতা বর্ণনা করতে গিয়ে তিনি বলেন, মন্ত্রণালয়ে প্রতিদিন শত শত তদবির আসতো। আগে নির্দিষ্ট অঙ্কের টাকা দিলেই কাজ হয়ে যেত, মন্ত্রণালয়ে আসারও প্রয়োজন হতো না। তবে বর্তমান প্রেক্ষাপটে সবাই সুযোগ পাওয়ার আশায় সরাসরি মন্ত্রণালয়ে হাজির হতেন বলে জানান তিনি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/158db9f55a05c8caafbefc4f1fe90c89-697a57e740aaa.jpg"
-    },
-    {
-      "headline": "অপরাধীদের শাস্তি পেতে হবে: টাইম ম্যাগাজিনকে তারেক রহমান",
-      "url": "https://www.ittefaq.com.bd/772279/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%A0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%A5%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87%E2%80%94%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AE-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8",
-      "published_at": null,
-      "summary": "দীর্ঘ ১৭ বছর পর দেশে ফিরেছেন তারেক রহমান। ফিরে এসেই তিনি যেন বাংলাদেশের রাজনীতির কেন্দ্রবিন্দুতে। লন্ডনের নির্বাসিত জীবনের অবসান ঘটিয়ে গত ২৫ ডিসেম্বর ঢাকায় পা রাখার পর থেকে সময় যেন তাঁর জন্য দ্রুতগতিতে এগোচ্ছে। বিমানবন্দরে তাঁকে স্বাগত জানাতে জড়ো হয়েছিল লাখো মানুষ। এর মাত্র পাঁচ দিনের মাথায় তাঁর মা, বাংলাদেশের প্রথম নারী প্রধানমন্ত্রী ও বিএনপি চেয়ারপারসন খালেদা জিয়ার মৃত্যু—যা দেশজুড়ে শোক ও আবেগের ঢেউ তোলে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/28/1e85c89e15546337e0305b8b9eede4ad-697a4bf57e88f.jpg"
     },
     {
       "headline": "আলজাজিরার বিশ্লেষণবাংলাদেশের নির্বাচনে ‘হাদি প্রভাব’",
@@ -600,6 +592,36 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "‘এটা আমাদেরই গল্প’ নাটকের অবিশ্বাস্য রেকর্ড",
+      "url": "https://www.prothomalo.com/entertainment/tv/kiykzpoyvk",
+      "published_at": "2026-01-28T16:30:00+00:00",
+      "summary": "সিনেমাওয়ালার ব্যানারে নির্মিত নাটকটির নতুন পর্ব সপ্তাহের প্রতি মঙ্গল ও বুধবার রাত সাড়ে নয়টায় চ্যানেল আইয়ের পর্দায় এবং বুধ ও বৃহস্পতিবার দুপুর ১২টায় সিনেমাওয়ালা ইউটিউব চ্যানেলে মুক্তি পাচ্ছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-28/mhtgksgq/565708406_1341498800697925_9131369263884690555_n.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/mhtgksgq/565708406_1341498800697925_9131369263884690555_n.jpg?auto=format,compress"
+    },
+    {
+      "headline": "মোটরসাইকেল চালিয়ে ভোটারদের বাড়ি বাড়ি যাচ্ছেন আন্দালিভ রহমান পার্থ",
+      "url": "https://www.prothomalo.com/video/bangladesh/56g5d68wk4",
+      "published_at": "2026-01-28T16:19:22.696000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-28/4ymza7a1/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/4ymza7a1/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "শিক্ষা মন্ত্রণালয়ে শত শত তদবির, আগে টাকা দিলেই কাজ হতো",
+      "url": "https://www.ittefaq.com.bd/772280/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B6%E0%A6%A4-%E0%A6%B6%E0%A6%A4-%E0%A6%A4%E0%A6%A6%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%87",
+      "published_at": null,
+      "summary": "শিক্ষা মন্ত্রণালয়ে তদবির ও অনিয়মের বাস্তব চিত্র তুলে ধরেছেন সাবেক শিক্ষা উপদেষ্টা ও অর্থনীতিবিদ ওয়াহিদউদ্দিন মাহমুদ। দায়িত্ব পালনকালের অভিজ্ঞতা বর্ণনা করতে গিয়ে তিনি বলেন, মন্ত্রণালয়ে প্রতিদিন শত শত তদবির আসতো। আগে নির্দিষ্ট অঙ্কের টাকা দিলেই কাজ হয়ে যেত, মন্ত্রণালয়ে আসারও প্রয়োজন হতো না। তবে বর্তমান প্রেক্ষাপটে সবাই সুযোগ পাওয়ার আশায় সরাসরি মন্ত্রণালয়ে হাজির হতেন বলে জানান তিনি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/158db9f55a05c8caafbefc4f1fe90c89-697a57e740aaa.jpg"
+    },
+    {
+      "headline": "অপরাধীদের শাস্তি পেতে হবে: টাইম ম্যাগাজিনকে তারেক রহমান",
+      "url": "https://www.ittefaq.com.bd/772279/%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%A0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%A5%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87%E2%80%94%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AE-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "দীর্ঘ ১৭ বছর পর দেশে ফিরেছেন তারেক রহমান। ফিরে এসেই তিনি যেন বাংলাদেশের রাজনীতির কেন্দ্রবিন্দুতে। লন্ডনের নির্বাসিত জীবনের অবসান ঘটিয়ে গত ২৫ ডিসেম্বর ঢাকায় পা রাখার পর থেকে সময় যেন তাঁর জন্য দ্রুতগতিতে এগোচ্ছে। বিমানবন্দরে তাঁকে স্বাগত জানাতে জড়ো হয়েছিল লাখো মানুষ। এর মাত্র পাঁচ দিনের মাথায় তাঁর মা, বাংলাদেশের প্রথম নারী প্রধানমন্ত্রী ও বিএনপি চেয়ারপারসন খালেদা জিয়ার মৃত্যু—যা দেশজুড়ে শোক ও আবেগের ঢেউ তোলে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/28/1e85c89e15546337e0305b8b9eede4ad-697a4bf57e88f.jpg"
     },
     {
       "headline": "হুমাম কাদের চৌধুরীকে শোকজ",
@@ -1472,28 +1494,6 @@
       "published_at": null,
       "summary": "‘অন্যান্য নির্বাচনের চেয়ে এবারের নির্বাচনের প্রস্তুতি অনেক ভালো। নির্বাচনের কাজে যারা জড়িত তাদের মধ্যে আওয়ামী লীগের দোসর বলে কিছু নেই। সবাই নির্বাচন সুষ্ঠুভাবে সম্পন্ন করতে প্রস্তুত এবং সবাই সৎ কর্মকর্তা।’",
       "image_url": "https://media.ndiganta.com/original_images/Jahangir_dhEIdiF.jpg"
-    },
-    {
-      "headline": "মুলাদীতে মাদক ও অবৈধ অস্ত্রসহ আটক ৮",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/lJKqeWozuJ1T/",
-      "published_at": null,
-      "summary": "বরিশালের মুলাদী উপজেলায় বাংলাদেশ সেনাবাহিনী অভিজান চালিয়ে মাদক, একটি রিভলবার, দেশীয় অস্ত্র, ককটেল তৈরির কাঁচামাল ও মোটরসাইকেল উদ্ধার করছে। এ সময় একাধিক হত্যা মামলার আসামিসহ আটজনকে আটক করা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Barishal-Arrest.gif"
-    },
-    {
-      "headline": "নিয়োগ ঠেকাতে ইবি শিক্ষককে ‘অপহরণের’ অভিযোগ ছাত্রদল আহ্বায়কের বিরুদ্ধে",
-      "url": "https://dailynayadiganta.com/bangladesh/education-campus/eL0q2V2hhOZ3/",
-      "published_at": null,
-      "summary": "সকাল ৯ টার দিকে ঝিনাইদহ শহরের বাসা থেকে বিশ্ববিদ্যালয়ে আসার জন্য বের হন শরিফুল ইসলাম জুয়েল। বাসার নিচে থেকেই ছাত্রদল আহ্বায়ক সাহেদ আহম্মেদ মোটরসাইকেলে করে তাকে তুলে অজ্ঞাত স্থানে নিয়ে যান বলে অভিযোগ পাওয়া গেছে। অপহরণের সময়ের একটি সিসিটিভি ফুটেজ পাওয়া যায়। যেখানে দেখা যায়, ছাত্রদল আহ্বায়ক মোটরসাইকেলে করে ওই শিক্ষককে উঠিয়ে নিয়ে যাচ্ছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/IU-pic-28-01-26.jpg"
-    },
-    {
-      "headline": "মায়েদের গায়ে হাত দিলে বসে থাকব না: জামায়াতের আমির",
-      "url": "https://www.prothomalo.com/politics/d85sx3nu6w",
-      "published_at": "2026-01-28T13:22:13.994000+00:00",
-      "summary": "জামায়াতের আমির বলেন, ‘আমাদের জীবনের চাইতে আমাদের মায়েদের ইজ্জতের মূল্য আমাদের কাছে অনেক বেশি।’",
-      "image_s3_key": "prothomalo-bangla/2026-01-28/e1m9id1b/Jamat.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/e1m9id1b/Jamat.jpeg?auto=format,compress"
     }
   ]
 }
