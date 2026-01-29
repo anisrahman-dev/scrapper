@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-01-29T20:57:58.134538+00:00",
+  "fetched_at": "2026-01-29T21:29:17.647558+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "শুধু বগুড়া নয়, পুরো দেশের কথা চিন্তা করতে হবে",
+        "url": "https://www.prothomalo.com/politics/b4qyqph7ip",
+        "published_at": "2026-01-29T21:16:48.134000+00:00",
+        "summary": "বগুড়াকে ‘নিজের ঘর’ অভিহিত করে তারেক রহমান বলেন, ‘নিজের ঘরে এসে কী বলব তাল হারিয়ে ফেলেছি। নিজেও অনেকটা ইমোশনাল হয়ে গেছি। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-29/q4hd06hq/bogra-1.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/q4hd06hq/bogra-1.jpeg?auto=format,compress"
+      },
       {
         "headline": "ফার্নেস তেলে ৬৪৪ কোটি\nটাকা বাড়তি নেয় বিপিসি ",
         "url": "https://www.prothomalo.com/business/o540trw36r",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/tf0kxu5m/Ali-Reaj.jpeg?auto=format,compress"
       },
       {
-        "headline": "হাঁসের মাংসের খিচুড়ির রেসিপি",
-        "url": "https://www.prothomalo.com/lifestyle/recipe/0zkf8f4xs1",
-        "published_at": "2026-01-29T16:20:06.761000+00:00",
-        "summary": "শীতে গ্রাম থেকে শহর—সবখানেই হাঁসের মাংসের কদর বাড়ে। হাঁস দিয়ে রাঁধতে পারেন খিচুড়ি। রেসিপি দিয়েছেন শুভাগতা দেবাশীষ। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-29/ibqr69wp/040A9898.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/ibqr69wp/040A9898.JPG?auto=format,compress"
-      },
-      {
         "headline": "১৫ বছর শুধু বগুড়া নয় সমগ্র বাংলাদেশ বঞ্চিত ছিল: তারেক রহমান",
         "url": "https://www.bd-pratidin.com/election/2026/01/30/1210963",
         "published_at": "2026-01-30T02:10:08+06:00",
@@ -393,11 +393,18 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769700604-fb31d78171f6f5767087ad03e990ad09.jpg"
       },
       {
+        "headline": "২০০৮ সালের মতো ধানের শীষে ৬৮০ ভোট ধরিয়ে দেবে হাতিয়ার মানুষ: হান্নান মাসউদ",
+        "url": "https://www.ittefaq.com.bd/772428/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AE-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%80%E0%A6%B7%E0%A7%87-%E0%A7%AC%E0%A7%AE%E0%A7%A6-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%A7%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87",
+        "published_at": null,
+        "summary": "২০০৮ সালের মতো আগামী ১২ তারিখের নির্বাচনেও ধানের শীষ মার্কায় ৬৮০ ভোট ধরিয়ে দেবে হাতিয়ার মানুষ। বৃহস্পতিবার (২৯ জানুয়ারি) চরকিং সাব-বাজারে নির্বাচনী গণসংযোগকালে সাধারণ মানুষের উদ্দেশে দেয়া বক্তব্যে নোয়াখালী-৬ (হাতিয়া) আসনের সংসদ সদস্য প্রার্থী আব্দুল হান্নান মাসউদ এ কথা বলেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/fd67e5d81ccd9703846ac2b3df61fa96-697bc6fac157e.jpg"
+      },
+      {
         "headline": "জামায়াত মাফ না চেয়ে ভোট চায় কীভাবে: মির্জা ফখরুল",
         "url": "https://www.ittefaq.com.bd/772422/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%AB-%E0%A6%A8%E0%A6%BE-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87%C2%A0%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%9A%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%AB%E0%A6%96%E0%A6%B0%E0%A7%81%E0%A6%B2",
         "published_at": null,
-        "summary": "জামায়াতে ইসলামী এখনো একাত্তরের ভূমিকার জন্য জাতির কাছে ক্ষমা চায়নি বলে মন্তব্য করেছেন বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর। তিনি প্রশ্ন তুলে বলেন, ‘জামায়াত এখনো একাত্তরের ভূমিকার জন্য মাফ চায়নি, তারা ভোট চায় কীভাবে?’ গতকাল বৃহস্পতিবার ঠাকুরগাঁও-১ আসনের গড়েয়া ইউনিয়নের চণ্ডীপুর বাজারে এক পথসভায় তিনি এ কথা বলেন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/28eebc9715ca055a9b63d08cd36a7b66-697bb660e8f9d.jpg"
+        "summary": null,
+        "image_url": null
       },
       {
         "headline": "৫৪ বছরের প্রচলিত আইন জনগণ আর চায় না: চরমোনাই পীর",
@@ -424,8 +431,8 @@
         "headline": "ইমরান খান পুরোপুরি সুস্থ আছেন: পাকিস্তানের তথ্যমন্ত্রী",
         "url": "https://www.ittefaq.com.bd/772418/%E0%A6%87%E0%A6%AE%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%96%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%86%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0",
         "published_at": null,
-        "summary": "পাকিস্তান তেহরিক-ই-ইনসাফ (পিটিআই)-এর প্রতিষ্ঠাতা ও সাবেক প্রধানমন্ত্রী ইমরান খান পুরোপুরি সুস্থ আছেন বলে জানিয়েছেন দেশটির ফেডারেল তথ্য ও সম্প্রচারমন্ত্রী আতাউল্লাহ তারার। চোখের চিকিৎসার জন্য তাকে হাসপাতালে নেওয়া হলেও তার স্বাস্থ্য নিয়ে উদ্বেগের কোনো কারণ নেই বলে দাবি করেন তিনি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/def080edb09a42c4e60dd5e4d42fcf17-697ba9c1ba4c4.jpg"
+        "summary": null,
+        "image_url": null
       },
       {
         "headline": "হাসিনাকে ‘লাত্থি দিয়ে’ ভারতে পাঠিয়েছি, আপনাদেরও সেভাবেই ডিল করব: সাদিক কায়েম",
@@ -452,15 +459,8 @@
         "headline": "জামায়াত প্রার্থী শিশির মনিরের নির্বাচনি প্রচারের গাড়ি ভাঙচুর",
         "url": "https://www.ittefaq.com.bd/772413/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0",
         "published_at": null,
-        "summary": "সুনামগঞ্জ-২ আসনের জামায়াতে ইসলামীর প্রার্থী শিশির মনিরের নির্বাচনি প্রচারের গাড়ি ভাঙচুর করেছে দুর্বৃত্তরা। আজ বৃহস্পতিবার (২৯ জানুয়ারি) রাতে দিরাই উপজেলার তাড়ল এলাকায় এ ঘটনা ঘটে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/3272d777694bc336e95266449064b67b-697b95b706fbd.jpg"
-      },
-      {
-        "headline": "ভোট দিন, বিয়ে সহজ করে দেবো— প্রতিশ্রুতি স্বতন্ত্র প্রার্থী আশা মণির",
-        "url": "https://www.ittefaq.com.bd/772412/%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%8B%E2%80%94-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0",
-        "published_at": null,
-        "summary": "নির্বাচনি মাঠে যখন উন্নয়ন, সংস্কার আর বড় বড় রাজনৈতিক প্রতিশ্রুতির ছড়াছড়ি, তখন একেবারেই ভিন্ন সুরে ভোট চাইছেন ঠাকুরগাঁও-৩ (পীরগঞ্জ ও রাণীশংকৈল) আসনের স্বতন্ত্র সংসদ সদস্য প্রার্থী আশা মণি। উন্নয়ন প্রকল্প নয়, বরং ভোটারদের জন্য ‘বিয়ে সহজ করে দেওয়ার’ ঘোষণা দিয়ে ইতোমধ্যেই আলোচনার কেন্দ্রবিন্দুতে উঠে এসেছেন তিনি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/054377fc5432fe9ae550816ec6f1d5b5-697b8dc04f233.jpg"
+        "summary": null,
+        "image_url": null
       },
       {
         "headline": "নির্বাচন বানচালের ষড়যন্ত্রটার্গেট কিলিংয়ের ছক আ’লীগের",
@@ -601,6 +601,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "হাঁসের মাংসের খিচুড়ির রেসিপি",
+        "url": "https://www.prothomalo.com/lifestyle/recipe/0zkf8f4xs1",
+        "published_at": "2026-01-29T16:20:06.761000+00:00",
+        "summary": "শীতে গ্রাম থেকে শহর—সবখানেই হাঁসের মাংসের কদর বাড়ে। হাঁস দিয়ে রাঁধতে পারেন খিচুড়ি। রেসিপি দিয়েছেন শুভাগতা দেবাশীষ। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-29/ibqr69wp/040A9898.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/ibqr69wp/040A9898.JPG?auto=format,compress"
+      },
+      {
+        "headline": "ভোট দিন, বিয়ে সহজ করে দেবো— প্রতিশ্রুতি স্বতন্ত্র প্রার্থী আশা মণির",
+        "url": "https://www.ittefaq.com.bd/772412/%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%8B%E2%80%94-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%A4%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0",
+        "published_at": null,
+        "summary": "নির্বাচনি মাঠে যখন উন্নয়ন, সংস্কার আর বড় বড় রাজনৈতিক প্রতিশ্রুতির ছড়াছড়ি, তখন একেবারেই ভিন্ন সুরে ভোট চাইছেন ঠাকুরগাঁও-৩ (পীরগঞ্জ ও রাণীশংকৈল) আসনের স্বতন্ত্র সংসদ সদস্য প্রার্থী আশা মণি। উন্নয়ন প্রকল্প নয়, বরং ভোটারদের জন্য ‘বিয়ে সহজ করে দেওয়ার’ ঘোষণা দিয়ে ইতোমধ্যেই আলোচনার কেন্দ্রবিন্দুতে উঠে এসেছেন তিনি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/054377fc5432fe9ae550816ec6f1d5b5-697b8dc04f233.jpg"
       },
       {
         "headline": "সেরা সিনেমা ‘সাঁতাও’; অভিনেতা আফরান নিশো, অভিনেত্রী পুতুল",
@@ -1488,20 +1503,6 @@
         "published_at": null,
         "summary": "ডিআরইউ চত্বরে ক্র্যাবের আয়োজনে মানবন্ধন ও প্রতিবাদ সমাবেশে এ হুঁশিয়ারি দেয়া হয়।",
         "image_url": "https://media.ndiganta.com/original_images/CRAB.jpg"
-      },
-      {
-        "headline": "শেষ ষোলো নিশ্চিত লিভারপুল, ম্যান সিটি ও বার্সেলোনার, প্লে-অফে খেলবে পিএসজি, রিয়াল",
-        "url": "https://dailynayadiganta.com/sports/football/erVyaWfYMdf1/",
-        "published_at": null,
-        "summary": "রেকর্ড ১৫ বারের চ্যাম্পিয়ন রিয়াল মাদ্রিদও সরাসরি রাউন্ড অব সিক্সটিনে খেলার যোগ্যতা হারিয়েছে। বেনফিকার মাঠে ৪-২ গোলে হারার পর সেরা আটের বাইরে ছিটকে যায় দলটি। গোলরক্ষক আনাতোলি ট্রুবিন ৯৮তম মিনিটে গোল করে বেনফিকাকে প্লে-অফের শেষ স্থান উপহার দেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Champions-League-full-schedule-announced.jpg"
-      },
-      {
-        "headline": "ধামরাইয়ে খেলাফত মজলিসের মুফতি আশরাফ আলীর সাংবাদিকদের সাথে মতবিনিময়",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/CF2hwfbrxE1K/",
-        "published_at": null,
-        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে সামনে রেখে ১১ দলীয় জোটের (উন্মুক্ত) পক্ষে খেলাফত মজলিস ঢাকা-২০ ধামরাই আসনে উন্মুক্ত প্রার্থী হিসেবে মুফতি আশরাফ আলী স্থানীয় সাংবাদিক সাথে মতবিনিময় সভা করেছেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Dhamrai_Khelafat_Majlish_tz816yk.jpg"
       }
     ],
     "bangladesh": [
@@ -1906,8 +1907,8 @@
         "headline": "টেংরাটিলা বিস্ফোরণের ৪২ মিলিয়ন ডলার ক্ষতিপূরণ পাচ্ছে বাংলাদেশ",
         "url": "https://www.ittefaq.com.bd/772406/%E0%A6%9F%E0%A7%87%E0%A6%82%E0%A6%B0%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A7%AA%E0%A7%A8-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A6%A3",
         "published_at": null,
-        "summary": "দীর্ঘ আইনি লড়াইয়ের পর অবশেষে টেংরাটিলা গ্যাসক্ষেত্র বিস্ফোরণের ক্ষতিপূরণ পাচ্ছে বাংলাদেশ। আন্তর্জাতিক আদালতে রায়ে ৪২ বিলিয়ন মার্কিন ডলার দিতে হবে কানাডিয়ান প্রতিষ্ঠান নাইকোকে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/bb30e33452cd3b782a4db4d338f843fb-697b7bca7923d.jpg"
+        "summary": null,
+        "image_url": null
       },
       {
         "headline": "সরকারি কর্মকর্তারা গণভোটে ‘হ্যাঁ’ বা ‘না’–এর পক্ষে প্রচার চালাতে পারবেন না: ইসি",
@@ -3057,6 +3058,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769700604-fb31d78171f6f5767087ad03e990ad09.jpg"
       },
       {
+        "headline": "২০০৮ সালের মতো ধানের শীষে ৬৮০ ভোট ধরিয়ে দেবে হাতিয়ার মানুষ: হান্নান মাসউদ",
+        "url": "https://www.ittefaq.com.bd/772428/%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AE-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%80%E0%A6%B7%E0%A7%87-%E0%A7%AC%E0%A7%AE%E0%A7%A6-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%A7%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87",
+        "published_at": null,
+        "summary": "২০০৮ সালের মতো আগামী ১২ তারিখের নির্বাচনেও ধানের শীষ মার্কায় ৬৮০ ভোট ধরিয়ে দেবে হাতিয়ার মানুষ। বৃহস্পতিবার (২৯ জানুয়ারি) চরকিং সাব-বাজারে নির্বাচনী গণসংযোগকালে সাধারণ মানুষের উদ্দেশে দেয়া বক্তব্যে নোয়াখালী-৬ (হাতিয়া) আসনের সংসদ সদস্য প্রার্থী আব্দুল হান্নান মাসউদ এ কথা বলেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/fd67e5d81ccd9703846ac2b3df61fa96-697bc6fac157e.jpg"
+      },
+      {
         "headline": "জামায়াত মাফ না চেয়ে ভোট চায় কীভাবে: মির্জা ফখরুল",
         "url": "https://www.ittefaq.com.bd/772422/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%AE%E0%A6%BE%E0%A6%AB-%E0%A6%A8%E0%A6%BE-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87%C2%A0%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%9A%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%AB%E0%A6%96%E0%A6%B0%E0%A7%81%E0%A6%B2",
         "published_at": null,
@@ -3118,13 +3126,6 @@
         "published_at": null,
         "summary": "বিএনপির মহাসচিব ও ঠাকুরগাঁও-১ আসনের সংসদ সদস্য প্রার্থী মির্জা ফখরুল ইসলাম আলমগীর বলেছেন, ‘জামায়াতে ইসলাম শুধু ১৯৭১ সালে বাংলাদেশের স্বাধীনতা যুদ্ধের বিরোধিতা করেনি, ইতিহাস বলছে তারা ১৯৪৭ সালে পাকিস্তানেরও বিরোধিতা করেছিল। তারা পাকিস্তানও চায়নি, বাংলাদেশও চায়নি।’",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/11/06/efc9df8fae7552759de14322d5ef33e3-690c904b60e7e.jpg"
-      },
-      {
-        "headline": "বাস জামায়াত আমিরের জন্য নয়, ব্যবহার হবে প্রচারণার জন্য",
-        "url": "https://www.ittefaq.com.bd/772382/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0",
-        "published_at": null,
-        "summary": "রাজধানীতে মাল্টিমিডিয়া বাসের মাধ্যমে নির্বাচনী প্রচারণা শুরু করেছে বাংলাদেশ জামায়াতে ইসলামী। মিরপুর-১০ এলাকায় মাল্টিমিডিয়া নির্বাচনী বাসের উদ্বোধনের মাধ্যমে কর্মসূচির সূচনা করেন দলটির আমির ডা. শফিকুর রহমান।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/754a95a7f31f3bfb9929162f63e2be25-697b53e814657.jpg"
       },
       {
         "headline": "চট্টগ্রামে তারেক রহমানের জনসভায় যাওয়ার পথে কিশোরের মৃত্যু",
@@ -3207,8 +3208,15 @@
         "headline": "বাংলাদেশ জামায়াতে ইসলামী",
         "url": "https://www.jugantor.com/jamaat",
         "published_at": null,
-        "summary": "সুনামগঞ্জের দিরাইয়ে ১১ দলীয় জোটের সংসদ সদস্য পদপ্রার্থী এডভোকেট মোহাম্মদ শিশির মনিরের নির্বাচনী প্রচার গাড়িতে (ক্যারাভ্যান) হামলা ভাংচুর করার অভিযোগ ...",
+        "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান আলজাজিরাকে দেওয়া এক সাক্ষাৎকারে স্পষ্টভাবে জানিয়েছেন যে, দলের প্রধান (আমির) পদে কোনো নারী ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "বাস জামায়াত আমিরের জন্য নয়, ব্যবহার হবে প্রচারণার জন্য",
+        "url": "https://www.ittefaq.com.bd/772382/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "রাজধানীতে মাল্টিমিডিয়া বাসের মাধ্যমে নির্বাচনী প্রচারণা শুরু করেছে বাংলাদেশ জামায়াতে ইসলামী। মিরপুর-১০ এলাকায় মাল্টিমিডিয়া নির্বাচনী বাসের উদ্বোধনের মাধ্যমে কর্মসূচির সূচনা করেন দলটির আমির ডা. শফিকুর রহমান।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/754a95a7f31f3bfb9929162f63e2be25-697b53e814657.jpg"
       },
       {
         "headline": "খালেদা জিয়া দুধ-কলা দিয়ে সাপ পুষেছেন, এখন ফণা তুলছেন: বুলু",
@@ -4378,13 +4386,6 @@
         "published_at": null,
         "summary": "বিএনপির স্থায়ী কমিটির সদস্য ও কক্সবাজার-১ আসনে ধানের শীষ প্রতীকের প্রার্থী সালাহউদ্দিন আহমদ বলেছেন, এখন একটি দল ভোটের রাজনীতিতে মিথ্যাচার করছে। তাদের ভোট দিলে মরলে পরে জান্নাত পাবে বলে ধোঁকাবাজি করছে। তাদের থেকে সবাইকে সাবধান থাকতে হবে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/28/f4b0fa6eb0dde0ef65e98c045ec4f9c0-6979d9160982b.jpg"
-      },
-      {
-        "headline": "গণভোটে ‘হ্যাঁ’ জয়যুক্ত হলে তারুণ্যের স্বপ্ন বাস্তবায়ন হবে : আলী রীয়াজ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/28/1210344",
-        "published_at": "2026-01-28T18:53:30+06:00",
-        "summary": "প্রধান উপদেষ্টার বিশেষ সহকারী অধ্যাপক ড. আলী রীয়াজ বলেছেন, তরুণরা নেতৃত্ব দিয়ে ২০২৪-এর গণঅভ্যুত্থান সফল করেছে। তারাই নতুন বাংলাদেশের সম্ভাবনাময় শক্তি। গণভোটে কোনো প্রার্থী নেই। কিন্তু এই গণভোট জাতির জন্য অত্যন্ত গুরুত্ববহ। গণভোটে ‘হ্যাঁ’ জয়যুক্ত হলে তরুণদের স্বপ্নের বাংলাদেশ বাস্তবায়ন হবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769604808-806eae975dad58beeaf8ce6f8732ee7c.jpg"
       }
     ],
     "world": [
