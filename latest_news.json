@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-01-30T20:59:43.911943+00:00",
+  "fetched_at": "2026-01-30T21:27:57.389753+00:00",
   "stories": [
+    {
+      "headline": "আমানুল হক আলোকচিত্রে বাংলার প্রকৃতি ও জনজীবনের হাজার বছরের ইতিহাস তুলে ধরেন",
+      "url": "https://www.prothomalo.com/bangladesh/1wi2cw77wz",
+      "published_at": "2026-01-30T20:56:53.400000+00:00",
+      "summary": "নাসির আলী মামুন বলেন, আমানুল হকের সময়ে দেশে ফটোগ্রাফির কোনো স্টুডিও বা আনুষ্ঠানিক শিক্ষা ছিল না। যমুনা নদীই ছিল তার ছবি তোলার জগৎ ও জীবনের অবিচ্ছেদ্য অংশ।",
+      "image_s3_key": "prothomalo-bangla/2026-01-30/nbk83qe9/chobi-mela.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/nbk83qe9/chobi-mela.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "জগন্নাথ বিশ্ববিদ্যালয়ে ১৯ এপ্রিল থেকে স্নাতক প্রথম বর্ষের ক্লাস শুরু",
+      "url": "https://www.prothomalo.com/bangladesh/rf60gdnm4j",
+      "published_at": "2026-01-30T20:53:23.807000+00:00",
+      "summary": "জগন্নাথ বিশ্ববিদ্যালয়ের ২০২৫-২৬ শিক্ষাবর্ষের স্নাতক প্রথম বর্ষের ক্লাস শুরু হবে ১৯ এপ্রিল। গত বছরের তুলনায় এবার ক্লাস দুই মাস এগিয়ে আনা হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-30/ydw92bnh/2.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/ydw92bnh/2.avif?auto=format,compress"
+    },
     {
       "headline": "ওয়ারীতে রেস্তোরাঁয় গ্যাস সিলিন্ডার বিস্ফোরণে আটজন দগ্ধ",
       "url": "https://www.prothomalo.com/bangladesh/capital/i6ok2i3jm2",
@@ -266,20 +282,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/scngqrxt/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "নতুন চমক নিয়ে আসছেন আলিয়া",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/37o4eorstx",
-      "published_at": "2026-01-30T15:00:00+00:00",
-      "summary": "কেবল অভিনেত্রী হিসেবে নন, প্রযোজক হিসেবেও প্রশংসিত হয়েছেন আলিয়া ভাট। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg?auto=format,compress"
-    },
-    {
       "headline": "নারকেল দিয়ে হাঁসের মাংসের রেসিপি",
       "url": "https://www.prothomalo.com/lifestyle/recipe/rdt67rsgs0",
       "published_at": "2026-01-30T15:00:00+00:00",
       "summary": "শীতে গ্রাম থেকে শহর—সবখানেই হাঁসের মাংসের কদর বাড়ে। নারকেল দিয়েও রাঁধতে পারেন হাঁসের মাংস। রেসিপি দিয়েছেন শুভাগতা দেবাশীষ।",
       "image_s3_key": "prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG?auto=format,compress"
+    },
+    {
+      "headline": "নতুন চমক নিয়ে আসছেন আলিয়া",
+      "url": "https://www.prothomalo.com/entertainment/bollywood/37o4eorstx",
+      "published_at": "2026-01-30T15:00:00+00:00",
+      "summary": "কেবল অভিনেত্রী হিসেবে নন, প্রযোজক হিসেবেও প্রশংসিত হয়েছেন আলিয়া ভাট। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg?auto=format,compress"
     },
     {
       "headline": "বানারীপাড়ায় শতাধিক অনুসারী নিয়ে বিএনপি নেতার জামায়াতে যোগদান",
@@ -296,14 +312,6 @@
       "summary": "মাদারীপুর-১ আসনে বিএনপির মনোনয়ন পাওয়ার পর থেকে আলোচনায় নারীনেত্রী নাদিরা আক্তার। এখন নির্বাচনী এলাকার এক প্রান্ত থেকে অন্য প্রান্তে ভোটারদের দ্বারে দ্বারে ছুটছেন তিনি।",
       "image_s3_key": "prothomalo-bangla/2026-01-30/9i1uw9as/062730MadaripurDH069920260129Madaripur-29-01-26-BNP-Nadira-Akter-Program-Pic-10.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/9i1uw9as/062730MadaripurDH069920260129Madaripur-29-01-26-BNP-Nadira-Akter-Program-Pic-10.jpg?auto=format,compress"
-    },
-    {
-      "headline": "মিয়ানমারের সামরিক–সমর্থিত দলের ভূমিধস জয়, এখনো স্বীকৃতি দেয়নি আসিয়ান",
-      "url": "https://www.prothomalo.com/world/asia/kpfh0aktwt",
-      "published_at": "2026-01-30T14:43:28.227000+00:00",
-      "summary": "ইউএসডিপি দীর্ঘদিন ধরে মিয়ানমার সামরিক বাহিনীর পক্ষে কাজ করে আসছে। দলটির চেয়ারম্যান একজন অবসরপ্রাপ্ত ব্রিগেডিয়ার জেনারেল। আর শীর্ষপদের অনেকে উচ্চপদস্থ সাবেক সেনা কর্মকর্তা।",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/858r8527/People-queue.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/858r8527/People-queue.png?auto=format,compress"
     },
     {
       "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
@@ -376,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
     },
     {
+      "headline": "বিভিন্ন প্রকল্পের মাধ্যমে জাতিকে স্বাস্থ্য, শিক্ষা ও ক্রীড়ায় যুক্ত করা হবে: জুবাইদা রহমান",
+      "url": "https://www.ittefaq.com.bd/772551/%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE",
+      "published_at": null,
+      "summary": "বিএনপির চেয়ারম্যানের সহধর্মিণী জুবাইদা রহমান বলেছেন, তাদের রাজনৈতিক পরিকল্পনা সমাজের বিভিন্ন স্তরে সুস্বাস্থ্য, শিক্ষা এবং ক্রীড়াকে সংযুক্ত করার ওপর কেন্দ্রিত।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/aa94fcb38038c283ddfcf517ede35318-697d1599d5e4d.jpg"
+    },
+    {
       "headline": "‘ডাল মে কুচ কালা হ্যায়’: জামায়াতকে কটাক্ষ চরমোনাই পীরের",
       "url": "https://www.ittefaq.com.bd/772550/%E2%80%98%E0%A6%A1%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%9A-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E2%80%99-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%9A%E0%A6%B0%E0%A6%AE%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%87",
       "published_at": null,
@@ -437,13 +452,6 @@
       "published_at": null,
       "summary": "সমুদ্রে সৃষ্ট শক্তিশালী ‘বোম্ব সাইক্লোন’ আঘাত হানতে যাচ্ছে যুক্তরাষ্ট্রের নর্থ ক্যারোলাইনা ও ভার্জিনিয়ার উপকূলীয় এলাকায়। ভয়াবহ এই শীতকালীন ঝড়ের প্রভাবে আগামী ২৪ ঘণ্টার মধ্যে যুক্তরাষ্ট্রের দক্ষিণ-পূর্ব ও মধ্য-আটলান্টিক অঞ্চলে অস্বাভাবিক তুষারপাত, বিধ্বংসী ঝোড়ো হাওয়া এবং উপকূলীয় বন্যার আশঙ্কা করা হচ্ছে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/70e319a04ca97a1e3d10a7c1fda8bd23-697ce19d6f2dc.jpg"
-    },
-    {
-      "headline": "১৪ বছর পর পাকিস্তানে বাংলাদেশ বিমান, ‘ওয়াটার ক্যানন স্যালুট’-এ সংবর্ধনা",
-      "url": "https://www.ittefaq.com.bd/772538/%E0%A7%A7%E0%A7%AA-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E2%80%98%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0",
-      "published_at": null,
-      "summary": "দীর্ঘ ১৪ বছর পর পাকিস্তানের মাটিতে অবতরণ করল বাংলাদেশের বিমান। পাকিস্তানের সংবাদমাধ্যম দ্য ডন-এর খবরে জানানো হয়েছে, বৃহস্পতিবার রাতে বাংলাদেশ বিমানের ‘বিইজি৩৪১’ নম্বরের একটি ফ্লাইট ঢাকা থেকে সরাসরি উড়ে করাচির জিন্নাহ আন্তর্জাতিক বিমানবন্দরে পৌঁছায়। এ সময় ঐতিহ্যবাহী ‘ওয়াটার ক্যানন স্যালুট’-এর মাধ্যমে ফ্লাইটটিকে স্বাগত জানানো হয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/05e52153bbba034462d9ab55a04b56a0-697cde30652ec.jpg"
     },
     {
       "headline": "নির্বাচন বানচালের ষড়যন্ত্রটার্গেট কিলিংয়ের ছক আ’লীগের",
@@ -542,6 +550,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "মিয়ানমারের সামরিক–সমর্থিত দলের ভূমিধস জয়, এখনো স্বীকৃতি দেয়নি আসিয়ান",
+      "url": "https://www.prothomalo.com/world/asia/kpfh0aktwt",
+      "published_at": "2026-01-30T14:43:28.227000+00:00",
+      "summary": "ইউএসডিপি দীর্ঘদিন ধরে মিয়ানমার সামরিক বাহিনীর পক্ষে কাজ করে আসছে। দলটির চেয়ারম্যান একজন অবসরপ্রাপ্ত ব্রিগেডিয়ার জেনারেল। আর শীর্ষপদের অনেকে উচ্চপদস্থ সাবেক সেনা কর্মকর্তা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-30/858r8527/People-queue.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/858r8527/People-queue.png?auto=format,compress"
+    },
+    {
+      "headline": "১৪ বছর পর পাকিস্তানে বাংলাদেশ বিমান, ‘ওয়াটার ক্যানন স্যালুট’-এ সংবর্ধনা",
+      "url": "https://www.ittefaq.com.bd/772538/%E0%A7%A7%E0%A7%AA-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E2%80%98%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0",
+      "published_at": null,
+      "summary": "দীর্ঘ ১৪ বছর পর পাকিস্তানের মাটিতে অবতরণ করল বাংলাদেশের বিমান। পাকিস্তানের সংবাদমাধ্যম দ্য ডন-এর খবরে জানানো হয়েছে, বৃহস্পতিবার রাতে বাংলাদেশ বিমানের ‘বিইজি৩৪১’ নম্বরের একটি ফ্লাইট ঢাকা থেকে সরাসরি উড়ে করাচির জিন্নাহ আন্তর্জাতিক বিমানবন্দরে পৌঁছায়। এ সময় ঐতিহ্যবাহী ‘ওয়াটার ক্যানন স্যালুট’-এর মাধ্যমে ফ্লাইটটিকে স্বাগত জানানো হয়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/05e52153bbba034462d9ab55a04b56a0-697cde30652ec.jpg"
     },
     {
       "headline": "জগন্নাথ বিশ্ববিদ্যালয়ে ‘বি’ ইউনিটের ভর্তি পরীক্ষা সম্পন্ন, প্রতি আসনে শতাধিক পরীক্ষার্থী",
@@ -1469,27 +1492,6 @@
       "published_at": null,
       "summary": "লিগ পর্বের শেষ ম্যাচে গোলরক্ষকের গোলে রিয়াল মাদ্রিদকে হারিয়ে শেষ মুহূর্তে প্লে-অফ নিশ্চিত করেছিল বেনফিকা। হারের সেই ক্ষত শুকানোর আগেই আবারও মুখোমুখি হবে এই দুই দল। চ্যাম্পিয়নস লিগের নকআউট প্লে-অফ রাউন্ডে আবার একে অন্যের সঙ্গে খেলবে রিয়াল ও বেনফিকা।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/23979a1ad296f1ff81cf79c9c829794c-697caf1c8a51a.jpg"
-    },
-    {
-      "headline": "মিঁয়া মুসলমানদের যতটা সম্ভব হয়রানির মধ্যে রাখতে: আসামের মুখ্যমন্ত্রী",
-      "url": "https://www.ittefaq.com.bd/772515/%E0%A6%AE%E0%A6%BF%E0%A6%81%E0%A7%9F%E0%A6%BE-%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%B2%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A6%A4%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%AC-%E0%A6%B9%E0%A7%9F%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%A4%E0%A7%87",
-      "published_at": null,
-      "summary": "আসামের মুখ্যমন্ত্রী হিমন্ত বিশ্ব শর্মার সাম্প্রতিক কিছু বক্তব্য রাজ্যজুড়ে ব্যাপক রাজনৈতিক ও সামাজিক প্রতিক্রিয়ার জন্ম দিয়েছে। বাংলাভাষী মুসলমানদের একটি অংশকে ‘মিঁয়া’ পরিচয়ে উল্লেখ করে তাদের বিরুদ্ধে পরিকল্পিতভাবে অভিযোগ দায়ের এবং প্রশাসনিক বিভিন্ন প্রক্রিয়ার মাধ্যমে ‘চাপ সৃষ্টি’ করার কথা তিনি প্রকাশ্যে বলেছেন বলে জার্মানভিত্তিক সংবাদমাধ্যম ডয়েচ ভেলে (ডিডব্লিউ)-এর এক প্রতিবেদনে উল্লেখ করা হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/4b6d2d9bfaa9c381322c4bc435e9e0d2-697caaf4be58c.jpg"
-    },
-    {
-      "headline": "শীত নিয়ে দুঃসংবাদ দিলো আবহাওয়া অধিদপ্তর",
-      "url": "https://www.ittefaq.com.bd/772514/%E0%A6%B6%E0%A7%80%E0%A6%A4-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8B-%E0%A6%86%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%A6%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%B0",
-      "published_at": null,
-      "summary": "গত কয়েকদিনে সারাদেশে শীতের তীব্রতা কিছুটা কম থাকলেও ফের তাপমাত্রা কমে শীতের দাপট বাড়তে পারে বলে আভাস দিয়েছে আবহাওয়া অধিদপ্তর। আগামী ৫ দিন দেশজুড়ে তাপমাত্রা কখনো কমবে, কখনো অপরিবর্তিত থাকতে পারে আবার কখনো বাড়ার সম্ভাবনা রয়েছে বলে জানিয়েছে সংস্থাটি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/3334290736ebc67bd6e4f3776114333e-697ca8876dcd5.jpg"
-    },
-    {
-      "headline": "নির্বাচনকে কেন্দ্র করে যৌথ অভিযান, বিএনপি নেতার বাড়িতে মিললো দেশীয় অস্ত্র",
-      "url": "https://www.ittefaq.com.bd/772513/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%B0",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে কেন্দ্র করে সহিংসতা, ভয়ভীতি ও নাশকতা ঠেকাতে গাইবান্ধার ফুলছড়িতে যৌথ অভিযান চালিয়েছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী। এসময় দেশীয় অস্ত্রসহ এক বিএনপি নেতাকে আটক করা হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/258b2f2ab0a9c15bc44a29d445dbdde0-697ca7844f518.jpg"
     }
   ]
 }
