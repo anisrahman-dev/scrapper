@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-01-30T22:23:37.288767+00:00",
+  "fetched_at": "2026-01-30T22:57:29.009809+00:00",
   "stories": [
+    {
+      "headline": "ইমরানের চোখে অস্ত্রোপচার, তথ্য লুকানোর অভিযোগ",
+      "url": "https://www.prothomalo.com/world/pakistan/b9gqf2oekl",
+      "published_at": "2026-01-30T22:45:00+00:00",
+      "summary": "ইমরান খানের শারীরিক অবস্থা নিয়ে সরকার কয়েক দিন ধরে জনসমক্ষে মিথ্যা তথ্য দিয়ে বিষয়টি গোপন রেখেছে বলে অভিযোগ।",
+      "image_s3_key": "prothomalo-bangla/2026-01-30/4ra3herd/Capture.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/4ra3herd/Capture.PNG?auto=format,compress"
+    },
+    {
+      "headline": "সম্পর্কে ভুল বোঝাবুঝি এড়াতে ইসলামের ৬ সমাধান",
+      "url": "https://www.prothomalo.com/religion/islam/cb8vz968w5",
+      "published_at": "2026-01-30T22:30:00+00:00",
+      "summary": "অনেক সময় ভাবি, “আমি যা বুঝেছি সেটাই ধ্রুব সত্য।” অথচ একটি ঘটনার অনেকগুলো দিক থাকতে পারে। অন্যের ব্যাখ্যা শোনার মানসিকতা থাকা প্রজ্ঞাবান মানুষের পরিচয়।",
+      "image_s3_key": "prothomalo-bangla/2026-01-29/k8tilpr6/pexels-joaquin-carfagna-3131171-16753361.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/k8tilpr6/pexels-joaquin-carfagna-3131171-16753361.jpg?auto=format,compress"
+    },
     {
       "headline": "ফেডের দায়িত্বে ট্রাম্পের মনোনয়ন \nপেলেন কেভিন ওয়ারশ",
       "url": "https://www.prothomalo.com/world/usa/510xtgd6oa",
@@ -298,22 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg?auto=format,compress"
     },
     {
-      "headline": "নারকেল দিয়ে হাঁসের মাংসের রেসিপি",
-      "url": "https://www.prothomalo.com/lifestyle/recipe/rdt67rsgs0",
-      "published_at": "2026-01-30T15:00:00+00:00",
-      "summary": "শীতে গ্রাম থেকে শহর—সবখানেই হাঁসের মাংসের কদর বাড়ে। নারকেল দিয়েও রাঁধতে পারেন হাঁসের মাংস। রেসিপি দিয়েছেন শুভাগতা দেবাশীষ।",
-      "image_s3_key": "prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG?auto=format,compress"
-    },
-    {
-      "headline": "বানারীপাড়ায় শতাধিক অনুসারী নিয়ে বিএনপি নেতার জামায়াতে যোগদান",
-      "url": "https://www.prothomalo.com/bangladesh/district/epig9w6z52",
-      "published_at": "2026-01-30T14:59:38.261000+00:00",
-      "summary": "এ সময় গোলাম মাহমুদ মাহাবুবকে দাঁড়িপাল্লা প্রতীকের উত্তরীয় পরিয়ে ও ফুলেল শুভেচ্ছা জানিয়ে বরণ করে নেন জামায়াতে ইসলামীর নেতারা।",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/c5kz5l6l/BarishalDH059020260130barishal-000000000.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/c5kz5l6l/BarishalDH059020260130barishal-000000000.jpg?auto=format,compress"
-    },
-    {
       "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
       "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
       "published_at": "2026-01-31T01:21:55+06:00",
@@ -468,6 +468,13 @@
       "image_url": "https://media.ndiganta.com/images/PDB.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "সভাপতি বুলবুলের বিরুদ্ধে দুর্নীতির অভিযোগ মিথ্যা : বিসিবি",
+      "url": "https://dailynayadiganta.com/sports/cricket/XXTxgsfStU7X/",
+      "published_at": null,
+      "summary": "এটাকে সম্পূর্ণ মিথ্যা বলে জানিয়েছে বিসিবি। পাশাপাশি যারা এই তথ্য ছড়িয়েছে, তাদের বিরুদ্ধে সাধারণ ডায়েরিও (জিডি) করেছে সংস্থাটি।",
+      "image_url": "https://media.ndiganta.com/original_images/Bulbul-BCB.jpg"
+    },
+    {
       "headline": "মাদারীপুরে কিশোর গ্যাংয়ের দুপক্ষের সংঘর্ষ : ককটেল বিস্ফোরণ, দোকানপাটে ভাংচুর",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/5PYmy2ZbjTDE/",
       "published_at": null,
@@ -517,13 +524,6 @@
       "image_url": "https://media.ndiganta.com/original_images/3rd-2_irjfDk6.jpg"
     },
     {
-      "headline": "ইনসাফভিত্তিক রাষ্ট্র গড়তে ১১ দলীয় প্রার্থীদের বিজয়ী করুন : মাওলানা শামসুল ইসলাম",
-      "url": "https://dailynayadiganta.com/printed-edition/hAbIZsytMkxe/",
-      "published_at": null,
-      "summary": "জামায়াতের কেন্দ্রীয় নায়েবে আমির ও সাবেক এমপি মাওলানা আ ন ম শামসুল ইসলাম বলেছেন, যে লক্ষ্য নিয়ে দেশের তরুণরা জীবন দিয়ে ফ্যাসিবাদ তাড়িয়েছিল; তার ছিটেফোঁটাও পূরণ হয়নি। জনগণের প্রত্যাশিত বাংলাদেশ গড়তে হলে তরুণদের সজাগ থাকতে হবে। ৫৪ বছর ধরে চলে আসা অনিয়মের জাল ছিন্ন করে পরিবর্তন আনতে হলে আসন্ন নির্বাচনে গণভোটে হ্যাঁ দিতে হবে। একই সাথে ইনসাফভিত্তিক কলাণরাষ্ট্র বাস্তবায়ন করার জন্য  দেশপ্রেমিক ঐক্যজোট তথা ১১ দলীয় নির্বাচনী ঐক্যের প্রার্থীদের বিজয়ী করতে হবে। চট্টগ্রাম-১৫ (সাতকানিয়া-লোহাগাড়া) আসনে আমাদের প্রার্থী আলহাজ শাহজাহান চৌধুরীকে বিপুল ভোটে বিজয়ী করতে সর্বোচ্চ ত্যাগের মানসিকতা নিয়ে কাজ করতে হবে।",
-      "image_url": "https://media.ndiganta.com/original_images/3rd-1_axOsUUy.jpg"
-    },
-    {
       "headline": "রংপুরে তারেক রহমানসরকারে গেলে তিস্তা মহাপরিকল্পনা বাস্তবায়ন করা হবে",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/fnekYtDENpv7/",
       "published_at": null,
@@ -571,6 +571,29 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "নারকেল দিয়ে হাঁসের মাংসের রেসিপি",
+      "url": "https://www.prothomalo.com/lifestyle/recipe/rdt67rsgs0",
+      "published_at": "2026-01-30T15:00:00+00:00",
+      "summary": "শীতে গ্রাম থেকে শহর—সবখানেই হাঁসের মাংসের কদর বাড়ে। নারকেল দিয়েও রাঁধতে পারেন হাঁসের মাংস। রেসিপি দিয়েছেন শুভাগতা দেবাশীষ।",
+      "image_s3_key": "prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG?auto=format,compress"
+    },
+    {
+      "headline": "বানারীপাড়ায় শতাধিক অনুসারী নিয়ে বিএনপি নেতার জামায়াতে যোগদান",
+      "url": "https://www.prothomalo.com/bangladesh/district/epig9w6z52",
+      "published_at": "2026-01-30T14:59:38.261000+00:00",
+      "summary": "এ সময় গোলাম মাহমুদ মাহাবুবকে দাঁড়িপাল্লা প্রতীকের উত্তরীয় পরিয়ে ও ফুলেল শুভেচ্ছা জানিয়ে বরণ করে নেন জামায়াতে ইসলামীর নেতারা।",
+      "image_s3_key": "prothomalo-bangla/2026-01-30/c5kz5l6l/BarishalDH059020260130barishal-000000000.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/c5kz5l6l/BarishalDH059020260130barishal-000000000.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইনসাফভিত্তিক রাষ্ট্র গড়তে ১১ দলীয় প্রার্থীদের বিজয়ী করুন : মাওলানা শামসুল ইসলাম",
+      "url": "https://dailynayadiganta.com/printed-edition/hAbIZsytMkxe/",
+      "published_at": null,
+      "summary": "জামায়াতের কেন্দ্রীয় নায়েবে আমির ও সাবেক এমপি মাওলানা আ ন ম শামসুল ইসলাম বলেছেন, যে লক্ষ্য নিয়ে দেশের তরুণরা জীবন দিয়ে ফ্যাসিবাদ তাড়িয়েছিল; তার ছিটেফোঁটাও পূরণ হয়নি। জনগণের প্রত্যাশিত বাংলাদেশ গড়তে হলে তরুণদের সজাগ থাকতে হবে। ৫৪ বছর ধরে চলে আসা অনিয়মের জাল ছিন্ন করে পরিবর্তন আনতে হলে আসন্ন নির্বাচনে গণভোটে হ্যাঁ দিতে হবে। একই সাথে ইনসাফভিত্তিক কলাণরাষ্ট্র বাস্তবায়ন করার জন্য  দেশপ্রেমিক ঐক্যজোট তথা ১১ দলীয় নির্বাচনী ঐক্যের প্রার্থীদের বিজয়ী করতে হবে। চট্টগ্রাম-১৫ (সাতকানিয়া-লোহাগাড়া) আসনে আমাদের প্রার্থী আলহাজ শাহজাহান চৌধুরীকে বিপুল ভোটে বিজয়ী করতে সর্বোচ্চ ত্যাগের মানসিকতা নিয়ে কাজ করতে হবে।",
+      "image_url": "https://media.ndiganta.com/original_images/3rd-1_axOsUUy.jpg"
     },
     {
       "headline": "ধেয়ে আসছে শক্তিশালী ‘বোম্ব সাইক্লোন’, ঝুঁকিতে যুক্তরাষ্ট্রের নর্থ ক্যারোলাইনা ও ভার্জিনিয়ার উপকূল",
@@ -1464,30 +1487,6 @@
       "summary": "আজ শুক্রবার প্রকাশিত এক গবেষণা প্রতিবেদনে এমনটা উল্লেখ করা হয়েছে।",
       "image_s3_key": "prothomalo-bangla/2026-01-30/1qzpes7e/AI.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/1qzpes7e/AI.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বাক্‌ ও শ্রবণপ্রতিবন্ধীদের জন্য সম্ভব সবকিছু করার আশ্বাস মির্জা আব্বাসের",
-      "url": "https://www.prothomalo.com/politics/b2fopkai23",
-      "published_at": "2026-01-30T11:52:30.912000+00:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ঢাকা–৮ আসনে বিএনপির মনোনীত প্রার্থী মির্জা আব্বাস।",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/4s1fmvnm/mirzaabbas.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/4s1fmvnm/mirzaabbas.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "রংপুর শহরে পৌঁছার আগে শিশুদের সালাম গ্রহণ করেন তারেক রহমান",
-      "url": "https://www.prothomalo.com/video/bangladesh/3b8s07g04f",
-      "published_at": "2026-01-30T11:48:59.036000+00:00",
-      "summary": "রংপুর শহরে পৌঁছার আগে শিশুদের সালাম গ্রহণ করেন তারেক রহমান",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/fqh04yto/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/fqh04yto/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ঢাকার প্রদর্শনীতে নজর কেড়েছে ৫ লাখ টাকার বৈদ্যুতিক গাড়ি",
-      "url": "https://www.prothomalo.com/technology/automobiles/ljfgofcceh",
-      "published_at": "2026-01-30T11:44:53.253000+00:00",
-      "summary": "‘ডিজিটাল ডিভাইস অ্যান্ড ইনোভেশন এক্সপো’তে বিভিন্ন প্রযুক্তিপণ্য ও স্মার্টফোনের পাশাপাশি দেখা মিলছে আকারে ছোট বৈদ্যুতিক গাড়ির।",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/39agg0ei/Car.palo2.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/39agg0ei/Car.palo2.jpeg?auto=format,compress"
     }
   ]
 }
