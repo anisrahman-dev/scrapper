@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-01-30T18:57:30.158406+00:00",
+  "fetched_at": "2026-01-30T19:34:01.845727+00:00",
   "stories": [
+    {
+      "headline": "বনানীতে পাঁচতলা ভবনে লাগা আগুন পৌনে এক ঘণ্টার চেষ্টায় নিয়ন্ত্রণে",
+      "url": "https://www.prothomalo.com/bangladesh/capital/cgx2lavaqi",
+      "published_at": "2026-01-30T19:04:30.438000+00:00",
+      "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনে হার্ডবোর্ডের গুদামে আগুন লাগে। ফায়ার সার্ভিসের চারটি ইউনিট পৌনে এক ঘণ্টার চেষ্টায় আগুন নিয়ন্ত্রণে আনে।",
+      "image_s3_key": "prothomalo-bangla/2024-10-13/qaa0yq0c/Industrial-Fire-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-13/qaa0yq0c/Industrial-Fire-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "‘স্টপ জে‌নোসাইড’ মু‌ক্তিযু‌দ্ধের দ‌লিল",
+      "url": "https://www.prothomalo.com/entertainment/dhallywood/h5m8lujsy5",
+      "published_at": "2026-01-30T19:00:00+00:00",
+      "summary": "মুক্তিযুদ্ধ চলাকালে ইংরেজি ভাষায় ‘স্টপ জেনোসাইড’ নির্মাণ করেন জহির রায়হান। এতে পাকিস্তানি সামরিক বাহিনীর ধ্বংসযজ্ঞ, গণহত্যা, শরণার্থীদের দুরবস্থা তুলে ধরেন তিনি।\n",
+      "image_s3_key": "prothomalo-bangla/2026-01-30/2zrqvtg0/A63I7354.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/2zrqvtg0/A63I7354.JPG?auto=format,compress"
+    },
+    {
+      "headline": "একঝলক (৩০ জানুয়ারি ২০২৬)",
+      "url": "https://www.prothomalo.com/bangladesh/dqytj0qnjc",
+      "published_at": "2026-01-30T18:57:54.997000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-01-30/na8rlhz4/1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/na8rlhz4/1.jpg?auto=format,compress"
+    },
     {
       "headline": "কলকাতায় আগুনের ঘটনায় ২৫ দেহাবশেষ উদ্ধার, মন্ত্রীর পদত্যাগ চায় বিজেপি",
       "url": "https://www.prothomalo.com/world/india/kxtlv4lsfd",
@@ -218,20 +242,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/scngqrxt/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "নতুন চমক নিয়ে আসছেন আলিয়া",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/37o4eorstx",
-      "published_at": "2026-01-30T15:00:00+00:00",
-      "summary": "কেবল অভিনেত্রী হিসেবে নন, প্রযোজক হিসেবেও প্রশংসিত হয়েছেন আলিয়া ভাট। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg?auto=format,compress"
-    },
-    {
       "headline": "নারকেল দিয়ে হাঁসের মাংসের রেসিপি",
       "url": "https://www.prothomalo.com/lifestyle/recipe/rdt67rsgs0",
       "published_at": "2026-01-30T15:00:00+00:00",
       "summary": "শীতে গ্রাম থেকে শহর—সবখানেই হাঁসের মাংসের কদর বাড়ে। নারকেল দিয়েও রাঁধতে পারেন হাঁসের মাংস। রেসিপি দিয়েছেন শুভাগতা দেবাশীষ।",
       "image_s3_key": "prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG?auto=format,compress"
+    },
+    {
+      "headline": "নতুন চমক নিয়ে আসছেন আলিয়া",
+      "url": "https://www.prothomalo.com/entertainment/bollywood/37o4eorstx",
+      "published_at": "2026-01-30T15:00:00+00:00",
+      "summary": "কেবল অভিনেত্রী হিসেবে নন, প্রযোজক হিসেবেও প্রশংসিত হয়েছেন আলিয়া ভাট। ",
+      "image_s3_key": "prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg?auto=format,compress"
     },
     {
       "headline": "বানারীপাড়ায় শতাধিক অনুসারী নিয়ে বিএনপি নেতার জামায়াতে যোগদান",
@@ -282,28 +306,32 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/ifo5xf18/kolkata-boiu-mela.png?auto=format,compress"
     },
     {
-      "headline": "ব্যবস্থা নিচ্ছে বন্দর, তীব্র আন্দোলনের হুঁশিয়ারি বিক্ষোভকারীদের",
-      "url": "https://www.prothomalo.com/bangladesh/district/4prs6xg1my",
-      "published_at": "2026-01-30T14:30:10.433000+00:00",
-      "summary": "চট্টগ্রাম বন্দরের নিউমুরিং কনটেইনার টার্মিনাল (এনসিটি) সংযুক্ত আরব আমিরাতভিত্তিক কোম্পানি ডিপি ওয়ার্ল্ডের কাছে ইজারা দেওয়ার সরকারি সিদ্ধান্তের প্রতিবাদে যেসব কর্মচারী প্রতিবাদ কর্মসূচিতে অংশ নিয়েছেন, তাঁদের বিরুদ্ধে ব্যবস্থা নিচ্ছে বন্দর কর্তৃপক্ষ। গতকাল বৃহস্পতিবার বন্দর কর্তৃপক্ষের পরিচালক (প্রশাসন) মো. ওমর ফারুকের এক অফিস আদেশে সব বিভাগীয় প্রধানদের ব্যবস্থা নেওয়ার জন্য এই নির্দেশনা দেওয়া হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/73wcb4a6/WhatsApp-Image-2026-01-30-at-8.20.45-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/73wcb4a6/WhatsApp-Image-2026-01-30-at-8.20.45-PM.jpeg?auto=format,compress"
+      "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+      "published_at": "2026-01-31T01:21:55+06:00",
+      "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
     },
     {
-      "headline": "জেনে নিন ঢাকার কোথায় পাবেন নকশিকাঁথার নানা পণ্য ",
-      "url": "https://www.prothomalo.com/lifestyle/shopping/kk5zbdhz86",
-      "published_at": "2026-01-30T14:30:00+00:00",
-      "summary": "মাধবী মার্টে এক ছাদের নিচেই পেয়ে যাবেন ৫০টির বেশি নকশার কাঁথা। প্রতিষ্ঠানটির ফেসবুক পেজ থেকে অর্ডার করে বাড়িতে বসেও কিনতে পারবেন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-28/anovh0fd/KBRH5132.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/anovh0fd/KBRH5132.JPG?auto=format,compress"
+      "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+      "published_at": "2026-01-31T01:12:08+06:00",
+      "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
     },
     {
-      "headline": "আমিনুল ইসলামের বিরুদ্ধে ফিক্সিং তদন্তের খবর ভিত্তিহীন: বিসিবি",
-      "url": "https://www.prothomalo.com/sports/cricket/lwr2g3zv9k",
-      "published_at": "2026-01-30T14:21:25.755000+00:00",
-      "summary": "সামাজিক যোগাযোগমাধ্যমে এ–সংক্রান্ত বিভ্রান্তিকর ও মিথ্যা তথ্য ছড়িয়ে পড়ার বিষয়টি বোর্ডের নজরে এসেছে বলে আজ বিজ্ঞপ্তিতে জানানো হয়। এসব তথ্য ছড়ানোর সঙ্গে জড়িত ব্যক্তিদের বিরুদ্ধে মিরপুর থানায় একটি সাধারণ ডায়েরি (জিডি) করেছে বিসিবি।",
-      "image_s3_key": "prothomalo-bangla/2025-11-12/080qyk9q/New_BCB_president_Bulbul_at_press_conference_10.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-12/080qyk9q/New_BCB_president_Bulbul_at_press_conference_10.jpg?auto=format,compress"
+      "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+      "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+      "published_at": "2026-01-31T01:00:18+06:00",
+      "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+    },
+    {
+      "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
+      "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
+      "published_at": "2026-01-31T00:53:11+06:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
     },
     {
       "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
@@ -348,32 +376,11 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
     },
     {
-      "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-      "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-      "published_at": "2026-01-30T20:39:04+06:00",
-      "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
-    },
-    {
-      "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-      "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-      "published_at": "2026-01-30T20:19:30+06:00",
-      "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-    },
-    {
-      "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-      "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-      "published_at": "2026-01-30T20:17:00+06:00",
-      "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
-    },
-    {
-      "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
-      "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
-      "published_at": "2026-01-30T20:05:16+06:00",
-      "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
+      "headline": "যাদের চরিত্র বদলায়নি, তাদের দিয়ে নতুন বাংলাদেশ সম্ভব নয়: শফিকুর রহমান",
+      "url": "https://www.ittefaq.com.bd/772543/%E0%A6%AF%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+      "published_at": null,
+      "summary": "যাদের চরিত্রের পরিবর্তন হয়নি, তাদের দিয়ে নতুন বাংলাদেশ গড়া সম্ভব নয় বলে মন্তব্য করেছেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান। তিনি বলেন, যারা এখনো ফ্যাসিবাদের আচরণ করে, জুলাইয়ের চেতনা ও সংস্কার মানে না—তাদের দিয়ে ফ্যাসিবাদমুক্ত বাংলাদেশ গড়া যাবে না।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/8aadd921067ac81e1f2f4cdd5172164e-697cf85cf29fd.jpg"
     },
     {
       "headline": "ওয়ারী পাস্তা ক্লাবে গ্যাস সিলিন্ডার বিস্ফোরণ, দগ্ধসহ আহত ৮",
@@ -437,13 +444,6 @@
       "published_at": null,
       "summary": "নোয়াখালীর জনসভায় জেলার ছয়টি আসনের ১১ দলীয় জোটের প্রার্থীদের হাতে প্রতীক তুলে দিয়েছেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান। এসময় ৪ জনের হাতে দাঁড়িপাল্লা তুলে দিলেও এনসিপির ২ জনের হাতে তুলে দিতে কোনো প্রতীক ছিল না। পরে নিজের হাতকেই শাপলা কলি বানিয়ে ওই দুই প্রার্থীকে পরিচয় করিয়ে দেন।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/825545b6a261c719fd4b762a1e729795-697cd2699b536.jpg"
-    },
-    {
-      "headline": "মাগুরায় অস্ত্র-গুলিসহ গ্রেপ্তার আপন দুই ভাই",
-      "url": "https://www.ittefaq.com.bd/772534/%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%AA%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AD%E0%A6%BE%E0%A6%87",
-      "published_at": null,
-      "summary": "মাগুরার শালিখায় অস্ত্র-গুলিসহ দুজনকে গ্রেপ্তার করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী। শুক্রবার (৩০ জানুয়ারি) সকালে মাগুরার শালিখা উপজেলা সদর আড়পাড়ায় যৌথবাহিনীর অভিযানে তাদের গ্রেপ্তার করা হয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/387e4e3d18e82d413b1171bc4aa28599-697cd1cc18f05.jpg"
     },
     {
       "headline": "নির্বাচন বানচালের ষড়যন্ত্রটার্গেট কিলিংয়ের ছক আ’লীগের",
@@ -533,7 +533,7 @@
       "headline": "আজকের সর্বশেষ খবর - January 31, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "জামায়াতের আমির ডা. শফিকুর রহমান বলেছেন, কুমিল্লা নামেই বিভাগ হবে। যেহেতু ঘোষণা দিয়েছি, এটা পবিত্র দায়িত্ব। ...",
+      "summary": "আবাসিক বাসা থেকে রাজশাহী বিশ্ববিদ্যালয়ের এক শিক্ষার্থীর ঝুলন্ত মরদেহ উদ্ধার করা হয়েছে। শুক্রবার (৩০ জানুয়ারি) নগরীর চন্দ্রিমা থানাধীন ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -542,6 +542,65 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ব্যবস্থা নিচ্ছে বন্দর, তীব্র আন্দোলনের হুঁশিয়ারি বিক্ষোভকারীদের",
+      "url": "https://www.prothomalo.com/bangladesh/district/4prs6xg1my",
+      "published_at": "2026-01-30T14:30:10.433000+00:00",
+      "summary": "চট্টগ্রাম বন্দরের নিউমুরিং কনটেইনার টার্মিনাল (এনসিটি) সংযুক্ত আরব আমিরাতভিত্তিক কোম্পানি ডিপি ওয়ার্ল্ডের কাছে ইজারা দেওয়ার সরকারি সিদ্ধান্তের প্রতিবাদে যেসব কর্মচারী প্রতিবাদ কর্মসূচিতে অংশ নিয়েছেন, তাঁদের বিরুদ্ধে ব্যবস্থা নিচ্ছে বন্দর কর্তৃপক্ষ। গতকাল বৃহস্পতিবার বন্দর কর্তৃপক্ষের পরিচালক (প্রশাসন) মো. ওমর ফারুকের এক অফিস আদেশে সব বিভাগীয় প্রধানদের ব্যবস্থা নেওয়ার জন্য এই নির্দেশনা দেওয়া হয়।",
+      "image_s3_key": "prothomalo-bangla/2026-01-30/73wcb4a6/WhatsApp-Image-2026-01-30-at-8.20.45-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/73wcb4a6/WhatsApp-Image-2026-01-30-at-8.20.45-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "জেনে নিন ঢাকার কোথায় পাবেন নকশিকাঁথার নানা পণ্য ",
+      "url": "https://www.prothomalo.com/lifestyle/shopping/kk5zbdhz86",
+      "published_at": "2026-01-30T14:30:00+00:00",
+      "summary": "মাধবী মার্টে এক ছাদের নিচেই পেয়ে যাবেন ৫০টির বেশি নকশার কাঁথা। প্রতিষ্ঠানটির ফেসবুক পেজ থেকে অর্ডার করে বাড়িতে বসেও কিনতে পারবেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-28/anovh0fd/KBRH5132.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/anovh0fd/KBRH5132.JPG?auto=format,compress"
+    },
+    {
+      "headline": "আমিনুল ইসলামের বিরুদ্ধে ফিক্সিং তদন্তের খবর ভিত্তিহীন: বিসিবি",
+      "url": "https://www.prothomalo.com/sports/cricket/lwr2g3zv9k",
+      "published_at": "2026-01-30T14:21:25.755000+00:00",
+      "summary": "সামাজিক যোগাযোগমাধ্যমে এ–সংক্রান্ত বিভ্রান্তিকর ও মিথ্যা তথ্য ছড়িয়ে পড়ার বিষয়টি বোর্ডের নজরে এসেছে বলে আজ বিজ্ঞপ্তিতে জানানো হয়। এসব তথ্য ছড়ানোর সঙ্গে জড়িত ব্যক্তিদের বিরুদ্ধে মিরপুর থানায় একটি সাধারণ ডায়েরি (জিডি) করেছে বিসিবি।",
+      "image_s3_key": "prothomalo-bangla/2025-11-12/080qyk9q/New_BCB_president_Bulbul_at_press_conference_10.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-12/080qyk9q/New_BCB_president_Bulbul_at_press_conference_10.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+      "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+      "published_at": "2026-01-30T20:39:04+06:00",
+      "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+    },
+    {
+      "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+      "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+      "published_at": "2026-01-30T20:19:30+06:00",
+      "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+    },
+    {
+      "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+      "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+      "published_at": "2026-01-30T20:17:00+06:00",
+      "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
+    },
+    {
+      "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
+      "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
+      "published_at": "2026-01-30T20:05:16+06:00",
+      "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
+    },
+    {
+      "headline": "মাগুরায় অস্ত্র-গুলিসহ গ্রেপ্তার আপন দুই ভাই",
+      "url": "https://www.ittefaq.com.bd/772534/%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%AA%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AD%E0%A6%BE%E0%A6%87",
+      "published_at": null,
+      "summary": "মাগুরার শালিখায় অস্ত্র-গুলিসহ দুজনকে গ্রেপ্তার করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী। শুক্রবার (৩০ জানুয়ারি) সকালে মাগুরার শালিখা উপজেলা সদর আড়পাড়ায় যৌথবাহিনীর অভিযানে তাদের গ্রেপ্তার করা হয়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/387e4e3d18e82d413b1171bc4aa28599-697cd1cc18f05.jpg"
     },
     {
       "headline": "নতুন করে ধোঁকায় পড়ে দেশটাকে ধ্বংস করতে চাই না: চরমোনাই পীর",
@@ -1428,69 +1487,6 @@
       "published_at": null,
       "summary": "‘বাংলাদেশ জামায়াতে ইসলামী এমন একটি রাষ্ট্রব্যবস্থা গড়ে তুলতে চায় যেখানে চাঁদাবাজি, সন্ত্রাস ও নৈরাজ্যের কোনো স্থান থাকবে না। উল্লাপাড়ার জনগণকে সাথে নিয়ে রাস্তা-ঘাট, ব্রিজ-কালভার্টসহ প্রয়োজনীয় অবকাঠামোর উন্নয়ন করা হবে। এই উল্লাপাড়া আমার, আপনার, আমাদের সবার। আমরা সবাই মিলে উল্লাপাড়াকে একটি আধুনিক জনপদ হিসেবে গড়ে তুলব, ইনশাল্লাহ।’",
       "image_url": "https://media.ndiganta.com/original_images/Sirajganj-Jamaat-Secretary.gif"
-    },
-    {
-      "headline": "নিজের প্রতিষ্ঠিত বাইতুর রহমান সেন্ট্রাল মসজিদে তারেক রহমানের জুম্মার নামাজ আদায়",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/PrglHY3zWnsb/",
-      "published_at": null,
-      "summary": "বিএনপি চেয়ারম্যান তারেক রহমান শুক্রবার (৩০ জানুয়ারি) দুপুর ১২টার দিকে শহরের হোটেল নাজ গার্ডেনে তার  সহধর্মিণী ডা: জোবাইদা রহমানের উদ্যোগে বিশেষ চাহিদাসম্পন্ন শিশু-কিশোরদের মাঝে হুইলচেয়ার বিতরণ অনুষ্ঠানে  উপস্থিত ছিলেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Tarek-Rahman_GIa0D9N.jpg"
-    },
-    {
-      "headline": "বংশালে আসলেই কি কম দামে সাইকেল পাওয়া যায়? বাজার ঘুরে এসে যা জানলাম",
-      "url": "https://www.prothomalo.com/lifestyle/shopping/mwcvl07c6w",
-      "published_at": "2026-01-30T11:00:00+00:00",
-      "summary": "ঢাকার বিভিন্ন জায়গায় সাইকেলের অনেক দোকান আছে। তবু কেন সাইকেল কেনার সময় সবার বংশালের কথাই প্রথম মাথায় আসে?",
-      "image_s3_key": "prothomalo-bangla/2026-01-29/w2v44l0l/040A0079.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/w2v44l0l/040A0079.JPG?auto=format,compress"
-    },
-    {
-      "headline": "ঘোড়ায় চেপে অস্ট্রেলিয়ায় ৪,৪০০ কিলোমিটার পথ পাড়ি দিলেন মার্কিন তরুণী",
-      "url": "https://www.prothomalo.com/world/asia/xtqz1qyniu",
-      "published_at": "2026-01-30T11:00:00+00:00",
-      "summary": "জ্যাগোলা বলেন, ‘আমি সত্যিই বুনো ঘোড়ার প্রেমে পড়ে গেছি।’",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/5kirmrp0/Gin-Szagola.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/5kirmrp0/Gin-Szagola.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সেই শিশুটি এখন বড় তারকা, ১২০ মিলিয়ন ডলারের মালিক",
-      "url": "https://www.prothomalo.com/entertainment/hollywood/w1aid0wvng",
-      "published_at": "2026-01-30T10:48:30.347000+00:00",
-      "summary": "মাত্র ১২ বছর বয়সে তিনি বড় পর্দায় যাত্রা শুরু করেন স্টিভেন স্পিলবার্গের ‘এম্পায়ার অব দ্য সান’ দিয়ে। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-29/85dv0gkk/9a01ceea-5ec1-4255-92e7-cd436ebdcc4b.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/85dv0gkk/9a01ceea-5ec1-4255-92e7-cd436ebdcc4b.jpg?auto=format,compress"
-    },
-    {
-      "headline": "মুক্তিযুদ্ধে খাসিয়া জাতিসত্তার অবদান নিয়ে বইয়ের মোড়ক উন্মোচন",
-      "url": "https://www.prothomalo.com/bangladesh/capital/mqslgpaoif",
-      "published_at": "2026-01-30T10:46:46.100000+00:00",
-      "summary": "লেখক ও গবেষক ঈশিতা দস্তিদার বলেন, ড্যানিয়েল স্টোন লিংডোর কাজ আমাদের তাড়িত করে নিজেদের ইতিহাসকে লেখার মধ্য দিয়ে বাঁচিয়ে রাখতে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/eiihx0iq/Khasi-book.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/eiihx0iq/Khasi-book.jfif?auto=format,compress"
-    },
-    {
-      "headline": "চীনের সঙ্গে ব্যবসায়িক সম্পর্ক গড়া যুক্তরাজ্যের জন্য বিপজ্জনক হবে: ট্রাম্প",
-      "url": "https://www.prothomalo.com/world/asia/bohatth77t",
-      "published_at": "2026-01-30T10:41:43.516000+00:00",
-      "summary": "গতকাল ওয়াশিংটনে সাংবাদিকদের সঙ্গে আলাপকালে ট্রাম্প এ কথা বলেছেন। ছবি: ইন্টারন্যাশনালে চায়না–ইউকে নামে",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/p7s62hbj/China-UK.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/p7s62hbj/China-UK.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘হ্যাঁ’ ভোটের পক্ষে সরকারের প্রচার, ‘না’ করল নির্বাচন কমিশন",
-      "url": "https://www.prothomalo.com/video/bangladesh/b8uj1cctxr",
-      "published_at": "2026-01-30T10:37:07.247000+00:00",
-      "summary": "‘হ্যাঁ’ ভোটের পক্ষে সরকারের প্রচার, ‘না’ করল নির্বাচন কমিশন",
-      "image_s3_key": "prothomalo-bangla/2026-01-30/cuszya6j/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/cuszya6j/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "অপারেশন ডেভিল হান্ট ফেজ-২: রাজধানীতে ২৪ ঘণ্টায় গ্রেপ্তার ৩৫",
-      "url": "https://www.prothomalo.com/bangladesh/crime/izxej61vw2",
-      "published_at": "2026-01-30T10:34:09.774000+00:00",
-      "summary": "এই ৩৫ জনকে গ্রেপ্তার করেছে ঢাকা মহানগর পুলিশ (ডিএমপি)।",
-      "image_s3_key": "prothomalo-bangla/2025-12-15/yjlml66h/Devil_Hunt.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-15/yjlml66h/Devil_Hunt.jpg?auto=format,compress"
     }
   ]
 }

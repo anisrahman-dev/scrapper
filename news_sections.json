@@ -1,7 +1,31 @@
 {
-  "fetched_at": "2026-01-30T18:57:30.158406+00:00",
+  "fetched_at": "2026-01-30T19:34:01.845727+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনে লাগা আগুন পৌনে এক ঘণ্টার চেষ্টায় নিয়ন্ত্রণে",
+        "url": "https://www.prothomalo.com/bangladesh/capital/cgx2lavaqi",
+        "published_at": "2026-01-30T19:04:30.438000+00:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনে হার্ডবোর্ডের গুদামে আগুন লাগে। ফায়ার সার্ভিসের চারটি ইউনিট পৌনে এক ঘণ্টার চেষ্টায় আগুন নিয়ন্ত্রণে আনে।",
+        "image_s3_key": "prothomalo-bangla/2024-10-13/qaa0yq0c/Industrial-Fire-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-13/qaa0yq0c/Industrial-Fire-1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "‘স্টপ জে‌নোসাইড’ মু‌ক্তিযু‌দ্ধের দ‌লিল",
+        "url": "https://www.prothomalo.com/entertainment/dhallywood/h5m8lujsy5",
+        "published_at": "2026-01-30T19:00:00+00:00",
+        "summary": "মুক্তিযুদ্ধ চলাকালে ইংরেজি ভাষায় ‘স্টপ জেনোসাইড’ নির্মাণ করেন জহির রায়হান। এতে পাকিস্তানি সামরিক বাহিনীর ধ্বংসযজ্ঞ, গণহত্যা, শরণার্থীদের দুরবস্থা তুলে ধরেন তিনি।\n",
+        "image_s3_key": "prothomalo-bangla/2026-01-30/2zrqvtg0/A63I7354.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/2zrqvtg0/A63I7354.JPG?auto=format,compress"
+      },
+      {
+        "headline": "একঝলক (৩০ জানুয়ারি ২০২৬)",
+        "url": "https://www.prothomalo.com/bangladesh/dqytj0qnjc",
+        "published_at": "2026-01-30T18:57:54.997000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-30/na8rlhz4/1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/na8rlhz4/1.jpg?auto=format,compress"
+      },
       {
         "headline": "কলকাতায় আগুনের ঘটনায় ২৫ দেহাবশেষ উদ্ধার, মন্ত্রীর পদত্যাগ চায় বিজেপি",
         "url": "https://www.prothomalo.com/world/india/kxtlv4lsfd",
@@ -219,20 +243,20 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/scngqrxt/WEB.jpg?auto=format,compress"
       },
       {
-        "headline": "নতুন চমক নিয়ে আসছেন আলিয়া",
-        "url": "https://www.prothomalo.com/entertainment/bollywood/37o4eorstx",
-        "published_at": "2026-01-30T15:00:00+00:00",
-        "summary": "কেবল অভিনেত্রী হিসেবে নন, প্রযোজক হিসেবেও প্রশংসিত হয়েছেন আলিয়া ভাট। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg?auto=format,compress"
-      },
-      {
         "headline": "নারকেল দিয়ে হাঁসের মাংসের রেসিপি",
         "url": "https://www.prothomalo.com/lifestyle/recipe/rdt67rsgs0",
         "published_at": "2026-01-30T15:00:00+00:00",
         "summary": "শীতে গ্রাম থেকে শহর—সবখানেই হাঁসের মাংসের কদর বাড়ে। নারকেল দিয়েও রাঁধতে পারেন হাঁসের মাংস। রেসিপি দিয়েছেন শুভাগতা দেবাশীষ।",
         "image_s3_key": "prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/ru19q2p7/040A9735.JPG?auto=format,compress"
+      },
+      {
+        "headline": "নতুন চমক নিয়ে আসছেন আলিয়া",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/37o4eorstx",
+        "published_at": "2026-01-30T15:00:00+00:00",
+        "summary": "কেবল অভিনেত্রী হিসেবে নন, প্রযোজক হিসেবেও প্রশংসিত হয়েছেন আলিয়া ভাট। ",
+        "image_s3_key": "prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/wjqzz4jw/13.jpg?auto=format,compress"
       },
       {
         "headline": "বানারীপাড়ায় শতাধিক অনুসারী নিয়ে বিএনপি নেতার জামায়াতে যোগদান",
@@ -283,28 +307,32 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/ifo5xf18/kolkata-boiu-mela.png?auto=format,compress"
       },
       {
-        "headline": "ব্যবস্থা নিচ্ছে বন্দর, তীব্র আন্দোলনের হুঁশিয়ারি বিক্ষোভকারীদের",
-        "url": "https://www.prothomalo.com/bangladesh/district/4prs6xg1my",
-        "published_at": "2026-01-30T14:30:10.433000+00:00",
-        "summary": "চট্টগ্রাম বন্দরের নিউমুরিং কনটেইনার টার্মিনাল (এনসিটি) সংযুক্ত আরব আমিরাতভিত্তিক কোম্পানি ডিপি ওয়ার্ল্ডের কাছে ইজারা দেওয়ার সরকারি সিদ্ধান্তের প্রতিবাদে যেসব কর্মচারী প্রতিবাদ কর্মসূচিতে অংশ নিয়েছেন, তাঁদের বিরুদ্ধে ব্যবস্থা নিচ্ছে বন্দর কর্তৃপক্ষ। গতকাল বৃহস্পতিবার বন্দর কর্তৃপক্ষের পরিচালক (প্রশাসন) মো. ওমর ফারুকের এক অফিস আদেশে সব বিভাগীয় প্রধানদের ব্যবস্থা নেওয়ার জন্য এই নির্দেশনা দেওয়া হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-01-30/73wcb4a6/WhatsApp-Image-2026-01-30-at-8.20.45-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/73wcb4a6/WhatsApp-Image-2026-01-30-at-8.20.45-PM.jpeg?auto=format,compress"
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
       },
       {
-        "headline": "জেনে নিন ঢাকার কোথায় পাবেন নকশিকাঁথার নানা পণ্য ",
-        "url": "https://www.prothomalo.com/lifestyle/shopping/kk5zbdhz86",
-        "published_at": "2026-01-30T14:30:00+00:00",
-        "summary": "মাধবী মার্টে এক ছাদের নিচেই পেয়ে যাবেন ৫০টির বেশি নকশার কাঁথা। প্রতিষ্ঠানটির ফেসবুক পেজ থেকে অর্ডার করে বাড়িতে বসেও কিনতে পারবেন।",
-        "image_s3_key": "prothomalo-bangla/2026-01-28/anovh0fd/KBRH5132.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/anovh0fd/KBRH5132.JPG?auto=format,compress"
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
       },
       {
-        "headline": "আমিনুল ইসলামের বিরুদ্ধে ফিক্সিং তদন্তের খবর ভিত্তিহীন: বিসিবি",
-        "url": "https://www.prothomalo.com/sports/cricket/lwr2g3zv9k",
-        "published_at": "2026-01-30T14:21:25.755000+00:00",
-        "summary": "সামাজিক যোগাযোগমাধ্যমে এ–সংক্রান্ত বিভ্রান্তিকর ও মিথ্যা তথ্য ছড়িয়ে পড়ার বিষয়টি বোর্ডের নজরে এসেছে বলে আজ বিজ্ঞপ্তিতে জানানো হয়। এসব তথ্য ছড়ানোর সঙ্গে জড়িত ব্যক্তিদের বিরুদ্ধে মিরপুর থানায় একটি সাধারণ ডায়েরি (জিডি) করেছে বিসিবি।",
-        "image_s3_key": "prothomalo-bangla/2025-11-12/080qyk9q/New_BCB_president_Bulbul_at_press_conference_10.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-12/080qyk9q/New_BCB_president_Bulbul_at_press_conference_10.jpg?auto=format,compress"
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+      },
+      {
+        "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
+        "published_at": "2026-01-31T00:53:11+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
       },
       {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
@@ -349,32 +377,11 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
       },
       {
-        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-        "published_at": "2026-01-30T20:39:04+06:00",
-        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
-      },
-      {
-        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-        "published_at": "2026-01-30T20:19:30+06:00",
-        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-      },
-      {
-        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-        "published_at": "2026-01-30T20:17:00+06:00",
-        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
-      },
-      {
-        "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
-        "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
-        "published_at": "2026-01-30T20:05:16+06:00",
-        "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
+        "headline": "যাদের চরিত্র বদলায়নি, তাদের দিয়ে নতুন বাংলাদেশ সম্ভব নয়: শফিকুর রহমান",
+        "url": "https://www.ittefaq.com.bd/772543/%E0%A6%AF%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+        "published_at": null,
+        "summary": "যাদের চরিত্রের পরিবর্তন হয়নি, তাদের দিয়ে নতুন বাংলাদেশ গড়া সম্ভব নয় বলে মন্তব্য করেছেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান। তিনি বলেন, যারা এখনো ফ্যাসিবাদের আচরণ করে, জুলাইয়ের চেতনা ও সংস্কার মানে না—তাদের দিয়ে ফ্যাসিবাদমুক্ত বাংলাদেশ গড়া যাবে না।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/8aadd921067ac81e1f2f4cdd5172164e-697cf85cf29fd.jpg"
       },
       {
         "headline": "ওয়ারী পাস্তা ক্লাবে গ্যাস সিলিন্ডার বিস্ফোরণ, দগ্ধসহ আহত ৮",
@@ -438,13 +445,6 @@
         "published_at": null,
         "summary": "নোয়াখালীর জনসভায় জেলার ছয়টি আসনের ১১ দলীয় জোটের প্রার্থীদের হাতে প্রতীক তুলে দিয়েছেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান। এসময় ৪ জনের হাতে দাঁড়িপাল্লা তুলে দিলেও এনসিপির ২ জনের হাতে তুলে দিতে কোনো প্রতীক ছিল না। পরে নিজের হাতকেই শাপলা কলি বানিয়ে ওই দুই প্রার্থীকে পরিচয় করিয়ে দেন।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/825545b6a261c719fd4b762a1e729795-697cd2699b536.jpg"
-      },
-      {
-        "headline": "মাগুরায় অস্ত্র-গুলিসহ গ্রেপ্তার আপন দুই ভাই",
-        "url": "https://www.ittefaq.com.bd/772534/%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%AA%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AD%E0%A6%BE%E0%A6%87",
-        "published_at": null,
-        "summary": "মাগুরার শালিখায় অস্ত্র-গুলিসহ দুজনকে গ্রেপ্তার করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী। শুক্রবার (৩০ জানুয়ারি) সকালে মাগুরার শালিখা উপজেলা সদর আড়পাড়ায় যৌথবাহিনীর অভিযানে তাদের গ্রেপ্তার করা হয়।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/387e4e3d18e82d413b1171bc4aa28599-697cd1cc18f05.jpg"
       },
       {
         "headline": "নির্বাচন বানচালের ষড়যন্ত্রটার্গেট কিলিংয়ের ছক আ’লীগের",
@@ -534,7 +534,7 @@
         "headline": "আজকের সর্বশেষ খবর - January 31, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "জামায়াতের আমির ডা. শফিকুর রহমান বলেছেন, কুমিল্লা নামেই বিভাগ হবে। যেহেতু ঘোষণা দিয়েছি, এটা পবিত্র দায়িত্ব। ...",
+        "summary": "আবাসিক বাসা থেকে রাজশাহী বিশ্ববিদ্যালয়ের এক শিক্ষার্থীর ঝুলন্ত মরদেহ উদ্ধার করা হয়েছে। শুক্রবার (৩০ জানুয়ারি) নগরীর চন্দ্রিমা থানাধীন ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -543,6 +543,65 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ব্যবস্থা নিচ্ছে বন্দর, তীব্র আন্দোলনের হুঁশিয়ারি বিক্ষোভকারীদের",
+        "url": "https://www.prothomalo.com/bangladesh/district/4prs6xg1my",
+        "published_at": "2026-01-30T14:30:10.433000+00:00",
+        "summary": "চট্টগ্রাম বন্দরের নিউমুরিং কনটেইনার টার্মিনাল (এনসিটি) সংযুক্ত আরব আমিরাতভিত্তিক কোম্পানি ডিপি ওয়ার্ল্ডের কাছে ইজারা দেওয়ার সরকারি সিদ্ধান্তের প্রতিবাদে যেসব কর্মচারী প্রতিবাদ কর্মসূচিতে অংশ নিয়েছেন, তাঁদের বিরুদ্ধে ব্যবস্থা নিচ্ছে বন্দর কর্তৃপক্ষ। গতকাল বৃহস্পতিবার বন্দর কর্তৃপক্ষের পরিচালক (প্রশাসন) মো. ওমর ফারুকের এক অফিস আদেশে সব বিভাগীয় প্রধানদের ব্যবস্থা নেওয়ার জন্য এই নির্দেশনা দেওয়া হয়।",
+        "image_s3_key": "prothomalo-bangla/2026-01-30/73wcb4a6/WhatsApp-Image-2026-01-30-at-8.20.45-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/73wcb4a6/WhatsApp-Image-2026-01-30-at-8.20.45-PM.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "জেনে নিন ঢাকার কোথায় পাবেন নকশিকাঁথার নানা পণ্য ",
+        "url": "https://www.prothomalo.com/lifestyle/shopping/kk5zbdhz86",
+        "published_at": "2026-01-30T14:30:00+00:00",
+        "summary": "মাধবী মার্টে এক ছাদের নিচেই পেয়ে যাবেন ৫০টির বেশি নকশার কাঁথা। প্রতিষ্ঠানটির ফেসবুক পেজ থেকে অর্ডার করে বাড়িতে বসেও কিনতে পারবেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-28/anovh0fd/KBRH5132.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/anovh0fd/KBRH5132.JPG?auto=format,compress"
+      },
+      {
+        "headline": "আমিনুল ইসলামের বিরুদ্ধে ফিক্সিং তদন্তের খবর ভিত্তিহীন: বিসিবি",
+        "url": "https://www.prothomalo.com/sports/cricket/lwr2g3zv9k",
+        "published_at": "2026-01-30T14:21:25.755000+00:00",
+        "summary": "সামাজিক যোগাযোগমাধ্যমে এ–সংক্রান্ত বিভ্রান্তিকর ও মিথ্যা তথ্য ছড়িয়ে পড়ার বিষয়টি বোর্ডের নজরে এসেছে বলে আজ বিজ্ঞপ্তিতে জানানো হয়। এসব তথ্য ছড়ানোর সঙ্গে জড়িত ব্যক্তিদের বিরুদ্ধে মিরপুর থানায় একটি সাধারণ ডায়েরি (জিডি) করেছে বিসিবি।",
+        "image_s3_key": "prothomalo-bangla/2025-11-12/080qyk9q/New_BCB_president_Bulbul_at_press_conference_10.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-12/080qyk9q/New_BCB_president_Bulbul_at_press_conference_10.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+        "published_at": "2026-01-30T20:39:04+06:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+      },
+      {
+        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+        "published_at": "2026-01-30T20:19:30+06:00",
+        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+      },
+      {
+        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+        "published_at": "2026-01-30T20:17:00+06:00",
+        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
+      },
+      {
+        "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
+        "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
+        "published_at": "2026-01-30T20:05:16+06:00",
+        "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
+      },
+      {
+        "headline": "মাগুরায় অস্ত্র-গুলিসহ গ্রেপ্তার আপন দুই ভাই",
+        "url": "https://www.ittefaq.com.bd/772534/%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%AA%E0%A6%A8-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AD%E0%A6%BE%E0%A6%87",
+        "published_at": null,
+        "summary": "মাগুরার শালিখায় অস্ত্র-গুলিসহ দুজনকে গ্রেপ্তার করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী। শুক্রবার (৩০ জানুয়ারি) সকালে মাগুরার শালিখা উপজেলা সদর আড়পাড়ায় যৌথবাহিনীর অভিযানে তাদের গ্রেপ্তার করা হয়।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/387e4e3d18e82d413b1171bc4aa28599-697cd1cc18f05.jpg"
       },
       {
         "headline": "নতুন করে ধোঁকায় পড়ে দেশটাকে ধ্বংস করতে চাই না: চরমোনাই পীর",
@@ -1429,72 +1488,25 @@
         "published_at": null,
         "summary": "‘বাংলাদেশ জামায়াতে ইসলামী এমন একটি রাষ্ট্রব্যবস্থা গড়ে তুলতে চায় যেখানে চাঁদাবাজি, সন্ত্রাস ও নৈরাজ্যের কোনো স্থান থাকবে না। উল্লাপাড়ার জনগণকে সাথে নিয়ে রাস্তা-ঘাট, ব্রিজ-কালভার্টসহ প্রয়োজনীয় অবকাঠামোর উন্নয়ন করা হবে। এই উল্লাপাড়া আমার, আপনার, আমাদের সবার। আমরা সবাই মিলে উল্লাপাড়াকে একটি আধুনিক জনপদ হিসেবে গড়ে তুলব, ইনশাল্লাহ।’",
         "image_url": "https://media.ndiganta.com/original_images/Sirajganj-Jamaat-Secretary.gif"
-      },
-      {
-        "headline": "নিজের প্রতিষ্ঠিত বাইতুর রহমান সেন্ট্রাল মসজিদে তারেক রহমানের জুম্মার নামাজ আদায়",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/PrglHY3zWnsb/",
-        "published_at": null,
-        "summary": "বিএনপি চেয়ারম্যান তারেক রহমান শুক্রবার (৩০ জানুয়ারি) দুপুর ১২টার দিকে শহরের হোটেল নাজ গার্ডেনে তার  সহধর্মিণী ডা: জোবাইদা রহমানের উদ্যোগে বিশেষ চাহিদাসম্পন্ন শিশু-কিশোরদের মাঝে হুইলচেয়ার বিতরণ অনুষ্ঠানে  উপস্থিত ছিলেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Tarek-Rahman_GIa0D9N.jpg"
-      },
-      {
-        "headline": "বংশালে আসলেই কি কম দামে সাইকেল পাওয়া যায়? বাজার ঘুরে এসে যা জানলাম",
-        "url": "https://www.prothomalo.com/lifestyle/shopping/mwcvl07c6w",
-        "published_at": "2026-01-30T11:00:00+00:00",
-        "summary": "ঢাকার বিভিন্ন জায়গায় সাইকেলের অনেক দোকান আছে। তবু কেন সাইকেল কেনার সময় সবার বংশালের কথাই প্রথম মাথায় আসে?",
-        "image_s3_key": "prothomalo-bangla/2026-01-29/w2v44l0l/040A0079.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/w2v44l0l/040A0079.JPG?auto=format,compress"
-      },
-      {
-        "headline": "ঘোড়ায় চেপে অস্ট্রেলিয়ায় ৪,৪০০ কিলোমিটার পথ পাড়ি দিলেন মার্কিন তরুণী",
-        "url": "https://www.prothomalo.com/world/asia/xtqz1qyniu",
-        "published_at": "2026-01-30T11:00:00+00:00",
-        "summary": "জ্যাগোলা বলেন, ‘আমি সত্যিই বুনো ঘোড়ার প্রেমে পড়ে গেছি।’",
-        "image_s3_key": "prothomalo-bangla/2026-01-30/5kirmrp0/Gin-Szagola.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/5kirmrp0/Gin-Szagola.jpg?auto=format,compress"
-      },
-      {
-        "headline": "সেই শিশুটি এখন বড় তারকা, ১২০ মিলিয়ন ডলারের মালিক",
-        "url": "https://www.prothomalo.com/entertainment/hollywood/w1aid0wvng",
-        "published_at": "2026-01-30T10:48:30.347000+00:00",
-        "summary": "মাত্র ১২ বছর বয়সে তিনি বড় পর্দায় যাত্রা শুরু করেন স্টিভেন স্পিলবার্গের ‘এম্পায়ার অব দ্য সান’ দিয়ে। ",
-        "image_s3_key": "prothomalo-bangla/2026-01-29/85dv0gkk/9a01ceea-5ec1-4255-92e7-cd436ebdcc4b.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/85dv0gkk/9a01ceea-5ec1-4255-92e7-cd436ebdcc4b.jpg?auto=format,compress"
-      },
-      {
-        "headline": "মুক্তিযুদ্ধে খাসিয়া জাতিসত্তার অবদান নিয়ে বইয়ের মোড়ক উন্মোচন",
-        "url": "https://www.prothomalo.com/bangladesh/capital/mqslgpaoif",
-        "published_at": "2026-01-30T10:46:46.100000+00:00",
-        "summary": "লেখক ও গবেষক ঈশিতা দস্তিদার বলেন, ড্যানিয়েল স্টোন লিংডোর কাজ আমাদের তাড়িত করে নিজেদের ইতিহাসকে লেখার মধ্য দিয়ে বাঁচিয়ে রাখতে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-30/eiihx0iq/Khasi-book.jfif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/eiihx0iq/Khasi-book.jfif?auto=format,compress"
-      },
-      {
-        "headline": "চীনের সঙ্গে ব্যবসায়িক সম্পর্ক গড়া যুক্তরাজ্যের জন্য বিপজ্জনক হবে: ট্রাম্প",
-        "url": "https://www.prothomalo.com/world/asia/bohatth77t",
-        "published_at": "2026-01-30T10:41:43.516000+00:00",
-        "summary": "গতকাল ওয়াশিংটনে সাংবাদিকদের সঙ্গে আলাপকালে ট্রাম্প এ কথা বলেছেন। ছবি: ইন্টারন্যাশনালে চায়না–ইউকে নামে",
-        "image_s3_key": "prothomalo-bangla/2026-01-30/p7s62hbj/China-UK.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/p7s62hbj/China-UK.jpg?auto=format,compress"
-      },
-      {
-        "headline": "‘হ্যাঁ’ ভোটের পক্ষে সরকারের প্রচার, ‘না’ করল নির্বাচন কমিশন",
-        "url": "https://www.prothomalo.com/video/bangladesh/b8uj1cctxr",
-        "published_at": "2026-01-30T10:37:07.247000+00:00",
-        "summary": "‘হ্যাঁ’ ভোটের পক্ষে সরকারের প্রচার, ‘না’ করল নির্বাচন কমিশন",
-        "image_s3_key": "prothomalo-bangla/2026-01-30/cuszya6j/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/cuszya6j/WEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "অপারেশন ডেভিল হান্ট ফেজ-২: রাজধানীতে ২৪ ঘণ্টায় গ্রেপ্তার ৩৫",
-        "url": "https://www.prothomalo.com/bangladesh/crime/izxej61vw2",
-        "published_at": "2026-01-30T10:34:09.774000+00:00",
-        "summary": "এই ৩৫ জনকে গ্রেপ্তার করেছে ঢাকা মহানগর পুলিশ (ডিএমপি)।",
-        "image_s3_key": "prothomalo-bangla/2025-12-15/yjlml66h/Devil_Hunt.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-15/yjlml66h/Devil_Hunt.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনে লাগা আগুন পৌনে এক ঘণ্টার চেষ্টায় নিয়ন্ত্রণে",
+        "url": "https://www.prothomalo.com/bangladesh/capital/cgx2lavaqi",
+        "published_at": "2026-01-30T19:04:30.438000+00:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনে হার্ডবোর্ডের গুদামে আগুন লাগে। ফায়ার সার্ভিসের চারটি ইউনিট পৌনে এক ঘণ্টার চেষ্টায় আগুন নিয়ন্ত্রণে আনে।",
+        "image_s3_key": "prothomalo-bangla/2024-10-13/qaa0yq0c/Industrial-Fire-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-13/qaa0yq0c/Industrial-Fire-1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "একঝলক (৩০ জানুয়ারি ২০২৬)",
+        "url": "https://www.prothomalo.com/bangladesh/dqytj0qnjc",
+        "published_at": "2026-01-30T18:57:54.997000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-30/na8rlhz4/1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/na8rlhz4/1.jpg?auto=format,compress"
+      },
       {
         "headline": "দেশসেবার সুযোগ পেলে চাঁদাবাজদের অস্তিত্ব রাখব না: কুমিল্লায় জামায়াত আমির",
         "url": "https://www.prothomalo.com/bangladesh/district/tawq31b4ey",
@@ -1800,20 +1812,32 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/u3903l4t/WhatsApp-Image-2026-01-30-at-4.04.10-PM.jpeg?auto=format,compress"
       },
       {
-        "headline": "প্রধান উপদেষ্টার সঙ্গে চীন-বাংলাদেশ অংশীদারত্ব ফোরাম প্রতিনিধিদলের বৈঠক",
-        "url": "https://www.prothomalo.com/bangladesh/3ciua55lz3",
-        "published_at": "2026-01-30T10:27:30.741000+00:00",
-        "summary": "প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূসের সঙ্গে চীন-বাংলাদেশ অংশীদারত্ব ফোরামের একটি প্রতিনিধিদল বৈঠক করেছে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-30/si9mriia/chief-adviser.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/si9mriia/chief-adviser.jpg?auto=format,compress"
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
       },
       {
-        "headline": "দেশজুড়ে যৌথ বাহিনীর সপ্তাহব্যাপী অভিযানে আটক ৫০৪, অস্ত্র ও মাদক উদ্ধার",
-        "url": "https://www.prothomalo.com/bangladesh/crime/6v4kil0a51",
-        "published_at": "2026-01-30T10:18:38.910000+00:00",
-        "summary": "ঢাকাসহ সারা দেশে গত এক সপ্তাহে অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত অভিযোগে ৫০৪ জনকে আটক করেছে যৌথ বাহিনী",
-        "image_s3_key": "prothomalo-bangla/2026-01-30/nlljrfpu/Ovijan-1.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/nlljrfpu/Ovijan-1.jpeg?auto=format,compress"
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
+      },
+      {
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+      },
+      {
+        "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
+        "published_at": "2026-01-31T00:53:11+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
       },
       {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
@@ -1856,34 +1880,6 @@
         "published_at": "2026-01-30T20:53:30+06:00",
         "summary": "বিএনপির স্থায়ী কমিটির সদস্য বেগম সেলিমা রহমান বলেছেন, নির্বাচন বন্ধ করার জন্য একটি দল ষড়যন্ত্র করছে এবং টাকা দিয়ে ভোট কিনছে। এটি প্রতিহত করতে সবাইকে সজাগ হতে হবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
-      },
-      {
-        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-        "published_at": "2026-01-30T20:39:04+06:00",
-        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
-      },
-      {
-        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-        "published_at": "2026-01-30T20:19:30+06:00",
-        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-      },
-      {
-        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-        "published_at": "2026-01-30T20:17:00+06:00",
-        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
-      },
-      {
-        "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
-        "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
-        "published_at": "2026-01-30T20:05:16+06:00",
-        "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
       },
       {
         "headline": "শীত নিয়ে দুঃসংবাদ দিলো আবহাওয়া অধিদপ্তর",
@@ -2234,6 +2230,50 @@
         "published_at": "1769785774",
         "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে সামনে রেখে দিনাজপুর-৩ সদর আসনের বিএনপি সমর্থিত প্রার্থী সৈয়দ জাহাঙ্গীর আলমের পক্ষে ব্যাপক নির্বাচনী প্রচারণায় নেমেছে ডিপ্লোমা ইঞ্জিনিয়ার অ্যাসোসিয়েশন অব বাংলাদেশ (ডিইএবি) দিনাজপুর শাখা।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/dinaj-20260130150934.jpg"
+      },
+      {
+        "headline": "প্রধান উপদেষ্টার সঙ্গে চীন-বাংলাদেশ অংশীদারত্ব ফোরাম প্রতিনিধিদলের বৈঠক",
+        "url": "https://www.prothomalo.com/bangladesh/3ciua55lz3",
+        "published_at": "2026-01-30T10:27:30.741000+00:00",
+        "summary": "প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূসের সঙ্গে চীন-বাংলাদেশ অংশীদারত্ব ফোরামের একটি প্রতিনিধিদল বৈঠক করেছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-30/si9mriia/chief-adviser.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/si9mriia/chief-adviser.jpg?auto=format,compress"
+      },
+      {
+        "headline": "দেশজুড়ে যৌথ বাহিনীর সপ্তাহব্যাপী অভিযানে আটক ৫০৪, অস্ত্র ও মাদক উদ্ধার",
+        "url": "https://www.prothomalo.com/bangladesh/crime/6v4kil0a51",
+        "published_at": "2026-01-30T10:18:38.910000+00:00",
+        "summary": "ঢাকাসহ সারা দেশে গত এক সপ্তাহে অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত অভিযোগে ৫০৪ জনকে আটক করেছে যৌথ বাহিনী",
+        "image_s3_key": "prothomalo-bangla/2026-01-30/nlljrfpu/Ovijan-1.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/nlljrfpu/Ovijan-1.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+        "published_at": "2026-01-30T20:39:04+06:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+      },
+      {
+        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+        "published_at": "2026-01-30T20:19:30+06:00",
+        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+      },
+      {
+        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+        "published_at": "2026-01-30T20:17:00+06:00",
+        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
+      },
+      {
+        "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
+        "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
+        "published_at": "2026-01-30T20:05:16+06:00",
+        "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
       },
       {
         "headline": "সরকারের বিশেষ উদ্যোগ, ২০ হাজার টাকায় দেশে ফিরতে পারবেন সৌদিপ্রবাসীরা",
@@ -2929,53 +2969,37 @@
         "summary": "মানবতাবিরোধী অপরাধে আওয়ামী লীগের যুগ্ম সাধারণ সম্পাদক মাহবুব উল আলম হানিফসহ চার আসামির বিরুদ্ধে মামলা।",
         "image_s3_key": "prothomalo-bangla/2024-10-06/xdb25j1a/kustia-hanif.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-06/xdb25j1a/kustia-hanif.jpg?auto=format,compress"
-      },
-      {
-        "headline": "জামায়াতে যোগ দিলেন বাসাইল উপজেলা হিন্দু বৌদ্ধ খ্রিষ্টান কল্যাণ ফ্রন্টের আহ্বায়ক",
-        "url": "https://www.prothomalo.com/bangladesh/district/jljn2ilroz",
-        "published_at": "2026-01-29T16:18:32.705000+00:00",
-        "summary": "উত্তম কুমার সাহা বাসাইল পৌরসভার ২ নং ওয়ার্ড বিএনপিরও সাধারণ সম্পাদক ছিলেন। তাঁকে ফুল দিয়ে বরণ করে নেন জামায়াত নেতারা।",
-        "image_s3_key": "prothomalo-bangla/2026-01-29/1ml87rlp/TANGAILjamat.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/1ml87rlp/TANGAILjamat.JPG?auto=format,compress"
-      },
-      {
-        "headline": "বিএনপির ‘বিদ্রোহী’ প্রার্থীর পক্ষে প্রচারণা, স্বেচ্ছাসেবক দলের ৯ নেতাকে শোকজ",
-        "url": "https://www.prothomalo.com/bangladesh/district/6b7qk7y5q1",
-        "published_at": "2026-01-29T16:14:34.902000+00:00",
-        "summary": "মানিকগঞ্জ-১ (শিবালয়-ঘিওর-দৌলতপুর) আসনে বিএনপির ‘বিদ্রোহী’ প্রার্থীর পক্ষে প্রচারণা চালানোর অভিযোগে স্বেচ্ছাসেবক দলের ৯ নেতাকে কারণ দর্শানোর নোটিশ (শোকজ) দেওয়া হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-29/ri62h6tc/Untitled-2.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/ri62h6tc/Untitled-2.png?auto=format,compress"
-      },
-      {
-        "headline": "ঢামেকে চিকিৎসাধীন কারাবন্দী যুদ্ধাপরাধীর মৃত্যু",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211017",
-        "published_at": "2026-01-30T12:08:19+06:00",
-        "summary": "ঢাকা মেডিকেল কলেজ (ঢামেক) হাসপাতালে চিকিৎসাধীন অবস্থায় মো. জাহিদ (৭৫) নামে এক কারাবন্দী যুদ্ধাপরাধীর মৃত্যু হয়েছে। তিনি মানবতাবিরোধী অপরাধের দায়ে আমৃত্যু কারাদণ্ডপ্রাপ্ত বন্দী ছিলেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769753298-dc367adb345b1cea460c366ea28f1a65.jpg"
-      },
-      {
-        "headline": "রাজধানীর উত্তরায় পার্কিং করা বাসে আগুন",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211012",
-        "published_at": "2026-01-30T11:53:18+06:00",
-        "summary": "রাজধানীর উত্তরার হাউজ বিল্ডিং এলাকায় পার্কিং করা অবস্থায় ভূঁইয়া পরিবহনের একটি বাসে অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769752397-08272a18de54e3cc44e7386092f25b49.jpg"
-      },
-      {
-        "headline": "ইরানে সামরিক অভিযানের প্রয়োজন হবে না : ট্রাম্পের প্রত্যাশা",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/30/1211008",
-        "published_at": "2026-01-30T11:35:02+06:00",
-        "summary": "ইরানের বিরুদ্ধে সামরিক ব্যবস্থা নেওয়ার প্রয়োজন হবে না বলে মন্তব্য করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। একটি সম্ভাব্য পারমাণবিক চুক্তি নিয়ে তেহরানের সঙ্গে আরও আলোচনার পরিকল্পনা করছেন বলেও জানান তিনি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769751301-7711c2a8d982c469c930a05505b3515b.jpg"
-      },
-      {
-        "headline": "২০ বছর পর আজ সিরাজগঞ্জে নির্বাচনী জনসভা আসছেন তারেক রহমান",
-        "url": "https://www.ittefaq.com.bd/772456/%E0%A7%A8%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%86%E0%A6%9C-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%9C%E0%A6%A8%E0%A6%B8%E0%A6%AD%E0%A6%BE-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87%E0%A6%A8",
-        "published_at": null,
-        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন উপলক্ষে প্রায় ২০ বছর পর সিরাজগঞ্জে নির্বাচনী জনসভায় অংশ নিতে আসছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/0dbdc1f0240cba006fa4d6b94a4d6720-697c439aa0a98.jpg"
       }
     ],
     "politics": [
+      {
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
+      },
+      {
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
+      },
+      {
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+      },
+      {
+        "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
+        "published_at": "2026-01-31T00:53:11+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
+      },
       {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
         "url": "https://www.bd-pratidin.com/sports/2026/01/30/1211219",
@@ -3019,32 +3043,18 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
       },
       {
-        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-        "published_at": "2026-01-30T20:39:04+06:00",
-        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+        "headline": "সংস্কার ইস্যুতে বিএনপি কোনো লুকোচুরি করেনি, ‘জুলাই সনদ’ রক্ষা আমাদের নৈতিক দায়িত্ব: তারেক রহমান",
+        "url": "https://www.ittefaq.com.bd/772545/%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%B2%E0%A7%81%E0%A6%95%E0%A7%8B%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%BF-%E2%80%98%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87",
+        "published_at": null,
+        "summary": "সংস্কার ইস্যুতে বিএনপি কোনো ধরনের লুকোচুরি করেনি বলে মন্তব্য করেছেন দলটির চেয়ারম্যান তারেক রহমান। তিনি বলেছেন, বিএনপি যে ‘জুলাই সনদে’ স্বাক্ষর করেছে, সেই সনদকে অবশ্যই সম্মান করতে হবে। আবু সাঈদ ও চট্টগ্রামের ওয়াসিমসহ প্রায় ১ হাজার ৪০০ শহীদ যে স্বপ্ন নিয়ে জীবন উৎসর্গ করেছেন, সেই জুলাই সনদ রক্ষা করা আমাদের নৈতিক দায়িত্ব।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/61285fcde8e33255011fe6760ac95a9c-697d0292aceea.jpg"
       },
       {
-        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-        "published_at": "2026-01-30T20:19:30+06:00",
-        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-      },
-      {
-        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-        "published_at": "2026-01-30T20:17:00+06:00",
-        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
-      },
-      {
-        "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
-        "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
-        "published_at": "2026-01-30T20:05:16+06:00",
-        "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
+        "headline": "যাদের চরিত্র বদলায়নি, তাদের দিয়ে নতুন বাংলাদেশ সম্ভব নয়: শফিকুর রহমান",
+        "url": "https://www.ittefaq.com.bd/772543/%E0%A6%AF%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+        "published_at": null,
+        "summary": "যাদের চরিত্রের পরিবর্তন হয়নি, তাদের দিয়ে নতুন বাংলাদেশ গড়া সম্ভব নয় বলে মন্তব্য করেছেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান। তিনি বলেন, যারা এখনো ফ্যাসিবাদের আচরণ করে, জুলাইয়ের চেতনা ও সংস্কার মানে না—তাদের দিয়ে ফ্যাসিবাদমুক্ত বাংলাদেশ গড়া যাবে না।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/8aadd921067ac81e1f2f4cdd5172164e-697cf85cf29fd.jpg"
       },
       {
         "headline": "জোটে গেলেও নতুন বন্দোবস্তের লড়াই চলমান থাকবে: নাহিদ ইসলাম",
@@ -3101,20 +3111,6 @@
         "published_at": null,
         "summary": "ফ্যামিলি কার্ড না দিয়ে চাঁদাবাজি থেকে বাঁচার একটা কার্ড দেন, যেন চাঁদাবাজ আসলে পকেট থেকে বের করে দেখাতে পারি তারেক জিয়ার একটা কার্ড আছে- এমন মন্তব্য করেছেন আমার বাংলাদেশ পার্টির (এবি পার্টি) চেয়ারম্যান ও ফেনী-২ আসনে ১১ দলীয় জোটের প্রার্থী মজিবুর রহমান মঞ্জু।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/61f15af725670ba4c344a82000ac7c38-697c9a30c6bf2.jpg"
-      },
-      {
-        "headline": "এনসিপির ৩৬ দফা নির্বাচনী ইশতেহার ঘোষণা",
-        "url": "https://www.ittefaq.com.bd/772503/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A7%A9%E0%A7%AC-%E0%A6%A6%E0%A6%AB%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%87%E0%A6%B6%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE",
-        "published_at": null,
-        "summary": "নতুন রাজনৈতিক দল এবং ১১ দলীয় নির্বাচনী ঐক্যের অন্যতম শরিক জাতীয় নাগরিক পার্টি (এনসিপি) আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন সামনে রেখে তাদের নির্বাচনী ইশতেহার ঘোষণা করেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/a56ef0dde6f5b19e564a0ab0421e9d78-697c9647ebd6e.jpg"
-      },
-      {
-        "headline": "১৯৭১’র সনাতন ধর্মালম্বী নির্যাতনকারীদের উত্তরসূরীরা নবরুপে নির্বাচনে লড়ছে: সালাহউদ্দিন আহমদ",
-        "url": "https://www.ittefaq.com.bd/772499/%E0%A7%A7%E0%A7%AF%E0%A7%AD%E0%A7%A7%E2%80%99%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0",
-        "published_at": null,
-        "summary": "বিএনপির স্থায়ী কমিটির সদস‌্য ও কক্সবাজার-১ (চকরিয়া-পেকুয়া) আসনের এমপি প্রার্থী সালাহউদ্দিন আহমদ বলেছেন, একাত্তরে যারা সনাতন ধর্মালম্বীদের নির্যাতন করেছিলো তারাই উত্তরসূরীদের নিয়ে আবার নবরুপে ফিরে এসে নির্বাচনে দাঁড়িয়েছে। তাদের হাতে এদেশের সকল নাগরিক নিরাপদ কিনা দেশবাসীর কাছে প্রশ্ন রাখলাম।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/4f06246994b763e29f6d785a76b1ece6-697c8daa58d23.jpg"
       },
       {
         "headline": "চট্টগ্রামে তারেক রহমানের জনসভায় যাওয়ার পথে কিশোরের মৃত্যু",
@@ -3190,15 +3186,57 @@
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
         "url": "https://www.jugantor.com/bnp",
         "published_at": null,
-        "summary": "বিএনপি চেয়ারম্যান তারেক রহমান আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ধানের শীষ প্রতীকে ভোট দেওয়ার ...",
+        "summary": "আগামী ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ৫২ দশমিক ৮০ শতাংশ ভোটার বিএনপি জোটকে ভোট দেবে। আর জামায়াত ও এনসিপি জোটকে ভোট ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747294137-430161.jpg"
       },
       {
         "headline": "বাংলাদেশ জামায়াতে ইসলামী",
         "url": "https://www.jugantor.com/jamaat",
         "published_at": null,
-        "summary": "জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান বলেছেন, চাঁদাবাজির কারণে রাস্তার ভিক্ষুক থেকে শিল্পপতি পর্যন্ত সকলের ঘুম হারাম।  এদের চাঁদাবাজির ...",
+        "summary": "জামায়াতের আমির ডা. শফিকুর রহমান বলেছেন, কুমিল্লা নামেই বিভাগ হবে। যেহেতু ঘোষণা দিয়েছি, এটা পবিত্র দায়িত্ব। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+        "published_at": "2026-01-30T20:39:04+06:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+      },
+      {
+        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+        "published_at": "2026-01-30T20:19:30+06:00",
+        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+      },
+      {
+        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+        "published_at": "2026-01-30T20:17:00+06:00",
+        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
+      },
+      {
+        "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
+        "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
+        "published_at": "2026-01-30T20:05:16+06:00",
+        "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
+      },
+      {
+        "headline": "এনসিপির ৩৬ দফা নির্বাচনী ইশতেহার ঘোষণা",
+        "url": "https://www.ittefaq.com.bd/772503/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A7%A9%E0%A7%AC-%E0%A6%A6%E0%A6%AB%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%87%E0%A6%B6%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE",
+        "published_at": null,
+        "summary": "নতুন রাজনৈতিক দল এবং ১১ দলীয় নির্বাচনী ঐক্যের অন্যতম শরিক জাতীয় নাগরিক পার্টি (এনসিপি) আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন সামনে রেখে তাদের নির্বাচনী ইশতেহার ঘোষণা করেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/a56ef0dde6f5b19e564a0ab0421e9d78-697c9647ebd6e.jpg"
+      },
+      {
+        "headline": "১৯৭১’র সনাতন ধর্মালম্বী নির্যাতনকারীদের উত্তরসূরীরা নবরুপে নির্বাচনে লড়ছে: সালাহউদ্দিন আহমদ",
+        "url": "https://www.ittefaq.com.bd/772499/%E0%A7%A7%E0%A7%AF%E0%A7%AD%E0%A7%A7%E2%80%99%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A6%BE%E0%A6%A4%E0%A6%A8-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "বিএনপির স্থায়ী কমিটির সদস‌্য ও কক্সবাজার-১ (চকরিয়া-পেকুয়া) আসনের এমপি প্রার্থী সালাহউদ্দিন আহমদ বলেছেন, একাত্তরে যারা সনাতন ধর্মালম্বীদের নির্যাতন করেছিলো তারাই উত্তরসূরীদের নিয়ে আবার নবরুপে ফিরে এসে নির্বাচনে দাঁড়িয়েছে। তাদের হাতে এদেশের সকল নাগরিক নিরাপদ কিনা দেশবাসীর কাছে প্রশ্ন রাখলাম।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/30/4f06246994b763e29f6d785a76b1ece6-697c8daa58d23.jpg"
       },
       {
         "headline": "তারেক রহমান গণতন্ত্রকে হত্যা করছেন: নাসীরুদ্দীন পাটওয়ারী",
@@ -4333,48 +4371,6 @@
         "published_at": null,
         "summary": "গত ১৭ বছরের নির্বাসন কাটিয়ে দেশে ফেরার পর প্রথমবার আন্তর্জাতিক গণমাধ্যম যুক্তরাষ্ট্রের প্রভাবশালী টাইম ম্যাগাজিনকে দেওয়া এক সাক্ষাৎকারে নিজের ব্যক্তিগত জীবন ও রুচির নানা দিক তুলে ধরেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/47bbe350cca4340021684c1dc50d6fdf-697ae1fd5b7cf.jpg"
-      },
-      {
-        "headline": "জয়হাসিনা যুগের অবসান ঘটেছে তিনি রাজনীতি করবেন না",
-        "url": "https://www.amarsangbad.com/politics/news/335665",
-        "published_at": "1769076139",
-        "summary": "“আওয়ামী লীগ একটি রাজনৈতিক দল। এটা সবচেয়ে পুরনো দল। ৭০ বছর ধরে আছে। তাকে সঙ্গে নিয়ে অথবা তাকে ছাড়াই এ দল চলবে। তিনি… কেউ তো চিরদিন বাঁচে না।”",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-9-20260122101038.jpg"
-      },
-      {
-        "headline": "কৃষিঋণ মওকুফ ও পদ্মা ব্যারেজ নির্মাণের প্রতিশ্রুতি তারেক রহমানের",
-        "url": "https://www.amarsangbad.com/politics/news/336469",
-        "published_at": "1769678876",
-        "summary": "পদ্মাপাড়ের পুণ্যভূমি রাজশাহীর ঐতিহাসিক মাদরাসা মাঠে দীর্ঘ সময় পর নির্বাচনী জনভায় ভার্চুয়ালি যুক্ত হয়ে একগুচ্ছ উন্নয়ন পরিকল্পনা ও জনবান্ধব প্রতিশ্রুতি ঘোষণা করেছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-1-20260129092756.jpg"
-      },
-      {
-        "headline": "মির্জা ফখরুলভিক্ষা বা দয়ায় নয়, কাজ করে বাঁচতে চাই",
-        "url": "https://www.amarsangbad.com/politics/news/336467",
-        "published_at": "1769678089",
-        "summary": "বিএনপির মহাসচিব ও ঠাকুরগাঁও-১ আসনের প্রার্থী মির্জা ফখরুল ইসলাম আলমগীর বলেছেন, আমরা ভিক্ষা বা দয়ায় নয়, বরং কাজ করে সম্মানের সাথে বাঁচতে চাই। আমাদের ছেলেমেয়েরা পড়াশোনা শেষ করে চাকরি পায় না। তাদের সঠিক প্রশিক্ষণের মাধ্যমে দেশ-বিদেশে কর্মসংস্থানের ব্যবস্থা করতে হবে এবং তরুণদের সেদিকেই মনোযোগী হতে হবে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-4-20260129091449.jpg"
-      },
-      {
-        "headline": "শুক্রবার দেশের যেসব এলাকায় ২৪ ঘণ্টা গ্যাস থাকবে না",
-        "url": "https://www.bd-pratidin.com/country/2026/01/29/1210635",
-        "published_at": "2026-01-29T14:12:24+06:00",
-        "summary": "জরুরি মেরামত ও রক্ষণাবেক্ষণ কাজের জন্য দেশের কিছু স্থানে আগামীকাল শুক্রবার টানা ২৪ ঘণ্টা গ্যাস থাকবে না।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769674341-bcd7f3d203b92b15c83e3e4f45921d91.jpg"
-      },
-      {
-        "headline": "আগে একাত্তর নিয়ে মাফ চেয়ে এরপর ভোট চান : মির্জা ফখরুল",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/01/29/1210634",
-        "published_at": "2026-01-29T14:08:22+06:00",
-        "summary": "নির্বাচনী প্রতিপক্ষের উদ্দেশে বিএনপি মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর বলেছেন, ১৯৭১ সালে পাকিস্তানি বাহিনী অনেক অত্যাচার করেছে। বাড়িঘর পুড়িয়ে দিয়েছে। পেট্রোল পাম্প ট্যাংক সবই নিয়ে গিয়েছিল। পাক সেনাদের কারা সহযোগিতা করেছিল এটাও আমরা জানি। আগে একাত্তর সালের জন্য মাফ চান, তারপর ভোট চান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769674099-ab32a148714043c60750f000a7999ddf.jpg"
-      },
-      {
-        "headline": "শৈলকুপায় জমি বিরোধে দুইপক্ষের সংঘর্ষ, আহত ২০",
-        "url": "https://www.bd-pratidin.com/country/2026/01/29/1210633",
-        "published_at": "2026-01-29T14:07:33+06:00",
-        "summary": "জমি সংক্রান্ত বিরোধের জেরে ঝিনাইদহের শৈলকুপা উপজেলায় দুপক্ষের সংঘর্ষে অন্তত ২০ জন আহত হয়েছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769674050-244112281a36477fb63dfe5fa8d7b99d.jpg"
       }
     ],
     "world": [
@@ -4699,6 +4695,34 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-21/dk6pp2ku/imran_Khan.jpg?auto=format,compress"
       },
       {
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
+      },
+      {
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
+      },
+      {
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+      },
+      {
+        "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
+        "published_at": "2026-01-31T00:53:11+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
+      },
+      {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
         "url": "https://www.bd-pratidin.com/sports/2026/01/30/1211219",
         "published_at": "2026-01-30T23:52:12+06:00",
@@ -4739,34 +4763,6 @@
         "published_at": "2026-01-30T20:53:30+06:00",
         "summary": "বিএনপির স্থায়ী কমিটির সদস্য বেগম সেলিমা রহমান বলেছেন, নির্বাচন বন্ধ করার জন্য একটি দল ষড়যন্ত্র করছে এবং টাকা দিয়ে ভোট কিনছে। এটি প্রতিহত করতে সবাইকে সজাগ হতে হবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
-      },
-      {
-        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-        "published_at": "2026-01-30T20:39:04+06:00",
-        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
-      },
-      {
-        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-        "published_at": "2026-01-30T20:19:30+06:00",
-        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-      },
-      {
-        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-        "published_at": "2026-01-30T20:17:00+06:00",
-        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
-      },
-      {
-        "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
-        "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
-        "published_at": "2026-01-30T20:05:16+06:00",
-        "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
       },
       {
         "headline": "ধেয়ে আসছে শক্তিশালী ‘বোম্ব সাইক্লোন’, ঝুঁকিতে যুক্তরাষ্ট্রের নর্থ ক্যারোলাইনা ও ভার্জিনিয়ার উপকূল",
@@ -4977,6 +4973,34 @@
         "published_at": "1769668122",
         "summary": "২০২৫ সালের জানুয়ারিতে ডোনাল্ড ট্রাম্প যখন দ্বিতীয় মেয়াদে হোয়াইট হাউসের দায়িত্ব নেন, তখন বিশ্বজুড়ে আতঙ্ক ছিল যে চীনের অর্থনীতি হয়তো মার্কিন শুল্কের চাপে ভেঙে পড়বে। কিন্তু এক বছর পর চিত্রটি সম্পূর্ণ উল্টো। যুক্তরাষ্ট্রের কঠোর শুল্ক নীতি এবং অস্থির কূটনৈতিক আচরণের বিপরীতে চীন এখন বৈশ্বিক বাণিজ্যের নতুন মেরু হিসেবে আবির্ভূত হয়েছে। ২০২৫ সালে চীনের বাণিজ্য উদ্বৃত্ত দাঁড়িয়েছে রেকর্ড ১ লাখ ২০ হাজার কোটি ডলারে, যা বেইজিংয়ের অর্থনৈতিক সক্ষমতার এক দাপুটে ঘোষণা।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260129062842.jpg"
+      },
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+        "published_at": "2026-01-30T20:39:04+06:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+      },
+      {
+        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+        "published_at": "2026-01-30T20:19:30+06:00",
+        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+      },
+      {
+        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+        "published_at": "2026-01-30T20:17:00+06:00",
+        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
+      },
+      {
+        "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
+        "url": "https://www.bd-pratidin.com/economy/2026/01/30/1211132",
+        "published_at": "2026-01-30T20:05:16+06:00",
+        "summary": "বিনিয়োগ ও বাণিজ্য প্রক্রিয়া সহজ করতে বিভিন্ন দপ্তরের মধ্যে সমন্বয় জোরদার এবং সিদ্ধান্ত গ্রহণের গতি বাড়ানোর ফলে বাস্তব অগ্রগতি হয়েছে বলে জানিয়েছে অন্তর্বর্তী সরকার। এসব উদ্যোগ দেশের অর্থনৈতিক প্রতিযোগিতা সক্ষমতা বাড়াতে সহায়ক হচ্ছে বলে মনে করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769781915-794cdb9c73f8c687c66ee249c67e263a.jpg"
       },
       {
         "headline": "অজিত পাওয়ারকে বহনকারী উড়োজাহাজের বিমানবালা শেষ ফোনে বাবাকে কী বলেছিলেন",
@@ -5811,35 +5835,6 @@
         "published_at": "2026-01-29T20:19:36+06:00",
         "summary": "যুক্তরাষ্ট্রে হামলার শিকার হলেন মুসলিম নেত্রী ডেমোক্র্যাটিক প্রতিনিধি ইলহান ওমর। দেশটির মিনিয়াপোলিসে একটি টাউন হল ইভেন্টে তার ওপর হামলার ঘটনা ঘটে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769696374-698289b8db5935c88481abe3a4e3017d.jpg"
-      },
-      {
-        "headline": "ইরানে মার্কিন হামলা হলে কী পরিণতি হতে পারে? সম্ভাব্য ৭টি চিত্র",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/29/1210767",
-        "published_at": "2026-01-29T20:03:36+06:00",
-        "summary": "বর্তমানে যুক্তরাষ্ট্র ও ইরানের মধ্যে ব্যাপক উত্তেজনা বিরাজ করছে। আগামী কয়েক দিনের মধ্যেই মধ্যপ্রাচ্যের দেশটিতে সামরিক হামলা চালাতে পারে মার্কিন বাহিনী- এমন জল্পনা ক্রমশ জোরালো হচ্ছে। সম্ভাব্য লক্ষ্যবস্তু অনেকটা অনুমানযোগ্য হলেও, এই হামলার পরিণতি কী হবে তা অনিশ্চিত।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769695413-7baade15cdeb2446b3f1e5e29a780c8d.jpg"
-      },
-      {
-        "headline": "জলবায়ু পরিবর্তনের প্রভাব শীতকালীন অলিম্পিকে",
-        "url": "https://www.ittefaq.com.bd/772350/%E0%A6%9C%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC-%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A8-%E0%A6%85%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%95%E0%A7%87",
-        "published_at": null,
-        "summary": "উষ্ণ আবহাওয়া ও তুষারের অভাবে একের পর এক প্রতিযোগিতা বাতিল হচ্ছে, আশঙ্কায় শীতকালীন অলিম্পিক। কাদা-পানির মতো গলতে থাকা বরফে স্কি করতে হচ্ছে খেলোয়াড়দের। ঝুঁকিপূর্ণ কৌশল নিখুঁত করতে যাদের নিয়মিত অনুশীলন দরকার, সেসব ফ্রিস্টাইল খেলোয়াড়দের প্রশিক্ষণ সময় পিছিয়ে দেওয়া হচ্ছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/29/f43449fdaf257b16df6cd4cf73af3c2f-697b211d67936.jpeg"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্র ই–মেইলে সমন পাঠানোর উদ্যোগ নেওয়ার পর খবর শুনে যোগাযোগ শুরু করলেন আদানি",
-        "url": "https://www.prothomalo.com/world/india/ixvk459sut",
-        "published_at": "2026-01-27T14:06:14.730000+00:00",
-        "summary": "গত বছর মে ও ডিসেম্বরে দুই দফায় ভারত সরকারের কাছে সমনটি আদানিদের কাছে পৌঁছে দেওয়ার অনুরোধ করে এসইসি। কিন্তু দুবারই সেটি ফেরত পাঠায় মোদি সরকার।",
-        "image_s3_key": "prothomalo-bangla/2024-11-30/p4b80sdb/India-Adani.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-11-30/p4b80sdb/India-Adani.webp?auto=format,compress"
-      },
-      {
-        "headline": "শেরপুরে আইনশৃঙ্খলা স্বাভাবিক রাখতে ৫ প্লাটুন বিজিবি মোতায়েন",
-        "url": "https://www.bd-pratidin.com/country/2026/01/29/1210766",
-        "published_at": "2026-01-29T19:55:58+06:00",
-        "summary": "শেরপুরের শ্রীবরদী উপজেলা জামায়াতের সেক্রেটারি মাওলানা রেজাউল করিম নিহতের ঘটনায় আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখতে বর্ডার গার্ড বাংলাদেশের (বিজিবি) পাঁচ প্লাটুন সদস্য মোতায়েন করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769694954-ee39e396820627b053ea7fb104826fc9.jpg"
       }
     ],
     "business": [
@@ -8839,6 +8834,14 @@
     ],
     "entertainment": [
       {
+        "headline": "‘স্টপ জে‌নোসাইড’ মু‌ক্তিযু‌দ্ধের দ‌লিল",
+        "url": "https://www.prothomalo.com/entertainment/dhallywood/h5m8lujsy5",
+        "published_at": "2026-01-30T19:00:00+00:00",
+        "summary": "মুক্তিযুদ্ধ চলাকালে ইংরেজি ভাষায় ‘স্টপ জেনোসাইড’ নির্মাণ করেন জহির রায়হান। এতে পাকিস্তানি সামরিক বাহিনীর ধ্বংসযজ্ঞ, গণহত্যা, শরণার্থীদের দুরবস্থা তুলে ধরেন তিনি।\n",
+        "image_s3_key": "prothomalo-bangla/2026-01-30/2zrqvtg0/A63I7354.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/2zrqvtg0/A63I7354.JPG?auto=format,compress"
+      },
+      {
         "headline": "ভালো সম্পর্ক করতে অন্যের নামে বদনাম করা ছাড়াও হাজারো উপায় আছে",
         "url": "https://www.prothomalo.com/entertainment/mbvzbr9zpl",
         "published_at": "2026-01-30T17:30:00+00:00",
@@ -9143,19 +9146,32 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/x89rq3x6/news-p.v1.20260126.1d54ce8d2c2d4d44ba3ff7308ccbe351P1.jpg?auto=format,compress"
       },
       {
-        "headline": "বাফটায় সর্বোচ্চ মনোনয়ন পেল কোন সিনেমা",
-        "url": "https://www.prothomalo.com/entertainment/hollywood/75ymokbjev",
-        "published_at": "2026-01-27T19:30:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2025-10-29/xnb5czku/MV5BNTE0ZDc1YmQtNjE2Yi00Mzg2LWIyNzctNmQ4OWVkNzJlN2NiXkEyXkFqcGc.V1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-29/xnb5czku/MV5BNTE0ZDc1YmQtNjE2Yi00Mzg2LWIyNzctNmQ4OWVkNzJlN2NiXkEyXkFqcGc.V1.jpg?auto=format,compress"
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
+      },
+      {
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
+      },
+      {
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
       },
       {
         "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
         "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
         "published_at": "2026-01-31T00:53:11+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799190-afcdb1e11e4ce5ccdd054b1a43d8b41e.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
       },
       {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
@@ -9198,27 +9214,6 @@
         "published_at": "2026-01-30T20:53:30+06:00",
         "summary": "বিএনপির স্থায়ী কমিটির সদস্য বেগম সেলিমা রহমান বলেছেন, নির্বাচন বন্ধ করার জন্য একটি দল ষড়যন্ত্র করছে এবং টাকা দিয়ে ভোট কিনছে। এটি প্রতিহত করতে সবাইকে সজাগ হতে হবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
-      },
-      {
-        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-        "published_at": "2026-01-30T20:39:04+06:00",
-        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
-      },
-      {
-        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-        "published_at": "2026-01-30T20:19:30+06:00",
-        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-      },
-      {
-        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-        "published_at": "2026-01-30T20:17:00+06:00",
-        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "নিজের ‘ডাকনাম’ প্রকাশ্যে আনলেন চিত্রনায়িকা নুসরাত ফারিয়া",
@@ -9429,6 +9424,35 @@
         "published_at": "1768982012",
         "summary": "দীর্ঘদিন ধরেই ক্যানসারের সঙ্গে লড়াই করছিলেন বাংলা সিনেমার সোনালী যুগের জনপ্রিয় অভিনেতা ইলিয়াস জাভেদ। অবশেষে আজ রাজধানীর উত্তরার একটি হাসপাতালে তিনি মারা গেছেন (ইন্নালিল্লাহি ওয়া ইন্নাইলাইহি রাজিউন)। মৃত্যুকালে তার বয়স ছিল ৮২ বছর। খবরটি গণমাধ্যমকে নিশ্চিত করেছেন বাংলাদেশ চলচ্চিত্র শিল্পী সমিতির কার্যনির্বাহী সদস্য সনি রহমান।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260121075332.jpg"
+      },
+      {
+        "headline": "বাফটায় সর্বোচ্চ মনোনয়ন পেল কোন সিনেমা",
+        "url": "https://www.prothomalo.com/entertainment/hollywood/75ymokbjev",
+        "published_at": "2026-01-27T19:30:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2025-10-29/xnb5czku/MV5BNTE0ZDc1YmQtNjE2Yi00Mzg2LWIyNzctNmQ4OWVkNzJlN2NiXkEyXkFqcGc.V1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-29/xnb5czku/MV5BNTE0ZDc1YmQtNjE2Yi00Mzg2LWIyNzctNmQ4OWVkNzJlN2NiXkEyXkFqcGc.V1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+        "published_at": "2026-01-30T20:39:04+06:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+      },
+      {
+        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+        "published_at": "2026-01-30T20:19:30+06:00",
+        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+      },
+      {
+        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+        "published_at": "2026-01-30T20:17:00+06:00",
+        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
@@ -10269,34 +10293,6 @@
         "published_at": "2026-01-29T16:09:13+06:00",
         "summary": "লালমনিরহাটের পাটগ্রাম রেলস্টেশনে রেললাইন পার হওয়ার সময় ট্রেনের ধাক্কায় মুন্না (৩০) নামে এক যুবকের মৃত্যু হয়েছে। নিহত মুন্না পাটগ্রাম চৌরঙ্গীর কাপড় ব্যবসায়ী খোকনের ছেলে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769681351-a8064839c802f538e8d3e6efc1cd5b5e.jpg"
-      },
-      {
-        "headline": "ফারাক্কার বিপরীতে পদ্মা ব্যারেজ নির্মাণের প্রতিশ্রুতি তারেক রহমানের",
-        "url": "https://www.bd-pratidin.com/election/2026/01/29/1210659",
-        "published_at": "2026-01-29T15:59:20+06:00",
-        "summary": "পদ্মা নদীর ওপর উজানে ভারতের নির্মিত ফারাক্কা ব্যারেজের বিপরীতে পদ্মা ব্যারেজ নির্মাণের প্রতিশ্রুতি দিয়েছেন বিএনপির চেয়ারম্যান তারেক রহমান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769681651-4f53f4d9f5a1dba1a455649945773d59.jpg"
-      },
-      {
-        "headline": "রাজনৈতিক সৌহার্দ্য নষ্ট করার চেষ্টা চলছে : রবিন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/29/1210658",
-        "published_at": "2026-01-29T15:54:37+06:00",
-        "summary": "ঢাকা-৪ আসনের বিএনপির প্রার্থী তানভীর আহমেদ রবিন বলেছেন, এলাকায় পরিস্থিতি সম্পূর্ণ শান্ত রয়েছে এবং রাজনৈতিক দলগুলোর মধ্যে সৌহার্দ্যপূর্ণ সম্পর্ক বিদ্যমান। তবে সাম্প্রতিক একটি ঘটনাকে কেন্দ্র করে তদন্ত শেষ হওয়ার আগেই দোষারোপ করা হচ্ছে, যা সেই সৌহার্দ্য নষ্ট করার চেষ্টা হতে পারে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769680475-97fbac76cbf649dc1ae3247e04706f67.jpg"
-      },
-      {
-        "headline": "একটি মহল নির্বাচন বানচালের ষড়যন্ত্র করছে : তারেক রহমান",
-        "url": "https://www.bd-pratidin.com/election/2026/01/29/1210656",
-        "published_at": "2026-01-29T15:44:37+06:00",
-        "summary": "বিএনপির চেয়ারম্যান তারেক রহমান বলেন, একটি মহল ষড়যন্ত্র শুরু করছে। ভেতরে ভেতরে ষড়যন্ত্র করছে। কিভাবে এই নির্বাচনকে ক্ষতিগ্রস্ত করা যায়, কিভাবে বাধাগ্রস্ত করা যায়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769681577-2f8970ed83261d50e317a1d303b97c0f.jpg"
-      },
-      {
-        "headline": "রোহিঙ্গা সংকটের একমাত্র টেকসই সমাধান প্রত্যাবাসন : প্রধান উপদেষ্টা",
-        "url": "https://www.bd-pratidin.com/national/2026/01/29/1210653",
-        "published_at": "2026-01-29T15:37:26+06:00",
-        "summary": "প্রধান উপদেষ্টা অধ্যাপক মুহাম্মদ ইউনূস বলেছেন, বাংলাদেশে আশ্রয় নেয়া দশ লাখেরও বেশি রোহিঙ্গা শরণার্থীর নিজ দেশ মিয়ানমারের রাখাইন রাজ্যে প্রত্যাবাসনই রোহিঙ্গা সংকটের একমাত্র বাস্তব ও টেকসই সমাধান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769679444-4a2e1800202acf6dbcebdabc176a9012.jpg"
       }
     ],
     "jobs": [
@@ -10621,11 +10617,32 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-05-10/6dlhai03/155.png?auto=format,compress"
       },
       {
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
+      },
+      {
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
+      },
+      {
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+      },
+      {
         "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
         "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
         "published_at": "2026-01-31T00:53:11+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799190-afcdb1e11e4ce5ccdd054b1a43d8b41e.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
       },
       {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
@@ -10668,27 +10685,6 @@
         "published_at": "2026-01-30T20:53:30+06:00",
         "summary": "বিএনপির স্থায়ী কমিটির সদস্য বেগম সেলিমা রহমান বলেছেন, নির্বাচন বন্ধ করার জন্য একটি দল ষড়যন্ত্র করছে এবং টাকা দিয়ে ভোট কিনছে। এটি প্রতিহত করতে সবাইকে সজাগ হতে হবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
-      },
-      {
-        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-        "published_at": "2026-01-30T20:39:04+06:00",
-        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
-      },
-      {
-        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-        "published_at": "2026-01-30T20:19:30+06:00",
-        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-      },
-      {
-        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-        "published_at": "2026-01-30T20:17:00+06:00",
-        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "৮ ব্যাংকের অফিসার পদে প্রিলি পরীক্ষার তারিখ ও আসনবিন্যাস প্রকাশ",
@@ -10850,6 +10846,27 @@
         "published_at": null,
         "summary": "নিয়োগ পরীক্ষার প্রস্তুতিতে সফল হতে হলে দরকার সঠিক তথ্য, আপডেটেড সিলেবাস ও নির্ভরযোগ্য রিসোর্স। প্রতিটি নিয়োগ পরীক্ষার ধরন, প্রশ্নের গঠন ও মানদণ্ড ভিন্ন হওয়ায় সময়মতো সঠিক নির্দেশনা জানা অত্যন্ত জরুরি। লিখিত, এমসিকিউ ও মৌখিক পরীক্ষার প্রস্তুতিতে বিগত বছরের প্রশ্নপত্র, সময় ব্যবস্থাপনা কৌশল, বিষয়ের ওপর ভিত্তি করে অধ্যয়ন পরিকল্পনা এবং মানসম্পন্ন প্র্যাকটিস সেট আপনাকে সঠিক পথে এগিয়ে নিতে পারে।",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+        "published_at": "2026-01-30T20:39:04+06:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+      },
+      {
+        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+        "published_at": "2026-01-30T20:19:30+06:00",
+        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+      },
+      {
+        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+        "published_at": "2026-01-30T20:17:00+06:00",
+        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
@@ -11728,27 +11745,6 @@
         "published_at": "2026-01-29T12:32:07+06:00",
         "summary": "ফ্যাসিবাদের পুনর্বাসন, জুলাইযোদ্ধাদের বঞ্চিত করাসহ নানা অভিযোগ তুলে জাতীয় নাগরিক পার্টির (এনসিপি) হবিগঞ্জ জেলা শাখার সিনিয়র যুগ্ম সদস্যসচিব পলাশ মাহমুদসহ ১৩ নেতা পদত্যাগ করেছেন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769668325-9414a8f5b810972c3c9a0e2860c07532.jpg"
-      },
-      {
-        "headline": "যুক্তরাজ্যে লরিতে লুকিয়ে ২৩ বাংলাদেশিকে পাচারের চেষ্টা, আটক ৫",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/29/1210612",
-        "published_at": "2026-01-29T12:19:55+06:00",
-        "summary": "যুক্তরাজ্য থেকে অবৈধভাবে ২৩ বাংলাদেশিকে লরিতে করে পাচারের চেষ্টা করার অভিযোগে পাঁচজনকে আটক করেছে সেখানকার পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769667593-7892afe5016d6caa436659c201c91460.jpg"
-      },
-      {
-        "headline": "হিলির উত্তরসূরী বাছাইয়ে চমক উপহার অস্ট্রেলিয়ার",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/29/1210611",
-        "published_at": "2026-01-29T12:12:59+06:00",
-        "summary": "অ্যালিসা হিলি অবসরের ঘোষণা দেওয়ার পর সম্ভাব্য পরবর্তী অধিনায়কের আলোচনা ছিল মূলত দুজনকে ঘিরেই। তারা হলেন- তাহলিয়া ম্যাকগ্রা ও অ্যাশ গার্ডনার। কিন্তু চূড়ান্ত সিদ্ধান্ত বিস্ময় হয়ে এলো অনেকের জন্যই। দায়িত্বটি পেলেন সোফি মলিনিউ। তিন সংস্করণেই অস্ট্রেলিয়ার নতুন অধিনায়ক বাঁহাতি এই স্পিনিং অলরাউন্ডার।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769667177-55279260157a9b2458d23e7444fadb0f.jpg"
-      },
-      {
-        "headline": "লিটনদের কন্ডিশনিং ক্যাম্প শুরু ১ ফেব্রুয়ারি",
-        "url": "https://www.bd-pratidin.com/sports/2026/01/29/1210610",
-        "published_at": "2026-01-29T12:10:06+06:00",
-        "summary": "আসন্ন বিশ্বকাপে বাংলাদেশ দল অংশ না নেওয়ায় আপাতত কোনো প্রতিযোগিতামূলক ক্রিকেট নেই জাতীয় দলের খেলোয়াড়দের। এই সময়টায় ক্রিকেটারদের সক্রিয় ও মানসিকভাবে প্রস্তুত রাখতে ফিটনেস ও কন্ডিশনিং ক্যাম্প আয়োজনের সিদ্ধান্ত নিয়েছে বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/29/og/1769667003-2548dc2fd28f91bc0de125766aa11b7a.jpg"
       }
     ],
     "opinion": [
@@ -13158,11 +13154,32 @@
     "football": [],
     "election": [
       {
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
+      },
+      {
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
+      },
+      {
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+      },
+      {
         "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
         "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
         "published_at": "2026-01-31T00:53:11+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799190-afcdb1e11e4ce5ccdd054b1a43d8b41e.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
       },
       {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
@@ -13205,27 +13222,6 @@
         "published_at": "2026-01-30T20:53:30+06:00",
         "summary": "বিএনপির স্থায়ী কমিটির সদস্য বেগম সেলিমা রহমান বলেছেন, নির্বাচন বন্ধ করার জন্য একটি দল ষড়যন্ত্র করছে এবং টাকা দিয়ে ভোট কিনছে। এটি প্রতিহত করতে সবাইকে সজাগ হতে হবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
-      },
-      {
-        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-        "published_at": "2026-01-30T20:39:04+06:00",
-        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
-      },
-      {
-        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-        "published_at": "2026-01-30T20:19:30+06:00",
-        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-      },
-      {
-        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-        "published_at": "2026-01-30T20:17:00+06:00",
-        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "কুমিল্লা সিটি নির্বাচন",
@@ -13296,6 +13292,27 @@
         "published_at": "1769780621",
         "summary": "আগামী জাতীয় সংসদ নির্বাচনের পর বিএনপি সরকার গঠন করবে এমন ধারণা করছেন দেশের ভোটারদের একটি বড় অংশ। বেসরকারি পরামর্শক প্রতিষ্ঠান ইনোভেশন কনসাল্টিং পরিচালিত এক জরিপে এ তথ্য উঠে এসেছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/zorip-20260130134341.jpg"
+      },
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+        "published_at": "2026-01-30T20:39:04+06:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+      },
+      {
+        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+        "published_at": "2026-01-30T20:19:30+06:00",
+        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+      },
+      {
+        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+        "published_at": "2026-01-30T20:17:00+06:00",
+        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
@@ -14535,36 +14552,36 @@
         "published_at": "2026-01-28T16:31:03+06:00",
         "summary": "ঢাকা-১৩ আসনের রিকশা প্রতীকের প্রার্থী ও বাংলাদেশ খেলাফত মজলিসের আমির আল্লামা মামুনুল হক বলেছেন, রিকশা মার্কা বিজয়ী হলে ঢাকা-১৩ এলাকা থেকে সন্ত্রাস, চাঁদাবাজি ও মাদক ব্যবসা সম্পূর্ণ নির্মূল করা হবে। এই অঞ্চল আর কোনো ‘ক্রাইম জোন’ থাকবে না। কোনো কিশোরকে ‘গ্যাং’ পরিচয় দিয়ে কোনো আধিপত্যবাদের হাতিয়ার হিসেবে ব্যবহার করা হবে না।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769596260-28be60ca6f5338ef50af7c5d407a0db0.jpg"
-      },
-      {
-        "headline": "ট্রাম্পকে পাত্তা না দিয়ে নিজের অবস্থানে অনড় কানাডার প্রধানমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/28/1210284",
-        "published_at": "2026-01-28T16:29:16+06:00",
-        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে পাত্তাই দিলেন না কানাডার প্রধানমন্ত্রী মার্ক কার্নি। তিনি সুইজারল্যান্ডের দাভোসে বিশ্ব অর্থনৈতিক ফোরামে ‘অসংযমী পরাশক্তি’ নিয়ে নিজ বক্তব্যে অটল থাকার কথা স্পষ্টভাবে জানিয়েছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769596154-f9b0c44d8d2617067a8b0db6104a0b54.jpg"
-      },
-      {
-        "headline": "ডিজিটাল সিস্টেম রোগীদের ভোগান্তি কমাবে : ফয়েজ আহমেদ",
-        "url": "https://www.bd-pratidin.com/national/2026/01/28/1210281",
-        "published_at": "2026-01-28T16:28:07+06:00",
-        "summary": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়ের দায়িত্বপ্রাপ্ত প্রধান উপদেষ্টার বিশেষ সহকারী ফয়েজ আহমেদ বলেছেন, বাংলাদেশ মেডিকেল বিশ্ববিদ্যালয়ে (বিএমইউ) চালু হতে যাওয়া ডিজিটাল ও পেপারলেস ব্যবস্থা চিকিৎসা সেবা গ্রহণকে সহজ, সময়সাশ্রয়ী ও তুলনামূলক কম খরচের করবে। এতে রোগীদের ভোগান্তি কমবে এবং সেবার গতি বাড়বে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769596085-ca7a60f7af4e3b2d641fae14eac88855.jpg"
-      },
-      {
-        "headline": "ঢাকাসহ তিন জেলায় নামছে ৩৮ প্লাটুন বিজিবি",
-        "url": "https://www.bd-pratidin.com/national/2026/01/28/1210280",
-        "published_at": "2026-01-28T16:25:57+06:00",
-        "summary": "আসন্ন সংসদ নির্বাচনকে সামনে রেখে অবাধ, সুষ্ঠু ও নিরপেক্ষ ভোটগ্রহণের জন্য রাজধানী ঢাকাসহ আশপাশের তিন জেলায় ব্যাপক নিরাপত্তা ব্যবস্থা গ্রহণ করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)। আগামীকাল বৃহস্পতিবার থেকে মাঠে নামছেন বিজিবি ৫ ব্যাটালিয়নের সদস্যরা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769595955-ebb1a49e0c7a480ba9dc8f70e837adf6.jpg"
       }
     ],
     "city": [
+      {
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
+      },
+      {
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
+      },
+      {
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+      },
       {
         "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
         "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
         "published_at": "2026-01-31T00:53:11+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799190-afcdb1e11e4ce5ccdd054b1a43d8b41e.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
       },
       {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
@@ -15937,36 +15954,36 @@
         "published_at": "2026-01-28T12:36:49+06:00",
         "summary": "গোপালগঞ্জ মোটর শ্রমিক ইউনিয়নের সাবেক সভাপতি সাইদুর রহমান বাসু হত্যা মামলায় পাঁচজনের মৃত্যুদণ্ডের রায় দিয়েছেন ট্রাইব্যুনাল। একইসঙ্গে চার আসামির আমৃত্যু কারাদণ্ড ও ১১ জনের যাবজ্জীবন কারাদণ্ড দেওয়া হয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769582206-9e972aa29d2db2b2fe1251ec7003cf42.jpg"
-      },
-      {
-        "headline": "সব রেকর্ড ভাঙল স্বর্ণের দাম, ভরি কত?",
-        "url": "https://www.bd-pratidin.com/economy/2026/01/28/1210203",
-        "published_at": "2026-01-28T12:32:34+06:00",
-        "summary": "দেশের বাজারে আবারও স্বর্ণের দাম বাড়িয়েছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন (বাজুস)। এবার ভরিতে ৭ হাজার ৩৪৮ টাকা বাড়িয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের দাম ২ লাখ ৬৯ হাজার ৭৮৮ টাকা নির্ধারণ করা হয়েছে। এই দাম দেশের ইতিহাসে সর্বোচ্চ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769581951-60b35ab5a22c13bd9f8ac0fd08aae2f1.jpg"
-      },
-      {
-        "headline": "সিইসির সঙ্গে বৈঠকে মার্কিন রাষ্ট্রদূত",
-        "url": "https://www.bd-pratidin.com/national/2026/01/28/1210201",
-        "published_at": "2026-01-28T12:25:38+06:00",
-        "summary": "প্রধান নির্বাচন কমিশনার (সিইসি) এএমএম নাসির উদ্দিনের সঙ্গে বৈঠকে বসেছেন ঢাকায় নিযুক্ত মার্কিন যুক্তরাষ্ট্রের নতুন রাষ্ট্রদূত ব্রেন্ট ক্রিস্টেনসেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769581536-d82319912041449cd31bdb7e7569d171.jpg"
-      },
-      {
-        "headline": "দুই নাগরিকের মৃত্যুর পর মিনেসোটায় ‌‘উত্তেজনা কমানোর’ ঘোষণা ট্রাম্পের",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/28/1210197",
-        "published_at": "2026-01-28T11:57:40+06:00",
-        "summary": "যুক্তরাষ্ট্রের মিনেসোটায় ফেডারেল ইমিগ্রেশন অফিসারদের গুলিতে দ্বিতীয় দফায় একজন মার্কিন নাগরিকের প্রাণহানির ঘটনা ঘটেছে। এই ঘটনার পর ওই এলাকায় প্রশাসন ‘উত্তেজনা খানিকটা কমাতে যাচ্ছে’ বলে জানিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769579857-7711c2a8d982c469c930a05505b3515b.jpg"
       }
     ],
     "campus": [
+      {
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
+      },
+      {
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
+      },
+      {
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+      },
       {
         "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
         "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
         "published_at": "2026-01-31T00:53:11+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799190-afcdb1e11e4ce5ccdd054b1a43d8b41e.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
       },
       {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
@@ -16009,27 +16026,6 @@
         "published_at": "2026-01-30T20:53:30+06:00",
         "summary": "বিএনপির স্থায়ী কমিটির সদস্য বেগম সেলিমা রহমান বলেছেন, নির্বাচন বন্ধ করার জন্য একটি দল ষড়যন্ত্র করছে এবং টাকা দিয়ে ভোট কিনছে। এটি প্রতিহত করতে সবাইকে সজাগ হতে হবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
-      },
-      {
-        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-        "published_at": "2026-01-30T20:39:04+06:00",
-        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
-      },
-      {
-        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-        "published_at": "2026-01-30T20:19:30+06:00",
-        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-      },
-      {
-        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-        "published_at": "2026-01-30T20:17:00+06:00",
-        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "সমালোচনার ঝড়ে কুপোকাত ডাকসু নেতা: কান ধরিয়ে ওঠবস করানোর ঘটনায় সর্বমিত্র চাকমার পদত্যাগের ঘোষণা",
@@ -16100,6 +16096,27 @@
         "published_at": "1769657969",
         "summary": "শেরপুর-৩ আসনে ইশতেহার মঞ্চে চেয়ারে বসাকে কেন্দ্র করে বিএনপি-জামায়াতের সংঘর্ষে শ্রীবরদী উপজেলা জামায়াতের সেক্রেটারি মাওলানা রেজাউল করিম খুনের ঘটনায় বিক্ষোভ মিছিল করেছেন জগন্নাথ বিশ্ববিদ্যালয়ের শিক্ষার্থীরা।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/1000149391-20260129033929.jpg"
+      },
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+        "published_at": "2026-01-30T20:39:04+06:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+      },
+      {
+        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+        "published_at": "2026-01-30T20:19:30+06:00",
+        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+      },
+      {
+        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+        "published_at": "2026-01-30T20:17:00+06:00",
+        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
@@ -17339,36 +17356,36 @@
         "published_at": "2026-01-28T16:11:20+06:00",
         "summary": "৫০তম বিসিএস পরীক্ষা-২০২৫ এর প্রিলিমিনারি টেস্টের (এমসিকিউ টাইপ) প্রবেশপত্র পুনরায় ডাউনলোড করতে নির্দেশনা দিয়েছে বাংলাদেশ সরকারি কর্ম কমিশন (বিপিএসসি)। একটি কেন্দ্রের নির্দিষ্ট কিছু রেজিস্ট্রেশন নম্বরে মুদ্রণ ত্রুটি দেখা যাওয়ায় এমন নির্দেশনা দেওয়া হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769595079-60afd259f38064f5016c2f0b7027a125.jpg"
-      },
-      {
-        "headline": "নাগরিক সমস্যা সমাধানের প্রতিশ্রুতি ইশরাকের",
-        "url": "https://www.bd-pratidin.com/election/2026/01/28/1210268",
-        "published_at": "2026-01-28T16:11:20+06:00",
-        "summary": "ঢাকা-৬ আসনের বিএনপির প্রার্থী ইঞ্জিনিয়ার ইশরাক হোসেন জানিয়েছেন, নির্বাচনী প্রচারণায় সাধারণ মানুষের স্বতঃস্ফূর্ত অংশগ্রহণ দেখা যাচ্ছে এবং ভোটাররা তাদের বিভিন্ন নাগরিক সমস্যার কথা তুলে ধরছেন। তিনি বলেন, নির্বাচিত হলে এসব সমস্যা সমাধানে তিনি কাজ করবেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769595079-72d6e92f3898969ec945ecfe98161598.jpg"
-      },
-      {
-        "headline": "রোডম্যাপ অনুসারে হজের কার্যক্রম এগিয়ে যাচ্ছে : ধর্ম উপদেষ্টা",
-        "url": "https://www.bd-pratidin.com/national/2026/01/28/1210266",
-        "published_at": "2026-01-28T16:06:51+06:00",
-        "summary": "ধর্ম উপদেষ্টা ড. আ ফ ম খালিদ হোসেন বলেছেন, রোডম্যাপ অনুসারে হজের সকল কার্যক্রম এগিয়ে যাচ্ছে। নির্ধারিত সময়ের মধ্যে শতভাগ বাড়িভাড়া চুক্তি সম্পাদনে ধর্ম বিষয়ক মন্ত্রণালয় নিরলস কাজ করছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769594809-6fb35d1f2f417620ce617ec96d261344.jpg"
-      },
-      {
-        "headline": "‘কোনো বহিরাগত হস্তক্ষেপ ছাড়াই সুষ্ঠু নির্বাচন আয়োজনে সরকার বদ্ধপরিকর’",
-        "url": "https://www.bd-pratidin.com/national/2026/01/28/1210262",
-        "published_at": "2026-01-28T16:01:43+06:00",
-        "summary": "পরিবেশ, বন ও জলবায়ু পরিবর্তন এবং তথ্য উপদেষ্টা সৈয়দা রিজওয়ানা হাসান বলেছেন, বাংলাদেশ সরকার কোনো ধরনের বহিরাগত হস্তক্ষেপ ছাড়াই একটি সুষ্ঠু নির্বাচন অনুষ্ঠানে বদ্ধপরিকর।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769594502-1db82b8ec457774967ad514d718ca530.jpg"
       }
     ],
     "tech": [
+      {
+        "headline": "ইমরান খান কি অন্ধ হয়ে যাচ্ছেন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211324",
+        "published_at": "2026-01-31T01:21:55+06:00",
+        "summary": "পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানের চোখের দৃষ্টি নিয়ে গভীর উদ্বেগ প্রকাশ করেছে তাঁর দল পাকিস্তান তেহরিক ই ইনসাফ। দলটির দাবি, ইমরান খান সেন্ট্রাল রেটিনাল ভেইন অক্লুশন নামে একটি গুরুতর চোখের সমস্যায় ভুগছেন। সময়মতো যথাযথ চিকিৎসা না পেলে তাঁর ডান চোখের দৃষ্টি স্থায়ীভাবে নষ্ট হয়ে যেতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800914-4384b461b1ed47fcc15679f131c4294e.jpg"
+      },
+      {
+        "headline": "জুলাইয়ের মধ্যেই কি সত্যিই দেউলিয়া হচ্ছে জাতিসংঘ?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211323",
+        "published_at": "2026-01-31T01:12:08+06:00",
+        "summary": "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস সতর্ক করে বলেছেন, সদস্য দেশগুলো দীর্ঘদিন ধরে বকেয়া চাঁদা পরিশোধ না করায় বিশ্ব সংস্থাটি এখন আসন্ন আর্থিক ধসের মুখে। তিনি জানিয়েছেন, বর্তমান পরিস্থিতি অব্যাহত থাকলে আগামী জুলাই মাসের মধ্যেই জাতিসংঘের তহবিল পুরোপুরি শূন্য হয়ে যেতে পারে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769800327-4da71c272b0ad8dc944c9920df4e2bae.jpg"
+      },
+      {
+        "headline": "এপস্টেইন কাণ্ডে ৩০ লাখ নথি প্রকাশ, আসলে কী লুকানো ছিল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/01/31/1211321",
+        "published_at": "2026-01-31T01:00:18+06:00",
+        "summary": "যুক্তরাষ্ট্রের কুখ্যাত যৌন অপরাধী জেফরি এপস্টেইনকে ঘিরে চলমান তদন্তে আরও ৩০ লাখের বেশি পৃষ্ঠা নথি প্রকাশ করেছে দেশটির বিচার বিভাগ। এপস্টেইন সংক্রান্ত এটিই এখন পর্যন্ত সবচেয়ে বড় নথি প্রকাশের ঘটনা বলে জানিয়েছে কর্তৃপক্ষ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799617-d82b26dc8fcd7a4213c94b0f08c154cb.jpg"
+      },
       {
         "headline": "তারেক রহমান হবেন প্রধানমন্ত্রী, মনে করে ৪৭ ভাগ মানুষ",
         "url": "https://www.bd-pratidin.com/election/2026/01/31/1211318",
         "published_at": "2026-01-31T00:53:11+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত সরকারের প্রধানমন্ত্রী হিসেবে বিএনপি চেয়ারম্যান তারেক রহমানকে দেখতে চান ৪৭ দশমিক ৬ ভাগ মানুষ। অন্যদিকে, ২২ দশমিক ৫ ভাগ উত্তরদাতা মনে করেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান প্রধানমন্ত্রী হতে পারেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799190-afcdb1e11e4ce5ccdd054b1a43d8b41e.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769799685-86f30056f1d3f49ff8a62db92a225d48.jpg"
       },
       {
         "headline": "ইংল্যান্ড ও অস্ট্রেলিয়ার আপত্তি: এবার কি ঝুঁকিতে বিশ্বকাপ?",
@@ -17411,27 +17428,6 @@
         "published_at": "2026-01-30T20:53:30+06:00",
         "summary": "বিএনপির স্থায়ী কমিটির সদস্য বেগম সেলিমা রহমান বলেছেন, নির্বাচন বন্ধ করার জন্য একটি দল ষড়যন্ত্র করছে এবং টাকা দিয়ে ভোট কিনছে। এটি প্রতিহত করতে সবাইকে সজাগ হতে হবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769784805-6fd33470dea458ab90e18c964caa6eb9.jpg"
-      },
-      {
-        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
-        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
-        "published_at": "2026-01-30T20:39:04+06:00",
-        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
-      },
-      {
-        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
-        "published_at": "2026-01-30T20:19:30+06:00",
-        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
-      },
-      {
-        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
-        "published_at": "2026-01-30T20:17:00+06:00",
-        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "মেটার নতুন প্ল্যান: হোয়াটসঅ্যাপ-ফেসবুক-ইনস্টাগ্রাম চালাতে খরচ হবে টাকা",
@@ -17649,6 +17645,27 @@
         "published_at": null,
         "summary": "‘রস্টার ডেটিং’ হলো একেক দিন একেকজনের সঙ্গে ডেটিং করা। কারও সঙ্গে নদীর পাড়ে গেলেন তো কারও সঙ্গে ক্য়ান্ডেল লাইট ডিনার, ...",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "বনানীতে পাঁচতলা ভবনের গুদামে অগ্নিকাণ্ড",
+        "url": "https://www.bd-pratidin.com/city-news/2026/01/30/1211146",
+        "published_at": "2026-01-30T20:39:04+06:00",
+        "summary": "রাজধানীর বনানীর চেয়ারম্যান বাড়ি এলাকায় একটি পাঁচতলা ভবনের গুদামে ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769783943-7437b5abf7c517b89f9ed63d60f1b773.jpg"
+      },
+      {
+        "headline": "আচরণবিধি লঙ্ঘনের অভিযোগে চার শিক্ষককে শোকজ",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211139",
+        "published_at": "2026-01-30T20:19:30+06:00",
+        "summary": "খুলনার কয়রা উপজেলায় নির্বাচনকালীন আচরণবিধি লঙ্ঘনের অভিযোগে একটি কলেজের ভারপ্রাপ্ত অধ্যক্ষসহ চার শিক্ষককে শোকজ (কারণ দর্শানোর নোটিশ) দেওয়া হয়েছে। খুলনা-৬ আসনে জামায়াতে ইসলামি মনোনীত প্রার্থী মাওলানা আবুল কালাম আজাদের পক্ষে নির্বাচনী জনসভা আয়োজন ও তাতে অংশগ্রহণের অভিযোগে তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769782794-816ddc5851779ecc0c0cc27dc6d04162.jpg"
+      },
+      {
+        "headline": "ভোটারদের নিরাপত্তা দিতে হবে: আজম খাঁন",
+        "url": "https://www.bd-pratidin.com/election/2026/01/30/1211136",
+        "published_at": "2026-01-30T20:17:00+06:00",
+        "summary": "জনতার দলের মহাসচিব বীর মুক্তিযোদ্ধা আজম খাঁন বলেছেন, মানুষ ভয়ে আছে, আতঙ্কে আছে। নির্বাচন হবে কি না বুঝতে পারছে না। দেশে নির্বাচনের কোনো আমেজ নেই। শেখ হাসিনার সময় ‘আমরা আমরা’ ভোটের যে নির্বাচন হয়েছিল, সেখানেও নির্বাচনি আমেজ ছিল। আজকে তাও নেই। বাংলাদেশে যেখানে যাই জনগণের মধ্যে কোনো উচ্ছ্বাস দেখি না। ভোটের আমেজ তৈরিতে বর্তমান সরকার ব্যর্থতার পরিচয় দিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/30/og/1769787219-bc16b09f1c8385386ac7196779dece94.jpg"
       },
       {
         "headline": "বিনিয়োগ ও বাণিজ্যে গতি আনতে সমন্বিত সংস্কারে অগ্রগতি",
@@ -18741,27 +18758,6 @@
         "published_at": "2026-01-28T18:52:47+06:00",
         "summary": "ভারতে যেতে রাজি না হওয়ায় টি-টোয়েন্টি বিশ্বকাপ থেকে বাংলাদেশকে সরিয়ে দেওয়ার সিদ্ধান্ত নিয়েছে আন্তর্জাতিক ক্রিকেট কাউন্সিল (আইসিসি)। এই সিদ্ধান্তের প্রতিবাদ জানিয়েছে পাকিস্তান ক্রিকেট বোর্ড (পিসিবি)। এমনকি বাংলাদেশকে সমর্থন জানিয়ে সরকার চাইলে বিশ্বকাপ বয়কট করতেও প্রস্তুত পাকিস্তান—এমন বার্তাও দিয়েছে বোর্ডটি। তবে বিশ্বকাপ না খেলে পাকিস্তান আদৌ কী অর্জন করবে, সে প্রশ্ন তুলেছেন পিসিবির সাবেক সদস্য সচিব আরিফ আলী আব্বাসি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769604765-bfe725593be3e2d97ea6de4730ca1192.jpg"
-      },
-      {
-        "headline": "খেলতে গিয়ে মৃত্যু ফাঁদে, মায়ের চোখের সামনেই তিন ভাইয়ের প্রাণহানি!",
-        "url": "https://www.bd-pratidin.com/international-news/2026/01/28/1210328",
-        "published_at": "2026-01-28T18:21:54+06:00",
-        "summary": "ঘটনাটি যুক্তরাষ্ট্রের। দেশটির টেক্সাসে খেলতে নেমে জমাট বরফে ঢাকা একটি পুকুরে পড়ে মুহূর্তেই প্রাণ হারিয়েছেন তিন ভাই। স্থানীয় সময় গত সোমবার এই মর্মান্তিক দুর্ঘটনা ঘটে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769602913-2b3faeb36faa911fe8cbb7dc19c1d274.jpg"
-      },
-      {
-        "headline": "সাবেক আইজিপি বেনজীরের ‘ক্যাশিয়ার’ রিফাত নিলয় গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/national/2026/01/28/1210325",
-        "published_at": "2026-01-28T18:14:14+06:00",
-        "summary": "সাবেক পুলিশ মহাপরিদর্শক (আইজিপি) বেনজীর আহমেদের ‘ক্যাশিয়ার’ হিসেবে পরিচিত রিফাত নিলয় জোয়ার্দারকে গ্রেফতার করেছে ঢাকা মহানগর পুলিশের (ডিএমপি) গোয়েন্দা বিভাগ (ডিবি)।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769602578-75e0b8c28e7102df5227b4e8aba92fd1.jpg"
-      },
-      {
-        "headline": "বিএনপি ক্ষমতায় আসার পর দুর্নীতির হার কমেছিল: মাহদী আমিন",
-        "url": "https://www.bd-pratidin.com/election/2026/01/28/1210318",
-        "published_at": "2026-01-28T17:53:10+06:00",
-        "summary": "বিগত সময়ে বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি) ক্ষমতায় আসার পর দুর্নীতির হার ধারাবাহিকভাবে কমেছে বলে মন্তব্য করেছেন বিএনপি চেয়ারম্যানের উপদেষ্টা ও দলটির নির্বাচন পরিচালনা কমিটির মুখপাত্র মাহদী আমিন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/28/og/1769601188-bcec5ef35d13b5d253781769e5c393bf.jpg"
       }
     ]
   }
