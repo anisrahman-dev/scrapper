@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-01-31T22:21:27.753897+00:00",
+  "fetched_at": "2026-01-31T22:52:12.439344+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "এপস্টেইনের নথিতে মোদির নাম: ভারত সরকারের দাবি ‘ভিত্তিহীন’, বিরোধীদের মতে ‘জাতীয় লজ্জা’",
+        "url": "https://www.prothomalo.com/world/india/km21lv5ak0",
+        "published_at": "2026-01-31T22:30:00+00:00",
+        "summary": "শুক্রবার এসব নথি থেকে বেশ কয়েক লাখ পৃষ্ঠা উন্মোচন করার পর রীতিমত হইচই পড়ে গেছে ভারতেও। কেননা, বেশকিছু নথিতে ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদির নাম এসেছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-31/jmnkp8ck/hurting-Modi.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/jmnkp8ck/hurting-Modi.avif?auto=format,compress"
+      },
+      {
+        "headline": "নিয়মিত আমল ছোট হলেও আল্লাহর কাছে প্রিয়",
+        "url": "https://www.prothomalo.com/religion/islam/19bxmizmgj",
+        "published_at": "2026-01-31T22:30:00+00:00",
+        "summary": "অনেকেই ইসলাম পালনের শুরুতে প্রবল উদ্যম নিয়ে প্রায় সব ধরনের ইবাদত শুরু করেন। কিন্তু একপর্যায়ে অতিরিক্ত বোঝার চাপে ক্লান্ত-শ্রান্ত হয়ে ইবাদত ছেড়ে দেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-31/8ow3fv1z/pexels-apyfz-34534734.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/8ow3fv1z/pexels-apyfz-34534734.jpg?auto=format,compress"
+      },
       {
         "headline": "কিউবায় তেল রপ্তানি করলে বাড়তি শুল্ক দিতে হবে: ট্রাম্প",
         "url": "https://www.prothomalo.com/world/usa/d4z8zzfhtf",
@@ -291,22 +307,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/cm7j8sr1/taslima-gono-songhoti.jpeg?auto=format,compress"
       },
       {
-        "headline": "হামলার ঘটনায় উদ্বেগ প্রকাশ, হামলাকারীদের বিচারের আওতায় আনার আহ্বান",
-        "url": "https://www.prothomalo.com/bangladesh/gr3ytk65f3",
-        "published_at": "2026-01-31T16:19:15.634000+00:00",
-        "summary": "গত ১৮ ডিসেম্বর উদ্দেশ্যপ্রণোদিত ও সংগঠিত সন্ত্রাসী হামলার শিকার হওয়া প্রথম আলোর প্রতি সংহতি জানাতে এসে ক্ষতিগ্রস্ত কার্যালয় ঘুরে দেখেন গ্যাব্রিয়েল মারিয়া।",
-        "image_s3_key": "prothomalo-bangla/2026-01-31/dmo9kzey/spain.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/dmo9kzey/spain.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "বিদেশি সিনেমাগুলো অভিনয়ে সাহায্য করে: হিমি",
-        "url": "https://www.prothomalo.com/video/entertainment/wz54ovpmeh",
-        "published_at": "2026-01-31T16:19:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-31/8bvzu6zc/YT-GFX.00091522.Still013.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/8bvzu6zc/YT-GFX.00091522.Still013.jpg?auto=format,compress"
-      },
-      {
         "headline": "কবে থেকে বাড়ছে শীত, জানাল আবহাওয়া অধিদপ্তর",
         "url": "https://www.bd-pratidin.com/national/2026/02/01/1211742",
         "published_at": "2026-02-01T01:59:29+06:00",
@@ -377,6 +377,20 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769872993-75d55f8d65834088afc532f92738b7f9.jpg"
       },
       {
+        "headline": "কঠোর বন্দর কর্তৃপক্ষ: শ্রমিকদের শাটডাউন ও পুলিশের নিষেধাজ্ঞা",
+        "url": "https://www.ittefaq.com.bd/772694/%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%9F%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8-%E0%A6%93-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "চট্টগ্রাম বন্দর এলাকার আমদানি-রপ্তানি কার্যক্রম নির্বিঘ্ন রাখতে এবং জনশৃঙ্খলা ও নিরাপত্তা নিশ্চিত করতে এক মাসের জন্য সব ধরনের সভা-সমাবেশ, মিছিল ও মানববন্ধন নিষিদ্ধ ঘোষণা করেছে চট্টগ্রাম মেট্রোপলিটন পুলিশ (সিএমপি)।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/e7c8f6028a95e97c8f449761b83b8da2-697e7cbd15215.jpg"
+      },
+      {
+        "headline": "বিএনপির ৪৩ নেতাকে সব পদ থেকে বহিষ্কার",
+        "url": "https://www.ittefaq.com.bd/772695/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A7%AA%E0%A7%A9-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%AC-%E0%A6%AA%E0%A6%A6-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "দলীয় সিদ্ধান্ত অমান্য করে সংগঠনবিরোধী কর্মকাণ্ডে জড়িত থাকার অভিযোগে ময়মনসিংহ, গাইবান্ধা ও সিলেট জেলার মোট ৪৩ জন নেতাকে বহিষ্কার করেছে বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি)। বহিষ্কৃতদের মধ্যে উপজেলা ও পৌর বিএনপির শীর্ষ পর্যায়ের পদধারী নেতারাও রয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/d356aa41c67e567046334329b07ce10a-697e7f02535e5.jpg"
+      },
+      {
         "headline": "অন্যের জামিননামা দেখিয়ে হত্যা মামলার আসামির পলায়ন: ৬ কারারক্ষী ও ডেপুটি জেলার বরখাস্ত",
         "url": "https://www.ittefaq.com.bd/772691/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B2%E0%A6%BE%E0%A7%9F%E0%A6%A8",
         "published_at": null,
@@ -431,20 +445,6 @@
         "published_at": null,
         "summary": "ইসলামপন্থি বিদ্রোহীদের বিরুদ্ধে সম্ভাব্য সামরিক অভিযানের আশঙ্কায় পাকিস্তানের একটি দুর্গম পাহাড়ি অঞ্চল থেকে কয়েক হাজার মানুষ এলাকা ছেড়ে পালিয়ে গেছে বলে জানিয়েছেন স্থানীয় বাসিন্দারা।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/54b89314e0fe6200db8de0dfc1a980f7-697e3f57cc6f6.jpg"
-      },
-      {
-        "headline": "সরে দাঁড়ানোর সিদ্ধান্ত থেকে সরে এলেন ডাকসুর সর্বমিত্র",
-        "url": "https://www.ittefaq.com.bd/772681/%E0%A6%B8%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A7%81%E0%A6%B0",
-        "published_at": null,
-        "summary": "পদত্যাগের সিদ্ধান্ত থেকে সরে আসার কথা জানিয়েছেন ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্রসংসদের (ডাকসুর) নেতা সর্বমিত্র চাকমা। কারণ হিসেবে তিনি বলছেন, ‘এভাবে পদত্যাগ করলে শিক্ষার্থীদের সঙ্গে প্রতারণা হয়ে যাবে।’",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/c487a451fc075efbef3039bc77d5bcac-697e382711c3d.jpg"
-      },
-      {
-        "headline": "সকালে কমে রাতে স্বর্ণের দামে বড় লাফ",
-        "url": "https://www.ittefaq.com.bd/772680/%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A7%9C-%E0%A6%B2%E0%A6%BE%E0%A6%AB",
-        "published_at": null,
-        "summary": "দেশের বাজারে আবারও স্বর্ণের দাম বাড়ানোর সিদ্ধান্ত নিয়েছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন (বাজুস)। মাত্র ১২ ঘণ্টার ব্যবধানে ভরিতে ৪ হাজার ৮২ টাকা বাড়িয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের নতুন দাম নির্ধারণ করা হয়েছে ২ লাখ ৫৯ হাজার ৬৯৯ টাকা।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/4da41d26094cc0d5f658bd077e77f1db-697e344308111.jpg"
       },
       {
         "headline": "নির্বাচনে গুজব ও সহিংসতা",
@@ -578,6 +578,36 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "হামলার ঘটনায় উদ্বেগ প্রকাশ, হামলাকারীদের বিচারের আওতায় আনার আহ্বান",
+        "url": "https://www.prothomalo.com/bangladesh/gr3ytk65f3",
+        "published_at": "2026-01-31T16:19:15.634000+00:00",
+        "summary": "গত ১৮ ডিসেম্বর উদ্দেশ্যপ্রণোদিত ও সংগঠিত সন্ত্রাসী হামলার শিকার হওয়া প্রথম আলোর প্রতি সংহতি জানাতে এসে ক্ষতিগ্রস্ত কার্যালয় ঘুরে দেখেন গ্যাব্রিয়েল মারিয়া।",
+        "image_s3_key": "prothomalo-bangla/2026-01-31/dmo9kzey/spain.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/dmo9kzey/spain.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "বিদেশি সিনেমাগুলো অভিনয়ে সাহায্য করে: হিমি",
+        "url": "https://www.prothomalo.com/video/entertainment/wz54ovpmeh",
+        "published_at": "2026-01-31T16:19:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-01-31/8bvzu6zc/YT-GFX.00091522.Still013.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/8bvzu6zc/YT-GFX.00091522.Still013.jpg?auto=format,compress"
+      },
+      {
+        "headline": "সরে দাঁড়ানোর সিদ্ধান্ত থেকে সরে এলেন ডাকসুর সর্বমিত্র",
+        "url": "https://www.ittefaq.com.bd/772681/%E0%A6%B8%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A7%81%E0%A6%B0",
+        "published_at": null,
+        "summary": "পদত্যাগের সিদ্ধান্ত থেকে সরে আসার কথা জানিয়েছেন ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্রসংসদের (ডাকসুর) নেতা সর্বমিত্র চাকমা। কারণ হিসেবে তিনি বলছেন, ‘এভাবে পদত্যাগ করলে শিক্ষার্থীদের সঙ্গে প্রতারণা হয়ে যাবে।’",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/c487a451fc075efbef3039bc77d5bcac-697e382711c3d.jpg"
+      },
+      {
+        "headline": "সকালে কমে রাতে স্বর্ণের দামে বড় লাফ",
+        "url": "https://www.ittefaq.com.bd/772680/%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A7%9C-%E0%A6%B2%E0%A6%BE%E0%A6%AB",
+        "published_at": null,
+        "summary": "দেশের বাজারে আবারও স্বর্ণের দাম বাড়ানোর সিদ্ধান্ত নিয়েছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন (বাজুস)। মাত্র ১২ ঘণ্টার ব্যবধানে ভরিতে ৪ হাজার ৮২ টাকা বাড়িয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের নতুন দাম নির্ধারণ করা হয়েছে ২ লাখ ৫৯ হাজার ৬৯৯ টাকা।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/4da41d26094cc0d5f658bd077e77f1db-697e344308111.jpg"
       },
       {
         "headline": "ইসিতে অনলাইনে কার্ড আবেদন, ১৪ হাজার সাংবাদিকের তথ্য ফাঁস!",
@@ -1467,37 +1497,6 @@
         "summary": "গত দুবারের খানা জরিপে একবার ৬৩ শতাংশ, আরেকবার ৭১ শতাংশ গরিব মানুষ নিয়ে দারিদ্র্যের শীর্ষে কুড়িগ্রাম জেলা। গত ১৬ মাসে রিক্রুটিং এজেন্সিগুলো নতুন করে নিবন্ধন পেয়েছে ২৫০টির মতো। তার মধ্যে রংপুর বিভাগ চার–পাঁচটিও পায়নি। ",
         "image_s3_key": "prothomalo-bangla/2026-01-27/kx7y8ywq/৭.JPG",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/kx7y8ywq/৭.JPG?auto=format,compress"
-      },
-      {
-        "headline": "মব–গণপিটুনিতে জানুয়ারিতে নিহত বেড়ে দ্বিগুণ, বেড়েছে অজ্ঞাতনামা লাশ",
-        "url": "https://www.prothomalo.com/bangladesh/da1fv0cj2l",
-        "published_at": "2026-01-31T13:10:58.149000+00:00",
-        "summary": "এমএসএফ মনে করে, আইন অবজ্ঞা করে গণপিটুনি দিয়ে হত্যা করা অবশ্যই ফৌজদারি অপরাধ, যা বিচারবহির্ভূত হত্যাকাণ্ড হিসেবেই গণ্য করা হয়ে থাকে।",
-        "image_s3_key": "prothomalo-bangla/2023-08/0ad1bfda-efe5-40a9-8716-4bcb95906d63/cc346893_5b66_46f3_9347_2254ebe3073b.jfif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-08/0ad1bfda-efe5-40a9-8716-4bcb95906d63/cc346893_5b66_46f3_9347_2254ebe3073b.jfif?auto=format,compress"
-      },
-      {
-        "headline": "১২ গোলে জিতে পোখারার মাঠ নিয়ে বিস্ফোরক বাটলার",
-        "url": "https://www.prothomalo.com/sports/football/3g1j2ssphi",
-        "published_at": "2026-01-31T13:04:02.802000+00:00",
-        "summary": "জয়ের পর বাংলাদেশ দলের প্রধান কোচ পিটার বাটলার যেমন দলের পারফরম্যান্সে খুশি, তেমনি মাঠের শোচনীয় অবস্থায় তীব্র অসন্তুষ্টও।",
-        "image_s3_key": "prothomalo-bangla/2025-11-25/3eqs79f1/BD-womens-football-team-Coach-Meet-the-press2.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-25/3eqs79f1/BD-womens-football-team-Coach-Meet-the-press2.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ইউটিউবে সৌদি যুবরাজের সমালোচনা করে যুক্তরাজ্যে প্রাণহানির শঙ্কায় দিন কাটে আরব তরুণের",
-        "url": "https://www.prothomalo.com/world/middle-east/4gks88hlmp",
-        "published_at": "2026-01-31T13:00:00+00:00",
-        "summary": "এই ইউটিউবার সৌদি রাজপরিবারের তীব্র সমালোচনা করে ভিডিও বানাতেন এবং সেগুলো ইউটিউবে দিতেন। এতে যেমন তাঁর ভক্ত বেড়েছিল, তেমনি শত্রুদের পাল্লাও ভারী হয়েছিল।",
-        "image_s3_key": "prothomalo-bangla/2026-01-31/ya7t6k20/Saudi-1.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/ya7t6k20/Saudi-1.webp?auto=format,compress"
-      },
-      {
-        "headline": "নির্বাচনে আইন-শৃঙ্খলা রক্ষায় মারণাস্ত্রের ব্যবহার চায় না বিজিবি",
-        "url": "https://www.bd-pratidin.com/national/2026/01/31/1211556",
-        "published_at": "2026-01-31T20:21:12+06:00",
-        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে ঘিরে আইনশৃঙ্খলা রক্ষায় বর্ডার গার্ড বাংলাদেশ (বিজিবি) লেথাল ওয়েপন (মারণাস্ত্র) ব্যবহার করতে চায় না বলে জানিয়েছেন বিজিবির ঢাকা সেক্টর কমান্ডার কর্নেল এস এম আবুল এহসান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769869270-ebb1a49e0c7a480ba9dc8f70e837adf6.jpg"
       }
     ],
     "bangladesh": [
@@ -1962,6 +1961,13 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/f0d005bafd29c984e07aeb4919ad8d8c-697dde39cfea9.jpg"
       },
       {
+        "headline": "কঠোর বন্দর কর্তৃপক্ষ: শ্রমিকদের শাটডাউন ও পুলিশের নিষেধাজ্ঞা",
+        "url": "https://www.ittefaq.com.bd/772694/%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%9F%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8-%E0%A6%93-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "চট্টগ্রাম বন্দর এলাকার আমদানি-রপ্তানি কার্যক্রম নির্বিঘ্ন রাখতে এবং জনশৃঙ্খলা ও নিরাপত্তা নিশ্চিত করতে এক মাসের জন্য সব ধরনের সভা-সমাবেশ, মিছিল ও মানববন্ধন নিষিদ্ধ ঘোষণা করেছে চট্টগ্রাম মেট্রোপলিটন পুলিশ (সিএমপি)।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/e7c8f6028a95e97c8f449761b83b8da2-697e7cbd15215.jpg"
+      },
+      {
         "headline": "অন্যের জামিননামা দেখিয়ে হত্যা মামলার আসামির পলায়ন: ৬ কারারক্ষী ও ডেপুটি জেলার বরখাস্ত",
         "url": "https://www.ittefaq.com.bd/772691/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%AA%E0%A6%B2%E0%A6%BE%E0%A7%9F%E0%A6%A8",
         "published_at": null,
@@ -2023,13 +2029,6 @@
         "published_at": null,
         "summary": "যশোরের ঝিকরগাছা উপজেলায় বিএনপি ও জামায়াতে ইসলামীর নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে। এতে অন্তত ১০ জন আহতের খবর পাওয়া গেছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/4184660c67cb9d1a5ebaf35f5e71094f-697df9eb1501e.jpg"
-      },
-      {
-        "headline": "রামেক হাসপাতালে অজ্ঞাত রোগে নারীর মৃত্যু, অনুসন্ধানে আইইডিসিআর",
-        "url": "https://www.ittefaq.com.bd/772645/%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%95-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%85%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A4-%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
-        "published_at": null,
-        "summary": "রাজশাহী মেডিকেল কলেজ (রামেক) হাসপাতালে অজ্ঞাত রোগে নওগাঁর এক নারীর মৃত্যু হয়েছে। তার মৃত্যুর কারণ জানাতে পারেননি রামেক হাসপাতাল কর্তৃপক্ষ। তবে রোগতত্ত্ব, রোগনিয়ন্ত্রণ ও গবেষণা ইনস্টিটিউট (আইইডিসিআর) রোগীর নমুনা সংগ্রহ করেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/78e5988228781b577f12ca82b6b833f7-697df1611a4e9.jpg"
       },
       {
         "headline": "মুক্তিযোদ্ধাদের ভাতা বাড়ল ৫ হাজার টাকা",
@@ -2240,6 +2239,13 @@
         "published_at": "1769874534",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোট সুষ্ঠু, শান্তিপূর্ণ ও নিরপেক্ষভাবে সম্পন্ন করার লক্ষ্যে মাগুরার শ্রীপুর উপজেলায় ভোটগ্রহণ কর্মকর্তাদের প্রশিক্ষণ কর্মসূচি অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/1000102800-20260131154854.jpg"
+      },
+      {
+        "headline": "রামেক হাসপাতালে অজ্ঞাত রোগে নারীর মৃত্যু, অনুসন্ধানে আইইডিসিআর",
+        "url": "https://www.ittefaq.com.bd/772645/%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%95-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%85%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A4-%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
+        "published_at": null,
+        "summary": "রাজশাহী মেডিকেল কলেজ (রামেক) হাসপাতালে অজ্ঞাত রোগে নওগাঁর এক নারীর মৃত্যু হয়েছে। তার মৃত্যুর কারণ জানাতে পারেননি রামেক হাসপাতাল কর্তৃপক্ষ। তবে রোগতত্ত্ব, রোগনিয়ন্ত্রণ ও গবেষণা ইনস্টিটিউট (আইইডিসিআর) রোগীর নমুনা সংগ্রহ করেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/78e5988228781b577f12ca82b6b833f7-697df1611a4e9.jpg"
       },
       {
         "headline": "ভোলায় বিএনপি-জামায়াতের সংঘর্ষে আহত ১৫",
@@ -2971,13 +2977,6 @@
         "published_at": "2026-01-31T16:50:41+06:00",
         "summary": "দেশের অন্যতম পর্যটন গন্তব্য সেন্টমার্টিনে আবারও নেমে আসছে দীর্ঘ নীরবতা। পরিবেশ সুরক্ষার কথা মাথায় রেখে কক্সবাজারের টেকনাফ উপজেলার প্রবাল দ্বীপটিতে রবিবার থেকে টানা নয় মাস পর্যটক ভ্রমণ বন্ধ রাখার সিদ্ধান্ত নিয়েছে সরকার।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769856640-a7385336f6bc2431263cc73bf6a75401.jpg"
-      },
-      {
-        "headline": "মুন্সীগঞ্জে জিপিএইচ ইন্টারন্যাশনাল স্কুলে বর্ণাঢ্য পিঠা উৎসব",
-        "url": "https://www.bd-pratidin.com/campus-online/2026/01/31/1211457",
-        "published_at": "2026-01-31T16:44:02+06:00",
-        "summary": "মুন্সীগঞ্জের একমাত্র ইংরেজি মাধ্যম শিক্ষাপ্রতিষ্ঠান জিপিএইচ ইন্টারন্যাশনাল স্কুলে নানা আয়োজনে উদযাপিত হয়েছে বার্ষিক পিঠা উৎসব। বৃহস্পতিবার (২৯ জানুয়ারি) স্কুল প্রাঙ্গণে আয়োজিত এ উৎসবটি পরিণত হয় এক আনন্দঘন মিলনমেলায়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769856241-b70b23891321b48e7ef7f8499db5c897.jpg"
       }
     ],
     "politics": [
@@ -4384,6 +4383,14 @@
     ],
     "world": [
       {
+        "headline": "এপস্টেইনের নথিতে মোদির নাম: ভারত সরকারের দাবি ‘ভিত্তিহীন’, বিরোধীদের মতে ‘জাতীয় লজ্জা’",
+        "url": "https://www.prothomalo.com/world/india/km21lv5ak0",
+        "published_at": "2026-01-31T22:30:00+00:00",
+        "summary": "শুক্রবার এসব নথি থেকে বেশ কয়েক লাখ পৃষ্ঠা উন্মোচন করার পর রীতিমত হইচই পড়ে গেছে ভারতেও। কেননা, বেশকিছু নথিতে ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদির নাম এসেছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-31/jmnkp8ck/hurting-Modi.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/jmnkp8ck/hurting-Modi.avif?auto=format,compress"
+      },
+      {
         "headline": "কিউবায় তেল রপ্তানি করলে বাড়তি শুল্ক দিতে হবে: ট্রাম্প",
         "url": "https://www.prothomalo.com/world/usa/d4z8zzfhtf",
         "published_at": "2026-01-31T21:30:42.676000+00:00",
@@ -4688,14 +4695,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/bgtnj61e/assam-chief-minister.jpg?auto=format,compress"
       },
       {
-        "headline": "সেদিন অজিত পাওয়ারের উড়োজাহাজ চালানোর কথা ছিল না পাইলট সুমিতের: বন্ধুদের দাবি",
-        "url": "https://www.prothomalo.com/world/india/7sddh61roy",
-        "published_at": "2026-01-30T07:19:40.185000+00:00",
-        "summary": "সুমিত কাপুরের বন্ধুরা বলেন, দুর্ঘটনার মাত্র কয়েক ঘণ্টা আগে তিনি অজিত পাওয়ারকে নিয়ে মুম্বাই থেকে পুনে জেলার বারামতি যাওয়ার নির্দেশ পান।",
-        "image_s3_key": "prothomalo-bangla/2026-01-29/kcbhaiat/Untitled-1.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/kcbhaiat/Untitled-1.png?auto=format,compress"
-      },
-      {
         "headline": "কবে থেকে বাড়ছে শীত, জানাল আবহাওয়া অধিদপ্তর",
         "url": "https://www.bd-pratidin.com/national/2026/02/01/1211742",
         "published_at": "2026-02-01T01:59:29+06:00",
@@ -4974,6 +4973,14 @@
         "published_at": "1769839023",
         "summary": "আফ্রিকার দেশ কঙ্গো প্রজাতন্ত্রের রুবায়া এলাকায় একটি কোলটান খনিতে গত বুধবার সংঘটিত ভয়াবহ ভূমিধসে অন্তত ২২৭ জন প্রাণ হারিয়েছেন। ধ্বংসস্তূপ থেকে আরও অনেককে গুরুতর আহত অবস্থায় উদ্ধার করা হয়েছে যাদের চিকিৎসা চলছে নিকটস্থ হাসপাতালে। নিহতের সংখ্যা আরও বাড়তে পারে বলে আশঙ্কা করা হচ্ছে কারণ এখনো অনেক শ্রমিক মাটির নিচে চাপা পড়ে আছেন বলে ধারণা করা হচ্ছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-9-20260131055703.jpg"
+      },
+      {
+        "headline": "সেদিন অজিত পাওয়ারের উড়োজাহাজ চালানোর কথা ছিল না পাইলট সুমিতের: বন্ধুদের দাবি",
+        "url": "https://www.prothomalo.com/world/india/7sddh61roy",
+        "published_at": "2026-01-30T07:19:40.185000+00:00",
+        "summary": "সুমিত কাপুরের বন্ধুরা বলেন, দুর্ঘটনার মাত্র কয়েক ঘণ্টা আগে তিনি অজিত পাওয়ারকে নিয়ে মুম্বাই থেকে পুনে জেলার বারামতি যাওয়ার নির্দেশ পান।",
+        "image_s3_key": "prothomalo-bangla/2026-01-29/kcbhaiat/Untitled-1.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-29/kcbhaiat/Untitled-1.png?auto=format,compress"
       },
       {
         "headline": "এক সপ্তাহ পর্যন্ত ইউক্রেনে হামলা বন্ধ রাখতে সম্মত রাশিয়া",
@@ -5833,13 +5840,6 @@
         "published_at": "2026-01-31T11:31:38+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে কুমিল্লা-৪ আসনে বিএনপি মনোনীত প্রার্থী মঞ্জুরুল আহসান মুন্সী প্রতিদ্বন্দ্বিতা করতে পারবেন কি না, তা জানা যাবে রবিবার।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769837497-6b9ad8baa6a7aa63a0859a09fb846e57.jpg"
-      },
-      {
-        "headline": "আশা করি ইরানের বিরুদ্ধে সামরিক পদক্ষেপের প্রয়োজন হবে না: ট্রাম্প",
-        "url": "https://www.ittefaq.com.bd/772549/%E0%A6%86%E0%A6%B6%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BF-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%AA%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%8B%E0%A6%9C%E0%A6%A8",
-        "published_at": null,
-        "summary": "ইরানে সামরিক হামলা চালানোর প্রয়োজন হবে না বলে মনে করেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। বৃহস্পতিবার এক অনুষ্ঠানে তিনি ইরানের সঙ্গে আলোচনায় কঠিন শর্তও চাপিয়েছেন। একটি সম্ভাব্য পারমাণবিক চুক্তি নিয়ে তেহরানের সঙ্গে আরো আলোচনার পরিকল্পনা করছেন বলেও জানান তিনি। এদিকে ইরান হুমকি দিয়েছে, পালটা জবাব এবার সীমিত আকারে হবে না।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/07/36942f7a48225846050a10f814643e3c-695e78c576fc8.jpg"
       }
     ],
     "business": [
