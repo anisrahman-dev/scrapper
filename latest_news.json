@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-01-31T21:20:20.599431+00:00",
+  "fetched_at": "2026-01-31T21:48:01.965034+00:00",
   "stories": [
+    {
+      "headline": "কিউবায় তেল রপ্তানি করলে বাড়তি শুল্ক দিতে হবে: ট্রাম্প",
+      "url": "https://www.prothomalo.com/world/usa/d4z8zzfhtf",
+      "published_at": "2026-01-31T21:30:42.676000+00:00",
+      "summary": "কিছুদিন আগপর্যন্ত দেশটি ভেনেজুয়েলার কাছ থেকে তেলের অধিকাংশ চাহিদা পূরণ করত।",
+      "image_s3_key": "prothomalo-bangla/2026-01-31/y9zdyrm4/২.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/y9zdyrm4/২.avif?auto=format,compress"
+    },
     {
       "headline": "এপস্টেইনের সঙ্গে মাস্কের সম্পর্ক ধারণার চেয়েও অনেক গভীর ছিল",
       "url": "https://www.prothomalo.com/world/usa/bs4axg5vc7",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/8bvzu6zc/YT-GFX.00091522.Still013.jpg?auto=format,compress"
     },
     {
-      "headline": "কোনো কোনো মহল এখনো চেষ্টা করছে কীভাবে ভোট বাধাগ্রস্ত করা যায়: তারেক রহমান",
-      "url": "https://www.prothomalo.com/bangladesh/district/li28v06098",
-      "published_at": "2026-01-31T16:15:49.565000+00:00",
-      "summary": "শনিবার সন্ধ্যায় টাঙ্গাইলে বিএনপির নির্বাচনী সভায় প্রধান অতিথির বক্তব্যে তিনি এসব কথা বলেন।",
-      "image_s3_key": "prothomalo-bangla/2026-01-31/cxhy0xnx/TangailDH05672026013120260131175851.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/cxhy0xnx/TangailDH05672026013120260131175851.jpg?auto=format,compress"
-    },
-    {
       "headline": "কবে থেকে বাড়ছে শীত, জানাল আবহাওয়া অধিদপ্তর",
       "url": "https://www.bd-pratidin.com/national/2026/02/01/1211742",
       "published_at": "2026-02-01T01:59:29+06:00",
@@ -376,6 +376,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769872993-75d55f8d65834088afc532f92738b7f9.jpg"
     },
     {
+      "headline": "মামলার খবর নিতে গিয়ে আইনজীবীর ‘ধর্ষণের’ শিকার ব্যবসায়ী নারী",
+      "url": "https://www.ittefaq.com.bd/772690/%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%96%E0%A6%AC%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80%E0%A6%B0-%E2%80%98%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0%E2%80%99-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0",
+      "published_at": null,
+      "summary": "মামলার খোঁজ-খবর নিতে গিয়ে নিজের আইনজীবীর কাছে ‘ধর্ষণের’ শিকার হয়েছেন বলে অভিযোগে মামলা করেছেন এক ব্যবসায়ী নারী।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/58189dca5110e13431ff11e94f94e9ac-697e71621441a.jpg"
+    },
+    {
       "headline": "হান্নান মাসউদের পথসভায় ইট নিক্ষেপ, আহত ২",
       "url": "https://www.ittefaq.com.bd/772687/%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%89%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%9F-%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A7%A8",
       "published_at": null,
@@ -439,13 +446,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/40e002f5be546dcd10f318033870f38c-697e2dd31fc28.jpg"
     },
     {
-      "headline": "সুষ্ঠু নির্বাচন নিয়ে আমরা শঙ্কিত: শিবির সভাপতি",
-      "url": "https://www.ittefaq.com.bd/772678/%E0%A6%B8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A7%81-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A4-%E0%A6%B6%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF",
-      "published_at": null,
-      "summary": "বাংলাদেশ ইসলামী ছাত্রশিবিরের কেন্দ্রীয় সভাপতি মো. নুরুল ইসলাম সাদ্দাম বলেছেন, প্রশাসনের রদবদল বিএনপির নেতাকর্মীরা যেভাবে চেয়েছে সেভাবে করা হচ্ছে। কিছুদিন আগেও আমরা দেখেছি কয়েকজন ইউএনওকে বদলি করা হয়েছে। বিএনপির নেতাকর্মীরা সেই ইউএনও’র ব্যাপারে অভিযোগ দিয়েছে ইউএনও কেন বলেছে; তারা আচরণবিধি লঙ্ঘন করেছে। এ কারণে ইউএনওদেরও বদলি করা হয়েছে। যেসব ইউএনও’র দাড়ি-টুপি রয়েছে তাদের ট্যাগ দিয়ে এক জায়গা থেকে আরেক জায়গায় বদলি করা হচ্ছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/f5ddc0603fc8a3c4860bbf9d630d36cb-697e27b0b1048.jpg"
-    },
-    {
       "headline": "নির্বাচনে গুজব ও সহিংসতা",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/5ZWzRaGJeOU7/",
       "published_at": null,
@@ -467,14 +467,56 @@
       "image_url": "https://media.ndiganta.com/images/Aiyub.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
-      "headline": "রাজনৈতিক পরিবর্তনেও বদলায়নি আইনশৃঙ্খলার পরিস্থিতি",
-      "url": "https://dailynayadiganta.com/printed-edition/BelB9q9qqjKS/",
+      "headline": "অগ্রণী ব্যাংকের ব্যবসায়িক সম্মেলন অনুষ্ঠিত",
+      "url": "https://dailynayadiganta.com/printed-edition/n34tEwDhzOc4/",
       "published_at": null,
-      "summary": "২০২৪ সালের ৫ আগস্ট বাংলাদেশের রাজনীতিতে অনেক বড় পরিবর্তন ঘটলেও বদলেনি দেশের আইনশৃঙ্খলা পরিস্থিতি। পুরনোকে পাশ কাটিয়ে নতুন আঙ্গিকে সৃষ্টি হচ্ছে অপরাধমূলক কার্মকাণ্ড। মাঠ গুছিয়ে আধিপত্য বিস্তার করছে জেল ও দেশের বাইরে থাকা সাবেক শীর্ষ সন্ত্রাসীরা। পালিয়ে যাওয়া আওয়ামী সন্ত্রাসীদের ছেড়ে যাওয়া চাঁদাবাজির জায়গাগুলো দখল নিয়েছে নতুন মুখ। একের পর এক ঘটছে খুন, ছিনতাই, চুরি ডাকাতি, চাঁদাবাজিসহ বিভিন্ন ধরনের অপরাধ। এসব অপরাধ নিয়ন্ত্রণ করতে পারছে না দুর্বল পুলিশিং ব্যবস্থা।",
+      "summary": "অগ্রণী ব্যাংক পিএলসির ব্যবসায়িক সম্মেলন ২০২৬  গতকাল শনিবার ইনস্টিটিউটে অনুষ্ঠিত হয়েছে। প্রধান অতিথি হিসেবে এ সম্মেলনের উদ্বোধন করেন পরিচালনা পর্ষদের চেয়ারম্যান সৈয়দ আবু নাসের বখতিয়ার আহমেদ। সম্মেলনে ব্যাংকের ব্যবস্থাপনা পরিচালক মো: আনোয়ারুল ইসলামের সভাপতিত্বে উপস্থিত ছিলেন উপব্যবস্থাপনা পরিচালক, মহব্যবস্থাপক, সার্কেল প্রধান ও অঞ্চল প্রধানগণ। এ সময় প্রধান অতিথি সৈয়দ আবু নাসের বখতিয়ার আহমেদ ২০২৫ সালের লক্ষ্যমাত্রা অনুযায়ী ব্যবসায়িক পর্যালোচনা এবং ২০২৬ সালের ব্যবসায়িক পরিকল্পনা প্রণয়ন বিষয়ে বিশেষ দিকনির্দেশনা প্রদান করেন। বিজ্ঞপ্তি।",
+      "image_url": "https://media.ndiganta.com/original_images/artho-2_vgzOV0S.jpg"
+    },
+    {
+      "headline": "ইসলামী ব্যাংকের কর্মকর্তা সম্মেলন অনুষ্ঠিত",
+      "url": "https://dailynayadiganta.com/printed-edition/UXVOwmMxd9yC/",
+      "published_at": null,
+      "summary": "ইসলামী ব্যাংক দেশের সবচেয়ে বড় ব্যাংক এবং এই প্রতিষ্ঠানের প্রতি জনমানুষের আস্থা আরও বৃদ্ধি করতে কর্মকর্তাদের প্রচেষ্টা চালাতে হবে। গ্রাহকরাই হলো ব্যাংকের প্রাণ, তাই তাঁদের সন্তুষ্টি নিশ্চিত করাই ব্যাংকের প্রধান ল্য। সেবার মাধ্যমে গ্রাহকদের যাবতীয় সমস্যা দূর করতে হবে। গ্রাহকদের যেকোনো অভিযোগ গুরুত্বের সাথে বিবেচনা করে তা তাৎণিক সমাধানের চেষ্টা করতে হবে। কর্মকর্তা-কর্মচারীদের এই ব্যাংকটিকে নিজের মনে করতে হবে। যখন প্রতিষ্ঠানকে নিজের মনে করা হবে, তখন সেবার মান এবং কাজের গতি বহুগুণ বেড়ে যাবে। ইসলামী ব্যাংক বাংলাদেশ পিএলসির চেয়ারম্যান প্রফেসর ড. এম জুবায়দুর রহমান শনিবার ঢাকা ক্যান্টনমেন্টের সেনাপ্রাঙ্গণে অনুষ্ঠিত ইসলামী ব্যাংক বাংলাদেশ পিএলসির ঢাকার ৩টি জোন ও ৫টি করপোরেট শাখার কর্মকর্তা ও কর্মচারীদের নিয়ে কর্মকর্তা সম্মেলনে প্রধান অতিথি হিসেবে এসব কথা বলেন। অনুষ্ঠানে সভাপতিত্ব করেন ব্যাংকের ম্যানেজিং ডাইরেক্টর মো: ওমর ফারুক খান।",
+      "image_url": "https://media.ndiganta.com/original_images/artho-1_URSlklO.jpg"
+    },
+    {
+      "headline": "ব্যাংক ও বীমা খাত ডিএসইর বাজার মূলধনে  যোগ করল ৪ হাজার ৩১৭ কোটি টাকা",
+      "url": "https://dailynayadiganta.com/printed-edition/h8EaE5tWH6C3/",
+      "published_at": null,
+      "summary": "ব্যাংক ও বীমার মতো দুই প্রধান খাতে আবার বিনিয়োগকারীদের অংশগ্রহণ বাড়ছে",
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "কুতুবদিয়ায় গণসংযোগ ও মহেশখালীতে গণমাধ্যম কর্মীদের সাথে মতবিনিময়",
+      "headline": "যারা মানুষ হত্যা করতে পারে তাদের হাতে কেউ নিরাপদ নয় : মিয়া গোলাম পরওয়ার",
+      "url": "https://dailynayadiganta.com/printed-edition/48hv5NIzlBrM/",
+      "published_at": null,
+      "summary": "৫ আগস্টের পরে চাঁদা না পেয়ে আপনারা পাথর মেরে মানুষ হত্যা করেছেন, হিন্দুদের বাড়ি বাড়ি গিয়ে ভয় দেখিয়েছেন। যারা ক্ষমতায় যাওয়ার জন্য মানুষ হত্যা করতে পারে, তাদের হাতে কেউ নিরাপদ নয়। চাঁদপুরের ফরিদগঞ্জে এক নির্বাচনী জনসভায় জামায়াতের সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার এসব কথা বলেন। উপজেলা জামায়াতের আয়োজনে শনিবার সকালে ফরিদগঞ্জ বাসস্ট্যান্ডে জনসভাটি অনুষ্ঠিত হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "বিএনপি-জামায়াত সংঘর্ষে বিভিন্ন স্থানে ৪৫ জন আহত",
+      "url": "https://dailynayadiganta.com/printed-edition/jD53ocMZYc46/",
+      "published_at": null,
+      "summary": "ভোলার বোরহানউদ্দিন, কুমিল্লার চৌদ্দগ্রাম এবং যশোরের ঝিকরগাছায় বিএনপি ও জামায়াতের নেতাকর্মীদের মধ্যে নির্বাচনী সংঘর্ষে দু’পক্ষের ৪৫ জন আহত হয়েছেন বলে খবর পাওয়া গেছে।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "নিরপেক্ষতার সুতাও যেন নড়চড় না হয়",
+      "url": "https://dailynayadiganta.com/printed-edition/KSPnAuSU63tS/",
+      "published_at": null,
+      "summary": "বরগুনায় আইনশৃঙ্খলা রক্ষাকারী সেল ও ভিজিল্যান্স টিমকে কঠোর নির্দেশনা দিয়ে নির্বাচন কমিশনার ব্রিগেডিয়ার জেনারেল আবুল ফজল মো: সানাউল্লাহ বলেছেন, আপনারা যা করবেন স্বচ্ছভাবে করবেন, জনগণের নিরপেক্ষতার প্রশ্নে এক সুতাও যেন নড়চড় না হয়। শুক্রবার রাতে বরগুনা জেলা প্রশাসক কার্যালয়ে এক সভায় তিনি এ কথা বলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "মাদরাসাশিক্ষকদের নির্বাচনী দায়িত্ব  না দিতে ডিসি-ইউএনওদের চাপ",
+      "url": "https://dailynayadiganta.com/printed-edition/B1eOQOpJqnlV/",
+      "published_at": null,
+      "summary": "অনেক ডিসি অতি উৎসাহী হয়ে নির্দেশনা দিচ্ছেন ইউএনওদের",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "ড. হামিদুর রহমান আযাদকুতুবদিয়ায় গণসংযোগ ও মহেশখালীতে গণমাধ্যম কর্মীদের সাথে মতবিনিময়",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/XqUtcUMOnqZ3/",
       "published_at": null,
       "summary": "হামিদুর রহমান আযাদ বলেন, বাংলাদেশের জনগণ আর কোনো নতুন স্বৈরাচার কিংবা কর্তৃত্ববাদী শাসন ব্যবস্থা দেখতে চায় না। জনগণ গণতন্ত্র, ভোটের অধিকার ও মতপ্রকাশের স্বাধীনতা প্রতিষ্ঠিত দেখতে চায়।",
@@ -488,32 +530,11 @@
       "image_url": "https://media.ndiganta.com/original_images/Arsa_QaTXrAw.jpg"
     },
     {
-      "headline": "বাংলাদেশ নাজুক অবস্থা ও অস্থিরতার মধ্য দিয়ে যাচ্ছে : দুই কংগ্রেসম্যানের চিঠি",
-      "url": "https://dailynayadiganta.com/printed-edition/CyL75B2DZHTv/",
-      "published_at": null,
-      "summary": "বর্তমান পরিস্থিতিতে বাংলাদেশ নাজুক অবস্থা ও অস্থিরতার মধ্য দিয়ে যাচ্ছে বলে উদ্বেগ প্রকাশ করে যুক্তরাষ্ট্রের দুই কংগ্রেসম্যান মার্কিন পররাষ্ট্রমন্ত্রী মার্কো রোবিওকে লেখা চিঠি লিখেছেন। কংগ্রেসম্যানরা বাংলাদেশের আসন্ন জাতীয় সংসদ নির্বাচন ও গণভোট সামনে রেখে যুক্তরাষ্ট্রের পররাষ্ট্র দফতরের সক্রিয় ভূমিকা কামনা করেছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
       "headline": "মোরেলগঞ্জে দাঁড়িপাল্লা প্রতীকের নির্বাচনী জনসভা",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/acoWOcI4owyx/",
       "published_at": null,
       "summary": "দাঁড়িপাল্লা প্রতীক বিজয়ী হলে মোরেলগঞ্জ-শরণখোলার জনপদে ধর্ম-বর্ণ নির্বিশেষে প্রতিটি মানুষ থাকবে নিরাপদে। অবহেলিত এলাকার উন্নয়নে পানগুছি নদীর পূর্ব পাড়ে ১০টি ইউনিয়নে প্রস্তাবিত সেলিমাবাদ থানা বাস্তবায়ন করা হবে।",
       "image_url": "https://media.ndiganta.com/original_images/Morelganj_kYUGU94.jpg"
-    },
-    {
-      "headline": "পরিবেশবান্ধব উন্নয়ন  এবং টেকসই নীতির অঙ্গীকার জামায়াতের",
-      "url": "https://dailynayadiganta.com/printed-edition/wzSY99kv9rM6/",
-      "published_at": null,
-      "summary": "জলবায়ু পরিবর্তনের ঝুঁকিতে থাকা বিশ্বের অন্যতম দেশ বাংলাদেশ। নদীভাঙন, বন্যা, খরা, লবণাক্ততা বৃদ্ধি, বায়ুদূষণ ও নগর পরিবেশের অবক্ষয়, সবমিলিয়ে পরিবেশ এখন জাতীয় নিরাপত্তার ইস্যুতে পরিণত হয়েছে। এই বাস্তবতায় রাজনৈতিক দলগুলোর নির্বাচনী অঙ্গীকারে পরিবেশ সুরক্ষা গুরুত্বপূর্ণ হয়ে উঠেছে। বাংলাদেশ জামায়াতে ইসলামীও তাদের ঘোষিত কর্মসূচি ও নীতিপ্রস্তাবে পরিবেশ সংরক্ষণকে অগ্রাধিকার দেয়ার প্রতিশ্রুতি দিয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "পরিবেশ রক্ষায় ‘ন্যাশনাল গ্রিন মিশন’ বিএনপির",
-      "url": "https://dailynayadiganta.com/printed-edition/7t9XW841ybNt/",
-      "published_at": null,
-      "summary": "বাংলাদেশ বিশ্বের অন্যতম জলবায়ু ঝুঁকিপূর্ণ দেশ। সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি, ঘন ঘন বন্যা, খরা, লবণাক্ততা বৃদ্ধি ও চরম আবহাওয়া ঘটনার কারণে দেশের কৃষি, জনস্বাস্থ্য ও অর্থনীতি হুমকির মুখে। এমন প্রেক্ষাপটে বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি) জলবায়ু পরিবর্তনকে একটি জাতীয় অগ্রাধিকার হিসেবে চিহ্নিত করে নির্বাচনী প্রতিশ্রুতি ঘোষণা করেছে। দলটির ৩১ দফা কর্মসূচিতে (বিশেষ করে পয়েন্ট ২৯) জলবায়ু পরিবর্তন ও পরিবেশ রক্ষাকে গুরুত্ব দেয়া হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
       "headline": "দুর্নীতি ও চাঁদাবাজমুক্ত দেশ গড়তে দাঁড়িপাল্লায় ভোট দেয়ার আহ্বান",
@@ -556,6 +577,49 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "কোনো কোনো মহল এখনো চেষ্টা করছে কীভাবে ভোট বাধাগ্রস্ত করা যায়: তারেক রহমান",
+      "url": "https://www.prothomalo.com/bangladesh/district/li28v06098",
+      "published_at": "2026-01-31T16:15:49.565000+00:00",
+      "summary": "শনিবার সন্ধ্যায় টাঙ্গাইলে বিএনপির নির্বাচনী সভায় প্রধান অতিথির বক্তব্যে তিনি এসব কথা বলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-31/cxhy0xnx/TangailDH05672026013120260131175851.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/cxhy0xnx/TangailDH05672026013120260131175851.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সুষ্ঠু নির্বাচন নিয়ে আমরা শঙ্কিত: শিবির সভাপতি",
+      "url": "https://www.ittefaq.com.bd/772678/%E0%A6%B8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A7%81-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A4-%E0%A6%B6%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF",
+      "published_at": null,
+      "summary": "বাংলাদেশ ইসলামী ছাত্রশিবিরের কেন্দ্রীয় সভাপতি মো. নুরুল ইসলাম সাদ্দাম বলেছেন, প্রশাসনের রদবদল বিএনপির নেতাকর্মীরা যেভাবে চেয়েছে সেভাবে করা হচ্ছে। কিছুদিন আগেও আমরা দেখেছি কয়েকজন ইউএনওকে বদলি করা হয়েছে। বিএনপির নেতাকর্মীরা সেই ইউএনও’র ব্যাপারে অভিযোগ দিয়েছে ইউএনও কেন বলেছে; তারা আচরণবিধি লঙ্ঘন করেছে। এ কারণে ইউএনওদেরও বদলি করা হয়েছে। যেসব ইউএনও’র দাড়ি-টুপি রয়েছে তাদের ট্যাগ দিয়ে এক জায়গা থেকে আরেক জায়গায় বদলি করা হচ্ছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/f5ddc0603fc8a3c4860bbf9d630d36cb-697e27b0b1048.jpg"
+    },
+    {
+      "headline": "রাজনৈতিক পরিবর্তনেও বদলায়নি আইনশৃঙ্খলার পরিস্থিতি",
+      "url": "https://dailynayadiganta.com/printed-edition/BelB9q9qqjKS/",
+      "published_at": null,
+      "summary": "২০২৪ সালের ৫ আগস্ট বাংলাদেশের রাজনীতিতে অনেক বড় পরিবর্তন ঘটলেও বদলেনি দেশের আইনশৃঙ্খলা পরিস্থিতি। পুরনোকে পাশ কাটিয়ে নতুন আঙ্গিকে সৃষ্টি হচ্ছে অপরাধমূলক কার্মকাণ্ড। মাঠ গুছিয়ে আধিপত্য বিস্তার করছে জেল ও দেশের বাইরে থাকা সাবেক শীর্ষ সন্ত্রাসীরা। পালিয়ে যাওয়া আওয়ামী সন্ত্রাসীদের ছেড়ে যাওয়া চাঁদাবাজির জায়গাগুলো দখল নিয়েছে নতুন মুখ। একের পর এক ঘটছে খুন, ছিনতাই, চুরি ডাকাতি, চাঁদাবাজিসহ বিভিন্ন ধরনের অপরাধ। এসব অপরাধ নিয়ন্ত্রণ করতে পারছে না দুর্বল পুলিশিং ব্যবস্থা।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "বাংলাদেশ নাজুক অবস্থা ও অস্থিরতার মধ্য দিয়ে যাচ্ছে : দুই কংগ্রেসম্যানের চিঠি",
+      "url": "https://dailynayadiganta.com/printed-edition/CyL75B2DZHTv/",
+      "published_at": null,
+      "summary": "বর্তমান পরিস্থিতিতে বাংলাদেশ নাজুক অবস্থা ও অস্থিরতার মধ্য দিয়ে যাচ্ছে বলে উদ্বেগ প্রকাশ করে যুক্তরাষ্ট্রের দুই কংগ্রেসম্যান মার্কিন পররাষ্ট্রমন্ত্রী মার্কো রোবিওকে লেখা চিঠি লিখেছেন। কংগ্রেসম্যানরা বাংলাদেশের আসন্ন জাতীয় সংসদ নির্বাচন ও গণভোট সামনে রেখে যুক্তরাষ্ট্রের পররাষ্ট্র দফতরের সক্রিয় ভূমিকা কামনা করেছেন।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "পরিবেশবান্ধব উন্নয়ন  এবং টেকসই নীতির অঙ্গীকার জামায়াতের",
+      "url": "https://dailynayadiganta.com/printed-edition/wzSY99kv9rM6/",
+      "published_at": null,
+      "summary": "জলবায়ু পরিবর্তনের ঝুঁকিতে থাকা বিশ্বের অন্যতম দেশ বাংলাদেশ। নদীভাঙন, বন্যা, খরা, লবণাক্ততা বৃদ্ধি, বায়ুদূষণ ও নগর পরিবেশের অবক্ষয়, সবমিলিয়ে পরিবেশ এখন জাতীয় নিরাপত্তার ইস্যুতে পরিণত হয়েছে। এই বাস্তবতায় রাজনৈতিক দলগুলোর নির্বাচনী অঙ্গীকারে পরিবেশ সুরক্ষা গুরুত্বপূর্ণ হয়ে উঠেছে। বাংলাদেশ জামায়াতে ইসলামীও তাদের ঘোষিত কর্মসূচি ও নীতিপ্রস্তাবে পরিবেশ সংরক্ষণকে অগ্রাধিকার দেয়ার প্রতিশ্রুতি দিয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "পরিবেশ রক্ষায় ‘ন্যাশনাল গ্রিন মিশন’ বিএনপির",
+      "url": "https://dailynayadiganta.com/printed-edition/7t9XW841ybNt/",
+      "published_at": null,
+      "summary": "বাংলাদেশ বিশ্বের অন্যতম জলবায়ু ঝুঁকিপূর্ণ দেশ। সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি, ঘন ঘন বন্যা, খরা, লবণাক্ততা বৃদ্ধি ও চরম আবহাওয়া ঘটনার কারণে দেশের কৃষি, জনস্বাস্থ্য ও অর্থনীতি হুমকির মুখে। এমন প্রেক্ষাপটে বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি) জলবায়ু পরিবর্তনকে একটি জাতীয় অগ্রাধিকার হিসেবে চিহ্নিত করে নির্বাচনী প্রতিশ্রুতি ঘোষণা করেছে। দলটির ৩১ দফা কর্মসূচিতে (বিশেষ করে পয়েন্ট ২৯) জলবায়ু পরিবর্তন ও পরিবেশ রক্ষাকে গুরুত্ব দেয়া হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
       "headline": "নির্বাচনের বছর ভারতের সাথে  সম্পর্ক চ্যালেঞ্জিংয়ের শঙ্কা",
@@ -1433,74 +1497,6 @@
       "published_at": null,
       "summary": "ব্যাটারিচালিত রিকশা নগর জীবনের বাস্তবতা, এটি সত্য। তবে এটি যেন ভবিষ্যৎ প্রজন্মের স্বাস্থ্যগত ক্ষতির কারণ না হয়। নীতিনির্ধারকদের উদাসীনতা ও অব্যবস্থাপনার মাশুল দিচ্ছে শিশুরা। এই শিশুদের কণ্ঠ এখনো শোনা যায় না; কিন্তু সিসা-সঙ্কট উপেক্ষা করলে আগামী দিনে তাদের আর্তনাদ উপেক্ষার সুযোগ থাকবে না। নীরব বিপর্যয়ের বিরুদ্ধে দৃশ্যমান ও কার্যকর পদক্ষেপ নেয়ার এখনই সময়।",
       "image_url": "https://media.ndiganta.com/original_images/Editorial.jpeg"
-    },
-    {
-      "headline": "কুমিল্লা-৪ : সবার চোখ এখন আদালতে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/al3MOjVTyuZ7/",
-      "published_at": null,
-      "summary": "রোববার (১ ফেব্রুয়ারি) সুপ্রিম কোর্টের আপিল বিভাগে এ বিষয়ে চূড়ান্ত আদেশের দিন ধার্য করা হয়েছে, যার দিকে তাকিয়ে আছে পুরো দেবিদ্বারবাসী।",
-      "image_url": "https://media.ndiganta.com/original_images/Munshi-Abdullah.jpg"
-    },
-    {
-      "headline": "সালাহউদ্দিন আহমদধানের শীষে ভোট দিলে শক্তিশালী গণতান্ত্রিক ব্যবস্থা প্রতিষ্ঠিত হবে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/BEQew2xmbp8O/",
-      "published_at": null,
-      "summary": "‘বাংলাদেশ জাতীয়তাবাদী দল বহুদলীয় গণতন্ত্রের প্রতিষ্ঠাতা, উন্নয়নের পরীক্ষিত দল। শহীদ প্রেসিডেন্ট জিয়াউর রহমান ও দেশনেত্রী বেগম খালেদা জিয়ার নেতৃত্বে শিক্ষা, নারী উন্নয়ন ও রাষ্ট্র পরিচালনায় বিএনপি গৌরবোজ্জ্বল ভূমিকা রেখেছে। আগামী ১২ ফেব্রুয়ারি সারাদিন ধানের শীষে ভোট দিয়ে ইনশাআল্লাহ আমরা শান্তি, নিরাপত্তা সুশাসন ও গণতান্ত্রিক বাংলাদেশ গড়ে তুলব।’",
-      "image_url": "https://media.ndiganta.com/original_images/Coxs-Bazar-Salahuddin-Aham.gif"
-    },
-    {
-      "headline": "মৌলভীবাজার-৩ : আবারো মাঠে নামলেন জামায়াতের প্রার্থী আব্দুল মান্নান",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/Bd5ungOfK6Oy/",
-      "published_at": null,
-      "summary": "শনিবার (৩১ জানুয়ারি) বিকালে মৌলভীবাজার শহরে প্রচারণা মিছিলের মাধ্যমে এ কার্যক্রম শুরু করেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Moulvibazar-3-jamaat.jpg"
-    },
-    {
-      "headline": "শান্তিপূর্ণ নির্বাচন নিশ্চিতে জীবননগরে বিজিবির জনসচেতনতামূলক সভা",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/RDx79QX1iuZ5/",
-      "published_at": null,
-      "summary": "শনিবার (৩১ জানুয়ারি) বিকেল ৫টায় জীবননগর মডেল পাইলট মাধ্যমিক বিদ্যালয় মাঠে ৬ বিজিবির আয়োজনে এ সভা অনুষ্ঠিত হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/BGB-Chuadanga_q46eJx3.jpg"
-    },
-    {
-      "headline": "নির্বাচন ঘিরে আগে এতগুলো দেশের এত সক্রিয়তা দেখা যায়নি",
-      "url": "https://www.prothomalo.com/opinion/interview/75ra8ww3v4",
-      "published_at": "2026-01-31T12:57:58.771000+00:00",
-      "summary": "অন্তর্বর্তী সরকারের নিরপেক্ষতার প্রশ্ন এবং বাংলাদেশকে ঘিরে আন্তর্জাতিক শক্তিগুলোর তৎপরতা নিয়ে কথা বলেছেন জিল্লুর রহমান",
-      "image_s3_key": "prothomalo-bangla/2026-01-31/3p2xcng3/WhatsApp-Image-2026-01-31-at-5.41.13-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/3p2xcng3/WhatsApp-Image-2026-01-31-at-5.41.13-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "‘বিদ্রোহী প্রার্থীরাই’ বিএনপির বড় চ্যালেঞ্জ",
-      "url": "https://www.prothomalo.com/opinion/column/wkqh8zs0ye",
-      "published_at": "2026-01-31T12:44:45.683000+00:00",
-      "summary": "অনেক বিদেশি সংবাদমাধ্যম বিএনপির জয় প্রায় নিশ্চিত বলে পূর্বাভাস দিয়েছে। আবার কেউ কেউ বলছেন, ফলাফল এই প্রত্যাশার বিপরীতও হতে পারে। ",
-      "image_s3_key": "prothomalo-bangla/2026-01-31/t3sm1vxp/Motamot-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/t3sm1vxp/Motamot-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বাংলাদেশ রেড ক্রিসেন্ট সোসাইটিতে স্নাতেকাত্তরে নিয়োগ, বেতন ৫০ হাজার টাকা",
-      "url": "https://www.prothomalo.com/chakri/employment/9j3atsxr76",
-      "published_at": "2026-01-31T12:41:23.001000+00:00",
-      "summary": "বাংলাদেশ রেড ক্রিসেন্ট সোসাইটি নিয়োগ বিজ্ঞপ্তি প্রকাশ করেছে। ‘ফিল্ড অফিসার’ পদে জনবল নিয়োগ দেবে বাংলাদেশ রেড ক্রিসেন্ট সোসাইটি।",
-      "image_s3_key": "prothomalo-bangla/2025-10-06/fki7lm4s/153.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-06/fki7lm4s/153.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সেন্ট মার্টিন দ্বীপে শেষ হলো ভ্রমণের সময়সীমা, দুই মাসে গেলেন কত পর্যটক",
-      "url": "https://www.prothomalo.com/bangladesh/district/tsp1u2ljk1",
-      "published_at": "2026-01-31T12:34:41.997000+00:00",
-      "summary": "বিকেল চারটার পর দ্বীপের দুই শতাধিক হোটেল-রিসোর্ট, রেস্তোরাঁ আর অধিকাংশ দোকানপাট বন্ধ হয়ে গেছে। পর্যটকশূন্য হয়ে পড়েছে পুরো দ্বীপ।",
-      "image_s3_key": "prothomalo-bangla/2026-01-31/5dfyorvy/WhatsApp-Image-2026-01-31-at-5.57.30-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/5dfyorvy/WhatsApp-Image-2026-01-31-at-5.57.30-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "যশোরে বিএনপি প্রার্থীর স্মার্ট ভোটার স্লিপ অ্যাপস চালু",
-      "url": "https://www.prothomalo.com/bangladesh/district/rgw6ke9fck",
-      "published_at": "2026-01-31T12:31:35.971000+00:00",
-      "summary": "যশোর-৩ (সদর) আসনে নির্বাচনের দিন ভোটার নম্বর সংগ্রহে দুর্ভোগ লাঘবে স্মার্ট ভোটার স্লিপ অ্যাপস চালু করেছেন বিএনপির প্রার্থী অনিন্দ্য ইসলাম।",
-      "image_s3_key": "prothomalo-bangla/2026-01-31/o1jh80x7/JessoreDH055220260131IMG-20260131-WA0005.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/o1jh80x7/JessoreDH055220260131IMG-20260131-WA0005.jpg?auto=format,compress"
     }
   ]
 }
