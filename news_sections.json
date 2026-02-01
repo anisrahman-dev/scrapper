@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-02-01T21:49:47.380205+00:00",
+  "fetched_at": "2026-02-01T22:22:30.462454+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "গাজায় রাফা সীমান্ত খুলে দিল ইসরায়েল ",
+        "url": "https://www.prothomalo.com/world/middle-east/tv9l61aq7q",
+        "published_at": "2026-02-01T21:45:00+00:00",
+        "summary": "সংস্থাটি আরও বলেছে, রাফা সীমান্ত খুলে দেওয়ার অংশ হিসেবে প্রাথমিকভাবে পরীক্ষামূলক প্রকল্প শুরু হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-02-01/h36tviq2/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/h36tviq2/Capture.PNG?auto=format,compress"
+      },
       {
         "headline": "নির্বাচন সামনে রেখে বাংলাদেশের সংখ্যালঘুরা কেন আতঙ্কিত",
         "url": "https://www.prothomalo.com/bangladesh/vx31eo06c6",
@@ -307,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/bxx87jae/1.jpeg?auto=format,compress"
       },
       {
-        "headline": "বক্স অফিসে দারুণ শুরু ‘মারদানি থ্রি’",
-        "url": "https://www.prothomalo.com/video/entertainment/8y3vguol0n",
-        "published_at": "2026-02-01T16:22:01.333000+00:00",
-        "summary": "বক্স অফিসে দারুণ শুরু ‘মারদানি থ্রি’",
-        "image_s3_key": "prothomalo-bangla/2026-02-01/zqkegcw5/YT-GFX.00074812.Still016.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/zqkegcw5/YT-GFX.00074812.Still016.jpg?auto=format,compress"
-      },
-      {
         "headline": "যে কারনে ভারত ম্যাচ বয়কটের সিদ্ধান্ত নিয়েছে পাকিস্তান",
         "url": "https://www.bd-pratidin.com/sports/2026/02/02/1212165",
         "published_at": "2026-02-02T02:22:13+06:00",
@@ -385,6 +385,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/01/og/1769959104-fd96476276a70a79f8061f9a2907a81e.jpg"
       },
       {
+        "headline": "ফের ৮ ডিগ্রিতে নামতে যাচ্ছে তাপমাত্রা, বজ্র ও শিলাবৃষ্টির আশঙ্কা",
+        "url": "https://www.ittefaq.com.bd/772819/%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A7%AE-%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%9C%E0%A7%8D%E0%A6%B0-%E0%A6%93",
+        "published_at": null,
+        "summary": "কনকনে শীতের তীব্রতা কিছুটা কমে তাপমাত্রা সামান্য বেড়েছে। তবে এখনো শেষরাত থেকে সকাল পর্যন্ত কুয়াশাচ্ছন্ন থাকছে দেশের বিভিন্ন এলাকা। এ অবস্থায় দেশের সর্বনিম্ন তাপমাত্রা এখনো ১০ ডিগ্রি সেলসিয়াসের আশপাশে রয়েছে। আবহাওয়া অধিদপ্তর জানিয়েছে, চলতি ফেব্রুয়ারি মাসে আবারও তাপমাত্রা ৮ ডিগ্রি সেলসিয়াসের ঘরে নেমে আসতে পারে। একই সঙ্গে এ মাসে বজ্রপাত ও শিলাবৃষ্টির আশঙ্কাও রয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/06/faf3296aa6b8fa3dc021c1bfd9a54bc4-695ca208b330e.jpg"
+      },
+      {
         "headline": "রাফাহ ক্রসিং সীমিত আকারে খুলল ইসরায়েল",
         "url": "https://www.ittefaq.com.bd/772820/%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A6%BE%E0%A6%B9-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%BF%E0%A6%82-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BF%E0%A6%A4-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%B2-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2",
         "published_at": null,
@@ -448,13 +455,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/61d4628d2d672fe372251642913a33bb-697f8c9ea48a7.jpg"
       },
       {
-        "headline": "কমলো স্বর্ণের দাম, ভরি ২ লাখ ৫৭ হাজার টাকা",
-        "url": "https://www.ittefaq.com.bd/772805/%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A7%8B-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%AD%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%A8-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A7%AB%E0%A7%AD-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%C2%A0",
-        "published_at": null,
-        "summary": "দেশের বাজারে স্বর্ণের দাম কমানোর সিদ্ধান্ত নিয়েছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন (বাজুস)। ভরিতে ১ হাজার ৯২৫ টাকা কমিয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের নতুন দাম নির্ধারণ করা হয়েছে ২ লাখ ৫৭ হাজার ৭৭৪ টাকা।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/8de750ab31a4d09085050ca3164e42b0-697f892648000.jpg"
-      },
-      {
         "headline": "গণভোটের পক্ষে প্রচারসরকার-ইসি মুখোমুখি",
         "url": "https://dailynayadiganta.com/printed-edition/iDpS3SC5Qa0g/",
         "published_at": null,
@@ -467,6 +467,13 @@
         "published_at": null,
         "summary": "দেশের বর্তমান উত্তপ্ত নির্বাচনী পরিস্থিতি এবং আদালতের প্রতিষ্ঠিত আইনি অবস্থান– যেখানে নির্বাচনকালীন প্রক্রিয়ায় আদালত সাধারণত হস্তক্ষেপ করে না, তা বিবেচনায় নিলে হাইকোর্ট থেকে কোনো অনুকূল আদেশ পাওয়ার আশা করা কখনো বাস্তবসম্মত ছিল না। আবেদনকারী কিংবা তার আইনজীবী, কেউ সম্ভবত গুরুত্বের সাথে বিশ্বাস করেননি যে, এ পর্যায়ে আদালত একটি জাতীয় নির্বাচন বা গণভোট স্থগিত করে দেবেন। আর এখানে সেই অনিবার্য প্রশ্নটি জাগে– তাহলে এই রিট আবেদন কেন করা হয়েছিল? এর উত্তর সম্ভবত এজলাসের বাইরে নিহিত। এতে সন্দেহের অবকাশ কম যে, এই পিটিশনটি মূলত সাবেক আওয়ামী লীগ সরকারের রাজনৈতিক স্বার্থ চরিতার্থ করার একটি হাতিয়ার ছিল। হয়তো এটি করা হয়েছিল আদালত এবং সাধারণ মানুষের মনস্তত্ত্ব পরীক্ষা করার জন্য একটি পরীক্ষামূলক চাল হিসেবে। এর পেছনে ব্যক্তিগত উচ্চাকাক্সক্ষাও থাকতে পারে",
         "image_url": "https://media.ndiganta.com/images/Ehsan-A-Siddique.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "নিখোঁজের ৪ দিন পর কারখানার জেনারেটর রুম থেকে কর্মচারীর লাশ উদ্ধার",
+        "url": "https://dailynayadiganta.com/bangladesh/crime/k1KQn52HBNGN/",
+        "published_at": null,
+        "summary": "রোববার (১ ফেব্রুয়ারি) দিবাগত রাত দেড়টার দিকে বিষয়টি নিশ্চিত করেন তেজগাঁও শিল্পাঞ্চল থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) মোহাম্মদ মাহমুদুর রহমান।",
+        "image_url": "https://media.ndiganta.com/original_images/Bijoy_9Jyh0WN.jpg"
       },
       {
         "headline": "রাজধানীর হাতিরঝিলে পিকআপের ধাক্কায় পথচারী নিহত",
@@ -518,13 +525,6 @@
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "তরুণদের কর্মসংস্থান  ও দক্ষতা উন্নয়নে বড়  পরিকল্পনা জামায়াতের",
-        "url": "https://dailynayadiganta.com/printed-edition/m6yyS390tAiA/",
-        "published_at": null,
-        "summary": "জামায়াত দেশের বাড়তে থাকা শিতি বেকারত্ব, কর্মসংস্থানের সঙ্কট এবং প্রযুক্তিনির্ভর শ্রমবাজারের চাহিদা মোকাবেলায় তরুণদের জন্য সমন্বিত কর্মপরিকল্পনা ঘোষণা  করেছে। দ জনশক্তি তৈরি, চাকরির সংযোগ বৃদ্ধি, উদ্যোক্তা সৃষ্টি এবং ফ্রিল্যান্সিং খাত সম্প্রসারণকে কেন্দ্র করে নেয়া হয়েছে একাধিক উচ্চাভিলাষী উদ্যোগ। জামায়াত সংশ্লিষ্টরা বলছেন, পরিকল্পনাগুলো বাস্তবায়িত হলে আগামী পাঁচ বছরে দেশের কর্মবাজারে বড় ধরনের পরিবর্তন আসতে পারে।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
         "headline": "হাসনাত আব্দুল্লাহবিএনপি প্রকাশ্যে ‘হ্যাঁ’ ভোটের পক্ষে কথা বলছে আর গোপনে ‘না’ ভোটের কাজ করছে",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/kv9fWI1kjczn/",
         "published_at": null,
@@ -546,7 +546,7 @@
         "image_url": "https://media.ndiganta.com/original_images/Asif_6KxKF96.jpg"
       },
       {
-        "headline": "আখতার হোসেনকেন্দ্র দখলের পরিকল্পনা করা হচ্ছে, উপযুক্ত জবাব দেয়া হবে",
+        "headline": "কেন্দ্র দখলের পরিকল্পনা করা হচ্ছে, উপযুক্ত জবাব দেয়া হবে",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/uLsTe3bIwpjB/",
         "published_at": null,
         "summary": "‘আমরা গুলির সামনে দাঁড়ানো মানুষ, দিল্লির রক্ত চক্ষুর বিরুদ্ধে দাঁড়ানো মানুষ। আমরা শুনছি কেন্দ্র দখল করার পরিকল্পনা করা হচ্ছে। কেন্দ্র দখলের নামে আমাদের সাথে জুলুম করতে এসো না। তাহলে উপযুক্ত জবাব দেয়া হবে।‘",
@@ -567,17 +567,10 @@
         "image_url": "https://media.ndiganta.com/original_images/Redwan.jpg"
       },
       {
-        "headline": "নির্বাচনের দিন চলবে না ক্যাব-মাইক্রোবাস-ট্রাক, তিনদিন মোটরসাইকেল",
-        "url": "https://dailynayadiganta.com/bangladesh/national/PzhDlwwILbDd/",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোট গ্রহণের জন্য নির্বাচন কমিশন ১১ ফেব্রুয়ারি মধ্যরাত ১২টা থেকে ১২ ফেব্রুয়ারি মধ্যরাত ১২টা পর্যন্ত (একদিন) ট্যাক্সি ক্যাব, পিক আপ, মাইক্রোবাস ও ট্রাক চলাচলের জন্য নিষেধাজ্ঞা আরোপ করেছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Dhaka_4oFHHJv.jpg"
-      },
-      {
         "headline": "আজকের সর্বশেষ খবর - February 02, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) সদস্য সচিব আখতার হোসেন তার আসন রংপুর-৪ এ নারীদের ওপর আক্রমণের বিরুদ্ধে কঠোর হুঁশিয়ারি উচ্চারণ করেছেন। ...",
+        "summary": "নিখোঁজ থাকার পাঁচদিন পর টাঙ্গাইলের ধনবাড়ীতে ৭ বছর বয়সি মারিয়া নামে এক শিশুর বস্তাবন্দি লাশ উদ্ধার করেছে পুলিশ। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -586,6 +579,35 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "বক্স অফিসে দারুণ শুরু ‘মারদানি থ্রি’",
+        "url": "https://www.prothomalo.com/video/entertainment/8y3vguol0n",
+        "published_at": "2026-02-01T16:22:01.333000+00:00",
+        "summary": "বক্স অফিসে দারুণ শুরু ‘মারদানি থ্রি’",
+        "image_s3_key": "prothomalo-bangla/2026-02-01/zqkegcw5/YT-GFX.00074812.Still016.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/zqkegcw5/YT-GFX.00074812.Still016.jpg?auto=format,compress"
+      },
+      {
+        "headline": "কমলো স্বর্ণের দাম, ভরি ২ লাখ ৫৭ হাজার টাকা",
+        "url": "https://www.ittefaq.com.bd/772805/%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A7%8B-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%AD%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%A8-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A7%AB%E0%A7%AD-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%C2%A0",
+        "published_at": null,
+        "summary": "দেশের বাজারে স্বর্ণের দাম কমানোর সিদ্ধান্ত নিয়েছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন (বাজুস)। ভরিতে ১ হাজার ৯২৫ টাকা কমিয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের নতুন দাম নির্ধারণ করা হয়েছে ২ লাখ ৫৭ হাজার ৭৭৪ টাকা।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/8de750ab31a4d09085050ca3164e42b0-697f892648000.jpg"
+      },
+      {
+        "headline": "তরুণদের কর্মসংস্থান  ও দক্ষতা উন্নয়নে বড়  পরিকল্পনা জামায়াতের",
+        "url": "https://dailynayadiganta.com/printed-edition/m6yyS390tAiA/",
+        "published_at": null,
+        "summary": "জামায়াত দেশের বাড়তে থাকা শিতি বেকারত্ব, কর্মসংস্থানের সঙ্কট এবং প্রযুক্তিনির্ভর শ্রমবাজারের চাহিদা মোকাবেলায় তরুণদের জন্য সমন্বিত কর্মপরিকল্পনা ঘোষণা  করেছে। দ জনশক্তি তৈরি, চাকরির সংযোগ বৃদ্ধি, উদ্যোক্তা সৃষ্টি এবং ফ্রিল্যান্সিং খাত সম্প্রসারণকে কেন্দ্র করে নেয়া হয়েছে একাধিক উচ্চাভিলাষী উদ্যোগ। জামায়াত সংশ্লিষ্টরা বলছেন, পরিকল্পনাগুলো বাস্তবায়িত হলে আগামী পাঁচ বছরে দেশের কর্মবাজারে বড় ধরনের পরিবর্তন আসতে পারে।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "নির্বাচনের দিন চলবে না ক্যাব-মাইক্রোবাস-ট্রাক, তিনদিন মোটরসাইকেল",
+        "url": "https://dailynayadiganta.com/bangladesh/national/PzhDlwwILbDd/",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোট গ্রহণের জন্য নির্বাচন কমিশন ১১ ফেব্রুয়ারি মধ্যরাত ১২টা থেকে ১২ ফেব্রুয়ারি মধ্যরাত ১২টা পর্যন্ত (একদিন) ট্যাক্সি ক্যাব, পিক আপ, মাইক্রোবাস ও ট্রাক চলাচলের জন্য নিষেধাজ্ঞা আরোপ করেছে।",
+        "image_url": "https://media.ndiganta.com/original_images/Dhaka_4oFHHJv.jpg"
       },
       {
         "headline": "‘জামায়াত এভিডেন্সসহ তাদের ক্ল্যারিফিকেশন দিয়েছে এবং আমি এটা বিশ্বাস করেছি’",
@@ -1470,30 +1492,6 @@
         "summary": "ব্যবসাপ্রতিষ্ঠানের কার্যালয় করার নামে বাড়ি ভাড়া নিয়ে এই সংগঠনের কার্যালয় করা হয়েছিল। বাড়ির মালিকের দাবি, ভাড়া না দিয়ে বাড়িটি দখলেরও চেষ্টা হচ্ছিল।",
         "image_s3_key": "prothomalo-bangla/2026-02-01/hmuephn1/rajshahi-bnp-home.JPG",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/hmuephn1/rajshahi-bnp-home.JPG?auto=format,compress"
-      },
-      {
-        "headline": "দিনমজুর রশিদুল সবার জন্য তুলে ধরেছেন বই পড়ার নতুন অর্থ",
-        "url": "https://www.prothomalo.com/video/bangladesh/fkc2378vla",
-        "published_at": "2026-02-01T13:30:00+00:00",
-        "summary": "দিনমজুর রশিদুল সবার জন্য তুলে ধরেছেন বই পড়ার নতুন অর্থ",
-        "image_s3_key": "prothomalo-bangla/2026-02-01/uctrh72y/THUMNAILWEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/uctrh72y/THUMNAILWEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "তরুণদের রাজনীতি যে কারণে ভোটের মাঠে পিছিয়ে",
-        "url": "https://www.prothomalo.com/opinion/column/pkos17omd5",
-        "published_at": "2026-02-01T13:26:46.524000+00:00",
-        "summary": "জাতীয় নির্বাচন ঘনিয়ে আসছে। রাজনৈতিক দলগুলো ইতিমধ্যেই প্রচারণা শুরু করেছে। এখন ভোটের রাজনীতি কেবল শহরের টক শো কিংবা সামাজিক যোগাযোগমাধ্যমের আলোচনায় সীমাবদ্ধ নয়।",
-        "image_s3_key": "prothomalo-bangla/2026-02-01/sd0q3xbu/youngnn.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/sd0q3xbu/youngnn.JPG?auto=format,compress"
-      },
-      {
-        "headline": "আইইউবির তাওসিফকে কেন দেওয়া হলো ‘অলরাউন্ডার স্বর্ণপদক’",
-        "url": "https://www.prothomalo.com/lifestyle/ra30edsi28",
-        "published_at": "2026-02-01T13:24:35.713000+00:00",
-        "summary": "বিশ্ববিদ্যালয়ে ছিল ‘ওপেন ক্রেডিট’পদ্ধতি। তাওসিফ চার বছরের স্নাতক শেষ করেন তিন বছরে।",
-        "image_s3_key": "prothomalo-bangla/2026-02-01/i0tdl1k4/IMG3483.JPG.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/i0tdl1k4/IMG3483.JPG.jpeg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -1888,6 +1886,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/01/og/1769959104-fd96476276a70a79f8061f9a2907a81e.jpg"
       },
       {
+        "headline": "ফের ৮ ডিগ্রিতে নামতে যাচ্ছে তাপমাত্রা, বজ্র ও শিলাবৃষ্টির আশঙ্কা",
+        "url": "https://www.ittefaq.com.bd/772819/%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A7%AE-%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%9C%E0%A7%8D%E0%A6%B0-%E0%A6%93",
+        "published_at": null,
+        "summary": "কনকনে শীতের তীব্রতা কিছুটা কমে তাপমাত্রা সামান্য বেড়েছে। তবে এখনো শেষরাত থেকে সকাল পর্যন্ত কুয়াশাচ্ছন্ন থাকছে দেশের বিভিন্ন এলাকা। এ অবস্থায় দেশের সর্বনিম্ন তাপমাত্রা এখনো ১০ ডিগ্রি সেলসিয়াসের আশপাশে রয়েছে। আবহাওয়া অধিদপ্তর জানিয়েছে, চলতি ফেব্রুয়ারি মাসে আবারও তাপমাত্রা ৮ ডিগ্রি সেলসিয়াসের ঘরে নেমে আসতে পারে। একই সঙ্গে এ মাসে বজ্রপাত ও শিলাবৃষ্টির আশঙ্কাও রয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/06/faf3296aa6b8fa3dc021c1bfd9a54bc4-695ca208b330e.jpg"
+      },
+      {
         "headline": "মেয়াদ থাকতে পররাষ্ট্রমন্ত্রীর কূটনৈতিক পাসপোর্ট জমা ‘অস্বাভাবিক’: তৌহিদ",
         "url": "https://www.ittefaq.com.bd/772810/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%B9%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0",
         "published_at": null,
@@ -1949,13 +1954,6 @@
         "published_at": null,
         "summary": "র‍্যাপিড অ্যাকশন ব্যাটালিয়নের (র‍্যাব) গুলিতে পা হারানো লিমন হোসেনকে দুই কোটি ৬০ লাখ টাকা ক্ষতিপূরণ দেওয়ার কেন নির্দেশ দেওয়া হবে না, তা জানতে চেয়ে রুল জারি করেছেন হাইকোর্ট। একই সঙ্গে অভিযুক্ত র‍্যাব কর্মকর্তাদের খুঁজে বের করতে কেন নির্দেশ দেওয়া হবে না, রুলে তাও জানতে চাওয়া হয়েছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/9e0f943a52bf2246d535a5874a522e19-697f4c0a5ab98.jpg"
-      },
-      {
-        "headline": "ভোটের দিন ইন্টারনেট বন্ধ করলে আইনি ব্যবস্থা: স্বরাষ্ট্র উপদেষ্টা",
-        "url": "https://www.ittefaq.com.bd/772764/%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় নির্বাচনের ভোটগ্রহণের দিন ইন্টারনেট সচল থাকবে বলে জানিয়েছেন স্বরাষ্ট্র উপদেষ্টা অবসরপ্রাপ্ত লেফটেন্যান্ট জেনারেল জাহাঙ্গীর আলম চৌধুরী। কেউ ইন্টারনেট বন্ধ করলে তাকে আইনের আওতায় আনা হবে বলেও হুঁশিয়ার করেছেন তিনি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/db44ac86bf78827cb0b8b46949ee35e3-697f3bc422df7.jpg"
       },
       {
         "headline": "কালিয়াকৈরে শ্রমিকদের মহাসড়ক অবরোধ, পুলিশের সঙ্গে সংঘর্ষে আহত ১২",
@@ -2236,6 +2234,13 @@
         "published_at": "1769959133",
         "summary": "‘একটি রাষ্ট্রে নাগরিকের চেয়ে গুরুত্বপূর্ণ কোনো পদ নেই’ স্লোগান সামনে রেখে ত্রয়োদশ জাতীয় সংসদ নির্বাচন উপলক্ষে জনগণের মুখোমুখি হয়েছেন চাঁদপুর-৩ আসনের প্রার্থীরা।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/purrr-20260201151853.jpg"
+      },
+      {
+        "headline": "ভোটের দিন ইন্টারনেট বন্ধ করলে আইনি ব্যবস্থা: স্বরাষ্ট্র উপদেষ্টা",
+        "url": "https://www.ittefaq.com.bd/772764/%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় নির্বাচনের ভোটগ্রহণের দিন ইন্টারনেট সচল থাকবে বলে জানিয়েছেন স্বরাষ্ট্র উপদেষ্টা অবসরপ্রাপ্ত লেফটেন্যান্ট জেনারেল জাহাঙ্গীর আলম চৌধুরী। কেউ ইন্টারনেট বন্ধ করলে তাকে আইনের আওতায় আনা হবে বলেও হুঁশিয়ার করেছেন তিনি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/db44ac86bf78827cb0b8b46949ee35e3-697f3bc422df7.jpg"
       },
       {
         "headline": "‘কাঁচি’ প্রতীক বরাদ্দ পেলেও, ডাক ব্যালটে ছাপা হয়েছে ‘কাস্তে’",
@@ -2980,13 +2985,6 @@
         "published_at": "2026-02-01T16:42:41+06:00",
         "summary": "রাজধানীর পূর্বাচল নতুন শহর প্রকল্পে ২০ কাঠা সরকারি প্লট বরাদ্দ নেওয়ার অভিযোগে স্বৈরাচারী সাবেক প্রধানমন্ত্রী শেখ হাসিনা ও শেখ রেহানার মেয়ে টিউলিপ রিজওয়ানা সিদ্দিকসহ ৩৬ জনের বিরুদ্ধে করা পৃথক দুই মামলার রায় আগামীকাল সোমবার (২ ফেব্রুয়ারি) ঘোষণা করা হবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/01/og/1769942560-a9080d97cfcc7971ccfc4c178ea527f2.jpg"
-      },
-      {
-        "headline": "বাহাউদ্দিন নাছিমসহ তার পরিবারের ৪৬ ব্যাংক হিসাব অবরুদ্ধ",
-        "url": "https://www.bd-pratidin.com/national/2026/02/01/1211891",
-        "published_at": "2026-02-01T16:36:18+06:00",
-        "summary": "সাবেক সংসদ সদস্য আ. ফ. ম. বাহাউদ্দিন নাছিম ও তার পরিবারের সদস্যদের নামে থাকা ৪৬টি ব্যাংক হিসাব অবরুদ্ধ করার আদেশ দিয়েছেন ঢাকার একটি আদালত।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/01/og/1769944760-37dd3576759023a82908ea0d6dbee930.jpg"
       }
     ],
     "politics": [
@@ -4393,6 +4391,14 @@
     ],
     "world": [
       {
+        "headline": "গাজায় রাফা সীমান্ত খুলে দিল ইসরায়েল ",
+        "url": "https://www.prothomalo.com/world/middle-east/tv9l61aq7q",
+        "published_at": "2026-02-01T21:45:00+00:00",
+        "summary": "সংস্থাটি আরও বলেছে, রাফা সীমান্ত খুলে দেওয়ার অংশ হিসেবে প্রাথমিকভাবে পরীক্ষামূলক প্রকল্প শুরু হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-02-01/h36tviq2/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/h36tviq2/Capture.PNG?auto=format,compress"
+      },
+      {
         "headline": "ইউক্রেনে বাসে রাশিয়ার ড্রোন হামলা, নিহত ১২",
         "url": "https://www.prothomalo.com/world/europe/z3b2y7j7yp",
         "published_at": "2026-02-01T20:25:07.714000+00:00",
@@ -4697,14 +4703,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-31/bk4dg6cs/ICE-NEW-YORK-01.avif?auto=format,compress"
       },
       {
-        "headline": "চার হাজার বছর পর আবিষ্কৃত হলো নীল নদের হারানো শাখা নদী",
-        "url": "https://www.prothomalo.com/world/africa/jxp5x69oey",
-        "published_at": "2026-01-31T04:00:00+00:00",
-        "summary": "কারনাকের পূর্ব ও পশ্চিম—উভয় দিকেই নীল নদের পুরোনো শাখা বা গতিপথের চিহ্ন রয়েছে। একসময় এই জলধারাগুলো উঁচু ভূখণ্ডটিকে চারদিক থেকে ঘিরে রেখেছিল।",
-        "image_s3_key": "prothomalo-bangla/2026-01-30/b2mrhics/karnak-temple.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/b2mrhics/karnak-temple.jpg?auto=format,compress"
-      },
-      {
         "headline": "যে কারনে ভারত ম্যাচ বয়কটের সিদ্ধান্ত নিয়েছে পাকিস্তান",
         "url": "https://www.bd-pratidin.com/sports/2026/02/02/1212165",
         "published_at": "2026-02-02T02:22:13+06:00",
@@ -4983,6 +4981,14 @@
         "published_at": "1769939209",
         "summary": "আজাদ জম্মু ও কাশ্মীরের (এজেকে) প্রেসিডেন্ট ব্যারিস্টার সুলতান মাহমুদ চৌধুরী (৭১) মারা গেছেন। দীর্ঘদিন তিনি ক্যান্সারে আক্রান্ত হয়ে চিকিৎসাধীন ছিলেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260201094649.jpg"
+      },
+      {
+        "headline": "চার হাজার বছর পর আবিষ্কৃত হলো নীল নদের হারানো শাখা নদী",
+        "url": "https://www.prothomalo.com/world/africa/jxp5x69oey",
+        "published_at": "2026-01-31T04:00:00+00:00",
+        "summary": "কারনাকের পূর্ব ও পশ্চিম—উভয় দিকেই নীল নদের পুরোনো শাখা বা গতিপথের চিহ্ন রয়েছে। একসময় এই জলধারাগুলো উঁচু ভূখণ্ডটিকে চারদিক থেকে ঘিরে রেখেছিল।",
+        "image_s3_key": "prothomalo-bangla/2026-01-30/b2mrhics/karnak-temple.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-30/b2mrhics/karnak-temple.jpg?auto=format,compress"
       },
       {
         "headline": "ইরানি জনগণ ট্রাম্পের এসব হুমকিতে ভীত নয়: খামেনি",
@@ -5835,13 +5841,6 @@
         "published_at": "2026-01-31T21:42:28+06:00",
         "summary": "যারা স্বাধীনতাযুদ্ধে বাংলাদেশের মানুষের বিরোধিতা করেছে, বিশ্ববিদ্যালয়ের শিক্ষকদের হত্যা করেছে, তারা এখন ধর্মকে পুঁজি করে রাজনৈতিক অঙ্গনে নেমে এসেছে বলে মন্তব্য করেছেন বিএনপির স্থায়ী কমিটির সদস্য ও ভোলা-৩ আসনের এমপি প্রার্থী মেজর (অব.) হাফিজ উদ্দিন আহমদ (বীরবিক্রম)।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/01/31/og/1769874147-591c80c101c698738b7b757894b78928.jpg"
-      },
-      {
-        "headline": "সংকট কাটাতে মৌসুমি শ্রমিকদের ভিসা বাড়াচ্ছে যুক্তরাষ্ট্র",
-        "url": "https://www.ittefaq.com.bd/772661/%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F-%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A7%8C%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87",
-        "published_at": null,
-        "summary": "২০২৬ অর্থবছরে অতিরিক্ত প্রায় ৬৫ হাজার ‘এইচ-২বি মৌসুমি অতিথি শ্রমিক’ ভিসা প্রদান করার সিদ্ধান্ত নিয়েছে যুক্তরাষ্ট্র সরকার। দেশীয় শ্রমিক সংকটের কারণে যেসব নিয়োগকর্তা গুরুতর আর্থিক ঝুঁকিতে পড়ছেন, তাদের সহায়তা করার জন্য এই অতিরিক্ত ভিসা অনুমোদন দেওয়া হচ্ছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/01/31/5492a722f62e71e4eb0182be78cbaf2f-697e0c2945aa1.jpg"
       }
     ],
     "business": [
