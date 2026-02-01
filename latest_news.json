@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-02-01T20:54:39.562577+00:00",
+  "fetched_at": "2026-02-01T21:23:03.412214+00:00",
   "stories": [
     {
-      "headline": "নির্বাচন সামনে রেখে কেন বাংলাদেশের সংখ্যালঘুরা আতঙ্কিত",
+      "headline": "নির্বাচন সামনে রেখে বাংলাদেশের সংখ্যালঘুরা কেন আতঙ্কিত",
       "url": "https://www.prothomalo.com/bangladesh/vx31eo06c6",
       "published_at": "2026-02-01T20:45:45.242000+00:00",
       "summary": "১২ ফেব্রুয়ারির নির্বাচনকে ঘিরে উদ্বেগ আরও ঘনীভূত হয়েছে, যদিও বড় রাজনৈতিক দলগুলো সংখ্যালঘু সম্প্রদায়ের কাছে পৌঁছানোর চেষ্টা করছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-01/ksegkd4e/11.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/ksegkd4e/11.webp?auto=format,compress"
+      "image_s3_key": "prothomalo-bangla/2026-02-01/fvp8mo30/6.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/fvp8mo30/6.jpg?auto=format,compress"
     },
     {
       "headline": "ইউক্রেনে বাসে রাশিয়ার ড্রোন হামলা, নিহত ১২",
@@ -384,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/01/og/1769959104-fd96476276a70a79f8061f9a2907a81e.jpg"
     },
     {
+      "headline": "ভারতের বাজেট: সস্তা হচ্ছে ক্যানসারের ওষুধ, দাম বাড়ছে কফি-মদ-সিগারেটের",
+      "url": "https://www.ittefaq.com.bd/772816/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%9F-%E0%A6%B8%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%B7%E0%A7%81%E0%A6%A7-%E0%A6%A6%E0%A6%BE%E0%A6%AE",
+      "published_at": null,
+      "summary": "ভারতের ২০২৬–২৭ অর্থবছরের কেন্দ্রীয় বাজেটে বিভিন্ন পণ্য ও পরিষেবার ওপর শুল্কছাড় ও কর কাঠামোয় পরিবর্তনের ঘোষণা দিয়েছেন দেশটির অর্থমন্ত্রী নির্মলা সীতারামন। রোববার (১ ফেব্রুয়ারি) টানা নবমবারের মতো বাজেট বক্তৃতায় তিনি ‘উন্নত ভারত’ গড়ার লক্ষ্য সামনে রেখে স্বাস্থ্যসেবা ও মধ্যবিত্তের জীবনযাত্রার মান উন্নয়নে বিশেষ গুরুত্ব দেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/02/a9647b33e159c8d0156058ddd8f1e313-697fbd9eb859c.jpg"
+    },
+    {
       "headline": "১২ তারিখ জাতীয় পার্টির রাজনৈতিক জানাজা হবে: হাসনাত",
       "url": "https://www.ittefaq.com.bd/772812/%E0%A7%A7%E0%A7%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%BE-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A6%BE%E0%A6%A4",
       "published_at": null,
@@ -445,13 +452,6 @@
       "published_at": null,
       "summary": "জামায়াতে ইসলামীর আমির শফিকুর রহমানের ভেরিফায়েড এক্স (সাবেক টুইটার) অ্যাকাউন্ট থেকে কর্মজীবী নারীদের বিষয়ে দেওয়া একটি পোস্ট ঘিরে ব্যাপক আলোচনা-সমালোচনার মধ্যে তিনি ও তার দল দাবি করেছেন, শনিবার বিকেলে স্বল্প সময়ের জন্য ওই অ্যাকাউন্টটি হ্যাক হয়েছিল। সেই সময়েই বিতর্কিত পোস্টটি প্রকাশ করা হয় বলে তাদের বক্তব্য।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/f656546cacfced875214b4e15113042f-697f84be79b96.jpg"
-    },
-    {
-      "headline": "পাকিস্তানকে বিদায় করে যুব বিশ্বকাপের সেমিফাইনালে ভারত",
-      "url": "https://www.ittefaq.com.bd/772803/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87",
-      "published_at": null,
-      "summary": "অনূর্ধ্ব-১৯ বিশ্বকাপের সুপার সিক্সের ম্যাচে পাকিস্তানকে ৫৮ রানের বিশাল ব্যবধানে হারিয়ে সেমিফাইনালের টিকিট নিশ্চিত করেছে ভারত অনূর্ধ্ব–১৯। শুরুতে ব্যাট করতে নেমে সবকটি উইকেট হারিয়ে ২৫২ রান করে ভারত। জবাবে ১৯৪ রানে গুটিয়ে যায় পাকিস্তান যুবাদের ইনিংস।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/f3003c371fe6bc9720aa658791671d7e-697f7d6d33445.jpg"
     },
     {
       "headline": "গণভোটের পক্ষে প্রচারসরকার-ইসি মুখোমুখি",
@@ -583,7 +583,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 02, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "পত্রিকার জগতে আধুনিকতা নিয়ে এসেছে যুগান্তর। দৈনিক যুগান্তর শুরু থেকেই বস্তুনিষ্ঠ ও সাহসী সংবাদ পরিবেশনের মাধ্যমে পাঠকের আস্থা অর্জন করতে ...",
+      "summary": "দ্বিতীয়বার বাবা হলেন দক্ষিণী মেগাস্টার রামচরণ। তার ও উপাসনা কোনিদেলার ঘরে এলো নতুন অতিথি। তবে এবার আনন্দ দ্বিগুণ; রামচরণের স্ত্রী ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -592,6 +592,13 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "পাকিস্তানকে বিদায় করে যুব বিশ্বকাপের সেমিফাইনালে ভারত",
+      "url": "https://www.ittefaq.com.bd/772803/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87",
+      "published_at": null,
+      "summary": "অনূর্ধ্ব-১৯ বিশ্বকাপের সুপার সিক্সের ম্যাচে পাকিস্তানকে ৫৮ রানের বিশাল ব্যবধানে হারিয়ে সেমিফাইনালের টিকিট নিশ্চিত করেছে ভারত অনূর্ধ্ব–১৯। শুরুতে ব্যাট করতে নেমে সবকটি উইকেট হারিয়ে ২৫২ রান করে ভারত। জবাবে ১৯৪ রানে গুটিয়ে যায় পাকিস্তান যুবাদের ইনিংস।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/f3003c371fe6bc9720aa658791671d7e-697f7d6d33445.jpg"
     },
     {
       "headline": "এদের হাতে দেশের দায়িত্ব দিলে এই দেশের অস্তিত্বই রাখবে না: জামায়াত আমির",
@@ -1488,13 +1495,6 @@
       "summary": "নাগরিক সংবাদে ছবি ও লেখা পাঠাতে পারবেন পাঠকেরা। ই-মেইল: ns@prothomalo. com",
       "image_s3_key": "prothomalo-bangla/2026-02-01/7brh0uk8/201.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/7brh0uk8/201.jpg?auto=format,compress"
-    },
-    {
-      "headline": "তারেক রহমান জনপ্রিয়তার শীর্ষে অবস্থান করছেন : আবদুস সালাম",
-      "url": "https://www.bd-pratidin.com/election/2026/02/01/1211959",
-      "published_at": "2026-02-01T19:27:58+06:00",
-      "summary": "বাংলাদেশ জাতীয়তাবাদী দলের (বিএনপি) চেয়ারম্যানের উপদেষ্টা ও ঢাকা-১৭ আসনে দলটির নির্বাচনী পরিচালনা কমিটির প্রধান সমন্বয়ক আবদুস সালাম বলেছেন, তারেক রহমান জনপ্রিয়তার শীর্ষে অবস্থান করছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/01/og/1769952477-e134f9ba9047221f6a31330606b1c5b3.jpg"
     }
   ]
 }
