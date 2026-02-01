@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-02-01T22:22:30.462454+00:00",
+  "fetched_at": "2026-02-01T22:55:31.554820+00:00",
   "stories": [
+    {
+      "headline": "ইরানে মৃত্যুদণ্ডের সাজা পাওয়া সেই এরফান সোলতানি জামিনে মুক্তি পেয়েছেন",
+      "url": "https://www.prothomalo.com/world/middle-east/17lb60ywz0",
+      "published_at": "2026-02-01T22:30:00+00:00",
+      "summary": "এরফান সোলতানির বাড়ি তেহরানের উত্তর–পশ্চিমের শহর কারাজের ফারদিসে। ৮ জানুয়ারি বাড়ি থেকে তাঁকে গ্রেপ্তার করা হয়। গত শনিবার জামিনে মুক্তি পেয়েছেন তিনি। ",
+      "image_s3_key": "prothomalo-bangla/2026-02-01/gr5jw9at/Erfan-Soltani.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/gr5jw9at/Erfan-Soltani.avif?auto=format,compress"
+    },
+    {
+      "headline": "কিবলা নির্ণয়ের ৯টি বৈজ্ঞানিক পদ্ধতি",
+      "url": "https://www.prothomalo.com/religion/islam/rjcdh2ih6n",
+      "published_at": "2026-02-01T22:30:00+00:00",
+      "summary": "সমস্যার সমাধানে মিশরীয় গবেষক আবদেল-আজিজ সাল্লাম ত্রিকোণমিতি এবং গাণিতিক সারণী ব্যবহার করে ৯টি বৈজ্ঞানিক পদ্ধতি উদ্ভাবন করেছেন, যা মিশরের জেনারেল সার্ভে অথরিটি কর্তৃক স্বীকৃত।",
+      "image_s3_key": "prothomalo-bangla/2026-02-01/qraxz5m6/pexels-mutahir-jamil-3609907-11667462.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/qraxz5m6/pexels-mutahir-jamil-3609907-11667462.jpg?auto=format,compress"
+    },
     {
       "headline": "গাজায় রাফা সীমান্ত খুলে দিল ইসরায়েল ",
       "url": "https://www.prothomalo.com/world/middle-east/tv9l61aq7q",
@@ -298,22 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/53m60l5c/WhatsApp-Image-2026-01-29-at-6.22.38-PM.jpeg?auto=format,compress"
     },
     {
-      "headline": "আমেরিকার সঙ্গে গোপন বৈঠক করে তারা ইনসাফ বাস্তবায়ন করতে চায়: চরমোনাই পীর",
-      "url": "https://www.prothomalo.com/bangladesh/district/nwmm3yzbk9",
-      "published_at": "2026-02-01T16:26:39.165000+00:00",
-      "summary": "চরমোনাই পীর বলেন, তারা ক্ষমতায় গেলে কোন নীতি আদর্শে দেশ পরিচালনা করবে, যে নীতিতে হাজার হাজার মায়ের বুক খালি হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-01/y7jyr4xk/Pir.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/y7jyr4xk/Pir.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ইটপাথরের শহর ছেড়ে: ৮ বন্ধুর কাপ্তাই অভিযান",
-      "url": "https://nagorik.prothomalo.com/travel/saicmb8dns",
-      "published_at": "2026-02-01T16:24:41.851000+00:00",
-      "summary": "সময় বাঁচাতে আমরা পতেঙ্গা থেকে দ্রুত সিএনজি নিয়ে ফ্লাইওভার হয়ে পৌঁছে গেলাম বহদ্দারহাট বাস টার্মিনালে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-01/bxx87jae/1.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/bxx87jae/1.jpeg?auto=format,compress"
-    },
-    {
       "headline": "যে কারনে ভারত ম্যাচ বয়কটের সিদ্ধান্ত নিয়েছে পাকিস্তান",
       "url": "https://www.bd-pratidin.com/sports/2026/02/02/1212165",
       "published_at": "2026-02-02T02:22:13+06:00",
@@ -384,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/01/og/1769959104-fd96476276a70a79f8061f9a2907a81e.jpg"
     },
     {
+      "headline": "নির্বাচনী প্রচার শেষে ফেরার পথে সাবেক ছাত্রদল নেতার গাড়িতে গুলি",
+      "url": "https://www.ittefaq.com.bd/772821/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2",
+      "published_at": null,
+      "summary": "নারায়ণগঞ্জের আড়াইহাজারে বিএনপি মনোনীত এক এমপি প্রার্থীর নির্বাচনী প্রচার শেষে বাড়ি ফেরার পথে সাবেক ছাত্রদল নেতা আমির হোসেনের গাড়িতে গুলির ঘটনা ঘটেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/02/4b53a64723b4db367b4a293a30862e3c-697fca4f1ca82.jpg"
+    },
+    {
       "headline": "ফের ৮ ডিগ্রিতে নামতে যাচ্ছে তাপমাত্রা, বজ্র ও শিলাবৃষ্টির আশঙ্কা",
       "url": "https://www.ittefaq.com.bd/772819/%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A7%AE-%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%9C%E0%A7%8D%E0%A6%B0-%E0%A6%93",
       "published_at": null,
@@ -445,13 +452,6 @@
       "published_at": null,
       "summary": "মুক্তিযোদ্ধা কোটার অপব্যবহারের অভিযোগে জনপ্রশাসন মন্ত্রণালয়ের সিনিয়র সহকারী সচিব (ওএসডি) মো. কামাল হোসেনকে সাময়িকভাবে বরখাস্ত করা হয়েছে। অভিযোগ রয়েছে, তিনি মুক্তিযোদ্ধা চাচাকে নিজের বাবা হিসেবে দেখিয়ে কোটার সুবিধা নিয়ে বিসিএস ক্যাডার হন।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/02/8c9f5cf0ae675669bee80f85e9207cef-697f94f562909.jpg"
-    },
-    {
-      "headline": "নির্বাচন-গণভোটে মোটরসাইকেল চলাচল বন্ধ ৩ দিন",
-      "url": "https://www.ittefaq.com.bd/772806/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A7%A9-%E0%A6%A6%E0%A6%BF%E0%A6%A8",
-      "published_at": null,
-      "summary": "জাতীয় সংসদ নির্বাচন ও গণভোটকে কেন্দ্র করে সব ধরনের যান চলাচলের ওপর বিধি-নিষেধ আরোপ করে প্রজ্ঞাপন জারি করেছে সড়ক পরিবহন ও মহাসড়ক বিভাগ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/61d4628d2d672fe372251642913a33bb-697f8c9ea48a7.jpg"
     },
     {
       "headline": "গণভোটের পক্ষে প্রচারসরকার-ইসি মুখোমুখি",
@@ -569,7 +569,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 02, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "নিখোঁজ থাকার পাঁচদিন পর টাঙ্গাইলের ধনবাড়ীতে ৭ বছর বয়সি মারিয়া নামে এক শিশুর বস্তাবন্দি লাশ উদ্ধার করেছে পুলিশ। ...",
+      "summary": "নির্বাচন সামনে রেখে জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান চট্টগ্রামের পাঁচ স্থানে সমাবেশে অংশ নেবেন। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -578,6 +578,29 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "আমেরিকার সঙ্গে গোপন বৈঠক করে তারা ইনসাফ বাস্তবায়ন করতে চায়: চরমোনাই পীর",
+      "url": "https://www.prothomalo.com/bangladesh/district/nwmm3yzbk9",
+      "published_at": "2026-02-01T16:26:39.165000+00:00",
+      "summary": "চরমোনাই পীর বলেন, তারা ক্ষমতায় গেলে কোন নীতি আদর্শে দেশ পরিচালনা করবে, যে নীতিতে হাজার হাজার মায়ের বুক খালি হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-01/y7jyr4xk/Pir.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/y7jyr4xk/Pir.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইটপাথরের শহর ছেড়ে: ৮ বন্ধুর কাপ্তাই অভিযান",
+      "url": "https://nagorik.prothomalo.com/travel/saicmb8dns",
+      "published_at": "2026-02-01T16:24:41.851000+00:00",
+      "summary": "সময় বাঁচাতে আমরা পতেঙ্গা থেকে দ্রুত সিএনজি নিয়ে ফ্লাইওভার হয়ে পৌঁছে গেলাম বহদ্দারহাট বাস টার্মিনালে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-01/bxx87jae/1.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/bxx87jae/1.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "নির্বাচন-গণভোটে মোটরসাইকেল চলাচল বন্ধ ৩ দিন",
+      "url": "https://www.ittefaq.com.bd/772806/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A7%A9-%E0%A6%A6%E0%A6%BF%E0%A6%A8",
+      "published_at": null,
+      "summary": "জাতীয় সংসদ নির্বাচন ও গণভোটকে কেন্দ্র করে সব ধরনের যান চলাচলের ওপর বিধি-নিষেধ আরোপ করে প্রজ্ঞাপন জারি করেছে সড়ক পরিবহন ও মহাসড়ক বিভাগ।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/01/61d4628d2d672fe372251642913a33bb-697f8c9ea48a7.jpg"
     },
     {
       "headline": "বক্স অফিসে দারুণ শুরু ‘মারদানি থ্রি’",
@@ -1467,30 +1490,6 @@
       "published_at": null,
       "summary": "রোববার (১ ফেব্রুয়ারি) বাপশকের এক সংবাদ বিজ্ঞপ্তিতে জানানো হয়েছে, বিজ্ঞান ও প্রযুক্তি মন্ত্রণালয়ের এক অফিস আদেশে তার এই নিয়োগ কার্যকর করা হয়েছে।",
       "image_url": "https://media.ndiganta.com/original_images/BAEC-president.jpg"
-    },
-    {
-      "headline": "শিক্ষা ক্যাডারের ২০৭তম বনিয়াদি প্রশিক্ষণ শুরু ১৭ ফেব্রুয়ারি",
-      "url": "https://www.prothomalo.com/chakri/chakri-news/dh0afz38ly",
-      "published_at": "2026-02-01T13:43:06.452000+00:00",
-      "summary": "বিসিএস (সাধারণ শিক্ষা) ক্যাডার কর্মকর্তাদের চার মাসব্যাপী ২০৭তম বনিয়াদি প্রশিক্ষণ কোর্স শুরু হচ্ছে ১৭ ফেব্রুয়ারি।",
-      "image_s3_key": "prothomalo-bangla/2026-02-01/nwhmdjzq/Education.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/nwhmdjzq/Education.jpg?auto=format,compress"
-    },
-    {
-      "headline": "কষ্টের জমানো টাকার মাটির ব্যাংক মির্জা ফখরুলের হাতে তুলে দিলেন জুলাই যোদ্ধার বোন ",
-      "url": "https://www.prothomalo.com/video/bangladesh/eup9ioog58",
-      "published_at": "2026-02-01T13:40:25.225000+00:00",
-      "summary": "কষ্টের জমানো টাকার মাটির ব্যাংক মির্জা ফখরুলের হাতে তুলে দিলেন জুলাই যোদ্ধার বোন",
-      "image_s3_key": "prothomalo-bangla/2026-02-01/7shepxxy/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/7shepxxy/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রাজশাহীতে ‘খালেদা জিয়া পরিষদ’ নামে বাড়ি দখলের চেষ্টা, অবশেষে উচ্ছেদ",
-      "url": "https://www.prothomalo.com/bangladesh/district/z0avrqrvxm",
-      "published_at": "2026-02-01T13:37:14.335000+00:00",
-      "summary": "ব্যবসাপ্রতিষ্ঠানের কার্যালয় করার নামে বাড়ি ভাড়া নিয়ে এই সংগঠনের কার্যালয় করা হয়েছিল। বাড়ির মালিকের দাবি, ভাড়া না দিয়ে বাড়িটি দখলেরও চেষ্টা হচ্ছিল।",
-      "image_s3_key": "prothomalo-bangla/2026-02-01/hmuephn1/rajshahi-bnp-home.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/hmuephn1/rajshahi-bnp-home.JPG?auto=format,compress"
     }
   ]
 }
