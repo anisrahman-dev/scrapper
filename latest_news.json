@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-02-03T22:33:11.694450+00:00",
+  "fetched_at": "2026-02-03T23:03:53.995484+00:00",
   "stories": [
+    {
+      "headline": "রমজানের আধ্যাত্মিক প্রস্তুতির ৫ কার্যকর উপায়",
+      "url": "https://www.prothomalo.com/religion/islam/c4lakebz6y",
+      "published_at": "2026-02-03T22:30:00+00:00",
+      "summary": "রমজানের প্রস্তুতির জন্য খুব বড় কোনো আনুষ্ঠানিকতার প্রয়োজন নেই। বরং আমাদের দৈনন্দিন ইবাদতের মৌলিক বিষয়গুলোতে ফিরে আসাই হলো আসল প্রস্তুতি।",
+      "image_s3_key": "prothomalo-bangla/2026-02-02/0qwa5ads/pexels-thirdman-7956662.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-02/0qwa5ads/pexels-thirdman-7956662.jpg?auto=format,compress"
+    },
     {
       "headline": "মুয়াম্মার গাদ্দাফির ছেলে সাইফ আল-ইসলাম নিহত",
       "url": "https://www.prothomalo.com/world/africa/zo1any5lcn",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-12/mw5n3ta6/WhatsApp_Image_2024_08_09_at_17_35_13.jpeg?auto=format,compress"
     },
     {
-      "headline": "নিউমুরিং টার্মিনাল ইজারার চুক্তির সঙ্গে জড়িতরা যেন দেশ থেকে বের হতে না পারে: আনু মুহাম্মদ",
-      "url": "https://www.prothomalo.com/bangladesh/bd67v1jx5c",
-      "published_at": "2026-02-03T15:01:22.907000+00:00",
-      "summary": "আনু মুহাম্মদ বলেন, ‘উপদেষ্টা ও বিশেষ সহকারীর মুখোশ পরিয়ে এই সরকারে ইউনূস সাহেব (প্রধান উপদেষ্টা) প্রকৃতপক্ষে বিদেশি কোম্পানি ও বিদেশি রাষ্ট্রের লবিস্টদের নিয়োগ করেছেন।’",
-      "image_s3_key": "prothomalo-bangla/2026-02-03/3y6xxwbv/Anu-Muhammad.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/3y6xxwbv/Anu-Muhammad.jfif?auto=format,compress"
-    },
-    {
       "headline": "যে কারণে ৩,৫০০ প্রবাসীকে বহিষ্কার করল কুয়েত",
       "url": "https://www.bd-pratidin.com/sports/2026/02/04/1212839",
       "published_at": "2026-02-04T04:02:50+06:00",
@@ -384,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/03/og/1770134199-dcde2e5e0303d7d6954f92cb889d9e8e.jpg"
     },
     {
+      "headline": "মহাত্মা গান্ধীর ভাস্কর্য চুরি",
+      "url": "https://www.ittefaq.com.bd/773085/%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%BE-%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%80%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AF-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF",
+      "published_at": null,
+      "summary": "অস্ট্রেলিয়ার মেলবোর্নের রোবিলে ইন্ডিয়ান কমিউনিটি সেন্টারের সামনে স্থাপিত মহাত্মা গান্ধীর ৪২৬ কেজি ওজনের একটি ব্রোঞ্জ ভাস্কর্য চুরির ঘটনা ঘটেছে। ভাস্কর্যটি নয়াদিল্লির ইন্ডিয়ান কাউন্সিল ফর কালচারাল রিলেশনস উপহার দিয়েছিল।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/04/398b1d12d74ba9acc9ae2e9d648a5795-698275b391a9e.jpg"
+    },
+    {
       "headline": "উত্তেজনা চরমে, আরব সাগরে ইরানি ড্রোন ভূপাতিত করলো যুক্তরাষ্ট্র",
       "url": "https://www.ittefaq.com.bd/773084/%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%9C%E0%A6%A8%E0%A6%BE-%E0%A6%9A%E0%A6%B0%E0%A6%AE%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%AC-%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%AD%E0%A7%82%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%8B",
       "published_at": null,
@@ -445,13 +452,6 @@
       "published_at": null,
       "summary": "বাংলাদেশ জামায়াতে ইসলামী জানিয়েছে, সংগঠনটির আরও একটি অফিসিয়াল অ্যাকাউন্ট হ্যাক করা হয়েছে। হ্যাক হওয়া অ্যাকাউন্টটি দলের নেতা মিয়া গোলাম পরওয়ার-এর নামে পরিচালিত ছিল বলে দাবি করেছে দলটি।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/03/d66a673a6146b498c2f00ae3780bf373-69823427ca91a.jpg"
-    },
-    {
-      "headline": "পটুয়াখালীতে আওয়ামী লীগ ও ইসলামী আন্দোলনের ৫০ নেতাকর্মীর বিএনপিতে যোগদান",
-      "url": "https://www.ittefaq.com.bd/773075/%E0%A6%AA%E0%A6%9F%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%93-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A7%AB%E0%A7%A6",
-      "published_at": null,
-      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন সামনে রেখে পটুয়াখালীর রাঙ্গাবালীতে বিএনপির আয়োজিত এক জনসভায় আওয়ামী লীগ ও ইসলামী আন্দোলন বাংলাদেশের প্রায় ৫০ জন নেতাকর্মী বিএনপিতে যোগ দিয়েছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/03/306e96cdb021fcc2f0ba34296dbe466f-69822eca813e6.jpg"
     },
     {
       "headline": "টেন্ডার-নির্বাচন নেক্সাস",
@@ -527,7 +527,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 04, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "জামায়াতে ইসলামীর শেরপুর জেলা শাখার সেক্রেটারি ও শেরপুর-৩ (শ্রীবরদী–ঝিনাইগাতী) আসনের জামায়াত মনোনীত প্রার্থী নুরুজ্জামান বাদল (৫১) মারা গেছেন। ...",
+      "summary": "ইমানের পর ইসলামের সবচেয়ে তাৎপর্যপূর্ণ আমল হলো সালাত বা নামাজ। নামাজ ইসলামের প্রাণ। মুমিন এবং কাফেরের মাঝে বড় পার্থক্য হলো ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -536,6 +536,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "নিউমুরিং টার্মিনাল ইজারার চুক্তির সঙ্গে জড়িতরা যেন দেশ থেকে বের হতে না পারে: আনু মুহাম্মদ",
+      "url": "https://www.prothomalo.com/bangladesh/bd67v1jx5c",
+      "published_at": "2026-02-03T15:01:22.907000+00:00",
+      "summary": "আনু মুহাম্মদ বলেন, ‘উপদেষ্টা ও বিশেষ সহকারীর মুখোশ পরিয়ে এই সরকারে ইউনূস সাহেব (প্রধান উপদেষ্টা) প্রকৃতপক্ষে বিদেশি কোম্পানি ও বিদেশি রাষ্ট্রের লবিস্টদের নিয়োগ করেছেন।’",
+      "image_s3_key": "prothomalo-bangla/2026-02-03/3y6xxwbv/Anu-Muhammad.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/3y6xxwbv/Anu-Muhammad.jfif?auto=format,compress"
+    },
+    {
+      "headline": "পটুয়াখালীতে আওয়ামী লীগ ও ইসলামী আন্দোলনের ৫০ নেতাকর্মীর বিএনপিতে যোগদান",
+      "url": "https://www.ittefaq.com.bd/773075/%E0%A6%AA%E0%A6%9F%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%93-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A7%AB%E0%A7%A6",
+      "published_at": null,
+      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচন সামনে রেখে পটুয়াখালীর রাঙ্গাবালীতে বিএনপির আয়োজিত এক জনসভায় আওয়ামী লীগ ও ইসলামী আন্দোলন বাংলাদেশের প্রায় ৫০ জন নেতাকর্মী বিএনপিতে যোগ দিয়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/03/306e96cdb021fcc2f0ba34296dbe466f-69822eca813e6.jpg"
     },
     {
       "headline": "দায়িত্বকে আমানত মনে করে নাগরিক সেবায় আত্মনিয়োগ করুন : ফয়েজ আহমদ",
@@ -1478,22 +1493,6 @@
       "summary": "দুপুর সাড়ে ১২টায় শফিকুর রহমান সমাবেশস্থলে যোগ দেন। তিনি জনসভায় জেলার ১১টি আসনের প্রার্থীদের হাতে দলীয় প্রতীক তুলে দিয়ে সবার জন্য ভোট চান।",
       "image_s3_key": "prothomalo-bangla/2026-02-03/vk3w9vnh/MymensinghDH1.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/vk3w9vnh/MymensinghDH1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "৪৬তম বিসিএস: মৌখিক পরীক্ষার প্রার্থীদের জন্য বিশেষ নির্দেশনা পিএসসির",
-      "url": "https://www.prothomalo.com/chakri/e30081wf9e",
-      "published_at": "2026-02-03T11:16:44.108000+00:00",
-      "summary": "৪৬তম বিসিএসের মৌখিক পরীক্ষার প্রার্থীদের জন্য বিশেষ নির্দেশনা দিয়েছে পিএসসি।",
-      "image_s3_key": "prothomalo-bangla/2024-09-11/iziiqddx/পিএসসি ৩.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-09-11/iziiqddx/পিএসসি ৩.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "গাজীপুরে সড়ক ও রেলপথে যান চলাচল বন্ধ, কোটা বাতিলের দাবি",
-      "url": "https://www.prothomalo.com/video/bangladesh/2a84mf7mwc",
-      "published_at": "2026-02-03T11:10:00.280000+00:00",
-      "summary": "গাজীপুরে সড়ক ও রেলপথে যান চলাচল বন্ধ, কোটা বাতিলের দাবি",
-      "image_s3_key": "prothomalo-bangla/2026-02-03/mzbbyz20/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/mzbbyz20/WEB.jpg?auto=format,compress"
     }
   ]
 }
