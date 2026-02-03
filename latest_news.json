@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-03T22:06:37.464715+00:00",
+  "fetched_at": "2026-02-03T22:33:11.694450+00:00",
   "stories": [
     {
       "headline": "মুয়াম্মার গাদ্দাফির ছেলে সাইফ আল-ইসলাম নিহত",
@@ -314,6 +314,13 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/3y6xxwbv/Anu-Muhammad.jfif?auto=format,compress"
     },
     {
+      "headline": "যে কারণে ৩,৫০০ প্রবাসীকে বহিষ্কার করল কুয়েত",
+      "url": "https://www.bd-pratidin.com/sports/2026/02/04/1212839",
+      "published_at": "2026-02-04T04:02:50+06:00",
+      "summary": "রেসিডেন্সি ও শ্রম আইন না মানার কারণে গত মাসে প্রায় ৩,৫০০ প্রবাসীকে বহিষ্কার করেছে কুয়েত। স্থানীয় গণমাধ্যমের বরাতে এ তথ্য জানিয়েছে এপি। তবে তারা কোন দেশের নাগরিক তা নিশ্চিত করে বলা হয়নি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/04/og/1770156169-fe26d895721d161cc8c0759ce90c6e3c.jpg"
+    },
+    {
       "headline": "গুলিতে নিহত গাদ্দাফির সবচেয়ে 'ক্ষমতাধর' ছেলে",
       "url": "https://www.bd-pratidin.com/international-news/2026/02/04/1212838",
       "published_at": "2026-02-04T02:39:05+06:00",
@@ -375,13 +382,6 @@
       "published_at": "2026-02-03T21:56:40+06:00",
       "summary": "ক্ষুধার জ্বালায় বাচ্চাদের পাথর খাওয়াচ্ছে আফ্রিকান পেঙ্গুইনরা- এমন নির্মম চিত্র ফুটে উঠেছে মার্কিন সংবাদমাধ্যম ‘সিএনএন’ এর প্রতিবেদনে।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/03/og/1770134199-dcde2e5e0303d7d6954f92cb889d9e8e.jpg"
-    },
-    {
-      "headline": "দায়িত্বকে আমানত মনে করে নাগরিক সেবায় আত্মনিয়োগ করুন : ফয়েজ আহমদ",
-      "url": "https://www.bd-pratidin.com/national/2026/02/03/1212813",
-      "published_at": "2026-02-03T21:04:42+06:00",
-      "summary": "প্রধান উপদেষ্টার ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়ের দায়িত্বপ্রাপ্ত বিশেষ সহকারী ফয়েজ আহমদ তৈয়্যব অর্পিত দায়িত্বকে আমানত মনে করে নাগরিক সেবায় আত্মনিয়োগ করতে নব নিয়োগপ্রাপ্ত অফিস সহায়কদের প্রতি আহ্বান জানিয়েছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/03/og/1770131081-f70955be387e820a31426bf7bc6d6eaf.jpg"
     },
     {
       "headline": "উত্তেজনা চরমে, আরব সাগরে ইরানি ড্রোন ভূপাতিত করলো যুক্তরাষ্ট্র",
@@ -536,6 +536,13 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "দায়িত্বকে আমানত মনে করে নাগরিক সেবায় আত্মনিয়োগ করুন : ফয়েজ আহমদ",
+      "url": "https://www.bd-pratidin.com/national/2026/02/03/1212813",
+      "published_at": "2026-02-03T21:04:42+06:00",
+      "summary": "প্রধান উপদেষ্টার ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়ের দায়িত্বপ্রাপ্ত বিশেষ সহকারী ফয়েজ আহমদ তৈয়্যব অর্পিত দায়িত্বকে আমানত মনে করে নাগরিক সেবায় আত্মনিয়োগ করতে নব নিয়োগপ্রাপ্ত অফিস সহায়কদের প্রতি আহ্বান জানিয়েছেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/03/og/1770131081-f70955be387e820a31426bf7bc6d6eaf.jpg"
     },
     {
       "headline": "নতুন পে-স্কেল বাস্তবায়নে টাকার ব্যবস্থা করে যাবে সরকার: অর্থ উপদেষ্টা",
@@ -1487,14 +1494,6 @@
       "summary": "গাজীপুরে সড়ক ও রেলপথে যান চলাচল বন্ধ, কোটা বাতিলের দাবি",
       "image_s3_key": "prothomalo-bangla/2026-02-03/mzbbyz20/WEB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/mzbbyz20/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "শীতের শরীরে গেঁথে থাকা মন",
-      "url": "https://www.prothomalo.com/onnoalo/prose/15tc6ssh07",
-      "published_at": "2026-02-03T11:09:16.847000+00:00",
-      "summary": "আমার মনের বনে যে ঘন শীত পড়ছে, তা নিবারণ করতে তুমি আসবে তো হিমা? একজন বলল, ‘আপনার কবিতায় এত এত মৃত্যু আসে কেন?’ ",
-      "image_s3_key": "prothomalo-bangla/2026-02-03/s5k6zcpk/WhatsApp-Image-2026-02-03-at-16.39.11.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/s5k6zcpk/WhatsApp-Image-2026-02-03-at-16.39.11.jpeg?auto=format,compress"
     }
   ]
 }
