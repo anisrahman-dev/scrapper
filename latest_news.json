@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-02-05T22:27:30.987269+00:00",
+  "fetched_at": "2026-02-05T23:00:04.068227+00:00",
   "stories": [
+    {
+      "headline": "‘তোমার ওপর তোমার শরীরের হক রয়েছে’",
+      "url": "https://www.prothomalo.com/religion/islam/9sgzcrhzgp",
+      "published_at": "2026-02-05T22:30:00+00:00",
+      "summary": "আত্মপরিচর্যা মানে নিজেকে প্যাম্পার করা নয়, বরং নিজের সামগ্রিক সুস্থতার জন্য সঠিক সিদ্ধান্ত নেওয়া। প্রকৃত আত্মপরিচর্যা সবসময় সুন্দর বা দেখানোর মতো হয় না।",
+      "image_s3_key": "prothomalo-bangla/2026-02-05/wzc4v8cd/pexels-michael-burrows-7129737.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/wzc4v8cd/pexels-michael-burrows-7129737.jpg?auto=format,compress"
+    },
     {
       "headline": "তারুণ্যের ভোট–ভাবনায় আশার সঙ্গে শঙ্কাও",
       "url": "https://www.prothomalo.com/politics/55zzjqkqyr",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/533h6v5i/619342915183064455192817672822906762855729815n.jpg?auto=format,compress"
     },
     {
-      "headline": "ফলের মকটেল বানাবেন যেভাবে, রেসিপি দেখুন",
-      "url": "https://www.prothomalo.com/lifestyle/recipe/aqyhyez6dr",
-      "published_at": "2026-02-05T16:00:00+00:00",
-      "summary": "সব ফল ছোট ছোট টুকরা করে নিন। কমলার রসের সঙ্গে বাকি সব উপকরণ মিশিয়ে নিন। এবার সব ফলের টুকরা একসঙ্গে মিলিয়ে ফলের মকটেল তৈরি করে নিন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-05/qa48xuv6/200206khaled-Sarker0036.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/qa48xuv6/200206khaled-Sarker0036.jpg?auto=format,compress"
-    },
-    {
       "headline": "বিএনপি প্রার্থীকে হেফাজত আমিরের সমর্থন",
       "url": "https://www.bd-pratidin.com/chittagong-pratidin/2026/02/06/1213658",
       "published_at": "2026-02-06T01:58:49+06:00",
@@ -562,7 +562,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 06, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "কুমিল্লা–৪ (দেবিদ্বার) আসনের গণ অধিকার পরিষদের প্রার্থী জসীম উদ্দিনকে ট্রাক প্রতীকে ভোট দিয়ে নির্বাচিত করার আহ্বান জানিয়েছেন ছাত্রদলের কেন্দ্রীয় কমিটির ...",
+      "summary": "মিশরের কায়রোতে প্রবাসী বাংলাদেশি ছাত্রদের মাঝে এক স্মরণীয় ও আবেগঘন বিকেল উপহার দিয়েছেন প্রখ্যাত ইসলামী চিন্তাবিদ ড. মিজানুর রহমান আজহারী। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -571,6 +571,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ফলের মকটেল বানাবেন যেভাবে, রেসিপি দেখুন",
+      "url": "https://www.prothomalo.com/lifestyle/recipe/aqyhyez6dr",
+      "published_at": "2026-02-05T16:00:00+00:00",
+      "summary": "সব ফল ছোট ছোট টুকরা করে নিন। কমলার রসের সঙ্গে বাকি সব উপকরণ মিশিয়ে নিন। এবার সব ফলের টুকরা একসঙ্গে মিলিয়ে ফলের মকটেল তৈরি করে নিন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-05/qa48xuv6/200206khaled-Sarker0036.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/qa48xuv6/200206khaled-Sarker0036.jpg?auto=format,compress"
     },
     {
       "headline": "পেছনের ইতিহাস নিয়ে আর কামড়াকামড়ি করবো না: জামায়াত আমির",
@@ -1490,14 +1498,6 @@
       "summary": "এবি পার্টির চেয়ারম্যান মঞ্জু বলেন, ‘আমাদের ব্যানার ছিঁড়ে ফেলছে, কার্যালয় ভাঙচুর করা হচ্ছে। শুনতে পাচ্ছি পতিতদের অনেকে নাকি তাদের সঙ্গে মিশে কাজ করছেন।’",
       "image_s3_key": "prothomalo-bangla/2026-02-05/hmoj2a4o/00dfd5df-2874-40c7-a791-3366f9178314.jfif",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/hmoj2a4o/00dfd5df-2874-40c7-a791-3366f9178314.jfif?auto=format,compress"
-    },
-    {
-      "headline": "নবীজি (সা.)-এর ৭ জন কৃষ্ণাঙ্গ সাহাবি",
-      "url": "https://www.prothomalo.com/religion/islam/58l63yqgiy",
-      "published_at": "2026-02-05T12:07:52.309000+00:00",
-      "summary": "তিনি একবার নবীজিকে জিজ্ঞেস করেছিলেন, গায়ের রঙের কারণে জান্নাতে তাঁর মর্যাদা কম হবে কি না। নবীজি তাঁকে আশ্বস্ত করেন। পরে তিনি এক যুদ্ধে শহীদ হন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-05/0cwwhxng/pexels-ravishm-17261870.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/0cwwhxng/pexels-ravishm-17261870.jpg?auto=format,compress"
     }
   ]
 }

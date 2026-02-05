@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-02-05T22:27:30.987269+00:00",
+  "fetched_at": "2026-02-05T23:00:04.068227+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "‘তোমার ওপর তোমার শরীরের হক রয়েছে’",
+        "url": "https://www.prothomalo.com/religion/islam/9sgzcrhzgp",
+        "published_at": "2026-02-05T22:30:00+00:00",
+        "summary": "আত্মপরিচর্যা মানে নিজেকে প্যাম্পার করা নয়, বরং নিজের সামগ্রিক সুস্থতার জন্য সঠিক সিদ্ধান্ত নেওয়া। প্রকৃত আত্মপরিচর্যা সবসময় সুন্দর বা দেখানোর মতো হয় না।",
+        "image_s3_key": "prothomalo-bangla/2026-02-05/wzc4v8cd/pexels-michael-burrows-7129737.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/wzc4v8cd/pexels-michael-burrows-7129737.jpg?auto=format,compress"
+      },
       {
         "headline": "তারুণ্যের ভোট–ভাবনায় আশার সঙ্গে শঙ্কাও",
         "url": "https://www.prothomalo.com/politics/55zzjqkqyr",
@@ -307,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/533h6v5i/619342915183064455192817672822906762855729815n.jpg?auto=format,compress"
       },
       {
-        "headline": "ফলের মকটেল বানাবেন যেভাবে, রেসিপি দেখুন",
-        "url": "https://www.prothomalo.com/lifestyle/recipe/aqyhyez6dr",
-        "published_at": "2026-02-05T16:00:00+00:00",
-        "summary": "সব ফল ছোট ছোট টুকরা করে নিন। কমলার রসের সঙ্গে বাকি সব উপকরণ মিশিয়ে নিন। এবার সব ফলের টুকরা একসঙ্গে মিলিয়ে ফলের মকটেল তৈরি করে নিন।",
-        "image_s3_key": "prothomalo-bangla/2026-02-05/qa48xuv6/200206khaled-Sarker0036.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/qa48xuv6/200206khaled-Sarker0036.jpg?auto=format,compress"
-      },
-      {
         "headline": "বিএনপি প্রার্থীকে হেফাজত আমিরের সমর্থন",
         "url": "https://www.bd-pratidin.com/chittagong-pratidin/2026/02/06/1213658",
         "published_at": "2026-02-06T01:58:49+06:00",
@@ -563,7 +563,7 @@
         "headline": "আজকের সর্বশেষ খবর - February 06, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "কুমিল্লা–৪ (দেবিদ্বার) আসনের গণ অধিকার পরিষদের প্রার্থী জসীম উদ্দিনকে ট্রাক প্রতীকে ভোট দিয়ে নির্বাচিত করার আহ্বান জানিয়েছেন ছাত্রদলের কেন্দ্রীয় কমিটির ...",
+        "summary": "মিশরের কায়রোতে প্রবাসী বাংলাদেশি ছাত্রদের মাঝে এক স্মরণীয় ও আবেগঘন বিকেল উপহার দিয়েছেন প্রখ্যাত ইসলামী চিন্তাবিদ ড. মিজানুর রহমান আজহারী। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -572,6 +572,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ফলের মকটেল বানাবেন যেভাবে, রেসিপি দেখুন",
+        "url": "https://www.prothomalo.com/lifestyle/recipe/aqyhyez6dr",
+        "published_at": "2026-02-05T16:00:00+00:00",
+        "summary": "সব ফল ছোট ছোট টুকরা করে নিন। কমলার রসের সঙ্গে বাকি সব উপকরণ মিশিয়ে নিন। এবার সব ফলের টুকরা একসঙ্গে মিলিয়ে ফলের মকটেল তৈরি করে নিন।",
+        "image_s3_key": "prothomalo-bangla/2026-02-05/qa48xuv6/200206khaled-Sarker0036.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/qa48xuv6/200206khaled-Sarker0036.jpg?auto=format,compress"
       },
       {
         "headline": "পেছনের ইতিহাস নিয়ে আর কামড়াকামড়ি করবো না: জামায়াত আমির",
@@ -1491,14 +1499,6 @@
         "summary": "এবি পার্টির চেয়ারম্যান মঞ্জু বলেন, ‘আমাদের ব্যানার ছিঁড়ে ফেলছে, কার্যালয় ভাঙচুর করা হচ্ছে। শুনতে পাচ্ছি পতিতদের অনেকে নাকি তাদের সঙ্গে মিশে কাজ করছেন।’",
         "image_s3_key": "prothomalo-bangla/2026-02-05/hmoj2a4o/00dfd5df-2874-40c7-a791-3366f9178314.jfif",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/hmoj2a4o/00dfd5df-2874-40c7-a791-3366f9178314.jfif?auto=format,compress"
-      },
-      {
-        "headline": "নবীজি (সা.)-এর ৭ জন কৃষ্ণাঙ্গ সাহাবি",
-        "url": "https://www.prothomalo.com/religion/islam/58l63yqgiy",
-        "published_at": "2026-02-05T12:07:52.309000+00:00",
-        "summary": "তিনি একবার নবীজিকে জিজ্ঞেস করেছিলেন, গায়ের রঙের কারণে জান্নাতে তাঁর মর্যাদা কম হবে কি না। নবীজি তাঁকে আশ্বস্ত করেন। পরে তিনি এক যুদ্ধে শহীদ হন।",
-        "image_s3_key": "prothomalo-bangla/2026-02-05/0cwwhxng/pexels-ravishm-17261870.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-05/0cwwhxng/pexels-ravishm-17261870.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -10764,8 +10764,8 @@
       {
         "headline": "৪৫তম বিসিএসের চূড়ান্ত ফল প্রকাশ, ক্যাডার হলেন ১৮০৭ জন",
         "url": "https://www.amarsangbad.com/job/news/330276",
-        "published_at": null,
-        "summary": null,
+        "published_at": "1764180548",
+        "summary": "৪৫তম বিসিএসের চূড়ান্ত ফলাফল প্রকাশ করেছে বাংলাদেশ সরকারি কর্ম কমিশন (পিএসসি)। নিয়োগের জন্য বিভিন্ন ক্যাডারে সুপারিশ করা হয়েছে ১ হাজার ৮০৭ জনকে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/psc-20251126180908.jpg"
       },
       {
@@ -10820,8 +10820,8 @@
       {
         "headline": "৪৭তম বিসিএসের বিজ্ঞপ্তি প্রকাশ, ৩৪৮৭ ক্যাডার পদ",
         "url": "https://www.amarsangbad.com/job/news/298589",
-        "published_at": null,
-        "summary": null,
+        "published_at": "1732791819",
+        "summary": "৪৭তম বিসিএসের বিজ্ঞপ্তি প্রকাশ করেছে সরকারি কর্ম কমিশন (পিএসসি)। এই বিসিএসে নতুন কিছু পদ যুক্ত করা হয়েছে। এবার শূন্য পদে ক্যাডার ও নন-ক্যাডার মিলিয়ে মোট ৩ হাজার ৬৮৮ জনকে নিয়োগ দেওয়া হবে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2023September/SM/amar-sangbad-file-photo---2024-11-28T170333347-20241128110339.jpg"
       },
       {
@@ -13235,18 +13235,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/mohn-neta-20260130152228.jpg"
       },
       {
-        "headline": "মেজর হাফিজজামায়াতের উগ্রবাদী নীতি পরিহার না করলে দেশের ওপর পরাশক্তির আগ্রাসনের আশঙ্কা",
-        "url": "https://www.amarsangbad.com/election/news/336613",
-        "published_at": "1769783557",
-        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে সামনে রেখে উত্তর শম্ভুপুরে আয়োজিত এক জনসভায় জামায়াতে ইসলামীর রাজনৈতিক অবস্থান ও আদর্শ নিয়ে তীব্র সমালোচনা করেছেন বিএনপির জাতীয় স্থায়ী কমিটির সদস্য মেজর অব. হাফিজ উদ্দিন আহমদ বীর বিক্রম।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/tazum-20260130143237.jpg"
-      },
-      {
         "headline": "৯টি আসনে ধানের শীষ প্রতীক থাকছে না",
         "url": "https://www.amarsangbad.com/election/news/336880",
         "published_at": "1769968645",
         "summary": "১২ ফেব্রুয়ারি অনুষ্ঠিতব্য ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ৯টি আসনের ব্যালটে বিএনপির দলীয় প্রতীক ধানের শীষ থাকছে না। বিএনপির সাথে যুগপৎ আন্দোলনে থাকা মিত্র দলগুলোকে আটটি আসন ছেড়ে দিয়েছে দলটি।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/shssi-20260201175725.jpg"
+      },
+      {
+        "headline": "মেজর হাফিজজামায়াতের উগ্রবাদী নীতি পরিহার না করলে দেশের ওপর পরাশক্তির আগ্রাসনের আশঙ্কা",
+        "url": "https://www.amarsangbad.com/election/news/336613",
+        "published_at": "1769783557",
+        "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে সামনে রেখে উত্তর শম্ভুপুরে আয়োজিত এক জনসভায় জামায়াতে ইসলামীর রাজনৈতিক অবস্থান ও আদর্শ নিয়ে তীব্র সমালোচনা করেছেন বিএনপির জাতীয় স্থায়ী কমিটির সদস্য মেজর অব. হাফিজ উদ্দিন আহমদ বীর বিক্রম।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/tazum-20260130143237.jpg"
       },
       {
         "headline": "হামিদুর রহমাননাগরিক সেবা নিশ্চিত করাই হবে মূল কাজ",
@@ -16060,18 +16060,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/screenshot232026-23810-20260203083844.jpeg"
       },
       {
-        "headline": "জবিতে কেন্দ্রীয় মন্দির স্থাপনের দাবিতে সনাতনী শিক্ষার্থীদের অবস্থান",
-        "url": "https://www.amarsangbad.com/education/news/337057",
-        "published_at": "1770122798",
-        "summary": "জগন্নাথ বিশ্ববিদ্যালয়ে (জবি) কেন্দ্রীয় মন্দির স্থাপনের দাবিতে সনাতনী শিক্ষার্থীরা মঙ্গলবার দুপুর ১২টায় বিশ্ববিদ্যালয়ের মুক্তমঞ্চে অবস্থান কর্মসূচি পালন করেছেন। শিক্ষার্থীরা ‘এক, দুই, তিন, চার মন্দির আমার অধিকার’, ‘প্রশাসন লজ্জা লজ্জা’ ইত্যাদি স্লোগান দেন।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/screenshot232026-64558-20260203124638.jpeg"
-      },
-      {
         "headline": "মেয়েদের হলে ডাকসুর বিনা মূল্যের টিকাদান শুরু, প্রথম দিন টিকা নিলেন ৬০০ শিক্ষার্থী",
         "url": "https://www.amarsangbad.com/education/news/336990",
         "published_at": "1770052563",
         "summary": "ঢাকা বিশ্ববিদ্যালয়ের মেয়েদের হলে বিনা মূল্যে টিকাদান কর্মসূচি শুরু করেছে ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদ (ডাকসু)। শিক্ষার্থীদের স্বাস্থ্যসুরক্ষা নিশ্চিত করতে নির্বাচনী ইশতেহার বাস্তবায়নের অংশ হিসেবে এ কর্মসূচি হাতে নেওয়া হয়েছে। প্রথম দিনেই প্রায় ৬০০ শিক্ষার্থী টিকা গ্রহণ করেছেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/daksu-20260202171603.jpg"
+      },
+      {
+        "headline": "জবিতে কেন্দ্রীয় মন্দির স্থাপনের দাবিতে সনাতনী শিক্ষার্থীদের অবস্থান",
+        "url": "https://www.amarsangbad.com/education/news/337057",
+        "published_at": "1770122798",
+        "summary": "জগন্নাথ বিশ্ববিদ্যালয়ে (জবি) কেন্দ্রীয় মন্দির স্থাপনের দাবিতে সনাতনী শিক্ষার্থীরা মঙ্গলবার দুপুর ১২টায় বিশ্ববিদ্যালয়ের মুক্তমঞ্চে অবস্থান কর্মসূচি পালন করেছেন। শিক্ষার্থীরা ‘এক, দুই, তিন, চার মন্দির আমার অধিকার’, ‘প্রশাসন লজ্জা লজ্জা’ ইত্যাদি স্লোগান দেন।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/screenshot232026-64558-20260203124638.jpeg"
       },
       {
         "headline": "প্রেস সচিবডেমোক্রেসি হুমকিতে ফেলতে ভারতীয় মিডিয়া এবং আ. লীগ ভুয়া তথ্য ছড়াচ্ছে",
