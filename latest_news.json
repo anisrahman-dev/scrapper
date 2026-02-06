@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-02-06T21:03:55.728533+00:00",
+  "fetched_at": "2026-02-06T21:36:14.175550+00:00",
   "stories": [
+    {
+      "headline": "এপস্টেইন–ঝড়ে স্টারমারের \nরাজনৈতিক শক্তি নড়বড়ে ",
+      "url": "https://www.prothomalo.com/world/europe/ua37yh9ixj",
+      "published_at": "2026-02-06T21:29:18.058000+00:00",
+      "summary": "এপস্টেইন নথি ঘিরে যুক্তরাজ্যে রাজনৈতিক সংকট ঘনীভূত হচ্ছে। ক্ষমা চেয়েছেন দেশটির প্রধানমন্ত্রী স্টারমার।",
+      "image_s3_key": "prothomalo-bangla/2025-04-22/b1sxzatz/stermer.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-04-22/b1sxzatz/stermer.jpg?auto=format,compress"
+    },
     {
       "headline": "জয়ের বিষয়ে আত্মবিশ্বাসী বিএনপি, জামায়াতের সঙ্গে করবে না ঐক্য সরকার",
       "url": "https://www.prothomalo.com/politics/1097uywfyt",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-06/82aj8p1s/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "এসএসসি ২০২৬- অর্থনীতি: সংক্ষিপ্ত প্রশ্নোত্তর\n(অধ্যায়–৩)।।    উপযোগ হলো মানুষের অভাব পূরণের ক্ষমতা",
-      "url": "https://www.prothomalo.com/education/examination/737sjkqq32",
-      "published_at": "2026-02-06T15:28:55.288000+00:00",
-      "summary": "অর্থনীতি: সংক্ষিপ্ত প্রশ্নোত্তর",
-      "image_s3_key": "prothomalo-bangla/2026-02-06/dwb6omnf/Untitled-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-06/dwb6omnf/Untitled-1.jpg?auto=format,compress"
-    },
-    {
       "headline": "আমিরাতে লটারিতে সাড়ে ৩ কোটি টাকা জিতলেন বাংলাদেশি প্রবাসী",
       "url": "https://www.bd-pratidin.com/probash-potro/2026/02/07/1214022",
       "published_at": "2026-02-07T02:41:27+06:00",
@@ -384,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/06/og/1770383993-a2db18d71d76e360a5c8ca02cc272715.jpg"
     },
     {
+      "headline": "ইরানের তেল রপ্তানি নিয়ন্ত্রণে যুক্তরাষ্ট্রের নতুন নিষেধাজ্ঞা",
+      "url": "https://www.ittefaq.com.bd/773523/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A7%87%E0%A6%B2-%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8",
+      "published_at": null,
+      "summary": "ওমানে আলোচনা শেষ হওয়ার পরপরই ইরানের তেল রপ্তানির ওপর নতুন করে নিষেধাজ্ঞা আরোপ করেছে যুক্তরাষ্ট্র। শুক্রবার (৬ ফেব্রুয়ারি) এ সংক্রান্ত একটি বিবৃতি প্রকাশ করা হয়েছে বলে জানিয়েছে বার্তা সংস্থা এএফপি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/07/3fe9d354bbf043e2a4522e3038260e03-6986445cb8598.jpg"
+    },
+    {
       "headline": "আওয়ামী লীগের ষড়যন্ত্রকে কোনোভাবেই সফল হতে দেওয়া হবে না: ডাকসুর জিএস",
       "url": "https://www.ittefaq.com.bd/773527/%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B7%E0%A7%9C%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A6%AB%E0%A6%B2-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE",
       "published_at": null,
@@ -445,13 +452,6 @@
       "published_at": null,
       "summary": "অবাধ ও সুষ্ঠু নির্বাচনের মাধ্যমেই রাষ্ট্রক্ষমতার বৈধতা প্রতিষ্ঠিত হয়—এমন মন্তব্য করে বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানকে প্রকাশ্য রাজনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/06/da4a48e2c102e179b38342c68a3b1450-69861aa79bef2.jpg"
-    },
-    {
-      "headline": "প্রথম আলো ও ডেইলি স্টারের সামনে বাড়তি নিরাপত্তা",
-      "url": "https://www.ittefaq.com.bd/773513/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%86%E0%A6%B2%E0%A7%8B-%E0%A6%93-%E0%A6%A1%E0%A7%87%E0%A6%87%E0%A6%B2%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE",
-      "published_at": null,
-      "summary": "রাজধানীর তেজগাঁওয়ে অবস্থিত প্রথম আলো ও ডেইলি স্টার কার্যালয়ের সামনে বাড়তি পুলিশ মোতায়েন করা হয়েছে। পুনরায় হামলার আশঙ্কায় এই সতর্কতামূলক ব্যবস্থা নেওয়া হয়েছে বলে জানিয়েছে ঢাকা মেট্রোপলিটন পুলিশ (ডিএমপি)।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/06/ab57756c9666d7aa3d98a3f776e34018-698616adea368.jpg"
     },
     {
       "headline": "ভয়হীন বাংলাদেশের খোঁজে",
@@ -585,6 +585,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "এসএসসি ২০২৬- অর্থনীতি: সংক্ষিপ্ত প্রশ্নোত্তর\n(অধ্যায়–৩)।।    উপযোগ হলো মানুষের অভাব পূরণের ক্ষমতা",
+      "url": "https://www.prothomalo.com/education/examination/737sjkqq32",
+      "published_at": "2026-02-06T15:28:55.288000+00:00",
+      "summary": "অর্থনীতি: সংক্ষিপ্ত প্রশ্নোত্তর",
+      "image_s3_key": "prothomalo-bangla/2026-02-06/dwb6omnf/Untitled-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-06/dwb6omnf/Untitled-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "প্রথম আলো ও ডেইলি স্টারের সামনে বাড়তি নিরাপত্তা",
+      "url": "https://www.ittefaq.com.bd/773513/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%86%E0%A6%B2%E0%A7%8B-%E0%A6%93-%E0%A6%A1%E0%A7%87%E0%A6%87%E0%A6%B2%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE",
+      "published_at": null,
+      "summary": "রাজধানীর তেজগাঁওয়ে অবস্থিত প্রথম আলো ও ডেইলি স্টার কার্যালয়ের সামনে বাড়তি পুলিশ মোতায়েন করা হয়েছে। পুনরায় হামলার আশঙ্কায় এই সতর্কতামূলক ব্যবস্থা নেওয়া হয়েছে বলে জানিয়েছে ঢাকা মেট্রোপলিটন পুলিশ (ডিএমপি)।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/06/ab57756c9666d7aa3d98a3f776e34018-698616adea368.jpg"
     },
     {
       "headline": "ইস্টার্ন ব্যাংকে স্নাতক পাসে টেলার পদে চাকরি, প্রবেশনে বেতন ৩৬,০০০ টাকা",
@@ -1480,22 +1495,6 @@
       "summary": "রাজনৈতিক দলগুলো প্রার্থীতায় নারীদের গুরুত্ব দিচ্ছে না কেন | ওয়ালটন ফ্যান নির্বাচনী হাওয়া | পর্ব–২",
       "image_s3_key": "prothomalo-bangla/2026-02-06/6z7ihkwp/WEB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-06/6z7ihkwp/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘ফিজ তোমাকে ভালোবাসি’, বললেন লাহোর কালান্দার্সের মালিক",
-      "url": "https://www.prothomalo.com/sports/cricket/iig62qwp3o",
-      "published_at": "2026-02-06T11:26:29.657000+00:00",
-      "summary": "নিলামের আগেই মোস্তাফিজুর রহমানকে দলে নিয়েছে পিএসএলের দল লাহোর কালান্দার্স। আজ এক ভিডিওতে মোস্তাফিজকে দলে পেয়ে দারুণ উচ্ছ্বাস প্রকাশ করেন দলটির মালিক সামিন রানা।",
-      "image_s3_key": "prothomalo-bangla/2026-02-04/55g05h7a/WhatsApp-Image-2026-02-04-at-4.41.59-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-04/55g05h7a/WhatsApp-Image-2026-02-04-at-4.41.59-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "মনপুরায় বিএনপি–জামায়াত সংঘর্ষে আহত ১০",
-      "url": "https://www.prothomalo.com/bangladesh/district/alsugnymmn",
-      "published_at": "2026-02-06T11:26:12.547000+00:00",
-      "summary": "জামায়াতে ইসলামীর কর্মী–সমর্থকেরা গণসংযোগে গেলে বিএনপির নেতা–কর্মীরা বাধা দেন। কথা–কাটাকাটির এক পর্যায়ে হাতাহাতি ও সংঘর্ষে জড়ায় উভয় পক্ষ।",
-      "image_s3_key": "prothomalo-bangla/2026-02-06/txl55w1e/BNP-jamat.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-06/txl55w1e/BNP-jamat.jpg?auto=format,compress"
     }
   ]
 }
