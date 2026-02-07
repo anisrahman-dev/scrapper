@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-02-07T22:23:59.173587+00:00",
+  "fetched_at": "2026-02-07T23:00:54.592987+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "মহানবীর সাহসিকতা থেকে শিক্ষা",
+        "url": "https://www.prothomalo.com/religion/islam/eo93pgbgt3",
+        "published_at": "2026-02-07T22:30:00+00:00",
+        "summary": "তায়েফ দুর্গ অবরোধের সময় যখন তিনি দেখলেন যে দীর্ঘ অবরোধ চালালে মুসলিম মদিনার নিরাপত্তা বিঘ্নিত হতে পারে, তখন তিনি সাহসিকতার সঙ্গে অবরোধ তুলে নেন।",
+        "image_s3_key": "prothomalo-bangla/2026-02-07/df8q8jbi/paper-towers-white-purple-background.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-07/df8q8jbi/paper-towers-white-purple-background.jpg?auto=format,compress"
+      },
       {
         "headline": "আখতার হোসেনকে মুঠোফোনে হত্যার হুমকি, থানায় জিডি",
         "url": "https://www.prothomalo.com/bangladesh/district/t587x66m3n",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-07/g8ei3b1z/imageye-imgi43GettyImages22603761521770473774952large.png?auto=format,compress"
       },
       {
-        "headline": "বৈদ্যুতিক গাড়ির দুনিয়ায় মোস্তফা আল মমিনের সাহসী পদযাত্রার গল্প | লিগ্যাসি উইথ এমআরএইচ : সিজন–২ | পর্ব: ০৪",
-        "url": "https://www.prothomalo.com/video/sl9of5e0bv",
-        "published_at": "2026-02-07T15:30:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-02-07/u2wv4luc/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-07/u2wv4luc/WEB.jpg?auto=format,compress"
-      },
-      {
         "headline": "রাষ্ট্র পরিচালনার দায়িত্ব পেলে বিডিআর'র নাম পুনর্বহাল করা হবে: তারেক রহমান",
         "url": "https://www.bd-pratidin.com/national/2026/02/08/1214424",
         "published_at": "2026-02-08T01:43:59+06:00",
@@ -393,6 +393,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/07/og/1770473235-e06d061a77a7bde916b8a91163029d41.jpg"
       },
       {
+        "headline": "সকালে বেড়ে রাতেই স্বর্ণের দামে পতন, ভরিতে কমল ৩২৬৬ টাকা",
+        "url": "https://www.ittefaq.com.bd/773673/%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AA%E0%A6%A4%E0%A6%A8-%E0%A6%AD%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A6%B2-%E0%A7%A9%E0%A7%A8%E0%A7%AC%E0%A7%AC",
+        "published_at": null,
+        "summary": "সকালে বড় উত্থানের পর রাতেই দেশের বাজারে স্বর্ণের দাম কমানোর সিদ্ধান্ত নিয়েছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন (বাজুস)। এবার ভরিতে ৩ হাজার ২৬৬ টাকা কমিয়ে ২২ ক্যারেটের এক ভরি স্বর্ণের নতুন দাম নির্ধারণ করা হয়েছে ২ লাখ ৫৮ হাজার ৮২৪ টাকা।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/08/2941d4cf557e983d65d3b4648c8e8112-6987b8f953165.jpg"
+      },
+      {
         "headline": "ধ্বংসের মুখে পড়া হালদাকে রক্ষা করতে হবে: মৎস্য উপদেষ্টা",
         "url": "https://www.ittefaq.com.bd/773671/%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%AE%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AF",
         "published_at": null,
@@ -454,13 +461,6 @@
         "published_at": null,
         "summary": "চট্টগ্রাম বন্দরে চলমান অচলাবস্থা নিরসনে ও রোববার থেকে ঘোষিত অনির্দিষ্টকালের ধর্মঘট প্রত্যাহারে প্রধান উপদেষ্টা ড. মুহাম্মদ ইউনূসের জরুরি ও সরাসরি হস্তক্ষেপ কামনা করেছেন দেশের শীর্ষ ব্যবসায়ী নেতারা।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/07/413cd20c319150955ec275ed8173b0b1-6987744f2dbb5.jpg"
-      },
-      {
-        "headline": "আমরা কখনোই প্রতিশোধমূলক, প্রতিহিংসামূলক চিন্তা করি না: শহীদ উদ্দীন চৌধুরী এ্যানি",
-        "url": "https://www.ittefaq.com.bd/773658/%E0%A6%95%E0%A6%96%E0%A6%A8%E0%A7%8B%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%A7%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%9A%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BF-%E0%A6%A8%E0%A6%BE",
-        "published_at": null,
-        "summary": "বিএনপির যুগ্ম মহাসচিব ও লক্ষ্মীপুর-৩ আসনের ধানের শীষের প্রার্থী শহীদ উদ্দীন চৌধুরী এ্যানি বলেছেন, আমরা কখনোই প্রতিশোধমূলক, প্রতিহিংসামূলক চিন্তা রাজনৈতিক জীবনে করিনি। জনগণের পাশে থেকে রাজনীতি করেছি। আমরা কখনও হুঙ্কার দিয়ে রাজনীতি করি না।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/07/ee123cfd6e9252a5623c18b16f16075d-69876fd41857b.jpg"
       },
       {
         "headline": "অন্তর্বর্তী সরকারের দেড় বছরপ্রতিশ্রুতি বনাম বাস্তবতা",
@@ -564,7 +564,7 @@
         "headline": "আজকের সর্বশেষ খবর - February 08, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "সৌদি আরব ২০২৬ সালের হজ মৌসুম (১৪৪৭ হিজরি) জন্য আজ রোববার (৮ ফেব্রুয়ারি) থেকে হজ ভিসা ইস্যু শুরু করবে। দেশটির ...",
+        "summary": "ইমানের পর ইসলামের সবচেয়ে তাৎপর্যপূর্ণ আমল হলো সালাত বা নামাজ। নামাজ ইসলামের প্রাণ। মুমিন এবং কাফেরের মাঝে বড় পার্থক্য হলো ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -573,6 +573,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "বৈদ্যুতিক গাড়ির দুনিয়ায় মোস্তফা আল মমিনের সাহসী পদযাত্রার গল্প | লিগ্যাসি উইথ এমআরএইচ : সিজন–২ | পর্ব: ০৪",
+        "url": "https://www.prothomalo.com/video/sl9of5e0bv",
+        "published_at": "2026-02-07T15:30:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-02-07/u2wv4luc/WEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-07/u2wv4luc/WEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আমরা কখনোই প্রতিশোধমূলক, প্রতিহিংসামূলক চিন্তা করি না: শহীদ উদ্দীন চৌধুরী এ্যানি",
+        "url": "https://www.ittefaq.com.bd/773658/%E0%A6%95%E0%A6%96%E0%A6%A8%E0%A7%8B%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%A7%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BF%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95-%E0%A6%9A%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BF-%E0%A6%A8%E0%A6%BE",
+        "published_at": null,
+        "summary": "বিএনপির যুগ্ম মহাসচিব ও লক্ষ্মীপুর-৩ আসনের ধানের শীষের প্রার্থী শহীদ উদ্দীন চৌধুরী এ্যানি বলেছেন, আমরা কখনোই প্রতিশোধমূলক, প্রতিহিংসামূলক চিন্তা রাজনৈতিক জীবনে করিনি। জনগণের পাশে থেকে রাজনীতি করেছি। আমরা কখনও হুঙ্কার দিয়ে রাজনীতি করি না।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/07/ee123cfd6e9252a5623c18b16f16075d-69876fd41857b.jpg"
       },
       {
         "headline": "ভোট পারফেক্ট করাই এখন আমাদের প্রধান চ্যালেঞ্জ: প্রধান উপদেষ্টা",
@@ -1468,21 +1483,6 @@
         "summary": "শীর্ষ সন্ত্রাসী সুব্রত বাইন ঘনিষ্ঠ সহযোগী মেহেদী হাসান ওরফে দীপুকে গ্রেপ্তার করেছে সেনাবাহিনীর নেতৃত্বাধীন যৌথবাহিনীর একটি বিশেষ দল।",
         "image_s3_key": "prothomalo-bangla/2026-02-07/opy7cgq3/Dipu.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-07/opy7cgq3/Dipu.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "একবার আপনারা আমাদেরকে একটু সুযোগ দিন: জামায়াত আমির শফিকুর রহমান",
-        "url": "https://www.prothomalo.com/video/bangladesh/p71b8rpk58",
-        "published_at": "2026-02-07T13:03:47.291000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-02-07/jj37s6nm/YT-GFX.00061514.Still016.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-07/jj37s6nm/YT-GFX.00061514.Still016.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ইরান চুক্তি করতে মরিয়া, দাবি ট্রম্পের",
-        "url": "https://www.bd-pratidin.com/international-news/2026/02/07/1214245",
-        "published_at": "2026-02-07T19:35:53+06:00",
-        "summary": "আমাদের খুব ভালো আলোচনা হয়েছে এবং মনে হচ্ছে ইরান একটি চুক্তিতে পৌঁছাতে চায় বলে মন্তব্য করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/07/og/1770471351-7711c2a8d982c469c930a05505b3515b.jpg"
       }
     ],
     "bangladesh": [
