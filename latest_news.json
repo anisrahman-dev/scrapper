@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-02-08T22:26:49.109297+00:00",
+  "fetched_at": "2026-02-08T22:58:36.097310+00:00",
   "stories": [
+    {
+      "headline": "নোবেলজয়ী নার্গিস মোহাম্মাদির কারাদণ্ড",
+      "url": "https://www.prothomalo.com/world/asia/jptc8qd795",
+      "published_at": "2026-02-08T22:37:50.854000+00:00",
+      "summary": "ইরানের আইন অনুযায়ী, সব সাজা একই সঙ্গে কার্যকর হয়। ফলে নার্গিসকে মোট ছয় বছরের কারাদণ্ডই ভোগ করতে হবে।",
+      "image_s3_key": "prothomalo-bangla/2024-12-04/xqa4o16c/NargisMOhammadi.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-12-04/xqa4o16c/NargisMOhammadi.webp?auto=format,compress"
+    },
+    {
+      "headline": "পর্তুগালে প্রেসিডেন্ট নির্বাচনে সমাজতান্ত্রিক নেতা সেগুরোর ভূমিধস বিজয়",
+      "url": "https://www.prothomalo.com/world/europe/teomidqthp",
+      "published_at": "2026-02-08T22:22:28.314000+00:00",
+      "summary": "দুটি পৃথক বুথফেরত জরিপে আগেই সেগুরোর জয়ের আভাস পাওয়া গিয়েছিল। সেখানে বলা হয়েছিল, তিনি ৬৭ থেকে ৭৩ শতাংশ ভোট পেতে পারেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-08/b2cpn4lb/Jose-Seguro.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/b2cpn4lb/Jose-Seguro.jpg?auto=format,compress"
+    },
     {
       "headline": "নির্বাচন সামনে রেখে তৎপর আইনশৃঙ্খলা বাহিনী ",
       "url": "https://www.prothomalo.com/bangladesh/4luq553l1f",
@@ -306,22 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/6p7jk17n/Screenshot_2026_02_08_225707.png?auto=format,compress"
     },
     {
-      "headline": "সরকারি কর্মকর্তা–কর্মচারীদের বেতন কমিশনের প্রতিবেদন পর্যালোচনা করতে কমিটি গঠন",
-      "url": "https://www.prothomalo.com/business/3xvqoaft0x",
-      "published_at": "2026-02-08T16:45:46.655000+00:00",
-      "summary": "আজ রোববার মন্ত্রিপরিষদ বিভাগ থেকে এ–সংক্রান্ত প্রজ্ঞাপন জারি করা হয়েছে। সুপারিশ প্রণয়েন গঠিত কমিটির আহ্বায়ক করা হয়েছে মন্ত্রিপরিষদ সচিবকে। কমিটিতে সদস্য হিসেবে রয়েছেন আরও আটজন।",
-      "image_s3_key": "prothomalo-bangla/2025-10-01/mm5nnu9p/bangladesh_government_logo.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-01/mm5nnu9p/bangladesh_government_logo.png?auto=format,compress"
-    },
-    {
-      "headline": "সিলেটের ছয়টি আসনে জমে উঠেছে নির্বাচনী প্রচার, প্রার্থীরা দিচ্ছেন নানা প্রতিশ্রুতি",
-      "url": "https://www.prothomalo.com/bangladesh/district/lvwokeels2",
-      "published_at": "2026-02-08T16:42:26.344000+00:00",
-      "summary": "সিলেটের ছয়টি আসনে শেষ মুহূর্তে জমে উঠেছে প্রচার-প্রচারণা। নির্বাচনী জনসভা, পথসভা আর গণসংযোগ করে প্রার্থীরা দিচ্ছেন প্রতিশ্রুতি।",
-      "image_s3_key": "prothomalo-bangla/2026-02-08/bmxq6ngd/WhatsApp-Image-2026-02-08-at-10.34.14-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/bmxq6ngd/WhatsApp-Image-2026-02-08-at-10.34.14-PM.jpeg?auto=format,compress"
-    },
-    {
       "headline": "নির্বাচন নিয়ে উদ্বিগ্ন ৫০ শতাংশ মানুষ",
       "url": "https://www.bd-pratidin.com/first-page/2026/02/09/1214750",
       "published_at": "2026-02-09T00:00:00+06:00",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/08/og/1770565926-7151184986aed9f8f418938930271d37.jpg"
     },
     {
+      "headline": "মধ্যরাতে বিজ্ঞপ্তি দিয়ে বন্দরের ধর্মঘট স্থগিত করলেন আন্দোলনকারীরা",
+      "url": "https://www.ittefaq.com.bd/773825/%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%98%E0%A6%9F-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%97%E0%A6%BF%E0%A6%A4",
+      "published_at": null,
+      "summary": "চট্টগ্রাম বন্দরের চলমান ধর্মঘট স্থগিত ঘোষণা করা হয়েছে। রোববার (৮ ফেব্রুয়ারি) দিবাগত রাতে চট্টগ্রাম বন্দর রক্ষা সংগ্রাম পরিষদের নেতা মো. হুমায়ূন কবীর ও মো. ইব্রাহীম খোকনের স্বাক্ষরিত এক বিজ্ঞপ্তিতে এ ঘোষণা দেওয়া হয়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/09/c58b6fbda0b8ae5706ff8a5c248e6b97-69890c31ac64f.jpg"
+    },
+    {
       "headline": "নতুন প্রজন্মের জন্য মুক্তিযুদ্ধের অনুপ্রেরণা প্রয়োজন: প্রধান উপদেষ্টা",
       "url": "https://www.ittefaq.com.bd/773824/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A6%A3%E0%A6%BE",
       "published_at": null,
@@ -455,18 +462,25 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/09/7493dc469fb341f33fdd4ac5a45cc9d4-6988d76d34205.jpg"
     },
     {
-      "headline": "জমিয়তে উলামায়ে ইসলামের ৩৪ দফা নির্বাচনী ইশতেহার ঘোষণা",
-      "url": "https://www.ittefaq.com.bd/773811/%E0%A6%9C%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A7%A9%E0%A7%AA-%E0%A6%A6%E0%A6%AB%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%87%E0%A6%B6%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%B0",
-      "published_at": null,
-      "summary": "দেশের অন্যতম প্রাচীন ও ঐতিহ্যবাহী ইসলামি রাজনৈতিক সংগঠন জমিয়তে উলামায়ে ইসলাম বাংলাদেশ আসন্ন জাতীয় নির্বাচনকে সামনে রেখে ৩৪ দফা নির্বাচনী ইশতেহার আনুষ্ঠানিকভাবে ঘোষণা করেছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/09/2de226418cbee0104c5d6a83b3343390-6988d26d88b10.jpg"
-    },
-    {
       "headline": "নির্বাচনে অস্বস্তির ছায়া",
       "url": "https://dailynayadiganta.com/printed-edition/3ql0SMl5r81g/",
       "published_at": null,
       "summary": "ব্যালট জালিয়াতি, বিদ্যুৎ নাশকতা, সশস্ত্র গোলযোগ ও গুজবযুদ্ধ",
       "image_url": "https://media.ndiganta.com/images/first-1_j8ef7Ul.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "জমিয়তে উলামায়ে ইসলামের ৩৪ দফা নির্বাচনী ইশতেহার ঘোষণা",
+      "url": "https://dailynayadiganta.com/bangladesh/politics/GZWoIgRftpf4/",
+      "published_at": null,
+      "summary": "ইশতেহারে ইসলামী মূল্যবোধ, সামাজিক ন্যায়বিচার, সুশাসন, দুর্নীতিমুক্ত রাষ্ট্রব্যবস্থা, শিক্ষা ও অর্থনৈতিক সংস্কার, ধর্মীয় স্বাধীনতা এবং দেশের সার্বভৌমত্ব রক্ষার বিষয়গুলোকে সর্বোচ্চ গুরুত্ব দেয়া হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Jamiat-menifesto.jpg"
+    },
+    {
+      "headline": "অবাধ ও সুষ্ঠু নির্বাচন নিশ্চিতে উপকূলীয় ও দ্বীপাঞ্চল পরিদর্শনে নৌবাহিনী প্রধান",
+      "url": "https://dailynayadiganta.com/bangladesh/national/Z8MthbHigepP/",
+      "published_at": null,
+      "summary": "পরিদর্শনকালে নৌবাহিনী প্রধান নির্বাচনী দায়িত্বে নিয়োজিত নৌ কন্টিনজেন্টসমূহের সার্বিক কার্যক্রম, নিরাপত্তা ব্যবস্থা ও প্রস্তুতি সরেজমিনে পর্যবেক্ষণ করেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Navy-chief.jpg"
     },
     {
       "headline": "পটুয়াখালীতে জামায়াত নেতা ও তার স্ত্রীর ওপর হামলার প্রতিবাদ মহিলা জামায়াতের",
@@ -518,20 +532,6 @@
       "image_url": "https://media.ndiganta.com/original_images/Tarique-Bobi.jpg"
     },
     {
-      "headline": "‘শুধু ক্রিকেটারদের নয়, জাতিকেও অপমান করা হয়েছে’, বিশ্বকাপ ইস্যুতে জামায়াত আমির",
-      "url": "https://dailynayadiganta.com/video/DeX0ztnbsWnn/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "স্বৈরাচারের পক্ষে ওকালতি করলে নব্য স্বৈরাচারকেও জনগণ সমুচিত জবাব দেবে",
-      "url": "https://dailynayadiganta.com/video/9X6Uo0RQvW1x/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
       "headline": "প্রাথমিকে সহকারী শিক্ষক নিয়োগের ফল প্রকাশ : নির্বাচিত ১৪৩৮৪ প্রার্থী",
       "url": "https://dailynayadiganta.com/bangladesh/education-campus/TVZFu5ec1Wox/",
       "published_at": null,
@@ -539,7 +539,7 @@
       "image_url": "https://media.ndiganta.com/original_images/primary-dept.jpg"
     },
     {
-      "headline": "ফরিদুজ্জামান ফরহাদঅবহেলিত নড়াইল-লোহাগড়ার উন্নয়নে ধানের শীষে ভোট দিন",
+      "headline": "অবহেলিত নড়াইল-লোহাগড়ার উন্নয়নে ধানের শীষে ভোট দিন",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/z9e27mjNFv4b/",
       "published_at": null,
       "summary": "‘দেশের দক্ষিণ-পশ্চিম অঞ্চলের মধ্যে নড়াইল একটি অবহেলিত জেলা। আর এই উন্নয়ন বঞ্চিত নড়াইল-লোহাগড়ার উন্নয়ন করতে হলে ধানের শীষ প্রতীকে ভোট দিতে হবে।’",
@@ -560,20 +560,6 @@
       "image_url": "https://media.ndiganta.com/original_images/Rajshahi_Jamat_Jahangir.jpg"
     },
     {
-      "headline": "মিরসরাইয়ে চাঁদাবাজ ও সন্ত্রাসীদের কঠোর হুশিয়ারি দিলেন নুরুল আমিন চেয়ারম্যান",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/ZMgcSE6E12od/",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে মিরসরাই আসনে বিএনপির মনোনীত প্রার্থী নুরুল আমিন চেয়ারম্যানের ধানের শীষ প্রতীকের সমর্থনে নির্বাচনী জনসভা অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Nurul-Mirsorai.jpg"
-    },
-    {
-      "headline": "জাকসু নির্বাচন নিয়ে অধ্যাপক নাহরিনের বক্তব্য সত্য নয় : জাবি প্রশাসন",
-      "url": "https://dailynayadiganta.com/bangladesh/education-campus/lDyrCG73whUs/",
-      "published_at": null,
-      "summary": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় কেন্দ্রীয় শিক্ষার্থী সংসদ (জাকসু) নির্বাচন নিয়ে ভূগোল ও পরিবেশ বিভাগের অধ্যাপক ড. নাহরিন ইসলাম খানের বক্তব্য সত্য নয় বলে জানিয়েছে জাহাঙ্গীরনগর বিশ্ববিদ্যালয় (জাবি) প্রশাসন।",
-      "image_url": "https://media.ndiganta.com/original_images/JU-Nahrin.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - February 09, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
@@ -586,6 +572,57 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "সরকারি কর্মকর্তা–কর্মচারীদের বেতন কমিশনের প্রতিবেদন পর্যালোচনা করতে কমিটি গঠন",
+      "url": "https://www.prothomalo.com/business/3xvqoaft0x",
+      "published_at": "2026-02-08T16:45:46.655000+00:00",
+      "summary": "আজ রোববার মন্ত্রিপরিষদ বিভাগ থেকে এ–সংক্রান্ত প্রজ্ঞাপন জারি করা হয়েছে। সুপারিশ প্রণয়েন গঠিত কমিটির আহ্বায়ক করা হয়েছে মন্ত্রিপরিষদ সচিবকে। কমিটিতে সদস্য হিসেবে রয়েছেন আরও আটজন।",
+      "image_s3_key": "prothomalo-bangla/2025-10-01/mm5nnu9p/bangladesh_government_logo.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-01/mm5nnu9p/bangladesh_government_logo.png?auto=format,compress"
+    },
+    {
+      "headline": "সিলেটের ছয়টি আসনে জমে উঠেছে নির্বাচনী প্রচার, প্রার্থীরা দিচ্ছেন নানা প্রতিশ্রুতি",
+      "url": "https://www.prothomalo.com/bangladesh/district/lvwokeels2",
+      "published_at": "2026-02-08T16:42:26.344000+00:00",
+      "summary": "সিলেটের ছয়টি আসনে শেষ মুহূর্তে জমে উঠেছে প্রচার-প্রচারণা। নির্বাচনী জনসভা, পথসভা আর গণসংযোগ করে প্রার্থীরা দিচ্ছেন প্রতিশ্রুতি।",
+      "image_s3_key": "prothomalo-bangla/2026-02-08/bmxq6ngd/WhatsApp-Image-2026-02-08-at-10.34.14-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/bmxq6ngd/WhatsApp-Image-2026-02-08-at-10.34.14-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "জমিয়তে উলামায়ে ইসলামের ৩৪ দফা নির্বাচনী ইশতেহার ঘোষণা",
+      "url": "https://www.ittefaq.com.bd/773811/%E0%A6%9C%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A7%A9%E0%A7%AA-%E0%A6%A6%E0%A6%AB%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%87%E0%A6%B6%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%B0",
+      "published_at": null,
+      "summary": "দেশের অন্যতম প্রাচীন ও ঐতিহ্যবাহী ইসলামি রাজনৈতিক সংগঠন জমিয়তে উলামায়ে ইসলাম বাংলাদেশ আসন্ন জাতীয় নির্বাচনকে সামনে রেখে ৩৪ দফা নির্বাচনী ইশতেহার আনুষ্ঠানিকভাবে ঘোষণা করেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/09/2de226418cbee0104c5d6a83b3343390-6988d26d88b10.jpg"
+    },
+    {
+      "headline": "‘শুধু ক্রিকেটারদের নয়, জাতিকেও অপমান করা হয়েছে’, বিশ্বকাপ ইস্যুতে জামায়াত আমির",
+      "url": "https://dailynayadiganta.com/video/DeX0ztnbsWnn/",
+      "published_at": null,
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "স্বৈরাচারের পক্ষে ওকালতি করলে নব্য স্বৈরাচারকেও জনগণ সমুচিত জবাব দেবে",
+      "url": "https://dailynayadiganta.com/video/9X6Uo0RQvW1x/",
+      "published_at": null,
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "মিরসরাইয়ে চাঁদাবাজ ও সন্ত্রাসীদের কঠোর হুশিয়ারি দিলেন নুরুল আমিন চেয়ারম্যান",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/ZMgcSE6E12od/",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে মিরসরাই আসনে বিএনপির মনোনীত প্রার্থী নুরুল আমিন চেয়ারম্যানের ধানের শীষ প্রতীকের সমর্থনে নির্বাচনী জনসভা অনুষ্ঠিত হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Nurul-Mirsorai.jpg"
+    },
+    {
+      "headline": "জাকসু নির্বাচন নিয়ে অধ্যাপক নাহরিনের বক্তব্য সত্য নয় : জাবি প্রশাসন",
+      "url": "https://dailynayadiganta.com/bangladesh/education-campus/lDyrCG73whUs/",
+      "published_at": null,
+      "summary": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় কেন্দ্রীয় শিক্ষার্থী সংসদ (জাকসু) নির্বাচন নিয়ে ভূগোল ও পরিবেশ বিভাগের অধ্যাপক ড. নাহরিন ইসলাম খানের বক্তব্য সত্য নয় বলে জানিয়েছে জাহাঙ্গীরনগর বিশ্ববিদ্যালয় (জাবি) প্রশাসন।",
+      "image_url": "https://media.ndiganta.com/original_images/JU-Nahrin.jpg"
     },
     {
       "headline": "প্রশাসনের একটি অংশ পক্ষপাতদুষ্ট আচরণ করছে, ইসিতে জামায়াতের অভিযোগ",
@@ -1443,43 +1480,6 @@
       "published_at": null,
       "summary": "আগামী নির্বাচন ঠিক করে দেবে চাঁদাবাজ, দুর্নীতিবাজ ও লুটেরাদের বাংলাদেশ হবে- নাকি দেশপ্রেমিক আধিপত্যবাদ-বিরোধী দেশপ্রেমিকদের বাংলাদেশ হবে।",
       "image_url": "https://media.ndiganta.com/original_images/Sirajganj-8-02-26.jpg"
-    },
-    {
-      "headline": "সংস্কার চাইলে ‘হ্যাঁ’ ভোটে সিল দিতে হবে : মির্জা ফখরুল",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/sK8XieAKMRtp/",
-      "published_at": null,
-      "summary": "বাংলাদেশ জাতীয়তাবাদী দলের (বিএনপি) মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর বলেছেন, ‘সংস্কার চাইলে ‘হ্যাঁ’ ভোটে সিল দিতে হবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Fakhrul_ckxuc3R.jpg"
-    },
-    {
-      "headline": "১০ ফেব্রুয়ারির ছুটি বদলে সাপ্তাহিক ছুটির দিনে শ্রমিকদের কাজ করাতে পারবেন শিল্প মালিকরা",
-      "url": "https://dailynayadiganta.com/bangladesh/national/WbXR2Sh6NMWo/",
-      "published_at": null,
-      "summary": "‘নির্বাচন উপলক্ষে আগামী ১১ এবং ১২ ফেব্রুয়ারি নির্বাহী আদেশে দেশব্যাপী সরকারি ছুটি এবং শিল্পাঞ্চলের শ্রমিক, কর্মচারীদের জন্য চলতি মাসে ১০ তারিখের বিশেষ ছুটি বহাল থাকবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Garments.jpg"
-    },
-    {
-      "headline": "জনগণ পুরানো বন্দোবস্তের বস্তাপচা রাজনীতি আর ফিরিয়ে আনতে চায় না",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/6bp0l9GHvvMK/",
-      "published_at": null,
-      "summary": "‘একটা বেইনসাফমুক্ত, জুলুমবাজ, চাঁদাবাজ, দখলবাজ, মামলাবাজ ও আধিপত্যবাদমুক্ত একটা ন্যায় ও ইনসাফের মানবিক বাংলাদেশ গড়তে আমরা হাতে হাত, কাঁধে কাঁধ মিলিয়ে সামনের দিকে এগিয়ে যাই।’",
-      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_14_HQ3MOcs.png"
-    },
-    {
-      "headline": "৪৪তম বিসিএসে প্রশাসন ক্যাডারে নিয়োগ পাওয়া ২৪৪ কর্মকর্তাকে আট বিভাগে ন্যস্ত",
-      "url": "https://www.prothomalo.com/chakri/wt2vipv9h3",
-      "published_at": "2026-02-08T14:31:44.735000+00:00",
-      "summary": "৪৪তম বিসিএস পরীক্ষার মাধ্যমে প্রশাসন ক্যাডারে নিয়োগ পাওয়া ২৪৪ কর্মকর্তাকে সহকারী কমিশনার হিসেবে দেশের আট বিভাগে ন৵স্ত করা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2020-08/2d98af5b-3962-4020-8b43-47e8a2437690/df467c24-f8c6-492a-8540-7e7cd61785f6.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-08/2d98af5b-3962-4020-8b43-47e8a2437690/df467c24-f8c6-492a-8540-7e7cd61785f6.png?auto=format,compress"
-    },
-    {
-      "headline": "নির্বাচন: ঢাকা বিশ্ববিদ্যালয়ের পরীক্ষা স্থগিত, দুই দিন ক্লাস অনলাইনে",
-      "url": "https://www.prothomalo.com/education/higher-education/xy39p086n4",
-      "published_at": "2026-02-08T14:27:45.004000+00:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোট উপলক্ষে ঢাকা বিশ্ববিদ্যালয়ে দুই দিন অনলাইনে ক্লাস অনুষ্ঠিত হবে।",
-      "image_s3_key": "prothomalo-bangla/2024-04/a8589c85-1afa-4a5d-9577-dbffc44b2f7a/prothomalo_bangla_2023_06_83e37bb3_0bc7_4279_af32_8b5499004747_Dhaka_university.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-04/a8589c85-1afa-4a5d-9577-dbffc44b2f7a/prothomalo_bangla_2023_06_83e37bb3_0bc7_4279_af32_8b5499004747_Dhaka_university.webp?auto=format,compress"
     }
   ]
 }
