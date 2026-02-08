@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-02-08T19:06:59.419456+00:00",
+  "fetched_at": "2026-02-08T19:50:31.569051+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "গোল, গোল বাতিল, লাল কার্ড এবং হলান্ডের গোলে সিটির নাটকীয় জয়",
+        "url": "https://www.prothomalo.com/sports/football/uoys1kb6sy",
+        "published_at": "2026-02-08T19:25:40.903000+00:00",
+        "summary": "ম্যাচের শেষ ছয় মিনিটে সিটি যখন হারের পথে, তখন বের্নার্দো সিলভা সিলভা দলকে সমতায় ফেরান। সেখান থেকেই শুরু হয় অবিশ্বাস্য এক নাটকের শেষ দৃশ্য।",
+        "image_s3_key": "prothomalo-bangla/2026-02-08/niadnsde/030082-01-02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/niadnsde/030082-01-02.jpg?auto=format,compress"
+      },
       {
         "headline": "চোখে কোমলতা, ভেতরে আগুন...",
         "url": "https://www.prothomalo.com/entertainment/dhallywood/s9ivmo8s5v",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/7k57rssj/GazipurDH061520260208IMG-20260208-WA0057.jpg?auto=format,compress"
       },
       {
-        "headline": "অন্তর্বর্তী সরকারও ত্বকী হত্যার বিচারের ক্ষেত্রে ব্যর্থ হয়েছে: রফিউর রাব্বি",
-        "url": "https://www.prothomalo.com/bangladesh/district/iymvm1y2nr",
-        "published_at": "2026-02-08T16:02:03.332000+00:00",
-        "summary": "ত্বকী হত্যার পর থেকে বিচার শুরু ও চিহ্নিত আসামিদের গ্রেপ্তারের দাবিতে প্রতি মাসের ৮ তারিখ আলোক প্রজ্বালনসহ বিভিন্ন কর্মসূচি পালন করে আসছে নারায়ণগঞ্জ সাংস্কৃতিক জোট।",
-        "image_s3_key": "prothomalo-bangla/2026-02-08/6git7j78/NARAYANGANJ-toki-3.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/6git7j78/NARAYANGANJ-toki-3.JPG?auto=format,compress"
-      },
-      {
         "headline": "নির্বাচন নিয়ে উদ্বিগ্ন ৫০ শতাংশ মানুষ",
         "url": "https://www.bd-pratidin.com/first-page/2026/02/09/1214750",
         "published_at": "2026-02-09T00:00:00+06:00",
@@ -393,6 +393,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/08/og/1770565926-7151184986aed9f8f418938930271d37.jpg"
       },
       {
+        "headline": "শেষ মুহূর্তে ঢাকা-১৮ আসনে নির্বাচন থেকে সরে দাঁড়ালেন মান্না",
+        "url": "https://www.ittefaq.com.bd/773814/%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A7%A7%E0%A7%AE-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%87",
+        "published_at": null,
+        "summary": "নাগরিক ঐক্যের সভাপতি মাহমুদুর রহমান মান্না ঢাকা-১৮ আসন থেকে নির্বাচন না করার ঘোষণা দিয়েছেন। রোববার (৮ ফেব্রুয়ারি) রাত পৌনে ১২টার দিকে নিজের ভেরিফাইড ফেসবুক পেজে এ ঘোষণা দেন তিনি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/09/2f69bde2766fb76dba14f89591793bd1-6988de8b26e71.jpg"
+      },
+      {
         "headline": "একলাফে স্মারক স্বর্ণমুদ্রার দাম বাড়লো ৫৫ হাজার টাকা, রৌপ্যমুদ্রায় ৭ হাজার",
         "url": "https://www.ittefaq.com.bd/773813/%E0%A6%8F%E0%A6%95%E0%A6%B2%E0%A6%BE%E0%A6%AB%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2%E0%A7%8B-%E0%A7%AB%E0%A7%AB-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0",
         "published_at": null,
@@ -456,13 +463,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/08/3b6c9e0bc852bb91e35e6f1e838cdbfb-6988b1e8bcfe7.jpg"
       },
       {
-        "headline": "বগুড়ার দুর্গম চরাঞ্চলে মিললো মদের কারখানা",
-        "url": "https://www.ittefaq.com.bd/773803/%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%AE-%E0%A6%9A%E0%A6%B0%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A6%AE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE",
-        "published_at": null,
-        "summary": "বগুড়ার সারিয়াকান্দি উপজেলায় যমুনার দুর্গম চরাঞ্চলে একটি অবৈধ মদের কারখানার সন্ধান পেয়েছে যৌথবাহিনী। অভিযানে ১ হাজার ৯০ লিটার চোলাই মদ উদ্ধারের পর জনসম্মুখে ধ্বংস করা হয়েছে। এ ঘটনায় একজনকে গ্রেপ্তার করা হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/08/7f178a573c4675cdfd12d31adf179085-6988b1106bd67.jpg"
-      },
-      {
         "headline": "নির্বাচনে অস্বস্তির ছায়া",
         "url": "https://dailynayadiganta.com/printed-edition/3ql0SMl5r81g/",
         "published_at": null,
@@ -470,67 +470,67 @@
         "image_url": "https://media.ndiganta.com/images/first-1_j8ef7Ul.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
-        "headline": "বিশ্বের সবচেয়ে দামি চাল খেতে কেমন?",
-        "url": "https://dailynayadiganta.com/printed-edition/nDJEA56FACXN/",
+        "headline": "গ্রীষ্মে ক্লাব ছাড়তে পারেন ক্রিশ্চিয়ানো রোনালদো",
+        "url": "https://dailynayadiganta.com/printed-edition/JTXH6O38Q4f4/",
         "published_at": null,
-        "summary": "ক্ষুধা আর অভাবের স্মৃতি থেকে জন্ম নেয়া স্বপ্নই আজ বিশ্বের সবচেয়ে দামি চালের তকমা গায়ে জড়িয়েছে। জাপানের টয়ো রাইস করপোরেশনের হাত ধরে আসা ‘কিনমেমাই প্রিমিয়াম’ নামের এই চালটি কেবল স্বাদ বা সুগন্ধের জন্য নয় বরং আকাশচুম্বী দাম এবং আভিজাত্যের কারণে বিশ্বজুড়ে আলোচনার কেন্দ্রবিন্দুতে পরিণত হয়েছে।",
+        "summary": "ক্রিশ্চিয়ানো রোনালদো আল নাসর ছাড়তে পারেন সামনের গ্রীষ্মে। সর্বশেষ দুই ম্যাচে পাবলিক ইনভেস্টমেন্ট ফান্ডের (পিএফআই) উপর অসন্তোষের কারণে মাঠে নামেননি পর্তুগিজ সুপারস্টার। বিশেষ করে আল ইতিহাদ ও আল হিলালের প্রতি পিআইএফের বেশি মনোযোগ তাকে ক্ষুব্ধ করেছে।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "পাহাড়ের ভেতর দিয়ে নদী!",
-        "url": "https://dailynayadiganta.com/printed-edition/Kh0uyyAVVUAd/",
+        "headline": "প্রকাশিত খবরের প্রতিবাদ বিসিবির",
+        "url": "https://dailynayadiganta.com/printed-edition/nZJ6tR1aFP7R/",
         "published_at": null,
-        "summary": "পাহাড় মানেই নদীর পথে বড় বাধা, এমনটাই আমরা সাধারণত ভাবি। কিন্তু যুক্তরাষ্ট্রের উটাহ অঙ্গরাজ্যে একটি নদী আছে, যা পাহাড় ঘুরে না গিয়ে সোজা পাহাড় কেটে নিজের পথ তৈরি করেছে। এই অদ্ভুত ঘটনা বিজ্ঞানীদের প্রায় দেড়শ’ বছর ধরে ভাবিয়ে রেখেছিল। এবার সেই রহস্যের সহজ ব্যাখ্যা মিলেছে।",
+        "summary": "গত ৭ ফেব্রুয়ারি একটি গণমাধ্যমে বিসিবির পূর্বাচল স্টেডিয়ামের মাটি লুটের ঘটনায় ৫ জনকে দায়ী করার খবর প্রকাশ করা হয়। খবরে দাবি করা হয়েছিল, বিষয়টির তদন্তে থাকা স্বাধীন কমিটি তাদের প্রতিবেদন জমা দিয়েছে বিসিবিতে। গতকাল এই খবরের প্রতিবাদ জানিয়েছে বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "বাউফলে বিএনপি-জামায়াত দফায় দফায় সংঘর্ষ, আহত ৪০",
-        "url": "https://dailynayadiganta.com/printed-edition/jVHQxtcAWttZ/",
+        "headline": "আনন্দ-ডিআরইউ ব্যাডমিন্টনের ফাইনাল আজ",
+        "url": "https://dailynayadiganta.com/printed-edition/S3sHXjpz9YID/",
         "published_at": null,
-        "summary": "পটুয়াখালী-২ (বাউফল) আসনে দাঁড়িপাল্লা ও ধানের শীষ প্রতীকের কর্মী-সমর্থকদের মধ্যে দফায় দফায় সংঘর্ষ হয়েছে। এতে উভয় পক্ষের অন্তত ৪০ জন নেতাকর্মী আহত হয়েছেন। তাদের মধ্যে ২৪ জনকে উপজেলা স্বাস্থ্য কমপ্লেক্সে ভর্তি করা হয়েছে এবং প্রাথমিক চিকিৎসা শেষে চারজনকে বরিশাল শেরেবাংলা মেডিক্যাল কলেজ হাসপাতালে পাঠানো হয়েছে।",
+        "summary": "প্রায় অর্ধশতাধিক মিডিয়া কর্মীদের অংশগ্রহণে শুরু হয়েছে আনন্দ-ডিআরইউ ব্যাডমিন্টন টুর্নামেন্ট। গতকাল পল্টনের শহিদ তাজউদ্দিন আহমদ ইনডোর স্টেডিয়ামে প্রথম দিনে পুরুষ একক, পুরুষ দ্বৈত ও নারী একক-এই তিনটি ইভেন্টের গ্রুপ পর্ব এবং কোয়ার্টার ফাইনাল অনুষ্ঠিত হয়। এর আগে প্রতিযোগিতার উদ্বোধন করেন আনন্দ ভূবন আবাসন প্রকল্পের প্রধান নির্বাহী গাজী মোজাম্মেল হক। এ সময় উপস্থিত ছিলেন ডিআরইউ’র সহসভাপতি মেহেদি আজাদ মাসুম, সাধারন সম্পাদক মাইনুল হাসান সোহেল, ক্রীড়া সম্পাদক ওমর ফারুক রুবেল।  আজ সেমিফাইনাল ও ফাইনাল খেলা শেষে বিজয়ীদের হাতে পুরস্কার তুলে দেবেন বিওএ মহাসচিব জোবায়েদুর রহমান রানা। বিশেষ অতিথি থাকবেন ব্রিজ ফার্মাসিউটিক্যালস লিমিটেডের পরিচালক মীর শহীদুল হক।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "সমকামীবান্ধব শিক্ষা আইন বাস্তবায়ন  হতে দেয়া হবে না -হেফাজতে ইসলাম",
-        "url": "https://dailynayadiganta.com/printed-edition/ccIKjCJZgW5r/",
+        "headline": "মেসির গোলে বার্সেলোনার সাথে ড্র মিয়ামির",
+        "url": "https://dailynayadiganta.com/printed-edition/KScHaf2QtB3n/",
         "published_at": null,
-        "summary": "সম্প্রতি শিক্ষা আইন-২০২৬ খসড়া নিয়ে হেফাজতে ইসলাম বাংলাদেশের মহাসচিব আল্লামা সাজেদুর রহমান সংবাদমাধ্যমে দেয়া এক বিবৃতিতে কড়া হুঁশিয়ারি দিয়ে বলেছেন, সমকামীবান্ধব কোনো শিক্ষা আইন বাস্তবায়ন হতে দেয়া হবে না। পতিত ফ্যাসিস্ট হাসিনার আমল থেকেই সমকামী এলজিবিটির দালালরা দেশে ধর্মীয় অস্থিরতা উসকে দেয়ার চক্রান্ত করছে বলে আমরা মনে করি।",
+        "summary": "দক্ষিণ আমেরিকা সফরের প্রস্তুতি ম্যাচে ইকুয়েডরের বার্সেলোনা এসসির বিপক্ষে ২-২ গোলে ড্র করেছে ইন্টার মিয়ামি। ম্যাচের ৩১ মিনিটে লিওনেল মেসির দারুণ ড্রিবলের জাদুতে এগিয়ে যায় মিয়ামি। প্রথমার্ধের শেষে জোয়াও রোজাসের গোল করে সমতা ফেরায় বার্সাকে।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "খাদ্য মূল্যস্ফীতির  চাপে দেশের মানুষ",
-        "url": "https://dailynayadiganta.com/printed-edition/B6dbozuGv5Ni/",
+        "headline": "রেকর্ড গড়ে জিতল নিউজিল্যান্ড",
+        "url": "https://dailynayadiganta.com/printed-edition/mwrT0ZuDcuxv/",
         "published_at": null,
-        "summary": "সার্বিক মূল্যস্ফীতির হারও জানুয়ারিতে ৮.৫৮ শতাংশ",
+        "summary": "আফগানিস্তানের গড়া চ্যালেঞ্জিং স্কোরকে তাড়া করতে নেমে দ্বিতীয় ওভারে টানা দুই বলে ফিন অ্যালান ও রাচিন রবিন্দ্রর উইকেট হারায় নিউজিল্যান্ড। এর পরও আক্রমণাত্মক ব্যাটিং থামায়নি কিউইরা। রেকর্ড রান তাড়ায় ওপেনার টিম সেইফার্টের দারুণ ফিফটি আর ব্যাটারদের দারুণ পেশাদারিত্বে সহজেই আফগানদের হারাল নিউজিল্যান্ড। টস জিতে ব্যাটিংয়ে নেমে নির্ধারিত ওভারে ছয় উইকেট হারিয়ে ১৮২ রানের বড় সংগ্রহ পায় আফগানিস্তান। লক্ষ্য তাড়ায় ১৭.৫ ওভারে পাঁচ উইকেট হারিয়ে ১৮৩ করে ফেলে নিউজিল্যান্ড। পাঁচ উইকেটের জয় দিয়ে টি-২০ বিশ্বকাপ শুরু করল কিউইরা। টি-২০ বিশ্বকাপে এর আগে ১৭০ রান তাড়া করে জেতেনি নিউজিল্যান্ড। বিশ্বকাপে নিজেদের রেকর্ড গড়েই গতকাল জিতল স্যান্টনারের দল।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "গাজায় ইসরাইলি দখল অবসান ছাড়া অস্ত্র সমর্পণ করবে না হামাস",
-        "url": "https://dailynayadiganta.com/printed-edition/jrnhv9sAt2qX/",
+        "headline": "সিসিডিএম কাপ চাম্পিয়ন অপরাজেয়",
+        "url": "https://dailynayadiganta.com/printed-edition/Cj8OmIV39bMX/",
         "published_at": null,
-        "summary": "গাজায় ইসরাইলি দখল অব্যাহত থাকা অবস্থায় নিরস্ত্রীকরণের আহ্বান প্রত্যাখ্যান করেছেন ফিলিস্তিনি প্রতিরোধ আন্দোলন হামাসের শীর্ষ নেতা খালেদ মিশাল। রোববার দোহায় আলজাজিরা ফোরামে বক্তৃতায় তিনি বলেন, দখলদারিত্বের মধ্যে অস্ত্র কেড়ে নেয়া মানে ফিলিস্তিনি জনগণকে ‘সহজ শিকার’-এ পরিণত করা।",
+        "summary": "সিসিডিএম টি-২০ চ্যালেঞ্জ কাপের ফাইনালে অগ্রণীকে পাঁচ উইকেটে হারিয়ে শিরোপা জিতেছে তৌহিদ খানের দল।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "মির্জা গালিবের নামে নারীবিদ্বেষী উক্তি ভুয়া",
-        "url": "https://dailynayadiganta.com/printed-edition/sNZtZs2ocNGt/",
+        "headline": "সামর্থ্য প্রমাণের সুযোগ ওমানের সামনে",
+        "url": "https://dailynayadiganta.com/printed-edition/JBdTcvNgfOxo/",
         "published_at": null,
-        "summary": "যুক্তরাষ্ট্রের হাওয়ার্ড বিশ্ববিদ্যালয়ের সহকারী অধ্যাপক ড. মির্জা গালিবের নামে সামাজিক যোগাযোগমাধ্যমে ছড়ানো একটি ফটোকার্ডে দাবি করা হয়েছে, তিনি বলেছেন, ‘কর্মজীবী নারীদের পতিতা বলার পরে জামায়াতের ভোট বেড়েছে। কারণ দেশের অধিকাংশ নারী ইসলামকে ভালোবাসে, তারা পুরুষের সমান অধিকার দাবি করে আরবান প্রগ্রেসিভদের মতো লাফায় না।’",
+        "summary": "টি-২০ বিশ্বকাপ ২০২৬ কি আন্ডারডগদের টুর্নামেন্ট হতে পারে? শুরুটা দেখে অন্তত তেমনই মনে হচ্ছে। তুলনামূলক দুর্বল দলগুলো বড় দলগুলোর সাথে ভালোই প্রতিদ্বন্দ্বিতা করছে। এবার আলো এসে পড়ছে কলম্বোর এসএসসি মাঠে, যেখানে আজ গ্রুপ ‘বি’র গুরুত্বপূর্ণ ম্যাচে ওমান মুখোমুখি হবে জিম্বাবুয়ের। মাত্র চার দিন আগের প্রস্তুতিমূলক ম্যাচে ১৮৭ রানের বড় লক্ষ্য তাড়া করে চার উইকেটে জয় পেয়েছিল ওমান। এর আগে শ্রীলঙ্কা ‘এ’ দলকেও পাঁচ উইকেটে হারিয়ে আত্মবিশ্বাস দেখিয়েছে তারা। ২০০০ সালে আইসিসি অ্যাফিলিয়েট সদস্য হওয়ার পর থেকে এ পর্যন্ত চারবার টি-২০ বিশ্বকাপে অংশ নিয়েছে। ইস্ট এশিয়া প্যাসিফিক বাছাইপর্বে রানার্সআপ হয়ে তারা এবারের আসরে এসেছে।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "নির্বাচনী ইশতেহারে পুঁজিবাজার নিয়ে দুই বড় দলের ভাবনা",
-        "url": "https://dailynayadiganta.com/printed-edition/AeLsWSel7XM5/",
+        "headline": "ইংল্যান্ডকে বাগে পেয়েও পারল না নেপাল",
+        "url": "https://dailynayadiganta.com/printed-edition/zCx5zBf8Lvjb/",
         "published_at": null,
-        "summary": "আসন্ন জাতীয় সংসদ নির্বাচনকে সামনে রেখে বড় দুই প্রতিদ্বন্দ্বী দল বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি) ও বাংলাদেশ জামায়াতে ইসলামী নিজ নিজ দলের নির্বাচনী ইশতেহার প্রকাশ করেছে। ইশতেহারে দেশের অর্থনীতির সবচেয়ে অবহেলিত অথচ আয়না হিসেবে পরিচিত একই সাথে শিল্প ও সেবা খাতে দীর্ঘ মেয়াদে মূলধন সরবরাহের অন্যতম উৎস পুঁজিবাজার নিয়ে উভয় দলই তাদের পরিকল্পনার কথা তুলে ধরেছে।",
+        "summary": "টি-২০ বিশ্বকাপে ইংল্যান্ডের মতো ক্রিকেট পরাশক্তির বিপক্ষে ম্যাচ জয়ের কাছাকাছি গিয়েও হতাশা নিয়ে মাঠ ছেড়েছে নেপাল। শেষ ওভারের সমীকরণ মেলাতে পারল না দক্ষিণ এশিয়ার দেশটি। ক্রিকেটের বনেদি দেশটিকে হারাতে শেষ ওভারে ১০ রানের সমীকরণ মেলাতে হতো নেপালকে। রোমাঞ্চ আর উত্তেজনার পারদ তখন তুঙ্গে। উইকেটে ছিলেন সেট ব্যাটার লোকেশ বম। ইংলিশ অধিনায়ক হ্যারি ব্রুক বল তুলে দিলেন পরীক্ষিত বোলার স্যাম কারানের হাতে। প্রথম বলে কোনো রানই দিলেন না এই বোলার। তার করা নিয়ন্ত্রিত বোলিংয়ে পরের বলে এক রানের বেশি নিতে পারেননি লোকেশ। তৃতীয় বলে এক রান নিলেন করন কেসি। চতুর্থ বলে দ্বিতীয়বার জায়গা বদল লোকেশের। এতে শেষ দুই বলে জয়ের জন্য প্রয়োজন পড়ে ছয় রানের। পঞ্চম বলটি লং অনে ঠেলে এক রান নেয়ার সুযোগ থাকলেও সেট ব্যাটার লোকেশ তাতে সাড়া দেননি। আর শেষ বলে এক রানের বেশি পেলেন না তিনি। ফলে চার রানের পরাজয়ে ইতিহাস গড়া হলো না নেপালের।",
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "শেষ সময়ে বিতর্কে জড়িয়ে  পড়ছে শিক্ষা মন্ত্রণালয়",
-        "url": "https://dailynayadiganta.com/printed-edition/sBnXHseSPV2z/",
+        "headline": "ফাইনালে ধূমকেতু দুর্বার",
+        "url": "https://dailynayadiganta.com/printed-edition/aT0Ff8Q2uugT/",
         "published_at": null,
-        "summary": "শিক্ষা আইন নিয়ে তড়িঘড়ি, নিয়োগ বদলি নিয়েও সমালোচনা",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+        "summary": "দেশপ্রেমকে বড় করে দেখার বাস্তবতায় টি-২০ বিশ্বকাপে যাওয়া হয়নি টাইগারদের। সমর্থক ও ক্রিকেটারদের কথা ভেবে বিসিবি আয়োজন করেছে অদম্য বাংলাদেশ টি-২০ কাপ। তিন দলের এই আয়োজনে মিরপুর শেরেবাংলা জাতীয় স্টেডিয়ামে আজ সন্ধ্যা ৬টায় ফাইনালে মুখোমুখি হবে  লিটন দাসের নেতৃত্বাধীন ধূমকেতু একাদশ ও নাজমুল হোসেন শান্তর নেতৃত্বাধীন দুর্বার একাদশ। শুধু ২২ গজের লড়াই নয়, দর্শকদের জন্য থাকছে আরও কিছু জমজমাট আয়োজন। আতশবাজি প্রদর্শনীর পাশাপাশি থাকছে সাংস্কৃতিক অনুষ্ঠানও। টিকেট কেটে যারা মাঠে ঢুকবেন তাদের জন্য রয়েছে মটরসাইকেল জিতে নেয়ার আকর্ষণীয় সুযোগ। ম্যাচটি সরাসরি দেখা যাবে বিটিভি ও টি-স্পোর্টসের ইউটিউব চ্যানেলে।",
+        "image_url": "https://media.ndiganta.com/original_images/khela-4_d3H4k30.jpg"
       },
       {
         "headline": "ফরিদুজ্জামান ফরহাদঅবহেলিত নড়াইল-লোহাগড়ার উন্নয়নে ধানের শীষে ভোট দিন",
@@ -599,7 +599,7 @@
         "headline": "আজকের সর্বশেষ খবর - February 09, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "বিভিন্ন জায়গায় প্রশাসনের একটি অংশ একদিকে হেলে পড়েছে বলে নির্বাচন কমিশনের (ইসি) কাছে অভিযোগ করেছে জামায়াতে ইসলামী। দলটি আরও বলেছে, ...",
+        "summary": "বিএনপির জাতীয় স্থায়ী কমিটির সদস্য আমির খসরু মাহমুদ চৌধুরী বলেছেন, একটি দল সাধারণ মানুষকে ধর্মের ভুল ব্যাখ্যা দিয়ে তাদের প্রতীকে ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -608,6 +608,84 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "অন্তর্বর্তী সরকারও ত্বকী হত্যার বিচারের ক্ষেত্রে ব্যর্থ হয়েছে: রফিউর রাব্বি",
+        "url": "https://www.prothomalo.com/bangladesh/district/iymvm1y2nr",
+        "published_at": "2026-02-08T16:02:03.332000+00:00",
+        "summary": "ত্বকী হত্যার পর থেকে বিচার শুরু ও চিহ্নিত আসামিদের গ্রেপ্তারের দাবিতে প্রতি মাসের ৮ তারিখ আলোক প্রজ্বালনসহ বিভিন্ন কর্মসূচি পালন করে আসছে নারায়ণগঞ্জ সাংস্কৃতিক জোট।",
+        "image_s3_key": "prothomalo-bangla/2026-02-08/6git7j78/NARAYANGANJ-toki-3.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/6git7j78/NARAYANGANJ-toki-3.JPG?auto=format,compress"
+      },
+      {
+        "headline": "বগুড়ার দুর্গম চরাঞ্চলে মিললো মদের কারখানা",
+        "url": "https://www.ittefaq.com.bd/773803/%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%AE-%E0%A6%9A%E0%A6%B0%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A6%AE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE",
+        "published_at": null,
+        "summary": "বগুড়ার সারিয়াকান্দি উপজেলায় যমুনার দুর্গম চরাঞ্চলে একটি অবৈধ মদের কারখানার সন্ধান পেয়েছে যৌথবাহিনী। অভিযানে ১ হাজার ৯০ লিটার চোলাই মদ উদ্ধারের পর জনসম্মুখে ধ্বংস করা হয়েছে। এ ঘটনায় একজনকে গ্রেপ্তার করা হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/08/7f178a573c4675cdfd12d31adf179085-6988b1106bd67.jpg"
+      },
+      {
+        "headline": "বিশ্বের সবচেয়ে দামি চাল খেতে কেমন?",
+        "url": "https://dailynayadiganta.com/printed-edition/nDJEA56FACXN/",
+        "published_at": null,
+        "summary": "ক্ষুধা আর অভাবের স্মৃতি থেকে জন্ম নেয়া স্বপ্নই আজ বিশ্বের সবচেয়ে দামি চালের তকমা গায়ে জড়িয়েছে। জাপানের টয়ো রাইস করপোরেশনের হাত ধরে আসা ‘কিনমেমাই প্রিমিয়াম’ নামের এই চালটি কেবল স্বাদ বা সুগন্ধের জন্য নয় বরং আকাশচুম্বী দাম এবং আভিজাত্যের কারণে বিশ্বজুড়ে আলোচনার কেন্দ্রবিন্দুতে পরিণত হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "পাহাড়ের ভেতর দিয়ে নদী!",
+        "url": "https://dailynayadiganta.com/printed-edition/Kh0uyyAVVUAd/",
+        "published_at": null,
+        "summary": "পাহাড় মানেই নদীর পথে বড় বাধা, এমনটাই আমরা সাধারণত ভাবি। কিন্তু যুক্তরাষ্ট্রের উটাহ অঙ্গরাজ্যে একটি নদী আছে, যা পাহাড় ঘুরে না গিয়ে সোজা পাহাড় কেটে নিজের পথ তৈরি করেছে। এই অদ্ভুত ঘটনা বিজ্ঞানীদের প্রায় দেড়শ’ বছর ধরে ভাবিয়ে রেখেছিল। এবার সেই রহস্যের সহজ ব্যাখ্যা মিলেছে।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "বাউফলে বিএনপি-জামায়াত দফায় দফায় সংঘর্ষ, আহত ৪০",
+        "url": "https://dailynayadiganta.com/printed-edition/jVHQxtcAWttZ/",
+        "published_at": null,
+        "summary": "পটুয়াখালী-২ (বাউফল) আসনে দাঁড়িপাল্লা ও ধানের শীষ প্রতীকের কর্মী-সমর্থকদের মধ্যে দফায় দফায় সংঘর্ষ হয়েছে। এতে উভয় পক্ষের অন্তত ৪০ জন নেতাকর্মী আহত হয়েছেন। তাদের মধ্যে ২৪ জনকে উপজেলা স্বাস্থ্য কমপ্লেক্সে ভর্তি করা হয়েছে এবং প্রাথমিক চিকিৎসা শেষে চারজনকে বরিশাল শেরেবাংলা মেডিক্যাল কলেজ হাসপাতালে পাঠানো হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "সমকামীবান্ধব শিক্ষা আইন বাস্তবায়ন  হতে দেয়া হবে না -হেফাজতে ইসলাম",
+        "url": "https://dailynayadiganta.com/printed-edition/ccIKjCJZgW5r/",
+        "published_at": null,
+        "summary": "সম্প্রতি শিক্ষা আইন-২০২৬ খসড়া নিয়ে হেফাজতে ইসলাম বাংলাদেশের মহাসচিব আল্লামা সাজেদুর রহমান সংবাদমাধ্যমে দেয়া এক বিবৃতিতে কড়া হুঁশিয়ারি দিয়ে বলেছেন, সমকামীবান্ধব কোনো শিক্ষা আইন বাস্তবায়ন হতে দেয়া হবে না। পতিত ফ্যাসিস্ট হাসিনার আমল থেকেই সমকামী এলজিবিটির দালালরা দেশে ধর্মীয় অস্থিরতা উসকে দেয়ার চক্রান্ত করছে বলে আমরা মনে করি।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "খাদ্য মূল্যস্ফীতির  চাপে দেশের মানুষ",
+        "url": "https://dailynayadiganta.com/printed-edition/B6dbozuGv5Ni/",
+        "published_at": null,
+        "summary": "সার্বিক মূল্যস্ফীতির হারও জানুয়ারিতে ৮.৫৮ শতাংশ",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "গাজায় ইসরাইলি দখল অবসান ছাড়া অস্ত্র সমর্পণ করবে না হামাস",
+        "url": "https://dailynayadiganta.com/printed-edition/jrnhv9sAt2qX/",
+        "published_at": null,
+        "summary": "গাজায় ইসরাইলি দখল অব্যাহত থাকা অবস্থায় নিরস্ত্রীকরণের আহ্বান প্রত্যাখ্যান করেছেন ফিলিস্তিনি প্রতিরোধ আন্দোলন হামাসের শীর্ষ নেতা খালেদ মিশাল। রোববার দোহায় আলজাজিরা ফোরামে বক্তৃতায় তিনি বলেন, দখলদারিত্বের মধ্যে অস্ত্র কেড়ে নেয়া মানে ফিলিস্তিনি জনগণকে ‘সহজ শিকার’-এ পরিণত করা।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "মির্জা গালিবের নামে নারীবিদ্বেষী উক্তি ভুয়া",
+        "url": "https://dailynayadiganta.com/printed-edition/sNZtZs2ocNGt/",
+        "published_at": null,
+        "summary": "যুক্তরাষ্ট্রের হাওয়ার্ড বিশ্ববিদ্যালয়ের সহকারী অধ্যাপক ড. মির্জা গালিবের নামে সামাজিক যোগাযোগমাধ্যমে ছড়ানো একটি ফটোকার্ডে দাবি করা হয়েছে, তিনি বলেছেন, ‘কর্মজীবী নারীদের পতিতা বলার পরে জামায়াতের ভোট বেড়েছে। কারণ দেশের অধিকাংশ নারী ইসলামকে ভালোবাসে, তারা পুরুষের সমান অধিকার দাবি করে আরবান প্রগ্রেসিভদের মতো লাফায় না।’",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "নির্বাচনী ইশতেহারে পুঁজিবাজার নিয়ে দুই বড় দলের ভাবনা",
+        "url": "https://dailynayadiganta.com/printed-edition/AeLsWSel7XM5/",
+        "published_at": null,
+        "summary": "আসন্ন জাতীয় সংসদ নির্বাচনকে সামনে রেখে বড় দুই প্রতিদ্বন্দ্বী দল বাংলাদেশ জাতীয়তাবাদী দল (বিএনপি) ও বাংলাদেশ জামায়াতে ইসলামী নিজ নিজ দলের নির্বাচনী ইশতেহার প্রকাশ করেছে। ইশতেহারে দেশের অর্থনীতির সবচেয়ে অবহেলিত অথচ আয়না হিসেবে পরিচিত একই সাথে শিল্প ও সেবা খাতে দীর্ঘ মেয়াদে মূলধন সরবরাহের অন্যতম উৎস পুঁজিবাজার নিয়ে উভয় দলই তাদের পরিকল্পনার কথা তুলে ধরেছে।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "শেষ সময়ে বিতর্কে জড়িয়ে  পড়ছে শিক্ষা মন্ত্রণালয়",
+        "url": "https://dailynayadiganta.com/printed-edition/sBnXHseSPV2z/",
+        "published_at": null,
+        "summary": "শিক্ষা আইন নিয়ে তড়িঘড়ি, নিয়োগ বদলি নিয়েও সমালোচনা",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
         "headline": "সার্টিফিকেশন বোর্ডে প্রিন্স মাহমুদ ও রফিকুল আনোয়ার",
@@ -1407,92 +1485,6 @@
         "summary": "ওমুক প্রার্থী আসবে—মাঠ সাজানো হতো। ছোট ছোট লিফলেট দিয়ে বিয়েবাড়ির মতো রঙিন করে তোলা হতো চারপাশ। কখনো-বা মাঠের পাশে খিচুড়ি রান্না হতো। কী যে মজার খিচুড়ি!",
         "image_s3_key": "prothomalo-bangla/2022-12/a1357905-7f7d-4791-96d6-87bb65bf685b/Rangpur_city_election.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-12/a1357905-7f7d-4791-96d6-87bb65bf685b/Rangpur_city_election.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ভোটের আগে সীমান্ত দিয়ে ঢুকছে অবৈধ অস্ত্র: নিরাপত্তা কতটা ঝুঁকিতে?",
-        "url": "https://www.prothomalo.com/video/bangladesh/ptubgy5tbz",
-        "published_at": "2026-02-08T13:24:01.204000+00:00",
-        "summary": "ভোটের আগে সীমান্ত দিয়ে ঢুকছে অবৈধ অস্ত্র: নিরাপত্তা কতটা ঝুঁকিতে?",
-        "image_s3_key": "prothomalo-bangla/2026-02-08/i0dvs2fo/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/i0dvs2fo/WEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "অবৈধভাবে বাংলাদেশে প্রবেশের মামলায় নাইজেরিয়ার নাগরিক রিমান্ডে",
-        "url": "https://www.prothomalo.com/bangladesh/506y2fdjg9",
-        "published_at": "2026-02-08T13:20:09.999000+00:00",
-        "summary": "নাইজেরীয় নাগরিক স্যামুয়েল ওকেকের এক দিনের রিমান্ড মঞ্জুর করেছেন আদালত।",
-        "image_s3_key": "prothomalo-bangla/2026-02-08/pa6dxrec/Okeke-Nigeria.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/pa6dxrec/Okeke-Nigeria.png?auto=format,compress"
-      },
-      {
-        "headline": "নেপালকে জিততে দিলেন না স্যাম কারেন",
-        "url": "https://www.prothomalo.com/sports/cricket/u4pnb210on",
-        "published_at": "2026-02-08T13:20:09.772000+00:00",
-        "summary": "মুম্বাইয়ে রুদ্ধশ্বাস উত্তেজনার ম্যাচে নেপালকে ৪ রানে হারে টি-টুয়েন্টি বিশ্বকাপ শুরু করেছে দুবারের বিশ্ব চ্যাম্পিয়ন ইংল্যান্ড।\n",
-        "image_s3_key": "prothomalo-bangla/2026-02-08/o9q00jpw/2026-02-08T131430Z90220191UP1EM2810S44XRTRMADP3CRICKET-T20-WORLDCUP-ENG-NPL.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/o9q00jpw/2026-02-08T131430Z90220191UP1EM2810S44XRTRMADP3CRICKET-T20-WORLDCUP-ENG-NPL.JPG?auto=format,compress"
-      },
-      {
-        "headline": "ঢাকা বিশ্ববিদ্যালয়ের এই ক্লাব থেকে উঠে এসেছেন শতাধিক উদ্যোক্তা",
-        "url": "https://www.prothomalo.com/lifestyle/ysz5gcjlvh",
-        "published_at": "2026-02-08T13:19:28.580000+00:00",
-        "summary": "শিক্ষার্থীরা বাজারে সফলভাবে পরিচালিত স্টার্টআপগুলো বিশ্লেষণ করে, তাদের বিজনেস মডেল, কৌশল, ফান্ডিংসহ বিভিন্ন বিষয় বোঝার চেষ্টা করে। ",
-        "image_s3_key": "prothomalo-bangla/2026-02-08/gg5d1jur/DU.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/gg5d1jur/DU.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "২৩,৮৬৫টি রাজনৈতিক হয়রানিমূলক মামলা প্রত্যাহার: আইন মন্ত্রণালয়",
-        "url": "https://www.prothomalo.com/bangladesh/2cmikqh6mn",
-        "published_at": "2026-02-08T13:16:04.067000+00:00",
-        "summary": "হয়রানিমূলক মামলাগুলো প্রত্যাহারের সুপারিশ করেছে অন্তর্বর্তী সরকার।",
-        "image_s3_key": "prothomalo-bangla/2025-01-05/fm2hjmb8/22d8b744-2f75-47c7-b07d-8b07e2a7bfda.jfif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-01-05/fm2hjmb8/22d8b744-2f75-47c7-b07d-8b07e2a7bfda.jfif?auto=format,compress"
-      },
-      {
-        "headline": "গণ-অর্থায়নের ‘সাঁতাও’-এর চারটি পুরস্কার পাওয়ার গল্প",
-        "url": "https://www.prothomalo.com/video/cafelive/oyif9k4bh0",
-        "published_at": "2026-02-08T13:12:43.110000+00:00",
-        "summary": "গণ-অর্থায়নের ‘সাঁতাও’-এর চারটি পুরস্কার পাওয়ার গল্প",
-        "image_s3_key": "prothomalo-bangla/2026-02-08/1swjhyki/THUMBNAIL.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/1swjhyki/THUMBNAIL.jpg?auto=format,compress"
-      },
-      {
-        "headline": "রাষ্ট্র পরিচালনায় অভিজ্ঞ ও মুক্তিযুদ্ধের চেতনাধারী দলকে ভোট দেওয়ার আহ্বান ঢাবি সাদা দলের",
-        "url": "https://www.prothomalo.com/bangladesh/aztbccd2gi",
-        "published_at": "2026-02-08T13:11:50.489000+00:00",
-        "summary": "ঢাবি সাদা দলের সংবাদ সম্মেলনে অভিজ্ঞ দলকে ভোট দেওয়ার আহ্বান জানানো হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-02-08/44js0mu9/Sada-Dal.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/44js0mu9/Sada-Dal.jpg?auto=format,compress"
-      },
-      {
-        "headline": "১৯৭১: যে তিন কারণে তরুণেরা বিভ্রান্ত",
-        "url": "https://www.prothomalo.com/opinion/column/aewx3l91gc",
-        "published_at": "2026-02-08T13:07:37.622000+00:00",
-        "summary": "২০২৪ সালের জুলাই অভ্যুত্থান শুধু এক স্বৈরাচারী সরকারের পতন ঘটায়নি, এই আন্দোলন আমাদের দেশের কতগুলো মৌলিক বিষয় ও চিন্তাধারাকে গভীরভাবে নাড়া দিয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2021-03/5f014f2c-794b-4f60-848a-189ebaf46cad/Muktibahinisquad_220140326001925.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-03/5f014f2c-794b-4f60-848a-189ebaf46cad/Muktibahinisquad_220140326001925.jpg?auto=format,compress"
-      },
-      {
-        "headline": "বাংলাদেশের পতাকা হাতে ম্যারাথন দৌড়ালেন শিবশংকর",
-        "url": "https://www.prothomalo.com/bangladesh/abdbkvtip2",
-        "published_at": "2026-02-08T13:07:13.831000+00:00",
-        "summary": "বাংলাদেশের পতাকা হাতে কলকাতা ম্যারাথনে দৌড়ালেন শিবশংকর পাল।",
-        "image_s3_key": "prothomalo-bangla/2026-02-08/ssec2ry3/SANKAR-PAUL-KOLKATA-MARATHON1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/ssec2ry3/SANKAR-PAUL-KOLKATA-MARATHON1.jpg?auto=format,compress"
-      },
-      {
-        "headline": "পররাষ্ট্র উপদেষ্টার সঙ্গে মার্কিন রাষ্ট্রদূতের সাক্ষাৎ",
-        "url": "https://www.bd-pratidin.com/national/2026/02/08/1214657",
-        "published_at": "2026-02-08T19:38:50+06:00",
-        "summary": "পররাষ্ট্র উপদেষ্টা মো. তৌহিদ হোসেনের সঙ্গে আজ রবিবার (৮ ফেব্রুয়ারি) সাক্ষাৎ করেছেন বাংলাদেশে নিযুক্ত মার্কিন রাষ্ট্রদূত ব্রেন্ট টি ক্রিস্টেনসেন। এ সময় দ্বিপক্ষীয় স্বার্থ সংশ্লিষ্ট বিভিন্ন বিষয়ে আলোচনা করেন তারা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/08/og/1770557929-2e37e2ca999045a0afab8d608c73391a.jpg"
-      },
-      {
-        "headline": "নতুন রাজনীতির কথা বলার চেষ্টা করছি: তাসনিম জারা",
-        "url": "https://www.bd-pratidin.com/election/2026/02/08/1214656",
-        "published_at": "2026-02-08T19:38:24+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ঢাকা-৯ আসনের স্বতন্ত্র প্রার্থী ডা. তাসনিম জারা বলেছেন, মানুষের ভোগান্তির কথা বিবেচনা করেই তিনি প্রচলিত মাইকিং বা শোডাউনের রাজনীতি এড়িয়ে চলছেন। তার মতে, মাইকিং, শোডাউন কিংবা ডিজিটাল ব্যানারে শহর ঢেকে ফেলা জনসেবার অংশ নয়। বরং তিনি সরাসরি মানুষের কাছে গিয়ে নতুন রাজনীতির কথা বলার চেষ্টা করছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/08/og/1770557903-b938765a2ecae7242c8395cca2002f75.jpg"
       }
     ],
     "bangladesh": [
@@ -3048,6 +3040,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/08/og/1770565926-7151184986aed9f8f418938930271d37.jpg"
       },
       {
+        "headline": "শেষ মুহূর্তে ঢাকা-১৮ আসনে নির্বাচন থেকে সরে দাঁড়ালেন মান্না",
+        "url": "https://www.ittefaq.com.bd/773814/%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A7%A7%E0%A7%AE-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%87",
+        "published_at": null,
+        "summary": "নাগরিক ঐক্যের সভাপতি মাহমুদুর রহমান মান্না ঢাকা-১৮ আসন থেকে নির্বাচন না করার ঘোষণা দিয়েছেন। রোববার (৮ ফেব্রুয়ারি) রাত পৌনে ১২টার দিকে নিজের ভেরিফাইড ফেসবুক পেজে এ ঘোষণা দেন তিনি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/09/2f69bde2766fb76dba14f89591793bd1-6988de8b26e71.jpg"
+      },
+      {
         "headline": "জমিয়তে উলামায়ে ইসলামের ৩৪ দফা নির্বাচনী ইশতেহার ঘোষণা",
         "url": "https://www.ittefaq.com.bd/773811/%E0%A6%9C%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A7%A9%E0%A7%AA-%E0%A6%A6%E0%A6%AB%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%80-%E0%A6%87%E0%A6%B6%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%B0",
         "published_at": null,
@@ -3109,13 +3108,6 @@
         "published_at": null,
         "summary": "বিএনপিকে ভোট দিয়ে ক্ষমতায় আনলে নারী বান্ধব একটি সরকার প্রতিষ্ঠা পাবে বলে আশা প্রকাশ করেছেন চেয়ারম্যান তারেক রহমানের স্ত্রী ডা. জুবাইদা রহমান।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/08/86bb915469354b26090596cdeaecf5eb-698895c2a41a6.jpg"
-      },
-      {
-        "headline": "নিজের বিরুদ্ধে ডাকা বিক্ষোভে হাজির খোদ নাসীরুদ্দীন পাটওয়ারী",
-        "url": "https://www.ittefaq.com.bd/773783/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0-%E0%A6%96%E0%A7%8B%E0%A6%A6-%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%A8",
-        "published_at": null,
-        "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মুখ্য সমন্বয়ক ও ঢাকা-৮ আসনের প্রার্থী নাসীরুদ্দীন পাটওয়ারীর বিরুদ্ধে বিক্ষোভ মিছিলের ডাক দেওয়া হয়। হেফাজতে ইসলামের সাবেক মহাসচিব ও আমির আল্লামা জুনায়েদ বাবুনগরীকে নিয়ে তার মিথ্যাচার ও কুরুচিপূর্ণ মন্তব্যের প্রতিবাদে এ কর্মসূচি পালিত হয়। তবে ব্যতিক্রমী ঘটনায় ওই বিক্ষোভে স্বয়ং নাসীরুদ্দীন পাটওয়ারীকেই উপস্থিত থাকতে দেখা যায়।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/08/29d00211a16ca52400bad35d3ba162b2-6988923814088.jpg"
       },
       {
         "headline": "নির্বাচন থেকে সরে দাঁড়ালেন গণঅধিকার পরিষদের নুর",
@@ -3200,6 +3192,13 @@
         "published_at": null,
         "summary": "বিভিন্ন জায়গায় প্রশাসনের একটি অংশ একদিকে হেলে পড়েছে বলে নির্বাচন কমিশনের (ইসি) কাছে অভিযোগ করেছে জামায়াতে ইসলামী। দলটি আরও বলেছে, ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "নিজের বিরুদ্ধে ডাকা বিক্ষোভে হাজির খোদ নাসীরুদ্দীন পাটওয়ারী",
+        "url": "https://www.ittefaq.com.bd/773783/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B0-%E0%A6%96%E0%A7%8B%E0%A6%A6-%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%A8",
+        "published_at": null,
+        "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মুখ্য সমন্বয়ক ও ঢাকা-৮ আসনের প্রার্থী নাসীরুদ্দীন পাটওয়ারীর বিরুদ্ধে বিক্ষোভ মিছিলের ডাক দেওয়া হয়। হেফাজতে ইসলামের সাবেক মহাসচিব ও আমির আল্লামা জুনায়েদ বাবুনগরীকে নিয়ে তার মিথ্যাচার ও কুরুচিপূর্ণ মন্তব্যের প্রতিবাদে এ কর্মসূচি পালিত হয়। তবে ব্যতিক্রমী ঘটনায় ওই বিক্ষোভে স্বয়ং নাসীরুদ্দীন পাটওয়ারীকেই উপস্থিত থাকতে দেখা যায়।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/08/29d00211a16ca52400bad35d3ba162b2-6988923814088.jpg"
       },
       {
         "headline": "নেপালকে কোচিং করানোর প্রস্তাব দিলেন স্টেইন",
@@ -4369,13 +4368,6 @@
         "published_at": null,
         "summary": "জামায়াতে ইসলামীর আমির শফিকুর রহমান বলেছেন, আমরা দেশ পরিচালনার দায়িত্ব পেলে জনগণের সম্পদের পাহারাদার হবো। জনগণের তহবিলের অপব্যবহার করবো না। প্রত্যেক সংসদ সদস্য প্রতিবছর নিজের এবং পরিবারের সকল সদস্যের সম্পদের  হিসাব দেবেন। সরকারি প্লট ও ট্যাক্স ফ্রি গাড়ি নেব না; প্রয়োজনে রিকশায় বা পায়ে হাঁটবো।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/07/dfbc09cce6846cc89d580eab876a3ee0-698722948df18.jpg"
-      },
-      {
-        "headline": "শেফার্ডের হ্যাটট্রিকে জয় দিয়ে বিশ্বকাপ শুরু ওয়েস্ট ইন্ডিজের",
-        "url": "https://www.bd-pratidin.com/sports/2026/02/07/1214242",
-        "published_at": "2026-02-07T19:27:23+06:00",
-        "summary": "রোমারিও শেফার্ডের দুর্দান্ত হ্যাটট্রিকে জয় দিয়েই টি-টোয়েন্টি বিশ্বকাপ অভিযান শুরু করেছে ওয়েস্ট ইন্ডিজ। শুরুতে লড়াই জমিয়ে তুললেও শেষ পর্যন্ত ক্যারিবীয় পেসারের তাণ্ডবে ৩৫ রানে হার মানে স্কটল্যান্ড।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/07/og/1770470841-36f48ddcffccc73000d74eed4de48bf5.jpg"
       }
     ],
     "world": [
@@ -7336,6 +7328,14 @@
     ],
     "sports": [
       {
+        "headline": "গোল, গোল বাতিল, লাল কার্ড এবং হলান্ডের গোলে সিটির নাটকীয় জয়",
+        "url": "https://www.prothomalo.com/sports/football/uoys1kb6sy",
+        "published_at": "2026-02-08T19:25:40.903000+00:00",
+        "summary": "ম্যাচের শেষ ছয় মিনিটে সিটি যখন হারের পথে, তখন বের্নার্দো সিলভা সিলভা দলকে সমতায় ফেরান। সেখান থেকেই শুরু হয় অবিশ্বাস্য এক নাটকের শেষ দৃশ্য।",
+        "image_s3_key": "prothomalo-bangla/2026-02-08/niadnsde/030082-01-02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-08/niadnsde/030082-01-02.jpg?auto=format,compress"
+      },
+      {
         "headline": "শেষে গিয়ে সহজ জয় শ্রীলঙ্কার",
         "url": "https://www.prothomalo.com/sports/cricket/glsp9xbm5p",
         "published_at": "2026-02-08T18:05:00.801000+00:00",
@@ -7648,14 +7648,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-06/kmgwkbyp/412984.webp?auto=format,compress"
       },
       {
-        "headline": "ফাইনালে উঠতে পারলেন না ইমরানুর",
-        "url": "https://www.prothomalo.com/sports/other-sports/5c7or5gbnm",
-        "published_at": "2026-02-06T12:37:30.665000+00:00",
-        "summary": "আজই সকালে নিজের হিটে দ্বিতীয় হয়ে সেমিফাইনালে ওঠেন ইমরানুর। টাইমিং ছিল ৬.৭৩ সেকেন্ড। কিন্তু ফাইনালে ওঠার লড়াইয়ে তাঁর সময় লেগেছে ৬.৭৫ সেকেন্ড। ",
-        "image_s3_key": "prothomalo-bangla/2024-08/33001754-564d-477c-a5bd-9460e1260fb5/WhatsApp_Image_2024_08_03_at_3_30_51_PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08/33001754-564d-477c-a5bd-9460e1260fb5/WhatsApp_Image_2024_08_03_at_3_30_51_PM.jpeg?auto=format,compress"
-      },
-      {
         "headline": "পিসিবিকে রাজি করাতে লাহোরে আইসিসির ডেপুটি চেয়ারম্যান, আছেন বুলবুলও",
         "url": "https://www.ittefaq.com.bd/773798/%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%B9%E0%A7%8B%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%A1%E0%A7%87%E0%A6%AA%E0%A7%81%E0%A6%9F%E0%A6%BF",
         "published_at": null,
@@ -7864,6 +7856,14 @@
         "published_at": "1770525970",
         "summary": "বিশ্ব ক্রিকেটের মানচিত্রে এক নজিরবিহীন অস্থিরতার মধ্যে পাকিস্তানের লাহোরে পা রেখেছেন বাংলাদেশ ক্রিকেট বোর্ডের (বিসিবি) সভাপতি আমিনুল ইসলাম।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260208081722.jpg"
+      },
+      {
+        "headline": "ফাইনালে উঠতে পারলেন না ইমরানুর",
+        "url": "https://www.prothomalo.com/sports/other-sports/5c7or5gbnm",
+        "published_at": "2026-02-06T12:37:30.665000+00:00",
+        "summary": "আজই সকালে নিজের হিটে দ্বিতীয় হয়ে সেমিফাইনালে ওঠেন ইমরানুর। টাইমিং ছিল ৬.৭৩ সেকেন্ড। কিন্তু ফাইনালে ওঠার লড়াইয়ে তাঁর সময় লেগেছে ৬.৭৫ সেকেন্ড। ",
+        "image_s3_key": "prothomalo-bangla/2024-08/33001754-564d-477c-a5bd-9460e1260fb5/WhatsApp_Image_2024_08_03_at_3_30_51_PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08/33001754-564d-477c-a5bd-9460e1260fb5/WhatsApp_Image_2024_08_03_at_3_30_51_PM.jpeg?auto=format,compress"
       },
       {
         "headline": "‘ফিজ তোমাকে ভালোবাসি’, বললেন লাহোর কালান্দার্সের মালিক",
@@ -8817,14 +8817,6 @@
         "summary": "বাংলাদেশের বিশ্বকাপ থেকে বাদ পড়া, পাকিস্তানের ভারত-ম্যাচ বয়কটের সিদ্ধান্ত, সব মিলিয়ে ক্রিকেট–বিশ্বে তোলপাড়। চলমান এই অস্থিরতা নিয়ে ভারতের নিউজ ১৮ ক্রিকেটনেক্সটের সঙ্গে কথা বলেছেন পাকিস্তানের সাবেক অধিনায়ক ও উইকেটকিপার-ব্যাটসম্যান রশিদ লতিফ।",
         "image_s3_key": "prothomalo-bangla/2026-02-03/96y6yqw7/rashid.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/96y6yqw7/rashid.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "বিশ্বকাপ বাছাইয়ে দ্বিতীয় সেরা, র‍্যাঙ্কিংয়ে ১৬ ধাপ এগোলেন সোবহানা",
-        "url": "https://www.prothomalo.com/sports/cricket/jfi21vk6cz",
-        "published_at": "2026-02-03T09:52:59.581000+00:00",
-        "summary": "বাছাইপর্বে ব্যাট হাতে দারুণ পারফরম্যান্স করেন সোবহানা মোস্তারি, অধিনায়ক নিগার সুলতানা ও ওপেনার দিলারা আক্তার।",
-        "image_s3_key": "prothomalo-bangla/2026-01-28/ug5vpzzy/sobhana.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/ug5vpzzy/sobhana.jpg?auto=format,compress"
       }
     ],
     "entertainment": [
