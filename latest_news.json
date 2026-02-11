@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-02-11T22:36:55.607443+00:00",
+  "fetched_at": "2026-02-11T23:32:49.349791+00:00",
   "stories": [
+    {
+      "headline": "‘টাকা বিতরণ নিয়ে’ বাগেরহাটে বিএনপি–জামায়াত সংঘর্ষ, আহত ৮",
+      "url": "https://www.prothomalo.com/bangladesh/district/8q6y68e2xs",
+      "published_at": "2026-02-11T23:08:44.969000+00:00",
+      "summary": "বাগেরহাট মডেল থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) মাসুম খান বলেন, সংঘর্ষের খবর পেয়ে তাৎক্ষণিক পুলিশ ঘটনাস্থলে যায়। বর্তমানে পরিস্থিতি স্বাভাবিক রয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2025-10-07/54rcrhon/Clash.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-07/54rcrhon/Clash.jpg?auto=format,compress"
+    },
     {
       "headline": "নসিহত: সমাজ সংস্কারের মূলমন্ত্র",
       "url": "https://www.prothomalo.com/religion/islam/f9vm004ytv",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-11/4ptcxbfp/BBariaDH051720260211IMG20260211165840.jpg?auto=format,compress"
     },
     {
-      "headline": "‘ট্রেনের টিকিট পাই নাই, দাঁড়ায়া যাইতে হইব’",
-      "url": "https://www.prothomalo.com/bangladesh/um5yis2qc8",
-      "published_at": "2026-02-11T16:34:46.607000+00:00",
-      "summary": "ভোট দিতে বাড়ি ফিরছে মানুষ, রেলস্টেশন ও বাস টার্মিনালে উপচে পড়া ভিড়।",
-      "image_s3_key": "prothomalo-bangla/2026-02-11/52z9u5bo/Train-Station.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-11/52z9u5bo/Train-Station.jpeg?auto=format,compress"
-    },
-    {
       "headline": "‘জামায়াতের ইলেকশন ইঞ্জিনিয়ারিংয়ের পরিকল্পনা দেশব্যাপী স্পষ্ট হয়ে গেছে’",
       "url": "https://www.bd-pratidin.com/election/2026/02/12/1216034",
       "published_at": "2026-02-12T01:15:28+06:00",
@@ -384,6 +384,27 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/11/og/1770817324-6a78ea70616c432d9c3205429b28d661.jpg"
     },
     {
+      "headline": "নির্বাচনের আগের দিন ছয় জেলায় টাকা উদ্ধার, আটক, দণ্ড",
+      "url": "https://www.ittefaq.com.bd/774381/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%9B%E0%A7%9F-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%9F%E0%A6%95",
+      "published_at": null,
+      "summary": "জাতীয় সংসদ নির্বাচন ও গণভোটের আগের দিন বুধবার ছয় জেলায় জামায়াতে ইসলামী ও বিএনপির কয়েকজন নেতা-কর্মীর কাছ থেকে বড় অঙ্কের টাকা উদ্ধার, আটক এবং একাধিক ক্ষেত্রে দণ্ড দেওয়ার ঘটনা ঘটেছে। নীলফামারী, পটুয়াখালী, লক্ষ্মীপুর, কুমিল্লা, জামালপুর, শরীয়তপুর ও সিরাজগঞ্জে এসব ঘটনা ঘটে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/2a6e8db1077b16971cde97a2c1e02e8e-698d0e358233a.jpg"
+    },
+    {
+      "headline": "নির্বাচনের আগের রাতে সেনা সদস্যদের জেরার মুখে হাসনাত আব্দুল্লাহ",
+      "url": "https://www.ittefaq.com.bd/774380/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87",
+      "published_at": null,
+      "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) দক্ষিণাঞ্চলের মুখ্য সমন্বয়ক হাসনাত আব্দুল্লাহ সেনা সদস্যদের জেরার মুখে পড়েছেন। বুধবার (১১ ফেব্রুয়ারি) রাতে সড়কে তাকে প্রশ্ন করতে দেখা যায়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/0b87bb8c614e63d66b72841b80236cee-698d065e72a3b.jpg"
+    },
+    {
+      "headline": "কুড়িগ্রামে এনসিপি প্রার্থীর গাড়িতে হামলার অভিযোগ, প্রার্থীর ভাইসহ আহত ৫",
+      "url": "https://www.ittefaq.com.bd/774379/%E0%A6%95%E0%A7%81%E0%A7%9C%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97",
+      "published_at": null,
+      "summary": "কুড়িগ্রাম সদর উপজেলার পলাশবাড়ি এলাকায় ১১ দলীয় নির্বাচনী ঐক্য সমর্থিত জাতীয় নাগরিক পার্টির (এনসিপি) প্রার্থী আতিকুর রহমানের ব্যবহৃত গাড়ি লক্ষ্য করে হামলার ঘটনা ঘটেছে। এতে তার ছোট ভাই আশিকুর রহমানসহ পাঁচজন আহত হয়েছেন। গুরুতর আহত আশিকুর রহমানকে রংপুর মেডিকেল কলেজ হাসপাতালে পাঠানো হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/54aea31266b2a51c431b3e8e0e31a998-698d04c3a42a9.jpg"
+    },
+    {
       "headline": "বরিশালে কেন্দ্র ত্যাগের অভিযোগে ২ সহকারী প্রিসাইডিং কর্মকর্তা বরখাস্ত",
       "url": "https://www.ittefaq.com.bd/774378/%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A7%A8-%E0%A6%B8%E0%A6%B9%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80",
       "published_at": null,
@@ -431,27 +452,6 @@
       "published_at": null,
       "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের আগে বিভিন্ন জরিপে বিএনপির সমর্থন জামায়াতের চেয়ে উল্লেখযোগ্যভাবে এগিয়ে দেখা যাচ্ছে। তবে জরিপভিত্তিক ব্যবধান ভিন্ন, যেমন ন্যারেটিভ/আইআইএলডির জরিপে দুই দলের ব্যবধান মাত্র ১.১ শতাংশ, আবার ইনোভিশনের সর্বশেষ প্যানেল স্টাডিতে বিএনপি ২১.৮ পয়েন্টে এগিয়ে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/249af9466a1defc92d918f4316b9a004-698ceb7f827c0.jpg"
-    },
-    {
-      "headline": "টাকাসহ আটক জামায়াত নেতাকে পরিবারের কাছে হস্তান্তর",
-      "url": "https://www.ittefaq.com.bd/774372/%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0",
-      "published_at": null,
-      "summary": "নীলফামারীর সৈয়দপুর বিমানবন্দরে নগদ ৭৪ লাখ টাকাসহ আটক হওয়া ঠাকুরগাঁও জেলা জামায়াতে ইসলামীর আমির বেলাল উদ্দিন প্রধানকে বর্তমানে পরিবারের জিম্মায় রাখা হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/9632abc885b77d717070292e66cdcfd7-698ced24d647a.jpg"
-    },
-    {
-      "headline": "বাগেরহাটে বিএনপি-জামায়াত সংঘর্ষ, আহত ৮",
-      "url": "https://www.ittefaq.com.bd/774370/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A7%AE",
-      "published_at": null,
-      "summary": "বাগেরহাটে ভোটারদের মধ্যে টাকা বিতরণের অভিযোগকে কেন্দ্র করে বিএনপি ও জামায়াতের নেতা-কর্মীদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে। এতে উভয় দলের অন্তত আটজন আহত হয়েছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/ea7150f0a35cc915b51a658468e6fc39-698ce7bae649e.jpg"
-    },
-    {
-      "headline": "নির্বাচন নিয়ে ভোটারের ১৩ প্রশ্ন ও উত্তর",
-      "url": "https://www.ittefaq.com.bd/774369/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%A9-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%A8-%E0%A6%93-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0",
-      "published_at": null,
-      "summary": "‘ভোটকেন্দ্র কোথায় এখনও সেটা জানি না। আগে তো বাসায় স্লিপ দিয়ে যেত। এবার কেউ ভোটার স্লিপ দিয়ে যায়নি। এমনিতে সবসময়ই লেডি দেহলভি স্কুলে ভোট দিয়েছি। হয়তো ওই কেন্দ্রই হবে। সমস্যা নাই, সার্চ করলেই জানা যাবে’ কথাগুলো বলছিলেন চাঁদপুরের একজন ভোটার সেলিনা আক্তার।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/11/06/36711b8ec48b15eb049a986c813a773b-690c9fdc6e81b.jpg"
     },
     {
       "headline": "বিএনপি ও জামায়াতের অর্থনৈতিক প্রতিশ্রুতিইচ্ছা, আদর্শ ও বাস্তবতার হিসাব",
@@ -585,6 +585,35 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "‘ট্রেনের টিকিট পাই নাই, দাঁড়ায়া যাইতে হইব’",
+      "url": "https://www.prothomalo.com/bangladesh/um5yis2qc8",
+      "published_at": "2026-02-11T16:34:46.607000+00:00",
+      "summary": "ভোট দিতে বাড়ি ফিরছে মানুষ, রেলস্টেশন ও বাস টার্মিনালে উপচে পড়া ভিড়।",
+      "image_s3_key": "prothomalo-bangla/2026-02-11/52z9u5bo/Train-Station.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-11/52z9u5bo/Train-Station.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "টাকাসহ আটক জামায়াত নেতাকে পরিবারের কাছে হস্তান্তর",
+      "url": "https://www.ittefaq.com.bd/774372/%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0",
+      "published_at": null,
+      "summary": "নীলফামারীর সৈয়দপুর বিমানবন্দরে নগদ ৭৪ লাখ টাকাসহ আটক হওয়া ঠাকুরগাঁও জেলা জামায়াতে ইসলামীর আমির বেলাল উদ্দিন প্রধানকে বর্তমানে পরিবারের জিম্মায় রাখা হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/9632abc885b77d717070292e66cdcfd7-698ced24d647a.jpg"
+    },
+    {
+      "headline": "বাগেরহাটে বিএনপি-জামায়াত সংঘর্ষ, আহত ৮",
+      "url": "https://www.ittefaq.com.bd/774370/%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A7%AE",
+      "published_at": null,
+      "summary": "বাগেরহাটে ভোটারদের মধ্যে টাকা বিতরণের অভিযোগকে কেন্দ্র করে বিএনপি ও জামায়াতের নেতা-কর্মীদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে। এতে উভয় দলের অন্তত আটজন আহত হয়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/ea7150f0a35cc915b51a658468e6fc39-698ce7bae649e.jpg"
+    },
+    {
+      "headline": "নির্বাচন নিয়ে ভোটারের ১৩ প্রশ্ন ও উত্তর",
+      "url": "https://www.ittefaq.com.bd/774369/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%A9-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%A8-%E0%A6%93-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0",
+      "published_at": null,
+      "summary": "‘ভোটকেন্দ্র কোথায় এখনও সেটা জানি না। আগে তো বাসায় স্লিপ দিয়ে যেত। এবার কেউ ভোটার স্লিপ দিয়ে যায়নি। এমনিতে সবসময়ই লেডি দেহলভি স্কুলে ভোট দিয়েছি। হয়তো ওই কেন্দ্রই হবে। সমস্যা নাই, সার্চ করলেই জানা যাবে’ কথাগুলো বলছিলেন চাঁদপুরের একজন ভোটার সেলিনা আক্তার।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/11/06/36711b8ec48b15eb049a986c813a773b-690c9fdc6e81b.jpg"
     },
     {
       "headline": "নির্বাচনে ফলাফল মেনে নেওয়ার আহ্বান সিইসির | নারীদের অংশগ্রহণ নিশ্চিত চায় জাতিসংঘ",
@@ -1463,34 +1492,6 @@
       "published_at": null,
       "summary": "গাইবান্ধা সদর উপজেলা থেকে নির্বাচনী সরঞ্জাম কেন্দ্রে নেওয়ার পথে একটি পিকআপ ভ্যান খাদে পড়ে তিনজন আনসার সদস্য আহত হয়েছেন। তবে ব্যালট বাক্সসহ নির্বাচনী সামগ্রী নিরাপদ রয়েছে বলে জানিয়েছে প্রশাসন।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/11/9172654b91276f6e78a8da1719db5f1d-698c96ee7573e.jpg"
-    },
-    {
-      "headline": "মব সৃষ্টি করে পুলিশে দেয়া জামায়াতের ৩ নেতা খালাস",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/qYzlIdnq3s8W/",
-      "published_at": null,
-      "summary": "মঙ্গলবার (১০ ফেব্রুয়ারি) রাত ১১টার দিকে শালবন এলাকায় ব্যানার ছিড়ে ফেলায় পরিদর্শন ও নির্বাচনী ক্যাম্প করার স্থান দেখতে গেলে শালবন ৬ নম্বর ওয়ার্ড জামায়াতের আমির লিটন, সহ-সভাপতি কামরুল হাসান ও অফিস সম্পাদক নুরুল হককে বিএনপির স্থানীয় ৩০-৪০ জন নেতা মব সৃষ্টি করে হামলা চালিয়ে আহত করেন। টাকা বিলির অভিযোগ তুলে টাকা গুঁজে দেয়ার চেষ্টা করেন এবং পেট্রোলের বোতল রেখে নাশকতার মিথ্যা নাটক সাজিয়ে হয়রানি করেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Khagrachari-Jamat-Leader.jpg"
-    },
-    {
-      "headline": "ভোটকেন্দ্র, ভোটার স্লিপ ও সিরিয়াল নম্বর জানবেন যেভাবে",
-      "url": "https://dailynayadiganta.com/bangladesh/national/ITKKQ6iSE8vL/",
-      "published_at": null,
-      "summary": "যেকোনো ভোটার হটলাইন নম্বর ১০৫ এ ফোন করে নিজের ভোটকেন্দ্র এবং ভোটার নম্বর বের করতে পারবেন।",
-      "image_url": "https://media.ndiganta.com/original_images/voter.JPG"
-    },
-    {
-      "headline": "মালয়েশিয়ায় পাচার হয়ে ডোবার মাছ লতা পাতা খেয়ে বাঁচার চেষ্টা ৩ বাংলাদেশীর, গ্রেফতার নিয়োগকর্তা",
-      "url": "https://dailynayadiganta.com/bangladesh/emigration/qhBgBky6HnBi/",
-      "published_at": null,
-      "summary": "মালয়েশিয়ার তেরেঙ্গানু রাজ্যে মানবপাচারকারীদের কবল থেকে বাংলাদেশের তিন নাগরিককে উদ্ধার করেছে দেশটির পুলিশ।",
-      "image_url": "https://media.ndiganta.com/original_images/Malysia-BD.jpg"
-    },
-    {
-      "headline": "ধানের শীষের বিলবোর্ড অপসারণ করলো প্রশাসন",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/aJeo8lu8BzD8/",
-      "published_at": null,
-      "summary": "দিনাজপুর সদরের ২২টি কেন্দ্রের জন্য ২২টি বিলবোর্ড  লাগানোর কথা। কিন্তু ধানের শীষে প্রার্থী নির্ধারিত সংখ্যার চেয়ে বেশি বিলবোর্ড লাগিয়েছিলেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Dinajpur-11-2-26.jpg"
     }
   ]
 }
