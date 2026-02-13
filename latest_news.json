@@ -1,6 +1,46 @@
 {
-  "fetched_at": "2026-02-13T19:43:54.315753+00:00",
+  "fetched_at": "2026-02-13T20:36:31.366401+00:00",
   "stories": [
+    {
+      "headline": "‘হ্যাঁ’ জিতেছে, সংস্কার প্রস্তাব বাস্তবায়নের \nপথ খুলল",
+      "url": "https://www.prothomalo.com/politics/w52s9k7ynv",
+      "published_at": "2026-02-13T20:22:40.530000+00:00",
+      "summary": "নির্বাচন কমিশনের তথ্য অনুযায়ী, গণভোটে ‘হ্যাঁ’ ভোট দিয়েছেন ৪ কোটি ৮২ লাখ ৬৬০ জন। অন্যদিকে ‘না’ ভোট দিয়েছেন ২ কোটি ২০ লাখ ৭১ হাজার ৭২৬‍ জন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-12/8jsj44yr/1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-12/8jsj44yr/1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "দুই যুগ পর নিরঙ্কুশ জয় নিয়ে সরকারে যাচ্ছে বিএনপি",
+      "url": "https://www.prothomalo.com/politics/sz0vq51ic3",
+      "published_at": "2026-02-13T20:15:38.511000+00:00",
+      "summary": "প্রধানমন্ত্রী হচ্ছেন তারেক রহমান। নতুন সরকারের সামনে নানা চ্যালেঞ্জ। ১৯৯৬ সালের পর এবারই বেশি সদস্য নিয়ে বিরোধী দল।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/mrba08mi/5.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/mrba08mi/5.PNG?auto=format,compress"
+    },
+    {
+      "headline": "কিছু আসনে ‘টার্গেট’ করে ফল পাল্টে দেওয়া হয়েছে: নাহিদ ইসলাম",
+      "url": "https://www.prothomalo.com/politics/new1uifmh9",
+      "published_at": "2026-02-13T19:53:59.750000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-02-13/ye6vqvzq/nahid.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/ye6vqvzq/nahid.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "তারেক রহমানকে বিভিন্ন দেশের নেতাদের অভিনন্দন, একসঙ্গে কাজ করার প্রত্যাশা",
+      "url": "https://www.prothomalo.com/bangladesh/vsmogqz058",
+      "published_at": "2026-02-13T19:53:00.285000+00:00",
+      "summary": "প্রতিবেশী দেশ ভারত ও পাকিস্তানের নেতারা অভিনন্দন জানিয়েছেন। যুক্তরাষ্ট্র, যুক্তরাজ্য ও চীনের পক্ষ থেকে একসঙ্গে কাজ করার প্রত্যাশা জানানো হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/a5g2vkxp/Tareq-Rahman.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/a5g2vkxp/Tareq-Rahman.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ঢাকা বিশ্ববিদ্যালয়ে মুক্তিযুদ্ধের চেতনায় ‘রাজাকারবিরোধী’ গানের অনুষ্ঠান",
+      "url": "https://www.prothomalo.com/bangladesh/4hlaoc6jjo",
+      "published_at": "2026-02-13T19:39:47.661000+00:00",
+      "summary": "অনুষ্ঠানের আয়োজকদের একজন বলেন, ‘বাংলাদেশের অনেক সংখ্যক মানুষ জামায়াতে ভোট দিলেও দেশের বেশির ভাগ মানুষ মুক্তিযুদ্ধকে ধারণ করে।’",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/b0wr61p2/DU-DANCE-MUSIC.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/b0wr61p2/DU-DANCE-MUSIC.jpg?auto=format,compress"
+    },
     {
       "headline": "তারেক রহমানকে শাহবাজ শরিফের ফোন, একসঙ্গে কাজ করার প্রত্যয়",
       "url": "https://www.prothomalo.com/bangladesh/ubsw01vuju",
@@ -34,7 +74,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-12/7woocd0h/GeminiGeneratedImagey83073y83073y830.png?auto=format,compress"
     },
     {
-      "headline": "প্রতিকার না পেলে ‘কঠিন সিদ্ধান্তের’ হুঁশিয়ারি জামায়াত আমিরের",
+      "headline": "কিছু আসনে কারচুপি ও ভোটের পর বিভিন্ন স্থানে হামলার অভিযোগ",
       "url": "https://www.prothomalo.com/politics/99cvxydz14",
       "published_at": "2026-02-13T18:15:13.794000+00:00",
       "summary": "‘বিভিন্ন জায়গায় ১১-দলীয় নির্বাচনী জোটের কর্মী, সমর্থক, এজেন্ট ও ভোটারদের বাড়িতে বাড়িতে হামলা হচ্ছে, ব্যক্তির ওপর হামলা হচ্ছে, আগুন ধরিয়ে দেওয়া হচ্ছে বাড়িতে,’ বলেছেন তিনি।",
@@ -258,54 +298,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/8ef0aty8/LiveTalk-Show.jpg?auto=format,compress"
     },
     {
-      "headline": "পররাষ্ট্রনীতি কোনো বিশেষ দেশকেন্দ্রিক হবে না: আমীর খসরু",
-      "url": "https://www.prothomalo.com/politics/36ymybi4st",
-      "published_at": "2026-02-13T15:55:19.027000+00:00",
-      "summary": "পররাষ্ট্রনীতি কোনো বিশেষ দেশকেন্দ্রিক হবে না, জাতীয় স্বার্থকেই অগ্রাধিকার দেওয়ার কথা বলেন আমীর খসরু মাহমুদ।",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/ewxmce1z/Amir-khasru.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/ewxmce1z/Amir-khasru.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "ক্ষমতা গ্রহণের পর বিএনপির অগ্রাধিকার তালিকায় কী কী থাকছে",
-      "url": "https://www.prothomalo.com/bangladesh/8bukciiv0x",
-      "published_at": "2026-02-13T15:52:34.453000+00:00",
-      "summary": "নির্বাচনে বিএনপির নিরঙ্কুশ জয়ের পর কথা হচ্ছে দলটির প্রতিশ্রুতির বাস্তবায়ন নিয়ে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/g9mf4ali/BNP-Menifesto.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/g9mf4ali/BNP-Menifesto.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বিএনপি নেতার উপস্থিতিতে পঞ্চগড়ে খুলে দেওয়া হলো আ.লীগ কার্যালয়",
-      "url": "https://www.prothomalo.com/video/bangladesh/5sr6sbkf91",
-      "published_at": "2026-02-13T15:50:08.309000+00:00",
-      "summary": "বিএনপি নেতার উপস্থিতিতে পঞ্চগড়ে খুলে দেওয়া হলো আ.লীগ কার্যালয়",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/d5nzh3re/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/d5nzh3re/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": " দুই দশক আগে আলোচিত নিখোঁজ শিশু মেডেলিন কীভাবে এল এপস্টিন নথিতে",
-      "url": "https://www.prothomalo.com/world/usa/4kgpxcotch",
-      "published_at": "2026-02-13T15:37:56.222000+00:00",
-      "summary": "২০০৭ সালের পর্তুগালের একটি রিসোর্ট থেকে নিখোঁজ হয় মেডেলিন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/wudkpd16/Madeleine-McCann.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/wudkpd16/Madeleine-McCann.jpg?auto=format,compress"
-    },
-    {
-      "headline": "তারেক রহমানের ‘বিজয়ের’ কথা যেভাবে স্থান পেয়েছে আন্তর্জাতিক গণমাধ্যমে",
-      "url": "https://www.prothomalo.com/video/bangladesh/p6jznxl7y4",
-      "published_at": "2026-02-13T15:35:50.636000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-13/vn7wenry/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/vn7wenry/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "নেত্রকোনা-৫ : উপজেলা ভাইস চেয়ারম্যান থেকে সংসদ সদস্য জামায়াতের মাছুম মোস্তফা",
-      "url": "https://www.prothomalo.com/bangladesh/district/c8gux1wayx",
-      "published_at": "2026-02-13T15:23:28.426000+00:00",
-      "summary": "নেত্রকোনা-৫ (পূর্বধলা) আসনে জামায়াতের প্রার্থী মাছুম মোস্তফাকে বেসরকারিভাবে বিজয়ী ঘোষণা করা হয়েছে। দাঁড়াপাল্লা প্রতীকে তিনি ভোট পেয়েছেন ৮২ হাজার ১৭৭ ভোট।",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/aprr19iz/WhatsApp_Image_2026_02_13_at_9_19_25_PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/aprr19iz/WhatsApp_Image_2026_02_13_at_9_19_25_PM.jpeg?auto=format,compress"
-    },
-    {
       "headline": "ময়মনসিংহে ধানের শীষের দাপট, তবে স্বতন্ত্র ও জামায়াতের চমক",
       "url": "https://www.bd-pratidin.com/election/2026/02/13/1216719",
       "published_at": "2026-02-13T23:46:12+06:00",
@@ -376,6 +368,27 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770988039-c3a1a1c603c4e3044e34c4c8b2593c24.jpg"
     },
     {
+      "headline": "বিএনপির বিজয়ে ঢাকা–দিল্লি সম্পর্কে নতুন শুরুর সম্ভাবনা দেখছে ভারত",
+      "url": "https://www.ittefaq.com.bd/774828/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E2%80%93%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B0",
+      "published_at": null,
+      "summary": "বাংলাদেশে জাতীয় নির্বাচনে নিরঙ্কুশ বিজয়ের মাধ্যমে বিএনপি সরকার গঠন করতে যাচ্ছে। এ ফলাফলকে ঘিরে সতর্ক আশাবাদ নিয়ে পরবর্তী পদক্ষেপ নিয়ে ভাবছে ভারত। নয়াদিল্লির দৃষ্টিতে, অন্তর্বর্তী সময় শেষ হয়ে নির্বাচিত সরকারের প্রত্যাবর্তন দ্বিপক্ষীয় সম্পর্কে নতুন করে অগ্রগতির সুযোগ তৈরি করেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/a4e38e58c5ccc50d054d6837a4443684-698f86656ccce.jpg"
+    },
+    {
+      "headline": "আগের নিয়মে চলছে না বিশ্ব: জার্মান চ্যান্সেলর মার্জ",
+      "url": "https://www.ittefaq.com.bd/774823/%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%AE%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC-%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9C",
+      "published_at": null,
+      "summary": "একসময় বিশ্বজুড়ে একটা শৃঙ্খলা ছিল। বিশেষত দ্বিতীয় বিশ্বযুদ্ধের পর ১৯৪৫ সাল থেকে যুক্তরাষ্ট্রের নেতৃত্বে যে আন্তর্জাতিক শৃঙ্খলা ও জোটভিত্তিক ব্যবস্থা গড়ে উঠেছিল, তা এখন ভাঙনের মুখে। আর এর জন্য দায়ী মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। সম্প্রতি মিউনিখ নিরাপত্তা প্রতিবেদন ২০২৬-এ এমন তথ্য উঠে এসেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/fa7ac202d15567f880bc8a4a960c6baf-698f7cf209e8e.jpg"
+    },
+    {
+      "headline": "এপস্টেইন-সম্পৃক্ততা, চট্টগ্রাম বন্দর নিয়ে আলোচিত সেই ডিপি ওয়ার্ল্ড প্রধানের পদত্যাগ",
+      "url": "https://www.ittefaq.com.bd/774822/%E0%A6%8F%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%83%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%A4%E0%A6%BE-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%BF%E0%A6%A4",
+      "published_at": null,
+      "summary": "দুবাইভিত্তিক বন্দর ও লজিস্টিকস কোম্পানি ডিপি ওয়ার্ল্ডের চেয়ারম্যান ও প্রধান নির্বাহী সুলতান আহমেদ বিন সুলাইয়েম পদত্যাগ করেছেন। দণ্ডিত যৌন অপরাধী জেফরি এপস্টেইনের সঙ্গে দীর্ঘদিনের ইমেইল যোগাযোগ প্রকাশ্যে আসার পর চাপের মুখে তিনি সরে দাঁড়ান বলে শুক্রবার (১৩ ফেব্রুয়ারি) জানায় ব্রিটিশ সংবাদমাধ্যম বিবিসি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/1917195f20f301fc70cc5969d37e7ed3-698f7cc0be16e.jpg"
+    },
+    {
       "headline": "নির্বাচনে সুস্পষ্টভাবে কারচুপি হয়েছে: নাহিদ ইসলাম",
       "url": "https://www.ittefaq.com.bd/774821/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%9A%E0%A7%81%E0%A6%AA%E0%A6%BF-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A6-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE",
       "published_at": null,
@@ -425,27 +438,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/2c0fde348c3711d89f8f330d30c558f1-698f6566eb231.jpg"
     },
     {
-      "headline": "আইসিসির আমন্ত্রণে সাড়া দিচ্ছেন না বিসিবি সভাপতি",
-      "url": "https://www.ittefaq.com.bd/774814/%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A7%9C%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF",
-      "published_at": null,
-      "summary": "আইসিসির আমন্ত্রণে সাড়া দিয়ে কলম্বোয় যাচ্ছেন না বিসিবি সভাপতি আমিনুল ইসলাম বুলবুল। তাই প্রেমাদাসায় উপস্থিত থেকে ভারত-পাকিস্তানের ক্রিকেট ম্যাচ দেখা হচ্ছে না তার। দুই চিরপ্রতিদ্বন্দ্বীর লড়াই দেখতে না যাওয়ার কথা আজকের পত্রিকাকে নিশ্চিত করেছেন বিসিবি সভাপতি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/af03829086ccecf95c07338e11f3f4fe-698f632f018d4.jpg"
-    },
-    {
-      "headline": "১৬ ফেব্রুয়ারি নবনির্বাচিত এমপিদের শপথ পড়াতে পারেন প্রধান বিচারপতি",
-      "url": "https://www.ittefaq.com.bd/774813/%E0%A7%A7%E0%A7%AC-%E0%A6%AB%E0%A7%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%AA%E0%A6%A5-%E0%A6%AA%E0%A7%9C%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8",
-      "published_at": null,
-      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে নির্বাচিত সংসদ সদস্যদের শপথ অনুষ্ঠান আগামী ১৬ ফেব্রুয়ারি অনুষ্ঠিত হতে পারে। শপথ বাক্য পাঠ করাবেন প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী। জাতীয় সংসদ সচিবালয় সূত্রে এ তথ্য জানা গেছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/2c98836b7f2805eabeccabbf779ec94b-698f627892002.jpg"
-    },
-    {
-      "headline": "দ্বীপ হাতিয়ার মানুষ আনন্দের বদলে ভীত-সন্ত্রস্ত: হান্নান মাসউদ",
-      "url": "https://www.ittefaq.com.bd/774812/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%AA-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A7%80%E0%A6%A4-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4",
-      "published_at": null,
-      "summary": "দ্বীপ হাতিয়ার মানুষ আনন্দের বদলে ভীত-সন্ত্রস্ত বলে মন্তব্য করেছেন জাতীয় নাগরিক পার্টির (এনসিপি) সিনিয়র যুগ্ম মুখ্য সমন্বয়ক ও নোয়াখালী-৬ (হাতিয়া) আসনের বেসরকারিভাবে নির্বাচিত সংসদ সদস্য আবদুল হান্নান মাসউদ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/d5c8b9f6ca71b442e51372645cf6302b-698f5f372644b.jpg"
-    },
-    {
       "headline": "নতুন সরকারের শপথ কে পড়াবেন",
       "url": "https://dailynayadiganta.com/bangladesh/national/uYHVoLEvd1BZ/",
       "published_at": null,
@@ -458,6 +450,13 @@
       "published_at": null,
       "summary": "সুশাসন কেবল সরকারের সদিচ্ছার ফল নয়; এটি রাষ্ট্রীয় \r\nপ্রতিষ্ঠান, রাজনৈতিক শক্তি ও নাগরিক সমাজের যৌথ প্রয়াসের মধ্য দিয়ে বিকশিত হয়। আইনের শাসন, স্বচ্ছতা, রাজনৈতিক স্থিতিশীলতা, দুর্নীতিমুক্ত প্রশাসন, স্বাধীন প্রতিষ্ঠান এবং সচেতন নাগরিক- এই উপাদানগুলো সমন্বিত হলেই একটি রাষ্ট্র টেকসই সুশাসনের পথে অগ্রসর হতে পারে। নাগরিক হিসেবে আমাদের দায়িত্ব শুধু ভোট দেয়ার মধ্যেই সীমাবদ্ধ নয়; বরং মতপ্রকাশের স্বাধীনতা চর্চা, আইন মেনে চলা, রাষ্ট্রীয় কর্মকাণ্ডে নজরদারি \r\nএবং অন্যায়ের বিরুদ্ধে সামাজিক প্রতিরোধ গড়ে তোলার \r\nমাধ্যমেই আমরা সুশাসনের ভিত্তিকে সুদৃঢ় করতে পারি। \r\nআধুনিক কল্যাণ রাষ্ট্রের দর্শন মূলত এখানেই নিহিত",
       "image_url": "https://media.ndiganta.com/images/abdul-latif-masum_ujb.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "হিন্দু ভাইয়েরা বীরদর্পে ঘুরে বেড়াবেন : নায়াব ইউসুফ",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/X6wEhKRwe6KR/",
+      "published_at": null,
+      "summary": "বার ভোটে আমি জয়ী হয়েছি। সকলে মিলে আমরা একটি সুন্দর জনপদ গড়ে তুলতে চাই, যেখানে নেতা এবং কর্মীর কোনো ভেদাভেদ থাকবে না।",
+      "image_url": "https://media.ndiganta.com/original_images/Faridpur-132.jpg"
     },
     {
       "headline": "মুন্সীগঞ্জে বিএনপির হামলায় স্বতন্ত্র প্রার্থীর সমর্থক নিহত",
@@ -509,13 +508,6 @@
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "নির্বাচিত সরকারকে সহযোগিতা করবে এনসিপি : আসিফ মাহমুদ",
-      "url": "https://dailynayadiganta.com/printed-edition/o2N6xkU2suwo/",
-      "published_at": null,
-      "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মুখপাত্র ও কেন্দ্রীয় নির্বাচন পরিচালনা কমিটির চেয়ারম্যান আসিফ মাহমুদ সজীব ভূঁইয়া বলেছেন, শতভাগ সুষ্ঠু ও নিরপেক্ষ নির্বাচনের মাধ্যমে যে সরকার গঠিত হবে, এনসিপি গণতন্ত্রের প্রতি শ্রদ্ধা থেকে তাকে সহযোগিতা করবে। রাজধানীতে দলের কেন্দ্রীয় কার্যালয়ে গতকাল ভোরে অনুষ্ঠিত এক জরুরি সংবাদ সম্মেলনে তিনি বলেন, আমরা পরিষ্কারভাবে বলতে চাই, সুষ্ঠু নির্বাচনের মাধ্যমে যেই ক্ষমতায় আসুক, জাতীয় নাগরিক পার্টি গণতন্ত্রের স্বার্থে সরকার ও রাষ্ট্র পরিচালনায় সহযোগিতা করবে। তবে, নির্বাচন অবশ্যই শতভাগ সুষ্ঠু হতে হবে।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
       "headline": "মিষ্টি নিয়ে জামায়াত নেতার বাসভবনে নবনির্বাচিত এমপি কিরন",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/3JnGTLejKzTk/",
       "published_at": null,
@@ -544,17 +536,10 @@
       "image_url": "https://media.ndiganta.com/original_images/shibir-logo.jpg"
     },
     {
-      "headline": "ঢাকা-৯ আসনে জয়ী বিএনপির হাবিবুর রশিদ",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/EH6klH1Ilorh/",
-      "published_at": null,
-      "summary": "‘জাবেদ মিয়ার তুলনায় ৫৭ হাজার ৭৫২ ভোট, তাসনিম জারার তুলনায় ৬৬ হাজার ৫২৮ ভোট বেশি পেয়ে বিজয়ী হয়েছেন হাবিবুর রশিদ। জাবেদ মিয়া ও তাসনিম জারার যৌথ ভোটের চেয়ে হাবিবুর রশিদ বেশি ভোট পেয়েছেন।’",
-      "image_url": "https://media.ndiganta.com/original_images/Habibur_Rashid.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - February 14, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "অবশেষে বিপুল ভোটের ব্যবধানে পরাজিত হয়ে আম-ছালা দুটোই হারিয়েছেন হবিগঞ্জ-১ আসনের আলোচিত বিএনপির সাবেক এমপি শেখ সুজাত মিয়া। ...",
+      "summary": "রাজধানীতে অজ্ঞাতনামা ভারতীয় মোবাইল নাম্বার থেকে হত্যার হুমকি পাওয়ার অভিযোগে শাহবাগ থানায় সাধারণ ডায়েরি (জিডি) করেছেন ঢাকা বিশ্ববিদ্যালয় ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -563,6 +548,89 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "পররাষ্ট্রনীতি কোনো বিশেষ দেশকেন্দ্রিক হবে না: আমীর খসরু",
+      "url": "https://www.prothomalo.com/politics/36ymybi4st",
+      "published_at": "2026-02-13T15:55:19.027000+00:00",
+      "summary": "পররাষ্ট্রনীতি কোনো বিশেষ দেশকেন্দ্রিক হবে না, জাতীয় স্বার্থকেই অগ্রাধিকার দেওয়ার কথা বলেন আমীর খসরু মাহমুদ।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/ewxmce1z/Amir-khasru.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/ewxmce1z/Amir-khasru.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "ক্ষমতা গ্রহণের পর বিএনপির অগ্রাধিকার তালিকায় কী কী থাকছে",
+      "url": "https://www.prothomalo.com/bangladesh/8bukciiv0x",
+      "published_at": "2026-02-13T15:52:34.453000+00:00",
+      "summary": "নির্বাচনে বিএনপির নিরঙ্কুশ জয়ের পর কথা হচ্ছে দলটির প্রতিশ্রুতির বাস্তবায়ন নিয়ে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/g9mf4ali/BNP-Menifesto.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/g9mf4ali/BNP-Menifesto.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বিএনপি নেতার উপস্থিতিতে পঞ্চগড়ে খুলে দেওয়া হলো আ.লীগ কার্যালয়",
+      "url": "https://www.prothomalo.com/video/bangladesh/5sr6sbkf91",
+      "published_at": "2026-02-13T15:50:08.309000+00:00",
+      "summary": "বিএনপি নেতার উপস্থিতিতে পঞ্চগড়ে খুলে দেওয়া হলো আ.লীগ কার্যালয়",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/d5nzh3re/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/d5nzh3re/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": " দুই দশক আগে আলোচিত নিখোঁজ শিশু মেডেলিন কীভাবে এল এপস্টিন নথিতে",
+      "url": "https://www.prothomalo.com/world/usa/4kgpxcotch",
+      "published_at": "2026-02-13T15:37:56.222000+00:00",
+      "summary": "২০০৭ সালের পর্তুগালের একটি রিসোর্ট থেকে নিখোঁজ হয় মেডেলিন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/wudkpd16/Madeleine-McCann.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/wudkpd16/Madeleine-McCann.jpg?auto=format,compress"
+    },
+    {
+      "headline": "তারেক রহমানের ‘বিজয়ের’ কথা যেভাবে স্থান পেয়েছে আন্তর্জাতিক গণমাধ্যমে",
+      "url": "https://www.prothomalo.com/video/bangladesh/p6jznxl7y4",
+      "published_at": "2026-02-13T15:35:50.636000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-02-13/vn7wenry/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/vn7wenry/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "নেত্রকোনা-৫ : উপজেলা ভাইস চেয়ারম্যান থেকে সংসদ সদস্য জামায়াতের মাছুম মোস্তফা",
+      "url": "https://www.prothomalo.com/bangladesh/district/c8gux1wayx",
+      "published_at": "2026-02-13T15:23:28.426000+00:00",
+      "summary": "নেত্রকোনা-৫ (পূর্বধলা) আসনে জামায়াতের প্রার্থী মাছুম মোস্তফাকে বেসরকারিভাবে বিজয়ী ঘোষণা করা হয়েছে। দাঁড়াপাল্লা প্রতীকে তিনি ভোট পেয়েছেন ৮২ হাজার ১৭৭ ভোট।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/aprr19iz/WhatsApp_Image_2026_02_13_at_9_19_25_PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/aprr19iz/WhatsApp_Image_2026_02_13_at_9_19_25_PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "আইসিসির আমন্ত্রণে সাড়া দিচ্ছেন না বিসিবি সভাপতি",
+      "url": "https://www.ittefaq.com.bd/774814/%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A7%9C%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF",
+      "published_at": null,
+      "summary": "আইসিসির আমন্ত্রণে সাড়া দিয়ে কলম্বোয় যাচ্ছেন না বিসিবি সভাপতি আমিনুল ইসলাম বুলবুল। তাই প্রেমাদাসায় উপস্থিত থেকে ভারত-পাকিস্তানের ক্রিকেট ম্যাচ দেখা হচ্ছে না তার। দুই চিরপ্রতিদ্বন্দ্বীর লড়াই দেখতে না যাওয়ার কথা আজকের পত্রিকাকে নিশ্চিত করেছেন বিসিবি সভাপতি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/af03829086ccecf95c07338e11f3f4fe-698f632f018d4.jpg"
+    },
+    {
+      "headline": "১৬ ফেব্রুয়ারি নবনির্বাচিত এমপিদের শপথ পড়াতে পারেন প্রধান বিচারপতি",
+      "url": "https://www.ittefaq.com.bd/774813/%E0%A7%A7%E0%A7%AC-%E0%A6%AB%E0%A7%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%BF%E0%A6%A4-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%AA%E0%A6%A5-%E0%A6%AA%E0%A7%9C%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8",
+      "published_at": null,
+      "summary": "আসন্ন ত্রয়োদশ জাতীয় সংসদ নির্বাচনে নির্বাচিত সংসদ সদস্যদের শপথ অনুষ্ঠান আগামী ১৬ ফেব্রুয়ারি অনুষ্ঠিত হতে পারে। শপথ বাক্য পাঠ করাবেন প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী। জাতীয় সংসদ সচিবালয় সূত্রে এ তথ্য জানা গেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/2c98836b7f2805eabeccabbf779ec94b-698f627892002.jpg"
+    },
+    {
+      "headline": "দ্বীপ হাতিয়ার মানুষ আনন্দের বদলে ভীত-সন্ত্রস্ত: হান্নান মাসউদ",
+      "url": "https://www.ittefaq.com.bd/774812/%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%AA-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A7%80%E0%A6%A4-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4",
+      "published_at": null,
+      "summary": "দ্বীপ হাতিয়ার মানুষ আনন্দের বদলে ভীত-সন্ত্রস্ত বলে মন্তব্য করেছেন জাতীয় নাগরিক পার্টির (এনসিপি) সিনিয়র যুগ্ম মুখ্য সমন্বয়ক ও নোয়াখালী-৬ (হাতিয়া) আসনের বেসরকারিভাবে নির্বাচিত সংসদ সদস্য আবদুল হান্নান মাসউদ।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/d5c8b9f6ca71b442e51372645cf6302b-698f5f372644b.jpg"
+    },
+    {
+      "headline": "নির্বাচিত সরকারকে সহযোগিতা করবে এনসিপি : আসিফ মাহমুদ",
+      "url": "https://dailynayadiganta.com/printed-edition/o2N6xkU2suwo/",
+      "published_at": null,
+      "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মুখপাত্র ও কেন্দ্রীয় নির্বাচন পরিচালনা কমিটির চেয়ারম্যান আসিফ মাহমুদ সজীব ভূঁইয়া বলেছেন, শতভাগ সুষ্ঠু ও নিরপেক্ষ নির্বাচনের মাধ্যমে যে সরকার গঠিত হবে, এনসিপি গণতন্ত্রের প্রতি শ্রদ্ধা থেকে তাকে সহযোগিতা করবে। রাজধানীতে দলের কেন্দ্রীয় কার্যালয়ে গতকাল ভোরে অনুষ্ঠিত এক জরুরি সংবাদ সম্মেলনে তিনি বলেন, আমরা পরিষ্কারভাবে বলতে চাই, সুষ্ঠু নির্বাচনের মাধ্যমে যেই ক্ষমতায় আসুক, জাতীয় নাগরিক পার্টি গণতন্ত্রের স্বার্থে সরকার ও রাষ্ট্র পরিচালনায় সহযোগিতা করবে। তবে, নির্বাচন অবশ্যই শতভাগ সুষ্ঠু হতে হবে।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "ঢাকা-৯ আসনে জয়ী বিএনপির হাবিবুর রশিদ",
+      "url": "https://dailynayadiganta.com/bangladesh/politics/EH6klH1Ilorh/",
+      "published_at": null,
+      "summary": "‘জাবেদ মিয়ার তুলনায় ৫৭ হাজার ৭৫২ ভোট, তাসনিম জারার তুলনায় ৬৬ হাজার ৫২৮ ভোট বেশি পেয়ে বিজয়ী হয়েছেন হাবিবুর রশিদ। জাবেদ মিয়া ও তাসনিম জারার যৌথ ভোটের চেয়ে হাবিবুর রশিদ বেশি ভোট পেয়েছেন।’",
+      "image_url": "https://media.ndiganta.com/original_images/Habibur_Rashid.jpg"
     },
     {
       "headline": "চার কারণে রুমিন ফারহানার বড় জয়",
@@ -1420,73 +1488,6 @@
       "published_at": null,
       "summary": "‘বাংলাদেশের মানুষ জানে, আমি রাজনীতি করি জনগণের জন্য, নিজের জন্য নয়। ক্ষমতা, অর্থ, বিত্ত-বৈভব, সম্পদ আমার কাছে মূল্যহীন।’",
       "image_url": "https://media.ndiganta.com/original_images/Moin_pBF9hkr.jpg"
-    },
-    {
-      "headline": "গফরগাঁওয়ে চাচার হাতে ভাতিজা খুন",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/CEXOGB9lFvpL/",
-      "published_at": null,
-      "summary": "চাচা সুজনের (৩২) সাথে ভাতিজা স্বাধীনের মুরগি নিয়ে কথা কাটাকাটি হয়। একপর্যায়ে সুজন তার ভাতিজা স্বাধীনকে চাকু দিয়ে পেটের মধ্যে ছুরিকাঘাত করে। আশঙ্কাজনক অবস্থায় স্বজনরা স্বাধীনকে উদ্ধার করে উপজেলা স্বাস্থ্য কমপ্লেক্সে নিয়ে গেলে সেখানকার কর্তব্যরত চিকিৎসকরা তাকে পর্যবেক্ষণ করে মৃত ঘোষণা করে।",
-      "image_url": "https://media.ndiganta.com/original_images/Murder_eoJAdRn.jpg"
-    },
-    {
-      "headline": "নির্বাচনে ব্যাপক কারচুপির অভিযোগ জামায়াত প্রার্থী হাজী এনায়েতের",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/tU86a61DVdrR/",
-      "published_at": null,
-      "summary": "নির্বাচনে ব্যাপক কারচুপির অভিযোগ তুলেছে ঢাকা-৭ আসনে জামায়াতে ইসলামীর প্রার্থী হাজী মোহাম্মদ এনায়েত উল্ল্যাহ।",
-      "image_url": "https://media.ndiganta.com/original_images/Enayetullah.jpg"
-    },
-    {
-      "headline": "ভোটকেন্দ্রে হামলায় আহতদের দেখতে গেলেন জামায়াত প্রার্থী মানিক",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/scrQ4ppPqAIe/",
-      "published_at": null,
-      "summary": "বৃহস্পতিবার (১২ ফেব্রুয়ারি) দাগনভূঞা উপজেলার রাজাপুর ইউনিয়নের কোরাইশ মুন্সী মাদরাসা কেন্দ্রে  জামায়াতে ইসলামীর কর্মীদের ওপর বিএনপির নেতাকর্মীরা হামলা চালায়। এতে জামায়াতের কয়েকজন নেতাকর্মী আহত হন।",
-      "image_url": "https://media.ndiganta.com/original_images/Manik-feni.jpg"
-    },
-    {
-      "headline": "তারেক রহমানকে মালদ্বীপের প্রেসিডেন্টের অভিনন্দন",
-      "url": "https://dailynayadiganta.com/bangladesh/diplomacy/VOSenuQKOYmG/",
-      "published_at": null,
-      "summary": "শুক্রবার (১৩ ফেব্রুয়ারি) নিজের ভেরিফাইড ফেসবুক অ্যাকাউন্টে দেয়া এক বার্তায় তিনি এ অভিনন্দন জানান।",
-      "image_url": "https://media.ndiganta.com/original_images/Tarique-Muizzu.jpg"
-    },
-    {
-      "headline": "১৯৬ আসনে প্রার্থী দিয়ে জাতীয় পার্টির ফলাফল শূন্য",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/SIcpQHDiPtFv/",
-      "published_at": null,
-      "summary": "সারাদেশে ১৯৬ আসনে প্রার্থী দিয়ে কোথাও জয়ের মুখ দেখেননি লাঙ্গল প্রতীকের প্রার্থীরা। দল প্রতিষ্ঠার চার দশকেও এতটা ভরাডুবির মুখে পড়তে হয়নি জাতীয় পার্টিকে।",
-      "image_url": "https://media.ndiganta.com/original_images/JAPA.jpg"
-    },
-    {
-      "headline": "সাফল্য সংহত করতে চাই সহনশীলতা ও সহিষ্ণুতা",
-      "url": "https://www.prothomalo.com/opinion/column/mkqv8541lx",
-      "published_at": "2026-02-13T12:12:12.737000+00:00",
-      "summary": "ধৈর্যের আরবি শব্দ ‘সবর’, আর সহিষ্ণুতার আরবি ‘হিলম’। এ দুই শব্দের মধ্যে সূক্ষ্ম পার্থক্য রয়েছে। ",
-      "image_s3_key": "prothomalo-bangla/2022-12/138e0285-d64a-4f13-9706-4a8ef7c6d9fa/2229b38ceed9c8b0d87047746353577e_01_12_16_ILLUS_DHORMO.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-12/138e0285-d64a-4f13-9706-4a8ef7c6d9fa/2229b38ceed9c8b0d87047746353577e_01_12_16_ILLUS_DHORMO.jpg?auto=format,compress"
-    },
-    {
-      "headline": "জয় নিশ্চিত বুঝতে পেরেই বিএনপি থেকে যোগাযোগ করেছে: রুমিন ফারহানা",
-      "url": "https://www.prothomalo.com/video/bangladesh/w6dl9l4sdl",
-      "published_at": "2026-02-13T12:10:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-13/40opnli0/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/40opnli0/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ভোটের জয়–পরাজয় বিশ্লেষণ",
-      "url": "https://www.prothomalo.com/video/bangladesh/kszjze7jt8",
-      "published_at": "2026-02-13T12:09:14.790000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-13/qa4cjr4f/LiveTalk-Show-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/qa4cjr4f/LiveTalk-Show-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আমি একা এমপি হইনি, আমার পাঁচ লাখ ভোটার এমপি হয়েছেন",
-      "url": "https://www.prothomalo.com/politics/cmqmod20se",
-      "published_at": "2026-02-13T12:08:54.947000+00:00",
-      "summary": "ব্রাহ্মণবাড়িয়া-২ আসনে স্বতন্ত্র প্রার্থী হিসেবে রুমিন ফারহানা ৩৮ হাজার ভোটের ব্যবধানে বিজয়ী হয়েছেন। তিনি বিএনপি থেকে মনোনয়ন না পেয়ে স্বতন্ত্র নির্বাচন করেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/lf8bzwkj/rumin-farhana.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/lf8bzwkj/rumin-farhana.jpeg?auto=format,compress"
     }
   ]
 }
