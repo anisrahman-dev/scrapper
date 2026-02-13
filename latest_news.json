@@ -1,13 +1,85 @@
 {
-  "fetched_at": "2026-02-13T09:45:03.193448+00:00",
+  "fetched_at": "2026-02-13T10:40:56.030585+00:00",
   "stories": [
     {
-      "headline": "গণভোট ৬০.২৬ শতাংশ, জিতেছে ‘হ্যাঁ’,  ২৯৭ আসনে কোন দল কত পেল",
+      "headline": "টু্ইটের পরে তারেক রহমানকে ফোন করে অভিনন্দন জানালেন নরেন্দ্র মোদি",
       "url": "https://www.prothomalo.com/bangladesh/fjyhgqm76s",
-      "published_at": "2026-02-13T09:34:31.977000+00:00",
+      "published_at": "2026-02-13T10:28:22.703000+00:00",
       "summary": "ভোটগ্রহণ শেষে চলে ফলাফল ঘোষণা। সরকার গঠনের ম্যাজিক ফিগার ১৫১",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/gp2yd2h2/WhatsApp-Image-2026-02-13-at-14.36.25.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/gp2yd2h2/WhatsApp-Image-2026-02-13-at-14.36.25.jpeg?auto=format,compress"
+      "image_s3_key": "prothomalo-bangla/2026-02-13/gbak0611/Untitled-3.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/gbak0611/Untitled-3.jpg?auto=format,compress"
+    },
+    {
+      "headline": "দেশের ৯ম পুরুষ প্রধানমন্ত্রী হতে যাচ্ছেন তারেক রহমান",
+      "url": "https://www.prothomalo.com/video/bangladesh/4080t38zj4",
+      "published_at": "2026-02-13T10:27:28.827000+00:00",
+      "summary": "দেশের ৯ম পুরুষ প্রধানমন্ত্রী হতে যাচ্ছেন তারেক রহমান",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/ke4mt6q0/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/ke4mt6q0/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "টাঙ্গাইলে সংসদ সদস্য নির্বাচিত হলেন আপন দুই ভাই",
+      "url": "https://www.prothomalo.com/bangladesh/district/hz3twltt64",
+      "published_at": "2026-02-13T10:22:54.184000+00:00",
+      "summary": "আবদুস সালাম পিন্টু টাঙ্গাইল-২ (গোপালপুর-ভূঞাপুর) আসন থেকে এবং সুলতান সালাউদ্দিন টুকু টাঙ্গাইল-৫ (সদর) আসন থেকে নির্বাচিত হয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/j1gnjrw4/TangailDH056720260213FBIMG1770968710560.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/j1gnjrw4/TangailDH056720260213FBIMG1770968710560.jpg?auto=format,compress"
+    },
+    {
+      "headline": "তারেক রহমানকে মালয়েশিয়ার প্রধানমন্ত্রী আনোয়ার ইব্রাহিমের অভিনন্দন",
+      "url": "https://www.prothomalo.com/bangladesh/ut5m3xpxna",
+      "published_at": "2026-02-13T10:22:39.371000+00:00",
+      "summary": "ফেসবুকে এক পোস্টে আনোয়ার ইব্রাহিম বলেন, অত্যন্ত চ্যালেঞ্জের মধ্যে থাকার পরও বাংলাদেশের জনগণ ব্যালটের মাধ্যমে একটি স্পষ্ট রায় দিয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/owznxotm/Malyasia.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/owznxotm/Malyasia.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বিএনপির সামনে যত চ্যালেঞ্জ",
+      "url": "https://www.prothomalo.com/video/bangladesh/wox9lkia4o",
+      "published_at": "2026-02-13T10:20:59.235000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-02-13/nou80pja/LiveTalk-Show.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/nou80pja/LiveTalk-Show.jpg?auto=format,compress"
+    },
+    {
+      "headline": "গণভোটে  ‘হ্যাঁ’ জিতেছে, কী কী বদল আসবে",
+      "url": "https://www.prothomalo.com/politics/aoed8hn7ew",
+      "published_at": "2026-02-13T10:00:53.499000+00:00",
+      "summary": "‘হ্যাঁ’ ভোট দিয়েছেন ৪ কোটি ৮০ লাখ ৭৪ হাজার ৪২৯ জন। ‘না’ ভোট দিয়েছেন ২ কোটি ২৫ লাখ ৬৫ হাজার ৬২৭ জন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/bt7fxb36/Untitled-12.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/bt7fxb36/Untitled-12.jpg?auto=format,compress"
+    },
+    {
+      "headline": "কেন টয়া-শাওন ফেব্রুয়ারিতে বিবাহবার্ষিকী উদ্‌যাপন করতে পারেন না",
+      "url": "https://www.prothomalo.com/ampstories/lifestyle/relation/ekt2ro8ups",
+      "published_at": "2026-02-13T10:00:00+00:00",
+      "summary": "দেশীয় শাড়ি ও সাজপোশাকেই ভালোবাসা দিবস ও ফাল্গুন উদ্যাপন করবেন টয়া–শাওন দম্পতি। ফেব্রুয়ারি মাস এই দম্পতির জীবনে আরও একটি কারণে বিশেষ।",
+      "image_s3_key": "prothomalo-bangla/2026-02-11/g8uz6s3r/IMG_0187.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-11/g8uz6s3r/IMG_0187.jpg?auto=format,compress"
+    },
+    {
+      "headline": "প্রেমের গুঞ্জনের পর ধানুশের সঙ্গে বিয়ে? ম্রুণাল বললেন...",
+      "url": "https://www.prothomalo.com/entertainment/bollywood/vyg0vte8ls",
+      "published_at": "2026-02-13T10:00:00+00:00",
+      "summary": "দক্ষিণ ভারতীয় তারকা ধানুশ ও বলিউড অভিনেত্রী ম্রুণাল ঠাকুর—দুজনকে ঘিরে প্রেমের গুঞ্জন চলছে বেশ কিছুদিন ধরেই। ",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/vz8o2buo/mrunalthakur175180488536707278904568532132658966811.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/vz8o2buo/mrunalthakur175180488536707278904568532132658966811.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সীমান্তে পাহারা দেবে রোবট",
+      "url": "https://www.prothomalo.com/technology/ht1buywooq",
+      "published_at": "2026-02-13T10:00:00+00:00",
+      "summary": "সীমান্ত পাহারায় এবার মানুষের বদলে দেখা যাবে রোবট।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/c6u10xci/Robot.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/c6u10xci/Robot.png?auto=format,compress"
+    },
+    {
+      "headline": "তারেক রহমান বললেন, ‘যে ভালোবাসা দেখিয়েছেন, তার জন্য কৃতজ্ঞ’",
+      "url": "https://www.prothomalo.com/bangladesh/osizpk1ulh",
+      "published_at": "2026-02-13T09:40:41.079000+00:00",
+      "summary": "পবিত্র জুমার নামাজ আদায় করতে যাচ্ছিলেন তারেক রহমান। কিছুক্ষণ গাড়ি থামিয়ে তিনি উপস্থিত জনতার সঙ্গে কথা বলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-13/jimwxp32/Taraq-Namaz.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/jimwxp32/Taraq-Namaz.jpeg?auto=format,compress"
     },
     {
       "headline": "চাঁদপুর-২ আসনে ১৫৫ ভোটকেন্দ্রের সব কটিতেই জিতেছেন বিএনপি প্রার্থী",
@@ -70,8 +142,8 @@
       "url": "https://www.prothomalo.com/sports/cricket/d7igzsvqgq",
       "published_at": "2026-02-13T09:06:56.617000+00:00",
       "summary": "কলম্বোয় টি–টুয়েন্টি বিশ্বকাপে অস্ট্রেলিয়াকে হারিয়ে চমকে দিয়েছে জিম্বাবুয়ে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/shp540qc/065700-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/shp540qc/065700-01-02.jpg?auto=format,compress"
+      "image_s3_key": "prothomalo-bangla/2026-02-13/qnxsaftd/065987-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/qnxsaftd/065987-01-02.jpg?auto=format,compress"
     },
     {
       "headline": "সিরাজগঞ্জের পাঁচটি আসনে বিএনপি, একটিতে জামায়াতের প্রার্থীর বিজয়",
@@ -202,7 +274,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/xkxsf2nl/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "সংখ্যালঘু সম্প্রদায়ের চার প্রার্থীর জয়",
+      "headline": "দুই বেয়াইসহ সংখ্যালঘু সম্প্রদায়ের চার প্রার্থীর জয়",
       "url": "https://www.prothomalo.com/politics/pdf4xyb438",
       "published_at": "2026-02-13T07:33:12.372000+00:00",
       "summary": "২৯৯টি সংসদীয় আসনে বৃহস্পতিবার ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পাশাপাশি গণভোটের ভোট গ্রহণ সম্পন্ন হয়। এর মধ্যে ২৭০টির প্রাপ্ত বেসরকারি ফলাফল বিশ্লেষণে এই তথ্য পাওয়া গেছে।",
@@ -248,6 +320,237 @@
       "summary": "বিএনপির প্রার্থী দলের আন্তর্জাতিক সম্পর্ক বিষয়ক সম্পাদক মুহম্মদ নওশাদ জমিরের কাছে ৮ হাজার ১২০ ভোটের ব্যবধানে পরাজিত হন সারজিস আলম।",
       "image_s3_key": "prothomalo-bangla/2026-02-13/usln092m/PanchagarhDH080120260213Screenshot20260213032302Gallery.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/usln092m/PanchagarhDH080120260213Screenshot20260213032302Gallery.jpg?auto=format,compress"
+    },
+    {
+      "headline": "৩৫ বছর পর বাবার আসন উদ্ধার করলেন ছেলে",
+      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216605",
+      "published_at": "2026-02-13T16:08:53+06:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ময়মনসিংহ-৯ (নান্দাইল) আসনে নির্বাচিত হয়েছেন বিএনপি মনোনীত প্রার্থী ইয়াসের খান চৌধুরী।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770977332-a78593eb9861aa86e3fea671f07f413a.jpg"
+    },
+    {
+      "headline": "২৯৭ আসনের আনুষ্ঠানিক ফল ঘোষণা",
+      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216599",
+      "published_at": "2026-02-13T15:50:20+06:00",
+      "summary": "২৯৭ আসনের আনুষ্ঠানিক ফলাফল ঘোষণা করেছে নির্বাচন কমিশন। শুক্রবার এই ফলাফল ঘোষণা করা হয়। চট্টগ্রাম-২ ও চট্টগ্রাম-৪ আসনের ফলাফল ঘোষণা স্থগিত রাখা হয়েছে। নির্বাচন কমিশন জানিয়েছে, এই দুটি আসনের ফলাফল পরে ঘোষণা করা হবে। আর একটি আসনে প্রার্থীর মৃত্যুর কারণে নির্বাচন হয়নি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770976218-d6e8cde5ade66646b8c1b40919214b01.jpg"
+    },
+    {
+      "headline": "১৫ ফেব্রুয়ারির মধ্যে সরকার গঠন করবে বিএনপি : মির্জা ফখরুল",
+      "url": "https://www.bd-pratidin.com/national/2026/02/13/1216594",
+      "published_at": "2026-02-13T15:18:59+06:00",
+      "summary": "আগামী ১৫ ফেব্রুয়ারির (রবিবার) মধ্যে বিএনপি সরকার গঠন করবে বলে জানিয়েছেন দলটির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770975872-824b2e698ef0095077af6061942f77f4.jpg"
+    },
+    {
+      "headline": "হবিগঞ্জে ১৬ প্রার্থীর জামানত বাজেয়াপ্ত",
+      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216591",
+      "published_at": "2026-02-13T15:07:48+06:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে হবিগঞ্জ জেলায় ১৬ জন প্রার্থীর জামানত বাজেয়াপ্ত হয়েছে। যারা প্রদত্ত ভোটের সাড়ে ১২ শতাংশের বা আট ভাগের এক ভাগের কম পেয়েছেন তাদেরই জামানত বাজেয়াপ্ত হবে বলে জানিয়েছে নির্বাচন কমিশন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770973667-6a8b4b0d13884ca6cf7287167084363a.jpg"
+    },
+    {
+      "headline": "বিজয়ী নওশাদকে অভিনন্দন জানালেন সার্জিস",
+      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216587",
+      "published_at": "2026-02-13T14:33:12+06:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে পঞ্চগড়-১ আসনে পরাজয়ের পর রাজনৈতিক সৌহার্দ্যের বার্তা দিলেন জাতীয় নাগরিক পার্টির (এনসিপি) প্রার্থী সারজিস আলম। ফলাফল ঘোষণার পর তিনি বিজয়ী প্রার্থী নওশাদ জমিরকে অভিনন্দন জানান।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770971591-605af2c3bf8ca5059a5b8fdf112475b1.jpg"
+    },
+    {
+      "headline": "কত ভোট পেলেন আমজনতার তারেক",
+      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216583",
+      "published_at": "2026-02-13T13:49:15+06:00",
+      "summary": "আমজনতা দলের সদস্য সচিব ও ঢাকা-১২ আসনের প্রার্থী মো. তারেক রহমান প্রজাপতি প্রতীকে মাত্র ১ হাজার ৪৪ ভোট পেয়েছেন। এ আসনে বেসরকারিভাবে বিজয়ী হয়েছেন জামায়াতের সাইফুল আলম। দাঁড়িপাল্লা প্রতীকে ২২ হাজার ১৮০ ভোটের ব্যবধানে জয় পান তিনি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770968953-9bf4989c13221da464270f151d4201b2.jpg"
+    },
+    {
+      "headline": "ঢাকা-১২ আসনে তিন সাইফুলের লড়াইয়ে জয়ী জামায়াতের প্রার্থী",
+      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216571",
+      "published_at": "2026-02-13T12:42:36+06:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ঢাকা-১২ আসনের প্রাথমিক ফলাফলে বিজয়ী হয়েছেন জামায়াতের প্রার্থী মো. সাইফুল আলম। এ আসনে বিএনপি জোটের প্রার্থী ও বিদ্রোহী স্বতন্ত্র প্রার্থীকে হারিয়েছেন তিনি। তিনি দাঁড়িপাল্লা প্রতীকে পেয়েছেন মোট ৫৩ হাজার ৭৭৩ ভোট।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770964955-648e9f8f8b612f356495c19a21fcb7dd.jpg"
+    },
+    {
+      "headline": "ক্যাম্পবেলটাউনে একুশে মেলা ও আন্তর্জাতিক বইমেলা নিয়ে সংবাদ সম্মেলন",
+      "url": "https://www.bd-pratidin.com/probash-potro/2026/02/13/1216569",
+      "published_at": "2026-02-13T12:32:29+06:00",
+      "summary": "অস্ট্রেলিয়ার সিডনি শহরের Campbelltown-এ আন্তর্জাতিক মাতৃভাষা দিবস উপলক্ষে “একুশে মেলা ও আন্তর্জাতিক বইমেলা ২০২৬” আয়োজনকে সামনে রেখে এক তথ্যবহুল সংবাদ সম্মেলন অনুষ্ঠিত হয়েছে। “Preserve and Conserve Mother Languages” প্রতিপাদ্যকে ধারণ করে আয়োজিত এ সম্মেলন ভাষা, সংস্কৃতি ও ঐতিহ্য সংরক্ষণে প্রবাসীদের এক তাৎপর্যপূর্ণ উদ্যোগ হিসেবে বিবেচিত হচ্ছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770964347-fdf5e329089e2b71b45d68212a112c04.jpg"
+    },
+    {
+      "headline": "নির্বাচনে ভোট পড়েছে ৫৯ দশমিক ৪৪ শতাংশ : ইসি",
+      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216565",
+      "published_at": "2026-02-13T12:05:21+06:00",
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ৫৯ দশমিক ৪৪ শতাংশ ও গণভোটে ৫০ দশমিক ২৬ শতাংশ ভোট পড়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770962720-bda98438c2f09ec7bb9a7212dcba0d1e.jpg"
+    },
+    {
+      "headline": "জনগণ তাদের কল্যাণের দায়িত্ব তারেক রহমানকে দিয়েছে: নজরুল ইসলাম",
+      "url": "https://www.bd-pratidin.com/current-politics/2026/02/13/1216564",
+      "published_at": "2026-02-13T12:05:08+06:00",
+      "summary": "বিএনপির স্থায়ী কমিটির সদস্য নজরুল ইসলাম খান বলেছেন, জনগণ তাদের কল্যাণের দায়িত্ব আমি মনে করি বিএনপি ও বিএনপির নেতা তারেক রহমানকে দিয়েছেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770962706-a4dba9b67cf54c1c9da7b162dfbc1b74.jpg"
+    },
+    {
+      "headline": "রংপুরে ‘লাঙলের জানাজা’র ছবি সামাজিক মাধ্যমে ভাইরাল",
+      "url": "https://www.ittefaq.com.bd/774736/%E0%A6%B0%E0%A6%82%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E2%80%98%E0%A6%B2%E0%A6%BE%E0%A6%99%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%BE%E2%80%99%E0%A6%B0-%E0%A6%9B%E0%A6%AC%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B2",
+      "published_at": null,
+      "summary": "জাতীয় পার্টির (জাপা) দুর্গ হিসেবে পরিচিত রংপুরে এবার একটিও আসন পায়নি দলটি। এমনকি সারা দেশে ১৯৬ আসনে প্রার্থী দিয়ে কোথাও জয়ের মুখ দেখেননি লাঙল প্রতীকের প্রার্থীরা। প্রতিষ্ঠার চার দশকের বেশি সময়ে এমন ভরাডুবির মুখে পড়তে হয়নি জাতীয় পার্টিকে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/e533e34c88e79d998e5dd52780ba5473-698efd85e8ace.jpg"
+    },
+    {
+      "headline": "বিজয়ী প্রার্থীদের মধ্যে সবচেয়ে কম বয়সী হান্নান মাসউদ, সবচেয়ে বেশি মোশাররফ",
+      "url": "https://www.ittefaq.com.bd/774734/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F%E0%A7%80-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A6%AE-%E0%A6%AC%E0%A7%9F%E0%A6%B8%E0%A7%80-%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের ফলাফলে এবার সংসদে দেখা যাচ্ছে প্রজন্মের বিস্তৃত প্রতিনিধিত্ব। নির্বাচনে বিজয়ী প্রার্থীদের মধ্যে সবচেয়ে কম বয়সী জাতীয় নাগরিক পার্টির (এনসিপি) নেতা আবদুল হান্নান মাসউদ আর সবচেয়ে বেশি বয়সী বিএনপির খন্দকার মোশাররফ হোসেন। নির্বাচনের বেসরকারি ফলাফল ও প্রার্থীদের হলফনামা বিশ্লেষণে এ তথ্য জানা যায়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/4493227a3afbfa1eac0ba74ea66e9e46-698ef74c7fee3.jpg"
+    },
+    {
+      "headline": "পোস্টাল ভোটে ভরাডুবি বিএনপির দুই প্রার্থীর, জয় জামায়াত জোটের",
+      "url": "https://www.ittefaq.com.bd/774733/%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B2-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87-%E0%A6%AD%E0%A6%B0%E0%A6%BE%E0%A6%A1%E0%A7%81%E0%A6%AC%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0-%E0%A6%9C%E0%A7%9F",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে সিরাজগঞ্জ-৪ ও মাদারীপুর-১ আসনে বিএনপি জোটের প্রার্থীরা এগিয়ে থেকেও পোস্টাল ভোটের কারণে হেরে গেছেন। পোস্টাল ভোটের ওপর ভর করে জয় পেয়েছেন জামায়াত জোটের দুই প্রার্থী।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/000be5b7cecbbdf1f4b802b1ab6c77b1-698ef755d94a9.jpg"
+    },
+    {
+      "headline": "জামানত হারালেন নাগরিক ঐক্যের মাহমুদুর রহমান মান্না",
+      "url": "https://www.ittefaq.com.bd/774732/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%90%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%B9%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বগুড়া-২ (শিবগঞ্জ) আসনে হেভিওয়েট প্রার্থী হিসেবে আলোচনায় থাকলেও শেষ পর্যন্ত নিজের জামানত রক্ষা করতে পারেননি নাগরিক ঐক্যের সভাপতি মাহমুদুর রহমান মান্না। নির্বাচনে তিনি কেটলি প্রতীকে ভোট পেয়েছেন মাত্র ৩ হাজার ৪২৬ ভোট।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/dab6a2f4cdf9e33d9c48c83f7829b037-698ef5297296f.jpg"
+    },
+    {
+      "headline": "অস্ট্রেলিয়াকে হারিয়ে বিশ্বকাপে জিম্বাবুয়ের চমক",
+      "url": "https://www.ittefaq.com.bd/774731/%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%9C%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%AE%E0%A6%95",
+      "published_at": null,
+      "summary": "চলমান টি-টোয়েন্টি বিশ্বকাপে চমক দেখিয়েছে জিম্বাবুয়ে। সাবেক বিশ্বচ্যাম্পিয়ন অস্ট্রেলিয়াকে হারিয়েছে সিকান্দার রাজার দল। নিজেদের দ্বিতীয় ম্যাচে অজিদের ২৩ রানে হারিয়েছে জিম্বাবুয়ে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/1c3524a371e95f4b3cc2aaf8fc82253e-698ef3e8a26f2.jpg"
+    },
+    {
+      "headline": "ঠাকুরগাঁওয়ে ৩৭ বছর পর নৌকার ঘাঁটিতে বিএনপির বিজয়",
+      "url": "https://www.ittefaq.com.bd/774730/%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93%E0%A7%9F%E0%A7%87-%E0%A7%A9%E0%A7%AD-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A8%E0%A7%8C%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F",
+      "published_at": null,
+      "summary": "দীর্ঘ ৩৭ বছর পর ঠাকুরগাঁও-২ (বালিয়াডাঙ্গী-হরিপুর) আসনে বিএনপি জয় লাভ করেছে। আওয়ামী লীগের শক্ত ঘাঁটি হিসেবে পরিচিত এবং ‘মিনি গোপালগঞ্জ’ নামে আলোচিত এ আসনে বিএনপি মনোনীত প্রার্থী, ড্যাবের সাবেক মহাসচিব ডা. আব্দুস সালাম জয়ী হয়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/2de04027a590f8df49535092d7a9c2b5-698ef011b6898.jpg"
+    },
+    {
+      "headline": "ঢাকা-১৬ আসনে বিএনপির আমিনুল ইসলামকে হারিয়ে দাঁড়িপাল্লার জয়",
+      "url": "https://www.ittefaq.com.bd/774729/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A7%A7%E0%A7%AC-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%81%E0%A6%B2-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87",
+      "published_at": null,
+      "summary": "রাজধানীর গুরুত্বপূর্ণ নির্বাচনী এলাকা ঢাকা-১৬ আসনে রুদ্ধশ্বাস লড়াইয়ের পর বেসরকারি ফলাফলে জয়লাভ করেছেন বাংলাদেশ জামায়াতে ইসলামীর প্রার্থী মো. আব্দুল বাতেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/f745cb34f017502a1e3e2dad6ccd1f5c-698eefec580e6.jpg"
+    },
+    {
+      "headline": "বিএনপির চার আসনে সংখ্যালঘু প্রার্থীর জয়",
+      "url": "https://www.ittefaq.com.bd/774728/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%98%E0%A7%81-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0-%E0%A6%9C%E0%A7%9F",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ধর্মীয় ও জাতিগত সংখ্যালঘু সম্প্রদায়ের বিএনপির চার জন মনোনীত প্রার্থী জয়লাভ করেছেন।বৃহস্পতিবার (১২ ফেব্রুয়ারি) ২৯৯টি সংসদীয় আসনে ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পাশাপাশি গণভোটের ভোট গ্রহণ সম্পন্ন হয়। এর মধ্যে ২৭০টির প্রাপ্ত বেসরকারি ফলাফল বিশ্লেষণে এ তথ্য পাওয়া গেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/b7653df2a2a62362ce9b3ffa6a4c478a-698eefe51ff76.jpg"
+    },
+    {
+      "headline": "যুদ্ধের দামামা, মধ্যপ্রাচ্যে আরও বিমানবাহী রণতরি পাঠাচ্ছে যুক্তরাষ্ট্র",
+      "url": "https://www.ittefaq.com.bd/774727/%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%BE-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%B0%E0%A6%A3%E0%A6%A4%E0%A6%B0%E0%A6%BF",
+      "published_at": null,
+      "summary": "মধ্যপ্রাচ্যজুড়ে বইছে যুদ্ধের দামামা। যেকোনো সময় ইরানের সঙ্গে যুক্তরাষ্ট্রের যুদ্ধ শুরু হতে পারে। এই সংঘাতে যুক্তরাষ্ট্রের হয়ে যোগ দিতে পারে ইসরায়েলও। এমন পরিস্থিতির মধ্যে মধ্যপ্রাচ্যে মোতায়েনের জন্য আরেকটি বিমানবাহী রণতরি প্রস্তুত করছে মার্কিন বাহিনী। খবর আল জাজিরার।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/3b35404be355c9535eea7ebd2c5a35e2-698eef18ce1b2.jpg"
+    },
+    {
+      "headline": "৩৫ বছর পর বাবার আসন উদ্ধার করলেন বিএনপির ইয়াসের খান চৌধুরী",
+      "url": "https://www.ittefaq.com.bd/774726/%E0%A7%A9%E0%A7%AB-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%A8-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ময়মনসিংহ-৯ (নান্দাইল) আসনে ধানের শীষ প্রতীকে ৮৫ হাজার ৪৭৩ ভোট পেয়ে বেসরকারিভাবে নির্বাচিত হয়েছেন বিএনপির মনোনীত প্রার্থী ইয়াসের খান চৌধুরী। তার নিকটতম প্রতিদ্বন্দ্বী জামায়াত নেতৃত্বাধীন জোটের বাংলাদেশ ডেভেলপমেন্ট পার্টির (বিডিপি) চেয়ারম্যান এ কে এম আনোয়ার হোসেন চান।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/aa495386e2cbca96b746f2c6f4b0645a-698eed5f313c2.jpg"
+    },
+    {
+      "headline": "নতুন সরকারের শপথ কে পড়াবেন",
+      "url": "https://dailynayadiganta.com/bangladesh/national/uYHVoLEvd1BZ/",
+      "published_at": null,
+      "summary": "সংবিধানের ১৪৮ অনুচ্ছেদ অনুযায়ী সরকারি গেজেটে ফল প্রকাশের তিন দিনের মধ্যে নবনির্বাচিত সদস্যদের শপথ হবে; রাষ্ট্রপতি মনোনীত ব্যক্তি শপথ পড়াবেন, না হলে প্রধান নির্বাচন কমিশনার পড়াবেন।",
+      "image_url": "https://media.ndiganta.com/images/songsod-vobon.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "সুশাসন প্রতিষ্ঠায় নাগরিক দায়িত্ব",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/TQuSKdjpEurU/",
+      "published_at": null,
+      "summary": "সুশাসন কেবল সরকারের সদিচ্ছার ফল নয়; এটি রাষ্ট্রীয় \r\nপ্রতিষ্ঠান, রাজনৈতিক শক্তি ও নাগরিক সমাজের যৌথ প্রয়াসের মধ্য দিয়ে বিকশিত হয়। আইনের শাসন, স্বচ্ছতা, রাজনৈতিক স্থিতিশীলতা, দুর্নীতিমুক্ত প্রশাসন, স্বাধীন প্রতিষ্ঠান এবং সচেতন নাগরিক- এই উপাদানগুলো সমন্বিত হলেই একটি রাষ্ট্র টেকসই সুশাসনের পথে অগ্রসর হতে পারে। নাগরিক হিসেবে আমাদের দায়িত্ব শুধু ভোট দেয়ার মধ্যেই সীমাবদ্ধ নয়; বরং মতপ্রকাশের স্বাধীনতা চর্চা, আইন মেনে চলা, রাষ্ট্রীয় কর্মকাণ্ডে নজরদারি \r\nএবং অন্যায়ের বিরুদ্ধে সামাজিক প্রতিরোধ গড়ে তোলার \r\nমাধ্যমেই আমরা সুশাসনের ভিত্তিকে সুদৃঢ় করতে পারি। \r\nআধুনিক কল্যাণ রাষ্ট্রের দর্শন মূলত এখানেই নিহিত",
+      "image_url": "https://media.ndiganta.com/images/abdul-latif-masum_ujb.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "বিএনপি ২০৯ ও জামায়াত ৬৮টি আসনে জয়ী : ইসি সচিব",
+      "url": "https://dailynayadiganta.com/bangladesh/national/TIHFrdV6KmVc/",
+      "published_at": null,
+      "summary": "শুক্রবার বেলা আড়াইটার দিকে আগারগাঁওয়ে নির্বাচন কমিশন ভবনে ইসি সচিব আখতার আহমেদ এই ফলাফল ঘোষণা করেন।",
+      "image_url": "https://media.ndiganta.com/original_images/EC-secy_gXf0rkq.jpg"
+    },
+    {
+      "headline": "অস্ট্রেলিয়াকে হারিয়ে জিম্বাবুয়ের ইতিহাস",
+      "url": "https://dailynayadiganta.com/sports/cricket/nPwDSpdXNv2Y/",
+      "published_at": null,
+      "summary": "বাকিদের কেউ দুই অঙ্কে যেতে পারেননি। ৪ উইকেটে ১০৬ থেকে ১৪৬ পর্যন্ত যেতেই অল আউট হয় অজিরা। জিম্বাবুয়ের হয়ে ব্লেসিং মুজারাবানি ৪ ও ব্রাড ইভান্স নেন ৩ উইকেট।",
+      "image_url": "https://media.ndiganta.com/original_images/T20-World-Cup_rcs70iA.jpg"
+    },
+    {
+      "headline": "নির্বাচনে গণভোট পড়েছে ৬০.২৬ শতাংশ, ‘হ্যাঁ’র ব্যবধান দ্বিগুণ",
+      "url": "https://dailynayadiganta.com/bangladesh/national/ctRr70Sj9Epb/",
+      "published_at": null,
+      "summary": "শুক্রবার রাজধানীর আগারগাঁওয়ে নির্বাচন ভবনে সাংবাদিকদের ব্রিফিংকালে নির্বাচন কমিশনের জ্যেষ্ঠ সচিব আখতার আহমেদ এ তথ্য জানান।",
+      "image_url": "https://media.ndiganta.com/original_images/Referendum.jpg"
+    },
+    {
+      "headline": "বাগেরহাট-১ আসনে ইতিহাস গড়লেন জামায়াতের মশিউর রহমান",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/tcD2v4Rzjutf/",
+      "published_at": null,
+      "summary": "‘দেশের মানুষ জুলুমের জাঁতাকল থেকে মুক্তি পেয়েছে। আল্লাহ রাব্বুল আলামিন আমাকে মানুষের খেদমত করার সুযোগ দিয়েছেন। আমি আমানতদারী ও দায়িত্বশীলতার স্থান থেকে কাজ করব। আমার কাছে সংখ্যাগুরু আর সংখ্যালঘু কোনো বিভেদ নেই। সকলের একটাই পরিচয় আমরা বাংলাদেশী।’",
+      "image_url": "https://media.ndiganta.com/original_images/Bagerhat-1-Jamaat.jpg"
+    },
+    {
+      "headline": "সর্বাধিক ভোটের ব্যবধানে জয় বিএনপির শরীফুল আলমের",
+      "url": "https://dailynayadiganta.com/bangladesh/politics/I4kVeau6YQ26/",
+      "published_at": null,
+      "summary": "কিশোরগঞ্জ-৬ আসনে শরীফুল আলম ১,৪৩,০৬৪ ভোটের ব্যবধানে জয় পেয়ে সর্বাধিক ব্যবধানে বিজয়ী হয়েছেন। তিনি এই জয়ের জন্য এলাকাবাসী ও তারেক রহমানকে কৃতজ্ঞতা জানান।",
+      "image_url": "https://media.ndiganta.com/original_images/Shariful_hGIpymM.jpg"
+    },
+    {
+      "headline": "নির্বাচনে জিতে হাঁস কোলে নিয়ে সংবাদ সম্মেলনে রুমিন ফারহানা",
+      "url": "https://dailynayadiganta.com/bangladesh/politics/OusoNjCL8D7d/",
+      "published_at": null,
+      "summary": "আমার জার্নিটা কঠিন ছিল। কিন্তু আমার চেয়েও কঠিন জার্নি ছিল আমার নেতাকর্মীদের। আমি যদি আজকে না জিততাম, আমায় হয়তো আবার ঢাকায় ফিরে যেতে হতো। আমি আমার পেশায় ফিরে যেতাম। আমার এতগুলো কর্মী, সবাই বহিষ্কার হয়ে গেছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Rumin.JPG"
+    },
+    {
+      "headline": "ফরিদপুরে ৬৩ ভাগ ভোটার ‘হ্যাঁ’ এর পক্ষে ভোট দিয়েছেন",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/LpoWnqHnQD6v/",
+      "published_at": null,
+      "summary": "এ নির্বাচনে মোট ভোটারের শতকরা ৬২.৫৮ ভাগ মানুষ ভোট প্রদান করেছে। যার মধ্যে বৈধ ভোটের ওপর ভিত্তি করে ‘হ্যাঁ’ ভোটের হার ৬২.৯৫ পার্সেন্ট আর ‘না’ ভোটের হার ৩৭.০৫ পার্সেন্ট।",
+      "image_url": "https://media.ndiganta.com/original_images/Yes-vote--hy-bht.jpg"
+    },
+    {
+      "headline": "এই বিজয় গণতন্ত্রের, এই বিজয় বাংলাদেশের : মাহদী আমিন",
+      "url": "https://dailynayadiganta.com/bangladesh/politics/B2byqAwZK1uV/",
+      "published_at": null,
+      "summary": "আমরা বিশ্বাস করি জনগণের যে আস্থা, বিশ্বাস ভালোবাসা আমাদের নেতা তারেক রহমান পেয়েছেন, তিনি প্রধানমন্ত্রী হিসেবে প্রতিটি মানুষের অধিকার ও স্বাধীনতা নিশ্চিত করবেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Mahdi_lYCSaNG.JPG"
+    },
+    {
+      "headline": "টিকাটুলি মোড়ে গাড়ির ধাক্কায় যুবক নিহত",
+      "url": "https://dailynayadiganta.com/bangladesh/accidents/bFEyYgppvDwU/",
+      "published_at": null,
+      "summary": "রাজধানীর টিকাটুলিতে গাড়ির ধাক্কায় এইচ এম ওমর ফারুক (৩৫) নিহত হয়েছেন। পুলিশ জানায়, লাশ মর্গে রাখা হয়েছে এবং তার কাছে স্বর্ণের চেইন ও ৩৪,৪৮০ টাকা পাওয়া গেছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Road-Acciden-Symbol_9WFIBsX.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - February 13, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বড় ব্যবধানে জয় পেয়েছেন বিএনপি চেয়ারম্যানের উপদেষ্টা মিজানুর রহমান মিনু। তিনি ধানের শীষ প্রতীক নিয়ে রাজশাহী-২ ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
     },
     {
       "headline": "দুই–তৃতীয়াংশ আসন পেয়ে দুই যুগ পর সরকারে যাচ্ছে বিএনপি",
@@ -322,62 +625,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/e5fkvq29/WhatsApp-Image-2026-02-13-at-9.40.22-AM.jpeg?auto=format,compress"
     },
     {
-      "headline": "১৫ ফেব্রুয়ারির মধ্যে সরকার গঠন করবে বিএনপি : মির্জা ফখরুল",
-      "url": "https://www.bd-pratidin.com/national/2026/02/13/1216594",
-      "published_at": "2026-02-13T15:18:59+06:00",
-      "summary": "আগামী ১৫ ফেব্রুয়ারির (রবিবার) মধ্যে বিএনপি সরকার গঠন করবে বলে জানিয়েছেন দলটির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770974338-0b4b05b529b2994f6158c3b4cda2e934.jpg"
-    },
-    {
-      "headline": "হবিগঞ্জে ১৬ প্রার্থীর জামানত বাজেয়াপ্ত",
-      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216591",
-      "published_at": "2026-02-13T15:07:48+06:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে হবিগঞ্জ জেলায় ১৬ জন প্রার্থীর জামানত বাজেয়াপ্ত হয়েছে। যারা প্রদত্ত ভোটের সাড়ে ১২ শতাংশের বা আট ভাগের এক ভাগের কম পেয়েছেন তাদেরই জামানত বাজেয়াপ্ত হবে বলে জানিয়েছে নির্বাচন কমিশন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770973667-6a8b4b0d13884ca6cf7287167084363a.jpg"
-    },
-    {
-      "headline": "বিজয়ী নওশাদকে অভিনন্দন জানালেন সার্জিস",
-      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216587",
-      "published_at": "2026-02-13T14:33:12+06:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে পঞ্চগড়-১ আসনে পরাজয়ের পর রাজনৈতিক সৌহার্দ্যের বার্তা দিলেন জাতীয় নাগরিক পার্টির (এনসিপি) প্রার্থী সারজিস আলম। ফলাফল ঘোষণার পর তিনি বিজয়ী প্রার্থী নওশাদ জমিরকে অভিনন্দন জানান।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770971591-605af2c3bf8ca5059a5b8fdf112475b1.jpg"
-    },
-    {
-      "headline": "কত ভোট পেলেন আমজনতার তারেক",
-      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216583",
-      "published_at": "2026-02-13T13:49:15+06:00",
-      "summary": "আমজনতা দলের সদস্য সচিব ও ঢাকা-১২ আসনের প্রার্থী মো. তারেক রহমান প্রজাপতি প্রতীকে মাত্র ১ হাজার ৪৪ ভোট পেয়েছেন। এ আসনে বেসরকারিভাবে বিজয়ী হয়েছেন জামায়াতের সাইফুল আলম। দাঁড়িপাল্লা প্রতীকে ২২ হাজার ১৮০ ভোটের ব্যবধানে জয় পান তিনি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770968953-9bf4989c13221da464270f151d4201b2.jpg"
-    },
-    {
-      "headline": "ঢাকা-১২ আসনে তিন সাইফুলের লড়াইয়ে জয়ী জামায়াতের প্রার্থী",
-      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216571",
-      "published_at": "2026-02-13T12:42:36+06:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ঢাকা-১২ আসনের প্রাথমিক ফলাফলে বিজয়ী হয়েছেন জামায়াতের প্রার্থী মো. সাইফুল আলম। এ আসনে বিএনপি জোটের প্রার্থী ও বিদ্রোহী স্বতন্ত্র প্রার্থীকে হারিয়েছেন তিনি। তিনি দাঁড়িপাল্লা প্রতীকে পেয়েছেন মোট ৫৩ হাজার ৭৭৩ ভোট।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770964955-648e9f8f8b612f356495c19a21fcb7dd.jpg"
-    },
-    {
-      "headline": "ক্যাম্পবেলটাউনে একুশে মেলা ও আন্তর্জাতিক বইমেলা নিয়ে সংবাদ সম্মেলন",
-      "url": "https://www.bd-pratidin.com/probash-potro/2026/02/13/1216569",
-      "published_at": "2026-02-13T12:32:29+06:00",
-      "summary": "অস্ট্রেলিয়ার সিডনি শহরের Campbelltown-এ আন্তর্জাতিক মাতৃভাষা দিবস উপলক্ষে “একুশে মেলা ও আন্তর্জাতিক বইমেলা ২০২৬” আয়োজনকে সামনে রেখে এক তথ্যবহুল সংবাদ সম্মেলন অনুষ্ঠিত হয়েছে। “Preserve and Conserve Mother Languages” প্রতিপাদ্যকে ধারণ করে আয়োজিত এ সম্মেলন ভাষা, সংস্কৃতি ও ঐতিহ্য সংরক্ষণে প্রবাসীদের এক তাৎপর্যপূর্ণ উদ্যোগ হিসেবে বিবেচিত হচ্ছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770964347-fdf5e329089e2b71b45d68212a112c04.jpg"
-    },
-    {
-      "headline": "নির্বাচনে ভোট পড়েছে ৫৯ দশমিক ৪৪ শতাংশ : ইসি",
-      "url": "https://www.bd-pratidin.com/election/2026/02/13/1216565",
-      "published_at": "2026-02-13T12:05:21+06:00",
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোটে ৫৯ দশমিক ৪৪ শতাংশ ভোট পড়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770962720-bda98438c2f09ec7bb9a7212dcba0d1e.jpg"
-    },
-    {
-      "headline": "জনগণ তাদের কল্যাণের দায়িত্ব তারেক রহমানকে দিয়েছে: নজরুল ইসলাম",
-      "url": "https://www.bd-pratidin.com/current-politics/2026/02/13/1216564",
-      "published_at": "2026-02-13T12:05:08+06:00",
-      "summary": "বিএনপির স্থায়ী কমিটির সদস্য নজরুল ইসলাম খান বলেছেন, জনগণ তাদের কল্যাণের দায়িত্ব আমি মনে করি বিএনপি ও বিএনপির নেতা তারেক রহমানকে দিয়েছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770962706-a4dba9b67cf54c1c9da7b162dfbc1b74.jpg"
-    },
-    {
       "headline": "নিজামীপুত্র ব্যারিস্টার মোমেন বিপুল ভোটে বিজয়ী",
       "url": "https://www.bd-pratidin.com/election/2026/02/13/1216559",
       "published_at": "2026-02-13T11:06:03+06:00",
@@ -390,41 +637,6 @@
       "published_at": "2026-02-13T10:58:27+06:00",
       "summary": "সিরাজগঞ্জের ৬টি সংসদীয় আসনে ৬টিতেই হ্যাঁ ভোট বিজয়ী হয়েছে। এর মধ্যে সিরাজগঞ্জ-১ (সদরের ৪টি ইউনিয়ন ও কাজিপুর উপজেলা আসনে হ্যাঁ ভোটে পড়েছে ১ লাখ ৪৩ হাজার ৯ শত ৩৯ ভোট। না ভোট পড়েছে ৬৬ হাজার ৮৫ ভোট।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/13/og/1770958706-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
-    },
-    {
-      "headline": "ঠাকুরগাঁওয়ে ৩৭ বছর পর নৌকার ঘাঁটিতে বিএনপির বিজয়",
-      "url": "https://www.ittefaq.com.bd/774730/%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93%E0%A7%9F%E0%A7%87-%E0%A7%A9%E0%A7%AD-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A8%E0%A7%8C%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F",
-      "published_at": null,
-      "summary": "দীর্ঘ ৩৭ বছর পর ঠাকুরগাঁও-২ (বালিয়াডাঙ্গী-হরিপুর) আসনে বিএনপি জয় লাভ করেছে। আওয়ামী লীগের শক্ত ঘাঁটি হিসেবে পরিচিত এবং ‘মিনি গোপালগঞ্জ’ নামে আলোচিত এ আসনে বিএনপি মনোনীত প্রার্থী, ড্যাবের সাবেক মহাসচিব ডা. আব্দুস সালাম জয়ী হয়েছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/2de04027a590f8df49535092d7a9c2b5-698ef011b6898.jpg"
-    },
-    {
-      "headline": "ঢাকা-১৬ আসনে বিএনপির আমিনুল ইসলামকে হারিয়ে দাঁড়িপাল্লার জয়",
-      "url": "https://www.ittefaq.com.bd/774729/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A7%A7%E0%A7%AC-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%81%E0%A6%B2-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87",
-      "published_at": null,
-      "summary": "রাজধানীর গুরুত্বপূর্ণ নির্বাচনী এলাকা ঢাকা-১৬ আসনে রুদ্ধশ্বাস লড়াইয়ের পর বেসরকারি ফলাফলে জয়লাভ করেছেন বাংলাদেশ জামায়াতে ইসলামীর প্রার্থী মো. আব্দুল বাতেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/f745cb34f017502a1e3e2dad6ccd1f5c-698eefec580e6.jpg"
-    },
-    {
-      "headline": "বিএনপির চার আসনে সংখ্যালঘু প্রার্থীর জয়",
-      "url": "https://www.ittefaq.com.bd/774728/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%96%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%98%E0%A7%81-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0-%E0%A6%9C%E0%A7%9F",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ধর্মীয় ও জাতিগত সংখ্যালঘু সম্প্রদায়ের বিএনপির চার জন মনোনীত প্রার্থী জয়লাভ করেছেন।বৃহস্পতিবার (১২ ফেব্রুয়ারি) ২৯৯টি সংসদীয় আসনে ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পাশাপাশি গণভোটের ভোট গ্রহণ সম্পন্ন হয়। এর মধ্যে ২৭০টির প্রাপ্ত বেসরকারি ফলাফল বিশ্লেষণে এ তথ্য পাওয়া গেছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/b7653df2a2a62362ce9b3ffa6a4c478a-698eefe51ff76.jpg"
-    },
-    {
-      "headline": "যুদ্ধের দামামা, মধ্যপ্রাচ্যে আরও বিমানবাহী রণতরি পাঠাচ্ছে যুক্তরাষ্ট্র",
-      "url": "https://www.ittefaq.com.bd/774727/%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%BE-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%B0%E0%A6%A3%E0%A6%A4%E0%A6%B0%E0%A6%BF",
-      "published_at": null,
-      "summary": "মধ্যপ্রাচ্যজুড়ে বইছে যুদ্ধের দামামা। যেকোনো সময় ইরানের সঙ্গে যুক্তরাষ্ট্রের যুদ্ধ শুরু হতে পারে। এই সংঘাতে যুক্তরাষ্ট্রের হয়ে যোগ দিতে পারে ইসরায়েলও। এমন পরিস্থিতির মধ্যে মধ্যপ্রাচ্যে মোতায়েনের জন্য আরেকটি বিমানবাহী রণতরি প্রস্তুত করছে মার্কিন বাহিনী। খবর আল জাজিরার।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/3b35404be355c9535eea7ebd2c5a35e2-698eef18ce1b2.jpg"
-    },
-    {
-      "headline": "৩৫ বছর পর বাবার আসন উদ্ধার করলেন বিএনপির ইয়াসের খান চৌধুরী",
-      "url": "https://www.ittefaq.com.bd/774726/%E0%A7%A9%E0%A7%AB-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%A8-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ময়মনসিংহ-৯ (নান্দাইল) আসনে ধানের শীষ প্রতীকে ৮৫ হাজার ৪৭৩ ভোট পেয়ে বেসরকারিভাবে নির্বাচিত হয়েছেন বিএনপির মনোনীত প্রার্থী ইয়াসের খান চৌধুরী। তার নিকটতম প্রতিদ্বন্দ্বী জামায়াত নেতৃত্বাধীন জোটের বাংলাদেশ ডেভেলপমেন্ট পার্টির (বিডিপি) চেয়ারম্যান এ কে এম আনোয়ার হোসেন চান।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/aa495386e2cbca96b746f2c6f4b0645a-698eed5f313c2.jpg"
     },
     {
       "headline": "গণভোট পড়েছে ৬০.২৬ শতাংশ, ‘হ্যাঁ’ জিতেছে",
@@ -483,25 +695,11 @@
       "image_url": "https://media.ndiganta.com/images/opinion01_nbGXntp.ori.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
-      "headline": "এই বিজয় গণতন্ত্রের, এই বিজয় বাংলাদেশের : মাহদী আমিন",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/B2byqAwZK1uV/",
-      "published_at": null,
-      "summary": "আমরা বিশ্বাস করি জনগণের যে আস্থা, বিশ্বাস ভালোবাসা আমাদের নেতা তারেক রহমান পেয়েছেন, তিনি প্রধানমন্ত্রী হিসেবে প্রতিটি মানুষের অধিকার ও স্বাধীনতা নিশ্চিত করবেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Mahdi_lYCSaNG.JPG"
-    },
-    {
       "headline": "ভারত-পাকিস্তান ম্যাচে যে ৫টি দিকে নজর থাকবে",
       "url": "https://dailynayadiganta.com/sports/cricket/rSEvUG6GmD6f/",
       "published_at": null,
       "summary": "শাহিনকে যেমন অভিষেক টেক্কা দিয়েছেন, তেমনই এখন পর্যন্ত জসপ্রীত বুমরাহের বিপক্ষে দাপট দেখিয়েছেন সাহিবজাদা ফারহান। এশিয়া কাপের তিন ম্যাচে একে অপরের বিপক্ষে খেলেছেন তারা।",
       "image_url": "https://media.ndiganta.com/original_images/India-Pakistan_JNLwzXV.jpg"
-    },
-    {
-      "headline": "টিকাটুলি মোড়ে গাড়ির ধাক্কায় যুবক নিহত",
-      "url": "https://dailynayadiganta.com/bangladesh/accidents/bFEyYgppvDwU/",
-      "published_at": null,
-      "summary": "রাজধানীর টিকাটুলিতে গাড়ির ধাক্কায় এইচ এম ওমর ফারুক (৩৫) নিহত হয়েছেন। পুলিশ জানায়, লাশ মর্গে রাখা হয়েছে এবং তার কাছে স্বর্ণের চেইন ও ৩৪,৪৮০ টাকা পাওয়া গেছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Road-Acciden-Symbol_9WFIBsX.jpg"
     },
     {
       "headline": "নিলাম শেষে কেমন হলো পিএসএলের দলগুলো",
@@ -544,20 +742,6 @@
       "published_at": null,
       "summary": "তবে ভোট না দিতে দিতে ভোট না দেয়ার যে সংস্কৃতি জনগণের মাঝে গড়ে উঠেছিল, সেটিকে আমরা পুরোপুরি ফিরিয়ে আনতে পারি নাই। আশা করি, আগামী দিনগুলোতে জনগণকে ভোটের প্রতি আগ্রহী করব।",
       "image_url": "https://media.ndiganta.com/original_images/Nazrul_YCH6aYk.JPG"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - February 13, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "সুনামগঞ্জ-২ (দিরাই-শাল্লা) রাজনৈতিক সৌজন্যের নজির স্থাপন করেছেন পরাজিত জামায়াতের প্রার্থী শিশির মনির।  ফল ঘোষণার পর শুক্রবার ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
     },
     {
       "headline": "সাতক্ষীরার সব আসনে জামায়াত প্রার্থী জয়ী, প্রথমবারের মতো নির্বাচিত তিনজন",
@@ -1314,194 +1498,6 @@
       "published_at": null,
       "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে কুমিল্লা-৪ (দেবিদ্বার) আসনের সব ভোটকেন্দ্রেই জয় পেয়েছেন ১১ দলীয় জোটের প্রার্থী ও জাতীয় নাগরিক পার্টির (এনসিপি) দক্ষিণাঞ্চলের মুখ্য সংগঠক হাসনাত আব্দুল্লাহ।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/ca733b43844dc97fdeb634888c871967-698eaeb42827d.jpg"
-    },
-    {
-      "headline": "নওগাঁর ৬ আসনের মধ্যে ৫টিতে বিএনপি, ১টিতে জামায়াতের জয়",
-      "url": "https://www.ittefaq.com.bd/774685/%E0%A6%A8%E0%A6%93%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%B0-%E0%A7%AC-%E0%A6%86%E0%A6%B8%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A7%AB%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A7%A7%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "নওগাঁর ছয়টি সংসদীয় আসনের মধ্যে পাঁচটিতে বিএনপি এবং একটিতে বাংলাদেশ জামায়াতে ইসলামীর প্রার্থী বেসরকারিভাবে বিজয়ী হয়েছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/21a21ccde73e7133242d3aa117fe74b2-698ead1f863f3.jpg"
-    },
-    {
-      "headline": "মধ্যবর্তী নির্বাচনে ভোট দিতে দেখাতে হবে মার্কিন নাগরিকত্বের প্রমাণ",
-      "url": "https://www.ittefaq.com.bd/774684/%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8",
-      "published_at": null,
-      "summary": "যুক্তরাষ্ট্রে আগামী নভেম্বরের মধ্যবর্তী নির্বাচনে ভোট দিতে হলে ভোটারদেরকে নাগরিকত্বের প্রমাণ দিতে হবে। এ সংক্রান্ত একটি বিল মার্কিন কংগ্রেসের নিম্নকক্ষ প্রতিনিধি পরিষদে পাস হয়েছে। বিলটির নাম ‘সেভ আমেরিকা অ্যাক্ট’। মূলত ট্রাম্পের অভিশংসন এড়াতেই এ কৌশল নিয়েছে প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের প্রশাসন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/d3da1bea163e998ae7e7f3fe66673a4d-698eabc7bd3aa.jpg"
-    },
-    {
-      "headline": "বিকাশ, নগদ, রকেটে টাকা পাঠাতে আর বাধা নেই",
-      "url": "https://www.ittefaq.com.bd/774683/%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%A8%E0%A6%97%E0%A6%A6-%E0%A6%B0%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE-%E0%A6%A8%E0%A7%87%E0%A6%87",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে টাকার অপব্যবহার রোধে মোবাইল ব্যাংকিং সেবা (এমএফএস) ও ইন্টারনেট ব্যাংকিং সেবা সীমিত করা হয়েছিল। চার দিনের জন্য এসব সেবা সীমিত করা হয়। এসময় বিকাশ, রকেট ও নগদের মতো এমএফএস প্রতিষ্ঠানের গ্রাহকেরা প্রতিবার এক হাজার টাকার বেশি পাঠাতে পারেননি। ফলে টাকা পাঠাতে গিয়ে ভোগান্তিতে পড়েন অনেক গ্রাহক।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/59b44b6390686754a9cde8c81e6b41a4-698eab4c1c29b.jpg"
-    },
-    {
-      "headline": "তারেক রহমানকে ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদির অভিনন্দন",
-      "url": "https://www.ittefaq.com.bd/774682/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A7%8B%E0%A6%A6%E0%A6%BF%E0%A6%B0",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বাংলাদেশ জাতীয়তাবাদী দলের (বিএনপি) নিরঙ্কুশ বিজয়ে দলটির চেয়ারম্যান তারেক রহমানকে উষ্ণ অভিনন্দন জানিয়েছেন ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/13/4c3e0b97f430cbbed74245c85665990a-698ea0ed3324c.jpg"
-    },
-    {
-      "headline": "নতুন সরকারের শপথ কে পড়াবেন",
-      "url": "https://dailynayadiganta.com/bangladesh/national/uYHVoLEvd1BZ/",
-      "published_at": null,
-      "summary": "সংবিধানের ১৪৮ অনুচ্ছেদ অনুযায়ী সরকারি গেজেটে ফল প্রকাশের তিন দিনের মধ্যে নবনির্বাচিত সদস্যদের শপথ হবে; রাষ্ট্রপতি মনোনীত ব্যক্তি শপথ পড়াবেন, না হলে প্রধান নির্বাচন কমিশনার পড়াবেন।",
-      "image_url": "https://media.ndiganta.com/original_images/songsod-vobon.jpg"
-    },
-    {
-      "headline": "পাবনার ৫টি আসনের ২টি বিএনপির, ৩টি জামায়াতের",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/b6Y0rKOu8LRq/",
-      "published_at": null,
-      "summary": "বিজয়ী প্রার্থীরা হলেন নাজিবুর রহমান মোমেন, সেলিম রেজা হাবিব, আলী আছগার, আবু তালেব মণ্ডল এবং শামসুর রহমান শিমুল বিশ্বাস।",
-      "image_url": "https://media.ndiganta.com/original_images/Pabna_CfUmV9B.jpg"
-    },
-    {
-      "headline": "নেত্রকোনার ৫ আসনের ৪টিতে বিএনপি, ১টিতে জামায়াত",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/Ft5eEsbP6bYM/",
-      "published_at": null,
-      "summary": "নেত্রকোনা-১ আসনে বিএনপির ব্যারিস্টার কায়সার কামাল, নেত্রকোনা-২ আসনে বিএনপির ডা: মো: আনোয়ারুল হক, নেত্রকোনা-৩ আসনে বিএনপির রফিকুল আসলাম হিলালী, নেত্রকোনা-৪ আসনে বিএনপির লুৎফুজ্জামান বাবর এবং নেত্রকোনা-৫ আসনে জামায়াত প্রার্থী মাছুম মোস্তফা বিজয়ী হয়েছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Netrokona_Q5vtRZv.jpg"
-    },
-    {
-      "headline": "ধৈর্য ধরার আহ্বান জামায়াতের, ১১ দলীয় জোটের কর্মসূচির জন্য অপেক্ষার আহ্বান",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/G8KY5yTpYr5Z/",
-      "published_at": null,
-      "summary": "বাংলাদেশ জামায়াতে ইসলামী নির্বাচনের ফলাফল প্রক্রিয়ার বিষয়টি উল্লেখ করে সবাইকে ধৈর্য ধরার আহ্বান জানিয়েছে।\r\nদলটি ১১ দলীয় জোটের পরবর্তী আনুষ্ঠানিক কর্মসূচির জন্য অপেক্ষা করতে বলেছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Jamaat-Logo-1_y5EA4yE.jpg"
-    },
-    {
-      "headline": "সেমিফাইনালে অ্যাথলেতিকো মাদ্রিদ বিপক্ষে বিধ্বস্ত বার্সা",
-      "url": "https://dailynayadiganta.com/sports/football/nhraHfq9oIpo/",
-      "published_at": null,
-      "summary": "বার্সেলোনাকে ৪-০ গোলে হারিয়ে অ্যাথলেতিকো মাদ্রিদ কোপা দেল রে সেমিফাইনালের প্রথম লেগে বড় সুবিধা নিয়েছে। দ্বিতীয় লেগে ঘুরে দাঁড়াতে বার্সার সামনে কঠিন চ্যালেঞ্জ।",
-      "image_url": "https://media.ndiganta.com/original_images/Atletico-Madrid.jpg"
-    },
-    {
-      "headline": "পটুয়াখালী-৪ আসনে বিপুল ভোটে এ বি এম মোশাররফ হোসেনের জয়",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/EuQs8tS02WTQ/",
-      "published_at": null,
-      "summary": "বেসরকারি ফলাফলে এ বি এম মোশাররফ হোসেন এক লাখ ২৩ হাজার ৩৩৪ ভোট পেয়ে বিজয়ী হন। তার নিকটতম প্রতিদ্বন্দ্বী মোস্তাফিজুর রহমান (হাতপাখা প্রতীক) পেয়েছেন ৬৯ হাজার ৭৭৬ ভোট।",
-      "image_url": "https://media.ndiganta.com/original_images/Potuakhali_OneKKAN.jpg"
-    },
-    {
-      "headline": "ব্রাহ্মণবাড়িয়ার ৫টিতে বিএনপি জোট, ১টিতে স্বতন্ত্র জয়ী",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/FUAQVkCVDjKZ/",
-      "published_at": null,
-      "summary": "ব্রাহ্মণবাড়িয়ায় বিজয়ী প্রার্থীরা হলেন এম এ হান্নান, রুমিন ফারহানা, খালেদ হোসেন মাহবুব, মুশফিকুর রহমান, এম এ মান্নান এবং জোনায়েদ সাকি।",
-      "image_url": "https://media.ndiganta.com/original_images/Bbariya.jpg"
-    },
-    {
-      "headline": "পঞ্চগড়-২ আসনে বিএনপির প্রার্থী ফরহাদ হোসেন আজাদ বিজয়ী",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/DnbHX7ru1WgI/",
-      "published_at": null,
-      "summary": "রাতে পঞ্চগড়ের রিটার্নিং কর্মকর্তা সায়েমুজ্জামান বেসরকারিভাবে ফলাফল ঘোষণা করেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Debiganj_GDe79c6.jpg"
-    },
-    {
-      "headline": "সিলেটে কমিশনার থেকে মেয়র আরিফুল এবার হলেন এমপি",
-      "url": "https://www.prothomalo.com/bangladesh/district/xo0n1w8pks",
-      "published_at": "2026-02-13T02:31:41.064000+00:00",
-      "summary": "সিলেট–৪ আসনে আরিফুল হক ১ লাখ ৮৬ হাজার ৮৪৬টি ভোট পেয়েছেন। তাঁর নিকটতম প্রতিদ্বন্দ্বী জামায়াতের জয়নাল আবেদীন ৭১ হাজার ৩৯১ ভোট পেয়েছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-12/1bsqzf6f/SylhetDH048620260212Sylhet-Pic-201.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-12/1bsqzf6f/SylhetDH048620260212Sylhet-Pic-201.JPG?auto=format,compress"
-    },
-    {
-      "headline": "মার্ক জাকারবার্গের সন্তান কয়জন? ",
-      "url": "https://www.prothomalo.com/technology/pxzn34n6ms",
-      "published_at": "2026-02-13T02:30:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-11/7achuct1/zuckerberg01.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-11/7achuct1/zuckerberg01.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘দেশে যেন শান্তি আসে, মানুষ যেন ভালো থাকে’",
-      "url": "https://www.prothomalo.com/entertainment/k2irhlq9vj",
-      "published_at": "2026-02-13T02:30:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-12/tw8zx45c/WhatsApp-Image-2026-02-12-at-9.42.54-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-12/tw8zx45c/WhatsApp-Image-2026-02-12-at-9.42.54-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "গণতন্ত্রের সম্ভাবনাময় সূচনা, রাষ্ট্র গঠনের নতুন লড়াই",
-      "url": "https://www.prothomalo.com/opinion/column/qwdrsu2scb",
-      "published_at": "2026-02-13T02:17:06.786000+00:00",
-      "summary": "এই নির্বাচনের সঙ্গে যুক্ত আছে গণভোটের প্রশ্ন। গণভোট ‘হ্যাঁ’ জয়ী হলে রাষ্ট্র সংস্কারের একটি সাংবিধানিক ভিত্তি তৈরি হবে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/kojc4z8n/Capture.PNG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/kojc4z8n/Capture.PNG?auto=format,compress"
-    },
-    {
-      "headline": "নিরঙ্কুশ সংখ্যাগরিষ্ঠতার পথে বিএনপি ",
-      "url": "https://www.prothomalo.com/video/bangladesh/kxehvuznmw",
-      "published_at": "2026-02-13T02:14:03.246000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-13/gvdijda0/LiveTalk-Show.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/gvdijda0/LiveTalk-Show.jpg?auto=format,compress"
-    },
-    {
-      "headline": "তারেক রহমানকে ঐতিহাসিক বিজয়ের শুভেচ্ছা, কাজ করতে আগ্রহী যুক্তরাষ্ট্র: মার্কিন দূতাবাস",
-      "url": "https://www.prothomalo.com/bangladesh/yzu1y4fla0",
-      "published_at": "2026-02-13T02:12:59.407000+00:00",
-      "summary": "আজ শুক্রবার সকাল ৭টা ৪৮ মিনিটে ঢাকার মার্কিন দূতাবাসের ভেরিফায়েড ফেসবুক পেজে দেওয়া এক পোস্টে এই শুভাচ্ছে জানানো হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-01-20/6ntg68ha/US-Embassy-Dhaka.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-20/6ntg68ha/US-Embassy-Dhaka.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বসন্তের সাজে নাবিলা, দেখুন ৭টি ছবি",
-      "url": "https://www.prothomalo.com/lifestyle/fashion/t5eaqbz5fm",
-      "published_at": "2026-02-13T02:00:00+00:00",
-      "summary": "২০১৮ সালে বসন্তের স্বাভাবিক-সহজাত সাজে নকশার প্রচ্ছদে এসেছিলেন অভিনেত্রী মাসুমা রহমান নাবিলা। সেই ছবিগুলোই চলুন আরেকবার দেখি।",
-      "image_s3_key": "prothomalo-bangla/2026-02-10/nu0afa83/IMGL1773.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-10/nu0afa83/IMGL1773.JPG?auto=format,compress"
-    },
-    {
-      "headline": "পিৎজার কারিগর থেকে বিশ্বকাপে ইতালির প্রথম ম্যাচ জয়ের নায়ক",
-      "url": "https://www.prothomalo.com/sports/cricket/23a1p0teib",
-      "published_at": "2026-02-13T02:00:00+00:00",
-      "summary": "কৃষাণ কালুগামাগে খুব ভালো পিৎজা বানান। পিৎজা বানানোর পর অবসর সময়টাতে রোমের অ্যাস্ট্রোটার্ফে গিয়ে বল ঘোরান।",
-      "image_s3_key": "prothomalo-bangla/2026-02-12/nxvfta9i/058901-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-12/nxvfta9i/058901-01-02.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ঢাকা-৯ আসনে জয়ী বিএনপির হাবিবুর রশিদ, স্বতন্ত্র তাসনিম জারা তৃতীয়",
-      "url": "https://www.prothomalo.com/politics/za05ozidp3",
-      "published_at": "2026-02-13T01:31:54.887000+00:00",
-      "summary": "হাবিবুর রশিদের নিকটতম প্রতিদ্বন্দ্বী জাতীয় নাগরিক পার্টির (এনসিপি) প্রার্থী মোহাম্মদ জাবেদ মিয়া।",
-      "image_s3_key": "prothomalo-bangla/2026-02-03/1yxy92cp/dhaka-9.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/1yxy92cp/dhaka-9.jpg?auto=format,compress"
-    },
-    {
-      "headline": "২ হাজার ভোটের ব্যবধানে জিতলেন এনসিপির নাহিদ ইসলাম",
-      "url": "https://www.prothomalo.com/politics/o3reg51v7q",
-      "published_at": "2026-02-13T01:24:25.132000+00:00",
-      "summary": "ঢাকা-১১ আসনে বেসরকারিভাবে বিজয়ী হয়েছেন জাতীয় নাগরিক পার্টির (এনসিপি) প্রার্থী মো. নাহিদ ইসলাম।",
-      "image_s3_key": "prothomalo-bangla/2026-02-12/328u9wg0/WhatsApp-Image-2026-02-12-at-08.26.17-1.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-12/328u9wg0/WhatsApp-Image-2026-02-12-at-08.26.17-1.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "পোস্টাল ব্যালটে বাজিমাত করে বিজয়ী রিকশার প্রার্থী হানজালা",
-      "url": "https://www.prothomalo.com/politics/th7al03z0c",
-      "published_at": "2026-02-13T01:12:06.046000+00:00",
-      "summary": "কেন্দ্রভিত্তিক ভোটে পিছিয়ে থেকেও পোস্টাল ব্যালটের জোরে জয় পেয়েছেন মামুনুল হকের দল বাংলাদেশ খেলাফত মজলিসের এই প্রার্থী।",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/52xjjt11/Hanzala-Vote-01.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/52xjjt11/Hanzala-Vote-01.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ঢাকা-৭ আসনে জামায়াত প্রার্থীকে হারিয়ে জয়ী বিএনপির হামিদুর রহমান",
-      "url": "https://www.prothomalo.com/politics/4yeu3qvdgi",
-      "published_at": "2026-02-13T01:09:12.017000+00:00",
-      "summary": "ঢাকা-৭ আসনে বিএনপির প্রার্থী হামিদুর রহমান তাঁর নিকটতম প্রতিদ্বন্দ্বী জামায়াত প্রার্থীকে ৬ হাজার ১৮৩ ভোটের ব্যবধানে হারিয়েছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-13/04q7fokk/১১.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/04q7fokk/১১.avif?auto=format,compress"
-    },
-    {
-      "headline": "আজ টিভিতে যা দেখবেন (১৩ ফেব্রুয়ারি ২০২৬)",
-      "url": "https://www.prothomalo.com/sports/8f28ohcxi8",
-      "published_at": "2026-02-13T01:00:00+00:00",
-      "summary": "টি-টুয়েন্টি বিশ্বকাপে আজ জিম্বাবুয়ের বিপক্ষে খেলবে অস্ট্রেলিয়া। আছে আরও দুটি ম্যাচ। নারী রাইজিং স্টারস এশিয়া কাপ শুরু হচ্ছে আজ।",
-      "image_s3_key": "prothomalo-bangla/2026-02-12/heu2lxdk/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-12/heu2lxdk/WhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg?auto=format,compress"
     }
   ]
 }
