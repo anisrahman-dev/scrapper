@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-13T22:04:13.479484+00:00",
+  "fetched_at": "2026-02-13T22:39:08.877117+00:00",
   "stories": [
     {
       "headline": "ভোটে কারচুপির অভিযোগ এলডিপির অলি আহমদের",
@@ -298,14 +298,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/lhzwnyt2/Munshigonj_DH0710_20260213_IMG_20260213_211823.jpg?auto=format,compress"
     },
     {
-      "headline": "নির্বাচনী সংবাদ প্রচারে ফেসবুক ও গণমাধ্যমের পার্থক্য কী ছিল",
-      "url": "https://www.prothomalo.com/video/bangladesh/arpg7cn2sd",
-      "published_at": "2026-02-13T16:25:30.996000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-13/8ef0aty8/LiveTalk-Show.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/8ef0aty8/LiveTalk-Show.jpg?auto=format,compress"
-    },
-    {
       "headline": "ময়মনসিংহে ধানের শীষের দাপট, তবে স্বতন্ত্র ও জামায়াতের চমক",
       "url": "https://www.bd-pratidin.com/election/2026/02/13/1216719",
       "published_at": "2026-02-13T23:46:12+06:00",
@@ -540,7 +532,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 14, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "অনুষ্ঠিত ত্রয়োদশ জাতীয় সংসদ নির্বাচনে নওগাঁ-৬ (রাণীনগর-আত্রাই) আসনে বিভিন্ন দলীয় এবং স্বতন্ত্রসহ মোট ৫ জন প্রার্থী প্রতিদ্বন্দ্বিতা করেন। তাদের মধ্যে ...",
+      "summary": "ইমানের পর ইসলামের সবচেয়ে তাৎপর্যপূর্ণ আমল হলো সালাত বা নামাজ। নামাজ ইসলামের প্রাণ। মুমিন এবং কাফেরের মাঝে বড় পার্থক্য হলো ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -549,6 +541,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "নির্বাচনী সংবাদ প্রচারে ফেসবুক ও গণমাধ্যমের পার্থক্য কী ছিল",
+      "url": "https://www.prothomalo.com/video/bangladesh/arpg7cn2sd",
+      "published_at": "2026-02-13T16:25:30.996000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-02-13/8ef0aty8/LiveTalk-Show.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/8ef0aty8/LiveTalk-Show.jpg?auto=format,compress"
     },
     {
       "headline": "জয়ী হয়ে ৩০ বছর আগের নিয়ত পূরণ করলেন ফজলুর রহমান",
