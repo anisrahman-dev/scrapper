@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-02-14T20:54:39.899025+00:00",
+  "fetched_at": "2026-02-14T21:24:17.131903+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "যুক্তরাষ্ট্রের সঙ্গে সম্পর্ক\n‘পুনর্গঠন’ চায় ইউরোপ ",
+        "url": "https://www.prothomalo.com/world/usa/7fg8t68ef2",
+        "published_at": "2026-02-14T20:49:00+00:00",
+        "summary": "জার্মানির মিউনিখে অনুষ্ঠিত বার্ষিক এ সম্মেলনে ৬০টির বেশি দেশের নেতারা অংশ নেন। জার্মানির চ্যান্সেলর ফ্রিডরিখ মের্ৎস ‘নতুন ট্রান্সআটলান্টিক অংশীদারত্ব’-এর আহ্বান জানান।",
+        "image_s3_key": "prothomalo-bangla/2026-02-14/pmuuzn3q/3.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/pmuuzn3q/3.jpg?auto=format,compress"
+      },
       {
         "headline": "তারেক রহমানকে ফুল ও মিষ্টি পাঠিয়েছেন মমতা বন্দ্যোপাধ্যায়",
         "url": "https://www.prothomalo.com/bangladesh/t5erbw0bii",
@@ -299,14 +307,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/43koyv53/WhatsApp-Image-2026-02-14-at-18.43.43.jpeg?auto=format,compress"
       },
       {
-        "headline": "সংসদ সদস্যদের শপথ মঙ্গলবার",
-        "url": "https://www.prothomalo.com/politics/jcx5yarphn",
-        "published_at": "2026-02-14T15:34:18.273000+00:00",
-        "summary": "জাতীয় সংসদ সচিবালয়ের সচিব কানিজ মওলা আজ শনিবার সন্ধ্যায় প্রথম আলোকে বলেন, আপাতত ১৭ তারিখ শপথ অনুষ্ঠানের প্রস্তুতি নেওয়া হচ্ছে।",
-        "image_s3_key": "prothomalo-bangla/2024-03/bb856509-4dd0-40eb-b805-50a217da10e2/Songsob.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-03/bb856509-4dd0-40eb-b805-50a217da10e2/Songsob.jpg?auto=format,compress"
-      },
-      {
         "headline": "সাউদাম্পটনের কাছে হেরে হামজার লেস্টারের বিদায়",
         "url": "https://www.bd-pratidin.com/sports/2026/02/15/1217167",
         "published_at": "2026-02-15T01:50:46+06:00",
@@ -576,7 +576,7 @@
         "headline": "আজকের সর্বশেষ খবর - February 15, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "গরুর দুধ বহু শতাব্দী ধরে মানুষের খাদ্যাভ্যাসের একটি গুরুত্বপূর্ণ অংশ হিসেবে বিবেচিত হয়ে আসছে। ছোটবেলা থেকেই আমরা শুনে থাকি, দুধ ...",
+        "summary": "ভোলার চরফ‌্যাশ‌নে রা‌তের আঁধা‌রে একা পে‌য়ে এক ব‌্যা‌ক্তি‌কে কু‌পি‌য়ে হত্যা ক‌রে‌ছে দুর্বৃত্তরা। নিহতের নাম মো: ভূট্টু (৪৫)। তি‌নি ভোলার চরফ্যাশন ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -585,6 +585,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+      },
+      {
+        "headline": "সংসদ সদস্যদের শপথ মঙ্গলবার",
+        "url": "https://www.prothomalo.com/politics/jcx5yarphn",
+        "published_at": "2026-02-14T15:34:18.273000+00:00",
+        "summary": "জাতীয় সংসদ সচিবালয়ের সচিব কানিজ মওলা আজ শনিবার সন্ধ্যায় প্রথম আলোকে বলেন, আপাতত ১৭ তারিখ শপথ অনুষ্ঠানের প্রস্তুতি নেওয়া হচ্ছে।",
+        "image_s3_key": "prothomalo-bangla/2024-03/bb856509-4dd0-40eb-b805-50a217da10e2/Songsob.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-03/bb856509-4dd0-40eb-b805-50a217da10e2/Songsob.jpg?auto=format,compress"
       },
       {
         "headline": "ফেসবুকে পরিচয়, ভালোবাসা দিবসে বিয়ে",
@@ -1479,13 +1487,6 @@
         "published_at": null,
         "summary": "মানুষ জানতে চাইবে সিন্ডিকেটের বিরুদ্ধে কী ভূমিকা নেয়া হলো। সেই সাথে অর্থনৈতিক দুর্বৃত্তপনা বন্ধে কী করা হচ্ছে, কর্মসংস্থান ও দ্রব্যমূল্য নিয়ে দৃশ্যমান পরিবর্তন এলো কি না। এই প্রশ্নগুলো তুলতে হবে নাগরিকদেরই। জবাবদিহি নিশ্চিত না হলে রাজনীতির অভ্যাস বদলায় না, ক্ষমতার চরিত্রও বদলায় না। আমরা দীর্ঘ অন্ধকার দেখেছি। একটা নির্বাচনের মাধ্যমে এবার সত্যিই ভোরের আলো এসেছে; কিন্তু ভোর মানেই দিন নয়। দিন শুরু হয় কাজ দিয়ে, দায়িত্ব দিয়ে, প্রতিশ্রুতির বাস্তবায়ন দিয়ে",
         "image_url": "https://media.ndiganta.com/original_images/opinion_2.jpg"
-      },
-      {
-        "headline": "বাংলাদেশে একক ভ্যাট হারের প্রাসঙ্গিকতা",
-        "url": "https://dailynayadiganta.com/opinions/opinion/MSLYpHSOTdw7/",
-        "published_at": null,
-        "summary": "বাজারে ক্রয় করতে গেলে সাদা চোখে দেখা যায় যে, কী পরিমাণ ভ্যাট-ফাঁকি হচ্ছে। ভ্যাট চালানপত্র দেয়ার এবং নেয়ার সংস্কৃতি এখনো দেশে গড়ে ওঠেনি। তাই বাংলাদেশে ভ্যাট সংস্কারের মূল ফোকাস হওয়া দরকার বিক্রয় তথ্য সঠিকভাবে রেকর্ড করা, অর্থাৎ ইনভয়েস অটোমেশন। ইনভয়েস অটোমেশন সবচেয়ে গুরুত্বপূর্ণ কাজ। ভ্যাটযোগ্য, ভ্যাটযোগ্য নয় বিক্রির সব ইনভয়েস অটোমেটেড পদ্ধতিতে জারি করে সার্ভারে তথ্য সংরক্ষণ করার মধ্যে রয়েছে বড় ধরনের সফলতা। এ সফলতার ব্যাপ্তি ভ্যাটের ক্ষেত্র ছাড়িয়ে আয়কর, অ্যাকাউন্টস, ডেটা ব্যবস্থাপনায় পৌঁছে যাবে। এ কাজ কঠিন নয়। প্রয়োজন হলো সিদ্ধান্ত ও উদ্যোগ",
-        "image_url": "https://media.ndiganta.com/original_images/opinion01.original.jpg"
       }
     ],
     "bangladesh": [
@@ -2139,18 +2140,11 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-27-20260212063812.jpg"
       },
       {
-        "headline": "ভোটের আগের দিন বাস চলাচল স্বাভাবিক",
-        "url": "https://www.amarsangbad.com/national/news/337557",
-        "published_at": "1770561720",
-        "summary": "জাতীয় নির্বাচনের আগের দিন ১১ ফেব্রুয়ারি সারা দেশে দূরপাল্লার বাস চলাচল স্বাভাবিক থাকবে বলে জানিয়েছে বাংলাদেশ বাস-ট্রাক মালিক সমিতি। তবে ভোটের দিন ১২ ফেব্রুয়ারি অধিকাংশ বাস চলাচল বন্ধ থাকার সম্ভাবনা রয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/zan-20260208144200.jpg"
-      },
-      {
         "headline": "দেশত্যাগ করেছেন প্রধান উপদেষ্টার বিশেষ সহকারী ফয়েজ তৈয়্যব",
         "url": "https://www.amarsangbad.com/national/news/338149",
         "published_at": "1771083095",
         "summary": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়ের দায়িত্বপ্রাপ্ত অন্তর্বর্তীকালীন সরকারের প্রধান উপদেষ্টার বিশেষ সহকারী ফয়েজ আহমদ তৈয়্যব দেশত্যাগ করেছেন।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-design-(60)-20260214153135.jpg"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-(60)-20260214153135.jpg"
       },
       {
         "headline": "মন্ত্রিপরিষদের নতুন সচিব এম সিরাজ উদ্দিন মিয়া",
@@ -2158,6 +2152,13 @@
         "published_at": "1771081816",
         "summary": "মন্ত্রিপরিষদ সচিব (চুক্তিভিত্তিক) হিসেবে দায়িত্ব পেয়েছেন প্রধান উপদেষ্টার মুখ্য সচিব (চুক্তিভিত্তিক) এম সিরাজ উদ্দিন মিয়া। তাকে অতিরিক্ত দায়িত্ব দেওয়া হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-(57)-20260214151016.jpg"
+      },
+      {
+        "headline": "দেশের প্রথম বিটিসিএল এমভিএনও সিম বাজারে আসছে ১ মার্চ",
+        "url": "https://www.amarsangbad.com/national/news/338132",
+        "published_at": "1771070144",
+        "summary": "মোবাইল ভার্চুয়াল নেটওয়ার্ক অপারেটর (এমভিএনও) সিম এবং ভয়েস, ডেটা ও কনটেন্টসমন্বিত ট্রিপল-প্লে প্যাকেজ আগামী ১ মার্চ থেকে বাজারে পাওয়া যাবে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-(40)-20260214115544.jpg"
       },
       {
         "headline": "শেরপুর-৩ আসনে ভোট স্থগিত",
@@ -2228,6 +2229,13 @@
         "published_at": "1771084096",
         "summary": "চুয়াডাঙ্গা-১ আসনের নবনির্বাচিত সংসদ সদস্য অ্যাডভোকেট মাসুদ পারভেজ রাসেল সাংবাদিকদের সাথে মতবিনিময় সভা ও প্রেস ব্রিফিং করেছেন। শনিবার বেলা ১২টার সময় আলমডাঙ্গা পৌর জামায়াতের কার্যালয়ে এ মতবিনিময় সভা অনুষ্ঠিত হয়। সভায় সভাপতিত্ব করেন আলমডাঙ্গা উপজেলা আমির প্রভাষক শফিউল আলম বকুল। অনুষ্ঠানটি সঞ্চালনা করেন চুয়াডাঙ্গা-১ আসনের নির্বাচন বিভাগের পরিচালক শেখ নূর মোহাম্মদ হোসেন টিপু।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-(62)-20260214154816.jpg"
+      },
+      {
+        "headline": "ভোটের আগের দিন বাস চলাচল স্বাভাবিক",
+        "url": "https://www.amarsangbad.com/national/news/337557",
+        "published_at": "1770561720",
+        "summary": "জাতীয় নির্বাচনের আগের দিন ১১ ফেব্রুয়ারি সারা দেশে দূরপাল্লার বাস চলাচল স্বাভাবিক থাকবে বলে জানিয়েছে বাংলাদেশ বাস-ট্রাক মালিক সমিতি। তবে ভোটের দিন ১২ ফেব্রুয়ারি অধিকাংশ বাস চলাচল বন্ধ থাকার সম্ভাবনা রয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/zan-20260208144200.jpg"
       },
       {
         "headline": "সংস্কার বাস্তবায়নে সব দলের নৈতিক ও রাজনৈতিক দায়বদ্ধতা আছে: আলী রীয়াজ",
@@ -2449,13 +2457,6 @@
         "published_at": null,
         "summary": "আধিপত্য বিস্তারকে কেন্দ্র করে ফরিদপুরের সালথা উপজেলা ও বোয়ালমারী উপজেলার বাসিন্দাদের মধ্যে সংঘর্ষ, বাড়িঘর ভাঙচুর ও অগ্নিসংযোগের ঘটনা ঘটেছে। এতে দুই পক্ষের অন্তত ২০ জন আহতের খবর পাওয়া গেছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/73813069dfb1bf3c58806ecd82a34d7c-699045e3791b2.jpg"
-      },
-      {
-        "headline": "দেশের প্রথম বিটিসিএল এমভিএনও সিম বাজারে আসছে ১ মার্চ",
-        "url": "https://www.amarsangbad.com/national/news/338132",
-        "published_at": "1771070144",
-        "summary": "মোবাইল ভার্চুয়াল নেটওয়ার্ক অপারেটর (এমভিএনও) সিম এবং ভয়েস, ডেটা ও কনটেন্টসমন্বিত ট্রিপল-প্লে প্যাকেজ আগামী ১ মার্চ থেকে বাজারে পাওয়া যাবে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-(40)-20260214115544.jpg"
       },
       {
         "headline": "বাকেরগঞ্জে বাস খাদে পড়ে হেলপারের মৃত্যু, আহত ১০",
@@ -4369,6 +4370,14 @@
     ],
     "world": [
       {
+        "headline": "যুক্তরাষ্ট্রের সঙ্গে সম্পর্ক\n‘পুনর্গঠন’ চায় ইউরোপ ",
+        "url": "https://www.prothomalo.com/world/usa/7fg8t68ef2",
+        "published_at": "2026-02-14T20:49:00+00:00",
+        "summary": "জার্মানির মিউনিখে অনুষ্ঠিত বার্ষিক এ সম্মেলনে ৬০টির বেশি দেশের নেতারা অংশ নেন। জার্মানির চ্যান্সেলর ফ্রিডরিখ মের্ৎস ‘নতুন ট্রান্সআটলান্টিক অংশীদারত্ব’-এর আহ্বান জানান।",
+        "image_s3_key": "prothomalo-bangla/2026-02-14/pmuuzn3q/3.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/pmuuzn3q/3.jpg?auto=format,compress"
+      },
+      {
         "headline": "সাজা স্থগিত ও চিকিৎসার জন্য জামিন চাইলেন ইমরান খান ",
         "url": "https://www.prothomalo.com/world/pakistan/bflyppdgbb",
         "published_at": "2026-02-14T20:20:00+00:00",
@@ -4681,14 +4690,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-12/3qulv84k/1.jpg?auto=format,compress"
       },
       {
-        "headline": "ইমরানের ডান চোখের দৃষ্টিশক্তি মাত্র ‘১৫ শতাংশ’ অবশিষ্ট আছে",
-        "url": "https://www.prothomalo.com/world/pakistan/0hvepszvvm",
-        "published_at": "2026-02-12T15:05:51.111000+00:00",
-        "summary": "প্রতিবেদন অনুযায়ী, হঠাৎ ডান চোখের দৃষ্টি পুরোপুরি চলে গেলে ইমরান খানকে ইসলামাবাদের পাকিস্তান ইনস্টিটিউট অব মেডিক্যাল সায়েন্সেসে (পিআইএমএস) নেওয়া হয়।",
-        "image_s3_key": "prothomalo-bangla/2023-12/06488f79-6216-4689-afa1-84d75cd48b01/Imran_Khan.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-12/06488f79-6216-4689-afa1-84d75cd48b01/Imran_Khan.jpg?auto=format,compress"
-      },
-      {
         "headline": "সাউদাম্পটনের কাছে হেরে হামজার লেস্টারের বিদায়",
         "url": "https://www.bd-pratidin.com/sports/2026/02/15/1217167",
         "published_at": "2026-02-15T01:50:46+06:00",
@@ -4967,6 +4968,14 @@
         "published_at": "1771059945",
         "summary": "রয়টার্সের এক চাঞ্চল্যকর প্রতিবেদনে মধ্যপ্রাচ্যের ভূ-রাজনীতিতে চরম অস্থিরতার ইঙ্গিত পাওয়া গেছে। মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের সরাসরি নির্দেশে ইরানে টানা কয়েক সপ্তাহ ধরে সামরিক অভিযান চালানোর একটি গোপন ও সুদূরপ্রসারী পরিকল্পনা চূড়ান্ত করছে মার্কিন প্রতিরক্ষা দপ্তর পেন্টাগন। এই পরিকল্পনাটি আগের যেকোনো সংঘাতের চেয়ে অনেক বেশি ভয়াবহ ও জটিল হতে পারে বলে আশঙ্কা করা হচ্ছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-31-20260214090545.jpg"
+      },
+      {
+        "headline": "ইমরানের ডান চোখের দৃষ্টিশক্তি মাত্র ‘১৫ শতাংশ’ অবশিষ্ট আছে",
+        "url": "https://www.prothomalo.com/world/pakistan/0hvepszvvm",
+        "published_at": "2026-02-12T15:05:51.111000+00:00",
+        "summary": "প্রতিবেদন অনুযায়ী, হঠাৎ ডান চোখের দৃষ্টি পুরোপুরি চলে গেলে ইমরান খানকে ইসলামাবাদের পাকিস্তান ইনস্টিটিউট অব মেডিক্যাল সায়েন্সেসে (পিআইএমএস) নেওয়া হয়।",
+        "image_s3_key": "prothomalo-bangla/2023-12/06488f79-6216-4689-afa1-84d75cd48b01/Imran_Khan.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-12/06488f79-6216-4689-afa1-84d75cd48b01/Imran_Khan.jpg?auto=format,compress"
       },
       {
         "headline": "মেয়েকেই নিজের উত্তরসূরি হিসেবে বেছে নিচ্ছেন কিম জং–উন: দাবি দক্ষিণ কোরিয়ার",
@@ -5822,14 +5831,6 @@
         "published_at": null,
         "summary": "আদিয়ালা কারাগারে বন্দি পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খান তার দৃষ্টিশক্তির ৮৫ শতাংশই হারিয়ে ফেলেছেন। বর্তমানে তার দৃষ্টিশক্তির মাত্র ১৫ শতাংশ টিকে আছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/d927eeb22fdc5468343a16b34298f680-698dd9f9a920f.jpg"
-      },
-      {
-        "headline": "গাজায় ৮ হাজার সেনা পাঠানোর প্রস্তুতি নিচ্ছে ইন্দোনেশিয়া",
-        "url": "https://www.prothomalo.com/world/asia/q0uo131pow",
-        "published_at": "2026-02-11T00:45:37.737000+00:00",
-        "summary": "ইন্দোনেশিয়ার সেনাপ্রধান জেনারেল মারুলি সিমানজুন্তাক জানিয়েছেন, সেনাদের প্রশিক্ষণ ইতিমধ্যে শুরু হয়েছে। গাজায় তারা মূলত চিকিৎসা ও প্রকৌশলগত কাজ পরিচালনা করবেন।",
-        "image_s3_key": "prothomalo-bangla/2026-02-11/2krsiea3/Indonesia.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-11/2krsiea3/Indonesia.jpg?auto=format,compress"
       }
     ],
     "business": [
@@ -6343,11 +6344,11 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260209070823.jpg"
       },
       {
-        "headline": "আমলাতান্ত্রিক জটিলতায় আটকে গেছে এনবিআর সংস্কার,  শেষ ভরসা নির্বাচিত সরকার",
-        "url": "https://www.amarsangbad.com/economy/news/337731",
-        "published_at": "1770716863",
-        "summary": "জাতীয় রাজস্ব বোর্ডকে (এনবিআর) দুই ভাগে বিভক্ত করে আধুনিকায়নের যে উচ্চাভিলাষী পরিকল্পনা অন্তর্বর্তী সরকার গ্রহণ করেছিল, তা আপাতত আলোর মুখ দেখছে না। ব্যবসায়ী সমাজ ও অর্থনৈতিক বিশ্লেষকদের ব্যাপক সমর্থন থাকা সত্ত্বেও শেষ পর্যন্ত আমলাতান্ত্রিক রশি টানাটানিতে আটকে গেছে এই সংস্কার উদ্যোগ। ফলে এনবিআর পুনর্গঠনের বিশাল এই চ্যালেঞ্জ এখন আগামী নির্বাচিত সরকারের কাঁধেই বর্তালো।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260210094743.jpg"
+        "headline": "নির্বাচনের আগে দেশের রিজার্ভে বড় সুখবর",
+        "url": "https://www.amarsangbad.com/economy/news/337681",
+        "published_at": "1770652702",
+        "summary": "সারাদেশে নির্বাচনী আমেজ চলার মাঝেই দেশের বৈদেশিক মুদ্রার রিজার্ভ নিয়ে বড় সুখবর পাওয়া গেছে। সবশেষ তথ্য অনুযায়ী, রিজার্ভ বেড়ে এখন ৩৪ দশমিক ০৬ বিলিয়ন মার্কিন ডলারে দাঁড়িয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-35-20260209155822.jpg"
       },
       {
         "headline": "বাংলাদেশ ব্যাংকদেশের ভেতরে নগদ অর্থ বহনে কোনো সীমা নেই",
@@ -6357,11 +6358,11 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/screenshot2122026-14027-20260212074034.jpeg"
       },
       {
-        "headline": "নির্বাচনের আগে দেশের রিজার্ভে বড় সুখবর",
-        "url": "https://www.amarsangbad.com/economy/news/337681",
-        "published_at": "1770652702",
-        "summary": "সারাদেশে নির্বাচনী আমেজ চলার মাঝেই দেশের বৈদেশিক মুদ্রার রিজার্ভ নিয়ে বড় সুখবর পাওয়া গেছে। সবশেষ তথ্য অনুযায়ী, রিজার্ভ বেড়ে এখন ৩৪ দশমিক ০৬ বিলিয়ন মার্কিন ডলারে দাঁড়িয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-35-20260209155822.jpg"
+        "headline": "আমলাতান্ত্রিক জটিলতায় আটকে গেছে এনবিআর সংস্কার,  শেষ ভরসা নির্বাচিত সরকার",
+        "url": "https://www.amarsangbad.com/economy/news/337731",
+        "published_at": "1770716863",
+        "summary": "জাতীয় রাজস্ব বোর্ডকে (এনবিআর) দুই ভাগে বিভক্ত করে আধুনিকায়নের যে উচ্চাভিলাষী পরিকল্পনা অন্তর্বর্তী সরকার গ্রহণ করেছিল, তা আপাতত আলোর মুখ দেখছে না। ব্যবসায়ী সমাজ ও অর্থনৈতিক বিশ্লেষকদের ব্যাপক সমর্থন থাকা সত্ত্বেও শেষ পর্যন্ত আমলাতান্ত্রিক রশি টানাটানিতে আটকে গেছে এই সংস্কার উদ্যোগ। ফলে এনবিআর পুনর্গঠনের বিশাল এই চ্যালেঞ্জ এখন আগামী নির্বাচিত সরকারের কাঁধেই বর্তালো।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260210094743.jpg"
       },
       {
         "headline": "সকালে বাড়িয়ে রাতে সোনার দাম ভরিতে কমল ৩২৬৬ টাকা",
