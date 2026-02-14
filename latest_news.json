@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-02-14T21:24:17.131903+00:00",
+  "fetched_at": "2026-02-14T21:51:21.946274+00:00",
   "stories": [
+    {
+      "headline": "চাঁদে অভিযানে প্রতিদ্বন্দ্বিতায়\nইলন মাস্ক ও বেজোস ",
+      "url": "https://www.prothomalo.com/world/usa/9imp6550xl",
+      "published_at": "2026-02-14T21:30:00+00:00",
+      "summary": "নাসা মনে করে, আবার চাঁদে অভিযান চালানোটা ভবিষ্যতে মঙ্গল গ্রহে অভিযান চালানোর প্রস্তুতি হিসেবে কাজ করবে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-14/gs01a409/4.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/gs01a409/4.jpg?auto=format,compress"
+    },
     {
       "headline": "যুক্তরাষ্ট্রের সঙ্গে সম্পর্ক\n‘পুনর্গঠন’ চায় ইউরোপ ",
       "url": "https://www.prothomalo.com/world/usa/7fg8t68ef2",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-01/51d4c687-01eb-4a1d-b2cb-010d06a04255/bb6391d6-cdb7-478c-a0c0-78d3f481ab1a.jpg?auto=format,compress"
     },
     {
-      "headline": "অতুল তোমার একা হিম, বহু বিস্তার",
-      "url": "https://www.prothomalo.com/onnoalo/poem/midkcsuhl9",
-      "published_at": "2026-02-14T15:34:41.065000+00:00",
-      "summary": "শিলাবৃষ্টির মতো ঝরে পড়ছে থলে–উপুড় কড়ি\nসামন্ত দম্ভোলে কাঁপে নারী ও শিল্পজিজ্ঞাসা!",
-      "image_s3_key": "prothomalo-bangla/2026-02-14/43koyv53/WhatsApp-Image-2026-02-14-at-18.43.43.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/43koyv53/WhatsApp-Image-2026-02-14-at-18.43.43.jpeg?auto=format,compress"
-    },
-    {
       "headline": "সাউদাম্পটনের কাছে হেরে হামজার লেস্টারের বিদায়",
       "url": "https://www.bd-pratidin.com/sports/2026/02/15/1217167",
       "published_at": "2026-02-15T01:50:46+06:00",
@@ -376,6 +376,20 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/14/og/1771083788-4dea19bfba584adbc1de612682dfbfcf.jpg"
     },
     {
+      "headline": "নির্বাচনে ভোট কারচুপির অভিযোগ নিষ্পত্তির লক্ষ্যে আদালতে রিটের সিদ্ধান্ত",
+      "url": "https://www.ittefaq.com.bd/774971/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%9A%E0%A7%81%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF%E0%A7%87",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বিভিন্ন আসনে ভোট কারচুপির অভিযোগ খতিয়ে দেখতে উচ্চ আদালতে রিট করার সিদ্ধান্ত নিয়েছে ১১ দলীয় নির্বাচনী ঐক্য। পাশাপাশি, নির্বাচনের সময় গঠিত ১১ দলীয় জোট আগামীতে সংসদের ভেতরে ও বাইরে অটুট রাখার অঙ্গীকারও ব্যক্ত করেছেন জোটের নেতারা।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/3f989bccdf5df6f9afa998a5dd0b7aca-6990eb86a68a3.jpg"
+    },
+    {
+      "headline": "নতুন সরকারের শপথ অনুষ্ঠানে চীন, ভারত, পাকিস্তানসহ ১৩ দেশের সরকারপ্রধানকে আমন্ত্রণ",
+      "url": "https://www.ittefaq.com.bd/774969/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%AA%E0%A6%A5-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A7%80%E0%A6%A8-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%B9",
+      "published_at": null,
+      "summary": "বিএনপির চেয়ারম্যান তারেক রহমানের নেতৃত্বে বাংলাদেশের নতুন সরকার আগামী মঙ্গলবার শপথ নিতে যাচ্ছে। নতুন মন্ত্রিসভার শপথ অনুষ্ঠানে অংশ নিতে অন্তর্বর্তী সরকারের প্রধান উপদেষ্টা অধ্যাপক ড. মুহাম্মদ ইউনূস চীন, ভারত, পাকিস্তানসহ ১৩ দেশের সরকারপ্রধানকে আমন্ত্রণ জানিয়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/cf733c192903657549de6d662c40c756-6990e4e610bcc.jpg"
+    },
+    {
       "headline": "কথা রেখেছে অন্তর্বর্তীকালীন সরকার ও সশস্ত্র বাহিনী",
       "url": "https://www.ittefaq.com.bd/774968/%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A8-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%93-%E0%A6%B8%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80",
       "published_at": null,
@@ -430,20 +444,6 @@
       "published_at": null,
       "summary": "সারজিস আলম পঞ্চগড়-১ আসনের নির্বাচনী ফলাফল নিয়ে কারচুপির অভিযোগ তুলেছেন। শনিবার (১৪ ফেব্রুয়ারি) নিজের ভেরিফায়েড ফেসবুক অ্যাকাউন্টে এক পোস্টে এই অভিযোগ করেন তিনি।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/a9aa6bbde995f3314893a65162532987-6990ad035fc27.jpg"
-    },
-    {
-      "headline": "ফরমালি মন্ত্রণালয় থেকে আমাকে বিদায় দেওয়া হয়েছে: ফয়েজ আহমদ তৈয়্যব",
-      "url": "https://www.ittefaq.com.bd/774960/%E0%A6%AB%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87",
-      "published_at": null,
-      "summary": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়–সম্পর্কিত প্রধান উপদেষ্টার বিশেষ সহকারী ফয়েজ আহমদ তৈয়্যব জানিয়েছেন, তাকে ফরমালি (আনুষ্ঠানিকভাবে) মন্ত্রণালয় থেকে বিদায় দেওয়া হয়েছে। দেশ ছাড়ার গুঞ্জন নিয়ে জানতে চাইলে তিনি এ কথা জানান।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/e82a1bddfc619286ede409f23689741e-6990a5ca234f5.jpg"
-    },
-    {
-      "headline": "দেশ ছেড়েছেন ফয়েজ আহমদ তৈয়্যব",
-      "url": "https://www.ittefaq.com.bd/774959/%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%9B%E0%A7%87%E0%A7%9C%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AB%E0%A7%9F%E0%A7%87%E0%A6%9C-%E0%A6%86%E0%A6%B9%E0%A6%AE%E0%A6%A6-%E0%A6%A4%E0%A7%88%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%AC",
-      "published_at": null,
-      "summary": "অন্তর্বর্তী সরকারের প্রধান উপদেষ্টার আইসিটি ও টেলিযোগাযোগ বিষয়ক বিশেষ সহকারী ফয়েজ আহমদ তৈয়্যব দেশ ছেড়েছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/febb67598f8fdf6f65b51a855fca3f9c-6990a3a54c146.jpg"
     },
     {
       "headline": "কৌশলগত নীরবতা জামায়াতের !",
@@ -575,7 +575,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 15, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ভোলার চরফ‌্যাশ‌নে রা‌তের আঁধা‌রে একা পে‌য়ে এক ব‌্যা‌ক্তি‌কে কু‌পি‌য়ে হত্যা ক‌রে‌ছে দুর্বৃত্তরা। নিহতের নাম মো: ভূট্টু (৪৫)। তি‌নি ভোলার চরফ্যাশন ...",
+      "summary": "পাকিস্তানের রাওয়ালপিন্ডির আদিয়ালা কারাগারে থাকা সাবেক প্রধানমন্ত্রী এবং পিটিআই দলের নেতা ইমরান খান এর যথাযথ চিকিৎসার দাবিতে বিরোধী দলগুলো ইসলামাবাদের ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -584,6 +584,28 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "অতুল তোমার একা হিম, বহু বিস্তার",
+      "url": "https://www.prothomalo.com/onnoalo/poem/midkcsuhl9",
+      "published_at": "2026-02-14T15:34:41.065000+00:00",
+      "summary": "শিলাবৃষ্টির মতো ঝরে পড়ছে থলে–উপুড় কড়ি\nসামন্ত দম্ভোলে কাঁপে নারী ও শিল্পজিজ্ঞাসা!",
+      "image_s3_key": "prothomalo-bangla/2026-02-14/43koyv53/WhatsApp-Image-2026-02-14-at-18.43.43.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/43koyv53/WhatsApp-Image-2026-02-14-at-18.43.43.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "ফরমালি মন্ত্রণালয় থেকে আমাকে বিদায় দেওয়া হয়েছে: ফয়েজ আহমদ তৈয়্যব",
+      "url": "https://www.ittefaq.com.bd/774960/%E0%A6%AB%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87",
+      "published_at": null,
+      "summary": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তি মন্ত্রণালয়–সম্পর্কিত প্রধান উপদেষ্টার বিশেষ সহকারী ফয়েজ আহমদ তৈয়্যব জানিয়েছেন, তাকে ফরমালি (আনুষ্ঠানিকভাবে) মন্ত্রণালয় থেকে বিদায় দেওয়া হয়েছে। দেশ ছাড়ার গুঞ্জন নিয়ে জানতে চাইলে তিনি এ কথা জানান।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/e82a1bddfc619286ede409f23689741e-6990a5ca234f5.jpg"
+    },
+    {
+      "headline": "দেশ ছেড়েছেন ফয়েজ আহমদ তৈয়্যব",
+      "url": "https://www.ittefaq.com.bd/774959/%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%9B%E0%A7%87%E0%A7%9C%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AB%E0%A7%9F%E0%A7%87%E0%A6%9C-%E0%A6%86%E0%A6%B9%E0%A6%AE%E0%A6%A6-%E0%A6%A4%E0%A7%88%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%AC",
+      "published_at": null,
+      "summary": "অন্তর্বর্তী সরকারের প্রধান উপদেষ্টার আইসিটি ও টেলিযোগাযোগ বিষয়ক বিশেষ সহকারী ফয়েজ আহমদ তৈয়্যব দেশ ছেড়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/febb67598f8fdf6f65b51a855fca3f9c-6990a3a54c146.jpg"
     },
     {
       "headline": "সংসদ সদস্যদের শপথ মঙ্গলবার",
@@ -1465,27 +1487,6 @@
       "published_at": null,
       "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মুখপাত্র আসিফ মাহমুদ সজীব ভূঁইয়া বলেছেন, নির্বাচনে পরাজিত হয়ে মনে মনে ক্রীড়া মন্ত্রী হয়ে বসে থাকা একজনের মাথা নষ্ট হয়ে গেছে। কথাগুলো বলতে চাইনি, তার কর্মকাণ্ডে না বলেও থাকা যাচ্ছে না।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/07e4b93da6200e234ca5b19ba3edc6eb-699072188b19c.jpg"
-    },
-    {
-      "headline": "‘আল্লাহর কাছে দোয়া করি ভারত-পাকিস্তান ম্যাচ যেন বৃষ্টিতে ভেসে যায়’",
-      "url": "https://www.ittefaq.com.bd/774933/%E2%80%98%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%B9%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%A6%E0%A7%8B%E0%A7%9F%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BF-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A-%E0%A6%AF%E0%A7%87%E0%A6%A8",
-      "published_at": null,
-      "summary": "পিসিবি ও আইসিসির মধ্যে টানাপোড়েনের কারণে টি-টোয়েন্টি বিশ্বকাপে ভারত ও পাকিস্তান ম্যাচ হওয়ারই কথা ছিল না। ভারতে খেলতে রাজি না হওয়ায় বাংলাদেশকে বাদ দেয় বিশ্ব ক্রিকেটের নিয়ন্ত্রক সংস্থা। এরপর বাংলাদেশের প্রতি সংহতি জানিয়ে ভারত ম্যাচ বয়কটের সিদ্ধান্ত নেয় পাকিস্তান।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/e625f60dad821821b515a1b9c3d1d2d1-69906d3308b30.jpg"
-    },
-    {
-      "headline": "বোলারদের নৈপুন্যে রোমাঞ্চকর জয় বাংলাদেশের",
-      "url": "https://dailynayadiganta.com/sports/cricket/xhLbDMK61XBU/",
-      "published_at": null,
-      "summary": "৩৫ বলে ৪৮ রানের ওপেনিং পার্টনারশিপ গড়েন দুই ওপেনার ইসমা তানজিম ও শামিমা সুলতানা। উইকেটে সেট হয়ে ইসমা ৩০ ও শামিমা ১৭ রানে আউট হন। এরপর শারমিন সুলতানা ২৯ ও রুবায়া হায়দার থামেন ১১ রানে। ১০৪ রানে পঞ্চম উইকেট পতনের পর মিডল অর্ডারের ব্যাটারদের ব্যর্থতায় ১৯.৫ ওভারে ১১৫ রানেই গুটিয়ে যায় বাংলাদেশ।",
-      "image_url": "https://media.ndiganta.com/original_images/Cricket_FdAOf6T.jpg"
-    },
-    {
-      "headline": "ভোর মানেই দিন নয়, দিনের  শুরু কাজে",
-      "url": "https://dailynayadiganta.com/opinions/opinion/Z0o5K53JZuuz/",
-      "published_at": null,
-      "summary": "মানুষ জানতে চাইবে সিন্ডিকেটের বিরুদ্ধে কী ভূমিকা নেয়া হলো। সেই সাথে অর্থনৈতিক দুর্বৃত্তপনা বন্ধে কী করা হচ্ছে, কর্মসংস্থান ও দ্রব্যমূল্য নিয়ে দৃশ্যমান পরিবর্তন এলো কি না। এই প্রশ্নগুলো তুলতে হবে নাগরিকদেরই। জবাবদিহি নিশ্চিত না হলে রাজনীতির অভ্যাস বদলায় না, ক্ষমতার চরিত্রও বদলায় না। আমরা দীর্ঘ অন্ধকার দেখেছি। একটা নির্বাচনের মাধ্যমে এবার সত্যিই ভোরের আলো এসেছে; কিন্তু ভোর মানেই দিন নয়। দিন শুরু হয় কাজ দিয়ে, দায়িত্ব দিয়ে, প্রতিশ্রুতির বাস্তবায়ন দিয়ে",
-      "image_url": "https://media.ndiganta.com/original_images/opinion_2.jpg"
     }
   ]
 }
