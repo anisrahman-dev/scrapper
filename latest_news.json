@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-02-15T22:23:29.554627+00:00",
+  "fetched_at": "2026-02-15T22:55:42.496450+00:00",
   "stories": [
+    {
+      "headline": "রাজধানীর যাত্রাবাড়ীতে দুর্বৃত্তদের ছুরিকাঘাতে এক মাদ্রাসাছাত্র নিহত",
+      "url": "https://www.prothomalo.com/bangladesh/tsqmklohuf",
+      "published_at": "2026-02-15T22:34:10.587000+00:00",
+      "summary": "গুরুতর আহত অবস্থায় মাহিমকে উদ্ধার করে ঢাকা মেডিকেল কলেজ হাসপাতালে নেওয়া হলে চিকিৎসক রাত সোয়া ১১টার দিকে তাঁকে মৃত ঘোষণা করেন।\n নিজস্ব প্রতিবেদক, ঢাকা",
+      "image_s3_key": "prothomalo/import/media/2019/03/07/1a81832da15c105617de033c36b35f83-5c8086f878574.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo/import/media/2019/03/07/1a81832da15c105617de033c36b35f83-5c8086f878574.jpg?auto=format,compress"
+    },
+    {
+      "headline": "দান কেন পৃথিবীর এক শাশ্বত নিয়ম",
+      "url": "https://www.prothomalo.com/religion/islam/kazx2tdee7",
+      "published_at": "2026-02-15T22:30:00+00:00",
+      "summary": "ইসলামের ‘ফিতরাত’ থেকে শুরু করে বৌদ্ধধর্মের ‘কার্মা’ পর্যন্ত—পৃথিবীর প্রায় প্রতিটি ধর্ম ও দর্শন একবাক্যে স্বীকার করে যে, ‘দান’ বা ‘বদান্যতা’ হলো এই পৃথিবীর এক অলিখিত নিয়ম।",
+      "image_s3_key": "prothomalo-bangla/2026-02-15/gc6u1hne/2012.i506.016ramadancharityflat.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/gc6u1hne/2012.i506.016ramadancharityflat.jpg?auto=format,compress"
+    },
+    {
+      "headline": "নির্বাচিত সরকার দায়িত্ব নিলে ব্যারাকে ফিরবে সেনাবাহিনী: সেনাপ্রধান",
+      "url": "https://www.prothomalo.com/bangladesh/umkpjqfmxk",
+      "published_at": "2026-02-15T22:25:36.058000+00:00",
+      "summary": " নির্বাচনকালীন দায়িত্ব পালনে চমৎকার দায়িত্ববোধ ও পেশাদারত্ব প্রদর্শনের জন্য সেনা সদস্যদের প্রতি কৃতজ্ঞতা প্রকাশ করেন সেনাপ্রধান।",
+      "image_s3_key": "prothomalo-bangla/2024-08-08/29bmxvqy/Army-chief-Wakar.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08-08/29bmxvqy/Army-chief-Wakar.jpg?auto=format,compress"
+    },
     {
       "headline": "দেশি–বিদেশি ১২০০ অতিথি থাকছেন নতুন সরকারের শপথ অনুষ্ঠানে",
       "url": "https://www.prothomalo.com/bangladesh/n61wl23g7t",
@@ -298,30 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-11-21/qgz1zi2k/Baharul-Alam.jpeg?auto=format,compress"
     },
     {
-      "headline": "প্রোগ্রামিংয়ের সঙ্গে কবিতার মিল যেখানে",
-      "url": "https://www.prothomalo.com/lifestyle/wuonwwe31d",
-      "published_at": "2026-02-15T15:38:46.216000+00:00",
-      "summary": "কর্মজীবনের মধ্য পথে হঠাৎ খেয়াল হলো নামের আগে একটা ‘ডক্টর’ লাগালে ভালো দেখাবে। বিশ্ববিদ্যালয়ের পিএইচডি প্রোগ্রামে ভর্তি হয়ে গেলাম।",
-      "image_s3_key": "prothomalo-bangla/2026-02-15/yk3q1iv1/Untitled-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/yk3q1iv1/Untitled-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "গাজীপুরে উদ্বোধনের আগেই ধসে পড়ল সড়ক",
-      "url": "https://www.prothomalo.com/bangladesh/district/ne3w7m1w4j",
-      "published_at": "2026-02-15T15:20:50.264000+00:00",
-      "summary": "নির্বাচনের কয়েক দিন আগে দ্রুতগতিতে রাস্তার ঢালাই কাজ শেষ করা হয়। ঢালাইয়ের তিন দিনের মাথায় রাস্তার একটি অংশে ফাটল দেখা দেয়।",
-      "image_s3_key": "prothomalo-bangla/2026-02-15/4tfbfpau/Gazipur.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/4tfbfpau/Gazipur.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ভাঙাচোরা আওয়ামী লীগ কার্যালয়ে দুপুরে নেতা-কর্মীদের স্লোগান, বিকেলে অগ্নিসংযোগ",
-      "url": "https://www.prothomalo.com/bangladesh/district/70k3xdtq12",
-      "published_at": "2026-02-15T15:13:07.733000+00:00",
-      "summary": "ছড়িয়ে পড়া ভিডিওতে দেখা যায়, সাতজন নেতা–কর্মী দলীয় কার্যালয়ের সামনে উপস্থিত হন। তাঁদেরই একজন মুঠোফোনে সেলফি তোলার ভঙ্গিতে ভিডিও ধারণ করছিলেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-15/ojo27uir/DINAJPUR-league-office-1.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/ojo27uir/DINAJPUR-league-office-1.JPG?auto=format,compress"
-    },
-    {
       "headline": "যাত্রাবাড়ীতে ছুরিকাঘাতে মাদ্রাসা শিক্ষার্থী নিহত",
       "url": "https://www.bd-pratidin.com/city-news/2026/02/16/1217527",
       "published_at": "2026-02-16T00:23:24+06:00",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/15/og/1771166452-d82319912041449cd31bdb7e7569d171.jpg"
     },
     {
+      "headline": "গাজীপুরে উদ্বোধনের আগেই ধসে পড়ল সড়ক",
+      "url": "https://www.ittefaq.com.bd/775127/%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%A7%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%87-%E0%A6%A7%E0%A6%B8%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%B2-%E0%A6%B8%E0%A7%9C%E0%A6%95",
+      "published_at": null,
+      "summary": "গাজীপুর সিটি কর্পোরেশন–এর কাশিমপুর ধনঞ্জয়খালী এলাকায় নির্মিত একটি সড়ক কয়েকদিনের মধ্যেই ভেঙে কয়েক ফুট নিচ পর্যন্ত দেবে গেছে। উদ্বোধনের আগেই সড়কের এমন বেহাল অবস্থায় ক্ষোভ প্রকাশ করেছেন স্থানীয় বাসিন্দারা। তাদের অভিযোগ, নির্মাণকাজে অনিয়ম ও দুর্নীতি হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/16/bc9b73a5b4f52900d2c4987837e0e486-6992445f1e49b.jpg"
+    },
+    {
       "headline": "জাতীয় স্মৃতিসৌধে নবাগত প্রধানমন্ত্রী শ্রদ্ধা জানাবেন, সবার প্রবেশে নিষেধাজ্ঞা",
       "url": "https://www.ittefaq.com.bd/775126/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8C%E0%A6%A7%E0%A7%87-%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%A4-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE",
       "published_at": null,
@@ -453,13 +460,6 @@
       "published_at": null,
       "summary": "রাজনৈতিক সৌজন্য সাক্ষাৎ ও তারেক রহমানের জয়ী হয়ে আসাকে অভিনন্দন জানিয়ে জাতীয় নাগরিক পার্টি (এনসিপি) সদস্য সচিব আখতার হোসেন বলেছেন, তারেক রহমান রাজনৈতিক সৌজন্যের জায়গা থেকে নাহিদ ইসলামের সঙ্গে আজ সাক্ষাতে এসেছিলেন। এই রাজনৈতিক সৌজন্যতা এবং তার জয়ী হয়ে আসাকে আমরা অভিনন্দন জানাই। আমরা নিজেদের মধ্যে মতভিন্নতা সত্ত্বেও কীভাবে রাজনৈতিক মতভিন্নতার বাইরে গিয়েও একত্রে দেশের জন্য কাজ করতে পারি সেই বিষয়গুলো নিয়ে আমরা কথা বলেছি।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/8ad29ba4830a6fa0dce839de21f580f1-6992089f60dbe.jpg"
-    },
-    {
-      "headline": "পাকিস্তানকে উড়িয়ে সুপার এইটে ভারত",
-      "url": "https://www.ittefaq.com.bd/775111/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%87%E0%A6%9F%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4",
-      "published_at": null,
-      "summary": "সবার আগ্রহের কেন্দ্রবিন্দুতে থাকা ভারত–পাকিস্তান ম্যাচটি প্রত্যাশা অনুযায়ী জমেনি। যে ম্যাচ আয়োজন করার জন্যে এতো কাটখড় পোড়ালো আইসিসি, সেটি শেষ পর্যন্ত হয়ে ওঠে একপেশে লড়াই। টি-টোয়েন্টি বিশ্বকাপের গ্রুপ পর্বের ম্যাচে সূর্যকুমার যাদবের দল ৬১ রানের বড় ব্যবধানে হারিয়েছে পাকিস্তানকে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/d0b865be94e3f3d08a4228381003fc1c-699203576a284.jpg"
     },
     {
       "headline": "কৌশলগত নীরবতা জামায়াতের !",
@@ -563,7 +563,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 16, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ভোক্তার মজুরি বাড়ার হারের চেয়ে মূল্যস্ফীতির হার এখনো বেশি। এ কারণে মানুষের আয়ের চেয়ে খরচ হচ্ছে বেশি। কমেছে ক্রয়ক্ষমতা। গত ...",
+      "summary": "দুজন মানুষের মধ্যে আকর্ষণ কখনও শুধু বাহ্যিক সৌন্দর্য বা বয়সের ওপর নির্ভর করে না। আবেগ, অভিজ্ঞতা, নিরাপত্তাবোধ ও অপূর্ণ চাহিদার ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -572,6 +572,37 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "প্রোগ্রামিংয়ের সঙ্গে কবিতার মিল যেখানে",
+      "url": "https://www.prothomalo.com/lifestyle/wuonwwe31d",
+      "published_at": "2026-02-15T15:38:46.216000+00:00",
+      "summary": "কর্মজীবনের মধ্য পথে হঠাৎ খেয়াল হলো নামের আগে একটা ‘ডক্টর’ লাগালে ভালো দেখাবে। বিশ্ববিদ্যালয়ের পিএইচডি প্রোগ্রামে ভর্তি হয়ে গেলাম।",
+      "image_s3_key": "prothomalo-bangla/2026-02-15/yk3q1iv1/Untitled-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/yk3q1iv1/Untitled-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "গাজীপুরে উদ্বোধনের আগেই ধসে পড়ল সড়ক",
+      "url": "https://www.prothomalo.com/bangladesh/district/ne3w7m1w4j",
+      "published_at": "2026-02-15T15:20:50.264000+00:00",
+      "summary": "নির্বাচনের কয়েক দিন আগে দ্রুতগতিতে রাস্তার ঢালাই কাজ শেষ করা হয়। ঢালাইয়ের তিন দিনের মাথায় রাস্তার একটি অংশে ফাটল দেখা দেয়।",
+      "image_s3_key": "prothomalo-bangla/2026-02-15/4tfbfpau/Gazipur.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/4tfbfpau/Gazipur.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ভাঙাচোরা আওয়ামী লীগ কার্যালয়ে দুপুরে নেতা-কর্মীদের স্লোগান, বিকেলে অগ্নিসংযোগ",
+      "url": "https://www.prothomalo.com/bangladesh/district/70k3xdtq12",
+      "published_at": "2026-02-15T15:13:07.733000+00:00",
+      "summary": "ছড়িয়ে পড়া ভিডিওতে দেখা যায়, সাতজন নেতা–কর্মী দলীয় কার্যালয়ের সামনে উপস্থিত হন। তাঁদেরই একজন মুঠোফোনে সেলফি তোলার ভঙ্গিতে ভিডিও ধারণ করছিলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-15/ojo27uir/DINAJPUR-league-office-1.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/ojo27uir/DINAJPUR-league-office-1.JPG?auto=format,compress"
+    },
+    {
+      "headline": "পাকিস্তানকে উড়িয়ে সুপার এইটে ভারত",
+      "url": "https://www.ittefaq.com.bd/775111/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%87%E0%A6%9F%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4",
+      "published_at": null,
+      "summary": "সবার আগ্রহের কেন্দ্রবিন্দুতে থাকা ভারত–পাকিস্তান ম্যাচটি প্রত্যাশা অনুযায়ী জমেনি। যে ম্যাচ আয়োজন করার জন্যে এতো কাটখড় পোড়ালো আইসিসি, সেটি শেষ পর্যন্ত হয়ে ওঠে একপেশে লড়াই। টি-টোয়েন্টি বিশ্বকাপের গ্রুপ পর্বের ম্যাচে সূর্যকুমার যাদবের দল ৬১ রানের বড় ব্যবধানে হারিয়েছে পাকিস্তানকে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/d0b865be94e3f3d08a4228381003fc1c-699203576a284.jpg"
     },
     {
       "headline": "ঢাকা দক্ষিণের মেয়র প্রার্থী হওয়ার ঘোষণা ইনকিলাব মঞ্চের জাবেরের",
@@ -1456,34 +1487,6 @@
       "published_at": "2026-02-15T17:32:54+06:00",
       "summary": "রমজান মাসের চাঁদ দেখার জন্য দেশটির মুসলিমদের প্রতি আহ্বান জানিয়েছে সৌদি আরবের সুপ্রীম কোর্ট। হিজরি ১৪৪৭ সালের শাবান মাসের ২৯ তারিখ মঙ্গলবার সন্ধ্যায় আকাশে চাঁদ দেখা পর্যবেক্ষণের নির্দেশ দেওয়া হয়েছে।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/15/og/1771155173-34810d019f831bef9eddea87cc95ff0b.jpg"
-    },
-    {
-      "headline": "হাসপাতালে ভর্তি অভিনেতা হারুন কিসিঞ্জার",
-      "url": "https://www.ittefaq.com.bd/775087/%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%B0",
-      "published_at": null,
-      "summary": "নব্বই দশকের কৌতুক অভিনেতা হারুন কিসিঞ্জার গুরুতর অসুস্থ হয়ে হাসপাতালে ভর্তি হয়েছেন। নিউমোনিয়া সংক্রান্ত সমস্যায় চিকিৎসাধীন তিনি। অভিনেতা শামীম হোসেন সামাজিক যোগাযোগমাধ্যমে হারুন কিসিঞ্জারের অসুস্থতার খবর জানান।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/6c8ef9caddaf62178b445f70a0766536-6991d1949b50b.jpg"
-    },
-    {
-      "headline": "জামালগঞ্জের ইউএনওকে আদালতে তলব",
-      "url": "https://www.ittefaq.com.bd/775086/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%89%E0%A6%8F%E0%A6%A8%E0%A6%93%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A6%B2%E0%A6%AC",
-      "published_at": null,
-      "summary": "আদালতের আদেশ অমান্য করায় সুনামগঞ্জের জামালগঞ্জের উপজেলা নির্বাহী কর্মকর্তা (ইউএনও) মুশফিকীন নূরকে তলব করেছে হাইকোর্ট। আগামী ২৬ ফেব্রুয়ারি তাকে সশরীরে আদালতে হাজির হয়ে আদালত অবমাননার বিষয়ে ব্যাখ্যা দিতে বলা হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/44d05277887071fa4097f6335c72c180-6991d050a6175.jpg"
-    },
-    {
-      "headline": "ধানমন্ডি ৩২ নম্বরে ফুল দিতে যাওয়া ঢাবি অধ্যাপক জামালসহ আটক ৫",
-      "url": "https://www.ittefaq.com.bd/775085/%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BF-%E0%A7%A9%E0%A7%A8-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%87-%E0%A6%AB%E0%A7%81%E0%A6%B2-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%A2%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%85%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%95",
-      "published_at": null,
-      "summary": "রাজধানীর ধানমন্ডি ৩২ নম্বরে ফুল দিতে যাওয়া ঢাকা বিশ্ববিদ্যালয়ের শিক্ষক আ ক ম জামাল উদ্দিনসহ ৫ জনকে নিয়ে গেছে ধানমন্ডি থানা পুলিশ।‎‎রোববার (১৫ ফেব্রুয়ারি) বিকেল পৌনে ৫টার দিকে ধানমন্ডি ৩২ থেকে তাদের নিয়ে যাওয়া হয়। প্রাথমিকভাবে বাকি চারজনের পরিচয় নিশ্চিত হওয়া যায় যায়নি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/d4414eba36c66dddff9856f6567f1da3-6991ceff1b996.jpg"
-    },
-    {
-      "headline": "তারেক রহমানের নেতৃত্বে নতুন সরকারের শপথ মঙ্গলবার",
-      "url": "https://dailynayadiganta.com/video/pKOj0lAjnU9D/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     }
   ]
 }
