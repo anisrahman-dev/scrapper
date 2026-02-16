@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-02-16T20:28:34.994966+00:00",
+  "fetched_at": "2026-02-16T21:00:03.452325+00:00",
   "stories": [
+    {
+      "headline": "বিএনপি সংবিধান সংস্কার পরিষদের শপথ নেবে কি না, স্পষ্ট হয়নি",
+      "url": "https://www.prothomalo.com/politics/1caj0uienu",
+      "published_at": "2026-02-16T20:42:32.224000+00:00",
+      "summary": "নবনির্বাচিতদের দুটি শপথের প্রস্তুতি নিয়ে রেখেছে জাতীয় সংসদ সচিবালয়।",
+      "image_s3_key": "prothomalo-bangla/2026-02-16/cde7tsiz/Untitled_2.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-16/cde7tsiz/Untitled_2.png?auto=format,compress"
+    },
+    {
+      "headline": "শেখ হাসিনার ভারতে অবস্থান ঢাকা-নয়াদিল্লি সম্পর্কে ‘বাধা’ হবে না",
+      "url": "https://www.prothomalo.com/bangladesh/z7id0xnq8y",
+      "published_at": "2026-02-16T20:28:20.118000+00:00",
+      "summary": "মির্জা ফখরুল বলেন, ‘যাঁরা ভারতের সঙ্গে যুদ্ধের কথা বলেন, তাঁরা উন্মাদের মতো কথা বলেন।’",
+      "image_s3_key": "prothomalo-bangla/2025-08-21/0ntfxe98/Fakrul_1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-08-21/0ntfxe98/Fakrul_1.jpg?auto=format,compress"
+    },
     {
       "headline": "হেফাজতের আমিরকে শপথ অনুষ্ঠানে আমন্ত্রণ জানিয়েছেন তারেক রহমান",
       "url": "https://www.prothomalo.com/politics/ucy3fg2l2l",
@@ -298,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-16/5lvhzf76/web.jpg?auto=format,compress"
     },
     {
-      "headline": "দায়িত্বশীল বিরোধী দল হিসেবে জামায়াত জনগণের সঙ্গে থাকবে: শফিকুর রহমান",
-      "url": "https://www.prothomalo.com/politics/23o7ycucr7",
-      "published_at": "2026-02-16T15:41:21.786000+00:00",
-      "summary": "জামায়াতে ইসলামী সংসদে যাওয়ার সিদ্ধান্ত নিয়েছে বলে জানিয়েছেন দলটির আমির শফিকুর রহমান।",
-      "image_s3_key": "prothomalo-bangla/2026-02-16/nr7okzsl/WhatsApp-Image-2026-02-16-at-9.42.16-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-16/nr7okzsl/WhatsApp-Image-2026-02-16-at-9.42.16-PM.jpeg?auto=format,compress"
-    },
-    {
       "headline": "সুপার এইটের পাঁচ দল নিশ্চিত, বাকিদের সমীকরণ কী?",
       "url": "https://www.bd-pratidin.com/sports/2026/02/17/1217906",
       "published_at": "2026-02-17T01:41:31+06:00",
@@ -376,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/16/og/1771254915-ccc2d8ff5716aa59cef1281ecaf0ab9d.jpg"
     },
     {
+      "headline": "এলপি গ্যাসের ওপর ৭.৫ শতাংশ ভ্যাট প্রত্যাহার করলো সরকার",
+      "url": "https://www.ittefaq.com.bd/775300/%E0%A6%8F%E0%A6%B2%E0%A6%AA%E0%A6%BF-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A7%AD.%E0%A7%AB-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%8B",
+      "published_at": null,
+      "summary": "সরকার এলপি গ্যাসের ওপর প্রদেয় ভ্যাট হ্রাস করেছে। মঙ্গলবার (১৬ ফেব্রুয়ারি) জাতীয় রাজস্ব বোর্ডের জনসংযোগ কর্মকর্তা মো. আল আমিন শেখ গণমাধ্যমকে এ তথ্য জানান।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/2a2c00c5c1a4ae796a3ed32994f4b4e1-6993794d28fce.jpg"
+    },
+    {
       "headline": "মালয়েশিয়ায় ২২২ বাংলাদেশি গ্রেপ্তার",
       "url": "https://www.ittefaq.com.bd/775299/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A7%A8%E0%A7%A8%E0%A7%A8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0",
       "published_at": null,
@@ -437,13 +452,6 @@
       "published_at": null,
       "summary": "সৌদি আরবের দাপ্তরিক হিজরি বর্ষপঞ্জি উম্ম আল-কুরা অনুযায়ী আগামী বুধবার (১৮ ফেব্রুয়ারি) রমজানের প্রথম দিন নির্ধারিত হয়েছে। তবে সংযুক্ত আরব আমিরাতের কয়েকটি জ্যোতির্বিদ্যা সংস্থা জানিয়েছে, মঙ্গলবার মধ্যপ্রাচ্যের কোথাও চাঁদ দেখা যাবে না।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/16/a196a8a8dd4ea8a760ec3a4ac11dbb8a-69934bf0bfab1.jpg"
-    },
-    {
-      "headline": "আকিজবশির গ্রুপে আগের দায়িত্বে ফিরে যাচ্ছেন বাণিজ্য উপদেষ্টা",
-      "url": "https://www.ittefaq.com.bd/775287/%E0%A6%86%E0%A6%95%E0%A6%BF%E0%A6%9C%E0%A6%AC%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF",
-      "published_at": null,
-      "summary": "নতুন মন্ত্রিসভার শপথের পর বাণিজ্য উপদেষ্টা শেখ বশিরউদ্দীনের দায়িত্বের ইতি ঘটছে। তিনি নিজ ব্যবসা প্রতিষ্ঠান আকিজবশির গ্রুপ-এ ব্যবস্থাপনা পরিচালক (এমডি) হিসেবে ফিরবেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/16/cd779e9a005d665648bbd54071865ca7-69934a5115170.jpg"
     },
     {
       "headline": "যেই যায় লঙ্কায় সেই হয় রাবণ",
@@ -542,6 +550,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "দায়িত্বশীল বিরোধী দল হিসেবে জামায়াত জনগণের সঙ্গে থাকবে: শফিকুর রহমান",
+      "url": "https://www.prothomalo.com/politics/23o7ycucr7",
+      "published_at": "2026-02-16T15:41:21.786000+00:00",
+      "summary": "জামায়াতে ইসলামী সংসদে যাওয়ার সিদ্ধান্ত নিয়েছে বলে জানিয়েছেন দলটির আমির শফিকুর রহমান।",
+      "image_s3_key": "prothomalo-bangla/2026-02-16/nr7okzsl/WhatsApp-Image-2026-02-16-at-9.42.16-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-16/nr7okzsl/WhatsApp-Image-2026-02-16-at-9.42.16-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "আকিজবশির গ্রুপে আগের দায়িত্বে ফিরে যাচ্ছেন বাণিজ্য উপদেষ্টা",
+      "url": "https://www.ittefaq.com.bd/775287/%E0%A6%86%E0%A6%95%E0%A6%BF%E0%A6%9C%E0%A6%AC%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF",
+      "published_at": null,
+      "summary": "নতুন মন্ত্রিসভার শপথের পর বাণিজ্য উপদেষ্টা শেখ বশিরউদ্দীনের দায়িত্বের ইতি ঘটছে। তিনি নিজ ব্যবসা প্রতিষ্ঠান আকিজবশির গ্রুপ-এ ব্যবস্থাপনা পরিচালক (এমডি) হিসেবে ফিরবেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/16/cd779e9a005d665648bbd54071865ca7-69934a5115170.jpg"
     },
     {
       "headline": "বগুড়ায় আওয়ামী লীগ কার্যালয়ে জাতীয় পতাকা উত্তোলন, ফেসবুকে ছবিতে লেখা, ‘দাবায়া রাখতে পারবা না’ ",
@@ -1468,30 +1491,6 @@
       "summary": "২০২৫ সালের ১৩ ফেব্রুয়ারি বিএনপির তৎকালীন ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানের নির্দেশে ফরিদপুর-২ আসন ছেড়ে ফরিদপুর-৪ আসনে নির্বাচনী কাজ শুরু করেন শহিদুল ইসলাম।",
       "image_s3_key": "prothomalo-bangla/2026-02-16/sb16tfdd/WhatsApp-Image-2026-02-16-at-6.54.00-PM.jpeg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-16/sb16tfdd/WhatsApp-Image-2026-02-16-at-6.54.00-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "পাঁচ আইনজীবীকে ডেপুটি অ্যাটর্নি\nজেনারেল পদে নিয়োগ",
-      "url": "https://www.prothomalo.com/bangladesh/vvixitu2au",
-      "published_at": "2026-02-16T12:56:21.970000+00:00",
-      "summary": "নতুন নিয়োগ পাওয়া পাঁচ ডেপুটি অ্যাটর্নি জেনারেল হলেন মো. আবদুস সামাদ, মলয় কুমার রায়, মো. শফিকুল ইসলাম, মো. ইছা ও মো. ওবায়দুর রহমান (তারেক)।",
-      "image_s3_key": "prothomalo-bangla/2024-03/b1c338a7-aede-493b-994e-0888b480c4ce/d5916e7c_996e_4195_a517_75befbfb4fba.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-03/b1c338a7-aede-493b-994e-0888b480c4ce/d5916e7c_996e_4195_a517_75befbfb4fba.jfif?auto=format,compress"
-    },
-    {
-      "headline": "কাল থেকে তেল, চিনি, ডাল, ছোলা ও খেজুর বিক্রি করবে টিসিবি",
-      "url": "https://www.prothomalo.com/business/8evse2zyav",
-      "published_at": "2026-02-16T12:54:14.461000+00:00",
-      "summary": "রোজায় টিসিবির নিয়মিত পণ্য তেল, ডাল ও চিনির পাশাপাশি ছোলা ও খেজুরও বিক্রি করা হবে। ট্রাকে পণ্য বিক্রির পাশাপাশি স্মার্ট পরিবার কার্ডের মাধ্যমেও পণ্য বিক্রি করবে টিসিবি।",
-      "image_s3_key": "prothomalo-bangla/2025-03-16/jcje8m0t/WhatsApp-Image-2025-03-16-at-12.39.54.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-16/jcje8m0t/WhatsApp-Image-2025-03-16-at-12.39.54.jpeg?auto=format,compress"
-    },
-    {
-      "headline": " দীর্ঘ বিরতির পর ময়মনসিংহের ৮টি আসনে জয়ের দেখা পেল বিএনপি",
-      "url": "https://www.prothomalo.com/bangladesh/district/yr1xx59u1x",
-      "published_at": "2026-02-16T12:52:32.886000+00:00",
-      "summary": "এবার আওয়ামী লীগবিহীন ভোটে প্রধান প্রতিদ্বন্দ্বী জামায়াতে ইসলামীর পাশাপাশি নিজ দলের বিদ্রোহী প্রার্থীদের সঙ্গে প্রতিদ্বন্দ্বিতা করে আসন পুনরুদ্ধার করেছেন ধানের শীষের প্রার্থীরা।",
-      "image_s3_key": "prothomalo-bangla/2024-01/865b9688-987a-43db-8361-136f2e681e3d/__________web.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-01/865b9688-987a-43db-8361-136f2e681e3d/__________web.jpg?auto=format,compress"
     }
   ]
 }
