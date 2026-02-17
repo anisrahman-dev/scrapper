@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-02-17T20:35:24.989315+00:00",
+  "fetched_at": "2026-02-17T21:08:39.791099+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে বিভিন্ন দেশের সরকার-রাষ্ট্রপ্রধান ও প্রতিনিধিদের সাক্ষাৎ",
+        "url": "https://www.prothomalo.com/bangladesh/j560rhteaj",
+        "published_at": "2026-02-17T20:51:30.057000+00:00",
+        "summary": "ভারত, নেপাল ও তুরস্কের প্রতিনিধিরা তাঁদের দেশের সরকারপ্রধানদের পক্ষ থেকে অভিনন্দনপত্র হস্তান্তর করেন এবং প্রধানমন্ত্রীকে তাঁদের দেশ সফরের আমন্ত্রণ জানান।",
+        "image_s3_key": "prothomalo-bangla/2026-02-17/g68kqvhs/tarique-muizzu.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-17/g68kqvhs/tarique-muizzu.jpg?auto=format,compress"
+      },
+      {
+        "headline": "কারাগারে ইমরানের দৃষ্টি সমস্যায় উদ্বিগ্ন দুই ছেলে ",
+        "url": "https://www.prothomalo.com/world/pakistan/hrbhmp4ktw",
+        "published_at": "2026-02-17T20:30:00+00:00",
+        "summary": "লন্ডনে বসবাসরত খানের দুই ছেলে কাসিম (২৬) ও সুলায়মান (২৯) রয়টার্সকে বলেন, মেডিক্যাল বোর্ডের প্রতিবেদনের বিষয়ে তাঁরা নিশ্চিত নন। ",
+        "image_s3_key": "prothomalo-bangla/2025-12-01/rqd1ckfw/Imran-Khan.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-01/rqd1ckfw/Imran-Khan.avif?auto=format,compress"
+      },
       {
         "headline": "টেকনোক্র্যাট কোটায় ২ মন্ত্রী ও ১ প্রতিমন্ত্রী ",
         "url": "https://www.prothomalo.com/bangladesh/4za21wkhw2",
@@ -299,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-17/mkum6n8w/Advisor.jpg?auto=format,compress"
       },
       {
-        "headline": "ফরিদপুরে দরপত্র জমা দিতে বাধা দেওয়ার অভিযোগ বিএনপির নেতাদের বিরুদ্ধে",
-        "url": "https://www.prothomalo.com/bangladesh/district/1b7g8sv1yn",
-        "published_at": "2026-02-17T16:06:17.348000+00:00",
-        "summary": " নাম প্রকাশে অনিচ্ছুক কয়েকজন ঠিকাদারের অভিযোগ, কেউ দরপত্র জমা দিতে এলে গেট থেকেই বাধা দেওয়া হয় এবং ভয়ভীতি দেখানো হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-02-17/5ta33wtj/Faridpur.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-17/5ta33wtj/Faridpur.jpg?auto=format,compress"
-      },
-      {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
         "url": "https://www.bd-pratidin.com/islam/2026/02/18/1218211",
         "published_at": "2026-02-18T02:17:52+06:00",
@@ -377,6 +385,20 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
+        "headline": "খুলনায় বিএন‌পি-জামায়াত সমর্থক‌দের সংঘ‌র্ষ, আহত ১০",
+        "url": "https://www.ittefaq.com.bd/775462/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E2%80%8C%E0%A6%AA%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E2%80%8C%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%98%E2%80%8C%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A7%A7%E0%A7%A6",
+        "published_at": null,
+        "summary": "খুলনার তেখাখাদা উপজেলা–তে ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে কেন্দ্র করে বিএনপি ও জামায়াত সমর্থকদলের মধ্যে ধাওয়া-পাল্টা ধাওয়া এবং সংঘর্ষের ঘটনা ঘটেছে। এতে অন্তত ১০ জন আহত হয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/18/e5690719feb49876ef946c6105cd55f6-6994cbf704348.jpg"
+      },
+      {
+        "headline": "‘লাল-সবুজের সাথে চাঁদ-তারার লড়াই হবে’—ব্যারিস্টার ফুয়াদকে হুঁশিয়ারি তারেক রহমানের",
+        "url": "https://www.ittefaq.com.bd/775463/%E2%80%98%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A5%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B2%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%B9%E0%A6%AC%E0%A7%87%E2%80%99%E2%80%94%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "এবি পার্টির সাধারণ সম্পাদক ব্যারিস্টার আসাদুজ্জামান ফুয়াদের ‘আরেকটি গণ-অভ্যুত্থান’ বিষয়ক সতর্কবার্তাকে চ্যালেঞ্জ হিসেবে গ্রহণ করে কড়া জবাব দিয়েছেন আম জনতার দলের সদস্য সচিব তারেক রহমান। ফুয়াদের বক্তব্যের প্রেক্ষিতে সামাজিক যোগাযোগমাধ্যম ফেসবুকে দেওয়া এক পোস্টে তিনি ব্যারিস্টার ফুয়াদকে ‘মুক্তিযুদ্ধের ইতিহাস বিকৃতকারী’ হিসেবে আখ্যা দিয়ে তাকে রাজপথে মোকাবিলার ঘোষণা দিয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/18/5cc4971d67dc20e1c6aff9a1831888a4-6994d3f00c4e5.jpg"
+      },
+      {
         "headline": "তারেক রহমান প্রধানমন্ত্রী হওয়ায় ঢাবিতে ছাত্রদলের মিষ্টি বিতরণ",
         "url": "https://www.ittefaq.com.bd/775461/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%A2%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0",
         "published_at": null,
@@ -431,20 +453,6 @@
         "published_at": null,
         "summary": "মঙ্গলবার জাতীয় সংসদ ভবনে জামায়াতে ইসলামীর আমির ও সংসদের বিরোধীদলীয় নেতা ডা. শফিকুর রহমান–এর সঙ্গে বিভিন্ন দেশের উচ্চপর্যায়ের প্রতিনিধিদল সৌজন্য সাক্ষাৎ করেছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/bf510f33d1688a2ad76d87daae5db25d-6994a0b18f9c9.jpg"
-      },
-      {
-        "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে বিশ্বনেতাদের সৌজন্য সাক্ষাৎ",
-        "url": "https://www.ittefaq.com.bd/775453/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0",
-        "published_at": null,
-        "summary": "মঙ্গলবার (১৭ ফেব্রুয়ারি) রাতে জাতীয় সংসদ ভবনে গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের নবনির্বাচিত প্রধানমন্ত্রী তারেক রহমান-এর সঙ্গে বিভিন্ন দেশের উচ্চপর্যায়ের প্রতিনিধিরা সৌজন্য সাক্ষাৎ করেছেন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/5810ac1a86e815e8139e113faebabaab-69949fd047881.jpg"
-      },
-      {
-        "headline": "সৌদির সঙ্গে মিল রেখে চাঁদপুরে অর্ধশতাধিক গ্রামে রোজা শুরু",
-        "url": "https://www.ittefaq.com.bd/775452/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87",
-        "published_at": null,
-        "summary": "সৌদি আরবে রমজান মাসের চাঁদ দেখা যাওয়ায় বুধবার (১৮ ফেব্রুয়ারি) থেকে দেশটিতে রোজা শুরু হচ্ছে। এ সঙ্গে মিল রেখে চাঁদপুরের অর্ধশতাধিক গ্রামেও সোমবার থেকে রোজা শুরু হয়েছে। রাতের তারাবির নামাজের মাধ্যমে রোজার আনুষ্ঠানিকতা শুরু হচ্ছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/f1e9694296042940cd9150e47a17935d-69949d6e87139.jpg"
       },
       {
         "headline": "কে হচ্ছেন নতুন অর্থ ও বাণিজ্যমন্ত্রী",
@@ -566,10 +574,10 @@
         "image_url": "https://media.ndiganta.com/original_images/PUTUL.jpg"
       },
       {
-        "headline": "আজকের সর্বশেষ খবর - February 18, 2026",
+        "headline": "আজকের সর্বশেষ খবর - February 17, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "মঙ্গলবার (১৭ ফেব্রুয়ারি) বিকালে সুলতান সালাউদ্দিনের প্রতিমন্ত্রী হিসেবে শপথ নেওয়ার খবর ছড়িয়ে পড়ার পর তার সমর্থকেরা আনন্দমিছিল বের করেন। ...",
+        "summary": "ঢাকা-১৬ আসন থেকে ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বিএনপি মনোনীত প্রার্থী হিসেবে ধানের শীষ প্রতীকে প্রতিদ্বন্দ্বিতা করেছিলেন আমিনুল; কিন্তু তিনি জয়ী ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -578,6 +586,28 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+      },
+      {
+        "headline": "ফরিদপুরে দরপত্র জমা দিতে বাধা দেওয়ার অভিযোগ বিএনপির নেতাদের বিরুদ্ধে",
+        "url": "https://www.prothomalo.com/bangladesh/district/1b7g8sv1yn",
+        "published_at": "2026-02-17T16:06:17.348000+00:00",
+        "summary": " নাম প্রকাশে অনিচ্ছুক কয়েকজন ঠিকাদারের অভিযোগ, কেউ দরপত্র জমা দিতে এলে গেট থেকেই বাধা দেওয়া হয় এবং ভয়ভীতি দেখানো হয়।",
+        "image_s3_key": "prothomalo-bangla/2026-02-17/5ta33wtj/Faridpur.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-17/5ta33wtj/Faridpur.jpg?auto=format,compress"
+      },
+      {
+        "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে বিশ্বনেতাদের সৌজন্য সাক্ষাৎ",
+        "url": "https://www.ittefaq.com.bd/775453/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "মঙ্গলবার (১৭ ফেব্রুয়ারি) রাতে জাতীয় সংসদ ভবনে গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের নবনির্বাচিত প্রধানমন্ত্রী তারেক রহমান-এর সঙ্গে বিভিন্ন দেশের উচ্চপর্যায়ের প্রতিনিধিরা সৌজন্য সাক্ষাৎ করেছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/5810ac1a86e815e8139e113faebabaab-69949fd047881.jpg"
+      },
+      {
+        "headline": "সৌদির সঙ্গে মিল রেখে চাঁদপুরে অর্ধশতাধিক গ্রামে রোজা শুরু",
+        "url": "https://www.ittefaq.com.bd/775452/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87",
+        "published_at": null,
+        "summary": "সৌদি আরবে রমজান মাসের চাঁদ দেখা যাওয়ায় বুধবার (১৮ ফেব্রুয়ারি) থেকে দেশটিতে রোজা শুরু হচ্ছে। এ সঙ্গে মিল রেখে চাঁদপুরের অর্ধশতাধিক গ্রামেও সোমবার থেকে রোজা শুরু হয়েছে। রাতের তারাবির নামাজের মাধ্যমে রোজার আনুষ্ঠানিকতা শুরু হচ্ছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/f1e9694296042940cd9150e47a17935d-69949d6e87139.jpg"
       },
       {
         "headline": "‘ডেলিভারিং লাভস’ ইভেন্টের মাধ্যমে চেরির ভালোবাসা দিবস উদ্‌যাপন",
@@ -1476,41 +1506,17 @@
         "summary": "শিল্প মন্ত্রণালয়ের আওতাধীন পেটেন্ট, শিল্পনকশা ও ট্রেডমার্কস অধিদপ্তরের (ডিপিডিটি) রাজস্ব খাতভুক্ত শূন্য পদে সরাসরি জনবল নিয়োগে বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
         "image_s3_key": "prothomalo-bangla/2026-02-15/w5i3ou1w/bangladesh_government_logo.png",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/w5i3ou1w/bangladesh_government_logo.png?auto=format,compress"
-      },
-      {
-        "headline": "স্টাইলিশ সাজে সাদিয়া আয়মান, রইল নতুন ৫ ছবি",
-        "url": "https://www.prothomalo.com/entertainment/drama/3cyztsw1xv",
-        "published_at": "2026-02-17T12:15:37.983000+00:00",
-        "summary": "স্টাইলিশ সাজে দেখা দিলেন অভিনেত্রী সাদিয়া আয়মান। ইনস্টাগ্রাম থেকে নেওয়া ছবিতে তাঁকে নিয়ে থাকল আরও তথ্য।",
-        "image_s3_key": "prothomalo-bangla/2026-02-17/s0vy7e4l/sadiaaayman177131532638343933272020418072238154025.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-17/s0vy7e4l/sadiaaayman177131532638343933272020418072238154025.jpg?auto=format,compress"
-      },
-      {
-        "headline": "স্মার্টফোনে সরাসরি নজরদারি করতে সক্ষম নতুন স্পাইওয়্যারের সন্ধান",
-        "url": "https://www.prothomalo.com/technology/cyberworld/rtwpg226h8",
-        "published_at": "2026-02-17T12:15:31.800000+00:00",
-        "summary": "স্মার্টফোনে সরাসরি নজরদারি করতে সক্ষম ‘জিরো ডে র‍্যাট’ নামের নতুন স্পাইওয়্যারের সন্ধান পেয়েছেন সাইবার নিরাপত্তা প্রতিষ্ঠান আইভেরিফাই।",
-        "image_s3_key": "prothomalo-bangla/2024-09-05/zs9kdywj/Spyware.reuters.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-09-05/zs9kdywj/Spyware.reuters.png?auto=format,compress"
-      },
-      {
-        "headline": "ছোট ব্যাগ দিয়ে বড় স্টাইল করবেন যেভাবে",
-        "url": "https://www.prothomalo.com/lifestyle/style/hfu6e8hu6k",
-        "published_at": "2026-02-17T12:13:02.926000+00:00",
-        "summary": "তিন থেকে চার ইঞ্চি চওড়া এই ব্যাগগুলো হাতের তালুর মধ্যেই রাখা যায়। এগুলোকে ব্যাগের চেয়ে বেশি দেখা হয় সাজের অংশ হিসেবে—গয়না বা স্টাইলিশ অনুষঙ্গের মতো। ",
-        "image_s3_key": "prothomalo-bangla/2026-02-17/qzltl5ce/040A9711.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-17/qzltl5ce/040A9711.JPG?auto=format,compress"
-      },
-      {
-        "headline": "মাঠের অতন্দ্র প্রহরী থেকে এবার ক্রীড়াঙ্গনের ‘ক্যাপ্টেন’ আমিনুল",
-        "url": "https://www.prothomalo.com/sports/football/nor8d1da0z",
-        "published_at": "2026-02-17T12:11:59.421000+00:00",
-        "summary": "‘টেকনোক্র্যাট কোটায়’ যুব ও ক্রীড়া মন্ত্রণালয়ের প্রতিমন্ত্রীর দায়িত্ব পেয়েছেন জাতীয় ফুটবল দলের সাবেক অধিনায়ক আমিনুল হক। মাঠ থেকে মন্ত্রিসভায় যাওয়ার নজির অবশ্য এ দেশে নতুন নয়। ",
-        "image_s3_key": "prothomalo-bangla/2026-02-17/y8b36x3y/The-performance-of-the-only-athlete-Aminul-in-the-2026th-election00-5.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-17/y8b36x3y/The-performance-of-the-only-athlete-Aminul-in-the-2026th-election00-5.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে বিভিন্ন দেশের সরকার-রাষ্ট্রপ্রধান ও প্রতিনিধিদের সাক্ষাৎ",
+        "url": "https://www.prothomalo.com/bangladesh/j560rhteaj",
+        "published_at": "2026-02-17T20:51:30.057000+00:00",
+        "summary": "ভারত, নেপাল ও তুরস্কের প্রতিনিধিরা তাঁদের দেশের সরকারপ্রধানদের পক্ষ থেকে অভিনন্দনপত্র হস্তান্তর করেন এবং প্রধানমন্ত্রীকে তাঁদের দেশ সফরের আমন্ত্রণ জানান।",
+        "image_s3_key": "prothomalo-bangla/2026-02-17/g68kqvhs/tarique-muizzu.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-17/g68kqvhs/tarique-muizzu.jpg?auto=format,compress"
+      },
       {
         "headline": "টেকনোক্র্যাট কোটায় ২ মন্ত্রী ও ১ প্রতিমন্ত্রী ",
         "url": "https://www.prothomalo.com/bangladesh/4za21wkhw2",
@@ -1824,14 +1830,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-17/uxchqvqn/Anny.jpg?auto=format,compress"
       },
       {
-        "headline": "ইনুর মামলায় দুই সাফাই সাক্ষীর সাক্ষ্য ২২ ফেব্রুয়ারি",
-        "url": "https://www.prothomalo.com/bangladesh/q53y66mjli",
-        "published_at": "2026-02-17T13:25:56.892000+00:00",
-        "summary": "ট্রাইব্যুনাল সাফাই সাক্ষী হিসেবে দুই বাংলাদেশিকে হাজিরের অনুমতি দিলেও বিদেশি সাফাই সাক্ষীকে তা দেওয়া হয়নি।",
-        "image_s3_key": "prothomalo-bangla/2023-12/293a6911-e01d-4e0d-8a97-8f6a50ee9987/094456100908091317INU092231.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-12/293a6911-e01d-4e0d-8a97-8f6a50ee9987/094456100908091317INU092231.JPG?auto=format,compress"
-      },
-      {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
         "url": "https://www.bd-pratidin.com/islam/2026/02/18/1218211",
         "published_at": "2026-02-18T02:17:52+06:00",
@@ -1972,6 +1970,13 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/46d2b200e2ea6ee9612ccbc105798446-699484520ca87.jpg"
       },
       {
+        "headline": "খুলনায় বিএন‌পি-জামায়াত সমর্থক‌দের সংঘ‌র্ষ, আহত ১০",
+        "url": "https://www.ittefaq.com.bd/775462/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E2%80%8C%E0%A6%AA%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%95%E2%80%8C%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%98%E2%80%8C%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A7%A7%E0%A7%A6",
+        "published_at": null,
+        "summary": "খুলনার তেখাখাদা উপজেলা–তে ত্রয়োদশ জাতীয় সংসদ নির্বাচনকে কেন্দ্র করে বিএনপি ও জামায়াত সমর্থকদলের মধ্যে ধাওয়া-পাল্টা ধাওয়া এবং সংঘর্ষের ঘটনা ঘটেছে। এতে অন্তত ১০ জন আহত হয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/18/e5690719feb49876ef946c6105cd55f6-6994cbf704348.jpg"
+      },
+      {
         "headline": "সৌদির সঙ্গে মিল রেখে চাঁদপুরে অর্ধশতাধিক গ্রামে রোজা শুরু",
         "url": "https://www.ittefaq.com.bd/775452/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87",
         "published_at": null,
@@ -2033,13 +2038,6 @@
         "published_at": null,
         "summary": "জাতীয় সংসদের দক্ষিণ প্লাজায় মন্ত্রী ও প্রতিমন্ত্রী হিসেবে শপথ নিয়েছেন ৪৯ জন। মঙ্গলবার (১৭ ফেব্রুয়ারি) তাদের শপথবাক্য পাঠ করান রাষ্ট্রপতি মো. সাহাবুদ্দিন। ঘোষিত মন্ত্রী ও প্রতিমন্ত্রীদের মধ্যে ছয়জন রাজশাহী বিভাগ থেকে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/dfafd589adb772fb30b59b0d11b562d6-699481405fb34.jpg"
-      },
-      {
-        "headline": "সিলেট বিভাগ থেকে পূর্ণ মন্ত্রী হলেন ২ জন",
-        "url": "https://www.ittefaq.com.bd/775432/%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A8%E0%A6%9C%E0%A6%A8-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
-        "published_at": null,
-        "summary": "বিএনপি চেয়ারম্যান তারেক রহমানের নেতৃত্বে দেড় বছর পর দেশে নির্বাচিত সরকার প্রতিষ্ঠিত হয়েছে। নতুন মন্ত্রিসভায় স্থান পেয়েছে ২৫ জন পূর্ণমন্ত্রী এবং ২৪ জন প্রতিমন্ত্রী। এদের মধ্যে সিলেট বিভাগে সবচেয়ে কম মন্ত্রী নিয়োগ দেওয়া হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/5626d584066ba64366c12d0ed44bd35f-69947d9f046d0.jpg"
       },
       {
         "headline": "কেন্দ্র ত্যাগ না করলে মিল্টনের সমর্থকদের গ্রেপ্তারের হুঁশিয়ারি সেনাসদস্যের",
@@ -2250,6 +2248,21 @@
         "published_at": "1771341664",
         "summary": "চট্টগ্রামের কর্ণফুলী উপজেলার জুলধা এলাকায় অভিযান চালিয়ে সাতটি কিরিচসহ দুইজনকে আটক করেছে পুলিশ। এ সময় পুলিশের এক উপপরিদর্শক (এসআই) আহত হয়েছেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-02-17T212032213-20260217152104.jpg"
+      },
+      {
+        "headline": "ইনুর মামলায় দুই সাফাই সাক্ষীর সাক্ষ্য ২২ ফেব্রুয়ারি",
+        "url": "https://www.prothomalo.com/bangladesh/q53y66mjli",
+        "published_at": "2026-02-17T13:25:56.892000+00:00",
+        "summary": "ট্রাইব্যুনাল সাফাই সাক্ষী হিসেবে দুই বাংলাদেশিকে হাজিরের অনুমতি দিলেও বিদেশি সাফাই সাক্ষীকে তা দেওয়া হয়নি।",
+        "image_s3_key": "prothomalo-bangla/2023-12/293a6911-e01d-4e0d-8a97-8f6a50ee9987/094456100908091317INU092231.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-12/293a6911-e01d-4e0d-8a97-8f6a50ee9987/094456100908091317INU092231.JPG?auto=format,compress"
+      },
+      {
+        "headline": "সিলেট বিভাগ থেকে পূর্ণ মন্ত্রী হলেন ২ জন",
+        "url": "https://www.ittefaq.com.bd/775432/%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A8%E0%A6%9C%E0%A6%A8-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+        "published_at": null,
+        "summary": "বিএনপি চেয়ারম্যান তারেক রহমানের নেতৃত্বে দেড় বছর পর দেশে নির্বাচিত সরকার প্রতিষ্ঠিত হয়েছে। নতুন মন্ত্রিসভায় স্থান পেয়েছে ২৫ জন পূর্ণমন্ত্রী এবং ২৪ জন প্রতিমন্ত্রী। এদের মধ্যে সিলেট বিভাগে সবচেয়ে কম মন্ত্রী নিয়োগ দেওয়া হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/5626d584066ba64366c12d0ed44bd35f-69947d9f046d0.jpg"
       },
       {
         "headline": "তাইম হত্যায় আনুষ্ঠানিক অভিযোগ গঠন বিষয়ে আদেশের দিন পেছাল",
@@ -2980,23 +2993,16 @@
         "published_at": null,
         "summary": "ছাত্র-জনতার অভ্যুত্থানের মুখে ২০২৪ সালের ৫ আগস্ট পতন ঘটে শেখ হাসিনা নেতৃত্বাধীন বাংলাদেশ আওয়ামী লীগ সরকারের। এর পরিপ্রেক্ষিতে ৮ আগস্ট নোবেলজয়ী অধ্যাপক মুহাম্মদ ইউনূস-এর নেতৃত্বে একটি অন্তর্বর্তী সরকার দায়িত্ব গ্রহণ করে। দেড় বছর দেশ পরিচালনার পর ত্রয়োদশ জাতীয় সংসদ নির্বাচনের মাধ্যমে আবারও নির্বাচিত সরকারের হাতে ক্ষমতা হস্তান্তর হলো।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/5127e8599b87759a0da0cc5b39b1c589-699453921bf52.jpg"
-      },
-      {
-        "headline": "প্রধানমন্ত্রী হিসেবে তারেক রহমানের বেতন-ভাতা ও প্রাপ্য সুবিধা কী?",
-        "url": "https://www.ittefaq.com.bd/775392/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8-%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A6%93",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে ভূমিধস জয়ের পর মঙ্গলবার (১৭ ফেব্রুয়ারি) নবনির্বাচিত সংসদ সদস্যরা শপথ গ্রহণ করেন। পরে বাংলাদেশ জাতীয়তাবাদী দল–বিএনপির সংসদীয় দলের বৈঠকে দলের চেয়ারম্যান তারেক রহমানকে সংসদ নেতা নির্বাচিত করা হয়।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/d20ef625e01cd60fa2e38aa5ee738191-69944b6e811a2.jpg"
-      },
-      {
-        "headline": "নতুন মন্ত্রিসভায় কে পাচ্ছেন কোন মন্ত্রণালয়!",
-        "url": "https://www.ittefaq.com.bd/775391/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A7%9F",
-        "published_at": null,
-        "summary": "জাতীয় সংসদের দক্ষিণ প্লাজায় মন্ত্রী ও প্রতিমন্ত্রী হিসেবে শপথ নিয়েছেন ৪৯ জন। তাদের শপথবাক্য পাঠ করান রাষ্ট্রপতি মো. সাহাবুদ্দিন। ঘোষিত মন্ত্রী ও প্রতিমন্ত্রীদের মধ্যে তিনজন টেকনোক্র্যাট কোটায় জায়গা পেয়েছেন। কে কোন মন্ত্রণালয় পাচ্ছেন তা নিয়ে চলছে জল্পনা।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/17/e9ede64fc216797d2f8228cb565e7810-69944931866be.jpg"
       }
     ],
     "politics": [
+      {
+        "headline": "আন্তর্জাতিক গণমাধ্যমে তারেক রহমানের শপথ",
+        "url": "https://www.bd-pratidin.com/international-news/2026/02/18/1218212",
+        "published_at": "2026-02-18T03:04:34+06:00",
+        "summary": "গণ-অভ্যুত্থানে শেখ হাসিনার নেতৃত্বাধীন আওয়ামী লীগ সরকারের পতনের প্রায় ১৭ মাস পরে বাংলাদেশে জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়েছে গত ১২ ফেব্রুয়ারি। এ নির্বাচনে বিশাল জয় পেয়েছে তারেক রহমানের নেতৃত্বাধীন বিএনপি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/18/og/1771362272-9ad646f80db78ef35bf3bcc62a3711c4.jpg"
+      },
       {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
         "url": "https://www.bd-pratidin.com/islam/2026/02/18/1218211",
@@ -3059,13 +3065,6 @@
         "published_at": "2026-02-17T21:32:28+06:00",
         "summary": "পবিত্র রমজান শুরুর তারিখ ঘোষণা করেছে ইন্দোনেশিয়া। দক্ষিণ-পূর্ব এশিয়ার বৃহত্তম মুসলিমপ্রধান দেশটিতে প্রথম রোজা হবে বৃহস্পতিবার, ১৯ ফেব্রুয়ারি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771342346-2a5c62ff5fb2500eece2d73e1f01a154.jpg"
-      },
-      {
-        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
-        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
-        "published_at": "2026-02-17T21:16:52+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "জামায়াত আমিরের সঙ্গে ভারতের পররাষ্ট্র সচিবের সাক্ষাৎ",
@@ -3211,7 +3210,7 @@
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
         "url": "https://www.jugantor.com/bnp",
         "published_at": null,
-        "summary": "মঙ্গলবার (১৭ ফেব্রুয়ারি) বিকালে সুলতান সালাউদ্দিনের প্রতিমন্ত্রী হিসেবে শপথ নেওয়ার খবর ছড়িয়ে পড়ার পর তার সমর্থকেরা আনন্দমিছিল বের করেন। ...",
+        "summary": "জনগণের ভোটে নির্বাচিত হওয়ার পর হাবিবুর রশিদ হাবিবের পক্ষে আসল এলাকায় সমর্থক ও ভোটাররা আনন্দ মিছিল ও মিষ্টি বিতরণসহ সৌজন্য ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747294137-430161.jpg"
       },
       {
@@ -3220,6 +3219,13 @@
         "published_at": null,
         "summary": "ত্রয়োদশ জাতীয় সংসদে বিরোধীদলীয় নেতা হচ্ছেন বাংলাদেশ জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান। বিরোধীদলীয় উপনেতা হচ্ছেন কুমিল্লা-১১ (চৌদ্দগ্রাম) আসনের নবনির্বাচিত ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
+        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
+        "published_at": "2026-02-17T21:16:52+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে মালদ্বীপের রাষ্ট্রপতির বৈঠক",
@@ -4389,16 +4395,17 @@
         "published_at": "2026-02-16T14:07:34+06:00",
         "summary": "নতুন সরকারের শপথগ্রহণ অনুষ্ঠানে অংশ নিতে বাংলাদেশে এসেছেন নেপালের পররাষ্ট্রমন্ত্রী বালানন্দ শর্মা।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/16/og/1771229253-cae91ee034b6c80b50cbbb690d20fe9f.jpg"
-      },
-      {
-        "headline": "প্রধান উপদেষ্টার সঙ্গে সেনাপ্রধানের বিদায়ী সাক্ষাৎ",
-        "url": "https://www.bd-pratidin.com/national/2026/02/16/1217609",
-        "published_at": "2026-02-16T13:49:43+06:00",
-        "summary": "বাংলাদেশ সেনাবাহিনীর প্রধান জেনারেল ওয়াকার-উজ-জামান আজ সোমবার অন্তর্বর্তীকালীন সরকারের প্রধান উপদেষ্টা প্রফেসর মুহাম্মদ ইউনূসের সঙ্গে বিদায়ী সাক্ষাৎ করেছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/16/og/1771228182-9fb39b0f682b689cbf0459564fcc5ae7.jpg"
       }
     ],
     "world": [
+      {
+        "headline": "কারাগারে ইমরানের দৃষ্টি সমস্যায় উদ্বিগ্ন দুই ছেলে ",
+        "url": "https://www.prothomalo.com/world/pakistan/hrbhmp4ktw",
+        "published_at": "2026-02-17T20:30:00+00:00",
+        "summary": "লন্ডনে বসবাসরত খানের দুই ছেলে কাসিম (২৬) ও সুলায়মান (২৯) রয়টার্সকে বলেন, মেডিক্যাল বোর্ডের প্রতিবেদনের বিষয়ে তাঁরা নিশ্চিত নন। ",
+        "image_s3_key": "prothomalo-bangla/2025-12-01/rqd1ckfw/Imran-Khan.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-01/rqd1ckfw/Imran-Khan.avif?auto=format,compress"
+      },
       {
         "headline": "ট্রাম্পের দর্শন ঘরে চলছে না, বিদেশে রপ্তানির তোড়জোড় ",
         "url": "https://www.prothomalo.com/world/usa/6qydx1ugii",
@@ -4712,12 +4719,11 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/vu7paabm/Iran.webp?auto=format,compress"
       },
       {
-        "headline": "বিএনপি নেতৃত্বাধীন বাংলাদেশের সঙ্গে কি নতুন করে সম্পর্ক গড়তে পারবে ভারত",
-        "url": "https://www.prothomalo.com/world/4b3bq12ui6",
-        "published_at": "2026-02-15T07:58:21.158000+00:00",
-        "summary": "চব্বিশের গণ-অভ্যুত্থানে শেখ হাসিনা ভারতে পালিয়ে যাওয়ার পর থেকে দুই প্রতিবেশী দেশের মধ্যে সম্পর্কের অবনতি ঘটে এবং উভয় পক্ষেই অবিশ্বাস জোরালো হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-02-15/n5o48cuy/tareq-modi-01.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/n5o48cuy/tareq-modi-01.avif?auto=format,compress"
+        "headline": "আন্তর্জাতিক গণমাধ্যমে তারেক রহমানের শপথ",
+        "url": "https://www.bd-pratidin.com/international-news/2026/02/18/1218212",
+        "published_at": "2026-02-18T03:04:34+06:00",
+        "summary": "গণ-অভ্যুত্থানে শেখ হাসিনার নেতৃত্বাধীন আওয়ামী লীগ সরকারের পতনের প্রায় ১৭ মাস পরে বাংলাদেশে জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়েছে গত ১২ ফেব্রুয়ারি। এ নির্বাচনে বিশাল জয় পেয়েছে তারেক রহমানের নেতৃত্বাধীন বিএনপি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/18/og/1771362272-9ad646f80db78ef35bf3bcc62a3711c4.jpg"
       },
       {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
@@ -4781,13 +4787,6 @@
         "published_at": "2026-02-17T21:32:28+06:00",
         "summary": "পবিত্র রমজান শুরুর তারিখ ঘোষণা করেছে ইন্দোনেশিয়া। দক্ষিণ-পূর্ব এশিয়ার বৃহত্তম মুসলিমপ্রধান দেশটিতে প্রথম রোজা হবে বৃহস্পতিবার, ১৯ ফেব্রুয়ারি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771342346-2a5c62ff5fb2500eece2d73e1f01a154.jpg"
-      },
-      {
-        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
-        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
-        "published_at": "2026-02-17T21:16:52+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "যুক্তরাষ্ট্র ও ইরানের আলোচনায় অগ্রগতির বার্তা",
@@ -4998,6 +4997,21 @@
         "published_at": "1771142021",
         "summary": "ফুটবল কি কেবলই একটি খেলা, নাকি এটি রাজনৈতিক প্রতিবাদ ও নৈতিক অবস্থানের এক শক্তিশালী হাতিয়ার? ২০২৬ সালের আসন্ন ফুটবল বিশ্বকাপকে সামনে রেখে এই প্রশ্নটিই এখন বিশ্বজুড়ে বিশেষ করে আফ্রিকা মহাদেশে তীব্রভাবে আলোচিত হচ্ছে। গাজা উপত্যকায় চলমান ধ্বংসযজ্ঞ এবং যুক্তরাষ্ট্রের অভ্যন্তরীণ অভিবাসন নীতির প্রতিবাদে আফ্রিকার দেশগুলো বিশ্বকাপ বর্জনের পথে হাঁটবে কি না, তা নিয়ে তৈরি হয়েছে এক অভূতপূর্ব বিতর্ক।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-(87)-20260215075341.jpg"
+      },
+      {
+        "headline": "বিএনপি নেতৃত্বাধীন বাংলাদেশের সঙ্গে কি নতুন করে সম্পর্ক গড়তে পারবে ভারত",
+        "url": "https://www.prothomalo.com/world/4b3bq12ui6",
+        "published_at": "2026-02-15T07:58:21.158000+00:00",
+        "summary": "চব্বিশের গণ-অভ্যুত্থানে শেখ হাসিনা ভারতে পালিয়ে যাওয়ার পর থেকে দুই প্রতিবেশী দেশের মধ্যে সম্পর্কের অবনতি ঘটে এবং উভয় পক্ষেই অবিশ্বাস জোরালো হয়।",
+        "image_s3_key": "prothomalo-bangla/2026-02-15/n5o48cuy/tareq-modi-01.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/n5o48cuy/tareq-modi-01.avif?auto=format,compress"
+      },
+      {
+        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
+        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
+        "published_at": "2026-02-17T21:16:52+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "নাইজেরিয়ার কয়েকটি গ্রামে হামলা, নিহত অন্তত ৩২",
@@ -5846,20 +5860,6 @@
         "published_at": "2026-02-16T17:56:38+06:00",
         "summary": "নির্বাচন কমিশন ও কেন্দ্রে দায়িত্বরত ম্যাজিস্ট্রেটের নির্দেশনা থাকা সত্ত্বেও ঢাকা-৮ আসনের কোনো বাতিল ভোট বৈধ করা হয়নি বলে অভিযোগ করেছেন আফরোজা আব্বাস। তিনি বিএনপি নেতা মির্জা আব্বাসের প্রধান নির্বাচনী এজেন্ট।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/16/og/1771242997-f46db2d22a1bab9cb048ef5a4581e197.jpg"
-      },
-      {
-        "headline": "তারেক রহমানকে ফুলেল শুভেচ্ছা ছাত্রদল সভাপতি-সম্পাদকের",
-        "url": "https://www.bd-pratidin.com/national/2026/02/16/1217687",
-        "published_at": "2026-02-16T17:52:19+06:00",
-        "summary": "নির্বাচনে জয়লাভ ও প্রধানমন্ত্রী হিসেবে শপথ গ্রহণের ঐতিহাসিক মুহূর্তকে সামনে রেখে বিএনপির চেয়ারম্যান তারেক রহমানকে ফুলেল শুভেচ্ছা জানালেন জাতীয়তাবাদী ছাত্রদলের কেন্দ্রীয় সভাপতি রাকিবুল ইসলাম রাকিব ও সাধারণ সম্পাদক নাছির উদ্দীন নাছির।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/16/og/1771242738-d67517c62f65ec3af4d0ac7bebe4f20a.jpg"
-      },
-      {
-        "headline": "নাভালনিকে বিষ প্রয়োগে হত্যার অভিযোগ, যা বলল রাশিয়া",
-        "url": "https://www.bd-pratidin.com/international-news/2026/02/16/1217685",
-        "published_at": "2026-02-16T17:46:38+06:00",
-        "summary": "রাশিয়ার বিরোধী নেতা অ্যালেক্সেই নাভালনিকে বিষ প্রয়োগে হত্যা করা হয়েছে বলে অভিযোগ করেছে ইউরোপের পাঁচ দেশ। তবে এই অভিযোগ সরাসরি নাকচ করে দিয়েছে রাশিয়া।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/16/og/1771242397-7104c0defddb81e863d54b89050c7d02.jpg"
       }
     ],
     "business": [
@@ -7857,18 +7857,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/screenshot2112026-50032-20260211110103.jpeg"
       },
       {
-        "headline": "এক মাসেই ৫ বার মুখোমুখি হতে পারে আর্সেনাল ও ম্যানচেস্টার সিটি",
-        "url": "https://www.amarsangbad.com/sports/news/337894",
-        "published_at": "1770879694",
-        "summary": "ইউরোপিয়ান ফুটবলের ইতিহাসে এমন রোমাঞ্চকর ক্ষণ খুব কমই আসে। একই লিগের দুটি শীর্ষস্থানীয় দল যখন চারটি ভিন্ন শিরোপার দৌড়ে সমানে সমান পাল্লা দেয়, তখন মাঠের লড়াই আর স্রেফ খেলা থাকে না, তা রূপ নেয় এক মহাকাব্যে। বর্তমান বিশ্ব ফুটবলের দুই পাওয়ার হাউস—আর্সেনাল ও ম্যানচেস্টার সিটি এখন এমনই এক পরিস্থিতির সম্মুখীন। আগামী ২২ মার্চ থেকে ২২ এপ্রিল এই মাত্র এক মাসের ব্যবধানে ফুটবলপ্রেমীরা সর্বোচ্চ পাঁচবার উপভোগ করতে পারেন ‘গানার’ বনাম ‘সিটিজেন’ যুদ্ধ।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/screenshot2122026-10126-20260212070134.jpeg"
-      },
-      {
         "headline": "কলম্বোয় ভারত-পাকিস্তান জ্বর: হোটেলের কক্ষ নেই, আকাশ ছুঁয়েছে ফ্লাইটের ভাড়া",
         "url": "https://www.amarsangbad.com/sports/news/338112",
         "published_at": "1771060257",
         "summary": "শ্রীলঙ্কার কলম্বোয় বইছে এক উত্তাল ক্রিকেট ঝড়। টি-টোয়েন্টি বিশ্বকাপের গ্রুপ পর্বের সবচেয়ে প্রতীক্ষিত লড়াই ভারত বনাম পাকিস্তান। মাঠের লড়াই শুরুর আগেই মাঠের বাইরের উন্মাদনা যেন আগের সব রেকর্ডকে ছাড়িয়ে গেছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-32-20260214091057.jpg"
+      },
+      {
+        "headline": "এক মাসেই ৫ বার মুখোমুখি হতে পারে আর্সেনাল ও ম্যানচেস্টার সিটি",
+        "url": "https://www.amarsangbad.com/sports/news/337894",
+        "published_at": "1770879694",
+        "summary": "ইউরোপিয়ান ফুটবলের ইতিহাসে এমন রোমাঞ্চকর ক্ষণ খুব কমই আসে। একই লিগের দুটি শীর্ষস্থানীয় দল যখন চারটি ভিন্ন শিরোপার দৌড়ে সমানে সমান পাল্লা দেয়, তখন মাঠের লড়াই আর স্রেফ খেলা থাকে না, তা রূপ নেয় এক মহাকাব্যে। বর্তমান বিশ্ব ফুটবলের দুই পাওয়ার হাউস—আর্সেনাল ও ম্যানচেস্টার সিটি এখন এমনই এক পরিস্থিতির সম্মুখীন। আগামী ২২ মার্চ থেকে ২২ এপ্রিল এই মাত্র এক মাসের ব্যবধানে ফুটবলপ্রেমীরা সর্বোচ্চ পাঁচবার উপভোগ করতে পারেন ‘গানার’ বনাম ‘সিটিজেন’ যুদ্ধ।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/screenshot2122026-10126-20260212070134.jpeg"
       },
       {
         "headline": "দেশ ছেড়েছেন বিসিবি সভাপতি আমিনুল",
@@ -9193,6 +9193,13 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/pgxcvd1v/63319892314910699357119271873440748511596918n.jpg?auto=format,compress"
       },
       {
+        "headline": "আন্তর্জাতিক গণমাধ্যমে তারেক রহমানের শপথ",
+        "url": "https://www.bd-pratidin.com/international-news/2026/02/18/1218212",
+        "published_at": "2026-02-18T03:04:34+06:00",
+        "summary": "গণ-অভ্যুত্থানে শেখ হাসিনার নেতৃত্বাধীন আওয়ামী লীগ সরকারের পতনের প্রায় ১৭ মাস পরে বাংলাদেশে জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়েছে গত ১২ ফেব্রুয়ারি। এ নির্বাচনে বিশাল জয় পেয়েছে তারেক রহমানের নেতৃত্বাধীন বিএনপি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/18/og/1771362272-9ad646f80db78ef35bf3bcc62a3711c4.jpg"
+      },
+      {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
         "url": "https://www.bd-pratidin.com/islam/2026/02/18/1218211",
         "published_at": "2026-02-18T02:17:52+06:00",
@@ -9254,13 +9261,6 @@
         "published_at": "2026-02-17T21:32:28+06:00",
         "summary": "পবিত্র রমজান শুরুর তারিখ ঘোষণা করেছে ইন্দোনেশিয়া। দক্ষিণ-পূর্ব এশিয়ার বৃহত্তম মুসলিমপ্রধান দেশটিতে প্রথম রোজা হবে বৃহস্পতিবার, ১৯ ফেব্রুয়ারি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771342346-2a5c62ff5fb2500eece2d73e1f01a154.jpg"
-      },
-      {
-        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
-        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
-        "published_at": "2026-02-17T21:16:52+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "জেল থেকে ছাড়া পেলেন রাজপাল, একের পর এক ছবির প্রস্তাব",
@@ -9471,6 +9471,13 @@
         "published_at": "1770286636",
         "summary": "ঢাকাই চলচ্চিত্রের আলোচিত অভিনেতা শাকিব খান ও চিত্রনায়িকা শবনম ইয়াসমিন বুবলী ফের বাবা-মা হতে যাচ্ছেন বলে জানা গেছে। তাঁদের প্রথম সন্তান শেহজাদ খান বীরের পর এবার শাকিব-বুবলীর ঘরে আসতে যাচ্ছে নতুন অতিথি।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-10-20260205101716.jpg"
+      },
+      {
+        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
+        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
+        "published_at": "2026-02-17T21:16:52+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে মালদ্বীপের রাষ্ট্রপতির বৈঠক",
@@ -10326,13 +10333,6 @@
         "published_at": "2026-02-16T15:38:47+06:00",
         "summary": "অন্তর্বর্তীকালীন সরকারের প্রধান উপদেষ্টা অধ্যাপক ড. মুহাম্মদ ইউনূস তার কার্যালয়ের কর্মকর্তা-কর্মচারীদের উদ্দেশ্যে বিদায়ী ভাষণ দিয়েছেন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/16/og/1771234725-43d05a7f5bc060fa8df2852865ff69b6.jpg"
-      },
-      {
-        "headline": "হাতিয়া ইস্যু: ‘হান্নান-আসিফ-সাদিক কায়েমদের ক্ষমা চাইতে হবে’",
-        "url": "https://www.bd-pratidin.com/national/2026/02/16/1217631",
-        "published_at": "2026-02-16T15:25:52+06:00",
-        "summary": "নোয়াখালীর হাতিয়া সংক্রান্ত অভিযোগকে কেন্দ্র করে রাজনৈতিক অঙ্গনে বিতর্ক তৈরি হয়েছে। সামাজিক যোগাযোগমাধ্যম ফেসবুকে দেওয়া এক পোস্টে এনসিপির নেতা হান্নান মাসুদ, আসিফ মাহমুদ, সাদিক কায়েমকে দেশবাসীর কাছে প্রকাশ্যে ক্ষমা চাইতে বলেছেন ছাত্রদলের সাধারণ সম্পাদক নাছির উদ্দীন নাছির। তিনি অভিযোগ করেন, স্পর্শকাতর বিষয়কে রাজনৈতিক স্বার্থে ব্যবহার করে জনমনে বিভ্রান্তি ছড়ানো হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/16/og/1771233951-d962280042fbef88762906b0a9592e99.jpg"
       }
     ],
     "jobs": [
@@ -10657,6 +10657,13 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-07/qewc6vr7/prothomalo_bangla2020_09b691b818_3465_46c9_ad9a_678e54d427d6frame1600X1067.webp?auto=format,compress"
       },
       {
+        "headline": "আন্তর্জাতিক গণমাধ্যমে তারেক রহমানের শপথ",
+        "url": "https://www.bd-pratidin.com/international-news/2026/02/18/1218212",
+        "published_at": "2026-02-18T03:04:34+06:00",
+        "summary": "গণ-অভ্যুত্থানে শেখ হাসিনার নেতৃত্বাধীন আওয়ামী লীগ সরকারের পতনের প্রায় ১৭ মাস পরে বাংলাদেশে জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়েছে গত ১২ ফেব্রুয়ারি। এ নির্বাচনে বিশাল জয় পেয়েছে তারেক রহমানের নেতৃত্বাধীন বিএনপি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/18/og/1771362272-9ad646f80db78ef35bf3bcc62a3711c4.jpg"
+      },
+      {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
         "url": "https://www.bd-pratidin.com/islam/2026/02/18/1218211",
         "published_at": "2026-02-18T02:17:52+06:00",
@@ -10718,13 +10725,6 @@
         "published_at": "2026-02-17T21:32:28+06:00",
         "summary": "পবিত্র রমজান শুরুর তারিখ ঘোষণা করেছে ইন্দোনেশিয়া। দক্ষিণ-পূর্ব এশিয়ার বৃহত্তম মুসলিমপ্রধান দেশটিতে প্রথম রোজা হবে বৃহস্পতিবার, ১৯ ফেব্রুয়ারি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771342346-2a5c62ff5fb2500eece2d73e1f01a154.jpg"
-      },
-      {
-        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
-        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
-        "published_at": "2026-02-17T21:16:52+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "এনটিআরসিএর ১৩,৫৯৯ শিক্ষাপ্রতিষ্ঠানের প্রধান ও সহকারী প্রধান নিয়োগ, ১৯ ফেব্রুয়ারি পর্যন্ত আবেদন",
@@ -10886,6 +10886,13 @@
         "published_at": null,
         "summary": "নিয়োগ পরীক্ষার প্রস্তুতিতে সফল হতে হলে দরকার সঠিক তথ্য, আপডেটেড সিলেবাস ও নির্ভরযোগ্য রিসোর্স। প্রতিটি নিয়োগ পরীক্ষার ধরন, প্রশ্নের গঠন ও মানদণ্ড ভিন্ন হওয়ায় সময়মতো সঠিক নির্দেশনা জানা অত্যন্ত জরুরি। লিখিত, এমসিকিউ ও মৌখিক পরীক্ষার প্রস্তুতিতে বিগত বছরের প্রশ্নপত্র, সময় ব্যবস্থাপনা কৌশল, বিষয়ের ওপর ভিত্তি করে অধ্যয়ন পরিকল্পনা এবং মানসম্পন্ন প্র্যাকটিস সেট আপনাকে সঠিক পথে এগিয়ে নিতে পারে।",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
+        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
+        "published_at": "2026-02-17T21:16:52+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে মালদ্বীপের রাষ্ট্রপতির বৈঠক",
@@ -11781,13 +11788,6 @@
         "published_at": "2026-02-15T22:18:47+06:00",
         "summary": "বায়ার্ন মিউনিখের জার্সিতে ক্রমেই যেন নিজেকে ছাড়িয়ে যাচ্ছেন হ্যারি কেইন। প্রতিপক্ষের জন্য হয়ে উঠেছেন আরও ভয়ঙ্কর। সবশেষ ভার্ডার ব্রেমেনের বিপক্ষে জোড়া গোল করে ৫০০ গোলের মাইলফলক ছুঁয়েছেন তিনি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/15/og/1771172326-eb97a0d16184107046d613fb7565ad7a.gif"
-      },
-      {
-        "headline": "সিকৃবিতে শিক্ষকদের হাতাহাতি, ভিসিসহ আহত অন্তত ৬",
-        "url": "https://www.bd-pratidin.com/campus-online/2026/02/15/1217401",
-        "published_at": "2026-02-15T21:40:23+06:00",
-        "summary": "সিলেট কৃষি বিশ্ববিদ্যালয়ে (সিকৃবি) শিক্ষকদের মধ্যে হাতাহাতির ঘটনায় ভিসিসহ অন্তত ৬ জন আহত হয়েছেন। রবিবার (১৫ ফেব্রুয়ারি) দুপুরের দিকে সিকৃবির ভিসির কার্যালয়ে এ ঘটনা ঘটে। তবে বর্তমানে পরিস্থিতি শান্ত রয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/15/og/1771170021-6fd33470dea458ab90e18c964caa6eb9.jpg"
       }
     ],
     "opinion": [
@@ -13197,6 +13197,13 @@
     "football": [],
     "election": [
       {
+        "headline": "আন্তর্জাতিক গণমাধ্যমে তারেক রহমানের শপথ",
+        "url": "https://www.bd-pratidin.com/international-news/2026/02/18/1218212",
+        "published_at": "2026-02-18T03:04:34+06:00",
+        "summary": "গণ-অভ্যুত্থানে শেখ হাসিনার নেতৃত্বাধীন আওয়ামী লীগ সরকারের পতনের প্রায় ১৭ মাস পরে বাংলাদেশে জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়েছে গত ১২ ফেব্রুয়ারি। এ নির্বাচনে বিশাল জয় পেয়েছে তারেক রহমানের নেতৃত্বাধীন বিএনপি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/18/og/1771362272-9ad646f80db78ef35bf3bcc62a3711c4.jpg"
+      },
+      {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
         "url": "https://www.bd-pratidin.com/islam/2026/02/18/1218211",
         "published_at": "2026-02-18T02:17:52+06:00",
@@ -13258,13 +13265,6 @@
         "published_at": "2026-02-17T21:32:28+06:00",
         "summary": "পবিত্র রমজান শুরুর তারিখ ঘোষণা করেছে ইন্দোনেশিয়া। দক্ষিণ-পূর্ব এশিয়ার বৃহত্তম মুসলিমপ্রধান দেশটিতে প্রথম রোজা হবে বৃহস্পতিবার, ১৯ ফেব্রুয়ারি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771342346-2a5c62ff5fb2500eece2d73e1f01a154.jpg"
-      },
-      {
-        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
-        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
-        "published_at": "2026-02-17T21:16:52+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "কুমিল্লা সিটি নির্বাচন",
@@ -13335,6 +13335,13 @@
         "published_at": "1771227856",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের সঙ্গে অনুষ্ঠিত গণভোটের আনুষ্ঠানিক ফলাফল গেজেট আকারে প্রকাশ করেছে নির্বাচন কমিশন (ইসি)।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-5--20260216074416.jpg"
+      },
+      {
+        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
+        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
+        "published_at": "2026-02-17T21:16:52+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে মালদ্বীপের রাষ্ট্রপতির বৈঠক",
@@ -14588,16 +14595,16 @@
         "published_at": "2026-02-14T21:54:45+06:00",
         "summary": "রাজশাহীতে মসজিদে নামাজ পড়তে যাওয়ার সময় দুর্বৃত্তরা গোলাম মোস্তফা (৫০) নামের একজনকে গুলি করে হত্যা করেছে। শনিবার রাত ৮টার দিকে নগরীরর মতিহার থানার খোঁজাপুর এলাকায় এ ঘটনা ঘটে। রাজশাহী মেডিকেল কলেজ হাসপাতালের মুখপাত্র ডা. শংকর কে বিশ্বাস মৃত্যুর খবর নিশ্চিত করেছেন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/14/og/1771084484-37a80a1e64b5a97bc31b46a5501542ff.jpg"
-      },
-      {
-        "headline": "ভারত-পাকিস্তান মহারণ: প্রেমাদাসা স্টেডিয়ামে নিশ্ছিদ্র নিরাপত্তা",
-        "url": "https://www.bd-pratidin.com/sports/2026/02/14/1217021",
-        "published_at": "2026-02-14T21:47:26+06:00",
-        "summary": "আগামীকাল রবিবার কলম্বোর প্রেমাদাসা স্টেডিয়ামে টি-টোয়েন্টি বিশ্বকাপের সবচেয়ে উত্তেজনাপূর্ণ ম্যাচে মুখোমুখি হবে ভারত ও পাকিস্তান। এই হাইভোল্টেজ লড়াইকে ঘিরে শ্রীলঙ্কা কর্তৃপক্ষ নিরাপত্তার কোনো কমতি রাখছে না।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/14/og/1771084045-d6df92e2e17e74bcccc22c17b2ea14b3.jpg"
       }
     ],
     "city": [
+      {
+        "headline": "আন্তর্জাতিক গণমাধ্যমে তারেক রহমানের শপথ",
+        "url": "https://www.bd-pratidin.com/international-news/2026/02/18/1218212",
+        "published_at": "2026-02-18T03:04:34+06:00",
+        "summary": "গণ-অভ্যুত্থানে শেখ হাসিনার নেতৃত্বাধীন আওয়ামী লীগ সরকারের পতনের প্রায় ১৭ মাস পরে বাংলাদেশে জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়েছে গত ১২ ফেব্রুয়ারি। এ নির্বাচনে বিশাল জয় পেয়েছে তারেক রহমানের নেতৃত্বাধীন বিএনপি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/18/og/1771362272-9ad646f80db78ef35bf3bcc62a3711c4.jpg"
+      },
       {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
         "url": "https://www.bd-pratidin.com/islam/2026/02/18/1218211",
@@ -15990,16 +15997,16 @@
         "published_at": "2026-02-14T17:39:15+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে জামালপুরের ৫টি সংসদীয় আসনে বিএনপি, জামায়াতসহ বিভিন্ন রাজনৈতিক দল ও স্বতন্ত্র ৩৪ জন প্রার্থী প্রতিদ্বন্দ্বিতা করেছেন। ৫টি আসনেই বিজয় পায় বিএনপি মনোনীত ধানের শীষ প্রতিকের প্রার্থীরা, আর নিকটতম প্রতিদ্বন্দ্বী হিসেবে ছিলেন জামায়াত মনোনীত দাঁড়িপাল্লা প্রতিকের প্রার্থীরা। আর বাকি ২৪ জন প্রার্থীর জামানত বাজেয়াপ্ত হয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/14/og/1771069154-3064e83b636b227393d3f488371841a4.jpg"
-      },
-      {
-        "headline": "বাংলাদেশে গণতন্ত্রের বসন্ত বয়ে যাচ্ছে : সালাহউদ্দিন টুকু",
-        "url": "https://www.bd-pratidin.com/current-politics/2026/02/14/1216938",
-        "published_at": "2026-02-14T17:14:39+06:00",
-        "summary": "টাঙ্গাইল-৫ (সদর) আসনে নবনির্বাচিত সংসদ সদস্য (এমপি) ও বিএনপির কেন্দ্রীয় প্রচার সম্পাদক সুলতান সালাহউদ্দিন টুকু বলেছেন, আমার নেতা দেশনায়ক তারেক রহমানের প্রতি পূর্ণ আস্থা ও বিশ্বাস রয়েছে। তিনি যখন যে জায়গায় আমাকে দায়িত্ব দেবেন, সেখানেই কাজ করব, ইনশাআল্লাহ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/14/og/1771067677-a93d69097c0466f7df9218cf447a3f17.jpg"
       }
     ],
     "campus": [
+      {
+        "headline": "আন্তর্জাতিক গণমাধ্যমে তারেক রহমানের শপথ",
+        "url": "https://www.bd-pratidin.com/international-news/2026/02/18/1218212",
+        "published_at": "2026-02-18T03:04:34+06:00",
+        "summary": "গণ-অভ্যুত্থানে শেখ হাসিনার নেতৃত্বাধীন আওয়ামী লীগ সরকারের পতনের প্রায় ১৭ মাস পরে বাংলাদেশে জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়েছে গত ১২ ফেব্রুয়ারি। এ নির্বাচনে বিশাল জয় পেয়েছে তারেক রহমানের নেতৃত্বাধীন বিএনপি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/18/og/1771362272-9ad646f80db78ef35bf3bcc62a3711c4.jpg"
+      },
       {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
         "url": "https://www.bd-pratidin.com/islam/2026/02/18/1218211",
@@ -16062,13 +16069,6 @@
         "published_at": "2026-02-17T21:32:28+06:00",
         "summary": "পবিত্র রমজান শুরুর তারিখ ঘোষণা করেছে ইন্দোনেশিয়া। দক্ষিণ-পূর্ব এশিয়ার বৃহত্তম মুসলিমপ্রধান দেশটিতে প্রথম রোজা হবে বৃহস্পতিবার, ১৯ ফেব্রুয়ারি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771342346-2a5c62ff5fb2500eece2d73e1f01a154.jpg"
-      },
-      {
-        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
-        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
-        "published_at": "2026-02-17T21:16:52+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "কোন দলের সমর্থক ঢাবি শিক্ষক মোনামি, জানালেন নিজেই",
@@ -16139,6 +16139,13 @@
         "published_at": "1770551768",
         "summary": "ময়মনসিংহের ত্রিশালে অবস্থিত জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয়ের ফিল্ম অ্যান্ড মিডিয়া স্টাডিজ বিভাগের নাম পরিবর্তনের সিদ্ধান্ত নেওয়া হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/mcc-20260208115608.jpg"
+      },
+      {
+        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
+        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
+        "published_at": "2026-02-17T21:16:52+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে মালদ্বীপের রাষ্ট্রপতির বৈঠক",
@@ -17392,16 +17399,16 @@
         "published_at": "2026-02-14T20:39:34+06:00",
         "summary": "জাতীয় সংসদ নির্বাচন ও গণভোট আয়োজনের জন্য বাংলাদেশের জনগণকে অভিনন্দন জানিয়েছে জাতিসংঘ। একই সঙ্গে সকল রাজনৈতিক পক্ষকে জাতীয় ঐক্য জোরদার করতে এবং গণতান্ত্রিক মূল্যবোধ ও মানবাধিকার রক্ষার আহ্বান জানিয়েছে সংস্থাটি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/14/og/1771079972-7bbc27edcdcc3d1aebc4e8007eb54f7b.jpg"
-      },
-      {
-        "headline": "বিশৃঙ্খলার অভিযোগে কুষ্টিয়ায় স্বেচ্ছাসেবক দলের দুই নেতার পদ স্থগিত",
-        "url": "https://www.bd-pratidin.com/country/2026/02/14/1216997",
-        "published_at": "2026-02-14T20:23:55+06:00",
-        "summary": "কুষ্টিয়া- ৩ (সদর) আসনে নির্বাচনে পরাজয়ের পর বিএনপির দুই গ্রুপের অভ্যন্তরীণ কোন্দলে নিয়ে ধাওয়া পাল্টা ধাওয়ার ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/14/og/1771079034-490b81945fc8bd54ca7fb30e750db3bf.jpg"
       }
     ],
     "tech": [
+      {
+        "headline": "আন্তর্জাতিক গণমাধ্যমে তারেক রহমানের শপথ",
+        "url": "https://www.bd-pratidin.com/international-news/2026/02/18/1218212",
+        "published_at": "2026-02-18T03:04:34+06:00",
+        "summary": "গণ-অভ্যুত্থানে শেখ হাসিনার নেতৃত্বাধীন আওয়ামী লীগ সরকারের পতনের প্রায় ১৭ মাস পরে বাংলাদেশে জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়েছে গত ১২ ফেব্রুয়ারি। এ নির্বাচনে বিশাল জয় পেয়েছে তারেক রহমানের নেতৃত্বাধীন বিএনপি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/18/og/1771362272-9ad646f80db78ef35bf3bcc62a3711c4.jpg"
+      },
       {
         "headline": "ইসলামের দৃষ্টিতে জ্ঞানার্জন",
         "url": "https://www.bd-pratidin.com/islam/2026/02/18/1218211",
@@ -17464,13 +17471,6 @@
         "published_at": "2026-02-17T21:32:28+06:00",
         "summary": "পবিত্র রমজান শুরুর তারিখ ঘোষণা করেছে ইন্দোনেশিয়া। দক্ষিণ-পূর্ব এশিয়ার বৃহত্তম মুসলিমপ্রধান দেশটিতে প্রথম রোজা হবে বৃহস্পতিবার, ১৯ ফেব্রুয়ারি।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771342346-2a5c62ff5fb2500eece2d73e1f01a154.jpg"
-      },
-      {
-        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
-        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
-        "published_at": "2026-02-17T21:16:52+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "জনসংখ্যা সংকটে চীনের নতুন ঢাল স্বয়ংক্রিয় প্রযুক্তির রোবট",
@@ -17688,6 +17688,13 @@
         "published_at": null,
         "summary": "সূর্য ও চন্দ্রগ্রহণ মানবসভ্যতার কাছে প্রাচীনকাল থেকেই বিস্ময়, কৌতূহল আবার কখনও ভয়ের বিষয়। আধুনিক জ্যোতির্বিজ্ঞান প্রমাণ করেছে- এগুলো আসলে সূর্য, ...",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "নতুন মন্ত্রিসভায় সুপ্রিম কোর্টের পাঁচ আইনজীবী",
+        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218122",
+        "published_at": "2026-02-17T21:16:52+06:00",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর গঠিত বিএনপি নেতৃত্বাধীন সরকারে আইনজীবীদের উল্লেখযোগ্য উপস্থিতি দেখা গেছে। তারেক রহমানের মন্ত্রিসভায় স্থান পাওয়া সাত মন্ত্রীর মধ্যে পাঁচজনই সুপ্রিম কোর্টের নিয়মিত আইনজীবী।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771341410-21bfbb44aae3ddd6cb39d59d8b8ad44c.jpg"
       },
       {
         "headline": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে মালদ্বীপের রাষ্ট্রপতির বৈঠক",
@@ -18794,13 +18801,6 @@
         "published_at": "2026-02-15T12:46:56+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে দেড় লাখের বেশি ভোটের ব্যবধানে জয়ী হয়েছেন মোট তিনজন প্রার্থী। তারা হলেন পার্বত্য রাঙামাটি আসনে বিএনপির দীপেন দেওয়ান, রাজবাড়ী-২ আসনে বিএনপির মো. হারুন-অর-রশিদ, সাতক্ষীরা-২ আসনে জামায়াতে ইসলামীর মুহাম্মদ আবদুল খালেক।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/15/og/1771138015-2f5d13ca0d49151678fb2cd138cd9d10.jpg"
-      },
-      {
-        "headline": "এমপিদের শপথ পড়ানোর চিঠি আজই পেতে পারে কমিশন: ইসি আনোয়ারুল",
-        "url": "https://www.bd-pratidin.com/national/2026/02/15/1217237",
-        "published_at": "2026-02-15T12:31:12+06:00",
-        "summary": "নবনির্বাচিত সংসদ সদস্যদের শপথ পড়ানোর চিঠি আজই পেতে পারে নির্বাচন কমিশন (ইসি)।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/15/og/1771137071-72700bfde597055ffa362d1810adf21c.jpg"
       }
     ]
   }
