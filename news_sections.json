@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-02-19T22:02:30.358181+00:00",
+  "fetched_at": "2026-02-19T22:34:52.931706+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "নানা পদের মধ্যে আখনি ও পাতলা খিচুড়ির বিক্রি বেশি",
+        "url": "https://www.prothomalo.com/bangladesh/district/3ovnpgt1p0",
+        "published_at": "2026-02-19T22:00:00+00:00",
+        "summary": "সিলেটের ইফতারির বাজারে বরাবরের মতো এবারও রোজাদারদের চাহিদার শীর্ষে আছে পাতলা খিচুড়ি ও আখনি। বৃহস্পতিবার নগরের বিভিন্ন রেস্তোরাঁ ঘুরে বিক্রেতাদের সঙ্গে কথা বলে এ তথ্য জানা গেছে।",
+        "image_s3_key": "prothomalo-bangla/2026-02-19/19e51nyd/SylhetDH048620260219Sylhet-Iftar-Pic-9.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/19e51nyd/SylhetDH048620260219Sylhet-Iftar-Pic-9.JPG?auto=format,compress"
+      },
       {
         "headline": "প্রধানমন্ত্রীর গবেষণা কর্মকর্তা পদে নিয়োগ পেলেন আবদুস সাত্তার পাটোয়ারী",
         "url": "https://www.prothomalo.com/bangladesh/7buw86jpw9",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/dzxrvkaq/MurderArrest.jpeg?auto=format,compress"
       },
       {
-        "headline": "রমজান ও ঈদে অর্থ-মূল্যবান দ্রব্য পরিবহনে ডিএমপির এসকর্ট সেবা",
-        "url": "https://www.prothomalo.com/bangladesh/745qe67gj3",
-        "published_at": "2026-02-19T15:19:19.671000+00:00",
-        "summary": "পবিত্র রমজান মাস ও ঈদুল ফিতর উপলক্ষে লেনদেন ও বিভিন্ন দ্রব্যের স্থানান্তরে ডিএমপির সেবা নেওয়া যাবে।",
-        "image_s3_key": "prothomalo-bangla/2025-03-08/efe4uzqw/DMP-Logo.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-08/efe4uzqw/DMP-Logo.jpg?auto=format,compress"
-      },
-      {
         "headline": "প্রধানমন্ত্রীর গবেষণা কর্মকর্তা পদে নিয়োগ পেলেন সাত্তার পাটোয়ারী",
         "url": "https://www.bd-pratidin.com/national/2026/02/20/1218995",
         "published_at": "2026-02-20T01:42:36+06:00",
@@ -393,6 +393,20 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/19/og/1771511469-d784a1781e43ba38b3f0a183dbe60513.jpg"
       },
       {
+        "headline": "দুই দিন বৃষ্টি হতে পারে দেশের দক্ষিণাঞ্চল",
+        "url": "https://www.ittefaq.com.bd/775770/%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2",
+        "published_at": null,
+        "summary": "আগামী কয়েক দিন দেশের আবহাওয়া আংশিক মেঘলা থাকলেও তাপমাত্রা সামান্য বাড়তে পারে বলে জানিয়েছে বাংলাদেশ আবহাওয়া অধিদপ্তর। তবে ২৩ ও ২৪ ফেব্রুয়ারি দেশের দক্ষিণাঞ্চলের বেশ কিছু জেলায় বৃষ্টির সম্ভাবনা রয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/04/10/0030f70da36a3cbbd531c8acb3b55e7c-67f78e9ae1dda.jpg"
+      },
+      {
+        "headline": "তারাকান্দায় আওয়ামী লীগের কার্যালয়ে বৈষম্যবিরোধীদের বিক্ষোভ, আগুন",
+        "url": "https://www.ittefaq.com.bd/775762/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%88%E0%A6%B7%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "ময়মনসিংহের তারাকান্দায় কার্যক্রম নিষিদ্ধ বাংলাদেশ আওয়ামী লীগ-এর উপজেলা কার্যালয়ে বিক্ষোভ করেছেন বৈষম্যবিরোধী ছাত্র আন্দোলন ও জাতীয় নাগরিক পার্টি (এনসিপি) নেতা-কর্মীরা। এ সময় কার্যালয়ের ভেতরে টায়ার জ্বালিয়ে আগুন দেওয়া এবং দেয়ালের ইট ভাঙচুরের ঘটনা ঘটে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/20/198e39c27d99dd05b20753607422f5b9-699780bb3d299.jpg"
+      },
+      {
         "headline": "কুয়াকাটায় দোকানে হামলা-ভাঙচুর, গ্রেপ্তার স্বেচ্ছাসেবক দলের বহিষ্কৃত সদস্য",
         "url": "https://www.ittefaq.com.bd/775761/%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0",
         "published_at": null,
@@ -449,20 +463,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/00033c3d93b634c0a5f11b21eea1e7dc-69974f5288f14.jpg"
       },
       {
-        "headline": "এতিম শিশুদের সঙ্গে ইফতার করলেন ডা. জুবাইদা ও জাইমা রহমান",
-        "url": "https://www.ittefaq.com.bd/775752/%E0%A6%8F%E0%A6%A4%E0%A6%BF%E0%A6%AE-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE-%E0%A6%93-%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%AE%E0%A6%BE",
-        "published_at": null,
-        "summary": "রাজধানীর ভাসানটেক এলাকায় নারী ও এতিম শিশুদের সঙ্গে ইফতার করেছেন প্রধানমন্ত্রী তারেক রহমান-এর স্ত্রী ডা. জুবাইদা রহমান ও কন্যা জাইমা রহমান।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/9db16cc4fcd39b061660bf769281cc02-69974a26dd69a.jpg"
-      },
-      {
-        "headline": "তিনবার সংসার ভাঙার পর দুধ দিয়ে গোসল, আজীবন বিয়ে না করার শপথ যুবকের",
-        "url": "https://www.ittefaq.com.bd/775751/%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%A7-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B8%E0%A6%B2-%E0%A6%86%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BE",
-        "published_at": null,
-        "summary": "তিন দফা বিয়ের পর প্রতিবারই দাম্পত্য জীবনে ভাঙনের অভিজ্ঞতায় ব্যতিক্রমী এক আয়োজনের মাধ্যমে আজীবন বিয়ে না করার শপথ নিয়েছেন নুরুজ্জামান ওরফে আনোয়ার (৩০) নামে এক যুবক। ঘটনাটি লালমনিরহাটের হাতীবান্ধা উপজেলার উত্তর জাওরানি গ্রামে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/691cd993528862a51f31468f427e2146-699747a036e01.jpg"
-      },
-      {
         "headline": "নতুন সরকারের তিন অগ্রাধিকার",
         "url": "https://dailynayadiganta.com/printed-edition/f79iR9VIHPrz/",
         "published_at": null,
@@ -475,6 +475,13 @@
         "published_at": null,
         "summary": "সাঈদ আহসান খালিদসাতকানিয়া ও লোহাগাড়া সিনিয়র জুডিশিয়াল ম্যাজিস্ট্রেট কোর্ট চট্টগ্রাম জেলা সদর থেকে সাতকানিয়া উপজেলা সদরে স্থানান্তর-সংক্রান্ত সাম্প্রতিক প্রজ্ঞাপনকে সারা দেশ এবং চট্টগ্রামের  অধিকাংশ আইনজীবী, বিচারপ্রার্থী ও আপামর জনগণ বিপুলভাবে স্বাগত জানিয়েছে।",
         "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "প্রধানমন্ত্রীর গবেষণা কর্মকর্তা হলেন সাত্তার পাটোয়ারী",
+        "url": "https://dailynayadiganta.com/bangladesh/national/HBx0LmBpXO7R/",
+        "published_at": null,
+        "summary": "জনপ্রশাসন মন্ত্রণালয়ের চুক্তি ও বৈদেশিক নিয়োগ শাখা থেকে বৃহস্পতিবার (১৯ ফেব্রুয়ারি) এ সংক্রান্ত প্রজ্ঞাপন জারি করা হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/Sattar-Patwari.jpg"
       },
       {
         "headline": "করাচিতে গ্যাস বিস্ফোরণে ভবন ধসে ১৬ জন নিহত",
@@ -526,13 +533,6 @@
         "image_url": "https://media.ndiganta.com/original_images/onno-3_VMC7to9.jpg"
       },
       {
-        "headline": "ব্রিটিশ রাজার ছোট ভাই অ্যান্ড্রু মাউন্টব্যাটেন গ্রেফতার",
-        "url": "https://dailynayadiganta.com/printed-edition/fAep4sxZ6cpv/",
-        "published_at": null,
-        "summary": "সরকারি পদে অসদাচরণের সন্দেহে থব্রিটিশ রাজপরিবারের সদস্য ও বর্তমান রাজা তৃতীয় চার্লসের ছোট ভাই অ্যান্ড্রু মাউন্টব্যাটেন-উইন্ডসরকে গ্রেফতার করা হয়েছে। গতকাল বৃহস্পতিবার ভোরে সাবেক এই প্রিন্সকে গ্রেফতার করা হয়।",
-        "image_url": "https://media.ndiganta.com/original_images/onno-2_LqtqySN.jpg"
-      },
-      {
         "headline": "রংপুরে জুস খাওয়ানোর লোভ দেখিয়ে শিশুকে ধর্ষণ, ইটভাটা শ্রমিক আটক",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/zqyLJsCAiFF1/",
         "published_at": null,
@@ -561,7 +561,7 @@
         "image_url": "https://media.ndiganta.com/original_images/Mymen.jpg"
       },
       {
-        "headline": "সৈয়দপুরে পানিসম্পদ প্রতিমন্ত্রীতিস্তা মহাপরিকল্পনা বাস্তবায়নে অধিক গুরুত্ব দেবো",
+        "headline": "তিস্তা মহাপরিকল্পনা বাস্তবায়নে অধিক গুরুত্ব দেবো",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/GZR7lxdY6ztc/",
         "published_at": null,
         "summary": "আমাদের এ অঞ্চল প্রতিনিয়ত মরুভূমিতে পরিণত হচ্ছে। এখন অঞ্চলটিকে কীভাবে মরুভূমি থেকে রক্ষা করা যায়, কীভাবে পানি সংরক্ষণ করতে পারি সে ব্যবস্থা করতে হবে।",
@@ -582,17 +582,10 @@
         "image_url": "https://media.ndiganta.com/original_images/Ozil_CHXNEx6.jpg"
       },
       {
-        "headline": "আন্তঃবিশ্ববিদ্যালয় টেবিল টেনিস প্রতিযোগিতায় নারী এককে ঢাবি চ্যাম্পিয়ন",
-        "url": "https://dailynayadiganta.com/bangladesh/education-campus/ommDxg67RP33/",
-        "published_at": null,
-        "summary": "বাংলাদেশ টেবিল টেনিস ফেডারেশনের আয়োজনে অনুষ্ঠিত এ প্রতিযোগিতায় মোট ৩০টি বিশ্ববিদ্যালয় অংশগ্রহণ করে।",
-        "image_url": "https://media.ndiganta.com/original_images/DU_EVualMf.jpg"
-      },
-      {
         "headline": "আজকের সর্বশেষ খবর - February 20, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "আজ আমরা দিক-নির্দেশনা দিলাম। বাস্তবায়নের জন্য তিন ধাপের টাইমলাইন ধরে এগোবো। প্রথম ধাপ হবে এখন থেকে ঈদুল ফিতর পর্যন্ত। এ ...",
+        "summary": "ইরানের ব্যালিস্টিক ক্ষেপণাস্ত্র ব্যবস্থায় হামলা চালানোর প্রস্তুতি নিচ্ছে ইসরাইল। শুধু যুক্তরাষ্ট্রের ‘সবুজ সংকেতের’ অপেক্ষায় রয়েছে দেশটি। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -601,6 +594,42 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+      },
+      {
+        "headline": "রমজান ও ঈদে অর্থ-মূল্যবান দ্রব্য পরিবহনে ডিএমপির এসকর্ট সেবা",
+        "url": "https://www.prothomalo.com/bangladesh/745qe67gj3",
+        "published_at": "2026-02-19T15:19:19.671000+00:00",
+        "summary": "পবিত্র রমজান মাস ও ঈদুল ফিতর উপলক্ষে লেনদেন ও বিভিন্ন দ্রব্যের স্থানান্তরে ডিএমপির সেবা নেওয়া যাবে।",
+        "image_s3_key": "prothomalo-bangla/2025-03-08/efe4uzqw/DMP-Logo.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-08/efe4uzqw/DMP-Logo.jpg?auto=format,compress"
+      },
+      {
+        "headline": "এতিম শিশুদের সঙ্গে ইফতার করলেন ডা. জুবাইদা ও জাইমা রহমান",
+        "url": "https://www.ittefaq.com.bd/775752/%E0%A6%8F%E0%A6%A4%E0%A6%BF%E0%A6%AE-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE-%E0%A6%93-%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%AE%E0%A6%BE",
+        "published_at": null,
+        "summary": "রাজধানীর ভাসানটেক এলাকায় নারী ও এতিম শিশুদের সঙ্গে ইফতার করেছেন প্রধানমন্ত্রী তারেক রহমান-এর স্ত্রী ডা. জুবাইদা রহমান ও কন্যা জাইমা রহমান।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/9db16cc4fcd39b061660bf769281cc02-69974a26dd69a.jpg"
+      },
+      {
+        "headline": "তিনবার সংসার ভাঙার পর দুধ দিয়ে গোসল, আজীবন বিয়ে না করার শপথ যুবকের",
+        "url": "https://www.ittefaq.com.bd/775751/%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%A7-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B8%E0%A6%B2-%E0%A6%86%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+        "published_at": null,
+        "summary": "তিন দফা বিয়ের পর প্রতিবারই দাম্পত্য জীবনে ভাঙনের অভিজ্ঞতায় ব্যতিক্রমী এক আয়োজনের মাধ্যমে আজীবন বিয়ে না করার শপথ নিয়েছেন নুরুজ্জামান ওরফে আনোয়ার (৩০) নামে এক যুবক। ঘটনাটি লালমনিরহাটের হাতীবান্ধা উপজেলার উত্তর জাওরানি গ্রামে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/691cd993528862a51f31468f427e2146-699747a036e01.jpg"
+      },
+      {
+        "headline": "ব্রিটিশ রাজার ছোট ভাই অ্যান্ড্রু মাউন্টব্যাটেন গ্রেফতার",
+        "url": "https://dailynayadiganta.com/printed-edition/fAep4sxZ6cpv/",
+        "published_at": null,
+        "summary": "সরকারি পদে অসদাচরণের সন্দেহে থব্রিটিশ রাজপরিবারের সদস্য ও বর্তমান রাজা তৃতীয় চার্লসের ছোট ভাই অ্যান্ড্রু মাউন্টব্যাটেন-উইন্ডসরকে গ্রেফতার করা হয়েছে। গতকাল বৃহস্পতিবার ভোরে সাবেক এই প্রিন্সকে গ্রেফতার করা হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/onno-2_LqtqySN.jpg"
+      },
+      {
+        "headline": "আন্তঃবিশ্ববিদ্যালয় টেবিল টেনিস প্রতিযোগিতায় নারী এককে ঢাবি চ্যাম্পিয়ন",
+        "url": "https://dailynayadiganta.com/bangladesh/education-campus/ommDxg67RP33/",
+        "published_at": null,
+        "summary": "বাংলাদেশ টেবিল টেনিস ফেডারেশনের আয়োজনে অনুষ্ঠিত এ প্রতিযোগিতায় মোট ৩০টি বিশ্ববিদ্যালয় অংশগ্রহণ করে।",
+        "image_url": "https://media.ndiganta.com/original_images/DU_EVualMf.jpg"
       },
       {
         "headline": "চমকপ্রদ সিদ্ধান্তে ‘নতুন শুরুর’ বার্তা: প্রটোকল কমালেন প্রধানমন্ত্রী",
@@ -1455,37 +1484,17 @@
         "published_at": null,
         "summary": "বৃহস্পতিবার বাংলাদেশ জামায়াতে ইসলামী ঢাকা-১৫ সংসদীয় এলাকার উদ্যোগে এতিমদের সম্মানে আয়োজিত ইফতার মাহফিলে প্রধান অতিথির বক্তব্যে তিনি এসব কথা বলেন।",
         "image_url": "https://media.ndiganta.com/original_images/Dr_ByjPRGU.-Shafiqur-Rahman.jpg"
-      },
-      {
-        "headline": "৪৪তম বিসিএসের নন-ক্যাডারে ৪১৩৬ জনকে নিয়োগ",
-        "url": "https://dailynayadiganta.com/bangladesh/national/ZFh5MABspyE5/",
-        "published_at": null,
-        "summary": "‘নন-ক্যাডার পদে নিয়োগ (বিশেষ) বিধিমালা, ২০২৩’-এর বিধি ৬ অনুযায়ী প্রার্থীদের মেধা ও পছন্দক্রম বিবেচনা করে এ মনোনয়ন দেয়া হয়েছে। ৯ম থেকে ১১তম গ্রেডের বিভিন্ন শূন্য পদে এ নিয়োগ কার্যকর হবে।",
-        "image_url": "https://media.ndiganta.com/original_images/PSC_yW73rkP.jpg"
-      },
-      {
-        "headline": "ভাসানটেকে নারী ও শিশুদের সাথে জাইমা রহমানের ইফতার",
-        "url": "https://dailynayadiganta.com/bangladesh/politics/Ftd7S6z1E3Qr/",
-        "published_at": null,
-        "summary": "কড়াইল বস্তি ও ভাসানটেক এলাকার ১৪টি এতিমখানা ও হাফেজিয়া মাদরাসায় পুরো মাস জুড়ে ইফতার, রাতের খাবার ও সেহরি সরবরাহের উদ্যোগের অংশ হিসেবে জাইমা রহমান আজকের ইফতার মাহফিলে যোগ দেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Zaima-Rahman-ifter.jpg"
-      },
-      {
-        "headline": "শাবিপ্রবিতে তৃতীয়বারের মতো গণ-ইফতার",
-        "url": "https://dailynayadiganta.com/bangladesh/education-campus/g6R0FNPWHeYe/",
-        "published_at": null,
-        "summary": "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ে তৃতীয়বারের মতো গণ-ইফতার কর্মসূচি অনুষ্ঠিত হয়েছে। এতে প্রায় দুই হাজার মানুষের জন্য ইফতারের আয়োজন করে সামাজিক সংগঠন স্টুডেন্ট এইড সাস্ট।",
-        "image_url": "https://media.ndiganta.com/original_images/SUST_DmMQtqJ.jpg"
-      },
-      {
-        "headline": "দ্রব্যমূল্যের দাম নিয়ন্ত্রণে রাখুন, অন্যথায় কঠোর নজরদারি রাখা হবে",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/btaJYWwgAjqo/",
-        "published_at": null,
-        "summary": "‘আমি শিবচরবাসীর কাছে চিরকৃতজ্ঞ। আপনারা আমাকে এমপি নির্বাচিত করেছেন। আমি সকল ধর্ম-বর্ণ নির্বিশেষে সবাইকে নিয়ে শিবচরটাকে সাজাতে চাই। এখন থেকে আমরা যেনো স্বাধীনভাবে মতামত প্রকাশ করতে পারি, জনগণের জানমালের নিরাপত্তা দিতে পারি। সময় এসেছে স্বাধীনভাবে চলার, স্বাধীন মতামত প্রকাশ করার। ফ্যাসিস্টমুক্ত বাংলাদেশ গড়তে সাংবাদিকদের ভূমিকা অপরিসীম।’",
-        "image_url": "https://media.ndiganta.com/original_images/Shibchar-Madaripur-MP-Hanza.jpg"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "নানা পদের মধ্যে আখনি ও পাতলা খিচুড়ির বিক্রি বেশি",
+        "url": "https://www.prothomalo.com/bangladesh/district/3ovnpgt1p0",
+        "published_at": "2026-02-19T22:00:00+00:00",
+        "summary": "সিলেটের ইফতারির বাজারে বরাবরের মতো এবারও রোজাদারদের চাহিদার শীর্ষে আছে পাতলা খিচুড়ি ও আখনি। বৃহস্পতিবার নগরের বিভিন্ন রেস্তোরাঁ ঘুরে বিক্রেতাদের সঙ্গে কথা বলে এ তথ্য জানা গেছে।",
+        "image_s3_key": "prothomalo-bangla/2026-02-19/19e51nyd/SylhetDH048620260219Sylhet-Iftar-Pic-9.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/19e51nyd/SylhetDH048620260219Sylhet-Iftar-Pic-9.JPG?auto=format,compress"
+      },
       {
         "headline": "প্রধানমন্ত্রীর গবেষণা কর্মকর্তা পদে নিয়োগ পেলেন আবদুস সাত্তার পাটোয়ারী",
         "url": "https://www.prothomalo.com/bangladesh/7buw86jpw9",
@@ -1799,14 +1808,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-18/w1fcya53/WhatsApp-Image-2026-02-18-at-13.40.51.jpeg?auto=format,compress"
       },
       {
-        "headline": "জানুয়ারিতে সড়কে ৪৮৭ প্রাণহানি, ৪০ শতাংশই মোটরসাইকেল দুর্ঘটনায়",
-        "url": "https://www.prothomalo.com/bangladesh/g1cv6oakv9",
-        "published_at": "2026-02-19T13:07:59.231000+00:00",
-        "summary": "ঢাকা বিভাগে সর্বোচ্চ ১৪৩টি দুর্ঘটনায় ১১৯ জন নিহত হয়েছেন। সিলেট বিভাগে সর্বনিম্ন ২৪টি দুর্ঘটনায় ১৮ জন নিহত হয়েছেন।",
-        "image_s3_key": "prothomalo-bangla/2025-11-19/ux7939gg/road-safety.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-19/ux7939gg/road-safety.avif?auto=format,compress"
-      },
-      {
         "headline": "প্রধানমন্ত্রীর গবেষণা কর্মকর্তা পদে নিয়োগ পেলেন সাত্তার পাটোয়ারী",
         "url": "https://www.bd-pratidin.com/national/2026/02/20/1218995",
         "published_at": "2026-02-20T01:42:36+06:00",
@@ -1877,6 +1878,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/19/og/1771511469-d784a1781e43ba38b3f0a183dbe60513.jpg"
       },
       {
+        "headline": "দুই দিন বৃষ্টি হতে পারে দেশের দক্ষিণাঞ্চল",
+        "url": "https://www.ittefaq.com.bd/775770/%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2",
+        "published_at": null,
+        "summary": "আগামী কয়েক দিন দেশের আবহাওয়া আংশিক মেঘলা থাকলেও তাপমাত্রা সামান্য বাড়তে পারে বলে জানিয়েছে বাংলাদেশ আবহাওয়া অধিদপ্তর। তবে ২৩ ও ২৪ ফেব্রুয়ারি দেশের দক্ষিণাঞ্চলের বেশ কিছু জেলায় বৃষ্টির সম্ভাবনা রয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/04/10/0030f70da36a3cbbd531c8acb3b55e7c-67f78e9ae1dda.jpg"
+      },
+      {
         "headline": "সংসদে কোটিপতি ২৭১ জন, ৫ কোটির বেশি সম্পদ ১৮৭ জনের: সুজন",
         "url": "https://www.ittefaq.com.bd/775760/%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%AA%E0%A6%A4%E0%A6%BF-%E0%A7%A8%E0%A7%AD%E0%A7%A7-%E0%A6%9C%E0%A6%A8-%E0%A7%AB-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A6-%E0%A7%A7%E0%A7%AE%E0%A7%AD-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
         "published_at": null,
@@ -1940,11 +1948,18 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/5d0e7d98bc7cceabaff8ab89e75ce697-69971dc939f08.jpg"
       },
       {
-        "headline": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের বিচার চলমান থাকবে: চিফ প্রসিকিউটর",
-        "url": "https://www.ittefaq.com.bd/775731/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%A7-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%B2%E0%A6%AE%E0%A6%BE%E0%A6%A8",
+        "headline": "টিসিবির তেলের কার্টনে মিললো পানির বোতল",
+        "url": "https://www.ittefaq.com.bd/775763/%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A7%8B%E0%A6%A4%E0%A6%B2",
         "published_at": null,
-        "summary": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের বিচারিক কার্যক্রম স্বাভাবিক ধারায় অব্যাহত থাকবে বলে আশা প্রকাশ করেছেন চিফ প্রসিকিউটর মোহাম্মদ তাজুল ইসলাম।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/fdc730b11cba62d26578eb2380b5b6ef-69971c7237a35.jpg"
+        "summary": "পঞ্চগড়ের বোদা উপজেলায় রমজান উপলক্ষে সরবরাহ করা ট্রেডিং করপোরেশন অব বাংলাদেশ (টিসিবি)–এর ভোজ্যতেলের চালানে পানিভর্তি বোতল পাওয়ার ঘটনায় পুরো চালান ফেরত পাঠানো হয়েছে। বুধবার (১৮ ফেব্রুয়ারি) বিকেলে বোদা উপজেলা খাদ্যগুদাম চত্বরে পণ্য খালাসের সময় বিষয়টি ধরা পড়ে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/20/037fac3529554d20ba1ae036c3d01390-699783185e4a4.jpg"
+      },
+      {
+        "headline": "তারাকান্দায় আওয়ামী লীগের কার্যালয়ে বৈষম্যবিরোধীদের বিক্ষোভ, আগুন",
+        "url": "https://www.ittefaq.com.bd/775762/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%88%E0%A6%B7%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "ময়মনসিংহের তারাকান্দায় কার্যক্রম নিষিদ্ধ বাংলাদেশ আওয়ামী লীগ-এর উপজেলা কার্যালয়ে বিক্ষোভ করেছেন বৈষম্যবিরোধী ছাত্র আন্দোলন ও জাতীয় নাগরিক পার্টি (এনসিপি) নেতা-কর্মীরা। এ সময় কার্যালয়ের ভেতরে টায়ার জ্বালিয়ে আগুন দেওয়া এবং দেয়ালের ইট ভাঙচুরের ঘটনা ঘটে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/20/198e39c27d99dd05b20753607422f5b9-699780bb3d299.jpg"
       },
       {
         "headline": "কুয়াকাটায় দোকানে হামলা-ভাঙচুর, গ্রেপ্তার স্বেচ্ছাসেবক দলের বহিষ্কৃত সদস্য",
@@ -2001,20 +2016,6 @@
         "published_at": null,
         "summary": "পাবনার সাঁথিয়ায় মাদক ব্যবসা ও জুয়ার আধিপত্য বিস্তারকে কেন্দ্র করে আব্দুল গফুর (৮০) নামে এক বৃদ্ধকে পিটিয়ে হত্যার অভিযোগ উঠেছে। এ ঘটনায় নারীসহ তিনজনকে আটক করেছে পুলিশ।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/25aa2cf746b0be70b03655d3edcba10a-699708712392f.jpg"
-      },
-      {
-        "headline": "সিলেটের ডিসি সারোয়ারকে শোকজ",
-        "url": "https://www.ittefaq.com.bd/775713/%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A7%8B%E0%A6%95%E0%A6%9C",
-        "published_at": null,
-        "summary": "সিলেটের গোলাপগঞ্জ উপজেলায় বৈষম্যবিরোধী ছাত্র আন্দোলন চলাকালে গুলির আদেশ প্রদানকারী নির্বাহী ম্যাজিস্ট্রেটের তথ্য সরবরাহ না করায় সিলেটের জেলা প্রশাসক (ডিসি) মো. সারোয়ার আলমকে কারণ দর্শানোর নোটিশ (শোকজ) দিয়েছেন আদালত।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/74f42a2268e2ebbecc66d624a6c075db-6997056aa275d.jpg"
-      },
-      {
-        "headline": "৯ ঘণ্টা পর রাজশাহী-রহনপুর রুটে রেল যোগাযোগ স্বাভাবিক",
-        "url": "https://www.ittefaq.com.bd/775711/%E0%A7%AF-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AA%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%B0%E0%A6%B9%E0%A6%A8%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%B2-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97",
-        "published_at": null,
-        "summary": "চাঁপাইনবাবগঞ্জের আমনুরা রেলস্টেশন এলাকায় লাইনচ্যুত হওয়া তেলবাহী ট্রেনের চারটি ওয়াগন উদ্ধারের পর আবারও স্বাভাবিক হয়েছে রাজশাহী-রহনপুর রুটে রেল চলাচল।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/3f6a6939987ad05b97e57eca194d4e83-6996ffc6c54ac.jpg"
       },
       {
         "headline": "ভারতফেরত সাবেক সমন্বয়ক মাহদীকে বিমানবন্দরে জিজ্ঞাসাবাদ",
@@ -2225,6 +2226,35 @@
         "published_at": "1771522232",
         "summary": "পবিত্র মাহে রমজানকে সামনে রেখে নিত্যপ্রয়োজনীয় পণ্যের মূল্য সহনীয় পর্যায়ে রাখতে ময়মনসিংহের গুরুত্বপূর্ণ বাজারগুলোতে বিশেষ মনিটরিং কার্যক্রম পরিচালনা করেছে জেলা প্রশাসন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-0-20260219173032.jpg"
+      },
+      {
+        "headline": "জানুয়ারিতে সড়কে ৪৮৭ প্রাণহানি, ৪০ শতাংশই মোটরসাইকেল দুর্ঘটনায়",
+        "url": "https://www.prothomalo.com/bangladesh/g1cv6oakv9",
+        "published_at": "2026-02-19T13:07:59.231000+00:00",
+        "summary": "ঢাকা বিভাগে সর্বোচ্চ ১৪৩টি দুর্ঘটনায় ১১৯ জন নিহত হয়েছেন। সিলেট বিভাগে সর্বনিম্ন ২৪টি দুর্ঘটনায় ১৮ জন নিহত হয়েছেন।",
+        "image_s3_key": "prothomalo-bangla/2025-11-19/ux7939gg/road-safety.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-19/ux7939gg/road-safety.avif?auto=format,compress"
+      },
+      {
+        "headline": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের বিচার চলমান থাকবে: চিফ প্রসিকিউটর",
+        "url": "https://www.ittefaq.com.bd/775731/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%A7-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%B2%E0%A6%AE%E0%A6%BE%E0%A6%A8",
+        "published_at": null,
+        "summary": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের বিচারিক কার্যক্রম স্বাভাবিক ধারায় অব্যাহত থাকবে বলে আশা প্রকাশ করেছেন চিফ প্রসিকিউটর মোহাম্মদ তাজুল ইসলাম।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/fdc730b11cba62d26578eb2380b5b6ef-69971c7237a35.jpg"
+      },
+      {
+        "headline": "সিলেটের ডিসি সারোয়ারকে শোকজ",
+        "url": "https://www.ittefaq.com.bd/775713/%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8B%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A7%8B%E0%A6%95%E0%A6%9C",
+        "published_at": null,
+        "summary": "সিলেটের গোলাপগঞ্জ উপজেলায় বৈষম্যবিরোধী ছাত্র আন্দোলন চলাকালে গুলির আদেশ প্রদানকারী নির্বাহী ম্যাজিস্ট্রেটের তথ্য সরবরাহ না করায় সিলেটের জেলা প্রশাসক (ডিসি) মো. সারোয়ার আলমকে কারণ দর্শানোর নোটিশ (শোকজ) দিয়েছেন আদালত।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/74f42a2268e2ebbecc66d624a6c075db-6997056aa275d.jpg"
+      },
+      {
+        "headline": "৯ ঘণ্টা পর রাজশাহী-রহনপুর রুটে রেল যোগাযোগ স্বাভাবিক",
+        "url": "https://www.ittefaq.com.bd/775711/%E0%A7%AF-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%AA%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%B0%E0%A6%B9%E0%A6%A8%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%B2-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97",
+        "published_at": null,
+        "summary": "চাঁপাইনবাবগঞ্জের আমনুরা রেলস্টেশন এলাকায় লাইনচ্যুত হওয়া তেলবাহী ট্রেনের চারটি ওয়াগন উদ্ধারের পর আবারও স্বাভাবিক হয়েছে রাজশাহী-রহনপুর রুটে রেল চলাচল।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/3f6a6939987ad05b97e57eca194d4e83-6996ffc6c54ac.jpg"
       },
       {
         "headline": "বরগুনায় দুই পক্ষের সংঘর্ষে নারীসহ আহত ২০",
@@ -2942,37 +2972,6 @@
         "summary": "সম্পত্তি ভাগ-বাঁটোয়ারা নিয়ে আজিজার রহমানের প্রথম ও দ্বিতীয় স্ত্রীর সন্তানদের মধ্যে বিরোধের কারণে নির্ধারিত সময় জানাজা হয়নি।",
         "image_s3_key": "prothomalo-bangla/2026-02-19/ax7azw5t/WhatsApp-Image-2026-02-19-at-09.22.27.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/ax7azw5t/WhatsApp-Image-2026-02-19-at-09.22.27.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "ধ্বংসের আগুন থেকে অদম্য আলো ",
-        "url": "https://www.prothomalo.com/bangladesh/52d8od3gp0",
-        "published_at": "2026-02-19T03:06:08.069000+00:00",
-        "summary": "নিউজপেপার ওনার্স অ্যাসোসিয়েশন অব বাংলাদেশের (নোয়াব) সভাপতি এ কে আজাদ বলেন, প্রথম আলো ভবন যেভাবে পোড়ানো হয়েছে, তা অত্যন্ত বেদনাদায়ক।",
-        "image_s3_key": "prothomalo-bangla/2026-02-19/iseaty06/Image.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/iseaty06/Image.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "বিএনপির মন্ত্রিসভায় এবারও খুলনার কেউ নেই, ক্ষোভ-হতাশা",
-        "url": "https://www.prothomalo.com/bangladesh/district/jjbcqckbws",
-        "published_at": "2026-02-19T02:00:00+00:00",
-        "summary": "খুলনা বিভাগের ৩৬টি আসনের মধ্যে মাত্র ১১টি আসনে জয় পেয়েছে বিএনপি। তবে নতুন মন্ত্রিসভায় খুলনার কারও জায়গা হয়নি। এতে দলীয় নেতা-কর্মী থেকে শুরু করে সাধারণ ভোটারদের মধ্যে ক্ষোভ ও হতাশা দেখা দিয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-02-12/8e1ytprv/WhatsApp_Image_2026_02_12_at_8_19_59_AM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-12/8e1ytprv/WhatsApp_Image_2026_02_12_at_8_19_59_AM.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "প্রধানমন্ত্রী তারেক রহমান নিজের গাড়িতেই চলাফেরা করবেন",
-        "url": "https://www.prothomalo.com/bangladesh/lg7qkcyfsn",
-        "published_at": "2026-02-18T20:34:08.893000+00:00",
-        "summary": "প্রধানমন্ত্রী তারেক রহমান সরকারি গাড়িতে নয়, নিজের গাড়ি ব্যবহার করবেন। বিএনপি চেয়ারম্যানের প্রেস সচিব সালেহ শিবলী বাসসকে এ কথা বলেন।",
-        "image_s3_key": "prothomalo-bangla/2026-02-18/e7bjp4hi/Tarique-Rahman.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-18/e7bjp4hi/Tarique-Rahman.jpg?auto=format,compress"
-      },
-      {
-        "headline": "নুরার মা’র বটগাছ-এর ছায়ায় আড়াইশ’ বছরের জনপদ",
-        "url": "https://www.bd-pratidin.com/agriculture-nature/2026/02/19/1218736",
-        "published_at": "2026-02-19T15:54:58+06:00",
-        "summary": "কুমিল্লার হোমনা উপজেলার সীমান্তবর্তী এলাকা রামকৃষ্ণপুর। একদিকে কুমিল্লা, অন্যদিকে ব্রাহ্মণবাড়িয়া—দুই জেলার সংযোগস্থলে অবস্থিত এ জনপদ। গ্রামের বাজার থেকে একটি সড়ক চলে গেছে হোমনা উপজেলা সদরের দিকে। সড়কটি তিতাস নদীর পাড় ঘেঁষে বিস্তৃত। নদীপথে ভটভট শব্দ তুলে ট্রলার ছুটে চলে দূর গন্তব্যে, আর সড়কজুড়ে ছোট-বড় নানা যানবাহনের ব্যস্ত চলাচল।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/19/og/1771494897-464eb4ee2c4654f91f74cfc48de2fe23.jpg"
       }
     ],
     "politics": [
@@ -4779,8 +4778,8 @@
         "headline": "নাইজেরিয়ায় রোজা না রেখে প্রকাশ্যে খাবারগ্রহণ, গ্রেপ্তার ৯",
         "url": "https://www.ittefaq.com.bd/775745/%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A7%9F-%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3",
         "published_at": null,
-        "summary": "নাইজেরিয়ার উত্তরাঞ্চলীয় মুসলিম সংখ্যাগরিষ্ঠ কানো রাজ্যে রোজা না রাখার অভিযোগে নারীসহ ৯ জনকে গ্রেপ্তার করেছে ইসলামিক পুলিশ। রমজান মাসের প্রথম দিনেই তাদের প্রকাশ্যে খাবার খেতে দেখা যায় বলে অভিযোগ করা হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/14a2cbe635f89d5cebd8734b6a15c1de-69972ee92a8b2.jpg"
+        "summary": null,
+        "image_url": null
       },
       {
         "headline": "নিউজিল্যান্ড ও ফিজিতে রোজা শুরু ২০ ফেব্রুয়ারি থেকে",
@@ -13251,13 +13250,6 @@
         "image_url": null
       },
       {
-        "headline": "এখন পর্যন্ত প্রাপ্ত ফলাফলে কোন দল কত আসন পেল",
-        "url": "https://www.amarsangbad.com/election/news/337981",
-        "published_at": "1770934561",
-        "summary": "দেশব্যাপী অনুষ্ঠিত হয়ে গেল বহুল কাঙ্ক্ষিত ত্রয়োদশ জাতীয় সংসদ নির্বাচন। দেশে প্রথমবারের মতো এই নির্বাচনের সঙ্গে অনুষ্ঠিত হয়েছে গণভোট। উৎসবমুখর পরিবেশে বৃহস্পতিবার (১২ ফেব্রুয়ারি) সকাল সাড়ে ৭টা থেকে বিকাল সাড়ে ৪টা পর্যন্ত দেশের ২৯৯টি আসনে একটানা চলেছে ভোটগ্রহণ। এরপর শুরু হয় ভোট গণনা পর্ব। এরই মধ্যে বিভিন্ন কেন্দ্র থেকে ভোট গণনা শেষে আসতে শুরু করেছে ফল। বেসরকারিভাবে অধিকাংশ আসনের ফলাফলও ঘোষণা হয়ে গেছে ইতোমধ্যে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-578-20260212221601.jpg"
-      },
-      {
         "headline": "২৯৯ আসনে ইসির চূড়ান্ত ফল প্রকাশ, কোন দল কত আসন পেল",
         "url": "https://www.amarsangbad.com/election/news/337993",
         "published_at": "1770966665",
@@ -13307,11 +13299,25 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-(13)-20260213133035.jpg"
       },
       {
+        "headline": "মেঘনা আলমের জামানত বাজেয়াপ্ত",
+        "url": "https://www.amarsangbad.com/election/news/338017",
+        "published_at": "1770981084",
+        "summary": "ঢাকা-৮ আসন থেকে গণ অধিকার পরিষদের প্রার্থী হিসেবে ট্রাক প্রতীকে নির্বাচনে অংশ নেন মেঘনা আলম। রিটার্নিং কর্মকর্তার ঘোষিত ফলাফল অনুযায়ী, ট্রাক প্রতীকে সর্বমোট ৬০৮টি ভোট পেয়েছেন তিনি। ফলে তার জামানত বাজেয়াপ্ত করা হয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-20260213111124.gif"
+      },
+      {
         "headline": "ইসি থেকে ১৫ কর্মীকে অব্যাহতি",
         "url": "https://www.amarsangbad.com/election/news/338519",
         "published_at": "1771504926",
         "summary": "নির্বাচন কমিশনের (ইসি) ১৫ জন কর্মীকে চাকরি থেকে অব্যাহতি দেওয়া হয়েছে। বুধবার নির্বাচন কমিশন সচিবালয়ের উপপ্রকল্প পরিচালক (প্রশাসন) মেজর মাহমুদুল হাসান তালুকদারের সই করা এক অফিস আদেশে এ তথ্য জানা গেছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-22-20260219124206.jpg"
+      },
+      {
+        "headline": "এখন পর্যন্ত প্রাপ্ত ফলাফলে কোন দল কত আসন পেল",
+        "url": "https://www.amarsangbad.com/election/news/337981",
+        "published_at": "1770934561",
+        "summary": "দেশব্যাপী অনুষ্ঠিত হয়ে গেল বহুল কাঙ্ক্ষিত ত্রয়োদশ জাতীয় সংসদ নির্বাচন। দেশে প্রথমবারের মতো এই নির্বাচনের সঙ্গে অনুষ্ঠিত হয়েছে গণভোট। উৎসবমুখর পরিবেশে বৃহস্পতিবার (১২ ফেব্রুয়ারি) সকাল সাড়ে ৭টা থেকে বিকাল সাড়ে ৪টা পর্যন্ত দেশের ২৯৯টি আসনে একটানা চলেছে ভোটগ্রহণ। এরপর শুরু হয় ভোট গণনা পর্ব। এরই মধ্যে বিভিন্ন কেন্দ্র থেকে ভোট গণনা শেষে আসতে শুরু করেছে ফল। বেসরকারিভাবে অধিকাংশ আসনের ফলাফলও ঘোষণা হয়ে গেছে ইতোমধ্যে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-578-20260212221601.jpg"
       },
       {
         "headline": "সালাহউদ্দিন আহমদকে যার নির্দেশে তুলে নিয়ে ভারতে পাচার করা হয়",
@@ -14565,13 +14571,6 @@
         "published_at": "2026-02-17T17:02:55+06:00",
         "summary": "এবার আইএসপন্থী যোদ্ধাদের দমন করতে পশ্চিম আফ্রিকার দেশ নাইজেরিয়ায় সেনা ও সামরিক সরঞ্জাম পাঠালো যুক্তরাষ্ট্র। বর্তমানে প্রায় ৩০০ মার্কিন সেনা এই দেশটিতে মোতায়েন রয়েছে। ৯ লাখ ২৩ হাজার ৭৬৯ আয়তনের দেশ নাইজেরিয়ার জনসংখ্যা ২৩ কোটি ৪৭ লাখ ৬৭ হাজার ১৩০ জন। শতকরা হিসেবে এই জনসংখ্যার ৫৩ দশমিক ৫০ শতাংশ মুসলিম, ৪৫ দশমিক ৯০ শতাংশ খ্রিস্টান এবং বাকিরা অন্যান্য ধর্মাবলম্বী।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771326172-6c13fabc809128d597a4d183f830ada0.jpg"
-      },
-      {
-        "headline": "বগুড়া-৬ আসন শূন্য ঘোষণা করে গেজেট প্রকাশ",
-        "url": "https://www.bd-pratidin.com/national/2026/02/17/1218027",
-        "published_at": "2026-02-17T16:53:31+06:00",
-        "summary": "বগুড়া-৬ আসন শূন্য ঘোষণা করে গেজেট প্রকাশ করেছে নির্বাচন কমিশন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/17/og/1771325608-d5235a5361041d7d62c839f9da7c09cd.jpg"
       }
     ],
     "city": [

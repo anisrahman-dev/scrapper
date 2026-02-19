@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-02-19T22:02:30.358181+00:00",
+  "fetched_at": "2026-02-19T22:34:52.931706+00:00",
   "stories": [
+    {
+      "headline": "নানা পদের মধ্যে আখনি ও পাতলা খিচুড়ির বিক্রি বেশি",
+      "url": "https://www.prothomalo.com/bangladesh/district/3ovnpgt1p0",
+      "published_at": "2026-02-19T22:00:00+00:00",
+      "summary": "সিলেটের ইফতারির বাজারে বরাবরের মতো এবারও রোজাদারদের চাহিদার শীর্ষে আছে পাতলা খিচুড়ি ও আখনি। বৃহস্পতিবার নগরের বিভিন্ন রেস্তোরাঁ ঘুরে বিক্রেতাদের সঙ্গে কথা বলে এ তথ্য জানা গেছে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-19/19e51nyd/SylhetDH048620260219Sylhet-Iftar-Pic-9.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/19e51nyd/SylhetDH048620260219Sylhet-Iftar-Pic-9.JPG?auto=format,compress"
+    },
     {
       "headline": "প্রধানমন্ত্রীর গবেষণা কর্মকর্তা পদে নিয়োগ পেলেন আবদুস সাত্তার পাটোয়ারী",
       "url": "https://www.prothomalo.com/bangladesh/7buw86jpw9",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/dzxrvkaq/MurderArrest.jpeg?auto=format,compress"
     },
     {
-      "headline": "রমজান ও ঈদে অর্থ-মূল্যবান দ্রব্য পরিবহনে ডিএমপির এসকর্ট সেবা",
-      "url": "https://www.prothomalo.com/bangladesh/745qe67gj3",
-      "published_at": "2026-02-19T15:19:19.671000+00:00",
-      "summary": "পবিত্র রমজান মাস ও ঈদুল ফিতর উপলক্ষে লেনদেন ও বিভিন্ন দ্রব্যের স্থানান্তরে ডিএমপির সেবা নেওয়া যাবে।",
-      "image_s3_key": "prothomalo-bangla/2025-03-08/efe4uzqw/DMP-Logo.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-08/efe4uzqw/DMP-Logo.jpg?auto=format,compress"
-    },
-    {
       "headline": "প্রধানমন্ত্রীর গবেষণা কর্মকর্তা পদে নিয়োগ পেলেন সাত্তার পাটোয়ারী",
       "url": "https://www.bd-pratidin.com/national/2026/02/20/1218995",
       "published_at": "2026-02-20T01:42:36+06:00",
@@ -392,6 +392,20 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/19/og/1771511469-d784a1781e43ba38b3f0a183dbe60513.jpg"
     },
     {
+      "headline": "দুই দিন বৃষ্টি হতে পারে দেশের দক্ষিণাঞ্চল",
+      "url": "https://www.ittefaq.com.bd/775770/%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2",
+      "published_at": null,
+      "summary": "আগামী কয়েক দিন দেশের আবহাওয়া আংশিক মেঘলা থাকলেও তাপমাত্রা সামান্য বাড়তে পারে বলে জানিয়েছে বাংলাদেশ আবহাওয়া অধিদপ্তর। তবে ২৩ ও ২৪ ফেব্রুয়ারি দেশের দক্ষিণাঞ্চলের বেশ কিছু জেলায় বৃষ্টির সম্ভাবনা রয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/04/10/0030f70da36a3cbbd531c8acb3b55e7c-67f78e9ae1dda.jpg"
+    },
+    {
+      "headline": "তারাকান্দায় আওয়ামী লীগের কার্যালয়ে বৈষম্যবিরোধীদের বিক্ষোভ, আগুন",
+      "url": "https://www.ittefaq.com.bd/775762/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%88%E0%A6%B7%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "ময়মনসিংহের তারাকান্দায় কার্যক্রম নিষিদ্ধ বাংলাদেশ আওয়ামী লীগ-এর উপজেলা কার্যালয়ে বিক্ষোভ করেছেন বৈষম্যবিরোধী ছাত্র আন্দোলন ও জাতীয় নাগরিক পার্টি (এনসিপি) নেতা-কর্মীরা। এ সময় কার্যালয়ের ভেতরে টায়ার জ্বালিয়ে আগুন দেওয়া এবং দেয়ালের ইট ভাঙচুরের ঘটনা ঘটে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/20/198e39c27d99dd05b20753607422f5b9-699780bb3d299.jpg"
+    },
+    {
       "headline": "কুয়াকাটায় দোকানে হামলা-ভাঙচুর, গ্রেপ্তার স্বেচ্ছাসেবক দলের বহিষ্কৃত সদস্য",
       "url": "https://www.ittefaq.com.bd/775761/%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0",
       "published_at": null,
@@ -448,20 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/00033c3d93b634c0a5f11b21eea1e7dc-69974f5288f14.jpg"
     },
     {
-      "headline": "এতিম শিশুদের সঙ্গে ইফতার করলেন ডা. জুবাইদা ও জাইমা রহমান",
-      "url": "https://www.ittefaq.com.bd/775752/%E0%A6%8F%E0%A6%A4%E0%A6%BF%E0%A6%AE-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE-%E0%A6%93-%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%AE%E0%A6%BE",
-      "published_at": null,
-      "summary": "রাজধানীর ভাসানটেক এলাকায় নারী ও এতিম শিশুদের সঙ্গে ইফতার করেছেন প্রধানমন্ত্রী তারেক রহমান-এর স্ত্রী ডা. জুবাইদা রহমান ও কন্যা জাইমা রহমান।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/9db16cc4fcd39b061660bf769281cc02-69974a26dd69a.jpg"
-    },
-    {
-      "headline": "তিনবার সংসার ভাঙার পর দুধ দিয়ে গোসল, আজীবন বিয়ে না করার শপথ যুবকের",
-      "url": "https://www.ittefaq.com.bd/775751/%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%A7-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B8%E0%A6%B2-%E0%A6%86%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BE",
-      "published_at": null,
-      "summary": "তিন দফা বিয়ের পর প্রতিবারই দাম্পত্য জীবনে ভাঙনের অভিজ্ঞতায় ব্যতিক্রমী এক আয়োজনের মাধ্যমে আজীবন বিয়ে না করার শপথ নিয়েছেন নুরুজ্জামান ওরফে আনোয়ার (৩০) নামে এক যুবক। ঘটনাটি লালমনিরহাটের হাতীবান্ধা উপজেলার উত্তর জাওরানি গ্রামে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/691cd993528862a51f31468f427e2146-699747a036e01.jpg"
-    },
-    {
       "headline": "নতুন সরকারের তিন অগ্রাধিকার",
       "url": "https://dailynayadiganta.com/printed-edition/f79iR9VIHPrz/",
       "published_at": null,
@@ -474,6 +474,13 @@
       "published_at": null,
       "summary": "সাঈদ আহসান খালিদসাতকানিয়া ও লোহাগাড়া সিনিয়র জুডিশিয়াল ম্যাজিস্ট্রেট কোর্ট চট্টগ্রাম জেলা সদর থেকে সাতকানিয়া উপজেলা সদরে স্থানান্তর-সংক্রান্ত সাম্প্রতিক প্রজ্ঞাপনকে সারা দেশ এবং চট্টগ্রামের  অধিকাংশ আইনজীবী, বিচারপ্রার্থী ও আপামর জনগণ বিপুলভাবে স্বাগত জানিয়েছে।",
       "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "প্রধানমন্ত্রীর গবেষণা কর্মকর্তা হলেন সাত্তার পাটোয়ারী",
+      "url": "https://dailynayadiganta.com/bangladesh/national/HBx0LmBpXO7R/",
+      "published_at": null,
+      "summary": "জনপ্রশাসন মন্ত্রণালয়ের চুক্তি ও বৈদেশিক নিয়োগ শাখা থেকে বৃহস্পতিবার (১৯ ফেব্রুয়ারি) এ সংক্রান্ত প্রজ্ঞাপন জারি করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Sattar-Patwari.jpg"
     },
     {
       "headline": "করাচিতে গ্যাস বিস্ফোরণে ভবন ধসে ১৬ জন নিহত",
@@ -525,13 +532,6 @@
       "image_url": "https://media.ndiganta.com/original_images/onno-3_VMC7to9.jpg"
     },
     {
-      "headline": "ব্রিটিশ রাজার ছোট ভাই অ্যান্ড্রু মাউন্টব্যাটেন গ্রেফতার",
-      "url": "https://dailynayadiganta.com/printed-edition/fAep4sxZ6cpv/",
-      "published_at": null,
-      "summary": "সরকারি পদে অসদাচরণের সন্দেহে থব্রিটিশ রাজপরিবারের সদস্য ও বর্তমান রাজা তৃতীয় চার্লসের ছোট ভাই অ্যান্ড্রু মাউন্টব্যাটেন-উইন্ডসরকে গ্রেফতার করা হয়েছে। গতকাল বৃহস্পতিবার ভোরে সাবেক এই প্রিন্সকে গ্রেফতার করা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/onno-2_LqtqySN.jpg"
-    },
-    {
       "headline": "রংপুরে জুস খাওয়ানোর লোভ দেখিয়ে শিশুকে ধর্ষণ, ইটভাটা শ্রমিক আটক",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/zqyLJsCAiFF1/",
       "published_at": null,
@@ -560,7 +560,7 @@
       "image_url": "https://media.ndiganta.com/original_images/Mymen.jpg"
     },
     {
-      "headline": "সৈয়দপুরে পানিসম্পদ প্রতিমন্ত্রীতিস্তা মহাপরিকল্পনা বাস্তবায়নে অধিক গুরুত্ব দেবো",
+      "headline": "তিস্তা মহাপরিকল্পনা বাস্তবায়নে অধিক গুরুত্ব দেবো",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/GZR7lxdY6ztc/",
       "published_at": null,
       "summary": "আমাদের এ অঞ্চল প্রতিনিয়ত মরুভূমিতে পরিণত হচ্ছে। এখন অঞ্চলটিকে কীভাবে মরুভূমি থেকে রক্ষা করা যায়, কীভাবে পানি সংরক্ষণ করতে পারি সে ব্যবস্থা করতে হবে।",
@@ -581,17 +581,10 @@
       "image_url": "https://media.ndiganta.com/original_images/Ozil_CHXNEx6.jpg"
     },
     {
-      "headline": "আন্তঃবিশ্ববিদ্যালয় টেবিল টেনিস প্রতিযোগিতায় নারী এককে ঢাবি চ্যাম্পিয়ন",
-      "url": "https://dailynayadiganta.com/bangladesh/education-campus/ommDxg67RP33/",
-      "published_at": null,
-      "summary": "বাংলাদেশ টেবিল টেনিস ফেডারেশনের আয়োজনে অনুষ্ঠিত এ প্রতিযোগিতায় মোট ৩০টি বিশ্ববিদ্যালয় অংশগ্রহণ করে।",
-      "image_url": "https://media.ndiganta.com/original_images/DU_EVualMf.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - February 20, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "আজ আমরা দিক-নির্দেশনা দিলাম। বাস্তবায়নের জন্য তিন ধাপের টাইমলাইন ধরে এগোবো। প্রথম ধাপ হবে এখন থেকে ঈদুল ফিতর পর্যন্ত। এ ...",
+      "summary": "ইরানের ব্যালিস্টিক ক্ষেপণাস্ত্র ব্যবস্থায় হামলা চালানোর প্রস্তুতি নিচ্ছে ইসরাইল। শুধু যুক্তরাষ্ট্রের ‘সবুজ সংকেতের’ অপেক্ষায় রয়েছে দেশটি। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -600,6 +593,42 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "রমজান ও ঈদে অর্থ-মূল্যবান দ্রব্য পরিবহনে ডিএমপির এসকর্ট সেবা",
+      "url": "https://www.prothomalo.com/bangladesh/745qe67gj3",
+      "published_at": "2026-02-19T15:19:19.671000+00:00",
+      "summary": "পবিত্র রমজান মাস ও ঈদুল ফিতর উপলক্ষে লেনদেন ও বিভিন্ন দ্রব্যের স্থানান্তরে ডিএমপির সেবা নেওয়া যাবে।",
+      "image_s3_key": "prothomalo-bangla/2025-03-08/efe4uzqw/DMP-Logo.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-08/efe4uzqw/DMP-Logo.jpg?auto=format,compress"
+    },
+    {
+      "headline": "এতিম শিশুদের সঙ্গে ইফতার করলেন ডা. জুবাইদা ও জাইমা রহমান",
+      "url": "https://www.ittefaq.com.bd/775752/%E0%A6%8F%E0%A6%A4%E0%A6%BF%E0%A6%AE-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE-%E0%A6%93-%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%AE%E0%A6%BE",
+      "published_at": null,
+      "summary": "রাজধানীর ভাসানটেক এলাকায় নারী ও এতিম শিশুদের সঙ্গে ইফতার করেছেন প্রধানমন্ত্রী তারেক রহমান-এর স্ত্রী ডা. জুবাইদা রহমান ও কন্যা জাইমা রহমান।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/9db16cc4fcd39b061660bf769281cc02-69974a26dd69a.jpg"
+    },
+    {
+      "headline": "তিনবার সংসার ভাঙার পর দুধ দিয়ে গোসল, আজীবন বিয়ে না করার শপথ যুবকের",
+      "url": "https://www.ittefaq.com.bd/775751/%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%A7-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B8%E0%A6%B2-%E0%A6%86%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+      "published_at": null,
+      "summary": "তিন দফা বিয়ের পর প্রতিবারই দাম্পত্য জীবনে ভাঙনের অভিজ্ঞতায় ব্যতিক্রমী এক আয়োজনের মাধ্যমে আজীবন বিয়ে না করার শপথ নিয়েছেন নুরুজ্জামান ওরফে আনোয়ার (৩০) নামে এক যুবক। ঘটনাটি লালমনিরহাটের হাতীবান্ধা উপজেলার উত্তর জাওরানি গ্রামে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/19/691cd993528862a51f31468f427e2146-699747a036e01.jpg"
+    },
+    {
+      "headline": "ব্রিটিশ রাজার ছোট ভাই অ্যান্ড্রু মাউন্টব্যাটেন গ্রেফতার",
+      "url": "https://dailynayadiganta.com/printed-edition/fAep4sxZ6cpv/",
+      "published_at": null,
+      "summary": "সরকারি পদে অসদাচরণের সন্দেহে থব্রিটিশ রাজপরিবারের সদস্য ও বর্তমান রাজা তৃতীয় চার্লসের ছোট ভাই অ্যান্ড্রু মাউন্টব্যাটেন-উইন্ডসরকে গ্রেফতার করা হয়েছে। গতকাল বৃহস্পতিবার ভোরে সাবেক এই প্রিন্সকে গ্রেফতার করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/onno-2_LqtqySN.jpg"
+    },
+    {
+      "headline": "আন্তঃবিশ্ববিদ্যালয় টেবিল টেনিস প্রতিযোগিতায় নারী এককে ঢাবি চ্যাম্পিয়ন",
+      "url": "https://dailynayadiganta.com/bangladesh/education-campus/ommDxg67RP33/",
+      "published_at": null,
+      "summary": "বাংলাদেশ টেবিল টেনিস ফেডারেশনের আয়োজনে অনুষ্ঠিত এ প্রতিযোগিতায় মোট ৩০টি বিশ্ববিদ্যালয় অংশগ্রহণ করে।",
+      "image_url": "https://media.ndiganta.com/original_images/DU_EVualMf.jpg"
     },
     {
       "headline": "চমকপ্রদ সিদ্ধান্তে ‘নতুন শুরুর’ বার্তা: প্রটোকল কমালেন প্রধানমন্ত্রী",
@@ -1454,34 +1483,6 @@
       "published_at": null,
       "summary": "বৃহস্পতিবার বাংলাদেশ জামায়াতে ইসলামী ঢাকা-১৫ সংসদীয় এলাকার উদ্যোগে এতিমদের সম্মানে আয়োজিত ইফতার মাহফিলে প্রধান অতিথির বক্তব্যে তিনি এসব কথা বলেন।",
       "image_url": "https://media.ndiganta.com/original_images/Dr_ByjPRGU.-Shafiqur-Rahman.jpg"
-    },
-    {
-      "headline": "৪৪তম বিসিএসের নন-ক্যাডারে ৪১৩৬ জনকে নিয়োগ",
-      "url": "https://dailynayadiganta.com/bangladesh/national/ZFh5MABspyE5/",
-      "published_at": null,
-      "summary": "‘নন-ক্যাডার পদে নিয়োগ (বিশেষ) বিধিমালা, ২০২৩’-এর বিধি ৬ অনুযায়ী প্রার্থীদের মেধা ও পছন্দক্রম বিবেচনা করে এ মনোনয়ন দেয়া হয়েছে। ৯ম থেকে ১১তম গ্রেডের বিভিন্ন শূন্য পদে এ নিয়োগ কার্যকর হবে।",
-      "image_url": "https://media.ndiganta.com/original_images/PSC_yW73rkP.jpg"
-    },
-    {
-      "headline": "ভাসানটেকে নারী ও শিশুদের সাথে জাইমা রহমানের ইফতার",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/Ftd7S6z1E3Qr/",
-      "published_at": null,
-      "summary": "কড়াইল বস্তি ও ভাসানটেক এলাকার ১৪টি এতিমখানা ও হাফেজিয়া মাদরাসায় পুরো মাস জুড়ে ইফতার, রাতের খাবার ও সেহরি সরবরাহের উদ্যোগের অংশ হিসেবে জাইমা রহমান আজকের ইফতার মাহফিলে যোগ দেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Zaima-Rahman-ifter.jpg"
-    },
-    {
-      "headline": "শাবিপ্রবিতে তৃতীয়বারের মতো গণ-ইফতার",
-      "url": "https://dailynayadiganta.com/bangladesh/education-campus/g6R0FNPWHeYe/",
-      "published_at": null,
-      "summary": "শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ে তৃতীয়বারের মতো গণ-ইফতার কর্মসূচি অনুষ্ঠিত হয়েছে। এতে প্রায় দুই হাজার মানুষের জন্য ইফতারের আয়োজন করে সামাজিক সংগঠন স্টুডেন্ট এইড সাস্ট।",
-      "image_url": "https://media.ndiganta.com/original_images/SUST_DmMQtqJ.jpg"
-    },
-    {
-      "headline": "দ্রব্যমূল্যের দাম নিয়ন্ত্রণে রাখুন, অন্যথায় কঠোর নজরদারি রাখা হবে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/btaJYWwgAjqo/",
-      "published_at": null,
-      "summary": "‘আমি শিবচরবাসীর কাছে চিরকৃতজ্ঞ। আপনারা আমাকে এমপি নির্বাচিত করেছেন। আমি সকল ধর্ম-বর্ণ নির্বিশেষে সবাইকে নিয়ে শিবচরটাকে সাজাতে চাই। এখন থেকে আমরা যেনো স্বাধীনভাবে মতামত প্রকাশ করতে পারি, জনগণের জানমালের নিরাপত্তা দিতে পারি। সময় এসেছে স্বাধীনভাবে চলার, স্বাধীন মতামত প্রকাশ করার। ফ্যাসিস্টমুক্ত বাংলাদেশ গড়তে সাংবাদিকদের ভূমিকা অপরিসীম।’",
-      "image_url": "https://media.ndiganta.com/original_images/Shibchar-Madaripur-MP-Hanza.jpg"
     }
   ]
 }
