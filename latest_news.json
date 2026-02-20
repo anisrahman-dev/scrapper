@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-02-20T22:57:38.091423+00:00",
+  "fetched_at": "2026-02-20T23:28:06.140037+00:00",
   "stories": [
+    {
+      "headline": "মৌলভীবাজারে পিকআপ ভ্যান ও অটোরিকশার সংঘর্ষে চালকসহ নিহত ৩",
+      "url": "https://www.prothomalo.com/bangladesh/district/m7e40c6zfy",
+      "published_at": "2026-02-20T23:05:39.588000+00:00",
+      "summary": "মৌলভীবাজারে ঢাকা-সিলেট আঞ্চলিক মহাসড়কে পিকআপ ও সিএনজিচালিত অটোরিকশার মুখোমুখি সংঘর্ষে চালকসহ তিনজন নিহত হয়েছেন। শুক্রবার দিবাগত রাত সোয়া একটার দিকে এ দুর্ঘটনা ঘটে।",
+      "image_s3_key": "prothomalo-bangla/2023-11/bd4fc6c6-7409-4c71-92f8-1a7f024062a7/road_accident_01.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-11/bd4fc6c6-7409-4c71-92f8-1a7f024062a7/road_accident_01.png?auto=format,compress"
+    },
+    {
+      "headline": "শহীদ মিনারে রুমিন ফারহানার ফুল দেওয়া নিয়ে হট্টগোল, ঢাকা-সিলেট মহাসড়ক অবরোধ",
+      "url": "https://www.prothomalo.com/bangladesh/district/i91u58m7lp",
+      "published_at": "2026-02-20T22:57:03.938000+00:00",
+      "summary": "ব্রাহ্মণবাড়িয়ার সরাইলে শহীদ মিনারে সংসদ সদস্য রুমিন ফারহানার ফুল দেওয়ার সময় সৃষ্ট হট্টগোলের প্রতিবাদে ঢাকা-সিলেট মহাসড়ক অবরোধ করেন তাঁর সমর্থকরা।",
+      "image_s3_key": "prothomalo-bangla/2026-02-20/5ch0449h/bbariaprotest.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/5ch0449h/bbariaprotest.jpg?auto=format,compress"
+    },
     {
       "headline": "আয়েশা (রা.)-এর ঘর ও সংসার",
       "url": "https://www.prothomalo.com/religion/islam/qqsnbfwad5",
@@ -306,22 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-10/2163f67d-89da-450f-9668-c25b0a4b4ae0/buk2.jpg?auto=format,compress"
     },
     {
-      "headline": "যুক্তরাষ্ট্রের সঙ্গে অন্তর্বর্তী সরকারের বাণিজ্যচুক্তি সংসদে পর্যালোচনার দাবি ছাত্র ফেডারেশনের",
-      "url": "https://www.prothomalo.com/politics/ifpz1ljyoc",
-      "published_at": "2026-02-20T14:58:57.786000+00:00",
-      "summary": "যুক্তরাষ্ট্র-বাংলাদেশের মধ্যকার বাণিজ্যচুক্তি পর্যালোচনার জন্য জাতীয় সংসদে উত্থাপনের দাবি জানিয়েছে বাংলাদেশ ছাত্র ফেডারেশন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-20/x374uhop/federation.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/x374uhop/federation.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রঙিন আলপনায় সেজেছে কেন্দ্রীয় শহীদ মিনার",
-      "url": "https://www.prothomalo.com/video/bangladesh/na8mqp5d8h",
-      "published_at": "2026-02-20T14:55:29.088000+00:00",
-      "summary": "রঙিন আলপনায় সেজেছে কেন্দ্রীয় শহীদ মিনার",
-      "image_s3_key": "prothomalo-bangla/2026-02-20/qzn4h97j/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/qzn4h97j/WEB.jpg?auto=format,compress"
-    },
-    {
       "headline": "মহান একুশে বিশেষ সংখ্যা",
       "url": "https://www.bd-pratidin.com/mohan-ekushey-special",
       "published_at": null,
@@ -556,7 +556,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 21, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "মহান শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস উপলক্ষে একুশের প্রথম প্রহর থেকেই কেন্দ্রীয় শহীদ মিনার প্রাঙ্গণে নেমেছে সর্বস্তরের মানুষের ঢল। ...",
+      "summary": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস উপলক্ষে শহীদ মিনারে ফুল দিয়ে শ্রদ্ধা নিবেদন করেছেন পটুয়াখালী-২ (বাউফল) আসনের সংসদ সদস্য ও ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -565,6 +565,22 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রের সঙ্গে অন্তর্বর্তী সরকারের বাণিজ্যচুক্তি সংসদে পর্যালোচনার দাবি ছাত্র ফেডারেশনের",
+      "url": "https://www.prothomalo.com/politics/ifpz1ljyoc",
+      "published_at": "2026-02-20T14:58:57.786000+00:00",
+      "summary": "যুক্তরাষ্ট্র-বাংলাদেশের মধ্যকার বাণিজ্যচুক্তি পর্যালোচনার জন্য জাতীয় সংসদে উত্থাপনের দাবি জানিয়েছে বাংলাদেশ ছাত্র ফেডারেশন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-20/x374uhop/federation.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/x374uhop/federation.jpg?auto=format,compress"
+    },
+    {
+      "headline": "রঙিন আলপনায় সেজেছে কেন্দ্রীয় শহীদ মিনার",
+      "url": "https://www.prothomalo.com/video/bangladesh/na8mqp5d8h",
+      "published_at": "2026-02-20T14:55:29.088000+00:00",
+      "summary": "রঙিন আলপনায় সেজেছে কেন্দ্রীয় শহীদ মিনার",
+      "image_s3_key": "prothomalo-bangla/2026-02-20/qzn4h97j/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/qzn4h97j/WEB.jpg?auto=format,compress"
     },
     {
       "headline": "ছোট-বড় সবার হাতের ছোঁয়ায় একুশের আলপনা",
@@ -1471,20 +1487,6 @@
       "summary": "সড়কে চাঁদাবাজিকে সমঝোতার ভিত্তিতে লেনদেন উল্লেখ করা একটি গুরুতর অপরাধ।",
       "image_s3_key": "prothomalo-bangla/2023-09/a2c1bce2-eee0-4445-a060-17c203c6c769/Untitled_5.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-09/a2c1bce2-eee0-4445-a060-17c203c6c769/Untitled_5.jpg?auto=format,compress"
-    },
-    {
-      "headline": "৮ উপদেষ্টাকে দপ্তর বণ্টন, কে কোন দায়িত্বে?",
-      "url": "https://www.bd-pratidin.com/national/2026/02/20/1219163",
-      "published_at": "2026-02-20T18:07:59+06:00",
-      "summary": "প্রধানমন্ত্রী তারেক রহমানের নতুন সরকারে মন্ত্রী ও প্রতিমন্ত্রী পদমর্যাদায় নিয়োগ পাওয়া উপদেষ্টাদের মধ্যে ৮ জনকে দপ্তর বণ্টন করা হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/20/og/1771589278-000b609697714860d4d309a27880adde.jpg"
-    },
-    {
-      "headline": "ঢাকা ১৩ আসনে সেবার কোনো কমতি থাকবে না: ববি হাজ্জাজ",
-      "url": "https://www.bd-pratidin.com/minister-speech/2026/02/20/1219156",
-      "published_at": "2026-02-20T17:44:22+06:00",
-      "summary": "ব্যক্তিগত ফোনকলের ওপর নির্ভর না করে একটি সুসংগঠিত ব্যবস্থার মাধ্যমে এলাকার সমস্যা সমাধান করতে চান শিক্ষা এবং প্রাথমিক ও গণশিক্ষা প্রতিমন্ত্রী ববি হাজ্জাজ। মোহাম্মদপুরের নিউ কলোনি জামে মসজিদে জুম্মার নামাজের আগে মুসল্লিদের সামনে দাঁড়িয়ে তিনি এ কথা বলেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/20/og/1771587861-7b358ce433adae0cbeebda48004b9e48.jpg"
     }
   ]
 }
