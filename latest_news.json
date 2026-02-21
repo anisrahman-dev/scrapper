@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-02-21T18:30:51.222889+00:00",
+  "fetched_at": "2026-02-21T19:03:40.784392+00:00",
   "stories": [
+    {
+      "headline": "যুক্তরাষ্ট্রে আমদানি পণ্যের ওপর শুল্ক বাড়িয়ে ১৫ শতাংশ করার ঘোষণা ট্রাম্পের",
+      "url": "https://www.prothomalo.com/world/usa/ve6tdxsuj3",
+      "published_at": "2026-02-21T18:48:59.708000+00:00",
+      "summary": "যুক্তরাষ্ট্রের সুপ্রিম কোর্টের শুক্রবারের রায়ের পরও ট্রাম্পের মধ্যে বৈশ্বিক বাণিজ্যযুদ্ধ থেকে পিছু হটার কোনো লক্ষণ দেখা যাচ্ছে না। উল্টো তিনি ব্যক্তিগতভাবে বিচারপতিদের আক্রমণ করেছেন। ট্রাম্পের দাবি, নিজের ইচ্ছামতো শুল্ক আরোপের ক্ষমতা এখনো তাঁর রয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-21/qetigyxv/1.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/qetigyxv/1.webp?auto=format,compress"
+    },
+    {
+      "headline": "গার্দিওলা চলে গেলে সিটি কি পথ হারাবে, উত্তর দিলেন আগুয়েরো",
+      "url": "https://www.prothomalo.com/sports/football/1n1z8ukhmv",
+      "published_at": "2026-02-21T18:30:00+00:00",
+      "summary": "আগুয়েরোর বিশ্বাস, সিটি এখন আর শুধু একজন কোচের ওপর নির্ভরশীল কোনো দল নয়। তিনি মনে করেন, আর যা-ই হোক, সিটি অন্তত ইউনাইটেড হবে না।",
+      "image_s3_key": "prothomalo-bangla/2023-06/23e7bd94-8a26-4aec-a9f8-cb9d44b26842/7xm_xyz994268.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-06/23e7bd94-8a26-4aec-a9f8-cb9d44b26842/7xm_xyz994268.jpg?auto=format,compress"
+    },
     {
       "headline": "বিমানবন্দরে তল্লাশিতে ধরা পড়ল লাগেজে এয়ারগান, আটক যাত্রী",
       "url": "https://www.prothomalo.com/bangladesh/crime/l3zyds2h7q",
@@ -306,22 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/ge2pvlgs/WhatsApp-Image-2026-02-21-at-16.21.21.jpeg-1.jpeg?auto=format,compress"
     },
     {
-      "headline": "বগুড়ায় চাঁদাবাজি ও অর্থ আত্মসাৎ\nমামলায় এনসিপি নেতা কারাগারে",
-      "url": "https://www.prothomalo.com/bangladesh/district/tgaovfmyfj",
-      "published_at": "2026-02-21T14:12:26.029000+00:00",
-      "summary": "পুলিশ জানায়, মিজানুর রহমান গ্রেপ্তারি পরোয়ানাভুক্ত পলাতক আসামি ছিলেন। তাঁকে গ্রেপ্তার করে আদালতে পাঠানো হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2025-12-16/t884vbpk/arrest_logo.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-16/t884vbpk/arrest_logo.jpg?auto=format,compress"
-    },
-    {
-      "headline": "পাঁচ মণ নকল ঘিসহ কারখানার মালিক আটক",
-      "url": "https://www.prothomalo.com/bangladesh/district/ss8j0xw44q",
-      "published_at": "2026-02-21T14:12:03.260000+00:00",
-      "summary": "প্রাথমিক জিজ্ঞাসাবাদে আটক মাইদুল স্বীকার করেছেন, দীর্ঘদিন ধরে তিনি ভেজাল ঘি তৈরি করে বিভিন্ন এলাকায় সরবরাহ করছিলেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-21/z8chjq54/RangpurDH049420260221IMG-20260221-WA0138.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/z8chjq54/RangpurDH049420260221IMG-20260221-WA0138.jpg?auto=format,compress"
-    },
-    {
       "headline": "আইসিসির মাসসেরার তালিকায় বাংলাদেশি ব্যাটার",
       "url": "https://www.bd-pratidin.com/sports/2026/02/21/1219644",
       "published_at": "2026-02-21T22:35:07+06:00",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771684568-b1d9910ad72369c9b88396375f7f9107.jpg"
     },
     {
+      "headline": "রোজায় কোন মসজিদে কখন বিরিয়ানি দিবে- জানাচ্ছে ‘বিরিয়ানি দিবে’ অ্যাপ",
+      "url": "https://www.ittefaq.com.bd/776021/%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A7%8B%E0%A6%A8-%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6%E0%A7%87-%E0%A6%95%E0%A6%96%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87",
+      "published_at": null,
+      "summary": "কাগজে-কলমে আমরা মাছে-ভাতে বাঙালি হলেও বিরিয়ানির প্রতি আমাদের ভালোবাসা মোটেও কম নয়—বরং অনেকটাই আড়ালে থেকে গেছে। বাড়িতে রান্না করা হোক কিংবা বিভিন্ন রেস্তোরাঁ ও বিরিয়ানি হাউস থেকে কেনা—সব কিছুর চেয়ে আলাদা স্বাদ পাওয়া যায় রমজান মাসে মসজিদে নামাজ শেষে বিতরণ করা বিরিয়ানিতে। প্রতি বছর এ সময়টায় সামাজিক যোগাযোগমাধ্যম সরগরম থাকে মসজিদের বিরিয়ানি নিয়ে নানা আলোচনা, মিমস ও রিলসে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/fb3548cdafc131306f011a2f2223a9e4-6999fcbce2930.jpg"
+    },
+    {
       "headline": "সংকীর্ণ বাঙালি জাতীয়তাবাদ বাংলা ভাষার সম্ভাবনাকে দীর্ঘদিন সীমিত করেছে: নাহিদ ইসলাম",
       "url": "https://www.ittefaq.com.bd/776020/%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%87",
       "published_at": null,
@@ -413,7 +420,7 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/d11faec4c1ab9f7da67b9d00bf6bf966-6999e8c6ec43d.jpg"
     },
     {
-      "headline": "কেউ দুষ্কর্ম করে যেন সরকারের ওপর দোষ চাপাতে না পারে: সমাজকল্যাণ মন্ত্রী",
+      "headline": "কেউ দুষ্কর্ম করে যেন সরকারের ওপর দোষ চাপাতে না পারে: সমাজকল্যাণমন্ত্রী",
       "url": "https://www.ittefaq.com.bd/776017/%E0%A6%95%E0%A7%87%E0%A6%89-%E0%A6%A6%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%8B%E0%A6%B7-%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE",
       "published_at": null,
       "summary": "সমাজকল্যাণ এবং মহিলা ও শিশু বিষয়ক মন্ত্রণালয়ের দায়িত্বপ্রাপ্ত মন্ত্রী ও দিনাজপুর-৬ আসনের সংসদ সদস্য (এমপি) ডা. এ জেড এম জাহিদ হোসেন বলেছেন, কেউ যাতে কোনো ধরনের দুষ্কর্ম করে সরকার বা আপনার নেতার ওপর দোষ চাপিয়ে না দিতে পারে। দুষ্কৃতিকারীদের ষড়যন্ত্র থেকে বাঁচার জন্য আপনাদেরকে সজাগ থাকতে হবে।",
@@ -455,13 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/50e8f8dc3b748dc84e9b022fb85c43f4-69919f165f047.jpg"
     },
     {
-      "headline": "‘ইনকিলাব জিন্দাবাদ’ স্লোগান নিয়ে এবার মুখ খুললেন নাসীরুদ্দীন পাটওয়ারী",
-      "url": "https://www.ittefaq.com.bd/776011/%E2%80%98%E0%A6%87%E0%A6%A8%E0%A6%95%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%AC-%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E2%80%99-%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8",
-      "published_at": null,
-      "summary": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদমন্ত্রী ইকবাল হাসান মাহমুদ টুকুর ‘ইনকিলাব জিন্দাবাদ’ স্লোগান নিয়ে বক্তব্যের প্রতিবাদ জানিয়েছেন কুমিল্লা-৪ এর সংসদ সদস্য হাসনাত আবদুল্লাহ ও জাতীয় নাগরিক পার্টির (এনসিপি) মুখপাত্র আসিফ মাহমুদ সজিব আসিফ মাহমুদ সজীব ভূঁইয়া।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/ed4cec85e6a5ad7096f4ec107e4bf5bb-6999d2197876b.jpg"
-    },
-    {
       "headline": "রমজানে নিত্যপণ্যের বাজারে ধাক্কা",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/TIcspLlX1OGo/",
       "published_at": null,
@@ -481,6 +481,20 @@
       "published_at": null,
       "summary": "প্রধানমন্ত্রী তারেক রহমানের সভাপতিত্বে প্রথম বৈঠক : নীতি, নির্দেশনা ও প্রতিশ্রুতির বার্তা",
       "image_url": "https://media.ndiganta.com/images/first-1_1LUwb5F.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "লালপুরে বিকাশ ব্যবসায়ীর টাকার ব্যাগ ও মোবাইল ছিনতাই",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/wj9wX7zCzbkz/",
+      "published_at": null,
+      "summary": "শনিবার (২১ ফেব্রুয়ারি) রাত ১০টার দিকে নাটোরের ঈশ্বরদী-বাঘা সড়কের রহিমপুর এলাকায় এ ঘটনা ঘটে।",
+      "image_url": "https://media.ndiganta.com/original_images/Natore-Map_vPdKs0S.jpg"
+    },
+    {
+      "headline": "‘নতুন করে স্বৈরাচার হলে জনগণ তাদের পালাতে বাধ্য করবে’",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/MLPScoqlHK1q/",
+      "published_at": null,
+      "summary": "‘ভবিষ্যতে কেউ বাংলাদেশের জনগণের দাবির, আশা-আকাঙ্ক্ষার বিপরীতে অবস্থান নিলে তাদের অবস্থাও কিন্তু অতীতের মতো হতে পারে।’",
+      "image_url": "https://media.ndiganta.com/original_images/Morelganj-1.jpg"
     },
     {
       "headline": "ত্রয়োদশ সংসদের প্রথম অধিবেশন কবে, জানালেন স্বরাষ্ট্রমন্ত্রী",
@@ -518,6 +532,50 @@
       "image_url": "https://media.ndiganta.com/original_images/Gafargaon-MP.jpg"
     },
     {
+      "headline": "নলডাঙ্গার ‘গরিবের ডাক্তার’ মজিবুর রহমান আর নেই",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/VHymfAV8IK3h/",
+      "published_at": null,
+      "summary": "দরিদ্র ও অসহায় মানুষের জন্য স্বল্প খরচে কিংবা বিনামূল্যে চিকিৎসাসেবা দেয়ার কারণে স্থানীয়দের কাছে তিনি ‘গরিবের ডাক্তার’ হিসেবে পরিচিত ছিলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Naldanga-doctor.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - February 20, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "যুক্তরাষ্ট্রের সঙ্গে পরমাণু আলোচনা চলাকালে বিশ্বশক্তির চাপের কাছে ইরান মাথা নত করবে না বলে হুঙ্কার দিয়েছেন দেশটির প্রেসিডেন্ট মাসুদ পেজেশকিয়ান। ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "বগুড়ায় চাঁদাবাজি ও অর্থ আত্মসাৎ\nমামলায় এনসিপি নেতা কারাগারে",
+      "url": "https://www.prothomalo.com/bangladesh/district/tgaovfmyfj",
+      "published_at": "2026-02-21T14:12:26.029000+00:00",
+      "summary": "পুলিশ জানায়, মিজানুর রহমান গ্রেপ্তারি পরোয়ানাভুক্ত পলাতক আসামি ছিলেন। তাঁকে গ্রেপ্তার করে আদালতে পাঠানো হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2025-12-16/t884vbpk/arrest_logo.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-16/t884vbpk/arrest_logo.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পাঁচ মণ নকল ঘিসহ কারখানার মালিক আটক",
+      "url": "https://www.prothomalo.com/bangladesh/district/ss8j0xw44q",
+      "published_at": "2026-02-21T14:12:03.260000+00:00",
+      "summary": "প্রাথমিক জিজ্ঞাসাবাদে আটক মাইদুল স্বীকার করেছেন, দীর্ঘদিন ধরে তিনি ভেজাল ঘি তৈরি করে বিভিন্ন এলাকায় সরবরাহ করছিলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-21/z8chjq54/RangpurDH049420260221IMG-20260221-WA0138.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/z8chjq54/RangpurDH049420260221IMG-20260221-WA0138.jpg?auto=format,compress"
+    },
+    {
+      "headline": "‘ইনকিলাব জিন্দাবাদ’ স্লোগান নিয়ে এবার মুখ খুললেন নাসীরুদ্দীন পাটওয়ারী",
+      "url": "https://www.ittefaq.com.bd/776011/%E2%80%98%E0%A6%87%E0%A6%A8%E0%A6%95%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%AC-%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E2%80%99-%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8",
+      "published_at": null,
+      "summary": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদমন্ত্রী ইকবাল হাসান মাহমুদ টুকুর ‘ইনকিলাব জিন্দাবাদ’ স্লোগান নিয়ে বক্তব্যের প্রতিবাদ জানিয়েছেন কুমিল্লা-৪ এর সংসদ সদস্য হাসনাত আবদুল্লাহ ও জাতীয় নাগরিক পার্টির (এনসিপি) মুখপাত্র আসিফ মাহমুদ সজিব আসিফ মাহমুদ সজীব ভূঁইয়া।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/ed4cec85e6a5ad7096f4ec107e4bf5bb-6999d2197876b.jpg"
+    },
+    {
       "headline": "রোমে মহান শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস পালিত",
       "url": "https://dailynayadiganta.com/bangladesh/emigration/gOHp1ns9llTP/",
       "published_at": null,
@@ -530,20 +588,6 @@
       "published_at": null,
       "summary": "আজ সকালে হাইকমিশন প্রাঙ্গণে ভাষা শহীদদের স্মৃতির প্রতি গভীর শ্রদ্ধা জানিয়ে দিবসের কর্মসূচি শুরু হয়। সকাল ৯টায় হাইকমিশন চত্বরে অবস্থিত শহীদ মিনারে পুষ্পস্তবক অর্পণের মাধ্যমে অনুষ্ঠানের সূচনা করেন হাইকমিশনার শাহ্ আহমেদ শফী।",
       "image_url": "https://media.ndiganta.com/original_images/Protia.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - February 22, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "নারায়ণগঞ্জের ফতুল্লায় চাঁদাবাজির অভিযোগে দুই গ্রুপের মধ্যে সংঘর্ষের ঘটনা ঘটেছে। এতে উভয় গ্রুপের অন্তত চারজন আহত হয়েছেন। ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
     },
     {
       "headline": "সুন্দরবনের মান্দারবাড়িয়া অভয়ারণ্যে অবৈধভাবে মাছ ধরার অভিযোগে ২২ জেলে আটক",
@@ -1439,52 +1483,6 @@
       "summary": "এশার নামাজের পর থেকে ফজরের ওয়াক্তের আগপর্যন্ত তথা সাহ্‌রির শেষ সময় পর্যন্ত তারাবিহর নামাজ পড়া যায়। একসঙ্গে ২০ রাকাত পড়তে না পারলে আলাদাভাবেও পড়া যাবে।",
       "image_s3_key": "prothomalo-bangla/2026-02-21/cpwqoj98/siyam-sadhonar-maas.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/cpwqoj98/siyam-sadhonar-maas.jpg?auto=format,compress"
-    },
-    {
-      "headline": "পেঁয়াজের বাজারে ধস, পাবনায় লোকসানে কৃষক",
-      "url": "https://www.prothomalo.com/bangladesh/district/0x4tf4sycu",
-      "published_at": "2026-02-21T11:05:49.344000+00:00",
-      "summary": "গড়ে প্রতি মণে পেঁয়াজের উৎপাদন খরচ হয়েছে ১ হাজার ৬০০ টাকা। হঠাৎ দাম অর্ধেকে নেমে যাওয়ায় এখন প্রতি মণে ৫০০ থেকে ৬০০ টাকা লোকসান গুনতে হচ্ছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-21/sz0gor6u/pabnadh060720260221bera-onion-karomja-hat-9.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/sz0gor6u/pabnadh060720260221bera-onion-karomja-hat-9.jpg?auto=format,compress"
-    },
-    {
-      "headline": "স্বাধীন গণমাধ্যম ছাড়া গণতন্ত্র টিকে থাকতে পারে না: তথ্যমন্ত্রী",
-      "url": "https://www.prothomalo.com/bangladesh/district/v86q3vb9ag",
-      "published_at": "2026-02-21T11:01:54.906000+00:00",
-      "summary": "শনিবার দুপুরে মহান শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস উপলক্ষে বরিশাল শিল্পকলা একাডেমি মিলনায়তনে আলোচনা সভায় এ কথা বলেন তথ্যমন্ত্রী।",
-      "image_s3_key": "prothomalo-bangla/2026-02-21/wy1d8v8n/barishaldh059020260221barishal-0000000000007.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/wy1d8v8n/barishaldh059020260221barishal-0000000000007.jpg?auto=format,compress"
-    },
-    {
-      "headline": "উইন্ডসর ক্যাসেলের আজান ও লন্ডনের রাজকীয় ইফতার",
-      "url": "https://www.prothomalo.com/religion/islam/0nk9tq6ghi",
-      "published_at": "2026-02-21T11:00:00+00:00",
-      "summary": "লন্ডনের আরেকটি জনপ্রিয় ইফতার আয়োজন হলো ‘ইফতার স্ট্রিট’। লন্ডনের ফিনসবারি পার্ক মসজিদের সামনের রাস্তাটি ইফতারের সময় এক বিশাল দস্তরখানে পরিণত হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-02-19/kfg0us0i/45فغق-1741166528.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/kfg0us0i/45فغق-1741166528.webp?auto=format,compress"
-    },
-    {
-      "headline": " ‘এমন ধ্বংসযজ্ঞের সাক্ষী হতে হবে, কখনো ভাবনায়ও আসেনি’",
-      "url": "https://www.prothomalo.com/bangladesh/j74iggfn5z",
-      "published_at": "2026-02-21T10:52:31.697000+00:00",
-      "summary": "দর্শনার্থীরা গণমাধ্যমে হামলা ও অগ্নিসংযোগের নিন্দায় সরব হয়েছেন। হামলাকারীদের বিরুদ্ধে যথাযথ ব্যবস্থা নেওয়ারও আহ্বান জানিয়েছেন তাঁরা।",
-      "image_s3_key": "prothomalo-bangla/2026-02-21/1lyal3om/01.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/1lyal3om/01.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "পঞ্চগড়ে আট দিনব্যাপী ভাষা সৈনিক সুলতান ও আব্দুল কাদির বইমেলা",
-      "url": "https://www.bd-pratidin.com/country/2026/02/21/1219574",
-      "published_at": "2026-02-21T19:07:35+06:00",
-      "summary": "মহান শহীদ দিবস ও আর্ন্তজাতিক মাতৃভাষা দিবস উপলক্ষে পঞ্চগড়ে আট দিনব্যাপী ভাষা সৈনিক সুলতান ও আব্দুল কাদির বইমেলা শুরু হয়েছে।  শনিবার বিকেলে পঞ্চগড় সরকারি অডিটোরিয়াম চত্বরে বেলুন উড়িয়ে বই মেলার উদ্বোধন করেন জেলা প্রশাসক কাজী মো সায়েমুজ্জামান।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771679254-4dcd528c32c39bdeb300fea5166d7845.jpg"
-    },
-    {
-      "headline": "যাত্রাবাড়ীতে ব্যাগ তল্লাশির সময় ছুরিকাঘাতে পুলিশ সদস্য আহত",
-      "url": "https://www.bd-pratidin.com/city-news/2026/02/21/1219571",
-      "published_at": "2026-02-21T19:02:23+06:00",
-      "summary": "রাজধানীর যাত্রাবাড়ীর কুতুবখালী এলাকায় তল্লাশিচৌকিতে ব্যাগ তল্লাশির সময় দায়িত্বরত এক পুলিশ সদস্যের চোখের ওপর ছুরিকাঘাতের ঘটনা ঘটেছে। আহত পুলিশ সদস্যের নাম মো. শাহ্ আলম (৩৩)। তিনি ঢাকা মেডিকেল কলেজ হাসপাতালে ভর্তি রয়েছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771678941-f6f1b726805de296887eeaa630b2f6af.jpg"
     }
   ]
 }
