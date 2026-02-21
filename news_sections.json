@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-02-21T22:21:11.313114+00:00",
+  "fetched_at": "2026-02-21T22:53:38.310097+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "এই রমজান কীভাবে জীবনের শ্রেষ্ঠ রমজান হয়ে উঠবে",
+        "url": "https://www.prothomalo.com/religion/islam/s661g8hpl6",
+        "published_at": "2026-02-21T22:30:00+00:00",
+        "summary": "রমজান কেবল ক্ষুধার্ত থাকার নাম নয়, বরং এটি স্রষ্টার সঙ্গে এক গভীর মিতালি এবং নিজের আত্মাকে নতুন করে চেনার এক অনন্য সুযোগ।",
+        "image_s3_key": "prothomalo-bangla/2026-02-19/i8iggt4c/pexels-abdghat-2608353.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/i8iggt4c/pexels-abdghat-2608353.jpg?auto=format,compress"
+      },
       {
         "headline": "রাশিয়ার ব্যালিস্টিক ক্ষেপণাস্ত্র প্রস্তুতকারক প্রতিষ্ঠানে হামলার দাবি ইউক্রেনের",
         "url": "https://www.prothomalo.com/world/europe/38e0of73vi",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/ql8oh2f0/ducsumitra.jpg?auto=format,compress"
       },
       {
-        "headline": "‘তোর ব্যবসা–বাণিজ্য ভালো চলছে, ৫০ লাখ টাকা চাঁদা দিতে হবে’",
-        "url": "https://www.prothomalo.com/bangladesh/district/7xcr9trejt",
-        "published_at": "2026-02-21T14:41:33.096000+00:00",
-        "summary": "এ ঘটনায় মামলার প্রধান আসামি আহমেদ কবিরকে আজ শনিবার বিকেলে গ্রেপ্তার করেছে পুলিশ। আহমেদ কবির নিজেকে সাংবাদিক পরিচয় দেন বলে জানায় পুলিশ।",
-        "image_s3_key": "prothomalo-bangla/2023-03/2610354a-be4b-4ea4-a20a-e7d7be168c8e/chandabaji.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-03/2610354a-be4b-4ea4-a20a-e7d7be168c8e/chandabaji.webp?auto=format,compress"
-      },
-      {
         "headline": "যুক্তরাষ্ট্রে পাহাড় দেখতে গিয়ে ছয় বান্ধবীসহ ৯ জনের করুণ মৃত্যু",
         "url": "https://www.bd-pratidin.com/international-news/2026/02/22/1219783",
         "published_at": "2026-02-22T03:01:10+06:00",
@@ -393,6 +393,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771684897-61fe7b8cd2d1566d44a7593ac95f4ddc.PNG"
       },
       {
+        "headline": "গণভোটের রায় না মানলে জনগণ সরকারকে মানবে না: মুজিবুর রহমান",
+        "url": "https://www.ittefaq.com.bd/776034/%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B2%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%97%E0%A6%A3-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+        "published_at": null,
+        "summary": "সংবিধান সংস্কার পরিষদের শপথ না নিয়ে জনগণের রায়ের বিরুদ্ধে গিয়ে গণবিরোধী সরকার গঠিত হয়েছে বলে অভিযোগ করেছেন জামায়াতের নায়েবে আমির মুজিবুর রহমান। তিনি বলেছেন, গণভোটের রায় বাস্তবায়ন না করলে জনগণ সরকারকে মানবে না। ফলে আবারও মানুষ বিদ্রোহের পথ বেছে নেবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/65f2aa9b29f1b915ca82adeac78ed3c5-699a2e1c7d514.jpg"
+      },
+      {
         "headline": "প্রধানমন্ত্রী হওয়ার পর উনি পরিষ্কার প্রেসিডেন্ট জিয়াউর রহমানের পথেই হাঁটছেন: ফারুকী",
         "url": "https://www.ittefaq.com.bd/776033/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%89%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F",
         "published_at": null,
@@ -454,13 +461,6 @@
         "published_at": null,
         "summary": "কাগজে-কলমে আমরা মাছে-ভাতে বাঙালি হলেও বিরিয়ানির প্রতি আমাদের ভালোবাসা মোটেও কম নয়—বরং অনেকটাই আড়ালে থেকে গেছে। বাড়িতে রান্না করা হোক কিংবা বিভিন্ন রেস্তোরাঁ ও বিরিয়ানি হাউস থেকে কেনা—সব কিছুর চেয়ে আলাদা স্বাদ পাওয়া যায় রমজান মাসে মসজিদে নামাজ শেষে বিতরণ করা বিরিয়ানিতে। প্রতি বছর এ সময়টায় সামাজিক যোগাযোগমাধ্যম সরগরম থাকে মসজিদের বিরিয়ানি নিয়ে নানা আলোচনা, মিমস ও রিলসে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/fb3548cdafc131306f011a2f2223a9e4-6999fcbce2930.jpg"
-      },
-      {
-        "headline": "সংকীর্ণ বাঙালি জাতীয়তাবাদ বাংলা ভাষার সম্ভাবনাকে দীর্ঘদিন সীমিত করেছে: নাহিদ ইসলাম",
-        "url": "https://www.ittefaq.com.bd/776020/%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%87",
-        "published_at": null,
-        "summary": "এককেন্দ্রিক ও সংকীর্ণ বাঙালি জাতীয়তাবাদ বাংলা ভাষার সম্ভাবনাকে দীর্ঘদিন সীমিত করেছে বলে মন্তব্য করেছেন বিরোধীদলীয় চিফ হুইপ ও জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক নাহিদ ইসলাম। তিনি বলেন, ‘বাংলা ভাষা আমাদের আত্মপরিচয় এবং জাতীয় সংগ্রামের প্রতীক। তবে এককেন্দ্রিক, সংকীর্ণ বাঙালি জাতীয়তাবাদ বাংলার সম্ভাবনাকে দীর্ঘদিন ধরে সীমিত করেছে।’",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/0184e941da1cc169cada36a0bec017a9-6999f6c2ecba6.jpg"
       },
       {
         "headline": "রমজানে নিত্যপণ্যের বাজারে ধাক্কা",
@@ -585,15 +585,30 @@
         "headline": "আজকের সর্বশেষ খবর - February 22, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "কুমিল্লা-৪ (দেবীদ্বার) আসনের নবনির্বাচিত সংসদ সদস্য ও এনসিপির মুখ্য সংগঠক হাসনাত আবদুল্লাহ ও দলটির মুখ্য সমন্বয়ক নাসীরুদ্দীন পাটওয়ারীর পর এবার ...",
+        "summary": "গৃহায়ন ও গণপূর্তমন্ত্রী জাকারিয়া তাহের সুমন বলেছেন, ‘আইনের বাইরে গিয়ে কেউ স্থাপনা নির্মাণ করতে পারবে না। আইন মেনেই সব প্রকল্প ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
         "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
         "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
         "published_at": null,
-        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+        "summary": null,
         "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+      },
+      {
+        "headline": "‘তোর ব্যবসা–বাণিজ্য ভালো চলছে, ৫০ লাখ টাকা চাঁদা দিতে হবে’",
+        "url": "https://www.prothomalo.com/bangladesh/district/7xcr9trejt",
+        "published_at": "2026-02-21T14:41:33.096000+00:00",
+        "summary": "এ ঘটনায় মামলার প্রধান আসামি আহমেদ কবিরকে আজ শনিবার বিকেলে গ্রেপ্তার করেছে পুলিশ। আহমেদ কবির নিজেকে সাংবাদিক পরিচয় দেন বলে জানায় পুলিশ।",
+        "image_s3_key": "prothomalo-bangla/2023-03/2610354a-be4b-4ea4-a20a-e7d7be168c8e/chandabaji.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-03/2610354a-be4b-4ea4-a20a-e7d7be168c8e/chandabaji.webp?auto=format,compress"
+      },
+      {
+        "headline": "সংকীর্ণ বাঙালি জাতীয়তাবাদ বাংলা ভাষার সম্ভাবনাকে দীর্ঘদিন সীমিত করেছে: নাহিদ ইসলাম",
+        "url": "https://www.ittefaq.com.bd/776020/%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A6%99%E0%A6%BE%E0%A6%B2%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%87",
+        "published_at": null,
+        "summary": "এককেন্দ্রিক ও সংকীর্ণ বাঙালি জাতীয়তাবাদ বাংলা ভাষার সম্ভাবনাকে দীর্ঘদিন সীমিত করেছে বলে মন্তব্য করেছেন বিরোধীদলীয় চিফ হুইপ ও জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক নাহিদ ইসলাম। তিনি বলেন, ‘বাংলা ভাষা আমাদের আত্মপরিচয় এবং জাতীয় সংগ্রামের প্রতীক। তবে এককেন্দ্রিক, সংকীর্ণ বাঙালি জাতীয়তাবাদ বাংলার সম্ভাবনাকে দীর্ঘদিন ধরে সীমিত করেছে।’",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/0184e941da1cc169cada36a0bec017a9-6999f6c2ecba6.jpg"
       },
       {
         "headline": "মোংলা বন্দরের সক্ষমতা ব্যবহারের প্রয়োজনীয় পদক্ষেপ নেওয়া হবে: নৌপরিবহনমন্ত্রী",
@@ -1462,21 +1477,6 @@
         "summary": "তারেক রহমানের প্রাথমিক পদক্ষেপগুলো একটি মৌলিক সত্যকে স্বীকার করে। দুর্নীতি শুধু অর্থ আত্মসাৎ নয়, ক্ষমতার অপব্যবহারও দুর্নীতি।",
         "image_s3_key": "prothomalo-bangla/2026-02-18/5x0jz1ng/WhatsApp_Image_2026_02_18_at_6_26_52_PM.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-18/5x0jz1ng/WhatsApp_Image_2026_02_18_at_6_26_52_PM.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "একুশের প্রথম প্রহরে শহীদ মিনারে রাষ্ট্রপতি ও প্রধানমন্ত্রীর শ্রদ্ধা",
-        "url": "https://www.prothomalo.com/video/bangladesh/wdbcwdng06",
-        "published_at": "2026-02-21T12:00:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-02-21/7ducbbzw/BARTA-SHONKHEP.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/7ducbbzw/BARTA-SHONKHEP.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ঢাকায় বিশ্ববিদ্যালয় শিক্ষার্থীর ঝুলন্ত মরদেহ উদ্ধার",
-        "url": "https://www.bd-pratidin.com/city-news/2026/02/21/1219587",
-        "published_at": "2026-02-21T19:48:03+06:00",
-        "summary": "রাজধানীর হাজারীবাগ এলাকায় একটি বাসায় গলায় ফাঁস দিয়ে আনিশা ফেরদৌসী (২২) নামে বিশ্ববিদ্যালয়ের এক ছাত্রী আত্মহত্যা করেছেন বলে জানা গেছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771681681-75d55f8d65834088afc532f92738b7f9.jpg"
       }
     ],
     "bangladesh": [
@@ -3023,6 +3023,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771684897-61fe7b8cd2d1566d44a7593ac95f4ddc.PNG"
       },
       {
+        "headline": "গণভোটের রায় না মানলে জনগণ সরকারকে মানবে না: মুজিবুর রহমান",
+        "url": "https://www.ittefaq.com.bd/776034/%E0%A6%97%E0%A6%A3%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B2%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%97%E0%A6%A3-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE",
+        "published_at": null,
+        "summary": "সংবিধান সংস্কার পরিষদের শপথ না নিয়ে জনগণের রায়ের বিরুদ্ধে গিয়ে গণবিরোধী সরকার গঠিত হয়েছে বলে অভিযোগ করেছেন জামায়াতের নায়েবে আমির মুজিবুর রহমান। তিনি বলেছেন, গণভোটের রায় বাস্তবায়ন না করলে জনগণ সরকারকে মানবে না। ফলে আবারও মানুষ বিদ্রোহের পথ বেছে নেবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/65f2aa9b29f1b915ca82adeac78ed3c5-699a2e1c7d514.jpg"
+      },
+      {
         "headline": "সমঝোতার নামে চাঁদাবাজিকে বৈধতা দিচ্ছেন মন্ত্রী: জামায়াত",
         "url": "https://www.ittefaq.com.bd/776030/%E0%A6%B8%E0%A6%AE%E0%A6%9D%E0%A7%8B%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%88%E0%A6%A7%E0%A6%A4%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
         "published_at": null,
@@ -3084,13 +3091,6 @@
         "published_at": null,
         "summary": "মহান শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস উপলক্ষ্যে শহীদ মিনারে শ্রদ্ধা জািনাতে গিয়ে জনগণের রোষাণলে পরেছে জাতীয় পার্টি। দলটির ব্যানাের দেখে একদল জনতা 'ভুয়া' 'ভুয়া' স্লোগান দিতে থাকে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/91a272eb764277f4ce91ec8f66db0195-6998ec2f8826f.jpg"
-      },
-      {
-        "headline": "কেন্দ্রীয় শহীদ মিনারে ভাষাশহীদদের প্রতি জামায়াত আমিরের শ্রদ্ধা",
-        "url": "https://www.ittefaq.com.bd/775896/%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%B6%E0%A6%B9%E0%A7%80%E0%A6%A6-%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B6%E0%A6%B9%E0%A7%80%E0%A6%A6%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4",
-        "published_at": null,
-        "summary": "মহান শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবসের প্রথম প্রহরে কেন্দ্রীয় শহীদ মিনারে ভাষা শহীদদের প্রতি গভীর শ্রদ্ধা জানালেন জাতীয় সংসদের বিরোধীদলীয় নেতা ও জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান। এটি তার কেন্দ্রীয় শহীদ মিনারে প্রথম শ্রদ্ধা নিবেদন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/d79eb5ac1643f98c5f98ee0dfd3e6ec9-6998b2484a08a.jpg"
       },
       {
         "headline": "এনসিপির কেন্দ্রীয় নেতা গ্রেপ্তার",
@@ -3161,6 +3161,13 @@
         "published_at": "1771662135",
         "summary": "ব্রাহ্মণবাড়িয়ার সরাইলে বিএনপি নেতাকর্মীদের বাধার মুখে শহীদ মিনারে শ্রদ্ধা জানাতে পারেননি ব্রাহ্মণবাড়িয়া-২ আসন থেকে সদ্য নির্বাচিত স্বতন্ত্র সংসদ সদস্য ও বিএনপির সাবেক নেত্রী ব্যারিস্টার রুমিন ফারহানা। ওই ঘটনায় স্থানীয় নেতাদের নিয়ন্ত্রণ ইস্যুতে বিএনপিকে সতর্ক করেছেন তিনি।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-20260221082215.jpg"
+      },
+      {
+        "headline": "কেন্দ্রীয় শহীদ মিনারে ভাষাশহীদদের প্রতি জামায়াত আমিরের শ্রদ্ধা",
+        "url": "https://www.ittefaq.com.bd/775896/%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%B6%E0%A6%B9%E0%A7%80%E0%A6%A6-%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B6%E0%A6%B9%E0%A7%80%E0%A6%A6%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4",
+        "published_at": null,
+        "summary": "মহান শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবসের প্রথম প্রহরে কেন্দ্রীয় শহীদ মিনারে ভাষা শহীদদের প্রতি গভীর শ্রদ্ধা জানালেন জাতীয় সংসদের বিরোধীদলীয় নেতা ও জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান। এটি তার কেন্দ্রীয় শহীদ মিনারে প্রথম শ্রদ্ধা নিবেদন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/d79eb5ac1643f98c5f98ee0dfd3e6ec9-6998b2484a08a.jpg"
       },
       {
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
@@ -4344,13 +4351,6 @@
         "published_at": "2026-02-19T20:17:54+06:00",
         "summary": "দেশের আটটি বিভাগের আটটি উপজেলায় পরীক্ষামূলকভাবে (পাইলটিং) ‘ফ্যামিলি কার্ড’ কর্মসূচি শুরু করতে যাচ্ছে সরকার। এই কার্যক্রম পরিচালনার লক্ষ্যে অর্থমন্ত্রীকে সভাপতি করে ১৫ সদস্যের একটি মন্ত্রিসভা কমিটি গঠন করা হয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/19/og/1771510673-8df7b73a7820f4aef47864f2a6c5fccf.jpg"
-      },
-      {
-        "headline": "দুপুরে সংবাদ সম্মেলন ডেকেছে এনসিপি",
-        "url": "https://www.ittefaq.com.bd/775630/%E0%A6%A6%E0%A7%81%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%A8-%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF",
-        "published_at": null,
-        "summary": "দেশের চলমান রাজনৈতিক পরিস্থিতি ও সমসাময়িক নানা বিষয়ে নিজেদের অবস্থান পরিষ্কার করতে বৃহস্পতিবার (১৯ ফেব্রুয়ারি) দুপুরে এক জরুরি সংবাদ সম্মেলনের ডাক দিয়েছে জাতীয় নাগরিক পার্টি (এনসিপি)।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/12/1271242428236bffd75308a5a6611b08-698d7c22ccf73.jpg"
       }
     ],
     "world": [
