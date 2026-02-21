@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-02-21T15:23:50.940832+00:00",
+  "fetched_at": "2026-02-21T15:53:11.834455+00:00",
   "stories": [
+    {
+      "headline": "পাকিস্তান নিউজিল্যান্ড: বৃষ্টিতে ভেসে গেল ম্যাচ",
+      "url": "https://www.prothomalo.com/sports/cricket/ndtqe2snff",
+      "published_at": "2026-02-21T15:46:26.857000+00:00",
+      "summary": "টি–টুয়েন্টি বিশ্বকাপে সুপার এইটের প্রথম ম্যাচে মুখোমুখি পাকিস্তান–নিউজিল্যান্ড। কলম্বোয় চলা ম্যাচটির তাৎক্ষণিক ঘটনাপ্রবাহ, তথ্য–পরিসংখ্যান জানতে চোখ রাখুন এখানে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-21/1ghj3hqd/63489204613664889055128177478879786790781699n.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/1ghj3hqd/63489204613664889055128177478879786790781699n.jpg?auto=format,compress"
+    },
+    {
+      "headline": "শহীদ মিনারে ফুল দেওয়ার পর আটক আ.লীগের দুই নেতা ",
+      "url": "https://www.prothomalo.com/video/bangladesh/mvcl197h0y",
+      "published_at": "2026-02-21T15:33:47.493000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-02-21/1vggtig4/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/1vggtig4/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ফ্রিল্যান্সার থেকে এখন হাজারো মানুষের একটি ইকোসিস্টেমের নেতৃত্ব দিচ্ছেন মুহাম্মদ মনির হোসেন | লিগ্যাসি উইথ এমআরএইচ : সিজন–২ | পর্ব: ০৫",
+      "url": "https://www.prothomalo.com/video/xahkzwp5nt",
+      "published_at": "2026-02-21T15:30:00+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-02-21/wbuy4llu/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/wbuy4llu/WEB.jpg?auto=format,compress"
+    },
     {
       "headline": " নজরুল বিশ্ববিদ্যালয়ে আদিবাসী বর্ণমালায় একুশে ফেব্রুয়ারি পালন",
       "url": "https://nagorik.prothomalo.com/arts/we0u4m5fpg",
@@ -64,14 +88,6 @@
       "summary": "আওয়ামী লীগের কার্যালয় খোলার প্রতিবাদে বিক্ষোভ মিছিল করেছেন স্থানীয় ইউনিয়ন বিএনপির নেতা–কর্মীরা।",
       "image_s3_key": "prothomalo-bangla/2026-02-21/rf0mh91o/JamalpurDH056320260221Jamalpur-pic-1.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/rf0mh91o/JamalpurDH056320260221Jamalpur-pic-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "পাকিস্তান নিউজিল্যান্ড: শুরু হয়েছে ওভার কাটা",
-      "url": "https://www.prothomalo.com/sports/cricket/ndtqe2snff",
-      "published_at": "2026-02-21T14:50:01.746000+00:00",
-      "summary": "টি–টুয়েন্টি বিশ্বকাপে সুপার এইটের প্রথম ম্যাচে মুখোমুখি পাকিস্তান–নিউজিল্যান্ড। কলম্বোয় চলা ম্যাচটির তাৎক্ষণিক ঘটনাপ্রবাহ, তথ্য–পরিসংখ্যান জানতে চোখ রাখুন এখানে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-21/1ghj3hqd/63489204613664889055128177478879786790781699n.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/1ghj3hqd/63489204613664889055128177478879786790781699n.jpg?auto=format,compress"
     },
     {
       "headline": "সব প্রতিনিধিকে না জানিয়ে শহীদ মিনারে শ্রদ্ধা নিবেদন ঘিরে ডাকসুতে অসন্তোষ",
@@ -298,27 +314,25 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/au8zng7p/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "এআই প্রশিক্ষণের জন্য কনটেন্ট মার্কেটপ্লেস চালুর পরিকল্পনা অ্যামাজনের",
-      "url": "https://www.prothomalo.com/technology/artificial-intelligence/8obmv8ojrl",
-      "published_at": "2026-02-21T13:00:00+00:00",
-      "summary": "এই মার্কেটপ্লেস চালু হলে প্রকাশনা প্রতিষ্ঠানগুলো নিজেদের বিভিন্ন সংবাদ, লেখা ও অন্যান্য উপকরণ নির্ধারিত শর্তে এআই প্রতিষ্ঠানগুলোর কাছে সরবরাহ করতে পারবে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-20/cz2ifzur/Amazon.reuters.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/cz2ifzur/Amazon.reuters.png?auto=format,compress"
-    },
-    {
-      "headline": "সোহেল চৌধুরী-দোয়েলের পর চলে গেলেন ‘দুঃখ নেই’ নির্মাতা",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/2pe8erha7z",
-      "published_at": "2026-02-21T13:00:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-21/bj3vta0o/WhatsApp-Image-2026-02-21-at-5.11.40-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/bj3vta0o/WhatsApp-Image-2026-02-21-at-5.11.40-PM.jpeg?auto=format,compress"
-    },
-    {
       "headline": "মহান একুশে বিশেষ সংখ্যা",
       "url": "https://www.bd-pratidin.com/mohan-ekushey-special",
       "published_at": null,
       "summary": "একুশে ফেব্রুয়ারি বাংলাদেশের সংস্কৃতির ক্ষেত্রে এক তীব্র আলোড়ন। বাঙালি জাতীয়তাবোধ সাম্য-সম্প্রীতি বা অসাম্প্রদায়িক বোধের বিকাশ ঘটে এই একুশের...",
       "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+    },
+    {
+      "headline": "অপরাধ-চাঁদাবাজি যেই করবে কোনো ছাড় দেয়া হবে না: বিদ্যুৎমন্ত্রী",
+      "url": "https://www.bd-pratidin.com/minister-speech/2026/02/21/1219634",
+      "published_at": "2026-02-21T21:43:06+06:00",
+      "summary": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদমন্ত্রী ইকবাল হাসান মাহমুদ বলেছেন, মানুষের আশা আকাঙ্খা পূরণে আমরা সর্বোচ্চ আত্মনিয়োগ করবো। এজন্য  প্রধানমন্ত্রী মন্ত্রিসভায় নবীনদের অংশগ্রহণের উপর জোর দিয়েছেন। প্রবীণদের চেয়ে তারা এখন বেশি ভূমিকা রাখবে দেশের গুনগত পরিবর্তন আনার জন্য। তিনি বলেন, চাঁদাবাজি ও অপরাধ করলে কাউকেই কোনো ছাড় দেওয়া হবে না। তারা যে দলেরই হোক তাদের বিরুদ্ধে কঠোর আইনানুগ ব্যবস্থা নেওয়া হবে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771688584-c05da86d2b72be41ad87e23ebe53238c.jpg"
+    },
+    {
+      "headline": "প্রকাশিত হলো প্রিয়র কণ্ঠে ‘ভেজা কাক’",
+      "url": "https://www.bd-pratidin.com/entertainment/2026/02/21/1219627",
+      "published_at": "2026-02-21T21:33:02+06:00",
+      "summary": "প্রচারে এসেছে সংগীতশিল্পী তৌফিক আহমেদ প্রিয়র নতুন গান ‘ভেজা কাক’।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771687980-a51fd4cc83992dd51d1d4837308d4e95.PNG"
     },
     {
       "headline": "স্প্যানিশ ফুটবল : বর্ণবাদীদের কঠিন শাস্তি চান আরবেলোয়া",
@@ -328,7 +342,7 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771686718-0bfb16d9709c2707ece2bc98dc829f92.jpg"
     },
     {
-      "headline": "নির্বাচনের সময় দেওয়া প্রতিশ্রুতি ধাপে-ধাপে বাস্তবায়ন হবে: যুব ও ক্রীড়া প্রতিমন্ত্রী",
+      "headline": "নির্বাচনের সময় দেওয়া প্রতিশ্রুতি ধাপে-ধাপে বাস্তবায়ন হবে: ক্রীড়া প্রতিমন্ত্রী",
       "url": "https://www.bd-pratidin.com/minister-speech/2026/02/21/1219615",
       "published_at": "2026-02-21T21:11:47+06:00",
       "summary": "নির্বাচনের সময় দেওয়া প্রতিশ্রুতি ও পরিকল্পনাগুলো ধাপে-ধাপে বাস্তবায়ন করা হবে বলে জানিয়েছেন যুব ও ক্রীড়া প্রতিমন্ত্রী আমিনুল হক। তিনি বলেন, ‘আমি আপনাদের সঙ্গে আলোচনা করেই প্রতিটি পরিকল্পনা ইনশাআল্লাহ বাস্তবায়ন করব।’",
@@ -370,18 +384,32 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771683407-485fe07763c2dda5daff65e2530432cb.jpg"
     },
     {
-      "headline": "বাংলাদেশ-ভারত সম্পর্ক ‘আন্তরিক ও অকৃত্রিম’",
-      "url": "https://www.bd-pratidin.com/national/2026/02/21/1219591",
-      "published_at": "2026-02-21T19:59:36+06:00",
-      "summary": "রাজশাহীতে নিযুক্ত ভারতীয় সহকারী হাইকমিশনার মনোজ কুমার বলেছেন, বাংলাদেশ ও ভারতের সম্পর্ক আন্তরিক ও অকৃত্রিম।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771682456-e74c4da6b29b111cefa37e90bd149eba.jpg"
+      "headline": "আগামী ২ মার্চ জাতীয় ভোটার দিবস পালন করবে ইসি",
+      "url": "https://www.ittefaq.com.bd/776012/%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A7%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%BF",
+      "published_at": null,
+      "summary": "অন্যান্যবারের মতো এবারও আগামী ২ মার্চ জাতীয় ভোটার দিবস পালন করবে নির্বাচন কমিশন (ইসি)।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/15/50e8f8dc3b748dc84e9b022fb85c43f4-69919f165f047.jpg"
     },
     {
-      "headline": "কাতার ও বাহরাইন থেকে শত শত মার্কিন সেনা প্রত্যাহার",
-      "url": "https://www.bd-pratidin.com/international-news/2026/02/21/1219590",
-      "published_at": "2026-02-21T19:56:13+06:00",
-      "summary": "মধ্যপ্রাচ্যে সম্ভাব্য যুদ্ধের আশঙ্কায় কাতার ও বাহরাইনের প্রধান সামরিক ঘাঁটিগুলো থেকে শত শত মার্কিন সেনা সরিয়ে নিয়েছে যুক্তরাষ্ট্র। শুক্রবার পেন্টাগন সূত্রের বরাতে এ তথ্য জানিয়েছে নিউইয়র্ক টাইমস।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771682172-5fc7901b30dc8c45c8819f5a4b985165.jpg"
+      "headline": "‘ইনকিলাব জিন্দাবাদ’ স্লোগান নিয়ে এবার মুখ খুললেন নাসীরুদ্দীন পাটওয়ারী",
+      "url": "https://www.ittefaq.com.bd/776011/%E2%80%98%E0%A6%87%E0%A6%A8%E0%A6%95%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%AC-%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E2%80%99-%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8",
+      "published_at": null,
+      "summary": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদমন্ত্রী ইকবাল হাসান মাহমুদ টুকুর ‘ইনকিলাব জিন্দাবাদ’ স্লোগান নিয়ে বক্তব্যের প্রতিবাদ জানিয়েছেন কুমিল্লা-৪ এর সংসদ সদস্য হাসনাত আবদুল্লাহ ও জাতীয় নাগরিক পার্টির (এনসিপি) মুখপাত্র আসিফ মাহমুদ সজিব আসিফ মাহমুদ সজীব ভূঁইয়া।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/ed4cec85e6a5ad7096f4ec107e4bf5bb-6999d2197876b.jpg"
+    },
+    {
+      "headline": "যশোরে মোটরসাইকেল দুর্ঘটনায় সেনাসদস্য নিহত, আহত ৩",
+      "url": "https://www.ittefaq.com.bd/776010/%E0%A6%AF%E0%A6%B6%E0%A7%8B%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A7%A9",
+      "published_at": null,
+      "summary": "যশোরের চৌগাছায় দুটি মোটরসাইকেলের মুখোমুখি সংঘর্ষে এক সেনাসদস্য নিহত হয়েছেন। এ ঘটনায় আরও তিনজন আহত হয়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/29616d6ff36c0bf83998a3d99754dc31-6999d0aa2df5a.jpg"
+    },
+    {
+      "headline": "জামায়াতকে ইহুদিদের মতো মানসিকতা পরিহার করতে হবে: আব্দুল কাদের",
+      "url": "https://www.ittefaq.com.bd/776009/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A7%87-%E0%A6%87%E0%A6%B9%E0%A7%81%E0%A6%A6%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%95%E0%A6%A4%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%AC%E0%A7%87",
+      "published_at": null,
+      "summary": "গণতান্ত্রিক ছাত্র সংসদের ঢাকা বিশ্ববিদ্যালয় শাখার সাবেক আহ্বায়ক আব্দুল কাদের বলেছেন, রাজনীতিতে পরিবর্তন আনতে চাইলে জামায়াতে ইসলামীকে ইহুদিদের মতো মানসিকতা পরিহার করতে হবে। একই সঙ্গে ইতিহাস বিকৃতির চেষ্টা করলে তা বরদাশত করা হবে না বলেও সতর্ক করেছেন তিনি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/3698c6273660b74b93ce6366445ef06c-6999cf2c82c8a.jpg"
     },
     {
       "headline": "হাসনাত আবদুল্লাহর পর এবার আসিফ মাহমুদের পোস্ট",
@@ -426,6 +454,120 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/428f30bd57d13131a5473f01f98b5f9c-6999be6db5789.jpg"
     },
     {
+      "headline": "রমজানে নিত্যপণ্যের বাজারে ধাক্কা",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/TIcspLlX1OGo/",
+      "published_at": null,
+      "summary": "রমজান মাসে বাজারমূল্য অবশ্যই নিয়ন্ত্রণের মধ্যে রাখতে \r\nহবে। সব পেশা-শ্রেণীর মানুষের প্রয়োজনীয় পণ্যসামগ্রী পাওয়ার অধিকার নিশ্চিত করতে হবে। টিসিবিকে শহর নগর গ্রামে আরো জোরদার করতে হবে। ব্যবসায়ীদের ধর্মপ্রাণ মুসল্লিদের কথা মাথায় রেখে ভেজালমুক্ত দ্রব্য সরবরাহ, অধিক মূল্য উপার্জন থেকে হাত গুটিয়ে নিতে হবে। দুনিয়ার সব দেশে রমজান মাসে দ্রব্যমূল্যের নিয়ন্ত্রণ ও হ্রাস হলেও, বাংলাদেশের ব্যবসায় এর বিপরীত অবস্থা সর্বত্র বিরাজমান!  নতুন সরকারকে দেশের খেটে খাওয়া মানুষের কথা মাথায় রেখে সব ধরনের নিত্যপণ্য সিন্ডিকেট ভাঙতে হবে",
+      "image_url": "https://media.ndiganta.com/images/Rintu-Anwar.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "শপথ নিয়ে বিব্রতকর অবস্থা",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/rLqmSChRDA46/",
+      "published_at": null,
+      "summary": "রাজনৈতিক অঙ্গনে মতদ্বৈধতা ও বিতর্ক স্বাভাবিক। তবে মনে \r\nরাখতে হবে, আমাদের সন্তানদের রক্তের বিনিময়ে যে দ্বিতীয় আজাদি অর্জিত হয়েছে তা বৃথা যেতে পারে না। এটি কেবল একটি বিতর্ক বা বিবাদ নয়। এটি আমাদের গণতান্ত্রিক বিশ্বাসের ভিত্তি। জুলাই গণ-অভ্যুত্থানের মাধ্যমে যে গণঐক্য অর্জিত হয়েছে, সেই গণঐক্যই আমাদের দিকনির্দেশনা দেবে। নির্বাচনের মাধ্যমে যেই প্রতিনিধিত্ব নিশ্চিত হয়েছে, জুলাই সনদ বাস্তবায়নের দায় ও দায়িত্ব তাদের ওপরই বর্তায়। গরিষ্ঠ মানুষের আস্থা ও বিশ্বাসের যে ভিত্তিভূমি অর্জিত হয়েছে, তা ব্যর্থ হতে পারে না। জাতির ভবিষ্যৎ অস্তিত্বের প্রশ্নে আমরা বিশ্বাস \r\nকরতে চাই যে, সরকারি ও বিরোধী দল জাতীয় ঐকমত্যের ভিত্তিতে \r\nসংস্কার প্রস্তাবনা বাস্তবায়ন করে গোটা জাতিকে আশ্বস্ত করবে",
+      "image_url": "https://media.ndiganta.com/images/abdul-latif-masum_ujb.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "নতুন সরকারের তিন অগ্রাধিকার",
+      "url": "https://dailynayadiganta.com/printed-edition/f79iR9VIHPrz/",
+      "published_at": null,
+      "summary": "প্রধানমন্ত্রী তারেক রহমানের সভাপতিত্বে প্রথম বৈঠক : নীতি, নির্দেশনা ও প্রতিশ্রুতির বার্তা",
+      "image_url": "https://media.ndiganta.com/images/first-1_1LUwb5F.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "বিএনপি সরকারের প্রতি আস্থা রাখুন, দেশ এগিয়ে যাবে",
+      "url": "https://dailynayadiganta.com/bangladesh/national/mWraV3uPEdWI/",
+      "published_at": null,
+      "summary": "‘গণতন্ত্রে বিরোধী পক্ষ থাকবে, প্রতিযোগিতা থাকবে। কিন্তু তাই বলে প্রতিহিংসা করা যাবে না। কেউ অপরাধ করলে রাষ্ট্র তার বিরুদ্ধে ব্যবস্থা নেবে। আইন নিজের হাতে তুলে নেয়া, সংঘর্ষ কিংবা সহিংসতার কোনো স্থান নেই।’",
+      "image_url": "https://media.ndiganta.com/original_images/Robiul_D1ul8QG.jpg"
+    },
+    {
+      "headline": "মাদারীপুরে যুবককে কুপিয়ে হত্যা, ২ ভাই গ্রেফতার",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/Y95BV1jHaFC6/",
+      "published_at": null,
+      "summary": "গত ১৪ জানুয়ারি সদর উপজেলার চরমুগরিয়া এলাকার একটি ব্যাংক থেকে টাকা উত্তোলন শেষে বাড়ি ফিরছিলেন ডাসার উপজেলার বালিগ্রাম ইউনিয়নের খাতিয়াল গ্রামের মোসলেম চৌধুরীর ছেলে আব্বাস চৌধুরী (৪৫)। মাঝপথে সদর উপজেলার ঘটমাঝি ইউনিয়নের বাহেরান্দি এলাকায় এলে পূর্ব শত্রুতার জেরে আব্বাসকে কুপিয়ে জখম করে প্রতিপক্ষের লোকজন।",
+      "image_url": "https://media.ndiganta.com/original_images/Madaripur-Murder-Arrest2.jpg"
+    },
+    {
+      "headline": "বরিশাল বিশ্ববিদ্যালয়ে মহান শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
+      "url": "https://dailynayadiganta.com/bangladesh/education-campus/t6zENVTImVcU/",
+      "published_at": null,
+      "summary": "বরিশাল বিশ্ববিদ্যালয়ে (ববি) মহান শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস ২০২৬ উদযাপিত হয়েছে। শনিবার (২১ ফেব্রুয়ারি) সকাল ৯টার দিকে ভাষা শহীদদের প্রতি শ্রদ্ধা নিবেদনের মাধ্যমে দিবসের কার্যক্রম শুরু হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Barisal-Uni.jpg"
+    },
+    {
+      "headline": "ভাষা সৈনিকেরা আমাদের প্রেরণার উৎস",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/hhrkyplzy9T3/",
+      "published_at": null,
+      "summary": "‘১৯৫২ সালের ভাষা আন্দোলন ছিল স্বাধীনতা যুদ্ধের সূতিকাগার। ১৯৭১ সালের মুক্তিযুদ্ধে স্বাধীনতা লাভের পর আমরা বিশ্বের বুকে স্বাধীন সার্বভৌম জাতি হিসেবে পরিচিতি লাভ করি।’",
+      "image_url": "https://media.ndiganta.com/original_images/Jobaer.jpg"
+    },
+    {
+      "headline": "১২ ফেব্রুয়ারির নির্বাচনে জনগণের অধিকার পূরণ হয়েছে",
+      "url": "https://dailynayadiganta.com/bangladesh/national/1tQVJqmXS1YT/",
+      "published_at": null,
+      "summary": "‘শুধু স্বপ্ন দেখালেই হবে না, বাস্তবায়নে এগিয়ে আসতে হবে। খালি আক্ষেপ নয়, প্রাপ্য অর্জনে ঐক্যবদ্ধভাবে চেষ্টা করতে হবে। বিতর্ক ও আলোচনা যেন সেই পথ দেখায়।’",
+      "image_url": "https://media.ndiganta.com/original_images/Nazrul_FAqHZOt.jpg"
+    },
+    {
+      "headline": "সিলেটে রাজনৈতিক নেতাদের সম্মানে বিএনপির ইফতার মাহফিল",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/awQhxASH6MDC/",
+      "published_at": null,
+      "summary": "বাণিজ্য, শিল্প এবং বস্ত্র ও পাট মন্ত্রী খন্দকার আব্দুল মুক্তাদির বলেছেন, আমরা সিলেটের রাজনৈতিক সম্প্রীতি লালন করব, ধারণ করব এবং সবাই মিলে সিলেটকে এগিয়ে নিতে দিন দিন এই ধারাকে বৃদ্ধি করব। আমরা সিলেটের জন্য যে কাজগুলো করব সেগুলো কারো ব্যক্তিগত কাজ নয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Syl-iftar-21-2.jpg"
+    },
+    {
+      "headline": "শহীদ মিনারে ফুল দিতে গিয়ে শেখ হাসিনার নামে স্লোগান, গ্রেফতার ২",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/c8OMB8A9jOS7/",
+      "published_at": null,
+      "summary": "শনিবার বিকেল ৩টার দিকে ইমারুল ইসলাম সাবিন কয়েকজনকে সাথে নিয়ে শ্রদ্ধা জানাতে গিয়ে হাসিনা সরকারকে ফিরিয়ে আনাসহ বিভিন্ন ধরনের স্লোগান দেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Naldanga-AL-arrest.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - February 21, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "বাগেরহাটের শরণখোলায় দুর্বৃত্তদের দেওয়া আগুনে ওয়ার্ড বিএনপি কার্যালয় সম্পূর্ণ পুড়ে ছাই হয়ে গেছে। ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "এআই প্রশিক্ষণের জন্য কনটেন্ট মার্কেটপ্লেস চালুর পরিকল্পনা অ্যামাজনের",
+      "url": "https://www.prothomalo.com/technology/artificial-intelligence/8obmv8ojrl",
+      "published_at": "2026-02-21T13:00:00+00:00",
+      "summary": "এই মার্কেটপ্লেস চালু হলে প্রকাশনা প্রতিষ্ঠানগুলো নিজেদের বিভিন্ন সংবাদ, লেখা ও অন্যান্য উপকরণ নির্ধারিত শর্তে এআই প্রতিষ্ঠানগুলোর কাছে সরবরাহ করতে পারবে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-20/cz2ifzur/Amazon.reuters.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/cz2ifzur/Amazon.reuters.png?auto=format,compress"
+    },
+    {
+      "headline": "সোহেল চৌধুরী-দোয়েলের পর চলে গেলেন ‘দুঃখ নেই’ নির্মাতা",
+      "url": "https://www.prothomalo.com/entertainment/dhallywood/2pe8erha7z",
+      "published_at": "2026-02-21T13:00:00+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-02-21/bj3vta0o/WhatsApp-Image-2026-02-21-at-5.11.40-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/bj3vta0o/WhatsApp-Image-2026-02-21-at-5.11.40-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "বাংলাদেশ-ভারত সম্পর্ক ‘আন্তরিক ও অকৃত্রিম’",
+      "url": "https://www.bd-pratidin.com/national/2026/02/21/1219591",
+      "published_at": "2026-02-21T19:59:36+06:00",
+      "summary": "রাজশাহীতে নিযুক্ত ভারতীয় সহকারী হাইকমিশনার মনোজ কুমার বলেছেন, বাংলাদেশ ও ভারতের সম্পর্ক আন্তরিক ও অকৃত্রিম।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771682456-e74c4da6b29b111cefa37e90bd149eba.jpg"
+    },
+    {
+      "headline": "কাতার ও বাহরাইন থেকে শত শত মার্কিন সেনা প্রত্যাহার",
+      "url": "https://www.bd-pratidin.com/international-news/2026/02/21/1219590",
+      "published_at": "2026-02-21T19:56:13+06:00",
+      "summary": "মধ্যপ্রাচ্যে সম্ভাব্য যুদ্ধের আশঙ্কায় কাতার ও বাহরাইনের প্রধান সামরিক ঘাঁটিগুলো থেকে শত শত মার্কিন সেনা সরিয়ে নিয়েছে যুক্তরাষ্ট্র। শুক্রবার পেন্টাগন সূত্রের বরাতে এ তথ্য জানিয়েছে নিউইয়র্ক টাইমস।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771682172-5fc7901b30dc8c45c8819f5a4b985165.jpg"
+    },
+    {
       "headline": "১০ থেকে ১২ মার্চের মধ্যে বসছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন",
       "url": "https://www.ittefaq.com.bd/776002/%E0%A7%A7%E0%A7%A6-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A7%E0%A7%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%8B%E0%A6%A6%E0%A6%B6-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6%E0%A7%87%E0%A6%B0",
       "published_at": null,
@@ -452,48 +594,6 @@
       "published_at": null,
       "summary": "মহান ভাষা শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবসে গাইবান্ধায় শহীদ মিনারে ফুল দিতে আসা দুই আওয়ামী লীগ (কার্যক্রম নিষিদ্ধঘোষিত) নেতাকে আটক করেছে পুলিশ। শ্রদ্ধা জানানো শেষে তারা ‘জয় বাংলা’ স্লোগান দিয়ে ঝটিকা মিছিলের চেষ্টা করেছিল বলে ভাষ্য পুলিশের।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/7f44d63fb972af4cf908b9736a8c3560-6999b5a705658.jpg"
-    },
-    {
-      "headline": "রমজানে নিত্যপণ্যের বাজারে ধাক্কা",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/TIcspLlX1OGo/",
-      "published_at": null,
-      "summary": "রমজান মাসে বাজারমূল্য অবশ্যই নিয়ন্ত্রণের মধ্যে রাখতে \r\nহবে। সব পেশা-শ্রেণীর মানুষের প্রয়োজনীয় পণ্যসামগ্রী পাওয়ার অধিকার নিশ্চিত করতে হবে। টিসিবিকে শহর নগর গ্রামে আরো জোরদার করতে হবে। ব্যবসায়ীদের ধর্মপ্রাণ মুসল্লিদের কথা মাথায় রেখে ভেজালমুক্ত দ্রব্য সরবরাহ, অধিক মূল্য উপার্জন থেকে হাত গুটিয়ে নিতে হবে। দুনিয়ার সব দেশে রমজান মাসে দ্রব্যমূল্যের নিয়ন্ত্রণ ও হ্রাস হলেও, বাংলাদেশের ব্যবসায় এর বিপরীত অবস্থা সর্বত্র বিরাজমান!  নতুন সরকারকে দেশের খেটে খাওয়া মানুষের কথা মাথায় রেখে সব ধরনের নিত্যপণ্য সিন্ডিকেট ভাঙতে হবে",
-      "image_url": "https://media.ndiganta.com/images/Rintu-Anwar.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "শপথ নিয়ে বিব্রতকর অবস্থা",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/rLqmSChRDA46/",
-      "published_at": null,
-      "summary": "রাজনৈতিক অঙ্গনে মতদ্বৈধতা ও বিতর্ক স্বাভাবিক। তবে মনে \r\nরাখতে হবে, আমাদের সন্তানদের রক্তের বিনিময়ে যে দ্বিতীয় আজাদি অর্জিত হয়েছে তা বৃথা যেতে পারে না। এটি কেবল একটি বিতর্ক বা বিবাদ নয়। এটি আমাদের গণতান্ত্রিক বিশ্বাসের ভিত্তি। জুলাই গণ-অভ্যুত্থানের মাধ্যমে যে গণঐক্য অর্জিত হয়েছে, সেই গণঐক্যই আমাদের দিকনির্দেশনা দেবে। নির্বাচনের মাধ্যমে যেই প্রতিনিধিত্ব নিশ্চিত হয়েছে, জুলাই সনদ বাস্তবায়নের দায় ও দায়িত্ব তাদের ওপরই বর্তায়। গরিষ্ঠ মানুষের আস্থা ও বিশ্বাসের যে ভিত্তিভূমি অর্জিত হয়েছে, তা ব্যর্থ হতে পারে না। জাতির ভবিষ্যৎ অস্তিত্বের প্রশ্নে আমরা বিশ্বাস \r\nকরতে চাই যে, সরকারি ও বিরোধী দল জাতীয় ঐকমত্যের ভিত্তিতে \r\nসংস্কার প্রস্তাবনা বাস্তবায়ন করে গোটা জাতিকে আশ্বস্ত করবে",
-      "image_url": "https://media.ndiganta.com/images/abdul-latif-masum_ujb.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "নতুন সরকারের তিন অগ্রাধিকার",
-      "url": "https://dailynayadiganta.com/printed-edition/f79iR9VIHPrz/",
-      "published_at": null,
-      "summary": "প্রধানমন্ত্রী তারেক রহমানের সভাপতিত্বে প্রথম বৈঠক : নীতি, নির্দেশনা ও প্রতিশ্রুতির বার্তা",
-      "image_url": "https://media.ndiganta.com/images/first-1_1LUwb5F.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "১২ ফেব্রুয়ারির নির্বাচনে জনগণের অধিকার পূরণ হয়েছে",
-      "url": "https://dailynayadiganta.com/bangladesh/national/1tQVJqmXS1YT/",
-      "published_at": null,
-      "summary": "‘শুধু স্বপ্ন দেখালেই হবে না, বাস্তবায়নে এগিয়ে আসতে হবে। খালি আক্ষেপ নয়, প্রাপ্য অর্জনে ঐক্যবদ্ধভাবে চেষ্টা করতে হবে। বিতর্ক ও আলোচনা যেন সেই পথ দেখায়।’",
-      "image_url": "https://media.ndiganta.com/original_images/Nazrul_FAqHZOt.jpg"
-    },
-    {
-      "headline": "সিলেটে রাজনৈতিক নেতাদের সম্মানে বিএনপির ইফতার মাহফিল",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/awQhxASH6MDC/",
-      "published_at": null,
-      "summary": "বাণিজ্য, শিল্প এবং বস্ত্র ও পাট মন্ত্রী খন্দকার আব্দুল মুক্তাদির বলেছেন, আমরা সিলেটের রাজনৈতিক সম্প্রীতি লালন করব, ধারণ করব এবং সবাই মিলে সিলেটকে এগিয়ে নিতে দিন দিন এই ধারাকে বৃদ্ধি করব। আমরা সিলেটের জন্য যে কাজগুলো করব সেগুলো কারো ব্যক্তিগত কাজ নয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Syl-iftar-21-2.jpg"
-    },
-    {
-      "headline": "শহীদ মিনারে ফুল দিতে গিয়ে শেখ হাসিনার নামে স্লোগান, গ্রেফতার ২",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/c8OMB8A9jOS7/",
-      "published_at": null,
-      "summary": "শনিবার বিকেল ৩টার দিকে ইমারুল ইসলাম সাবিন কয়েকজনকে সাথে নিয়ে শ্রদ্ধা জানাতে গিয়ে হাসিনা সরকারকে ফিরিয়ে আনাসহ বিভিন্ন ধরনের স্লোগান দেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Naldanga-AL-arrest.jpg"
     },
     {
       "headline": "শহীদ বেদিতে এসে নিজ নামে পুষ্পস্তবক না পেয়ে বিব্রত মন্ত্রী",
@@ -529,20 +629,6 @@
       "published_at": null,
       "summary": "‘কেন্দ্রীয় সিদ্ধান্ত অনুযায়ী আন্তর্জাতিক মাতৃভাষা দিবসের কর্মসূচি পালন করেছি। রাষ্ট্রভাষা সংগ্রাম পরিষদের প্রথম আহ্বায়কের বিষয়টি আমার অজানা ছিল। ভবিষ্যতে তার জন্য কিছু করা যায় কিনা সে ব্যাপারে উদ্যোগ নেয়া হবে।’",
       "image_url": "https://media.ndiganta.com/original_images/Narayanganj-Language-soldie.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - February 21, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "রাজধানীর হাজারীবাগের টালী অফিসের গলির পঞ্চম তলার একটি কক্ষ থেকে বিশ্ববিদ্যালয় শিক্ষার্থীকে ঝুলন্ত উদ্ধার করেছে পুলিশ। ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
     },
     {
       "headline": "ছায়া অর্থনীতির বিরুদ্ধে চূড়ান্ত লড়াই: রাষ্ট্র কি কঠোর হবে, নাকি নীরব দর্শক?",
@@ -1402,92 +1488,6 @@
       "published_at": null,
       "summary": "কুষ্টিয়ার ইসলামী বিশ্ববিদ্যালয়ে (ইবি) ভাষাশহীদদের আত্মার মাগফিরাত কামনায় দোয়া মোনাজাতে জিয়াউর রহমানের নাম না নেওয়ায় হট্টগোল ও বাগবিতণ্ডার ঘটনা ঘটেছে। ছাত্রদলের তোপের মুখে পরে আবার মোনাজাত অনুষ্ঠিত হয়।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/ebaed07a9718da041d214332a2ec9b1b-69998db423cf3.jpg"
-    },
-    {
-      "headline": "ভারতীয়দের জন্য পুনরায় পর্যটক ভিসা চালু করেছে দিল্লিস্থ বাংলাদেশ দূতাবাস",
-      "url": "https://www.ittefaq.com.bd/775977/%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95",
-      "published_at": null,
-      "summary": "দুই মাস বন্ধ থাকার পর ভারতের নাগরিকদের জন্য আবারও পর্যটক ভিসার আবেদন নেওয়া শুরু করেছে নয়াদিল্লিতে অবস্থিত বাংলাদেশ হাইকমিশন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/7333e7aa872fecee2cf6ccc750dbc5de-69998bbea201c.jpg"
-    },
-    {
-      "headline": "হারিয়ে যাচ্ছে সমতলের ক্ষুদ্র নৃ-গোষ্ঠীর ভাষা",
-      "url": "https://www.ittefaq.com.bd/775976/%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A6%A4%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A7%83-%E0%A6%97%E0%A7%8B%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A7%80%E0%A6%B0-%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE",
-      "published_at": null,
-      "summary": "কালের আর্বতে হারিয়ে যাচ্ছে সমতলের ক্ষুদ্র নৃ-গোষ্ঠীর নিজস্ব ভাষা। পারিবারিক পর্যায়ে চর্চা না থাকা ও সরকারি পৃষ্ঠপোষকতার অভাবে তাদের ভাষা হারিয়ে যাচ্ছে বলে দাবি করেছেন ক্ষুদ্র-নৃ গোষ্ঠীর নেতারা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/143553942a8a764d684601d70e1964ca-69998b29e5c84.jpg"
-    },
-    {
-      "headline": "ঈদের আগেই ইমাম-খতিব ও মুয়াজ্জিনসহ বিভিন্ন ধর্মগুরুদের সম্মানী দেওয়া হবে: মাহদী আমিন",
-      "url": "https://www.ittefaq.com.bd/775975/%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%87-%E0%A6%87%E0%A6%AE%E0%A6%BE%E0%A6%AE-%E0%A6%96%E0%A6%A4%E0%A6%BF%E0%A6%AC-%E0%A6%93-%E0%A6%AE%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%B8%E0%A6%B9-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8",
-      "published_at": null,
-      "summary": "নির্বাচনের প্রতিশ্রুতি বাস্তবায়নের অংশ হিসেবে ইমাম মুয়াজ্জিনদের সম্মানি ভাতা দিবে সরকার। ঈদের আগেই কয়েকটি এলাকায় এই কার্যক্রম শুরু করবে বলে সরকারের তরফ থেকে জানানো হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/b6f099c8292d3d7ff60273abaccdcd60-699989936dab5.jpg"
-    },
-    {
-      "headline": "সিলেটে রমজানেও কাটেনি এলপি গ্যাস সঙ্কট, বিক্রি হচ্ছে বাড়তি দামে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/JkTCnd9OH4Kw/",
-      "published_at": null,
-      "summary": "‘সরবরাহ এখনো স্বাভাবিক হয়নি। তবে আগের থেকে কিছুটা বেড়েছে। এরপরও চাহিদার অর্ধেক গ্যাস মিলছে। আমরা সীমিত লাভে বিক্রি করলেও খুচরা বিক্রেতারা ইচ্ছেমতো টাকা আদায় করে। আর এর দায় এসে আমাদের উপরে পড়ে। আমরা খুচরা বিক্রেতাদের বলে দিয়েছি সীমিত আয় করে সিলিন্ডার বিক্রি করতে। অন্যথায় তাদেরকে সিলিন্ডার না দেয়ারও হুমকি দিয়েছি। কিন্তু এতে কাজ হচ্ছে না। হোম ডেলিভারির নামে খুচরা বিক্রেতারা গ্রাহককে অনেকটা জিম্মি করে ফেলেছে।‘",
-      "image_url": "https://media.ndiganta.com/original_images/Sylhet-Gas.jpg"
-    },
-    {
-      "headline": "বিমানের সাবেক এমডি সাফিকুরের স্ত্রীর দায় স্বীকার",
-      "url": "https://dailynayadiganta.com/bangladesh/law-and-justice/UH33dQiN9EvX/",
-      "published_at": null,
-      "summary": "আবেদনের পরিপ্রেক্ষিতে ঢাকা মেট্রোপলিটন ম্যাজিস্ট্রেট ইসমাইল হোসেন তার জবানবন্দি রেকর্ড করেন। জবানবন্দি রেকর্ড শেষে তাকে কারাগারে পাঠানোর আদেশ দেন আদালত।",
-      "image_url": "https://media.ndiganta.com/original_images/EX_Biman_MD.jpg"
-    },
-    {
-      "headline": "স্বাধীনতার স্মৃতি ধারণ ও যথাযথ সম্মান প্রদর্শন করবে সরকার",
-      "url": "https://dailynayadiganta.com/bangladesh/national/1R6qTCMgU6g8/",
-      "published_at": null,
-      "summary": "‘স্বাধীনতার সূচনা বায়ান্ন থেকেই শুরু হয়েছিল। আমাদের আঞ্চলিক ভাষা ও কৃষ্টি-কালচার আমাদের গর্ব। বিশেষ করে জারি, সারি, ভাটিয়ালি ও ভাওয়াইয়ার মতো লোকজ ঐতিহ্যগুলোকে টিকিয়ে রাখতে জাতীয় পর্যায়ে আরো গবেষণার প্রয়োজন।’",
-      "image_url": "https://media.ndiganta.com/original_images/Dulu_Ai9aft1.jpg"
-    },
-    {
-      "headline": "দেলদুয়ারে নবনির্বাচিত এমপির মতবিনিময় সভা",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/mWj4hieo7tAo/",
-      "published_at": null,
-      "summary": "শনিবার (২১ ফেব্রুয়ারি) দুপুরে উপজেলা পরিষদ হলরুমে আয়োজিত সভায় সরকারি কর্মকর্তা-কর্মচারী, বীর মুক্তিযোদ্ধা, সাংবাদিক, সুধীজন, রাজনৈতিক নেতৃবৃন্দ, শিক্ষক ও ব্যবসায়ীরা অংশ নেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Delduar-21-2.jpg"
-    },
-    {
-      "headline": "ফরিদপুরে ১০ সহস্রাধিক ইয়াবাসহ  আটক ৫",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/qJAilAi2BWpZ/",
-      "published_at": null,
-      "summary": "আটককৃতরা হলেন—হাড়োকান্দি মহল্লার সুমন মৃধা ওরফে ইয়াকুব আশিকুর রহমান রাহাত (২৫), মিরাজুল ইসলাম (২৯), সোলায়মান মৃধা (২৬) এবং পশ্চিম খাবাসপুর মহল্লার রুমান মোল্লা (২৯)।",
-      "image_url": "https://media.ndiganta.com/original_images/Faridpur-20-2.jpg"
-    },
-    {
-      "headline": "ইরান পরিস্থিতি নিয়ে উদ্বিগ্ন জাতিসঙ্ঘ",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/myOTQCw7GnGp/",
-      "published_at": null,
-      "summary": "‘আমরা যুক্তরাষ্ট্র ও ইরান উভয়কেই মতপার্থক্য মেটাতে কূটনৈতিক প্রচেষ্টা অব্যাহত রাখার জন্য উৎসাহিত করছি।’",
-      "image_url": "https://media.ndiganta.com/original_images/Duzarik.jpg"
-    },
-    {
-      "headline": "বাবাকে নিয়ে জাইমা রহমানের আবেগঘন পোস্ট",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/xqqFJagqqnz7/",
-      "published_at": null,
-      "summary": "আমি খুবই আনন্দিত যে সমগ্র বাংলাদেশ অবশেষে তার এই অনন্য গুণাবলিগুলো প্রত্যক্ষ করবে। তার মধ্যে থাকা অসাধারণ গুণাবলিগুলোই তাকে এই দেশ ও জনগণের একজন সত্যিকারের প্রধানমন্ত্রী হিসেবে প্রতিষ্ঠিত করবে ইনশা আল্লাহ।",
-      "image_url": "https://media.ndiganta.com/original_images/Tareq_Rahman-Zaima.JPG"
-    },
-    {
-      "headline": "ঝিনাইদহ-কুষ্টিয়া মহাসড়কে গাছের গুঁড়ি ফেলে দখল, দুর্ঘটনার ঝুঁকি",
-      "url": "https://www.prothomalo.com/bangladesh/district/5kwbgko3tk",
-      "published_at": "2026-02-21T09:13:33.057000+00:00",
-      "summary": " ঝিনাইদহ-কুষ্টিয়া মহাসড়কের ঝিনাইদহ কুলচারা থেকে চড়িয়ারবিল বাজার পর্যন্ত রাস্তার দুই পাশে অন্তত পাঁচটি স্থানে গাছের গুঁড়ি রেখে ব্যবসা করছেন কাঠ ব্যবসায়ীরা।",
-      "image_s3_key": "prothomalo-bangla/2026-02-21/betdkiob/jhenaidahdh057420260219jhenidah-road-photo-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/betdkiob/jhenaidahdh057420260219jhenidah-road-photo-02.jpg?auto=format,compress"
-    },
-    {
-      "headline": "এর চেয়ে বেশি ভালোবাসা যায় না",
-      "url": "https://nagorik.prothomalo.com/durporobash/sap84kzcq7",
-      "published_at": "2026-02-21T09:04:34.082000+00:00",
-      "summary": "কোনো ব্যাংক বা সরকারি প্রতিষ্ঠানে গেলে আমি বিস্ময়ে তাকিয়ে থাকতাম—কেউ কারও আগে যাওয়ার চেষ্টা করে না, লাইনে দাঁড়ানো যেন তাদের রক্তে মিশে আছে। পেশিশক্তি নয়, নিয়মই সেখানে শেষ কথা।",
-      "image_s3_key": "prothomalo-bangla/2026-02-21/9lqnvxdq/3.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-21/9lqnvxdq/3.jpg?auto=format,compress"
     }
   ]
 }
