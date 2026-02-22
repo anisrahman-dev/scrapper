@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-02-22T22:20:32.348954+00:00",
+  "fetched_at": "2026-02-22T22:54:35.827057+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "রমজানের আতিথেয়তায় প্রবীণদের কদর করার রীতি",
+        "url": "https://www.prothomalo.com/religion/islam/wakjv0xymi",
+        "published_at": "2026-02-22T22:30:00+00:00",
+        "summary": "প্রবীণদের মেহমানদারিতে কেবল ঐতিহ্যবাহী আপ্যায়নই যথেষ্ট নয়; বরং তাঁদের বয়স, শারীরিক অবস্থা এবং মানসিক সংবেদনশীলতার প্রতি বিশেষ যত্নশীল হওয়া প্রয়োজন। ",
+        "image_s3_key": "prothomalo-bangla/2026-02-22/2gn7fowj/pexels-cottonbro-5791657.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/2gn7fowj/pexels-cottonbro-5791657.jpg?auto=format,compress"
+      },
       {
         "headline": "জিয়াউর রহমানের খনন করা ‘চৌক্কার খাল’এখন দখল আর বর্জ্যে বিপর্যস্ত",
         "url": "https://www.prothomalo.com/video/bangladesh/2zhm945by2",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/kusxedu3/Web.jpg?auto=format,compress"
       },
       {
-        "headline": "১৯ মাস পর গোপালগঞ্জে আ.লীগ কার্যালয়ে উড়ল জাতীয় ও দলীয় পতাকা",
-        "url": "https://www.prothomalo.com/video/bangladesh/u4uaev6n7n",
-        "published_at": "2026-02-22T15:39:15.221000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-02-22/mw1tlv7k/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/mw1tlv7k/WEB.jpg?auto=format,compress"
-      },
-      {
         "headline": "পুলিশে নতুন নেতৃত্বের দিকে তাকিয়ে সবাই",
         "url": "https://www.bd-pratidin.com/national/2026/02/23/1220160",
         "published_at": "2026-02-23T00:35:43+06:00",
@@ -393,6 +393,20 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/22/og/1771771140-90ae9671dbd230deb71a1de291bb3962.jpg"
       },
       {
+        "headline": "সংসদ সদস্যের গাড়িবহরের ধাক্কায় শিশু মৃত্যুর ঘটনায় ইসলামী আন্দোলনের ক্ষোভ",
+        "url": "https://www.ittefaq.com.bd/776192/%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F",
+        "published_at": null,
+        "summary": "কক্সবাজার-২ আসনের বিএনপি দলীয় সংসদ সদস্য আলমগীর মোহাম্মাদ মাহফুজ উল্লাহ ফরিদের গাড়িবহরের চাপায় নুরানী মাদ্রাসার দ্বিতীয় শ্রেণীর শিক্ষার্থী খালিদ বিন ওয়ালিদের মৃত্যুতে ক্ষোভ ও শোক প্রকাশ করেছে ইসলামী আন্দোলন বাংলাদেশ।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/23/77adb98c6501b3eb79ef931e4a27d274-699b7d99104de.jpg"
+      },
+      {
+        "headline": "মসজিদে নববীর নতুন ইমাম শেখ সালেহ আল-মাগামসি",
+        "url": "https://www.ittefaq.com.bd/776194/%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6%E0%A7%87-%E0%A6%A8%E0%A6%AC%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%87%E0%A6%AE%E0%A6%BE%E0%A6%AE-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B9-%E0%A6%86%E0%A6%B2-%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%B8%E0%A6%BF",
+        "published_at": null,
+        "summary": "মসজিদে নববীর নতুন ইমাম হিসেবে নিয়োগ পেয়েছেন শেখ সালেহ বিন আওয়াদ আল-মাগামসি। সৌদি আরবে জারি হওয়া এক রাজকীয় আদেশে তাকে এ দায়িত্ব দেওয়া হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/23/72ecaa3ec6ac9de046bb780cf8f0a323-699b822526c5d.jpg"
+      },
+      {
         "headline": "আগামী স্থানীয় সরকার নির্বাচনে অংশ নেবে জাপা",
         "url": "https://www.ittefaq.com.bd/776189/%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A7%9F-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%85%E0%A6%82%E0%A6%B6-%E0%A6%A8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE",
         "published_at": null,
@@ -449,20 +463,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/23/fdd6cdb7f49dc937e209db6495265ec0-699b583c38a1f.jpg"
       },
       {
-        "headline": "হবিগঞ্জে সিলিকা বালু উত্তোলনকারীদের তালিকা তৈরির নির্দেশ",
-        "url": "https://www.ittefaq.com.bd/776180/%E0%A6%B9%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF%E0%A6%B0",
-        "published_at": null,
-        "summary": "হবিগঞ্জ জেলা-এ সিলিকা বালু উত্তোলনের সঙ্গে জড়িত ব্যক্তিদের তালিকা প্রস্তুত করে তাদের বিরুদ্ধে যথাযথ আইনগত ব্যবস্থা নেওয়ার নির্দেশ দিয়েছেন হাইকোর্ট। একই সঙ্গে আগামী তিন মাসের মধ্যে আদেশ বাস্তবায়নের অগ্রগতি প্রতিবেদন আদালতে দাখিল করতে বলা হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/12/17/e68bee9a5cd822ca8f20593de7ae197c-6942ce92c59fe.jpg"
-      },
-      {
-        "headline": "৭.১ মাত্রার ভূমিকম্পে কেঁপে উঠলো মালয়েশিয়া",
-        "url": "https://www.ittefaq.com.bd/776181/%E0%A7%AD.%E0%A7%A7-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A6%B2%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE",
-        "published_at": null,
-        "summary": "মালয়েশিয়ার বোর্নিও দ্বীপের সাবাহ অঙ্গরাজ্যের উপকূলে একটি শক্তিশালী ভূমিকম্প অনুভূত হয়েছে। যার মাত্রা রিখটার স্কেলে ৭.১ রেকর্ড করা হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/23/27dc2b2781d8ce78e5ec102e37d9997b-699b568f2f94c.jpg"
-      },
-      {
         "headline": "রমজানে নিত্যপণ্যের বাজারে ধাক্কা",
         "url": "https://dailynayadiganta.com/opinions/sub-editorial/6lJtoHrXzJT4/",
         "published_at": null,
@@ -475,6 +475,13 @@
         "published_at": null,
         "summary": "গত কয়েক দিনে বিএনপি নেতৃত্বাধীন সরকারের কর্মকাণ্ড থেকে মনে হচ্ছে যে, তারা দুটি পথের একটি বেছে নিতে পারে। প্রথমত, তারা জুলাই সনদকে সম্পূর্ণভাবে প্রত্যাখ্যান করতে পারে এই অজুহাতে যে, এর অনেক সুপারিশ সংবিধানের মৌলিক কাঠামোর পরিপন্থী। তাই এগুলো বাস্তবায়ন করা সম্ভব নয়। এটি হবে জুলাই সনদের চূড়ান্ত সমাপ্তি। দ্বিতীয়ত, তারা তাদের দুই-তৃতীয়াংশ সংখ্যাগরিষ্ঠতা দিয়ে সংবিধান সংশোধন করে জুলাই সনদ বাস্তবায়নের পথ বেছে নিতে পারে",
         "image_url": "https://media.ndiganta.com/images/Ehsan-A-Siddique.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "রুমিন ফারহানাকে শহীদ মিনারে শ্রদ্ধা নিবেদনে বাধা : ১৫০ জনের বিরুদ্ধে মামলা",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/zjRC8r5HG7Oz/",
+        "published_at": null,
+        "summary": "রোববার (২২ ফেব্রুয়ারি) দুপুরে আহাদ নামে ব্যারিস্টার রুমিন ফারহানার এক কর্মী বাদি হয়ে সরাইল থানায় মামলাটি দায়ের করেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Rumeen-Farhana_WUd8lwA.jpg"
       },
       {
         "headline": "৭.১ মাত্রার ভূমিকম্পে কাঁপল মালয়েশিয়া",
@@ -526,13 +533,6 @@
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "স্পোটিং উইকেটে খুশি শান্ত",
-        "url": "https://dailynayadiganta.com/printed-edition/CpJ4DwgUmfw6/",
-        "published_at": null,
-        "summary": "আজ থেকে শুরু হচ্ছে বাংলাদেশ ক্রিকেট লিগ (বিসিএল)। টুর্নামেন্টের উদ্বোধনী দিনে সকাল ৯টায় বগুড়ার শহীদ চাঁন্দু স্টেডিয়ামে পূর্বাঞ্চলের মুখোমুখি হবে নাজমুল হোসেন শান্তর উত্তরাঞ্চল। একই সময়ে রাজশাহীতে মুখোমুখি হবে দক্ষিণাঞ্চল ও মধ্যাঞ্চল।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
         "headline": "সাভারে প্রতিমন্ত্রী সালাউদ্দিন টুকুতারেক রহমানের নেতৃত্বে বাংলাদেশকে এগিয়ে নিতে চাই",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/YGX98CcHtCvq/",
         "published_at": null,
@@ -575,13 +575,6 @@
         "image_url": "https://media.ndiganta.com/original_images/Akhter_WFRqXRf.jpg"
       },
       {
-        "headline": "তারেক রহমানের নেতৃত্বে বাংলাদেশকে এগিয়ে নিতে চাই",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/kketvRHJ5qnp/",
-        "published_at": null,
-        "summary": "নবনিযুক্ত ক্যাডার কর্মকর্তাদের রাষ্ট্রের সেবক হিসেবে দায়িত্ব পালনের আহ্বান জানিয়ে প্রতিমন্ত্রী বলেন, “আপনারা রাষ্ট্রের কর্মকর্তা—কোনো ব্যক্তি বা দলের নন। রাষ্ট্রের স্বার্থ রক্ষাই আপনাদের প্রধান দায়িত্ব।” তিনি মাঠপর্যায়সহ উপজেলায় সততা, নিষ্ঠা ও পেশাদারিত্বের সঙ্গে দায়িত্ব পালনের নির্দেশনা দেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Savar-222.jpg"
-      },
-      {
         "headline": "আজকের সর্বশেষ খবর - February 23, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
@@ -594,6 +587,42 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+      },
+      {
+        "headline": "১৯ মাস পর গোপালগঞ্জে আ.লীগ কার্যালয়ে উড়ল জাতীয় ও দলীয় পতাকা",
+        "url": "https://www.prothomalo.com/video/bangladesh/u4uaev6n7n",
+        "published_at": "2026-02-22T15:39:15.221000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-02-22/mw1tlv7k/WEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/mw1tlv7k/WEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "হবিগঞ্জে সিলিকা বালু উত্তোলনকারীদের তালিকা তৈরির নির্দেশ",
+        "url": "https://www.ittefaq.com.bd/776180/%E0%A6%B9%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF%E0%A6%B0",
+        "published_at": null,
+        "summary": "হবিগঞ্জ জেলা-এ সিলিকা বালু উত্তোলনের সঙ্গে জড়িত ব্যক্তিদের তালিকা প্রস্তুত করে তাদের বিরুদ্ধে যথাযথ আইনগত ব্যবস্থা নেওয়ার নির্দেশ দিয়েছেন হাইকোর্ট। একই সঙ্গে আগামী তিন মাসের মধ্যে আদেশ বাস্তবায়নের অগ্রগতি প্রতিবেদন আদালতে দাখিল করতে বলা হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/12/17/e68bee9a5cd822ca8f20593de7ae197c-6942ce92c59fe.jpg"
+      },
+      {
+        "headline": "৭.১ মাত্রার ভূমিকম্পে কেঁপে উঠলো মালয়েশিয়া",
+        "url": "https://www.ittefaq.com.bd/776181/%E0%A7%AD.%E0%A7%A7-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A6%B2%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE",
+        "published_at": null,
+        "summary": "মালয়েশিয়ার বোর্নিও দ্বীপের সাবাহ অঙ্গরাজ্যের উপকূলে একটি শক্তিশালী ভূমিকম্প অনুভূত হয়েছে। যার মাত্রা রিখটার স্কেলে ৭.১ রেকর্ড করা হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/23/27dc2b2781d8ce78e5ec102e37d9997b-699b568f2f94c.jpg"
+      },
+      {
+        "headline": "স্পোটিং উইকেটে খুশি শান্ত",
+        "url": "https://dailynayadiganta.com/printed-edition/CpJ4DwgUmfw6/",
+        "published_at": null,
+        "summary": "আজ থেকে শুরু হচ্ছে বাংলাদেশ ক্রিকেট লিগ (বিসিএল)। টুর্নামেন্টের উদ্বোধনী দিনে সকাল ৯টায় বগুড়ার শহীদ চাঁন্দু স্টেডিয়ামে পূর্বাঞ্চলের মুখোমুখি হবে নাজমুল হোসেন শান্তর উত্তরাঞ্চল। একই সময়ে রাজশাহীতে মুখোমুখি হবে দক্ষিণাঞ্চল ও মধ্যাঞ্চল।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "তারেক রহমানের নেতৃত্বে বাংলাদেশকে এগিয়ে নিতে চাই",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/kketvRHJ5qnp/",
+        "published_at": null,
+        "summary": "নবনিযুক্ত ক্যাডার কর্মকর্তাদের রাষ্ট্রের সেবক হিসেবে দায়িত্ব পালনের আহ্বান জানিয়ে প্রতিমন্ত্রী বলেন, “আপনারা রাষ্ট্রের কর্মকর্তা—কোনো ব্যক্তি বা দলের নন। রাষ্ট্রের স্বার্থ রক্ষাই আপনাদের প্রধান দায়িত্ব।” তিনি মাঠপর্যায়সহ উপজেলায় সততা, নিষ্ঠা ও পেশাদারিত্বের সঙ্গে দায়িত্ব পালনের নির্দেশনা দেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Savar-222.jpg"
       },
       {
         "headline": "শার্ট, জিনস, জ্যাকেট বানাতে উত্তরা ইপিজেডে কারখানা করবে হংকংয়ের তিয়ানফোর্ড",
@@ -1455,38 +1484,6 @@
         "summary": "সেলস ম্যানেজার পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ করেছে ব্র্যাক আর্টিফিশিয়াল ইনসেমিনেশন এন্টারপ্রাইজ। এই কার্যক্রমের মাধ্যমে মানুষের টেকসই জীবিকা নিশ্চিত করার লক্ষ্যে কৃত্রিম প্রজনন ব্যবসার সম্প্রসারণে এই নিয়োগ দেওয়া হবে।",
         "image_s3_key": "prothomalo-bangla/2026-02-22/i7majwia/22.png",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/i7majwia/22.png?auto=format,compress"
-      },
-      {
-        "headline": "চাঁদার নতুন সংজ্ঞা: তবে কি ‘সকলি গরল ভেল’!",
-        "url": "https://www.prothomalo.com/opinion/column/qtnvsj7r3f",
-        "published_at": "2026-02-22T13:00:27.752000+00:00",
-        "summary": "একদা আওয়ামী লীগ সরকারের সবচেয়ে প্রবীণ, মেধাবী ও অভিজ্ঞ অর্থমন্ত্রী (‘রাবিশ’ ও ‘বোগাস’ শব্দ দুটো তাঁর ট্রেডমার্ক হয়ে গিয়েছিল) আদর করে ঘুষের নাম দিয়েছিলেন ‘স্পিড মানি’। ",
-        "image_s3_key": "prothomalo-bangla/2025-03-11/g89ladyj/moneyll.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-11/g89ladyj/moneyll.JPG?auto=format,compress"
-      },
-      {
-        "headline": "বদরের পথে যাত্রা, ফাতেমা (রা.)-এর বিদায়",
-        "url": "https://www.prothomalo.com/religion/islam/b9jr0fxtu1",
-        "published_at": "2026-02-22T13:00:00+00:00",
-        "summary": "৩ রমজান দিনটি বেশ বৈচিত্র্যময়। একদিকে এই দিনে ইসলামের প্রথম সশস্ত্র সংগ্রামের যাত্রা শুরু হয়, অন্যদিকে এই দিনেই পৃথিবীকে বিদায় জানিয়েছিলেন মহানবীর কন্যা ফাতিমা (রা.)।",
-        "image_s3_key": "prothomalo-bangla/2026-02-22/79akhdiq/camel-caravan-desert-xinjiang-china.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/79akhdiq/camel-caravan-desert-xinjiang-china.jpg?auto=format,compress"
-      },
-      {
-        "headline": "আমাকে টার্গেট করা হচ্ছে, ফেসবুকে কেন বললেন মেহজাবীন",
-        "url": "https://www.prothomalo.com/entertainment/tv/p2q22gxdqe",
-        "published_at": "2026-02-22T13:00:00+00:00",
-        "summary": "গত বছরের আগস্টে বিদেশ থেকে ফেরার সময় ঢাকার বিমানবন্দরে মেহজাবীনকে আটক করা হয়। অভিযোগ করা হয়, এ সময় তাঁর লাগেজে ১৪ বোতল মদ পাওয়া যায়। ",
-        "image_s3_key": "prothomalo-bangla/2025-11-17/3f3s2p2b/mehazabien17303790893490995287010165940245194425.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-17/3f3s2p2b/mehazabien17303790893490995287010165940245194425.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ইমাম হাসান হত্যা মামলায় আনুষ্ঠানিক অভিযোগ গঠন, সূচনা বক্তব্য ২৯ মার্চ",
-        "url": "https://www.prothomalo.com/bangladesh/q5s5f3dsdq",
-        "published_at": "2026-02-22T12:57:48.494000+00:00",
-        "summary": "পুলিশ কর্মকর্তার ছেলে ইমাম হাসানকে (তাইম) হত্যার ঘটনায় করা মানবতাবিরোধী অপরাধের মামলায় আনুষ্ঠানিক অভিযোগ গঠন করা হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2024-08-20/8jnl535r/imam 2.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-08-20/8jnl535r/imam 2.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -3043,6 +3040,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/22/og/1771771140-90ae9671dbd230deb71a1de291bb3962.jpg"
       },
       {
+        "headline": "সংসদ সদস্যের গাড়িবহরের ধাক্কায় শিশু মৃত্যুর ঘটনায় ইসলামী আন্দোলনের ক্ষোভ",
+        "url": "https://www.ittefaq.com.bd/776192/%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F",
+        "published_at": null,
+        "summary": "কক্সবাজার-২ আসনের বিএনপি দলীয় সংসদ সদস্য আলমগীর মোহাম্মাদ মাহফুজ উল্লাহ ফরিদের গাড়িবহরের চাপায় নুরানী মাদ্রাসার দ্বিতীয় শ্রেণীর শিক্ষার্থী খালিদ বিন ওয়ালিদের মৃত্যুতে ক্ষোভ ও শোক প্রকাশ করেছে ইসলামী আন্দোলন বাংলাদেশ।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/23/77adb98c6501b3eb79ef931e4a27d274-699b7d99104de.jpg"
+      },
+      {
         "headline": "আগামী স্থানীয় সরকার নির্বাচনে অংশ নেবে জাপা",
         "url": "https://www.ittefaq.com.bd/776189/%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A7%9F-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%85%E0%A6%82%E0%A6%B6-%E0%A6%A8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE",
         "published_at": null,
@@ -3104,13 +3108,6 @@
         "published_at": null,
         "summary": "হৃদরোগে আক্রান্ত হয়ে রাজধানীর ইউনাইটেড হাসপাতালের করোনারি কেয়ার ইউনিটে (সিসিইউ) ভর্তি হয়েছেন বিএনপির স্থায়ী কমিটির সদস্য ও সাবেক মন্ত্রী বেগম সেলিমা রহমান।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/47a97532a7b82221647ba64b1de9bca3-699ab656567cd.jpg"
-      },
-      {
-        "headline": "‘ইনকিলাব জিন্দাবাদ’ ইস্যুতে মন্ত্রীর বক্তব্য প্রত্যাহারের দাবি জামায়াতের",
-        "url": "https://www.ittefaq.com.bd/776076/%E2%80%98%E0%A6%87%E0%A6%A8%E0%A6%95%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%AC-%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E2%80%99-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF",
-        "published_at": null,
-        "summary": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদমন্ত্রী ইকবাল হাসান মাহমুদের ‘ইনকিলাব জিন্দাবাদ’ স্লোগান সম্পর্কিত মন্তব্যের তীব্র নিন্দা ও প্রতিবাদ জানিয়েছেন বাংলাদেশ জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল ও কেন্দ্রীয় প্রচার ও মিডিয়া বিভাগের প্রধান অ্যাডভোকেট এহসানুল মাহবুব জুবায়ের। শনিবার (২২ ফেব্রুয়ারি) এক বিবৃতিতে তিনি এ প্রতিক্রিয়া জানান।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/6d6482afdb7c9473dfdec38f0eaba31e-699ab1ff40d8c.jpg"
       },
       {
         "headline": "এনসিপির কেন্দ্রীয় নেতা কারাগারে",
@@ -3195,6 +3192,13 @@
         "published_at": null,
         "summary": "প্রথমবারের মতো নির্বাচনি এলাকা চট্টগ্রাম-১৫ (সাতকানিয়া-লোহাগাড়া) সফরে এসে পরিচ্ছন্নতা কার্যক্রমে অংশ নিয়েছেন নবনির্বাচিত সংসদ সদস্য শাহজাহান চৌধুরী। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "‘ইনকিলাব জিন্দাবাদ’ ইস্যুতে মন্ত্রীর বক্তব্য প্রত্যাহারের দাবি জামায়াতের",
+        "url": "https://www.ittefaq.com.bd/776076/%E2%80%98%E0%A6%87%E0%A6%A8%E0%A6%95%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%AC-%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6%E2%80%99-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF",
+        "published_at": null,
+        "summary": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদমন্ত্রী ইকবাল হাসান মাহমুদের ‘ইনকিলাব জিন্দাবাদ’ স্লোগান সম্পর্কিত মন্তব্যের তীব্র নিন্দা ও প্রতিবাদ জানিয়েছেন বাংলাদেশ জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল ও কেন্দ্রীয় প্রচার ও মিডিয়া বিভাগের প্রধান অ্যাডভোকেট এহসানুল মাহবুব জুবায়ের। শনিবার (২২ ফেব্রুয়ারি) এক বিবৃতিতে তিনি এ প্রতিক্রিয়া জানান।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/6d6482afdb7c9473dfdec38f0eaba31e-699ab1ff40d8c.jpg"
       },
       {
         "headline": "গণভোটকে অস্বীকার করা মানে জুলাই আন্দোলনকে অস্বীকার: রফিকুল ইসলাম খান",
@@ -4364,13 +4368,6 @@
         "published_at": "2026-02-21T10:50:23+06:00",
         "summary": "পাকিস্তানের খাইবার পাখতুনখোয়া ও পাঞ্জাবের বিভিন্ন এলাকায় ভূমিকম্প অনুভূত হয়েছে। রিখটার স্কেলে এর মাত্রা ৫ দশমিক ৯ ছিল বলে জানিয়েছে দেশটির আবহাওয়া অধিদপ্তর।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771649422-514146820d4874ef3fc8624920b3392f.jpg"
-      },
-      {
-        "headline": "এবার একুশ মুক্ত : মির্জা ফখরুল",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/02/21/1219370",
-        "published_at": "2026-02-21T00:38:34+06:00",
-        "summary": "ফ্যাসিস্ট শাসনের জাঁতাকলে একুশ অবরুদ্ধ ছিল উল্লেখ করে বিএনপি মহাসচিব ও স্থানীয় সরকারমন্ত্রী মির্জা ফখরুল ইসলাম আলমগীর বলেছেন, এবার একুশ মুক্ত। আমাদের অনুভূতি সেই জন্যেই একটু ভিন্ন রকম।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771612713-5319a8f5e10a31dc79024f8b675103e0.jpg"
       }
     ],
     "world": [
@@ -4765,6 +4762,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/22/og/1771771140-90ae9671dbd230deb71a1de291bb3962.jpg"
       },
       {
+        "headline": "মসজিদে নববীর নতুন ইমাম শেখ সালেহ আল-মাগামসি",
+        "url": "https://www.ittefaq.com.bd/776194/%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6%E0%A7%87-%E0%A6%A8%E0%A6%AC%E0%A6%AC%E0%A7%80%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%87%E0%A6%AE%E0%A6%BE%E0%A6%AE-%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B9-%E0%A6%86%E0%A6%B2-%E0%A6%AE%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%B8%E0%A6%BF",
+        "published_at": null,
+        "summary": "মসজিদে নববীর নতুন ইমাম হিসেবে নিয়োগ পেয়েছেন শেখ সালেহ বিন আওয়াদ আল-মাগামসি। সৌদি আরবে জারি হওয়া এক রাজকীয় আদেশে তাকে এ দায়িত্ব দেওয়া হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/23/72ecaa3ec6ac9de046bb780cf8f0a323-699b822526c5d.jpg"
+      },
+      {
         "headline": "৭.১ মাত্রার ভূমিকম্পে কেঁপে উঠলো মালয়েশিয়া",
         "url": "https://www.ittefaq.com.bd/776181/%E0%A7%AD.%E0%A7%A7-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A6%B2%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE",
         "published_at": null,
@@ -4826,13 +4830,6 @@
         "published_at": null,
         "summary": "পোশাকের দোকান থেকে বিকিনি চুরি করে কড়া সমালোচনার মুখে পড়েছেন অস্ট্রেলিয়ার এক মডেল। ইন্দোনেশিয়ার বালিতে ঘটেছে এই ঘটনা। অবশেষে এই ঘটনায় ‘ওনলিফ্যানস’ মডেল জেমা ডয়েল হাতজোড় করে ক্ষমা চেয়েছেন। খবর দ্য ইন্ডিপেন্ডেন্টের।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/3bdcbba69b5b5626e677e67d696e02fd-699aa85402ef6.jpg"
-      },
-      {
-        "headline": "প্রেমিকার যৌনাঙ্গ পুড়িয়ে দেওয়ার অভিযোগ যুবকের বিরুদ্ধে",
-        "url": "https://www.ittefaq.com.bd/776062/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A7%8C%E0%A6%A8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%AA%E0%A7%81%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0",
-        "published_at": null,
-        "summary": "ভারতের হরিয়ানার গুরুগ্রামে প্রেমিকের বিরুদ্ধে গুরুতর অভিযোগ এনেছেন দেশটির ত্রিপুরার এক তরুণী। অভিযোগ, বিয়ে নিয়ে আলোচনার সময় কথা কাটাকাটি হয় তাদের। তখনই তরুণীকে হেনস্থা করেন অভিযুক্ত।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/708fe3f6facf208c8b07d2896a2e644e-699a9c75e2225.jpg"
       },
       {
         "headline": "রমজানে নিত্যপণ্যের বাজারে ধাক্কা",
@@ -4973,6 +4970,13 @@
         "published_at": "1771634184",
         "summary": "যুক্তরাষ্ট্রের বাণিজ্য নীতিতে এক নজিরবিহীন নাটকীয়তা তৈরি হয়েছে। প্রেসিডেন্ট ডোনাল্ড ট্রাম্প কর্তৃক বাংলাদেশসহ বিশ্বের বিভিন্ন দেশের ওপর আরোপিত পাল্টা শুল্ককে অবৈধ ঘোষণা করেছেন দেশটির সুপ্রিম কোর্ট।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-2-20260221003624.jpg"
+      },
+      {
+        "headline": "প্রেমিকার যৌনাঙ্গ পুড়িয়ে দেওয়ার অভিযোগ যুবকের বিরুদ্ধে",
+        "url": "https://www.ittefaq.com.bd/776062/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A7%8C%E0%A6%A8%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%AA%E0%A7%81%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "ভারতের হরিয়ানার গুরুগ্রামে প্রেমিকের বিরুদ্ধে গুরুতর অভিযোগ এনেছেন দেশটির ত্রিপুরার এক তরুণী। অভিযোগ, বিয়ে নিয়ে আলোচনার সময় কথা কাটাকাটি হয় তাদের। তখনই তরুণীকে হেনস্থা করেন অভিযুক্ত।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/708fe3f6facf208c8b07d2896a2e644e-699a9c75e2225.jpg"
       },
       {
         "headline": "ইরান পরিস্থিতি নিয়ে উদ্বিগ্ন জাতিসঙ্ঘ",
@@ -5826,13 +5830,6 @@
         "published_at": "2026-02-21T20:41:39+06:00",
         "summary": "সুপার বোল হাফটাইম শোতে জমজমাট পারফরম্যান্সের পরপরই ভক্তদের আরেকটি সুখবর দিয়েছেন ব্যাড বানি। আর সেটি হল বড় পর্দায় ফিরছেন তিনি। এবার অবশ্য অতিথি চরিত্র বা পার্শ্ব কোনো চরিত্রে নয়, অন্যতম কেন্দ্রীয় চরিত্রে দেখা যাবে এই পুয়ের্তো রিকান র‍্যাপারকে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771684897-61fe7b8cd2d1566d44a7593ac95f4ddc.PNG"
-      },
-      {
-        "headline": "আগামী মাসে তিন দিনের সফরে চীন যাচ্ছেন ট্রাম্প: হোয়াইট হাউজ",
-        "url": "https://www.ittefaq.com.bd/775970/%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A7%80%E0%A6%A8-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
-        "published_at": null,
-        "summary": "২০১৭ সালে শেষ চীন সফরের পর চলতি বছরের ৩১ মার্চ থেকে ২ এপ্রিল পর্যন্ত চীন সফর করবেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। শুক্রবার (২০ ফেব্রুয়ারি) হোয়াইট হাউস এ তথ্য নিশ্চিত করেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/21/aa06fdb0fcec377ac554cc089e150e07-69998308755cd.jpg"
       }
     ],
     "business": [
