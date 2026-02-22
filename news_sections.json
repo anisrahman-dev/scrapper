@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-02-22T20:53:43.274243+00:00",
+  "fetched_at": "2026-02-22T21:22:48.195903+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "সাবেক স্বামীর বিরুদ্ধে শারীরিক নির্যাতনের অভিযোগ মডেল ইকরার",
+        "url": "https://www.prothomalo.com/entertainment/world-cinema/nfqza40n81",
+        "published_at": "2026-02-22T21:00:00+00:00",
+        "summary": "সাবেক স্বামী ও তাঁর পরিবারের বিরুদ্ধে গুরুতর অভিযোগ তুললেন পাকিস্তানি মডেল ইকরা নাসির সিদ্দিকি।",
+        "image_s3_key": "prothomalo-bangla/2026-02-22/yt8266xo/Screenshot-2026-02-22-143352.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/yt8266xo/Screenshot-2026-02-22-143352.jpg?auto=format,compress"
+      },
       {
         "headline": "রাজধানীতে ওয়ার্ড বিএনপির সাবেক নেতা ও জুতা ব্যবসায়ী গুলিবিদ্ধ",
         "url": "https://www.prothomalo.com/bangladesh/crime/lr1g9wrbag",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/tvhkpdyl/MoulavibazarDH075420260222Srimangal-news-pic-m10.jpg?auto=format,compress"
       },
       {
-        "headline": "‘আমার মেয়েরা আসতে চেয়েছিল, গিয়ে বলব, এটা এখনো একটা মৃত্যুপুরী’",
-        "url": "https://www.prothomalo.com/video/bangladesh/5vawtfldkh",
-        "published_at": "2026-02-22T15:16:55.731000+00:00",
-        "summary": "‘আমার মেয়েরা আসতে চেয়েছিল, গিয়ে বলব, এটা এখনো একটা মৃত্যুপুরী’",
-        "image_s3_key": "prothomalo-bangla/2026-02-22/dvpzj5bq/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/dvpzj5bq/WEB.jpg?auto=format,compress"
-      },
-      {
         "headline": "পুলিশে নতুন নেতৃত্বের দিকে তাকিয়ে সবাই",
         "url": "https://www.bd-pratidin.com/national/2026/02/23/1220160",
         "published_at": "2026-02-23T00:35:43+06:00",
@@ -393,6 +393,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/22/og/1771771140-90ae9671dbd230deb71a1de291bb3962.jpg"
       },
       {
+        "headline": "বোরকা-মাস্ক পরে বৈষম্যবিরোধী আন্দোলনের সমন্বয়ককে কুপিয়ে জখম",
+        "url": "https://www.ittefaq.com.bd/776186/%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%95-%E0%A6%AA%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A7%88%E0%A6%B7%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%B2%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%AC%E0%A7%9F%E0%A6%95%E0%A6%95%E0%A7%87",
+        "published_at": null,
+        "summary": "রাজধানীর মোহাম্মদপুরের বসিলা এলাকায় ইব্রাহিম খলিল শুভ নামে এক যুবককে কুপিয়ে জখম করেছে দুর্বৃত্তরা। তিনি বৈষম্যবিরোধী ছাত্র আন্দোলনের মোহাম্মদপুর থানার সমন্বয়ক এবং জুলাই হত্যা মামলার সাক্ষী।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/23/ba7154baec8d8e3197a157a6c6c2217a-699b695972c1a.jpg"
+      },
+      {
         "headline": "২৬ ফেব্রুয়ারি বইমেলা শুরু, থাকছে না ‘প্যাভিলিয়ন’",
         "url": "https://www.ittefaq.com.bd/776184/%E0%A7%A8%E0%A7%AC-%E0%A6%AB%E0%A7%87%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E2%80%98%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AD%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8%E2%80%99",
         "published_at": null,
@@ -454,13 +461,6 @@
         "published_at": null,
         "summary": "জাতির উদ্দেশে ভাষণ প্রধানমন্ত্রী তারেক রহমান পূর্ববর্তী প্রচলন থেকে সরে এসে দলীয় প্রতীক ও ব্যক্তিগত ছবি ছাড়া বক্তব্য রেখেছেন। বিষয়টি রাজনৈতিক মহলে বেশ প্রশংসিত হয়েছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/23/64e18a7b4f484c4042a17f76c8ba3ef2-699b4670aa138.jpg"
-      },
-      {
-        "headline": "বিশ্বকাপে সবচেয়ে বড় ব্যবধানে হারলো ভারত",
-        "url": "https://www.ittefaq.com.bd/776176/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%9C-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%8B-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4",
-        "published_at": null,
-        "summary": "দক্ষিণ আফ্রিকার ১৮৭ রান তাড়া করতে নেমে ভারত ১১১ রানে অলআউট হয়ে ম্যাচ হেরেছে ৭৬ রানে। ফলে সুপার এইটের প্রথম ম্যাচে জয় পেলো দক্ষিণ আফ্রিকা। টি–টুয়েন্টি বিশ্বকাপে রানের দিক থেকে ভারতের সবচেয়ে বড় হার এটি। এত দিন বড় হার ছিল ২০১০ বিশ্বকাপে ব্রিজটাউনে অস্ট্রেলিয়ার কাছে ৪৯ রানে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/be417fea0cb5048b873ef939a5a3de92-699b4397958e0.jpg"
       },
       {
         "headline": "রমজানে নিত্যপণ্যের বাজারে ধাক্কা",
@@ -592,7 +592,7 @@
         "headline": "আজকের সর্বশেষ খবর - February 23, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "হবিগঞ্জের বাহুবল উপজেলা বিএনপির সভাপতি ফেরদৌস আহমদ চৌধুরী তুষারের বিরুদ্ধে সামাজিক যোগাযোগমাধ্যমে আপত্তিকর ও অশ্লীল ভাষা ব্যবহারের অভিযোগে মামলা দায়ের ...",
+        "summary": "শেরপুরের নকলায় সরকারি নীতিমালা তোয়াক্কা না করে অবৈধভাবে সার মজুত ও চড়া মূল্যে বিক্রির অভিযোগে ২৬ টন ইউরিয়া সারসহ একটি ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -601,6 +601,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+      },
+      {
+        "headline": "‘আমার মেয়েরা আসতে চেয়েছিল, গিয়ে বলব, এটা এখনো একটা মৃত্যুপুরী’",
+        "url": "https://www.prothomalo.com/video/bangladesh/5vawtfldkh",
+        "published_at": "2026-02-22T15:16:55.731000+00:00",
+        "summary": "‘আমার মেয়েরা আসতে চেয়েছিল, গিয়ে বলব, এটা এখনো একটা মৃত্যুপুরী’",
+        "image_s3_key": "prothomalo-bangla/2026-02-22/dvpzj5bq/WEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/dvpzj5bq/WEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বিশ্বকাপে সবচেয়ে বড় ব্যবধানে হারলো ভারত",
+        "url": "https://www.ittefaq.com.bd/776176/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%B8%E0%A6%AC%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%9C-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%8B-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4",
+        "published_at": null,
+        "summary": "দক্ষিণ আফ্রিকার ১৮৭ রান তাড়া করতে নেমে ভারত ১১১ রানে অলআউট হয়ে ম্যাচ হেরেছে ৭৬ রানে। ফলে সুপার এইটের প্রথম ম্যাচে জয় পেলো দক্ষিণ আফ্রিকা। টি–টুয়েন্টি বিশ্বকাপে রানের দিক থেকে ভারতের সবচেয়ে বড় হার এটি। এত দিন বড় হার ছিল ২০১০ বিশ্বকাপে ব্রিজটাউনে অস্ট্রেলিয়ার কাছে ৪৯ রানে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/be417fea0cb5048b873ef939a5a3de92-699b4397958e0.jpg"
       },
       {
         "headline": "কক্সবাজারে এমপি আলমগীর ফরিদের গাড়িবহরের চাপায় এক শিশুর মৃত্যু",
@@ -1475,20 +1490,6 @@
         "published_at": "2026-02-22T18:56:51+06:00",
         "summary": "শিশু গৃহকর্মীকে গরম খুন্তি দিয়ে ছ্যাঁকা ও শারীরিক নির্যাতনের অভিযোগে জাহিদুল ইসলাম (৩৪) নামে এক চিকিৎসককে গ্রেফতার করেছে পুলিশ। এ ঘটনায় অভিযুক্তের স্ত্রী কৌশলে পালিয়ে গেছেন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/22/og/1771765010-2bb790be2b7b2a36a095a6fe55cd98a6.jpg"
-      },
-      {
-        "headline": "এলাকায় এসেই এমপি গেলেন স্বাস্থ্য কমপ্লেক্সে , খোঁজ নিলেন রোগীদের",
-        "url": "https://www.bd-pratidin.com/chayer-desh/2026/02/22/1219961",
-        "published_at": "2026-02-22T18:34:04+06:00",
-        "summary": "মৌলভীবাজার-৪ (শ্রীমঙ্গল–কমলগঞ্জ) আসনের নবনির্বাচিত সংসদ সদস্য মুজিবুর রহমান চৌধুরী শপথ গ্রহণ শেষে এই প্রথম এলাকায় এসেছেন। রবিবার দুপুরে শ্রীমঙ্গল চৌমুহনায় নির্ধারিত পথসভা বাতিল করে তিনি ছুটে যান উপজেলা স্বাস্থ্য কমপ্লেক্সে। দলীয় নেতাকর্মীদের বাইরে রেখে তিনি একাই ভেতরে প্রবেশ করেন। ওয়ার্ডে ওয়ার্ডে ঘুরে রোগীদের সঙ্গে কথা বলেন। জানতে চান তাদের অভিজ্ঞতা, অভিযোগ ও প্রত্যাশার কথা। এ সময় তিনি রোগীদের মাঝে এক প্যাকেট করে গরুর দুধ বিতরণ করেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/22/og/1771763643-d99119ca42e35bfa7fbc7fba9ab1d88a.jpg"
-      },
-      {
-        "headline": "কারাগারে থেকেই আইনজীবী সমিতি নির্বাচনের প্রার্থী ব্যারিস্টার সুমন",
-        "url": "https://www.ittefaq.com.bd/776154/%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80-%E0%A6%B8%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80",
-        "published_at": null,
-        "summary": "বাংলাদেশ সুপ্রিম কোর্ট আইনজীবী সমিতির (এসসিবিএ) ২০২৬-২৭ মেয়াদের নির্বাচন আগামী ১১ ও ১২ মার্চ অনুষ্ঠিত হবে। এবারের নির্বাচনে আওয়ামী সমর্থিত প্যানেল থেকে সম্পাদক পদে প্রার্থী হয়েছেন দেশের আলোচিত আইনজীবী ও সাবেক সংসদ সদস্য ব্যারিস্টার সৈয়দ সায়েদুল হক সুমন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/22/e74a22faf9a11b7e7316004fd99d934f-699b101d61e0a.jpg"
       }
     ],
     "bangladesh": [
@@ -3189,7 +3190,7 @@
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
         "url": "https://www.jugantor.com/bnp",
         "published_at": null,
-        "summary": "রাজধানীর কলাবাগান থানাধীন বসুন্ধরা শপিং কমপ্লেক্সের বিপরীতে জুতার মার্কেটের সামনে দুর্বৃত্তের গুলিতে মো. শফিকুর রহমান (৫৫) নামে এক বিএনপি নেতা ...",
+        "summary": "লক্ষ্মীপুর-২ আসনের নবনির্বাচিত সংসদ সদস্য আবুল খায়ের ভূঁইয়া বলেছেন, বিএনপির নাম ভাঙিয়ে কোনো ধরনের অপকর্ম করার সুযোগ নেই। কেউ যদি ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747294137-430161.jpg"
       },
       {
@@ -8846,6 +8847,14 @@
     ],
     "entertainment": [
       {
+        "headline": "সাবেক স্বামীর বিরুদ্ধে শারীরিক নির্যাতনের অভিযোগ মডেল ইকরার",
+        "url": "https://www.prothomalo.com/entertainment/world-cinema/nfqza40n81",
+        "published_at": "2026-02-22T21:00:00+00:00",
+        "summary": "সাবেক স্বামী ও তাঁর পরিবারের বিরুদ্ধে গুরুতর অভিযোগ তুললেন পাকিস্তানি মডেল ইকরা নাসির সিদ্দিকি।",
+        "image_s3_key": "prothomalo-bangla/2026-02-22/yt8266xo/Screenshot-2026-02-22-143352.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/yt8266xo/Screenshot-2026-02-22-143352.jpg?auto=format,compress"
+      },
+      {
         "headline": "ঈদে ফিরছে ‘ইমরান-শো: বকুল ও চন্দনে, গানের বন্ধনে’",
         "url": "https://www.prothomalo.com/entertainment/song/hiviwiq11a",
         "published_at": "2026-02-22T17:15:00+00:00",
@@ -9150,14 +9159,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-09-10/blkiatus/WhatsApp_Image_2025_09_10_at_7_59_28_PM.png?auto=format,compress"
       },
       {
-        "headline": "কৈশোরের ডায়েরি থেকে বিশ্বমঞ্চে, কীভাবে অলিভিয়া হয়ে উঠলেন পপ দুনিয়ার নতুন তারকা",
-        "url": "https://www.prothomalo.com/entertainment/song/x31chmc64j",
-        "published_at": "2026-02-20T12:45:00+00:00",
-        "summary": "এই সময়ের আলোচিত সংগীত তারকা অলিভিয়া রদ্রিগো। আজ ২০ ফেব্রুয়ারি সময়ের জনপ্রিয় এই পপ তারকার জন্মদিন। ",
-        "image_s3_key": "prothomalo-bangla/2026-02-20/zneems2l/smartcrop.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/zneems2l/smartcrop.jpg?auto=format,compress"
-      },
-      {
         "headline": "পুলিশে নতুন নেতৃত্বের দিকে তাকিয়ে সবাই",
         "url": "https://www.bd-pratidin.com/national/2026/02/23/1220160",
         "published_at": "2026-02-23T00:35:43+06:00",
@@ -9436,6 +9437,14 @@
         "published_at": "1770716984",
         "summary": "বিয়ের আশ্বাসে ধর্ষণ ও নির্যাতনের অভিযোগে আলোচিত কনটেন্ট ক্রিয়েটর আশরাফুল আলম ওরফে হিরো আলমের বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি করেছেন আদালত।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-13-20260210094944.jpg"
+      },
+      {
+        "headline": "কৈশোরের ডায়েরি থেকে বিশ্বমঞ্চে, কীভাবে অলিভিয়া হয়ে উঠলেন পপ দুনিয়ার নতুন তারকা",
+        "url": "https://www.prothomalo.com/entertainment/song/x31chmc64j",
+        "published_at": "2026-02-20T12:45:00+00:00",
+        "summary": "এই সময়ের আলোচিত সংগীত তারকা অলিভিয়া রদ্রিগো। আজ ২০ ফেব্রুয়ারি সময়ের জনপ্রিয় এই পপ তারকার জন্মদিন। ",
+        "image_s3_key": "prothomalo-bangla/2026-02-20/zneems2l/smartcrop.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/zneems2l/smartcrop.jpg?auto=format,compress"
       },
       {
         "headline": "দল ছাড়ার গুঞ্জনের ইতি টানলেন রোনালদো",
@@ -10296,13 +10305,6 @@
         "published_at": "2026-02-21T18:49:26+06:00",
         "summary": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে দুবাই থেকে আসা একটি ফ্লাইটে অত্যাধুনিক গ্যাসচালিত স্বয়ংক্রিয় এয়ার রাইফেলসহ নূর হোসেন নামে এক যাত্রীকে আটক করা হয়েছে। শুক্রবার (২০ ফেব্রুয়ারি) রাতে গোয়েন্দা তথ্যের ভিত্তিতে অভিযান চালিয়ে তাকে আটক করে বিমানবন্দর থানা পুলিশের কাছে হস্তান্তর করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771678165-0a243f43f61ed11b3e32ff9016859ebf.jpg"
-      },
-      {
-        "headline": "দায় স্বীকার করে জবানবন্দি দিলেন বিমানের সাবেক এমডির স্ত্রী",
-        "url": "https://www.bd-pratidin.com/national/2026/02/21/1219550",
-        "published_at": "2026-02-21T17:36:08+06:00",
-        "summary": "শিশু গৃহকর্মীকে নির্যাতনের ঘটনায় বিমান বাংলাদেশ এয়ারলাইনসের সাবেক এমডি সাফিকুর রহমানের স্ত্রী বিথী আদালতে দায় স্বীকার করে জবানবন্দি দিয়েছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/21/og/1771673767-d99119ca42e35bfa7fbc7fba9ab1d88a.jpg"
       }
     ],
     "jobs": [
