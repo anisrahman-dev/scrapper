@@ -1,13 +1,29 @@
 {
-  "fetched_at": "2026-02-25T20:34:01.510167+00:00",
+  "fetched_at": "2026-02-25T21:12:51.398574+00:00",
   "stories": [
+    {
+      "headline": "কক্সবাজারে গ্যাসপাম্পে বিস্ফোরণ, আগুন ছড়িয়ে দগ্ধ ১০, পুড়েছে ঘরবাড়ি-গাড়ি",
+      "url": "https://www.prothomalo.com/bangladesh/5ljdgbzvgv",
+      "published_at": "2026-02-25T20:43:51.411000+00:00",
+      "summary": "ঘটনাস্থলে গিয়ে দেখা গেছে, গ্যাসপাম্পের পাশে থাকা একটি গ্যারেজে অন্তত ৩০টি গাড়ি পুড়ে গেছে। গাড়িগুলো গ্যারেজে মেরামতের জন্য রাখা হয়েছিল।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/dii31wvf/rr.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/dii31wvf/rr.jfif?auto=format,compress"
+    },
+    {
+      "headline": "হাজারীবাগে অষ্টম শ্রেণির ছাত্রীকে ছুরিকাঘাতে হত্যা",
+      "url": "https://www.prothomalo.com/bangladesh/crime/f5140a25fj",
+      "published_at": "2026-02-25T20:40:44.020000+00:00",
+      "summary": "ঢাকা মেডিকেল কলেজ হাসপাতাল পুলিশ ফাঁড়ির ইনচার্জ পরিদর্শক মো. ফারুক জানান, ওই ছাত্রীর মরদেহ মর্গে রাখা হয়েছে। ঘটনাটি সংশ্লিষ্ট থানাকে জানানো হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2024-11-17/nikzmsws/prothomalo-bangla2021-1248cf0520-11ee-448a-a40c-9e3aaca1b7e6kill.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-11-17/nikzmsws/prothomalo-bangla2021-1248cf0520-11ee-448a-a40c-9e3aaca1b7e6kill.webp?auto=format,compress"
+    },
     {
       "headline": "ঢাবিতে লাঠি হাতে নারীর দিকে তেড়ে আসার ভিডিও ভাইরাল, তদন্তে তিন সদস্যের কমিটি",
       "url": "https://www.prothomalo.com/bangladesh/n2xrbrxrof",
       "published_at": "2026-02-25T20:14:12.708000+00:00",
       "summary": "ভিডিওতে ক্ষোভ প্রকাশ করে ওই নারীকে বলতে শোনা যায়, ‘ঢাকা বিশ্ববিদ্যালয়ের ছাত্র হয়ে আমার গায়ে কেন হাত তুলবে?’",
-      "image_s3_key": "prothomalo-bangla/2026-02-25/04q6iusz/Untitled-1.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/04q6iusz/Untitled-1.png?auto=format,compress"
+      "image_s3_key": "prothomalo-bangla/2026-02-25/tbqii7av/DU-Clash-01.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/tbqii7av/DU-Clash-01.png?auto=format,compress"
     },
     {
       "headline": "ব্যবসায়ী গভর্নর এই প্রথম",
@@ -306,22 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/ropj7um3/Web.jpg?auto=format,compress"
     },
     {
-      "headline": "সিডনির নিউক্যাসেলে অস্থায়ী শহীদ মিনারে একুশে পালন",
-      "url": "https://nagorik.prothomalo.com/durporobash/6uyo3g5wo9",
-      "published_at": "2026-02-25T15:57:03.821000+00:00",
-      "summary": "অস্ট্রেলিয়ার নিউক্যাসেলে প্রবাসী বাংলাদেশিদের উদ্যোগে ৩ দশমিক ৭ মিটার উচ্চতার কাঠের পূর্ণাঙ্গ শহীদ মিনার নির্মাণ করে আন্তর্জাতিক মাতৃভাষা দিবস পালন করা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-25/wma9uc7w/8.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/wma9uc7w/8.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "বরিশালে আইনজীবী সমিতির সভাপতি–সম্পাদকসহ ৯ আইনজীবীর প্রতি আদালত অবমাননার রুল",
-      "url": "https://www.prothomalo.com/bangladesh/kdsrkyvbpy",
-      "published_at": "2026-02-25T15:56:55.370000+00:00",
-      "summary": "আদালত অবমাননার জন্য কেন শাস্তি দেওয়া হবে না, তা রুলে জানতে চাওয়া হয়েছে। ১০ দিনের মধ্যে তাঁদের রুলের জবাব দিতে বলা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2025-12-20/qv0n62d1/১১.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-20/qv0n62d1/১১.jfif?auto=format,compress"
-    },
-    {
       "headline": "কক্সবাজারে গ্যাস পাম্পে বিস্ফোরণ, আহত ৬",
       "url": "https://www.bd-pratidin.com/country/2026/02/26/1221425",
       "published_at": "2026-02-26T00:47:01+06:00",
@@ -392,11 +392,18 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772025962-b1c9b944ededa7af713d5997193ffe3b.jpg"
     },
     {
+      "headline": "শিবিরের কেন্দ্রীয় কমিটিতে সাদিক-ফরহাদসহ ছাত্র সংসদগুলোর নেতারা",
+      "url": "https://www.ittefaq.com.bd/776651/%E0%A6%B6%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A7%9F-%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95-%E0%A6%AB%E0%A6%B0%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A6%B8%E0%A6%B9-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0",
+      "published_at": null,
+      "summary": "রাজধানীতে অনুষ্ঠিত অধিবেশনে ২০২৬ সেশনের জন্য কেন্দ্রীয় কার্যকরী পরিষদ ও সেক্রেটারিয়েট গঠন করেছে ইসলামী ছাত্রশিবির। মঙ্গলবার (২৪ ফেব্রুয়ারি) আল ফালাহ মিলনায়তনে কেন্দ্রীয় কার্যকরী পরিষদের প্রথম সাধারণ সভায় এ নির্বাচন ও গঠনপ্রক্রিয়া সম্পন্ন হয়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/cd54494cf0099bb7ea9b103ab27294fc-699f4f528bcb2.jpg"
+    },
+    {
       "headline": "চাঁদা না দেওয়ায় কারখানায় হামলা, ট্রাক এনে পণ্য লুটে জামায়াতের নিন্দা",
       "url": "https://www.ittefaq.com.bd/776650/%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95-%E0%A6%8F%E0%A6%A8%E0%A7%87-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF",
       "published_at": null,
-      "summary": "নারায়ণগঞ্জের রূপগঞ্জে চাঁদা না দেওয়ায় একটি রপ্তানিমুখী কারখানায় সশস্ত্র হামলা, ভাঙচুর ও পণ্য লুটের ঘটনায় গভীর উদ্বেগ ও নিন্দা প্রকাশ করেছে বাংলাদেশ জামায়াতে ইসলামী। বুধবার (২৫ ফেব্রুয়ারি) দলটির সহকারী সেক্রেটারি জেনারেল অ্যাডভোকেট এহসানুল মাহবুব জুবায়ের এক বিবৃতিতে এই প্রতিবাদ জানান।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/75c12f6b990a191077bb04fa9e0e55c8-699f4e66df5ab.jpg"
+      "summary": null,
+      "image_url": null
     },
     {
       "headline": "রাজধানীতে স্কুলছাত্রীকে কুপিয়ে হত্যা",
@@ -409,8 +416,8 @@
       "headline": "রমজানে ইসরায়েলি খেজুর বয়কটের ডাক কলকাতার ব্যবসায়ীদের",
       "url": "https://www.ittefaq.com.bd/776648/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%96%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%B0-%E0%A6%AC%E0%A6%AF%E0%A6%BC%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BE%E0%A6%95-%E0%A6%95%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0",
       "published_at": null,
-      "summary": "গাজায় সহিংসতার প্রতিবাদে পবিত্র রমজান মাসে ইসরায়েলি খেজুর বয়কটের ডাক দিয়েছেন কলকাতার ফল ব্যবসায়ীরা। পশ্চিমবঙ্গের সবচেয়ে বড় পাইকারি ফলের বাজার মেছুয়া ফলপট্টির ব্যবসায়ীরা সম্মিলিতভাবে এই সিদ্ধান্ত নিয়েছেন। তাদের মতে, মানবতার বিরুদ্ধে অবস্থান নেওয়া কোনো দেশের পণ্য এই পবিত্র মাসে বাজারে স্থান পাবে না।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/6c710f979a8b8498b73d3488838373a1-699f49c2725c5.jpg"
+      "summary": null,
+      "image_url": null
     },
     {
       "headline": "মোদিকে 'ভাই' ডাকলেন নেতানিয়াহু; মোদি বললেন, দৃঢ়ভাবে ইসরায়েলের পাশে আছি",
@@ -453,13 +460,6 @@
       "published_at": null,
       "summary": "নতুন সরকারের মন্ত্রী এবং উপদেষ্টাদের জন্য আরও সাতজন একান্ত সচিব (পিএস) ও সহকারী একান্ত সচিব (এপিএস) নিয়োগ দিয়েছে প্রশাসন। বুধবার (২৫ ফেব্রুয়ারি) জনপ্রশাসন মন্ত্রণালয় এবং আইন ও বিচার বিভাগ থেকে পৃথক প্রজ্ঞাপনের মাধ্যমে এই নিয়োগাদেশ জারি করা হয়।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/a49b722bbb3d86d9a0c42cfee69526d0-699f2f108e8e1.jpg"
-    },
-    {
-      "headline": "ভূমিকম্পে কাঁপলো রাজধানীসহ দেশের বিভিন্ন অঞ্চল",
-      "url": "https://www.ittefaq.com.bd/776641/%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%AA%E0%A6%B2%E0%A7%8B-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2",
-      "published_at": null,
-      "summary": "রাজধানীসহ দেশের বিভিন্ন এলাকায় ভূমিকম্প অনুভূত হয়েছে। বুধবার রাত ১০টা ৫১ মিনিট ৪৭ সেকেন্ডে এই ভূমিকম্প অনুভূত হয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/11/22/35170fbd041c7da5306c5aea60262f84-6921af2b75de2.jpg"
     },
     {
       "headline": "সড়কে ‘অদৃশ্য টোলপ্লাজা’",
@@ -600,6 +600,29 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "সিডনির নিউক্যাসেলে অস্থায়ী শহীদ মিনারে একুশে পালন",
+      "url": "https://nagorik.prothomalo.com/durporobash/6uyo3g5wo9",
+      "published_at": "2026-02-25T15:57:03.821000+00:00",
+      "summary": "অস্ট্রেলিয়ার নিউক্যাসেলে প্রবাসী বাংলাদেশিদের উদ্যোগে ৩ দশমিক ৭ মিটার উচ্চতার কাঠের পূর্ণাঙ্গ শহীদ মিনার নির্মাণ করে আন্তর্জাতিক মাতৃভাষা দিবস পালন করা হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/wma9uc7w/8.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/wma9uc7w/8.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "বরিশালে আইনজীবী সমিতির সভাপতি–সম্পাদকসহ ৯ আইনজীবীর প্রতি আদালত অবমাননার রুল",
+      "url": "https://www.prothomalo.com/bangladesh/kdsrkyvbpy",
+      "published_at": "2026-02-25T15:56:55.370000+00:00",
+      "summary": "আদালত অবমাননার জন্য কেন শাস্তি দেওয়া হবে না, তা রুলে জানতে চাওয়া হয়েছে। ১০ দিনের মধ্যে তাঁদের রুলের জবাব দিতে বলা হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2025-12-20/qv0n62d1/১১.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-20/qv0n62d1/১১.jfif?auto=format,compress"
+    },
+    {
+      "headline": "ভূমিকম্পে কাঁপলো রাজধানীসহ দেশের বিভিন্ন অঞ্চল",
+      "url": "https://www.ittefaq.com.bd/776641/%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%AA%E0%A6%B2%E0%A7%8B-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2",
+      "published_at": null,
+      "summary": "রাজধানীসহ দেশের বিভিন্ন এলাকায় ভূমিকম্প অনুভূত হয়েছে। বুধবার রাত ১০টা ৫১ মিনিট ৪৭ সেকেন্ডে এই ভূমিকম্প অনুভূত হয়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/11/22/35170fbd041c7da5306c5aea60262f84-6921af2b75de2.jpg"
     },
     {
       "headline": "‘দিনে দিনে আমরা জানি কেমন আবেগহীন হয়ে যাচ্ছি’",
@@ -1478,27 +1501,6 @@
       "published_at": null,
       "summary": "রাষ্ট্রপতি মো. সাহাবুদ্দিনকে অভিশংসন করে গ্রেপ্তারের দাবি জানিয়েছেন জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক ও বিরোধীদলীয় চিফ হুইপ মো. নাহিদ ইসলাম।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/1ac48dc8a9aac6d67b74514b0dcd4442-699ef7f6c103a.jpg"
-    },
-    {
-      "headline": "ইসিতে ছুটি বাতিল, বাড়তি সতর্কতার নির্দেশ",
-      "url": "https://www.ittefaq.com.bd/776608/%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদের শূন্য ঘোষিত বগুড়া-৬ ও শেরপুর-৩ আসনের উপ-নির্বাচন অবাধ, সুষ্ঠু ও শান্তিপূর্ণভাবে সম্পন্ন করতে বিশেষ অফিস আদেশ জারি করেছে নির্বাচন কমিশন (ইসি)। নির্বাচনী কার্যক্রম নির্বিঘ্ন রাখতে সংশ্লিষ্ট কর্মকর্তা-কর্মচারীদের সাপ্তাহিক ছুটি বাতিলসহ অফিস সময়ের পরেও দায়িত্ব পালনের নির্দেশ দেওয়া হয়েছে। আগামী ৯ এপ্রিল এ দুই আসনে ভোটগ্রহণ অনুষ্ঠিত হবে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2024/04/15/514828ea33bedcc52b2ffe7ba0909fab-661c9c645ff3e.jpg"
-    },
-    {
-      "headline": "ইসরায়েল পৌঁছালেন মোদি, স্বাগত জানালো নেতানিয়াহু",
-      "url": "https://www.ittefaq.com.bd/776607/%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A7%8B%E0%A6%A6%E0%A6%BF",
-      "published_at": null,
-      "summary": "দুই দিনের সরকারি সফরে ইসরায়েলে গেছেন ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি। বুধবার (২৫ ডিসেম্বর) তার বিমান বেন গুরিয়ন আন্তর্জাতিক বিমানবন্দরে অবতরণ করে। সেখানে তাকে স্বাগত জানান যুদ্ধাপরাধে অভিযুক্ত ইসরায়েলের প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহু। এ সময় নেতানিয়াহুর স্ত্রী সারা নেতানিয়াহুও উপস্থিত ছিলেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/abd8cdba9b073b96e3a28211f9b48805-699ef75cbd81a.jpg"
-    },
-    {
-      "headline": "ফটিকছড়িতে ট্রাফিক সার্জেন্টের ওপর চালকের হামলা, অভিযুক্ত আটক",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/8fGxElWstzAN/",
-      "published_at": null,
-      "summary": "আহত পুলিশ কর্মকর্তাকে উদ্ধার করে প্রাথমিক চিকিৎসা দেয়া হয়েছে। অন্যদিকে, ঘটনার পরপরই উপস্থিত জনতা ধাওয়া করে চালক আকবরকে ধরে ফেলেন এবং থানায় খবর দেন।",
-      "image_url": "https://media.ndiganta.com/original_images/IMG-20260225-WA0293.jpg"
     }
   ]
 }
