@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-02-25T22:30:59.600216+00:00",
+  "fetched_at": "2026-02-25T23:06:19.752200+00:00",
   "stories": [
+    {
+      "headline": "রমজানে যেভাবে কাটত নবীজির দিনকাল",
+      "url": "https://www.prothomalo.com/religion/islam/n2t1oapg4f",
+      "published_at": "2026-02-25T22:30:00+00:00",
+      "summary": "রমজানের আগ থেকে নবীজি রমজানের প্রস্তুতি নিতেন। রমজান শুরু হলে নিজেকে পুরোপুরি ইবাদতে মশগুল করে রাখতেন। শেষ দশকে নিজের পরিবারকে ইবাদতের জন্য জাগিয়ে দিতেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/nrvtz1g4/islamic-new-year-decoration-with-praying-beads-lantern.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/nrvtz1g4/islamic-new-year-decoration-with-praying-beads-lantern.jpg?auto=format,compress"
+    },
     {
       "headline": "মোদির ইসরায়েল সফর কেন\nগুরুত্বপূর্ণ",
       "url": "https://www.prothomalo.com/world/india/m3uk4egxz9",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/sx2qllof/641505945_1462110911950332_7303701425059117880_n.jpg?auto=format,compress"
     },
     {
-      "headline": "পিলখানা হত্যাকাণ্ডে শহীদ সেনা কর্মকর্তাদের রাষ্ট্রীয় শ্রদ্ধা | নতুন গভর্নর মোস্তাকুর রহমান",
-      "url": "https://www.prothomalo.com/video/bangladesh/z60lcuchkl",
-      "published_at": "2026-02-25T16:20:41.899000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-25/ct0xpp4o/AUDIO-NEWS-THUMB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/ct0xpp4o/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
-    },
-    {
       "headline": "হাজারীবাগে দুর্বৃত্তদের ছুরিকাঘাতে স্কুলছাত্রী নিহত",
       "url": "https://www.bd-pratidin.com/city-news/2026/02/26/1221422",
       "published_at": "2026-02-26T00:29:49+06:00",
@@ -392,6 +392,20 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772026270-d076f841ee81e3bc9d957b5a53cb441b.jpg"
     },
     {
+      "headline": "বাংলাদেশ ব্যাংকের ৩ কর্মকর্তাকে ঢাকার বাইরে বদলির সিদ্ধান্ত প্রত্যাহার",
+      "url": "https://www.ittefaq.com.bd/776655/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A7%A9-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A6%BF%E0%A6%B0",
+      "published_at": null,
+      "summary": "বাংলাদেশ ব্যাংকের তিন কর্মকর্তাকে ঢাকার বাইরে বদলির সিদ্ধান্ত বাতিল করা হয়েছে। বুধবার (২৫ ফেব্রুয়ারি) কেন্দ্রীয় ব্যাংকের মানবসম্পদ বিভাগ (এইচআরডি) থেকে জারি করা নির্দেশনায় এ তথ্য জানানো হয়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/1d299437882ac89f0ed0b16a992649a8-699f594fc9ce9.jpg"
+    },
+    {
+      "headline": "মন্ত্রিত্ব পেলেন বিএনপির গুলশান কার্যালয় বাড়ির মালিক",
+      "url": "https://www.ittefaq.com.bd/776654/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%B6%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%B0",
+      "published_at": null,
+      "summary": "রাজধানীর গুলশানে অবস্থিত বিএনপির চেয়ারপারসনের কার্যালয়টি গত দেড় দশকের রাজনৈতিক ইতিহাসের এক অবিচ্ছেদ্য অংশ। ২০০৮ সাল থেকে দলটির নীতিনির্ধারণী কার্যক্রমের কেন্দ্রবিন্দু হিসেবে ব্যবহৃত হওয়া এই বাড়িটি রাজনৈতিক নানা চড়াই-উতরাইয়ের সাক্ষী। সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার দীর্ঘ সময় এখানে কার্যত অবরুদ্ধ থাকা এবং বাড়িটির সামনে বালুর ট্রাক দিয়ে প্রতিবন্ধকতা সৃষ্টির মতো আলোচিত ঘটনাগুলো এই আঙিনাতেই ঘটেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1/uploads/media/2026/02/26/cd6da81eb6a227c0537dd6723d05ff57-699f55db98791.jpg"
+    },
+    {
       "headline": "নদী-খাল খননে ৮ সদস্যের সেল গঠন, মির্জা আব্বাস সভাপতি",
       "url": "https://www.ittefaq.com.bd/776653/%E0%A6%A8%E0%A6%A6%E0%A7%80-%E0%A6%96%E0%A6%BE%E0%A6%B2-%E0%A6%96%E0%A6%A8%E0%A6%A8%E0%A7%87-%E0%A7%AE-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B2-%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8",
       "published_at": null,
@@ -446,20 +460,6 @@
       "published_at": null,
       "summary": "দুই দিনের রাষ্ট্রীয় সফরে ইসরায়েল গিয়ে দেশটির সংসদ নেসেটে দেওয়া বক্তব্যে ইসরায়েলের প্রতি ভারতের জোরালো সমর্থনের কথা পুনর্ব্যক্ত করেছেন প্রধানমন্ত্রী নরেন্দ্র মোদি।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/9f9a8d26f4a26d7a3215322bdd9f1e09-699f452e3c252.jpg"
-    },
-    {
-      "headline": "৩৫ বিলিয়ন ডলার ছাড়ালো দেশের রিজার্ভ",
-      "url": "https://www.ittefaq.com.bd/776646/%E0%A7%A9%E0%A7%AB-%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD",
-      "published_at": null,
-      "summary": "দেশের বৈদেশিক মুদ্রার রিজার্ভে বড় ধরনের ইতিবাচক পরিবর্তন এসেছে। বর্তমানে মোট রিজার্ভ বেড়ে ৩৫ দশমিক ৩১ বিলিয়ন ডলারে দাঁড়িয়েছে বলে জানিয়েছে কেন্দ্রীয় ব্যাংক। বুধবার (২৫ ফেব্রুয়ারি) বাংলাদেশ ব্যাংকের নির্বাহী পরিচালক ও মুখপাত্র আরিফ হোসেন খান এ তথ্য নিশ্চিত করেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/8ca15d35e62cca6de20a0290de8ad721-699f408bec1c1.jpg"
-    },
-    {
-      "headline": "মাদারীপুরে রাতে টর্চলাইট জ্বালিয়ে দুই পক্ষের সংঘর্ষ, বোমা বিস্ফোরণ",
-      "url": "https://www.ittefaq.com.bd/776645/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%9F%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "মাদারীপুর সদর উপজেলার মস্তফাপুর ইউনিয়নে আধিপত্য বিস্তারকে কেন্দ্র করে দুই পক্ষের মধ্যে রক্তক্ষয়ী সংঘর্ষের ঘটনা ঘটেছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/bcd2d400bb53a7273bf6ff7525ac7ede-699f3cf42e653.jpg"
     },
     {
       "headline": "সড়কে ‘অদৃশ্য টোলপ্লাজা’",
@@ -591,7 +591,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 26, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ইসরাইল সফরের প্রথম দিনে দেশটির পার্লামেন্ট নেসেটে দেওয়া এক ঐতিহাসিক ভাষণে ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদি ইসরাইলের প্রতি তাঁর দেশের দৃঢ় ...",
+      "summary": "আঞ্চলিক ভূ-রাজনীতিতে উত্তেজনা বাড়িয়ে তাইওয়ানের মাত্র ১১০ কিলোমিটার দূরে অবস্থিত ইউনাগুনি দ্বীপে শক্তিশালী ক্ষেপণাস্ত্র ব্যবস্থা মোতায়েন করার ঘোষণা দিয়েছে ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -599,7 +599,29 @@
       "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
+      "headline": "পিলখানা হত্যাকাণ্ডে শহীদ সেনা কর্মকর্তাদের রাষ্ট্রীয় শ্রদ্ধা | নতুন গভর্নর মোস্তাকুর রহমান",
+      "url": "https://www.prothomalo.com/video/bangladesh/z60lcuchkl",
+      "published_at": "2026-02-25T16:20:41.899000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-02-25/ct0xpp4o/AUDIO-NEWS-THUMB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/ct0xpp4o/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "৩৫ বিলিয়ন ডলার ছাড়ালো দেশের রিজার্ভ",
+      "url": "https://www.ittefaq.com.bd/776646/%E0%A7%A9%E0%A7%AB-%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD",
+      "published_at": null,
+      "summary": "দেশের বৈদেশিক মুদ্রার রিজার্ভে বড় ধরনের ইতিবাচক পরিবর্তন এসেছে। বর্তমানে মোট রিজার্ভ বেড়ে ৩৫ দশমিক ৩১ বিলিয়ন ডলারে দাঁড়িয়েছে বলে জানিয়েছে কেন্দ্রীয় ব্যাংক। বুধবার (২৫ ফেব্রুয়ারি) বাংলাদেশ ব্যাংকের নির্বাহী পরিচালক ও মুখপাত্র আরিফ হোসেন খান এ তথ্য নিশ্চিত করেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/8ca15d35e62cca6de20a0290de8ad721-699f408bec1c1.jpg"
+    },
+    {
+      "headline": "মাদারীপুরে রাতে টর্চলাইট জ্বালিয়ে দুই পক্ষের সংঘর্ষ, বোমা বিস্ফোরণ",
+      "url": "https://www.ittefaq.com.bd/776645/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%9F%E0%A6%B0%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "মাদারীপুর সদর উপজেলার মস্তফাপুর ইউনিয়নে আধিপত্য বিস্তারকে কেন্দ্র করে দুই পক্ষের মধ্যে রক্তক্ষয়ী সংঘর্ষের ঘটনা ঘটেছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/bcd2d400bb53a7273bf6ff7525ac7ede-699f3cf42e653.jpg"
     },
     {
       "headline": "জগন্নাথ বিশ্ববিদ্যালয়ে দ্বিতীয় মেধাতালিকার ভর্তি ২৬ ফেব্রুয়ারি–৩ মার্চ",
@@ -1483,29 +1505,6 @@
       "summary": "পেঁয়াজু, তবে একটু অন্যরকম। ইফতারে যারা পেঁয়াজু খেতে ভালোবাসেন, এভাবে একবার বানিয়ে দেখতে পারেন। ",
       "image_s3_key": "prothomalo-bangla/2026-02-25/kuo9km57/IMGL3739.JPG",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/kuo9km57/IMGL3739.JPG?auto=format,compress"
-    },
-    {
-      "headline": "জাতীয় শহীদ সেনা দিবস উপলক্ষে পিলখানার শহীদদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর শ্রদ্ধা",
-      "url": "https://www.prothomalo.com/video/bangladesh/nlh4bqsrrc",
-      "published_at": "2026-02-25T12:00:44.659000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-25/0u328n7z/BARTA-SHONKHEP.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/0u328n7z/BARTA-SHONKHEP.jpg?auto=format,compress"
-    },
-    {
-      "headline": "অসংক্রামক রোগ: খাদ্য, ওষুধ ও সময়ের সমন্বয় জরুরি",
-      "url": "https://www.prothomalo.com/lifestyle/health/6z5u5fwl8m",
-      "published_at": "2026-02-25T12:00:00+00:00",
-      "summary": "সঠিক খাদ্য ব্যবস্থাপনা ও ওষুধের নিয়ম মেনে চললে অসংক্রামক রোগে আক্রান্ত ব্যক্তিরাও নিরাপদে রমজানের কল্যাণ লাভ করতে পারেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-25/7w81d9qn/alarm-glass-water-near-fruits.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/7w81d9qn/alarm-glass-water-near-fruits.jpg?auto=format,compress"
-    },
-    {
-      "headline": "নগদ ইসলামিক ওয়ালেট ব্যবহারে ওমরাহ পালনের সুযোগ",
-      "url": "https://www.bd-pratidin.com/corporate-corner/2026/02/25/1221217",
-      "published_at": "2026-02-25T18:53:28+06:00",
-      "summary": "পবিত্র রমজান মাস উপলক্ষে নগদ ইসলামিক ওয়ালেট ব্যবহারকারীদের জন্য বিশেষ ক্যাম্পেইন ঘোষণা করেছে নগদ। এই ক্যাম্পেইনের মাধ্যমে গ্রাহকরা পবিত্র ওমরাহ পালনের সুযোগ পাবেন বলে জানিয়েছে প্রতিষ্ঠানটি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772024007-eca57e9b31f051fc725b1c566613f4c7.jpg"
     }
   ]
 }
