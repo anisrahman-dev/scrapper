@@ -1,6 +1,126 @@
 {
-  "fetched_at": "2026-02-25T06:43:35.955383+00:00",
+  "fetched_at": "2026-02-25T07:55:20.802628+00:00",
   "stories": [
+    {
+      "headline": "সাবেক আইনমন্ত্রী আনিসুল হক জুলাইয়ের আরেকটি হত্যা মামলায় গ্রেপ্তার ",
+      "url": "https://www.prothomalo.com/bangladesh/v68no9a2gn",
+      "published_at": "2026-02-25T07:45:42.474000+00:00",
+      "summary": "পুলিশের আবেদনের পরিপ্রেক্ষিতে আজ ঢাকার মেট্রোপলিটন ম্যাজিস্ট্রেট হাসান শাহাদাত গ্রেপ্তার দেখানোর আদেশ দেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/ylhuny4w/Anisul-Huq.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/ylhuny4w/Anisul-Huq.avif?auto=format,compress"
+    },
+    {
+      "headline": "৪৪তম বিসিএসে শিক্ষা ক্যাডারে ২২ কর্মকর্তা যোগ দেননি, ৩২৬ জনকে নিয়োগে প্রজ্ঞাপন",
+      "url": "https://www.prothomalo.com/education/higher-education/j11hycxtuf",
+      "published_at": "2026-02-25T07:40:03.615000+00:00",
+      "summary": "৪৪তম বিসিএসে শিক্ষা ক্যাডারে সুপারিশপ্রাপ্ত ৩২৬ জন কর্মকর্তাকে বিভিন্ন কলেজে পদায়ন করে প্রজ্ঞাপন জারি করেছে শিক্ষা মন্ত্রণালয়।",
+      "image_s3_key": "prothomalo-bangla/2026-02-16/rr12jltf/1.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-16/rr12jltf/1.webp?auto=format,compress"
+    },
+    {
+      "headline": "নতুন আইজিপি আলী হোসেন ফকির দায়িত্ব নিলেন",
+      "url": "https://www.prothomalo.com/bangladesh/txc9vonsce",
+      "published_at": "2026-02-25T07:37:12.959000+00:00",
+      "summary": "আলী হোসেন ফকির সর্বশেষ অতিরিক্ত আইজিপি হিসেবে এপিবিএনে কর্মরত ছিলেন তিনি। তিনি বিদায়ী আইজিপি বাহারুল আলমের স্থলাভিষিক্ত হলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/sxl5utqi/Police-IGP.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/sxl5utqi/Police-IGP.webp?auto=format,compress"
+    },
+    {
+      "headline": "বিশ্বে খেজুর উৎপাদনে শীর্ষে কারা",
+      "url": "https://www.prothomalo.com/world/dfz0u0bj4j",
+      "published_at": "2026-02-25T07:27:37.887000+00:00",
+      "summary": "ওয়ার্ল্ড অ্যাটলাসের দেওয়া তথ্যের ভিত্তিতে বিশ্বের সবচেয়ে বেশি খেজুর উৎপাদনকারী ১০ দেশ সম্পর্কে তুলে ধরা হলো।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/56tj11mc/Oman_Date.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/56tj11mc/Oman_Date.jpg?auto=format,compress"
+    },
+    {
+      "headline": "‘প্রেশার কুকার’ নিয়ে আসছেন তুষি",
+      "url": "https://www.prothomalo.com/entertainment/dhallywood/qvd0smvy69",
+      "published_at": "2026-02-25T07:15:00+00:00",
+      "summary": "পবিত্র ঈদুল ফিতরে মুক্তি পাচ্ছে নাজিফা তুষি অভিনীত সিনেমা ‘প্রেশার কুকার’। ইনস্টাগ্রাম থেকে নেওয়া ছবিতে তাঁকে নিয়ে থাকল আরও তথ্য।",
+      "image_s3_key": "prothomalo-bangla/2026-02-24/tgb7ssrd/nazifatushi.soul177192171338394786004836019851635144621.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/tgb7ssrd/nazifatushi.soul177192171338394786004836019851635144621.jpg?auto=format,compress"
+    },
+    {
+      "headline": "চাঁদা ‘না দেওয়ায়’ কারখানা ভাঙচুর, ট্রাক এনে পণ্য লুট ",
+      "url": "https://www.prothomalo.com/bangladesh/e5tapuif0o",
+      "published_at": "2026-02-25T07:12:25.618000+00:00",
+      "summary": "কারখানার মালিক একজন শারীরিক প্রতিবন্ধী। ভাঙচুরের অভিযোগ বিএনপির স্থানীয় কিছু নেতা-কর্মীর বিরুদ্ধে। ",
+      "image_s3_key": "prothomalo-bangla/2026-02-24/qfbel32y/Capture.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/qfbel32y/Capture.PNG?auto=format,compress"
+    },
+    {
+      "headline": "পিলখানা হত্যাকাণ্ডের ঘটনায় নতুন করে তদন্ত কমিশন হবে না: স্বরাষ্ট্রমন্ত্রী",
+      "url": "https://www.prothomalo.com/bangladesh/utn9qwisni",
+      "published_at": "2026-02-25T07:04:05.963000+00:00",
+      "summary": "আজ বুধবার ‘জাতীয় শহীদ সেনা দিবস’ উপলক্ষে রাজধানীর বনানীর সামরিক কবরস্থানে শহীদ সেনা কর্মকর্তাদের প্রতি শ্রদ্ধা নিবেদন শেষে সাংবাদিকদের এ কথা বলেন স্বরাষ্ট্রমন্ত্রী।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/v42mu4s4/Salahuddin-Ahmed.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/v42mu4s4/Salahuddin-Ahmed.webp?auto=format,compress"
+    },
+    {
+      "headline": "চুয়েটে স্নাতক প্রথম বর্ষের ভর্তি শুরু, ফি ১৮ হাজার ৫০০ টাকা",
+      "url": "https://www.prothomalo.com/education/admission/b342mcpwtp",
+      "published_at": "2026-02-25T07:01:47.198000+00:00",
+      "summary": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ে (চুয়েট) ২০২৫-২৬ শিক্ষাবর্ষের প্রথম পর্যায়ের ভর্তি কার্যক্রম আজ বুধবার অনুষ্ঠিত হবে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/gv1r3hdq/WhatsApp-Image-2026-02-25-at-12.55.47.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/gv1r3hdq/WhatsApp-Image-2026-02-25-at-12.55.47.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "অন্তর্বর্তী সরকারের অধ্যাদেশগুলোর কি ‘মৃত্যু’ আসন্ন?\n",
+      "url": "https://www.prothomalo.com/opinion/column/os0kcdxheb",
+      "published_at": "2026-02-25T07:01:06.017000+00:00",
+      "summary": "বিলুপ্ত অন্তর্বর্তীকালীন সরকার অতি উৎসাহী হয়ে ডজন ডজন অধ্যাদেশ জারি করেছিল। আইন মন্ত্রণালয়ের ওয়েবসাইট বলছে, ২০২৬ সালের প্রথম দেড় মাসে, অর্থাৎ ১৫ ফেব্রুয়ারি পর্যন্ত ৪৫ দিনে সরকার ৩৬টি অধ্যাদেশ জারি করে। অর্থাৎ গড়ে প্রতি দেড় দিনের কম সময়ে একটি অধ্যাদেশ জারি করা হয়েছিল।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/9vhzmj0s/24.2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/9vhzmj0s/24.2.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আল-আজহার মসজিদের যাত্রা, ভূমধ্যসাগরে অভিযান",
+      "url": "https://www.prothomalo.com/religion/islam/rywv77xpf2",
+      "published_at": "2026-02-25T07:00:00+00:00",
+      "summary": "এই দিনে ফাতেমি সেনাপতি জওহর আল-সিকিল্লির তত্ত্বাবধানে নির্মিত আল-আজহার মসজিদে প্রথমবারের মতো জামাতে নামাজ এবং আজান অনুষ্ঠিত হয়। ",
+      "image_s3_key": "prothomalo-bangla/2026-02-24/n9evn6pe/people-celebrating-ramadan-together.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/n9evn6pe/people-celebrating-ramadan-together.jpg?auto=format,compress"
+    },
+    {
+      "headline": "এআই সম্মেলনে খালি গায়ে বিক্ষোভ, কংগ্রেসের বিরুদ্ধে কোমর বেঁধে নেমেছে বিজেপি ",
+      "url": "https://www.prothomalo.com/world/india/lvsrfivbfr",
+      "published_at": "2026-02-25T06:57:58.607000+00:00",
+      "summary": "রাহুল গান্ধী গ্রেপ্তার ব্যক্তিদের পাশে দাঁড়িয়েছেন। যুব কংগ্রেসের বিক্ষোভকারীদের ‘বব্বর শের’ (ভয়ংকর সাহসী সিংহ) অভিহিত করে বলেছেন, ‘তাঁদের জন্য আমি গর্বিত।’",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/dua6sqmz/Untitled-1.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/dua6sqmz/Untitled-1.png?auto=format,compress"
+    },
+    {
+      "headline": "চাঁদপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ে বিভিন্ন গ্রেডে চাকরি, পদ ১১",
+      "url": "https://www.prothomalo.com/chakri/employment/ohu1v2cly4",
+      "published_at": "2026-02-25T06:56:44.101000+00:00",
+      "summary": "চাঁদপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ে তৃতীয় থেকে ২০তম গ্রেডের ৭ ক্যাটাগরির পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ করা হয়েছে। মোট পদসংখ্যা ১১।",
+      "image_s3_key": "prothomalo-bangla/2021-07/f8e577c4-a284-45f4-92c1-df182a081362/3______hand.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-07/f8e577c4-a284-45f4-92c1-df182a081362/3______hand.JPG?auto=format,compress"
+    },
+    {
+      "headline": "মিরসরাইয়ে কৃষকের পা বাঁধা লাশ উদ্ধার, শরীরে ধারালো অস্ত্রের ক্ষত",
+      "url": "https://www.prothomalo.com/bangladesh/district/dwz7h000gg",
+      "published_at": "2026-02-25T06:45:53.793000+00:00",
+      "summary": "চট্টগ্রামের মিরসরাইয়ে গামছা দিয়ে পা বাঁধা অবস্থায় এক কৃষকের লাশ উদ্ধার করেছে পুলিশ। আজ বুধবার সকাল ১০টায় উপজেলার জোরারগঞ্জ থানা এলাকার দুর্গাপুর ইউনিয়নের পূর্ব দুর্গাপুর গ্রামে এ ঘটনা ঘটে।",
+      "image_s3_key": "prothomalo-bangla/2026-01-23/v0i11hbq/১.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/v0i11hbq/১.avif?auto=format,compress"
+    },
+    {
+      "headline": "স্ত্রী-ছেলের পর মারা গেলেন দগ্ধ ব্যবসায়ী, মৃত্যু বেড়ে ৫",
+      "url": "https://www.prothomalo.com/bangladesh/district/vgp4s2tzjl",
+      "published_at": "2026-02-25T06:42:10.515000+00:00",
+      "summary": "বিস্ফোরণটি কী কারণে হয়েছে, তা নিশ্চিত হতে পারেনি ফায়ার সার্ভিস ও আইনশৃঙ্খলা রক্ষাকারী বাহিনী। ফায়ার সার্ভিসের ধারণা, রান্নার চুলা থেকে গ্যাস লিকেজের কারণে এ দুর্ঘটনা ঘটেছে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/1bbhrmhr/WhatsApp-Image-2026-02-25-at-12.28.23.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/1bbhrmhr/WhatsApp-Image-2026-02-25-at-12.28.23.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "১৫টি পদের আটটিতেই আওয়ামীপন্থী জয়ী, বিএনপির জয় ছয়টিতে",
+      "url": "https://www.prothomalo.com/bangladesh/district/113tc565vt",
+      "published_at": "2026-02-25T06:41:30.741000+00:00",
+      "summary": "গতকাল সকাল ৯টায় এ নির্বাচনের ভোট গ্রহণ শুরু হয়। পরে দিবাগত রাত ৩টায় প্রধান নির্বাচন কমিশনার এ কে এম হুমায়ুন কবির এ ফলাফল ঘোষণা করেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-25/cn2y50xk/80feb512-647e-4a40-ad57-12445a16e7bd.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/cn2y50xk/80feb512-647e-4a40-ad57-12445a16e7bd.jfif?auto=format,compress"
+    },
     {
       "headline": "সেমিফাইনালে উঠতে পাকিস্তানকে প্রার্থনার সঙ্গে যা করতে হবে",
       "url": "https://www.prothomalo.com/sports/cricket/szkf0r1gyr",
@@ -14,8 +134,8 @@
       "url": "https://www.prothomalo.com/world/usa/6qq2kfdbyw",
       "published_at": "2026-02-25T06:23:40.256000+00:00",
       "summary": "এটি ট্রাম্পের দ্বিতীয় মেয়াদের প্রথম ‘স্টেট অব দ্য ইউনিয়ন’ ভাষণ। তবে গুরুত্বপূর্ণ এ ভাষণেও তিনি যথারীতি নানা সত্য–মিথ্যা দাবি ও অভিযোগ করেছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-25/2o51ogmo/state-of-union-address-01.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/2o51ogmo/state-of-union-address-01.jpg?auto=format,compress"
+      "image_s3_key": "prothomalo-bangla/2026-02-25/no0ez3qe/Trump.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/no0ez3qe/Trump.jpg?auto=format,compress"
     },
     {
       "headline": "প্রসিকিউটর সুলতানকে সরাতে দেড় মাস আগে চিঠি দিয়েছিলেন তাজুল",
@@ -50,20 +170,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-08/c7ab4002-b3f0-4012-823a-655ca6ee5cec/_HSL1004.JPG?auto=format,compress"
     },
     {
-      "headline": "কিশোরীর চুল পড়া নিয়ে বিশেষজ্ঞের পরামর্শ জানুন",
-      "url": "https://www.prothomalo.com/lifestyle/health/pemdywwb52",
-      "published_at": "2026-02-25T06:00:00+00:00",
-      "summary": "কয়েক মাস ধরে আমার চুল কেমন যেন নষ্ট হয়ে যাচ্ছে। লালচে দেখাচ্ছে। অতিরিক্ত চুল পড়া শুরু হয়েছে, আগে যা ছিল না।",
-      "image_s3_key": "prothomalo-bangla/2022-08/fbcad9b7-3d8b-4d41-9c32-069de16b9dfa/_SY_9461.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-08/fbcad9b7-3d8b-4d41-9c32-069de16b9dfa/_SY_9461.JPG?auto=format,compress"
-    },
-    {
       "headline": "অনেক টাকা আয় করলেও শেষে কিছুই থাকে না, শিল্পীদের সতর্ক করলেন তামান্না",
       "url": "https://www.prothomalo.com/entertainment/bollywood/n4x48hu620",
       "published_at": "2026-02-25T06:00:00+00:00",
       "summary": " দুই দশকের বেশি সময় ধরে ভারতীয় সিনেমায় সক্রিয় তামান্না ভাটিয়া। মাত্র ১৫ বছর বয়সে অভিনয়জীবন শুরু করা এই অভিনেত্রী আজ প্রতিষ্ঠিত তারকা। ",
       "image_s3_key": "prothomalo-bangla/2026-02-24/sx0d2vzm/tamannaahspeaks175577644337040437288781235361060870984.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/sx0d2vzm/tamannaahspeaks175577644337040437288781235361060870984.jpg?auto=format,compress"
+    },
+    {
+      "headline": "কিশোরীর চুল পড়া নিয়ে বিশেষজ্ঞের পরামর্শ জানুন",
+      "url": "https://www.prothomalo.com/lifestyle/health/pemdywwb52",
+      "published_at": "2026-02-25T06:00:00+00:00",
+      "summary": "কয়েক মাস ধরে আমার চুল কেমন যেন নষ্ট হয়ে যাচ্ছে। লালচে দেখাচ্ছে। অতিরিক্ত চুল পড়া শুরু হয়েছে, আগে যা ছিল না।",
+      "image_s3_key": "prothomalo-bangla/2022-08/fbcad9b7-3d8b-4d41-9c32-069de16b9dfa/_SY_9461.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-08/fbcad9b7-3d8b-4d41-9c32-069de16b9dfa/_SY_9461.JPG?auto=format,compress"
     },
     {
       "headline": "সাগরে এক জালে ধরা পড়ল এত্তগুলো লাল কোরাল, ৩১ লাখ টাকায় বিক্রি",
@@ -178,6 +298,245 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-04-29/lvcp2yde/159.jpeg?auto=format,compress"
     },
     {
+      "headline": "আমের বাগানে মুকুলের ঘ্রাণ ছড়িয়েছে, বাম্পার ফলনের আশা নওগাঁর চাষিদের",
+      "url": "https://www.prothomalo.com/video/bangladesh/jjh1ezti5z",
+      "published_at": "2026-02-25T05:00:00+00:00",
+      "summary": "আমের বাগানে মুকুলের ঘ্রাণ ছড়িয়েছে, বাম্পার ফলনের আশা নওগাঁর চাষিদের\n",
+      "image_s3_key": "prothomalo-bangla/2026-02-24/ooh9v8f8/Naogan-mango.00033716.Still002.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/ooh9v8f8/Naogan-mango.00033716.Still002.jpg?auto=format,compress"
+    },
+    {
+      "headline": "কালীগঞ্জে রেললাইনের পাশ থেকে যুবকের মরদেহ উদ্ধার",
+      "url": "https://www.bd-pratidin.com/country/2026/02/25/1221110",
+      "published_at": "2026-02-25T13:41:47+06:00",
+      "summary": "ঝিনাইদহের কালীগঞ্জে রেললাইনের পাশ থেকে অজ্ঞাত এক যুবকের মরদেহ উদ্ধার করেছে পুলিশ। আজ বুধবার সকালে উপজেলার বারবাজার এলাকা থেকে আনুমানিক ২০/২১ বছর বয়সী ওই যুবকের লাশ উদ্ধার করা হয়।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772005306-57ab9ff217e436736bf42b65fe5e2a18.jpg"
+    },
+    {
+      "headline": "তুরস্কে এফ-১৬ যুদ্ধবিমান বিধ্বস্ত, পাইলট নিহত",
+      "url": "https://www.bd-pratidin.com/international-news/2026/02/25/1221108",
+      "published_at": "2026-02-25T13:38:25+06:00",
+      "summary": "তুরস্কে মার্কিন যুদ্ধবিমান এফ-১৬ বিধ্বস্ত হয়ে পাইলট নিহত হয়েছেন। মঙ্গলবার দিবাগত গভীর রাতে উড্ডয়নের কিছুক্ষণের মধ্যেই ওই দুর্ঘটনা ঘটে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772005104-d0faa19f6ad17b4af2880ed0d791a498.jpg"
+    },
+    {
+      "headline": "ফুলবাড়ীতে ট্রাকচাপায় ভ্যানচালকসহ দুইজন নিহত",
+      "url": "https://www.bd-pratidin.com/country/2026/02/25/1221105",
+      "published_at": "2026-02-25T13:30:09+06:00",
+      "summary": "দিনাজপুর-গোবিন্দগঞ্জ মহাসড়কে ফুলবাড়ীতে ট্রাকচাপায় নিহত হয়েছেন। বুধবার সকাল ৮টার দিকে উপজেলার আলাদীপুর ইউনিয়নের বলিহরপুর এলাকায় এই দুর্ঘটনা ঘটে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772004608-cf5793938b321b67b3b667655b375703.jpg"
+    },
+    {
+      "headline": "নতুন এমপিদের উপহার দিয়ে বিপাকে জাপানের প্রধানমন্ত্রী",
+      "url": "https://www.bd-pratidin.com/international-news/2026/02/25/1221104",
+      "published_at": "2026-02-25T13:29:13+06:00",
+      "summary": "নতুন নির্বাচিত সংসদ সদস্যদের (এমপি) উপহার দিয়ে চাপের মুখে পড়েছেন জাপানের প্রধানমন্ত্রী সানা তাকাইচি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772004553-579d4da9cbc045735d70cfc7cec6a91d.jpg"
+    },
+    {
+      "headline": "নব্বই দশকের সেই ‘দ্য এক্স ফাইলস’ ফিরছে নতুন রূপে",
+      "url": "https://www.bd-pratidin.com/entertainment/2026/02/25/1221102",
+      "published_at": "2026-02-25T13:19:44+06:00",
+      "summary": "নব্বই দশকের জনপ্রিয় সায়েন্স ফিকশন ও থ্রিলার ঘরানার জনপ্রিয় সিরিজ ‘দ্য এক্স ফাইলস’ পর্দায় ফিরছে নতুন রূপে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772003983-4f6fa2948e662ff1a62f42a969bc7d74.jpg"
+    },
+    {
+      "headline": "পিলখানায় নিহত সেনাদের প্রতি বিএনপির শ্রদ্ধা",
+      "url": "https://www.bd-pratidin.com/national/2026/02/25/1221099",
+      "published_at": "2026-02-25T13:11:02+06:00",
+      "summary": "জাতীয় শহীদ সেনা দিবস উপলক্ষে বনানী সামরিক বাহিনী কবরস্থানে বিএনপির পক্ষ থেকে শ্রদ্ধা নিবেদন করেন দলের মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772003461-834bfb34c430873bcbe148e423881315.jpg"
+    },
+    {
+      "headline": "রাজধানীতে প্রকোপ বেড়েছে কিউলেক্স মশার, গবেষণায় উদ্বেগজনক চিত্র",
+      "url": "https://www.bd-pratidin.com/city-news/2026/02/25/1221098",
+      "published_at": "2026-02-25T13:04:12+06:00",
+      "summary": "আবহাওয়ার পরিবর্তনের প্রভাবে রাজধানীতে হঠাৎ কিউলেক্স মশার উপদ্রব বেড়েছে। পাশাপাশি এডিস মশাবাহিত রোগে গত দুই মাসে চারজনের মৃত্যু হয়েছে। আক্রান্ত হয়েছেন প্রায় দেড় হাজার ব্যক্তি। এমন পরিস্থিতিতে সারা বছরব্যাপী মশক নিধন কর্মসূচি জোরদারের তাগিদ দিয়েছেন জনস্বাস্থ্য বিশেষজ্ঞরা।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772003052-0fe2139b6f9163c35648cb82bdd0a4d0.jpg"
+    },
+    {
+      "headline": "ফিতরার হার নির্ধারণ : জনপ্রতি সর্বনিম্ন ১১০, সর্বোচ্চ ২৮০৫ টাকা",
+      "url": "https://www.bd-pratidin.com/islam/2026/02/25/1221096",
+      "published_at": "2026-02-25T12:57:48+06:00",
+      "summary": "১৪৪৭ হিজরি সনের রমজান মাসে ফিতরার হার নির্ধারণ করেছে জাতীয় সাদাকাতুল ফিতর নির্ধারণ কমিটি। এ বছরের ফিতরা জনপ্রতি সর্বনিম্ন ১১০ টাকা এবং সর্বোচ্চ ২ হাজার ৮০৫ টাকা নির্ধারণ করা হয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772003036-240fce4ea2e53990734288d8f6e1d3ed.jpg"
+    },
+    {
+      "headline": "ডাকাতি হওয়া ড্রাম ভর্তি তেলের ট্রাক উদ্ধার, দুইজন গ্রেফতার",
+      "url": "https://www.bd-pratidin.com/country/2026/02/25/1221093",
+      "published_at": "2026-02-25T12:51:50+06:00",
+      "summary": "নারায়ণগঞ্জের রূপগঞ্জে ডাকাতি হওয়া ড্রাম ভর্তি তেলের ট্রাক উদ্ধার করেছে পুলিশ। এসময় ডাকাতদের ব্যবহৃত ধারালো অস্ত্রসহ দুই ডাকাতকে গ্রেফতার করা হয়।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772002310-f8e41930242c9d359023ad7b66343882.jpg"
+    },
+    {
+      "headline": "বিএনপি নেতা জয়নুল আবদিনের সহধর্মিণী কানিজ ফাতেমা আর নেই",
+      "url": "https://www.bd-pratidin.com/national/2026/02/25/1221091",
+      "published_at": "2026-02-25T12:48:41+06:00",
+      "summary": "বিএনপির ভাইস-চেয়ারম্যান ও সাবেক বিরোধীদলীয় চিফ হুইপ জয়নুল আবদিন ফারুকের সহধর্মিণী কানিজ ফাতেমা (৭০) আর নেই (ইন্নালিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন)।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1772002730-69405d3b2077e6da844aebd727d723cb.jpg"
+    },
+    {
+      "headline": "জুলাই অভ্যুত্থানে হতাহতদের তালিকা পুনর্মূল্যায়ন হবে: ইশরাক",
+      "url": "https://www.ittefaq.com.bd/776550/%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%85%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%A4%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8",
+      "published_at": null,
+      "summary": "জুলাই গণ-অভ্যুত্থানে হতাহতদের তালিকা পুনর্মূল্যায়ন করা হবে বলে জানিয়েছেন মুক্তিযুদ্ধ বিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/b1ade5f02d75598a20c88ec62089cfeb-699ea7a6d7127.jpg"
+    },
+    {
+      "headline": "ভারত-পাকিস্তান যুদ্ধ থামিয়ে ৩ কোটি মানুষের প্রাণ বাঁচানোর দাবি ট্রাম্পের",
+      "url": "https://www.ittefaq.com.bd/776549/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%A5%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A7%A9-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3",
+      "published_at": null,
+      "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন, ভারত ও পাকিস্তানের মধ্যে সম্ভাব্য একটি পারমাণবিক যুদ্ধে তার ব্যক্তিগত হস্তক্ষেপের কারণে অন্তত ৩৫ মিলিয়ন বা সাড়ে ৩ কোটি মানুষের প্রাণ রক্ষা পেয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/14/af7fc3a957d52cf3163df308674feec5-698fddfade860.jpg"
+    },
+    {
+      "headline": "পুত্রবধুর মৃত্যুর খবর শুনে শ্বশুররে মৃত্যু",
+      "url": "https://www.ittefaq.com.bd/776548/%E0%A6%AA%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A7%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%96%E0%A6%AC%E0%A6%B0-%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A7%87-%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
+      "published_at": null,
+      "summary": "বরগুনার আমতলী উপজেলার হলদাইয়া ইউনিয়ন-এর তক্তাবুনইয়া গ্রামে সোহাগ প্যাদার স্ত্রী প্রসুতি লামইয়া বেগম (২০) মঙ্গলবার দুপুরে অতিরিক্ত রক্তক্ষরণে মারা গেছেন। তার মৃত্যুর খবর শুনে শ্বশুর মোস্তফা প্যাদা (৭০)ও ওইদিন সকালেই মারা যান। এ ঘটনায় এলাকায় শোক ও চাঞ্চল্য তৈরি হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/11/10/caca701cf2861dccae817d8879beda7c-6911a7408b830.jpg"
+    },
+    {
+      "headline": "প্রধানমন্ত্রী তারেক রহমানকে মার্কিন কংগ্রেস সদস্যের অভিনন্দন",
+      "url": "https://www.ittefaq.com.bd/776547/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%95%E0%A6%82%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8",
+      "published_at": null,
+      "summary": "বাংলাদেশের প্রধানমন্ত্রী হিসেবে নতুন দায়িত্ব গ্রহণ করায় তারেক রহমানকে উষ্ণ অভিনন্দন জানিয়েছেন মার্কিন প্রতিনিধি পরিষদের ডেমোক্রেটিক পার্টির প্রভাবশালী সদস্য গ্রেস মেং।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/f89a736665a608b33545bf5fb9a5cf58-699ea5a631814.jpg"
+    },
+    {
+      "headline": "ওমানে ঈদুল ফিতরের সম্ভাব্য তারিখ ঘোষণা",
+      "url": "https://www.ittefaq.com.bd/776546/%E0%A6%93%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE",
+      "published_at": null,
+      "summary": "মধ্যপ্রাচ্যের দেশ ওমান পবিত্র রমজান মাসের সমাপ্তি ও ঈদুল ফিতর উদযাপনের সম্ভাব্য তারিখ ঘোষণা করেছে। জ্যোতির্বিজ্ঞানীদের গাণিতিক বিশ্লেষণ অনুযায়ী, ওমান জানিয়েছে যে চলতি বছর রমজান মাস ২৯ দিনে শেষ হতে পারে এবং সেই হিসেবে আগামী ২০ মার্চ শুক্রবার পবিত্র ঈদুল ফিতরের প্রথম দিন হওয়ার প্রবল সম্ভাবনা রয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/cddfddd372380c66fcf5de13a2f9cf85-699ea37395462.jpg"
+    },
+    {
+      "headline": "‘ঈদের পর দেশে ফিরবেন বিসিবি সভাপতি বুলবুল’",
+      "url": "https://www.ittefaq.com.bd/776545/%E2%80%98%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A6%AC%E0%A7%81%E0%A6%B2%E2%80%98",
+      "published_at": null,
+      "summary": "বাংলাদেশ ক্রিকেট বোর্ডের (বিসিবি) সভাপতি আমিনুল ইসলাম বুলবুল গত ১৬ ফেব্রুয়ারি অস্ট্রেলিয়ার মেলবোর্নে গেছেন পরিবারের সঙ্গে কিছুদিন সময় কাটাতে। তার এই সফর নিয়ে কৌতূহল ছিল অনেকের মধ্যে, তবে দেশের ফেরা কবে হবে- তা নিয়েও মানুষের আগ্রহ কমতি নেই। বিসিবি পরিচালক আসিফ আকবর জানিয়েছেন, ঈদুল ফিতরের পর বুলবুল সম্ভবত ঢাকায় ফিরবেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/4b6c8615a6fc3ed23605b1a4b21c5562-699ea1ab29b90.jpg"
+    },
+    {
+      "headline": "ফিতরার হার জনপ্রতি সর্বোচ্চ ২৮০৫ টাকা",
+      "url": "https://www.ittefaq.com.bd/776544/%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%A8-%E0%A7%A7%E0%A7%A7%E0%A7%A6-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A7%A8%E0%A7%AE%E0%A7%A6%E0%A7%AB",
+      "published_at": null,
+      "summary": "রমজানে বাংলাদেশে ফিতরার হার জনপ্রতি সর্বনিম্ন ১১০ টাকা ও সর্বোচ্চ ২ হাজার ৮০৫ টাকা নির্ধারণ করা হয়েছে। গত বছরও (২০২৫) সর্বনিম্ন ও সর্বোচ্চ ফিতরার হার একই ছিল।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/d06efaa924595d91b679c13ac539726f-699ea88ce79e1.jpg"
+    },
+    {
+      "headline": "হচ্ছে না টি২০ বিশ্বকাপে ভারত-পাকিস্তানের সেমিফাইনাল",
+      "url": "https://www.ittefaq.com.bd/776542/%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%9F%E0%A6%BF%E0%A7%A8%E0%A7%A6-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2",
+      "published_at": null,
+      "summary": "২০২৬ সালের টি২০ বিশ্বকাপে ভারত-পাকিস্তান সেমিফাইনাল অনিশ্চিত হয়ে পড়েছে। সুপার-৮ রাউন্ডে ইংল্যান্ড পাকিস্তানকে পরাজিত করার পর দুই এশীয় জায়ান্টের মুখোমুখি হওয়ার সম্ভাবনা প্রায় শেষ হয়ে গেছে। যদিও ভারত সুপার-৮-এর গ্রুপে পাকিস্তানকে হারিয়েছিল, নিয়ম অনুসারে শেষ চারে তারা পুনরায় মুখোমুখি হতে পারবে না।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/4f5777c1487019b6e5f9dbc1d25fb560-699e9e0c3e54f.jpg"
+    },
+    {
+      "headline": "বইমেলায় কোনো নিরাপত্তা ঝুঁকি নেই, আছে কয়েক স্তরের সুরক্ষা বলয়: ডিএমপি",
+      "url": "https://www.ittefaq.com.bd/776541/%E0%A6%AC%E0%A6%87%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A7%9F%E0%A7%87%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "আসন্ন অমর একুশে বইমেলা ২০২৬ ঘিরে কোনো ধরনের নিরাপত্তা ঝুঁকি বা শঙ্কা নেই বলে নিশ্চিত করেছে ঢাকা মেট্রোপলিটন পুলিশ (ডিএমপি)।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/2de65a124e37f834a761b0148ada1e96-699e9d69bb312.jpg"
+    },
+    {
+      "headline": "‘আওয়ামী লীগের রাষ্ট্রপতিকে নিয়ে শহীদদের শ্রদ্ধা জানানো পিলখানা হত্যাকাণ্ড নিয়ে মশকরা’",
+      "url": "https://www.ittefaq.com.bd/776540/%E2%80%98%E0%A6%86%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B6%E0%A6%B9%E0%A7%80%E0%A6%A6%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE",
+      "published_at": null,
+      "summary": "যে আওয়ামী লীগ পরিকল্পনা করে পিলখানা হত্যাকাণ্ড ঘটিয়েছে, সেই আওয়ামী লীগের রাষ্ট্রপতিকে সাথে নিয়ে শহীদ বীরদের শ্রদ্ধা জানানো পিলখানা হত্যাকাণ্ডকে মশকরা করা ছাড়া কিছুই নয় বলে মন্তব্য করেছেন জাতীয় নাগরিক পার্টির (এনসিপি) উত্তরাঞ্চলের মুখ্য সংগঠক সারজিস আলম।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/85fcb3dce998b0df62f63adfa1f8c533-699e9d0e8833a.jpg"
+    },
+    {
+      "headline": "সড়কে ‘অদৃশ্য টোলপ্লাজা’",
+      "url": "https://dailynayadiganta.com/printed-edition/jb5dGO8oIcMz/",
+      "published_at": null,
+      "summary": "বাংলাদেশের সড়ক এখন যেন অসংখ্য ক্ষুদ্র ‘বেসরকারি টোলপ্লাজা’-য় ভরা। জেলা ভেদে পদ্ধতি বদলায়, কিন্তু লক্ষ্য এক- চালকের পকেট। এই মানচিত্র প্রমাণ করে, সমস্যা বিচ্ছিন্ন নয়- জাতীয়। সমাধানও হতে হবে কেন্দ্রীয়, প্রযুক্তিনির্ভর ও কঠোর।",
+      "image_url": "https://media.ndiganta.com/images/first-1_ZmntxpL.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "গণতন্ত্রের প্রত্যাবর্তন বনাম ক্ষমতার পুনর্বিন্যাস",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/30fJbMy0QPbY/",
+      "published_at": null,
+      "summary": "নির্বাচনের সাথে অনুষ্ঠিত সংবিধান সংস্কার গণভোট ছিল বাংলাদেশের গণতান্ত্রিক যাত্রার একটি মোড় ঘোরানো অধ্যায়। প্রায় ৬৮ শতাংশ ভোটার সংস্কারের পক্ষে মত দিয়ে স্পষ্ট বার্তা দিয়েছেন যে, জনগণ শুধু সরকার পরিবর্তন নয়, শাসনব্যবস্থারও কাঠামোগত রূপান্তর চায়। এটি কোনো \r\nসাধারণ রাজনৈতিক সিদ্ধান্ত নয়, বরং রাষ্ট্রের ভবিষ্যৎ চরিত্র নির্ধারণের একটি ঐতিহাসিক ম্যান্ডেট। দীর্ঘদিনের ক্ষমতার কেন্দ্রীকরণ, দুর্বল জবাবদিহি ও প্রাতিষ্ঠানিক অকার্যকারিতার অভিজ্ঞতা থেকে জনগণ একটি অধিক ভারসাম্যপূর্ণ, গণমুখী ও দায়বদ্ধ সংবিধান প্রত্যাশা করছে",
+      "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "জনপ্রতি সর্বনিম্ন ফিতরা ১১০, সর্বোচ্চ ২৮০৫ টাকা",
+      "url": "https://dailynayadiganta.com/bangladesh/national/zRqTcRXUFiJb/",
+      "published_at": null,
+      "summary": "ইসলামী শরীয়াহ মতে মুসলমানরা সামর্থ্য অনুযায়ী গম, আটা, যব, খেজুর, কিসমিস ও পনির- যেকোনো একটি পণ্যের নির্দিষ্ট পরিমাণ বা এর বাজার মূল্য ফিতরা হিসেবে গরিবদের মধ্যে বিতরণ করতে পারবেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Fitra.JPG"
+    },
+    {
+      "headline": "দুর্নীতি মামলায় সম্রাটের ২০ বছরের কারাদণ্ড",
+      "url": "https://dailynayadiganta.com/bangladesh/law-and-justice/eG8aNlz6iS9O/",
+      "published_at": null,
+      "summary": "রায় ঘোষণার সময় আসামি সম্রাট পলাতক থাকায় তার বিরুদ্ধে সাজা পরোয়ানাসহ গ্রেফতারি পরোয়ানাও জারি করেন আদালত।",
+      "image_url": "https://media.ndiganta.com/original_images/samrat.JPG"
+    },
+    {
+      "headline": "জাবির নারী শিক্ষার্থীকে বাসায় আটকে হাতুড়িপেটার অভিযোগ",
+      "url": "https://dailynayadiganta.com/bangladesh/education-campus/KIJRCxoyYfkK/",
+      "published_at": null,
+      "summary": "অভিযুক্ত তারিকুল ইসলাম বিশ্ববিদ্যালয়ের ইনস্টিটিউট অব ইনফরমেশন টেকনোলজি (আইআইটি) বিভাগের ৪৪তম আবর্তনের সাবেক শিক্ষার্থী। তিনি জামালপুর জেলার সরিষাবাড়ি উপজেলার আব্দুর রশিদের ছেলে। ঘটনার পর থেকে তিনি পলাতক রয়েছেন।",
+      "image_url": "https://media.ndiganta.com/original_images/JU-25-2.jpg"
+    },
+    {
+      "headline": "একুশে বইমেলায় কঠোর নিরাপত্তা নিশ্চিত করা হবে",
+      "url": "https://dailynayadiganta.com/bangladesh/national/9fmizVXMfD7V/",
+      "published_at": null,
+      "summary": "বইমেলায় নিরাপত্তার কোনো হুমকি নেই। উস্কানিমূলক কোনো বইও মেলায় থাকলে ব্যবস্থা নেয়া হবে। এবারের বইমেলায় কোনো ধরনের নাশকতার তথ্য নেই। মব সৃষ্টি করে কোনো ধরনের বিশৃঙ্খলা করার সুযোগ নেই।",
+      "image_url": "https://media.ndiganta.com/original_images/DMP_G7qK7x0.JPG"
+    },
+    {
+      "headline": "পিলখানা হত্যাকাণ্ড :  শহীদ সেনা কর্মকর্তাদের প্রতি রাষ্ট্রপতি ও প্রধানমন্ত্রীর শ্রদ্ধা",
+      "url": "https://dailynayadiganta.com/bangladesh/national/LxCro59Ic2Go/",
+      "published_at": null,
+      "summary": "সকাল ১০টা ১০ মিনিটে প্রথমে রাষ্ট্রপতি মো. সাহাবুদ্দিন শ্রদ্ধা জানান। পরে শ্রদ্ধা জানান প্রধানমন্ত্রী তারেক রহমান। সেখানে তারা শহীদ সেনা কর্মকর্তাদের জন্য দোয়া ও মোনাজাত করেন।",
+      "image_url": "https://media.ndiganta.com/original_images/PM_8sYKO1k.jpg"
+    },
+    {
+      "headline": "দায়িত্ব গ্রহণ করলেন নবনিযুক্ত আইজিপি",
+      "url": "https://dailynayadiganta.com/bangladesh/national/TRPlPvKbJhKl/",
+      "published_at": null,
+      "summary": "বর্তমানে তিনি বাংলাদেশ পুলিশ সার্ভিস অ্যাসোসিয়েশনের ভারপ্রাপ্ত সভাপতি। এছাড়া, তিনি ১৫তম বিসিএস ফোরামের সাধারণ সম্পাদক, ১৫তম বিসিএস (পুলিশ) ব্যাচের আহ্বায়ক এবং অফিসার্স ক্লাব ঢাকা ও খুলনা ক্লাবের সদস্যসহ বিভিন্ন সামাজিক-সাংস্কৃতিক সংগঠনের সাথে যুক্ত রয়েছেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Untitled-17_5sSwr3r.jpg"
+    },
+    {
+      "headline": "সেনাবাহিনীর মনোবল ভাঙতেই ৫৭ কর্মকর্তাকে হত্যা করা হয় : মির্জা ফখরুল",
+      "url": "https://dailynayadiganta.com/bangladesh/national/CosnmLCssZc6/",
+      "published_at": null,
+      "summary": "২০০৯ সালের এই দিনে বিডিআরের চৌকস ৫৭ সেনা কর্মকর্তাসহ ৭৪ জনকে হত্যা করা হয়। এই দিনটি আমাদের জাতির জন্যে অত্যন্ত লজ্জার ও কলঙ্কজনক একটি অধ্যায় বলে আমরা মনে করি। বাংলাদেশের পুরো নিরাপত্তা ব্যবস্থাকে ভেঙে দেয়ার গভীর চক্রান্ত করা হয়েছিল এই দিনে।",
+      "image_url": "https://media.ndiganta.com/original_images/Fakhrul-252.jpg"
+    },
+    {
+      "headline": "অবশেষে স্বপ্নের অস্ট্রেলিয়া সফরে যাচ্ছে বাংলাদেশ",
+      "url": "https://dailynayadiganta.com/sports/cricket/wMrriIifg3fV/",
+      "published_at": null,
+      "summary": "অস্ট্রেলিয়ায় খেলতে যাওয়া যেন বাংলাদেশী ক্রিকেটারদের জন্য সোনার হরিণ সমতুল্য। কোনো টুর্নামেন্ট হলে ভিন্ন কথা, তবে দ্বিপাক্ষিক সিরিজে অস্ট্রেলিয়ায় আমন্ত্রণ স্বপ্নই বটে!",
+      "image_url": "https://media.ndiganta.com/original_images/Untitled-16_CkkVMYO.jpg"
+    },
+    {
+      "headline": "পিলখানা হত্যাকাণ্ডে নতুন কোনো তদন্ত কমিশন হবে না: স্বরাষ্ট্রমন্ত্রী",
+      "url": "https://dailynayadiganta.com/bangladesh/national/OvUNxxefGbNT/",
+      "published_at": null,
+      "summary": "পিলখানা হত্যাকাণ্ডের যথাযথ বিচার করা হবে, যাতে এ ধরনের ঘটনা ভবিষ্যতে আর না ঘটে। এই হত্যাকাণ্ডের মাধ্যমে সেনাবাহিনীকে দুর্বল করার একটা চেষ্টা ছিল। এ কাজটা তারাই করতে পারে, যারা দেশের স্বাধীনতা-সার্বভৌমত্বে বিশ্বাস করে না।",
+      "image_url": "https://media.ndiganta.com/original_images/Home-Minister-242.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - February 25, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "বাংলাদেশ জামায়াতে ইসলামীর কাঠামো তিন স্তরের সাজানো হয়। নীতিনির্ধারণী ফোরাম কেন্দ্রীয় স্তর হচ্ছে মজলিসে শূরা। শূরা নির্বাচনে অভ্যন্তরীণ ভোটগ্রহণ চলছে। ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
+    },
+    {
       "headline": "চ্যাম্পিয়নস লিগে আজ রিয়াল-পিএসজিকে কী করতে হবে",
       "url": "https://www.prothomalo.com/sports/football/p72by0agdw",
       "published_at": "2026-02-25T05:00:00+00:00",
@@ -192,14 +551,6 @@
       "summary": "মরুভূমির বালুকে মাত্র ১০ মাসে উর্বর মাটিতে রূপান্তরের নতুন এক পদ্ধতি উদ্ভাবন করেছেন চীনের বিজ্ঞানীরা।",
       "image_s3_key": "prothomalo-bangla/2026-02-24/4nrdjqni/Desert.Eartjdotcom.png",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/4nrdjqni/Desert.Eartjdotcom.png?auto=format,compress"
-    },
-    {
-      "headline": "আমের বাগানে মুকুলের ঘ্রাণ ছড়িয়েছে, বাম্পার ফলনের আশা নওগাঁর চাষিদের",
-      "url": "https://www.prothomalo.com/video/bangladesh/jjh1ezti5z",
-      "published_at": "2026-02-25T05:00:00+00:00",
-      "summary": "আমের বাগানে মুকুলের ঘ্রাণ ছড়িয়েছে, বাম্পার ফলনের আশা নওগাঁর চাষিদের\n",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/ooh9v8f8/Naogan-mango.00033716.Still002.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/ooh9v8f8/Naogan-mango.00033716.Still002.jpg?auto=format,compress"
     },
     {
       "headline": "ব্যাংক কার্ড নিয়ে ৭ দিনের অনলাইন আয়োজন শুরু",
@@ -446,48 +797,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/e5df046f0825ce250fa3f8781372b9de-699e89c0c264a.jpg"
     },
     {
-      "headline": "সড়কে ‘অদৃশ্য টোলপ্লাজা’",
-      "url": "https://dailynayadiganta.com/printed-edition/jb5dGO8oIcMz/",
-      "published_at": null,
-      "summary": "বাংলাদেশের সড়ক এখন যেন অসংখ্য ক্ষুদ্র ‘বেসরকারি টোলপ্লাজা’-য় ভরা। জেলা ভেদে পদ্ধতি বদলায়, কিন্তু লক্ষ্য এক- চালকের পকেট। এই মানচিত্র প্রমাণ করে, সমস্যা বিচ্ছিন্ন নয়- জাতীয়। সমাধানও হতে হবে কেন্দ্রীয়, প্রযুক্তিনির্ভর ও কঠোর।",
-      "image_url": "https://media.ndiganta.com/images/first-1_ZmntxpL.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "গণতন্ত্রের প্রত্যাবর্তন বনাম ক্ষমতার পুনর্বিন্যাস",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/30fJbMy0QPbY/",
-      "published_at": null,
-      "summary": "নির্বাচনের সাথে অনুষ্ঠিত সংবিধান সংস্কার গণভোট ছিল বাংলাদেশের গণতান্ত্রিক যাত্রার একটি মোড় ঘোরানো অধ্যায়। প্রায় ৬৮ শতাংশ ভোটার সংস্কারের পক্ষে মত দিয়ে স্পষ্ট বার্তা দিয়েছেন যে, জনগণ শুধু সরকার পরিবর্তন নয়, শাসনব্যবস্থারও কাঠামোগত রূপান্তর চায়। এটি কোনো \r\nসাধারণ রাজনৈতিক সিদ্ধান্ত নয়, বরং রাষ্ট্রের ভবিষ্যৎ চরিত্র নির্ধারণের একটি ঐতিহাসিক ম্যান্ডেট। দীর্ঘদিনের ক্ষমতার কেন্দ্রীকরণ, দুর্বল জবাবদিহি ও প্রাতিষ্ঠানিক অকার্যকারিতার অভিজ্ঞতা থেকে জনগণ একটি অধিক ভারসাম্যপূর্ণ, গণমুখী ও দায়বদ্ধ সংবিধান প্রত্যাশা করছে",
-      "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "দায়িত্ব গ্রহণ করলেন নবনিযুক্ত আইজিপি",
-      "url": "https://dailynayadiganta.com/bangladesh/national/TRPlPvKbJhKl/",
-      "published_at": null,
-      "summary": "বর্তমানে তিনি বাংলাদেশ পুলিশ সার্ভিস অ্যাসোসিয়েশনের ভারপ্রাপ্ত সভাপতি। এছাড়া, তিনি ১৫তম বিসিএস ফোরামের সাধারণ সম্পাদক, ১৫তম বিসিএস (পুলিশ) ব্যাচের আহ্বায়ক এবং অফিসার্স ক্লাব ঢাকা ও খুলনা ক্লাবের সদস্যসহ বিভিন্ন সামাজিক-সাংস্কৃতিক সংগঠনের সাথে যুক্ত রয়েছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Untitled-17_5sSwr3r.jpg"
-    },
-    {
-      "headline": "সেনাবাহিনীর মনোবল ভাঙতেই ৫৭ কর্মকর্তাকে হত্যা করা হয় : মির্জা ফখরুল",
-      "url": "https://dailynayadiganta.com/bangladesh/national/CosnmLCssZc6/",
-      "published_at": null,
-      "summary": "২০০৯ সালের এই দিনে বিডিআরের চৌকস ৫৭ সেনা কর্মকর্তাসহ ৭৪ জনকে হত্যা করা হয়। এই দিনটি আমাদের জাতির জন্যে অত্যন্ত লজ্জার ও কলঙ্কজনক একটি অধ্যায় বলে আমরা মনে করি। বাংলাদেশের পুরো নিরাপত্তা ব্যবস্থাকে ভেঙে দেয়ার গভীর চক্রান্ত করা হয়েছিল এই দিনে।",
-      "image_url": "https://media.ndiganta.com/original_images/Fakhrul-252.jpg"
-    },
-    {
-      "headline": "অবশেষে স্বপ্নের অস্ট্রেলিয়া সফরে যাচ্ছে বাংলাদেশ",
-      "url": "https://dailynayadiganta.com/sports/cricket/wMrriIifg3fV/",
-      "published_at": null,
-      "summary": "অস্ট্রেলিয়ায় খেলতে যাওয়া যেন বাংলাদেশী ক্রিকেটারদের জন্য সোনার হরিণ সমতুল্য। কোনো টুর্নামেন্ট হলে ভিন্ন কথা, তবে দ্বিপাক্ষিক সিরিজে অস্ট্রেলিয়ায় আমন্ত্রণ স্বপ্নই বটে!",
-      "image_url": "https://media.ndiganta.com/original_images/Untitled-16_CkkVMYO.jpg"
-    },
-    {
-      "headline": "পিলখানা হত্যাকাণ্ডে নতুন কোনো তদন্ত কমিশন হবে না: স্বরাষ্ট্রমন্ত্রী",
-      "url": "https://dailynayadiganta.com/bangladesh/national/OvUNxxefGbNT/",
-      "published_at": null,
-      "summary": "পিলখানা হত্যাকাণ্ডের যথাযথ বিচার করা হবে, যাতে এ ধরনের ঘটনা ভবিষ্যতে আর না ঘটে। এই হত্যাকাণ্ডের মাধ্যমে সেনাবাহিনীকে দুর্বল করার একটা চেষ্টা ছিল। এ কাজটা তারাই করতে পারে, যারা দেশের স্বাধীনতা-সার্বভৌমত্বে বিশ্বাস করে না।",
-      "image_url": "https://media.ndiganta.com/original_images/Home-Minister-242.jpg"
-    },
-    {
       "headline": "পিলখানায় হত্যাকাণ্ডের নেপথ্য কারণ এখন বোধগম্য : প্রধানমন্ত্রী",
       "url": "https://dailynayadiganta.com/bangladesh/national/Pwv6Q5jOw2Om/",
       "published_at": null,
@@ -528,20 +837,6 @@
       "published_at": null,
       "summary": "বিশ্ববিদ্যালয়ের হলগুলোতে ইন্টারনেটের ধীরগতি নিয়ে শিক্ষার্থীরা চরম ভোগান্তিতে পড়তে হয়েছিলো। অ্যাকাডেমিক পড়াশোনা ও গবেষণার কাজে এই দুর্বল নেটওয়ার্ক ছিলো প্রধান বাধা।",
       "image_url": "https://media.ndiganta.com/original_images/Berobi-Gate.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - February 25, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "বাংলাদেশ উন্মুক্ত বিশ্ববিদ্যালয়ে সহযোগী/সহকারী অধ্যাপক এবং প্রভাষক পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ করা হয়েছে। মোট পদসংখ্যা ১১। আবেদনের শেষ তারিখ ১৩ ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://cdn.jugantor.com/uploads/nationalelections/others/box-banner.jpeg"
     },
     {
       "headline": "জাহাঙ্গীরনগরের এক ছাত্রীকে বাসায় ডেকে নির্যাতনের অভিযোগ প্রাক্তন ছাত্রের বিরুদ্ধে",
@@ -1196,313 +1491,6 @@
       "published_at": null,
       "summary": "জাতীয় শহীদ সেনা দিবস উপলক্ষে প্রধানমন্ত্রী তারেক রহমান মঙ্গলবার এক বাণীতে পিলখানা হত্যাকাণ্ডের শহীদদের রুহের মাগফিরাত কামনা করেছেন এবং তাদের শোকসন্তপ্ত পরিবারের সদস্যদের প্রতি গভীর সমবেদনা ও সংহতি প্রকাশ করেন।",
       "image_url": "https://media.ndiganta.com/original_images/Sena_Dibos.jpg"
-    },
-    {
-      "headline": "চট্টগ্রামে গ্যাস বিস্ফোরণে মৃতের সংখ্যা বেড়ে ৪",
-      "url": "https://dailynayadiganta.com/bangladesh/national/tO24GDZ7HZht/",
-      "published_at": null,
-      "summary": "এর আগে, নুরজাহান আক্তার, শাওন, সামির হোসেনের মৃত্যু হয়েছে। এ নিয়ে মৃত্যুর সংখ্যা চারজনে দাঁড়াল। বাকি পাঁচজনের অবস্থা আশঙ্কাজনক।",
-      "image_url": "https://media.ndiganta.com/original_images/Burn-Institute.jpg"
-    },
-    {
-      "headline": "পল্টন থানা পুলিশের অভিযানে বিভিন্ন অপরাধে জড়িত গ্রেফতার ২০",
-      "url": "https://dailynayadiganta.com/bangladesh/crime/pKovyaEIyguZ/",
-      "published_at": null,
-      "summary": "মঙ্গলবার (২৪ ফেব্রুয়ারি) ঢাকা মেট্রোপলিটন পুলিশের (ডিএমপি) মিডিয়া ও পাবলিক রিলেশন্স বিভাগের উপ-কমিশনার মুহাম্মদ তালেবুর রহমান স্বাক্ষরিত এক সংবাদ বিজ্ঞপ্তিতে এ তথ্য জানানো হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/arrest-greftar-600_0tGhEi0.jpg"
-    },
-    {
-      "headline": "তলবে হাজির না হওয়ায় মার্কিন রাষ্ট্রদূতের ওপর ফ্রান্সের মন্ত্রীদের সঙ্গে সাক্ষাতে নিষেধাজ্ঞা",
-      "url": "https://www.prothomalo.com/world/usa/xo63s0x0zt",
-      "published_at": "2026-02-24T18:48:54.225000+00:00",
-      "summary": "ফ্রান্সের পররাষ্ট্র মন্ত্রণালয়ের তলবে হাজির না হওয়ায় যুক্তরাষ্ট্রের রাষ্ট্রদূত চার্লস কুশনারের ওপর বিধিনিষেধ আরোপ করেছে ফ্রান্স সরকার। তিনি মন্ত্রীদের সঙ্গে সরাসরি সাক্ষাৎ করতে পারবেন না।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/7rs9jiw4/Charles-Kushner.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/7rs9jiw4/Charles-Kushner.jpg?auto=format,compress"
-    },
-    {
-      "headline": "কিছুটা কম দামে সরকারি তেল–ডাল কিনতে গিয়ে...",
-      "url": "https://www.prothomalo.com/bangladesh/ig479be1ny",
-      "published_at": "2026-02-24T18:44:57.215000+00:00",
-      "summary": "ফটোসাংবাদিক দীপু মালাকার বলছিলেন, ঘটনার পর ট্রাকটি সেখান থেকে চলে যায়। অন্য কোথাও পণ্য বিক্রি করে। যাঁরা অপেক্ষা করছিলেন, তাঁরা পণ্য পাননি।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/99ebatqd/২.PNG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/99ebatqd/২.PNG?auto=format,compress"
-    },
-    {
-      "headline": "ইরানে হামলা নিয়ে দোলাচলে ট্রাম্প, দূতদের মতামতের অপেক্ষায়",
-      "url": "https://www.prothomalo.com/world/middle-east/n8o3puedl6",
-      "published_at": "2026-02-24T18:36:40.106000+00:00",
-      "summary": "সংশ্লিষ্ট সূত্রগুলো জানিয়েছে, ইরানে বিমান হামলার নির্দেশ দেওয়ার বিষয়টি অনেকাংশে ট্রাম্পের দুই বিশেষ প্রতিনিধি স্টিভ উইটকফ ও জ্যারেড কুশনারের মতামতের ওপর নির্ভর করছে।",
-      "image_s3_key": "prothomalo-bangla/2025-06-25/pljg2u4z/মার্কিন-প্রেসিডেন্ট-ডোনাল্ড-ট্রাম্প",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-25/pljg2u4z/মার্কিন-প্রেসিডেন্ট-ডোনাল্ড-ট্রাম্প?auto=format,compress"
-    },
-    {
-      "headline": "ইরানে ফলের বাজারে সেনাবাহিনীর হেলিকপ্টার বিধ্বস্ত, নিহত ৪",
-      "url": "https://www.prothomalo.com/world/middle-east/nop86kty4h",
-      "published_at": "2026-02-24T18:10:11.208000+00:00",
-      "summary": "ইরানের ইসফাহান প্রদেশে সেনাবাহিনীর হেলিকপ্টার বিধ্বস্ত হয়ে দুই সামরিক পাইলট ও দুই ব্যবসায়ী নিহত হয়েছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/z1o252oh/iran.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/z1o252oh/iran.jpg?auto=format,compress"
-    },
-    {
-      "headline": "শিক্ষককে পেটানোর অভিযোগ শরীয়তপুরের যুবদল নেতার বিরুদ্ধে",
-      "url": "https://www.prothomalo.com/video/bangladesh/ipthfbtfao",
-      "published_at": "2026-02-24T18:06:52.141000+00:00",
-      "summary": "শিক্ষককে পেটানোর অভিযোগ শরীয়তপুরের যুবদল নেতার বিরুদ্ধে",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/oxc769kn/শিক্ষককে-পেটানোর-অভিযোগ-শরীয়তপুরের-যুবদল-নেতার-বিরুদ্ধে.00025116.Still003.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/oxc769kn/শিক্ষককে-পেটানোর-অভিযোগ-শরীয়তপুরের-যুবদল-নেতার-বিরুদ্ধে.00025116.Still003.jpg?auto=format,compress"
-    },
-    {
-      "headline": "প্রতিরক্ষা ও অর্থনৈতিক চুক্তির সুষ্ঠু বাস্তবায়ন নিশ্চিতে কাজ করবে জাপান: রাষ্ট্রদূত",
-      "url": "https://www.prothomalo.com/bangladesh/jcdk9twdaq",
-      "published_at": "2026-02-24T18:01:06.997000+00:00",
-      "summary": "অন্তর্বর্তী সরকারের শেষ সময়ে করা বাংলাদেশ ও জাপানের মধ্যকার প্রতিরক্ষা ও অর্থনৈতিক সহযোগিতা সংক্রান্ত চুক্তির সুষ্ঠু বাস্তবায়ন নিশ্চিতে কাজ করবে জাপান।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/1b958qr5/Japan-Diplomacye-01.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/1b958qr5/Japan-Diplomacye-01.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "স্বরাষ্ট্র মন্ত্রণালয়ের জ্যেষ্ঠ সচিব হলেন মনজুর মোর্শেদ চৌধুরী",
-      "url": "https://www.prothomalo.com/bangladesh/qstn506gds",
-      "published_at": "2026-02-24T17:56:18.852000+00:00",
-      "summary": "আজ মঙ্গলবার জনপ্রশাসন মন্ত্রণালয়ের উপসচিব মো. গোলাম রব্বানীর সই করা এক প্রজ্ঞাপনে এ তথ্য জানানো হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/hizzvbgk/Untitled-6.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/hizzvbgk/Untitled-6.png?auto=format,compress"
-    },
-    {
-      "headline": "চট্টগ্রামের হালিশহরে বিস্ফোরণে \nআরও এক নারীর মৃত্যু",
-      "url": "https://www.prothomalo.com/bangladesh/district/asbp4m5ata",
-      "published_at": "2026-02-24T17:53:53.193000+00:00",
-      "summary": "চট্টগ্রাম নগরের হালিশহরের একটি বাসায় বিস্ফোরণের ঘটনায় আরও একজনের মৃত্যু হয়েছে। আজ মঙ্গলবার রাতে ঢাকায় জাতীয় বার্ন ও প্লাস্টিক সার্জারি ইনস্টিটিউটে চিকিৎসাধীন অবস্থায় মোটর পার্টস ব্যবসায়ী শাখাওয়াত হোসেনের পর্তুগালপ্রবাসী ভাই সামির আহামেদের স্ত্রী আয়শা আক্তার (৩০) মারা যান। এ নিয়ে বিস্ফোরণের ঘটনায় মৃতের সংখ্যা চারজনে দাঁড়াল।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/3r6g7xq0/WhatsApp-Image-2026-02-24-at-11.29.52-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/3r6g7xq0/WhatsApp-Image-2026-02-24-at-11.29.52-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "ব্রুকের ইতিহাস গড়ার দিনে পাকিস্তানকে হারিয়ে সেমিফাইনালে ইংল্যান্ড",
-      "url": "https://www.prothomalo.com/sports/cricket/lilsdr7tz7",
-      "published_at": "2026-02-24T17:48:27.149000+00:00",
-      "summary": "৫ বল আর ২ উইকেট হাতে রেখে পাওয়া সেই জয়ে এবারের টি-টুয়েন্টি বিশ্বকাপে প্রথম দল হিসেবে সেমিফাইনালে পৌঁছে গেছে ব্রুকের ইংল্যান্ড।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/i8teyi2g/142570-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/i8teyi2g/142570-01-02.jpg?auto=format,compress"
-    },
-    {
-      "headline": "পাকিস্তান–ইংল্যান্ড: ব্রুকের অবিশ্বাস্য সেঞ্চুরিতে ইংল্যান্ড সেমিফাইনালে, পাকিস্তান খাদের কিনারায়",
-      "url": "https://www.prothomalo.com/sports/cricket/upovxdvjwi",
-      "published_at": "2026-02-24T17:46:45.145000+00:00",
-      "summary": "টি–টুয়েন্টি বিশ্বকাপের সুপার এইটের ম্যাচে পাকিস্তানের মুখোমুখি ইংল্যান্ড। এই ম্যাচের সকল আপডেট পেতে চোখ রাখুন প্রথম আলোয়। ",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/843zjg9v/2026-02-24T165013Z1675935908UP1EM2O1ARNNORTRMADP3CRICKET-T20-WORLDCUP-ENG-PAK.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/843zjg9v/2026-02-24T165013Z1675935908UP1EM2O1ARNNORTRMADP3CRICKET-T20-WORLDCUP-ENG-PAK.JPG?auto=format,compress"
-    },
-    {
-      "headline": "প্রদর্শনী ‘আলো’ দেখলেন প্রতিমন্ত্রী, কূটনীতিক, চিত্রশিল্পীসহ নানা পেশার মানুষ",
-      "url": "https://www.prothomalo.com/photo/bangladesh/1piltxtibp",
-      "published_at": "2026-02-24T17:41:56.432000+00:00",
-      "summary": "সংঘবদ্ধ উগ্রবাদীদের হামলার শিকার প্রথম আলোর ভবন নিয়ে আয়োজিত শিল্পকর্ম প্রদর্শনী দেখতে মঙ্গলবার এসেছিলেন সরকারের প্রতিমন্ত্রী, খ্যাতিমান চিত্রশিল্পী, কূটনীতিকসহ বিভিন্ন পেশার মানুষেরা।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/5nbo0my7/১.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/5nbo0my7/১.JPG?auto=format,compress"
-    },
-    {
-      "headline": "বিস্ফোরক মামলায় সাক্ষীদের জবানবন্দিতে শেখ হাসিনাসহ আ.লীগ নেতাদের নাম",
-      "url": "https://www.prothomalo.com/bangladesh/5xhpebkxu5",
-      "published_at": "2026-02-24T17:33:24.411000+00:00",
-      "summary": "বিডিআর বিদ্রোহের ঘটনায় বিস্ফোরক আইনে করা মামলায় সাক্ষীদের জবানবন্দিতে সাবেক প্রধানমন্ত্রী শেখ হাসিনার নাম।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/14128mmx/borhan.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/14128mmx/borhan.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "রুগ্‌ণ ও বন্ধ শিল্পকারখানা পুনরায় চালুর উদ্যোগ নিতে প্রধানমন্ত্রীর নির্দেশ",
-      "url": "https://www.prothomalo.com/bangladesh/830yeuvbo4",
-      "published_at": "2026-02-24T17:29:31.870000+00:00",
-      "summary": "বেসরকারি উদ্যোক্তাদের সঙ্গে নিয়ে দেশের রুগ্‌ণ ও বন্ধ শিল্পপ্রতিষ্ঠানগুলো পুনরায় চালুর উদ্যোগ নিতে বলেছেন প্রধানমন্ত্রী তারেক রহমান।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/k7a1dvpi/Untitled-5.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/k7a1dvpi/Untitled-5.png?auto=format,compress"
-    },
-    {
-      "headline": "শরীয়তপুরে প্রধান শিক্ষককে পিটিয়ে হাত ভেঙে দেওয়ার অভিযোগ যুবদল নেতার বিরুদ্ধে",
-      "url": "https://www.prothomalo.com/bangladesh/district/1i07xl0im9",
-      "published_at": "2026-02-24T17:29:14.036000+00:00",
-      "summary": "চিকিৎসক জানান, ওই শিক্ষকের হাত ও পায়ের বিভিন্ন স্থানে আঘাত করা হয়েছে। তাঁর ডান হাতের কবজির কাছের একটি হাড় ভেঙে গেছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/nsh9svv3/SARIATPURDH054120260224SHARIATPUR-RS1.JPG.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/nsh9svv3/SARIATPURDH054120260224SHARIATPUR-RS1.JPG.JPG?auto=format,compress"
-    },
-    {
-      "headline": "গাজীপুরের আওয়ামী লীগের কার্যালয়ে অগ্নিকাণ্ড, ছড়িয়ে পড়ে আতঙ্ক",
-      "url": "https://www.prothomalo.com/video/bangladesh/7o20ae5m7o",
-      "published_at": "2026-02-24T17:12:05.132000+00:00",
-      "summary": "গাজীপুরের আওয়ামী লীগের কার্যালয়ে অগ্নিকাণ্ড, ছড়িয়ে পড়ে আতঙ্ক",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/tftpu6aq/Web.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/tftpu6aq/Web.jpg?auto=format,compress"
-    },
-    {
-      "headline": "মির্জা আব্বাস, রিজভী আহমেদসহ কে কোন দায়িত্বে? | ট্রেনের অগ্রিম টিকিট বিক্রি শুরু হচ্ছে ৩ মার্চ",
-      "url": "https://www.prothomalo.com/video/bangladesh/gqkyvh853e",
-      "published_at": "2026-02-24T17:10:11.552000+00:00",
-      "summary": "মন্ত্রী–প্রতিমন্ত্রীর মর্যাদায় নিয়োগ পাওয়া প্রধানমন্ত্রী তারেক রহমানের ১০ উপদেষ্টার মধ্যে দায়িত্ব বণ্টন করা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/g2ojrd5y/AUDIO-NEWS-THUMB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/g2ojrd5y/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "হামলার বিপরীতে সৃষ্টির শক্তি ফুটিয়ে তুলেছেন শিল্পী",
-      "url": "https://www.prothomalo.com/bangladesh/ucgqjssuhb",
-      "published_at": "2026-02-24T17:06:40.672000+00:00",
-      "summary": "রাজধানীর কারওয়ান বাজারে প্রথম আলো ভবনে শিল্পী মাহ্‌বুবুর রহমানের শিল্প প্রদর্শনী ‘আলো’ দেখতে আসেন দেশের প্রবীণ-নবীন শিল্পী, স্থপতি, সাহিত্যিকসহ বিদগ্ধজনেরা। ",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/w80gwbq1/WhatsApp-Image-2026-02-24-at-10.41.22-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/w80gwbq1/WhatsApp-Image-2026-02-24-at-10.41.22-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "বৈদেশিক মুদ্রার রিজার্ভ বেড়ে ৩৫ বিলিয়ন ডলার ছাড়াল",
-      "url": "https://www.prothomalo.com/business/bank/720uml63ss",
-      "published_at": "2026-02-24T17:00:00+00:00",
-      "summary": "এর আগে ২০২০ সালের জুনে রিজার্ভ প্রথমবারের মতো একই উচ্চতায় উঠেছিল, যা ২০২১ সালের আগস্টে ৪৮ বিলিয়ন ডলার অতিক্রম করে।  ",
-      "image_s3_key": "prothomalo-bangla/2023-12/b0007dd4-a463-4cee-949b-f282c5076c45/__________Business_thumbnail.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-12/b0007dd4-a463-4cee-949b-f282c5076c45/__________Business_thumbnail.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বিয়ের ২৭ বছর পর কাজল বললেন, দুজনেরই মেডেল ও ট্রফি প্রাপ্য",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/bhx41rlvcm",
-      "published_at": "2026-02-24T17:00:00+00:00",
-      "summary": "দাম্পত্যের ২৭ বছর পূর্ণ করলেন বলিউডের অন্যতম জনপ্রিয় জুটি কাজল ও অজয় দেবগন। ",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/dnqzv6l5/kajol-ajay-devgn-24531414-16x90.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/dnqzv6l5/kajol-ajay-devgn-24531414-16x90.webp?auto=format,compress"
-    },
-    {
-      "headline": "প্রধানমন্ত্রী তারেক রহমানের হস্তক্ষেপে এক ঘণ্টার মধ্যে অপহৃত স্কুলছাত্র উদ্ধার",
-      "url": "https://www.prothomalo.com/video/bangladesh/o2ediwq7ww",
-      "published_at": "2026-02-24T16:58:40.968000+00:00",
-      "summary": "প্রধানমন্ত্রী তারেক রহমানের হস্তক্ষেপে এক ঘণ্টার মধ্যে অপহৃত স্কুলছাত্র উদ্ধার",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/yne4j3zh/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/yne4j3zh/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আইজিপি বাহারুল আলমের চুক্তিভিত্তিক নিয়োগ বাতিল",
-      "url": "https://www.prothomalo.com/bangladesh/o5vgy3cgmw",
-      "published_at": "2026-02-24T16:57:30.465000+00:00",
-      "summary": "পুলিশের মহাপরিদর্শক (আইজিপি) বাহারুল আলমের চুক্তিভিত্তিক নিয়োগ বাতিল করেছে সরকার।",
-      "image_s3_key": "prothomalo-bangla/2024-11-27/i33t2ngr/Baharul-Alam.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-11-27/i33t2ngr/Baharul-Alam.webp?auto=format,compress"
-    },
-    {
-      "headline": "নিউইয়র্কের টাইম স্কয়ার: ক্রসরোডস অব দ্য ওয়ার্ল্ড!",
-      "url": "https://nagorik.prothomalo.com/durporobash/unzoraaeiy",
-      "published_at": "2026-02-24T16:54:21.341000+00:00",
-      "summary": "নিউইয়র্কে আসার আগে ও পরে কতজন যে এই স্ট্রিট ফুড খাওয়ার পরামর্শ দিয়েছেন! নতুন খাবারের ব্যাপারে সেরীনের বরাবরই আগ্রহ। নতুন খাবারে আমার কেবল সমস্যা হয়। কেবল সমস্যা নয়, ভালোই সমস্যা হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/z7rnb4tw/15.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/z7rnb4tw/15.jpg?auto=format,compress"
-    },
-    {
-      "headline": "গাজীপুরে মোটরসাইকেল থেকে ছিটকে সড়কে, ট্রাকচাপায় দুই কিশোর নিহত",
-      "url": "https://www.prothomalo.com/bangladesh/district/14ktnnzekm",
-      "published_at": "2026-02-24T16:51:27.044000+00:00",
-      "summary": "গাজীপুরের কালীগঞ্জে ট্রাকচাপায় মোটরসাইকেল আরোহী দুই কিশোর নিহত হয়েছে। আজ মঙ্গলবার বিকেল ৪টার দিকে ঢাকা বাইপাস সড়ক এলাকায় এ দুর্ঘটনা ঘটে।",
-      "image_s3_key": "prothomalo-bangla/2023-11/bd4fc6c6-7409-4c71-92f8-1a7f024062a7/road_accident_01.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-11/bd4fc6c6-7409-4c71-92f8-1a7f024062a7/road_accident_01.png?auto=format,compress"
-    },
-    {
-      "headline": "সোহরাওয়ার্দী উদ্যানে মাদকবিরোধী অভিযানে মারধরের ঘটনায় ৪ পুলিশ সদস্যকে প্রত্যাহার",
-      "url": "https://www.prothomalo.com/bangladesh/capital/ql19408xu7",
-      "published_at": "2026-02-24T16:45:07.182000+00:00",
-      "summary": "রাজধানীর সোহরাওয়ার্দী উদ্যানে মাদকবিরোধী অভিযান চলাকালে  মারধরের ঘটনায় চার পুলিশ সদস্যকে প্রত্যাহার।",
-      "image_s3_key": "prothomalo-bangla/2025-08-11/fvr11brc/Polic.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-08-11/fvr11brc/Polic.jpg?auto=format,compress"
-    },
-    {
-      "headline": "লড়াইয়ের স্বীকৃতি পেলেন ফারজানা-রেনু-রোকেয়ারা",
-      "url": "https://www.prothomalo.com/technology/co7q683g0r",
-      "published_at": "2026-02-24T16:37:07.172000+00:00",
-      "summary": "অনলাইনে মাছ বিক্রির প্রতিষ্ঠান ‘রিভার ফিশ’-এ কর্মরত ফারজানা রহমান, রেনু বেগম ও রোকেয়া বেগমের হাতে আজ মঙ্গলবার তুলে দেওয়া হয়েছে নগদ অর্থ ও ঈদ উপহার।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/vbl0vpx5/riverfish.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/vbl0vpx5/riverfish.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "বরিশালে আদালতে ঢুকে আইনজীবী সমিতির নেতাদের হট্টগোল, বেঞ্চে ধাক্কাধাক্কি",
-      "url": "https://www.prothomalo.com/bangladesh/district/6pip0a06k7",
-      "published_at": "2026-02-24T16:27:22.699000+00:00",
-      "summary": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতাদের জামিন দেওয়ার ঘটনাকে কেন্দ্র করে বরিশালে অতিরিক্ত চিফ মেট্রোপলিটন আদালতের এজলাসে হট্টগোল হয়েছে। ",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/ec7duva6/barishal-court.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/ec7duva6/barishal-court.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "রাকিবুল আজমের ‘ভালোবাসি’ মিউজিক্যাল ফিল্ম হলো যেভাবে",
-      "url": "https://www.prothomalo.com/video/cafelive/07jz5u6ewh",
-      "published_at": "2026-02-24T16:13:58.197000+00:00",
-      "summary": "রাকিবুল আজমের ‘ভালোবাসি’ মিউজিক্যাল ফিল্ম হলো যেভাবে",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/kq8dvsk2/THUMBNAIL.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/kq8dvsk2/THUMBNAIL.jpg?auto=format,compress"
-    },
-    {
-      "headline": "তুচ্ছ ঘটনা! ছেলেকে বাঁচাতে গিয়ে প্রাণ গেল ব্যবসায়ী বাবার",
-      "url": "https://www.bd-pratidin.com/country/2026/02/25/1221012",
-      "published_at": "2026-02-25T07:06:33+06:00",
-      "summary": "নারায়ণগঞ্জের বন্দরে তুচ্ছ ঘটনাকে কেন্দ্র করে দুই পক্ষের মারামারিতে দুলাল ৬০ নামে এক ব্যক্তিকে পিটিয়ে হত্যার অভিযোগ উঠেছে। মঙ্গলবার (২৪ ফেব্রুয়ারি) রাতে বন্দর উপজেলার কেওডালা ওভারবাগ এলাকায় এ ঘটনা ঘটে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771981593-f9bd635cc45b0463164c08a0fe6586bf.jpg"
-    },
-    {
-      "headline": "দক্ষিণ-পূর্ব ব্রাজিলে ভারী বৃষ্টিতে বন্যা, নিহত বেড়ে ২৩",
-      "url": "https://www.bd-pratidin.com/international-news/2026/02/25/1221011",
-      "published_at": "2026-02-25T07:05:18+06:00",
-      "summary": "দক্ষিণ-পূর্ব ব্রাজিলের মিনাস গেরাইস রাজ্যে টানা মুষলধারে বৃষ্টিপাতের ফলে ভয়াবহ বন্যা ও ভূমিধসে কমপক্ষে ২৩ জন নিহত হয়েছেন। নিখোঁজ রয়েছেন ৪০ জনেরও বেশি। উদ্ধারকর্মীরা ধ্বংসস্তূপের নিচে আটকে পড়াদের খুঁজতে দিনরাত অভিযান চালাচ্ছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771981517-14fe2c5bb22a8ddb305881d1c90732de.jpg"
-    },
-    {
-      "headline": "যে তিন শ্রেণির নাগরিক আগে পাবেন ফ্যামিলি কার্ড",
-      "url": "https://www.bd-pratidin.com/national/2026/02/25/1221010",
-      "published_at": "2026-02-25T06:22:34+06:00",
-      "summary": "আগামী ১০ মার্চ দেশের ১৪টি জেলায় ফ্যামিলি কার্ড বিতরণ কর্মসূচি উদ্বোধন করবেন প্রধানমন্ত্রী তারেক রহমান।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771978953-b89148fb636b6062806f6a5165079f14.jpg"
-    },
-    {
-      "headline": "স্বরাষ্ট্র মন্ত্রণালয়ের সিনিয়র সচিব হিসেবে নিয়োগ পেলেন মনজুর মোর্শেদ",
-      "url": "https://www.bd-pratidin.com/national/2026/02/25/1221009",
-      "published_at": "2026-02-25T06:16:09+06:00",
-      "summary": "স্বরাষ্ট্র মন্ত্রণালয়ের সিনিয়র সচিব হিসেবে নিয়োগ পেয়েছেন অবসরপ্রাপ্ত সচিব মনজুর মোর্শেদ চৌধুরী। তাঁকে এক বছরের জন্য চুক্তিভিত্তিক নিয়োগ দিয়ে মঙ্গলবার (২৪ ফেব্রুয়ারি) প্রজ্ঞাপন জারি করে জনপ্রশাসন মন্ত্রণালয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771978568-b2a0735caf9cb262c3e249bf170c3207.jpg"
-    },
-    {
-      "headline": "বাতিলকৃত প্রেস অ্যাক্রিডিটেশন কার্ড পুনর্বিবেচনার জন্য আবেদন করা যাবে",
-      "url": "https://www.bd-pratidin.com/national/2026/02/25/1221008",
-      "published_at": "2026-02-25T06:08:22+06:00",
-      "summary": "তথ্য অধিদফতর কর্তৃক বিভিন্ন কারণে ইতোপূর্বে যাদের প্রেস অ্যাক্রিডিটেশন কার্ড বাতিল করা হয়েছে, তারা প্রেস অ্যাক্রিডিটেশন নীতিমালা ২০২৫ অনুযায়ী পুনর্বিবেচনার জন্য প্রেস অ্যাক্রিডিটেশন আপিল কমিটি বরাবর নির্ধারিত ফরমে আবেদন করতে পারেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771978101-12661a7d2b3d148ae025eb06738c146a.jpg"
-    },
-    {
-      "headline": "ভাইরাল বানর পাঞ্চকে ঘিরে নিষ্ঠুর ব্যবসার অভিযোগ",
-      "url": "https://www.bd-pratidin.com/international-news/2026/02/25/1221007",
-      "published_at": "2026-02-25T05:57:53+06:00",
-      "summary": "একটি ছোট বানর দৌড়ে গিয়ে একটি পুতুলকে জড়িয়ে ধরছে। চারদিকে অন্য বানরদের তাড়া। কয়েক সেকেন্ডের সেই দৃশ্য সামাজিক মাধ্যমে ছড়িয়ে পড়ে ঝড় তোলে। কিন্তু ভাইরাল হওয়া এই মুহূর্তের আড়ালে লুকিয়ে আছে বন্দিদশা, একাকিত্ব আর ব্যবসায়িক স্বার্থের অভিযোগ। এমনটাই বলছেন প্রাণী অধিকারকর্মীরা।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771977472-7be28c6d16bd011adafcf229c52e1d2f.jpg"
-    },
-    {
-      "headline": "মধ্যপ্রাচ্যে বিশ্বের বৃহত্তম মার্কিন রণতরীতে টয়লেটই অকেজো, বাড়ছে ক্ষোভ",
-      "url": "https://www.bd-pratidin.com/international-news/2026/02/25/1221006",
-      "published_at": "2026-02-25T05:26:12+06:00",
-      "summary": "মধ্যপ্রাচ্যে ইরানকে ঘিরে উত্তেজনার মধ্যে যুক্তরাষ্ট্র মোতায়েন করেছে বিমানবাহী রণতরী ও যুদ্ধবিমানের বড় বহর। তবে বিশ্বের বৃহত্তম বিমানবাহী রণতরী ইউএসএস জেরাল্ড আর ফোর্ডে এখন আলোচনার কেন্দ্র যুদ্ধ প্রস্তুতি নয়, বরং অকেজো টয়লেট ও পয়ঃনিষ্কাশন সংকট। টানা সমুদ্রে থাকার চাপ নাবিকদের ব্যক্তিগত দুর্ভোগ বাড়িয়ে দিয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771975571-55efb916cbac9ab7d2bfa32d58093fe9.jpg"
-    },
-    {
-      "headline": "মঙ্গলকে বিভ্রান্তি বলেছিলেন, এখন চাঁদেই শহর গড়তে চান মাস্ক",
-      "url": "https://www.bd-pratidin.com/science/2026/02/25/1221005",
-      "published_at": "2026-02-25T04:36:10+06:00",
-      "summary": "মঙ্গল গ্রহে শহর গড়ার স্বপ্ন বহুদিনের। কিন্তু এবার দিক বদলালেন ইলন মাস্ক। চাঁদের বুকে স্ব বর্ধনশীল শহর গড়া সম্ভব এবং তা ১০ বছরেরও কম সময়ে বাস্তবায়ন করা যেতে পারে, এমন পরিকল্পনার কথা জানিয়েছেন তিনি। এক্স, টেসলা, স্পেসএক্স প্রধান ইলন মাস্কের সাম্প্রতিক এক্স পোস্ট ঘিরে শুরু হয়েছে নতুন বিতর্ক।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771972569-56dff6e3909315bec94d4fb3215dee71.jpg"
-    },
-    {
-      "headline": "রমজানেই কেন বাড়ে ভিক্ষাবৃত্তি, দুবাই পুলিশের অভিযানে মিলল যে চিত্র",
-      "url": "https://www.bd-pratidin.com/international-news/2026/02/25/1221004",
-      "published_at": "2026-02-25T04:30:57+06:00",
-      "summary": "পবিত্র রমজান মাস শুরু হতেই দুবাইয়ে ভিক্ষাবৃত্তি রোধে নড়েচড়ে বসেছে আইনশৃঙ্খলা বাহিনী। মাসের প্রথম এক সপ্তাহেই ভিক্ষাবৃত্তির দায়ে ২৬ জনকে গ্রেপ্তার করেছে দুবাই পুলিশ। প্রতি বছরই এই সময়ে ভিক্ষার আড়ালে প্রতারণার অভিযোগ বাড়ায় বিশেষ অভিযান চালানো হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771972256-ebdb24cba3f5e52b2f12a04816a7537b.jpg"
-    },
-    {
-      "headline": "রমজান উপলক্ষে নবীজি (সা.)-এর উপদেশ",
-      "url": "https://www.bd-pratidin.com/islam/2026/02/25/1221003",
-      "published_at": "2026-02-25T03:25:10+06:00",
-      "summary": "রাসুল (সা.) রমজান সম্পর্কে আমাদের শুধু কিছু বিধান দিয়ে যাননি; তিনি উম্মতকে শিখিয়ে গেছেন—এই মাসকে কিভাবে গ্রহণ করতে হয়, কিভাবে প্রস্তুত হতে হয় এবং কিভাবে আল্লাহর আরো কাছাকাছি যেতে হয়। তাই রমজান উপলক্ষে রাসুল (সা.)-এর বিশেষ উপদেশ জানা একজন মুমিনের জন্য অত্যন্ত জরুরি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/25/og/1771968309-567b7bd48deac01feac361941bb77c9d.jpg"
-    },
-    {
-      "headline": "ইরানে সম্ভাব্য মার্কিন হামলার কী পরিণতি হতে পারে",
-      "url": "https://www.ittefaq.com.bd/776497/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%80-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A3%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87",
-      "published_at": null,
-      "summary": "যুক্তরাষ্ট্রের এবারের হুমকি এবং এর জেরে যদি হামলার মতো ঘটনা ঘটে, তাহলে এটি কি সীমিত পরিসরের হবে নাকি তা ছাড়িয়ে যাবে, সেটা বলা মুশকিল । আর সীমিত পরিসর বলতে এখানে কি বুঝানো হচ্ছে, সেটাও স্পষ্ট নয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/25/4f721565869686ac4a45aa75a48c4e3a-699e23b6c0fa0.jpg"
     }
   ]
 }
