@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-02-26T20:33:31.009285+00:00",
+  "fetched_at": "2026-02-26T21:07:19.833739+00:00",
   "stories": [
+    {
+      "headline": "এপস্টিন কাণ্ডে কংগ্রেসের তদন্তে হিলারি ক্লিনটনের সাক্ষ্য, ছবি ফাঁস",
+      "url": "https://www.prothomalo.com/world/usa/51f2dtmfxo",
+      "published_at": "2026-02-26T20:30:00+00:00",
+      "summary": "রুদ্ধদ্বার শুনানিতে অংশ নেওয়া হিলারির ছবি ফাঁস হওয়ার পর কিছু সময়ের জন্য থমকে যায় সাক্ষ্যগ্রহণ। পরে তা আবারও শুরু হয়।",
+      "image_s3_key": "prothomalo-bangla/2026-02-26/bqoz5522/HillaryClinton.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/bqoz5522/HillaryClinton.avif?auto=format,compress"
+    },
     {
       "headline": "ইউক্রেনে জালে ঢাকা হচ্ছে ৪০০০ কিলোমিটার সড়ক ",
       "url": "https://www.prothomalo.com/world/europe/juwolf3q2k",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/91jn0nqa/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "পর্তুগাল বাংলা প্রেসক্লাবের নতুন কার্যনির্বাহী কমিটি গঠিত",
-      "url": "https://nagorik.prothomalo.com/durporobash/vtvn35bgkn",
-      "published_at": "2026-02-26T15:52:25.590000+00:00",
-      "summary": "পর্তুগাল বাংলা প্রেসক্লাবের দুই বছর মেয়াদি নতুন কমিটি গঠন করা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-26/86ub6sc3/20.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/86ub6sc3/20.jpg?auto=format,compress"
-    },
-    {
       "headline": "অসংখ্য হত্যা, পাকিস্তানি সেনাদের জীবিত ধরে নিয়ে গেছে আফগান সেনারা",
       "url": "https://www.bd-pratidin.com/international-news/2026/02/27/1221845",
       "published_at": "2026-02-27T01:59:32+06:00",
@@ -376,6 +376,20 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/26/og/1772124842-bc68f3b631cfdf108768ae6b80d10dca.jpg"
     },
     {
+      "headline": "পারিবারিক কবরস্থান নিয়ে জামায়াত-বিএনপি সংঘর্ষ, আহত ৯",
+      "url": "https://www.ittefaq.com.bd/776826/%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A6%AC%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%86%E0%A6%B9%E0%A6%A4",
+      "published_at": null,
+      "summary": "যশোরের অভয়নগর উপজেলার বাঘুটিয়া ইউনিয়নের ভাটপাড়া বাজারে বৃহস্পতিবার (২৬ ফেব্রুয়ারি) বিকেলে বিএনপি ও জামায়াতের নেতা-কর্মীদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে। এতে অন্তত ৯ জন আহত হয়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/2ffe9838f893b8682fb6721457d71af3-69a0af8f78bbc.jpg"
+    },
+    {
+      "headline": "মাথাপিছু আয় ১ শতাংশ বেড়ে ২,৭৬৯ ডলার, তবে কমেছে জিডিপি প্রবৃদ্ধি",
+      "url": "https://www.ittefaq.com.bd/776825/%E0%A6%AE%E0%A6%BE%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%86%E0%A7%9F-%E0%A7%A7-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%82%E0%A6%B6-%E0%A6%AC%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A7%A8-%E0%A7%AD%E0%A7%AC%E0%A7%AF-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%AE%E0%A7%87%E0%A6%9B%E0%A7%87",
+      "published_at": null,
+      "summary": "দেশের মানুষের মাথাপিছু আয় বেড়ে দাঁড়িয়েছে ২ হাজার ৭৬৯ মার্কিন ডলার। ২০২৪–২৫ অর্থবছরের চূড়ান্ত হিসাবে এ তথ্য জানিয়েছে বাংলাদেশ পরিসংখ্যান ব্যুরো (বিবিএস)।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/01eb7ad1d1b733d12308af1bdbd324d5-69a0ab092343e.jpg"
+    },
+    {
       "headline": "পাল্টা ‘অপারেশন গজব-লিল-হক’-এ নিহত ৩০ আফগান সেনা, দাবি পাকিস্তানের",
       "url": "https://www.ittefaq.com.bd/776824/%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E2%80%98%E0%A6%85%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%97%E0%A6%9C%E0%A6%AC-%E0%A6%B2%E0%A6%BF%E0%A6%B2-%E0%A6%B9%E0%A6%95%E2%80%99-%E0%A6%8F-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%A9%E0%A7%A6-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE",
       "published_at": null,
@@ -430,20 +444,6 @@
       "published_at": null,
       "summary": "প্রধানমন্ত্রী তারেক রহমান–এর নির্দেশনার পর অপহৃত এক স্কুলছাত্রকে উদ্ধার করেছে পুলিশ। এ ঘটনায় একটি সংঘবদ্ধ অপহরণ চক্রের চার সদস্যকে গ্রেপ্তার করা হয়েছে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/134eb5ee0db1cd6729b9c1337d341d2a-69a0800417d9d.jpg"
-    },
-    {
-      "headline": "দক্ষিণ আফ্রিকার কাছে হার, শেষ ম্যাচে ভারতকে হারাতেই হবে ওয়েস্ট ইন্ডিজের",
-      "url": "https://www.ittefaq.com.bd/776816/%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%86%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A6%95%E0%A7%87",
-      "published_at": null,
-      "summary": "৭ উইকেটে ৮৩—এই অবস্থায় যে কোনো দলই ভেঙে পড়তে পারত। কিন্তু জেসন হোল্ডার ও রোমারিও শেফার্ডের দৃঢ়তায় লড়াইয়ে ফিরেছিল ওয়েস্ট ইন্ডিজ। তবু শেষ পর্যন্ত সবই গেল বৃথা। ব্যাট হাতে দুর্দান্ত পারফরম্যান্সে সহজ জয়ে সেমিফাইনালের খুব কাছাকাছি পৌঁছে গেছে দক্ষিণ আফ্রিকা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/221beaf93672ce56e143da38335593ff-69a07b4e43bf3.jpg"
-    },
-    {
-      "headline": "প্রার্থী চূড়ান্ত নয়, তবে এনসিপির আলোচনায় একাধিক নাম",
-      "url": "https://www.ittefaq.com.bd/776815/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A6%9A%E0%A7%82%E0%A7%9C%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A8%E0%A7%9F-%E0%A6%A4%E0%A6%AC%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95",
-      "published_at": null,
-      "summary": "ঢাকা উত্তর ও দক্ষিণ সিটি করপোরেশন নির্বাচনকে সামনে রেখে জাতীয় নাগরিক পার্টি (এনসিপি) প্রাথমিক প্রস্তুতি শুরু করেছে। এখনো নির্বাচনের তফসিল ঘোষণা না হলেও দলটির ভেতরে সম্ভাব্য মেয়র প্রার্থী নিয়ে আলোচনা চলছে। তবে আনুষ্ঠানিকভাবে কোনো প্রার্থীর নাম চূড়ান্ত হয়নি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/f25f91b1db7303c0b0ab891bbc42747e-69a078730c080.jpg"
     },
     {
       "headline": "একটি স্মৃতিকথা নিয়ে ভারতে তোলপাড়",
@@ -561,7 +561,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 27, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "অযোগ্য ব্যক্তিদের নিয়োগ এবং অদক্ষ কর্মকর্তাদের পদোন্নতির অভিযোগে দীর্ঘদিন ধরেই আলোচনায় ছিলেন বিমান বাংলাদেশ এয়ারলাইন্সের প্রধান আর্থিক কর্মকর্তা নওশাদ। ...",
+      "summary": "সংসদ সদস্য ও বিএনপির কেন্দ্রীয় সাংগঠনিক সম্পাদক জি কে গউছ বলেছেন, কে আমাদের ভোট দিয়েছে, কে দেয়নি সে বিবেচনায় আমরা ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -570,6 +570,28 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "পর্তুগাল বাংলা প্রেসক্লাবের নতুন কার্যনির্বাহী কমিটি গঠিত",
+      "url": "https://nagorik.prothomalo.com/durporobash/vtvn35bgkn",
+      "published_at": "2026-02-26T15:52:25.590000+00:00",
+      "summary": "পর্তুগাল বাংলা প্রেসক্লাবের দুই বছর মেয়াদি নতুন কমিটি গঠন করা হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-26/86ub6sc3/20.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/86ub6sc3/20.jpg?auto=format,compress"
+    },
+    {
+      "headline": "দক্ষিণ আফ্রিকার কাছে হার, শেষ ম্যাচে ভারতকে হারাতেই হবে ওয়েস্ট ইন্ডিজের",
+      "url": "https://www.ittefaq.com.bd/776816/%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3-%E0%A6%86%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%87-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A6%95%E0%A7%87",
+      "published_at": null,
+      "summary": "৭ উইকেটে ৮৩—এই অবস্থায় যে কোনো দলই ভেঙে পড়তে পারত। কিন্তু জেসন হোল্ডার ও রোমারিও শেফার্ডের দৃঢ়তায় লড়াইয়ে ফিরেছিল ওয়েস্ট ইন্ডিজ। তবু শেষ পর্যন্ত সবই গেল বৃথা। ব্যাট হাতে দুর্দান্ত পারফরম্যান্সে সহজ জয়ে সেমিফাইনালের খুব কাছাকাছি পৌঁছে গেছে দক্ষিণ আফ্রিকা।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/221beaf93672ce56e143da38335593ff-69a07b4e43bf3.jpg"
+    },
+    {
+      "headline": "প্রার্থী চূড়ান্ত নয়, তবে এনসিপির আলোচনায় একাধিক নাম",
+      "url": "https://www.ittefaq.com.bd/776815/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A6%9A%E0%A7%82%E0%A7%9C%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A8%E0%A7%9F-%E0%A6%A4%E0%A6%AC%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95",
+      "published_at": null,
+      "summary": "ঢাকা উত্তর ও দক্ষিণ সিটি করপোরেশন নির্বাচনকে সামনে রেখে জাতীয় নাগরিক পার্টি (এনসিপি) প্রাথমিক প্রস্তুতি শুরু করেছে। এখনো নির্বাচনের তফসিল ঘোষণা না হলেও দলটির ভেতরে সম্ভাব্য মেয়র প্রার্থী নিয়ে আলোচনা চলছে। তবে আনুষ্ঠানিকভাবে কোনো প্রার্থীর নাম চূড়ান্ত হয়নি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/f25f91b1db7303c0b0ab891bbc42747e-69a078730c080.jpg"
     },
     {
       "headline": "মুন্সিগঞ্জে আলুখেতে কুড়িয়ে পাওয়া ককটেল বিস্ফোরণে শিশুর হাত ছিন্নভিন্ন",
@@ -1479,30 +1501,6 @@
       "summary": "রেখার সংযম ও প্রাচ্য নন্দনের ইঙ্গিত মিলিয়ে শিল্পী ঐতিহ্যকে নতুন ভিজ্যুয়াল ভাষায় পুনর্বিন্যাস করেছেন। ",
       "image_s3_key": "prothomalo-bangla/2026-02-26/73nzw0kj/৪.-কালী-কিংকর-সর্দার-মধু-সংগ্রাহকে-চক্র-পটচিত্রের-একটি-প্যানেল.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/73nzw0kj/৪.-কালী-কিংকর-সর্দার-মধু-সংগ্রাহকে-চক্র-পটচিত্রের-একটি-প্যানেল.jpg?auto=format,compress"
-    },
-    {
-      "headline": "প্রথম ও দ্বিতীয় শ্রেণিতে নতুন করে পরীক্ষা কেন",
-      "url": "https://www.prothomalo.com/opinion/column/9bu5dlrjcl",
-      "published_at": "2026-02-26T12:27:41.046000+00:00",
-      "summary": "অন্তর্বর্তী সরকারের শেষ সময়ে প্রাথমিক ও গণশিক্ষা মন্ত্রণালয় প্রথম ও দ্বিতীয় শ্রেণিতে নতুন করে পরীক্ষা চালু করার সিদ্ধান্ত নেয়।",
-      "image_s3_key": "prothomalo-bangla/2025-12-10/pfjn3bjw/প্রাথমিক–৫.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-10/pfjn3bjw/প্রাথমিক–৫.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সরকার দেশটাকে জ্ঞানের আলোয় আলোকিত করতে চায়: প্রধানমন্ত্রী",
-      "url": "https://www.prothomalo.com/bangladesh/10v24yszjx",
-      "published_at": "2026-02-26T12:22:02.458000+00:00",
-      "summary": "জাতীয় সংগীত পরিবেশনের মাধ্যমে অমর একুশে বইমেলা-২০২৬–এর উদ্বোধনী অনুষ্ঠান শুরু হয়। এ সময় প্রধানমন্ত্রী তারেক রহমানের স্ত্রী জুবাইদা রহমান ও কন্যা জাইমা রহমান উপস্থিত ছিলেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-26/zhej16d9/image-286608-1772104785.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/zhej16d9/image-286608-1772104785.webp?auto=format,compress"
-    },
-    {
-      "headline": "১৮০ জন পুলিশ সার্জেন্ট নিয়োগের নির্দেশ, পরিকল্পনায় ১০ হাজার কনস্টেবল নিয়োগ",
-      "url": "https://www.prothomalo.com/bangladesh/ls2sw2nz1o",
-      "published_at": "2026-02-26T12:03:53.435000+00:00",
-      "summary": "পুলিশে নতুন করে ১৮০ জন সার্জেন্ট ও ১০ হাজার কনস্টেবল নিয়োগ।",
-      "image_s3_key": "prothomalo-bangla/2026-02-24/8w966r84/Salahuddin_Ahmed.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/8w966r84/Salahuddin_Ahmed.webp?auto=format,compress"
     }
   ]
 }
