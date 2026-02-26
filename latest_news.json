@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-02-26T19:43:59.153625+00:00",
+  "fetched_at": "2026-02-26T20:33:31.009285+00:00",
   "stories": [
+    {
+      "headline": "ইউক্রেনে জালে ঢাকা হচ্ছে ৪০০০ কিলোমিটার সড়ক ",
+      "url": "https://www.prothomalo.com/world/europe/juwolf3q2k",
+      "published_at": "2026-02-26T19:50:58.756000+00:00",
+      "summary": "মূলত এই জালগুলো ড্রোনের প্রপেলার বা পাখা আটকে দেয়। ফলে ড্রোনগুলো মূল্যবান সামরিক সরঞ্জাম, সেনাসদস্য বা বেসামরিক লক্ষ্যবস্তুতে পৌঁছানোর আগেই অকার্যকর হয়ে পড়ে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-26/qkydntts/01.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/qkydntts/01.jpg?auto=format,compress"
+    },
     {
       "headline": "১০ হাজার টাকা পর্যন্ত কৃষিঋণ সুদসহ মাফ",
       "url": "https://www.prothomalo.com/business/economics/st5f7ow6w9",
@@ -298,12 +306,11 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/86ub6sc3/20.jpg?auto=format,compress"
     },
     {
-      "headline": "মুন্সিগঞ্জে আলুখেতে কুড়িয়ে পাওয়া ককটেল বিস্ফোরণে শিশুর হাত ছিন্নভিন্ন",
-      "url": "https://www.prothomalo.com/bangladesh/district/wtbiqy3y9c",
-      "published_at": "2026-02-26T15:49:31.332000+00:00",
-      "summary": "মুন্সিগঞ্জ সদর উপজেলায় খেত থেকে কুড়িয়ে পাওয়া ককটেল বিস্ফোরণে একটি শিশু আহত হয়েছে। তার ডান হাতের আঙুল ছিন্নভিন্ন ও পায়ে জখম হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-26/xwagu4p3/MunshigonjDH0710202602261772106420565.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/xwagu4p3/MunshigonjDH0710202602261772106420565.jpg?auto=format,compress"
+      "headline": "অসংখ্য হত্যা, পাকিস্তানি সেনাদের জীবিত ধরে নিয়ে গেছে আফগান সেনারা",
+      "url": "https://www.bd-pratidin.com/international-news/2026/02/27/1221845",
+      "published_at": "2026-02-27T01:59:32+06:00",
+      "summary": "খাইবার পাখতুনখাওয়ায় ৪০ সীমান্ত সেনা চৌকি দখল এবং অসংখ্য হত্যা ও পাকিস্তানি সেনা জীবিত ধরে নিয়ে যাওয়ার দাবি করেছে আফগানিস্তান। গত সপ্তাহের বিমান হামলার জবাবে বৃহস্পতিবার রাতে অতর্কিত এই হামলা চালানো হয় বলে জানিয়েছে তারা।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/27/og/1772135971-ea60e4cffe3b873ffcfaa39048a87a6f.jpg"
     },
     {
       "headline": "১৭০ বছর পর আবারও বন্ধ ইস্ট ইন্ডিয়া কোম্পানি, দেউলিয়া ঘোষণা",
@@ -369,11 +376,11 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/26/og/1772124842-bc68f3b631cfdf108768ae6b80d10dca.jpg"
     },
     {
-      "headline": "ডেটিং অ্যাপের ফাঁদে অপহরণ: র‍্যাবের অভিযানে উদ্ধার, গ্রেফতার পাঁচ",
-      "url": "https://www.bd-pratidin.com/country/2026/02/26/1221700",
-      "published_at": "2026-02-26T22:12:33+06:00",
-      "summary": "ডেটিং অ্যাপে পরিচয়, এরপর প্রেমের প্রলোভন। সেই সূত্র ধরেই নারায়ণগঞ্জের বন্দর থানা এলাকায় অপহরণের শিকার হয় ঢাকার আজিমপুরের এক কিশোর। পরে র‍্যাব ১১ এর অভিযানে তাকে উদ্ধার করা হয়েছে। একই সঙ্গে হানি ট্র্যাপ চক্রের পাঁচ সদস্যকে গ্রেপ্তার করা হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/26/og/1772122352-6d537ee3d326d70fd0427adf76f413e5.jpg"
+      "headline": "পাল্টা ‘অপারেশন গজব-লিল-হক’-এ নিহত ৩০ আফগান সেনা, দাবি পাকিস্তানের",
+      "url": "https://www.ittefaq.com.bd/776824/%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E2%80%98%E0%A6%85%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%97%E0%A6%9C%E0%A6%AC-%E0%A6%B2%E0%A6%BF%E0%A6%B2-%E0%A6%B9%E0%A6%95%E2%80%99-%E0%A6%8F-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%A9%E0%A7%A6-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE",
+      "published_at": null,
+      "summary": "পাকিস্তান-আফগানিস্তান সীমান্তে তালেবান সরকারের বাহিনীর ‘উসকানিমূলক’ হামলার জবাবে পাল্টা অভিযানে অন্তত ৩০ জন আফগান তালেবান সদস্য নিহত হয়েছেন বলে দাবি করেছে পাকিস্তানের নিরাপত্তা সূত্রগুলো। খবরজিও নিউজ।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/915f17ee802bef820cfd7f506887868f-69a0a4398a6ea.jpg"
     },
     {
       "headline": "এনসিপির ১০ দিনের কর্মসূচি ঘোষণা",
@@ -437,13 +444,6 @@
       "published_at": null,
       "summary": "ঢাকা উত্তর ও দক্ষিণ সিটি করপোরেশন নির্বাচনকে সামনে রেখে জাতীয় নাগরিক পার্টি (এনসিপি) প্রাথমিক প্রস্তুতি শুরু করেছে। এখনো নির্বাচনের তফসিল ঘোষণা না হলেও দলটির ভেতরে সম্ভাব্য মেয়র প্রার্থী নিয়ে আলোচনা চলছে। তবে আনুষ্ঠানিকভাবে কোনো প্রার্থীর নাম চূড়ান্ত হয়নি।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/f25f91b1db7303c0b0ab891bbc42747e-69a078730c080.jpg"
-    },
-    {
-      "headline": "জামিন পেয়েই বাদীকে মারধরের অভিযোগ গায়ক নোবেলের বিরুদ্ধে",
-      "url": "https://www.ittefaq.com.bd/776814/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%A7%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%97%E0%A6%BE%E0%A7%9F%E0%A6%95-%E0%A6%A8%E0%A7%8B%E0%A6%AC%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "বিয়ের প্রলোভন দেখিয়ে এক তরুণীকে আটকে রেখে হেনস্তা ও আপত্তিকর ছবি তৈরির চেষ্টা এবং প্রায় ১৩ লাখ টাকা আত্মসাতের মামলায় গ্রেপ্তারের পরদিনই জামিনে মুক্ত হয়ে বাদীকে মারধরের অভিযোগ উঠেছে ‘সা রে গা মা পা’ খ্যাত সংগীতশিল্পী মাইনুল আহসান নোবেল–এর বিরুদ্ধে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/cfd34aede774188baf490932e1ae1ccf-69a07327dca91.jpg"
     },
     {
       "headline": "একটি স্মৃতিকথা নিয়ে ভারতে তোলপাড়",
@@ -561,7 +561,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 27, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "জিম্বাবুয়েকে হারিয়ে খাদের কিনারা থেকে ঘুরে দাঁড়িয়ে ভারত। টি-টোয়েন্টি বিশ্বকাপে সেমিফাইনালের আশা বাঁচিয়ে রাখল টুর্নামেন্টের স্বাগতিকরা। ...",
+      "summary": "অযোগ্য ব্যক্তিদের নিয়োগ এবং অদক্ষ কর্মকর্তাদের পদোন্নতির অভিযোগে দীর্ঘদিন ধরেই আলোচনায় ছিলেন বিমান বাংলাদেশ এয়ারলাইন্সের প্রধান আর্থিক কর্মকর্তা নওশাদ। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -570,6 +570,28 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "মুন্সিগঞ্জে আলুখেতে কুড়িয়ে পাওয়া ককটেল বিস্ফোরণে শিশুর হাত ছিন্নভিন্ন",
+      "url": "https://www.prothomalo.com/bangladesh/district/wtbiqy3y9c",
+      "published_at": "2026-02-26T15:49:31.332000+00:00",
+      "summary": "মুন্সিগঞ্জ সদর উপজেলায় খেত থেকে কুড়িয়ে পাওয়া ককটেল বিস্ফোরণে একটি শিশু আহত হয়েছে। তার ডান হাতের আঙুল ছিন্নভিন্ন ও পায়ে জখম হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-02-26/xwagu4p3/MunshigonjDH0710202602261772106420565.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/xwagu4p3/MunshigonjDH0710202602261772106420565.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ডেটিং অ্যাপের ফাঁদে অপহরণ: র‍্যাবের অভিযানে উদ্ধার, গ্রেফতার পাঁচ",
+      "url": "https://www.bd-pratidin.com/country/2026/02/26/1221700",
+      "published_at": "2026-02-26T22:12:33+06:00",
+      "summary": "ডেটিং অ্যাপে পরিচয়, এরপর প্রেমের প্রলোভন। সেই সূত্র ধরেই নারায়ণগঞ্জের বন্দর থানা এলাকায় অপহরণের শিকার হয় ঢাকার আজিমপুরের এক কিশোর। পরে র‍্যাব ১১ এর অভিযানে তাকে উদ্ধার করা হয়েছে। একই সঙ্গে হানি ট্র্যাপ চক্রের পাঁচ সদস্যকে গ্রেপ্তার করা হয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/26/og/1772122352-6d537ee3d326d70fd0427adf76f413e5.jpg"
+    },
+    {
+      "headline": "জামিন পেয়েই বাদীকে মারধরের অভিযোগ গায়ক নোবেলের বিরুদ্ধে",
+      "url": "https://www.ittefaq.com.bd/776814/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%A7%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%97%E0%A6%BE%E0%A7%9F%E0%A6%95-%E0%A6%A8%E0%A7%8B%E0%A6%AC%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "বিয়ের প্রলোভন দেখিয়ে এক তরুণীকে আটকে রেখে হেনস্তা ও আপত্তিকর ছবি তৈরির চেষ্টা এবং প্রায় ১৩ লাখ টাকা আত্মসাতের মামলায় গ্রেপ্তারের পরদিনই জামিনে মুক্ত হয়ে বাদীকে মারধরের অভিযোগ উঠেছে ‘সা রে গা মা পা’ খ্যাত সংগীতশিল্পী মাইনুল আহসান নোবেল–এর বিরুদ্ধে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/cfd34aede774188baf490932e1ae1ccf-69a07327dca91.jpg"
     },
     {
       "headline": "ফারুকী ভাইয়ের অবদানকে অস্বীকার করার কোনো উপায় নেই...",
@@ -1481,30 +1503,6 @@
       "summary": "পুলিশে নতুন করে ১৮০ জন সার্জেন্ট ও ১০ হাজার কনস্টেবল নিয়োগ।",
       "image_s3_key": "prothomalo-bangla/2026-02-24/8w966r84/Salahuddin_Ahmed.webp",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/8w966r84/Salahuddin_Ahmed.webp?auto=format,compress"
-    },
-    {
-      "headline": "মাদক সাম্রাজ্য নিয়ে শীর্ষ ৫ সিনেমায় কী আছে",
-      "url": "https://www.prothomalo.com/entertainment/hollywood/13rsab3qpe",
-      "published_at": "2026-02-26T12:00:00+00:00",
-      "summary": "বাস্তব ঘটনা ও কল্পনার মিশেলে মাদকসম্রাটদের উত্থান, ক্ষমতা, সহিংসতা ও পতনের গল্প বক্স অফিসেও আয়ে এগিয়ে থাকে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-25/ktp0btk4/xbkddah-072.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-25/ktp0btk4/xbkddah-072.jpg?auto=format,compress"
-    },
-    {
-      "headline": "কাশ প্যাটেল ও সুসির ফোনের রেকর্ড কেন সংগ্রহ করেছিল এফবিআই",
-      "url": "https://www.prothomalo.com/world/usa/mexwnrria1",
-      "published_at": "2026-02-26T11:59:36.918000+00:00",
-      "summary": "২০২৩ সালে সুসি ওয়াইলস ও তাঁর আইনজীবীর একটি কথোপকথনও রেকর্ড করেছিল এফবিআই।",
-      "image_s3_key": "prothomalo-bangla/2026-02-26/cf593nlv/Kash-Patel.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/cf593nlv/Kash-Patel.jpg?auto=format,compress"
-    },
-    {
-      "headline": "পুলিশ সার্জেন্টের ১৮০ শূন্য পদে নিয়োগ দ্রুতই: স্বরাষ্ট্রমন্ত্রী",
-      "url": "https://www.prothomalo.com/chakri/employment/uoocgndz79",
-      "published_at": "2026-02-26T11:58:39.396000+00:00",
-      "summary": "পুলিশ সার্জেন্টের ১৮০টি শূন্য পদে দ্রুত নিয়োগ দেওয়া হবে বলে জানিয়েছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
-      "image_s3_key": "prothomalo-bangla/2024-10-09/mm1ckhr1/পুলিশ-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-09/mm1ckhr1/পুলিশ-1.jpg?auto=format,compress"
     }
   ]
 }
