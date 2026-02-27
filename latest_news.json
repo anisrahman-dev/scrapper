@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-02-27T17:36:50.377401+00:00",
+  "fetched_at": "2026-02-27T18:08:48.946393+00:00",
   "stories": [
+    {
+      "headline": "ইরানের সঙ্গে উত্তেজনা, ইসরায়েল থেকে কর্মী সরিয়ে নিচ্ছে যুক্তরাষ্ট্র",
+      "url": "https://www.prothomalo.com/world/middle-east/k9vat1fwcv",
+      "published_at": "2026-02-27T17:44:53.071000+00:00",
+      "summary": "মার্কিন দূতাবাসের ওয়েবসাইটে বলা হয়েছে, ‘যতক্ষণ বাণিজ্যিক ফ্লাইট চালু আছে, সংশ্লিষ্ট ব্যক্তিরা ইসরায়েল ছেড়ে যাওয়ার বিষয়টি বিবেচনা করতে পারেন।’",
+      "image_s3_key": "prothomalo-bangla/2026-02-22/wp7sdbwq/Untitled-9.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/wp7sdbwq/Untitled-9.png?auto=format,compress"
+    },
+    {
+      "headline": "জিতল ইংল্যান্ড, ঝুলে গেল নিউজিল্যান্ডের ভাগ্য, টিকে থাকল পাকিস্তান",
+      "url": "https://www.prothomalo.com/sports/cricket/ld3dutlte0",
+      "published_at": "2026-02-27T17:42:24.710000+00:00",
+      "summary": "প্রেমাদাসায় ১৫৯ রান তাড়া করতে নেমে কারও ফিফটি ছাড়াও তাই ৩ বল হাতে রেখেই ৪ উইকেটের জয় পেয়েছে ইংল্যান্ড। তাদের এই জয় বিশ্বকাপে টিকিয়ে রেখেছে পাকিস্তানকেও।",
+      "image_s3_key": "prothomalo-bangla/2026-02-27/ldxrmuee/163706-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/ldxrmuee/163706-01-02.jpg?auto=format,compress"
+    },
+    {
+      "headline": "প্রথম আলোতে হামলার অর্থ পুরো দেশের ওপর হামলা: শাহাদাত হোসেন সেলিম",
+      "url": "https://www.prothomalo.com/video/bangladesh/hkbm8z4do6",
+      "published_at": "2026-02-27T17:41:34.787000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-02-27/40xprt38/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/40xprt38/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইংল্যান্ডকে অসাধারণ জয় এনে দিলেন রেহান–জ্যাকস, বিশ্বকাপে টিকে থাকল পাকিস্তান",
+      "url": "https://www.prothomalo.com/sports/cricket/7ei513zhey",
+      "published_at": "2026-02-27T17:36:58.346000+00:00",
+      "summary": "কলম্বোর প্রেমাদাসা স্টেডিয়ামে আজ সুপার এইটে নিজেদের শেষ ম্যাচে ইংল্যান্ডের মুখোমুখি  নিউজিল্যান্ড। এই ম্যাচের সকল আপডেট পেতে চোখ রাখুন প্রথম আলোয়।",
+      "image_s3_key": "prothomalo-bangla/2026-02-27/o1gg4m9i/163608-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/o1gg4m9i/163608-01-02.jpg?auto=format,compress"
+    },
     {
       "headline": "আফগানিস্তানে পাকিস্তানের হামলা, ২২৮ তালেবান নিহত। দেশের বিভিন্ন জায়গায় ৫.৪ মাত্রার ভূমিকম্প\n",
       "url": "https://www.prothomalo.com/video/bangladesh/yy4tn19ogs",
@@ -8,14 +40,6 @@
       "summary": null,
       "image_s3_key": "prothomalo-bangla/2026-02-27/8rkexa76/AUDIO-NEWS-THUMB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/8rkexa76/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ইংল্যান্ডকে অসাধারণ জয় এনে দিলেন রেহান–জ্যাকস, বিশ্বকাপে টিকে থাকল পাকিস্তান",
-      "url": "https://www.prothomalo.com/sports/cricket/7ei513zhey",
-      "published_at": "2026-02-27T17:22:12.641000+00:00",
-      "summary": "কলম্বোর প্রেমাদাসা স্টেডিয়ামে আজ সুপার এইটে নিজেদের শেষ ম্যাচে ইংল্যান্ডের মুখোমুখি  নিউজিল্যান্ড। এই ম্যাচের সকল আপডেট পেতে চোখ রাখুন প্রথম আলোয়।",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/o1gg4m9i/163608-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/o1gg4m9i/163608-01-02.jpg?auto=format,compress"
     },
     {
       "headline": "রাজনীতিতে স্বস্তি ফিরলেও অর্থনীতিতে ঝুঁকি বেড়েছে",
@@ -118,8 +142,8 @@
       "url": "https://www.prothomalo.com/bangladesh/district/73ci25lfg0",
       "published_at": "2026-02-27T16:23:37.800000+00:00",
       "summary": "আজ শুক্রবার রাত ৯টার দিকে গাজীপুরের মাওনা এলাকা থেকে তাকে গ্রেপ্তার করা হয় বলে প্রথম আলোকে নিশ্চিত করেছেন মাধবদী থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) কামাল হোসেন।",
-      "image_s3_key": "prothomalo-bangla/2025-04-23/knast9f6/arrest-logo.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-04-23/knast9f6/arrest-logo.jpg?auto=format,compress"
+      "image_s3_key": "prothomalo-bangla/2026-02-27/2wu6cn0a/WhatsApp-Image-2026-02-27-at-11.07.33-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/2wu6cn0a/WhatsApp-Image-2026-02-27-at-11.07.33-PM.jpeg?auto=format,compress"
     },
     {
       "headline": "এমটিবি কার্ডের আস্থায় আমার ডিজিটাল লাইফস্টাইল: শামীম মাহাবুব",
@@ -298,30 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/x0jrvlmo/Thamm.jpg?auto=format,compress"
     },
     {
-      "headline": "বিজয়ের বিরুদ্ধে বিবাহবহির্ভূত সম্পর্কের অভিযোগ, বিচ্ছেদ চাইলেন স্ত্রী",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/9g95u61c9s",
-      "published_at": "2026-02-27T14:30:00+00:00",
-      "summary": "দক্ষিণি তারকা অভিনেতা ও রাজনীতিবিদ থালাপতি বিজয়ের সঙ্গে ২৭ বছরের দাম্পত্য জীবনের ইতি টানছেন স্ত্রী সংগীতা স্বর্ণালিঙ্গম।",
-      "image_s3_key": "prothomalo-bangla/2023-06/1c59a731-328c-4c5c-8dde-f17c49a91e7f/vijay_thalapathy_official___143690712_447250843301019_5045766760522436345_n.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-06/1c59a731-328c-4c5c-8dde-f17c49a91e7f/vijay_thalapathy_official___143690712_447250843301019_5045766760522436345_n.jpg?auto=format,compress"
-    },
-    {
-      "headline": "জয়পুরহাটের নতুনহাটে ইজারায় রেকর্ড, ১২ কোটির বেশি দর",
-      "url": "https://www.prothomalo.com/bangladesh/district/b9qzspzjt3",
-      "published_at": "2026-02-27T14:28:13.502000+00:00",
-      "summary": "চলতি বছর জয়পুরহাট পৌর শহরের প্রাণকেন্দ্রে অবস্থিত নতুনহাট ১২ কোটি ১২ লাখ ১১২ টাকায় ইজারা হয়েছে, যা পৌরসভার ইতিহাসে অন্যতম সর্বোচ্চ।",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/w1bsm2ny/JoypurhatNotunhat.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/w1bsm2ny/JoypurhatNotunhat.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "নরসিংদীতে কিশোরীকে ‘ধর্ষণের’ পর হত্যার প্রতিবাদে ডাকসুর বিক্ষোভ",
-      "url": "https://www.prothomalo.com/bangladesh/5mwi6p74p5",
-      "published_at": "2026-02-27T14:24:46.990000+00:00",
-      "summary": "ডাকসুর জিএস বলেন, যদি ক্ষমতায় থাকতে চান, ভালোভাবে চালাতে চান; এখনই এই চাঁদাবাজ ও ধর্ষকদের বিরুদ্ধে সিরিয়াস হোন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/as2zlxwr/du-protest.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/as2zlxwr/du-protest.jpg?auto=format,compress"
-    },
-    {
       "headline": "বাবকিউ রাজশাহী ফোরামের ইফতার মাহফিল ও কবিতা আড্ডা",
       "url": "https://www.bd-pratidin.com/city-news/2026/02/27/1222090",
       "published_at": "2026-02-27T22:05:57+06:00",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/27/og/1772202745-a3bdaf3ab1b7574984f27e22af4ea641.jpg"
     },
     {
+      "headline": "থালাপতি বিজয়ের বিরুদ্ধে পরকীয়ার অভিযোগ, বিচ্ছেদের আবেদন স্ত্রীর",
+      "url": "https://www.ittefaq.com.bd/776960/%E0%A6%A5%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%95%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "দক্ষিণি চলচ্চিত্রের জনপ্রিয় তারকা ও রাজনীতিবিদ থালাপতি বিজয়-এর সঙ্গে ২৭ বছরের দাম্পত্য জীবনের ইতি টানতে আদালতে বিচ্ছেদের আবেদন করেছেন তার স্ত্রী সংগীতা স্বর্ণালিঙ্গম।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/6fc02ed4e5e4c8178c4233e6f3287243-69a1d8e509151.jpg"
+    },
+    {
       "headline": "নিউজিল্যান্ডকে হারিয়ে পাকিস্তানের সেমির আশা বাঁচিয়ে রাখলো ইংল্যান্ড",
       "url": "https://www.ittefaq.com.bd/776959/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%BE",
       "published_at": null,
@@ -455,13 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/2c8b43aca674f5cb25b3d698090c2b0c-69a1b7b1a352e.jpg"
     },
     {
-      "headline": "'আমাদের হাত পাকিস্তানের গলা পর্যন্ত পৌঁছাতে পারে'",
-      "url": "https://www.ittefaq.com.bd/776950/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87",
-      "published_at": null,
-      "summary": "আফগান তালেবান সরকারের মুখপাত্র জাবিহুল্লাহ মুজাহিদ হুঁশিয়ারি দিয়ে বলেছেন, পাকিস্তান যদি তার সামরিক অভিযান অব্যাহত রাখে, তাহলে ইসলামিক এমিরেটের বাহিনীও যথাযথ ও সিদ্ধান্তমূলক ব্যবস্থা নিতে সক্ষম। তিনি বলেন, 'আমাদের হাত তাদের (পাকিস্তানের) গলা পর্যন্ত পৌঁছাতে পারে'।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/f965647248cc37f192e37280c333d73f-69a1b62028315.jpg"
-    },
-    {
       "headline": "একটি স্মৃতিকথা নিয়ে ভারতে তোলপাড়",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/5goVZOaMTiJl/",
       "published_at": null,
@@ -481,6 +481,100 @@
       "published_at": null,
       "summary": "নির্বাচনের সাথে অনুষ্ঠিত সংবিধান সংস্কার গণভোট ছিল বাংলাদেশের গণতান্ত্রিক যাত্রার একটি মোড় ঘোরানো অধ্যায়। প্রায় ৬৮ শতাংশ ভোটার সংস্কারের পক্ষে মত দিয়ে স্পষ্ট বার্তা দিয়েছেন যে, জনগণ শুধু সরকার পরিবর্তন নয়, শাসনব্যবস্থারও কাঠামোগত রূপান্তর চায়। এটি কোনো \r\nসাধারণ রাজনৈতিক সিদ্ধান্ত নয়, বরং রাষ্ট্রের ভবিষ্যৎ চরিত্র নির্ধারণের একটি ঐতিহাসিক ম্যান্ডেট। দীর্ঘদিনের ক্ষমতার কেন্দ্রীকরণ, দুর্বল জবাবদিহি ও প্রাতিষ্ঠানিক অকার্যকারিতার অভিজ্ঞতা থেকে জনগণ একটি অধিক ভারসাম্যপূর্ণ, গণমুখী ও দায়বদ্ধ সংবিধান প্রত্যাশা করছে",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "শেরপুর-১ আসনের এমপি হাফেজ রাশেদুল ইসলামকে ঢাকাস্থ শেরপুর ফোরামের সংবর্ধনা",
+      "url": "https://dailynayadiganta.com/bangladesh/politics/4XDkFOJixp7H/",
+      "published_at": null,
+      "summary": "‘নির্বাচনে বিজয় জনগণের। আমি শেরপুরবাসীর প্রত্যাশা পূরণে সততা ও নিষ্ঠার সঙ্গে কাজ করতে চাই। উন্নয়নই হবে আমার রাজনীতির প্রধান লক্ষ্য।’",
+      "image_url": "https://media.ndiganta.com/original_images/Rashed_aiw0Y56.jpg"
+    },
+    {
+      "headline": "কুষ্টিয়াতে ছাত্রশিবিরের ইফতার মাহফিল",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/wcszhz3OXd3K/",
+      "published_at": null,
+      "summary": "কুষ্টিয়ার কুমারখালীতে বাংলাদেশ ইসলামী ছাত্রশিবিরের সাবেক ও বর্তমান সদস্য, সাথী ও কর্মীদের নিয়ে ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/IU_IsonfHZ.jpg"
+    },
+    {
+      "headline": "সিলেট প্রেস ক্লাবের ইফতার মাহফিলে মন্ত্রী-এমপি-প্রশাসনের মিলনমেলা",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/KQezBgNi4YAO/",
+      "published_at": null,
+      "summary": "বক্তারা বলেন, সরকার ও বিরোধী দলের মধ্যে ভারসাম্য রক্ষায় মিডিয়া ন্যায্য ভূমিকা পালন করলে দেশ এগিয়ে যাবে। তোষামোদী সাংবাদিকতা দেশকে পথভ্রষ্ট করতে পারে বলেও তারা মন্তব্য করেন। অতীতে সিলেটের বিভিন্ন সামাজিক সমস্যার সমাধানে প্রেস ক্লাবের ভূমিকার কথা স্মরণ করে ভবিষ্যতেও সম্প্রীতি ও সৌহার্দ্য রক্ষায় প্রতিষ্ঠানটির সক্রিয় ভূমিকার প্রত্যাশা ব্যক্ত করা হয়",
+      "image_url": "https://media.ndiganta.com/original_images/sYL-272.jpg"
+    },
+    {
+      "headline": "ন্যায়বিচার প্রতিষ্ঠায় সরকার স্বচ্ছতার মাধ্যমে এগিয়ে যেতে চায় : আইনমন্ত্রী",
+      "url": "https://dailynayadiganta.com/bangladesh/national/7ej850HfMsLA/",
+      "published_at": null,
+      "summary": "‘আইন মন্ত্রণালয়ে দায়িত্ব পালন করতে গিয়ে আইনজীবীদের স্বার্থ যেমন দেখতে হয়, তেমনি বিচারপ্রার্থী মানুষের ন্যায়বিচার প্রাপ্তির বিষয়টিও সমানভাবে গুরুত্ব দিতে হয়।’",
+      "image_url": "https://media.ndiganta.com/original_images/Asad.jpg"
+    },
+    {
+      "headline": "ভিসা কার্যক্রম স্বাভাবিক করতে ভারত ইতিবাচক : পররাষ্ট্র প্রতিমন্ত্রী",
+      "url": "https://dailynayadiganta.com/bangladesh/national/76ZG3Vann4tr/",
+      "published_at": null,
+      "summary": "‘আমাদের দেশের নাগরিকরা যাতে ওখানে যেতে পারেন, সেই ব্যবস্থা উনারা করছেন। সেটা নিয়ে আমাদের পররাষ্ট্র মন্ত্রণালয়ও কাজ করছে।’",
+      "image_url": "https://media.ndiganta.com/original_images/Sama_NIXSy6A.jpg"
+    },
+    {
+      "headline": "৫২-৭১-৯০-২৪ ধারণ করে এগিয়ে যেতে হবে : মির্জা ফখরুল",
+      "url": "https://dailynayadiganta.com/bangladesh/national/166HCbTFAFTF/",
+      "published_at": null,
+      "summary": "‘সরকারের বয়স কেবল ১৫ দিন, এর মধ্যেই আমরা আমাদের লক্ষ্যের দিকে এগিয়ে চলেছি।’",
+      "image_url": "https://media.ndiganta.com/original_images/Mirza_Fakrul_wcE4dgY.jpg"
+    },
+    {
+      "headline": "প্রধানমন্ত্রী ১০ মার্চ ফ্যামিলি কার্ড কর্মসূচির উদ্বোধন করবেন",
+      "url": "https://dailynayadiganta.com/bangladesh/national/zdcqQgrbTZ4S/",
+      "published_at": null,
+      "summary": "‘সরকার ফ্যামিলি কার্ড কর্মসূচির পাইলট পর্ব চালু করতে যাচ্ছে। এ কর্মসূচির মূল লক্ষ্য পর্যায়ক্রমে দুই কোটি পরিবারকে মাসিক নগদ সহায়তার আওতায় আনা।’",
+      "image_url": "https://media.ndiganta.com/original_images/Jahid_eKczo5R.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - February 28, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "শ্রম ও কর্মসংস্থান এবং প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের মন্ত্রী আরিফুল হক চৌধুরী বলেছেন, এখন থেকে ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "বিজয়ের বিরুদ্ধে বিবাহবহির্ভূত সম্পর্কের অভিযোগ, বিচ্ছেদ চাইলেন স্ত্রী",
+      "url": "https://www.prothomalo.com/entertainment/bollywood/9g95u61c9s",
+      "published_at": "2026-02-27T14:30:00+00:00",
+      "summary": "দক্ষিণি তারকা অভিনেতা ও রাজনীতিবিদ থালাপতি বিজয়ের সঙ্গে ২৭ বছরের দাম্পত্য জীবনের ইতি টানছেন স্ত্রী সংগীতা স্বর্ণালিঙ্গম।",
+      "image_s3_key": "prothomalo-bangla/2023-06/1c59a731-328c-4c5c-8dde-f17c49a91e7f/vijay_thalapathy_official___143690712_447250843301019_5045766760522436345_n.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-06/1c59a731-328c-4c5c-8dde-f17c49a91e7f/vijay_thalapathy_official___143690712_447250843301019_5045766760522436345_n.jpg?auto=format,compress"
+    },
+    {
+      "headline": "জয়পুরহাটের নতুনহাটে ইজারায় রেকর্ড, ১২ কোটির বেশি দর",
+      "url": "https://www.prothomalo.com/bangladesh/district/b9qzspzjt3",
+      "published_at": "2026-02-27T14:28:13.502000+00:00",
+      "summary": "চলতি বছর জয়পুরহাট পৌর শহরের প্রাণকেন্দ্রে অবস্থিত নতুনহাট ১২ কোটি ১২ লাখ ১১২ টাকায় ইজারা হয়েছে, যা পৌরসভার ইতিহাসে অন্যতম সর্বোচ্চ।",
+      "image_s3_key": "prothomalo-bangla/2026-02-27/w1bsm2ny/JoypurhatNotunhat.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/w1bsm2ny/JoypurhatNotunhat.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "নরসিংদীতে কিশোরীকে ‘ধর্ষণের’ পর হত্যার প্রতিবাদে ডাকসুর বিক্ষোভ",
+      "url": "https://www.prothomalo.com/bangladesh/5mwi6p74p5",
+      "published_at": "2026-02-27T14:24:46.990000+00:00",
+      "summary": "ডাকসুর জিএস বলেন, যদি ক্ষমতায় থাকতে চান, ভালোভাবে চালাতে চান; এখনই এই চাঁদাবাজ ও ধর্ষকদের বিরুদ্ধে সিরিয়াস হোন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-27/as2zlxwr/du-protest.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/as2zlxwr/du-protest.jpg?auto=format,compress"
+    },
+    {
+      "headline": "'আমাদের হাত পাকিস্তানের গলা পর্যন্ত পৌঁছাতে পারে'",
+      "url": "https://www.ittefaq.com.bd/776950/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A4-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87",
+      "published_at": null,
+      "summary": "আফগান তালেবান সরকারের মুখপাত্র জাবিহুল্লাহ মুজাহিদ হুঁশিয়ারি দিয়ে বলেছেন, পাকিস্তান যদি তার সামরিক অভিযান অব্যাহত রাখে, তাহলে ইসলামিক এমিরেটের বাহিনীও যথাযথ ও সিদ্ধান্তমূলক ব্যবস্থা নিতে সক্ষম। তিনি বলেন, 'আমাদের হাত তাদের (পাকিস্তানের) গলা পর্যন্ত পৌঁছাতে পারে'।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/f965647248cc37f192e37280c333d73f-69a1b62028315.jpg"
     },
     {
       "headline": "মাদক, চাঁদাবাজি ও দখলবাজিকে না বলতে হবে",
@@ -530,20 +624,6 @@
       "published_at": null,
       "summary": "চট্টগ্রামের লোহাগাড়া উপজেলায় আমিরাবাদ ইউনিয়নের রাজঘাটা ব্রিজ এলাকায় টংকাবতী খালের দূষণ রোধ ও পরিবেশ সংরক্ষণে কার্যকর পদক্ষেপ গ্রহণের লক্ষে পরিদর্শন করেছেন চট্টগ্রাম-১৫ (লোহাগাড়া-সাতকানিয়া) আসনের সংসদ সদস্য শাহজাহান চৌধুরী।",
       "image_url": "https://media.ndiganta.com/original_images/Shahjahan-Khan.jpeg2025.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - February 27, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "জাটকা সংরক্ষণ ও ইলিশের উৎপাদন বাড়াতে মার্চ-এপ্রিল দুই মাস লক্ষ্মীপুরের মেঘনা নদীতে সকল ধরনের মাছ ধরা নিষিদ্ধ ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "বগুড়া থেকে শুরু হচ্ছে ফ্যামিলি কার্ড বিতরণ, ১০ মার্চ উদ্বোধন করবেন প্রধানমন্ত্রী  ",
@@ -1414,94 +1494,6 @@
       "summary": "অফিস পাড়া ও আবাসিক এলাকার বিভিন্ন বহুতল থেকে মানুষ নিচে নেমে এসে আশ্রয় নেয় রাস্তায়। আজ ভূমিকম্পে কলকাতার একটি বাড়ি হেলে পড়েছে।",
       "image_s3_key": "prothomalo-bangla/2026-02-27/u476b3bh/GANESH-CHANDRA-AVENUE.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/u476b3bh/GANESH-CHANDRA-AVENUE.jpg?auto=format,compress"
-    },
-    {
-      "headline": "শহরের নিরাপত্তায় শরীয়তপুরে যুক্ত হলো এআই প্রযুক্তি, মুহূর্তেই অপরাধী শনাক্ত\n",
-      "url": "https://www.prothomalo.com/video/bangladesh/4e5ak21n80",
-      "published_at": "2026-02-27T10:46:06.063000+00:00",
-      "summary": "শহরের নিরাপত্তায় শরীয়তপুরে যুক্ত হলো এআই প্রযুক্তি, মুহূর্তেই অপরাধী শনাক্ত",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/xiyvrwwf/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/xiyvrwwf/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "স্থানীয় সরকার নির্বাচন যথাসময়েই হবে : মির্জা ফখরুল",
-      "url": "https://www.prothomalo.com/bangladesh/district/ubwnhtrzry",
-      "published_at": "2026-02-27T10:46:00.875000+00:00",
-      "summary": "নতুন মন্ত্রিপরিষদ গঠনের পর দেশের পরিস্থিতি নিয়ে মির্জা ফখরুল ইসলাম বলেন, ‘১৭ তারিখ আমরা শপথ নিয়েছি। এখন তো অনেক ভালো।’",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/wlkp0r9u/Fakhrul.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/wlkp0r9u/Fakhrul.jpg?auto=format,compress"
-    },
-    {
-      "headline": "শক্তিশালী ব্যাটারিযুক্ত এই দুই স্মার্টফোনে ভালো মানের ছবি তোলা যায়",
-      "url": "https://www.prothomalo.com/technology/gadget/jgy3xmywl3",
-      "published_at": "2026-02-27T10:41:00.914000+00:00",
-      "summary": "দেশের বাজারে শক্তিশালী ব্যাটারি ও ক্যামেরাযুক্ত নতুন দুই স্মার্টফোন এনেছে টেকনো বাংলাদেশ। ",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/9z3wse0d/Techno.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/9z3wse0d/Techno.png?auto=format,compress"
-    },
-    {
-      "headline": "জামালপুরে মহাসড়কে গতিরোধক স্থাপনের দাবিতে অবরোধ",
-      "url": "https://www.prothomalo.com/bangladesh/district/vr9apih7ke",
-      "published_at": "2026-02-27T10:38:32.148000+00:00",
-      "summary": "জামালপুরের মেলান্দহ উপজেলার মালঞ্চ এলাকায় গতিরোধক স্থাপনের দাবিতে মহাসড়ক অবরোধ কর্মসূচি পালন করেছেন স্থানীয় বাসিন্দারা।",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/4kjwukxh/JamalpurDH056320260227Jamalpur-pic-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/4kjwukxh/JamalpurDH056320260227Jamalpur-pic-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "হাওরে বাঁধ নির্মাণকাজে কোনো দুর্নীতি সহ্য করা হবে না: সুনামগঞ্জে পানিসম্পদমন্ত্রী",
-      "url": "https://www.prothomalo.com/bangladesh/district/x75u9no1hv",
-      "published_at": "2026-02-27T10:38:05.939000+00:00",
-      "summary": "আজ শুক্রবার দুপুরে সুনামগঞ্জের জামালগঞ্জ, তাহিরপুর, মধ্যনগর ও ধর্মপাশা উপজেলায় বিভিন্ন হাওরে বাঁধের কাজ পরিদর্শন করেন পানিসম্পদমন্ত্রী মো. শহীদ উদ্দীন চৌধুরী এ্যানি।",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/3epj62kn/SUNAMGANJDH053220260227FBIMG1772181665865.JPG.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/3epj62kn/SUNAMGANJDH053220260227FBIMG1772181665865.JPG.JPG?auto=format,compress"
-    },
-    {
-      "headline": "আফগানিস্তানের বিরুদ্ধে পাকিস্তানের ‘প্রকাশ্য যুদ্ধ’ ঘোষণা",
-      "url": "https://www.prothomalo.com/video/international/vz0r2gs6z3",
-      "published_at": "2026-02-27T10:33:38.836000+00:00",
-      "summary": "আফগানিস্তানের বিরুদ্ধে পাকিস্তানের ‘প্রকাশ্য যুদ্ধ’ ঘোষণা",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/llen5c3f/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/llen5c3f/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "চলচ্চিত্রে ধূমপানের দৃশ্য থাকলে জাতীয় পুরস্কার নয়—এমন কোনো সিদ্ধান্ত হয়নি",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/78tbq0cw99",
-      "published_at": "2026-02-27T10:30:00+00:00",
-      "summary": "চলচ্চিত্রে ধূমপানের দৃশ্য থাকলে জাতীয় পুরস্কার নয়—এমন কোনো সিদ্ধান্ত গৃহীত হয়নি জানিয়ে বাংলাদেশ চলচ্চিত্র সার্টিফিকেশন বোর্ড বলছে, এ ধরনের কোনো সিদ্ধান্ত নেওয়ার এখতিয়ারও বোর্ডের নেই।",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/qruq7bm3/6423420109547228805479518032192120972720647n.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/qruq7bm3/6423420109547228805479518032192120972720647n.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রংপুরে নিখোঁজের তিন দিন পর মনজুরুলের মরদেহ উদ্ধার",
-      "url": "https://www.prothomalo.com/video/bangladesh/ibxswyqmtc",
-      "published_at": "2026-02-27T10:23:08.619000+00:00",
-      "summary": "রংপুরে নিখোঁজের তিন দিন পর মনজুরুলের মরদেহ উদ্ধার",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/xpb3qelv/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/xpb3qelv/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বাংলাদেশ ভিসা দেওয়া শুরু করতেই ত্রিপুরায় লম্বা লাইন ",
-      "url": "https://www.prothomalo.com/video/international/rou00oy8pg",
-      "published_at": "2026-02-27T10:06:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-27/vj34kis2/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/vj34kis2/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "অডিশনে আপত্তি, হলিউডের প্রস্তাব ফেরালেন দীপিকা",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/8rz3ek0lw8",
-      "published_at": "2026-02-27T10:00:00+00:00",
-      "summary": "সিরিজটিতে থাকা হচ্ছে না ভারতীয় অভিনেত্রীর। অডিশন–প্রক্রিয়ায় অংশ নিতে অনীহার কারণেই নাকি প্রকল্পটি থেকে সরে দাঁড়িয়েছেন অভিনেত্রী।",
-      "image_s3_key": "prothomalo-bangla/2026-02-16/pjxr8gd9/deepikapadukone17651201413782424348188277737572299277.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-16/pjxr8gd9/deepikapadukone17651201413782424348188277737572299277.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ছোলার সালাদের ড্রেসিংয়ে কী দেবেন, দেখুন রেসিপি",
-      "url": "https://www.prothomalo.com/lifestyle/recipe/kcqh1x7mpm",
-      "published_at": "2026-02-27T10:00:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-02-24/y6zhj03g/KBRH0581.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-24/y6zhj03g/KBRH0581.JPG?auto=format,compress"
     }
   ]
 }
