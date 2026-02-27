@@ -1,10 +1,18 @@
 {
-  "fetched_at": "2026-02-27T22:21:30.307342+00:00",
+  "fetched_at": "2026-02-27T22:54:23.202774+00:00",
   "stories": [
     {
-      "headline": "পাক–আফগান সংঘাতে হস্তক্ষেপ করবেন কি না, জানালেন ট্রাম্প",
+      "headline": "রমজানের গুরুত্বপূর্ণ ৭ আদব",
+      "url": "https://www.prothomalo.com/religion/islam/b1e24xicw2",
+      "published_at": "2026-02-27T22:30:00+00:00",
+      "summary": "সাহ্‌রি থেকে ইফতার পর্যন্ত পুরো সময় কোরআন তেলাওয়াত, আল্লাহর জিকির ও দোয়ায় রত থাকা রোজার পরিপূর্ণতার অন্তর্ভুক্ত। হাদিসে রোজার বিভিন্ন আদব আছে, যা রোজাদারের মর্যাদা বাড়ায়।",
+      "image_s3_key": "prothomalo-bangla/2026-02-26/e3fw2ox3/118509-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/e3fw2ox3/118509-01-02.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পাকিস্তান ও আফগানিস্তানের সংঘাতে হস্তক্ষেপ করবেন কি না, জানালেন ট্রাম্প",
       "url": "https://www.prothomalo.com/world/asia/dorbgkgpjd",
-      "published_at": "2026-02-27T22:16:11.245000+00:00",
+      "published_at": "2026-02-27T22:18:12.214000+00:00",
       "summary": "পাকিস্তানের প্রধানমন্ত্রী শাহবাজ শরিফের মুখপাত্র মোশাররফ জাইদি জানিয়েছেন, অভিযানে এখন পর্যন্ত আফগান তালেবানের ২৭টি সামরিক পোস্ট ধ্বংস এবং ৯টি দখল করা হয়েছে।",
       "image_s3_key": "prothomalo-bangla/2026-02-22/ioeseyn5/trump.avif",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/ioeseyn5/trump.avif?auto=format,compress"
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/eepzvjfe/WhatsApp-Image-2026-02-27-at-9.20.08-PM.jpeg?auto=format,compress"
     },
     {
-      "headline": "খুলনায় প্রতিপক্ষের হামলায় যুবদল নেতা নিহত",
-      "url": "https://www.prothomalo.com/bangladesh/district/nn0igibpa0",
-      "published_at": "2026-02-27T15:33:07.095000+00:00",
-      "summary": "খুলনার দিঘলিয়া উপজেলায় আধিপত্য বিস্তারকে কেন্দ্র করে বিরোধের জেরে প্রতিপক্ষের ছুরিকাঘাতে খান মুরাদ (৪৪) নামে এক যুবদল নেতা নিহত হয়েছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-02-27/aiw8jjpu/Khulna_DH0549_20260227_khulna_senhati_murad.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/aiw8jjpu/Khulna_DH0549_20260227_khulna_senhati_murad.jpg?auto=format,compress"
-    },
-    {
       "headline": "আফগানিস্তানে অভিযান অব্যাহত রাখার ঘোষণা পাকিস্তানের",
       "url": "https://www.bd-pratidin.com/international-news/2026/02/28/1222221",
       "published_at": "2026-02-28T02:23:09+06:00",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/27/og/1772202922-415f72e51035cf9e0c4d5b951ea49960.jpg"
     },
     {
+      "headline": "ন্যায়বিচার প্রতিষ্ঠায় সরকার স্বচ্ছতার মাধ্যমে এগিয়ে যেতে চায়: আইনমন্ত্রী",
+      "url": "https://www.ittefaq.com.bd/776972/%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%C2%A0%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87",
+      "published_at": null,
+      "summary": "আইন, বিচার ও সংসদ বিষয়ক মন্ত্রী মো. আসাদুজ্জামান বলেছেন, ন্যায়বিচার প্রতিষ্ঠায় বর্তমান সরকার স্বচ্ছতার মাধ্যমে এগিয়ে যেতে চায় এবং স্বচ্ছতার এই পথ অনুসরণ করেই কাঙ্ক্ষিত লক্ষ্যে পৌঁছানো সম্ভব। শুক্রবার রাজধানীর ধানমন্ডিতে বাংলাদেশ জুডিশিয়াল সার্ভিস অ্যাসোসিয়েশন আয়োজিত ইফতার মাহফিলে প্রধান অতিথির বক্তব্যে আইনমন্ত্রী এসব কথা বলেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/564065eb6801c479e55bf0c2286fd39d-69a214d4d2373.jpg"
+    },
+    {
       "headline": "ঈদুল ফিতরের সম্ভাব্য তারিখ জানালেন জ্যোতির্বিদরা",
       "url": "https://www.ittefaq.com.bd/776971/%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%B0%E0%A6%BE",
       "published_at": null,
@@ -455,13 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/6fc02ed4e5e4c8178c4233e6f3287243-69a1d8e509151.jpg"
     },
     {
-      "headline": "নিউজিল্যান্ডকে হারিয়ে পাকিস্তানের সেমির আশা বাঁচিয়ে রাখলো ইংল্যান্ড",
-      "url": "https://www.ittefaq.com.bd/776959/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%BE",
-      "published_at": null,
-      "summary": "টি-টোয়েন্টি বিশ্বকাপের সুপার এইটে দিনের একমাত্র ম্যাচে নিউজিল্যান্ডকে ৪ উইকেটে হারিয়ে গ্রুপ-২ চ্যাম্পিয়ন হয়েছে ইংল্যান্ড। আর ইংলিশদের এই জয়ে সেমিফাইনালে ওঠার স্বপ্ন এখনো বেঁচে থাকল পাকিস্তানের।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/83c82a2537fa6620724788953dca5f7d-69a1d37b8720d.jpg"
-    },
-    {
       "headline": "একটি স্মৃতিকথা নিয়ে ভারতে তোলপাড়",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/5goVZOaMTiJl/",
       "published_at": null,
@@ -481,6 +481,13 @@
       "published_at": null,
       "summary": "নির্বাচনের সাথে অনুষ্ঠিত সংবিধান সংস্কার গণভোট ছিল বাংলাদেশের গণতান্ত্রিক যাত্রার একটি মোড় ঘোরানো অধ্যায়। প্রায় ৬৮ শতাংশ ভোটার সংস্কারের পক্ষে মত দিয়ে স্পষ্ট বার্তা দিয়েছেন যে, জনগণ শুধু সরকার পরিবর্তন নয়, শাসনব্যবস্থারও কাঠামোগত রূপান্তর চায়। এটি কোনো \r\nসাধারণ রাজনৈতিক সিদ্ধান্ত নয়, বরং রাষ্ট্রের ভবিষ্যৎ চরিত্র নির্ধারণের একটি ঐতিহাসিক ম্যান্ডেট। দীর্ঘদিনের ক্ষমতার কেন্দ্রীকরণ, দুর্বল জবাবদিহি ও প্রাতিষ্ঠানিক অকার্যকারিতার অভিজ্ঞতা থেকে জনগণ একটি অধিক ভারসাম্যপূর্ণ, গণমুখী ও দায়বদ্ধ সংবিধান প্রত্যাশা করছে",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "নতুন করে পাল্টাপাল্টি হামলা পাকিস্তান-আফগানিস্তানের",
+      "url": "https://dailynayadiganta.com/international/asia/south-asia/CuSGnziz1px9/",
+      "published_at": null,
+      "summary": "আব্দুল হক ফিদার আগে খোস্তের গভর্নরের মুখপাত্র মুস্তাগফার গুরবাজও গণমাধ্যমে পাঠানো এক বার্তায় হামলা শুরুর খবর জানিয়েছিলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/pakistan-afghan-clash.jpg"
     },
     {
       "headline": "এপস্টিন ইস্যুতে আত্মপক্ষ সমর্থন ক্লিনটনের",
@@ -549,7 +556,7 @@
       "headline": "আজকের সর্বশেষ খবর - February 28, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "আজ শনিবার, ২৮ ফেব্রুয়ারি ২০২৬ ইংরেজি, ১৫ ফাল্গুন ১৪৩২ বাংলা, ১০ রমজান ১৪৪৭ হিজরি। ঢাকা ও তার পার্শ্ববর্তী এলাকার নামাজের ...",
+      "summary": "রাজধানীর পুরান ঢাকার নারিন্দা এলাকায় একটি বাসায় এসির গ্যাস লিকেজ থেকে সৃষ্ট আগুনে দগ্ধ হয়ে মো. সেলিম (৩৩) মারা গেছেন। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -558,6 +565,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "খুলনায় প্রতিপক্ষের হামলায় যুবদল নেতা নিহত",
+      "url": "https://www.prothomalo.com/bangladesh/district/nn0igibpa0",
+      "published_at": "2026-02-27T15:33:07.095000+00:00",
+      "summary": "খুলনার দিঘলিয়া উপজেলায় আধিপত্য বিস্তারকে কেন্দ্র করে বিরোধের জেরে প্রতিপক্ষের ছুরিকাঘাতে খান মুরাদ (৪৪) নামে এক যুবদল নেতা নিহত হয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-27/aiw8jjpu/Khulna_DH0549_20260227_khulna_senhati_murad.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/aiw8jjpu/Khulna_DH0549_20260227_khulna_senhati_murad.jpg?auto=format,compress"
+    },
+    {
+      "headline": "নিউজিল্যান্ডকে হারিয়ে পাকিস্তানের সেমির আশা বাঁচিয়ে রাখলো ইংল্যান্ড",
+      "url": "https://www.ittefaq.com.bd/776959/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%BE",
+      "published_at": null,
+      "summary": "টি-টোয়েন্টি বিশ্বকাপের সুপার এইটে দিনের একমাত্র ম্যাচে নিউজিল্যান্ডকে ৪ উইকেটে হারিয়ে গ্রুপ-২ চ্যাম্পিয়ন হয়েছে ইংল্যান্ড। আর ইংলিশদের এই জয়ে সেমিফাইনালে ওঠার স্বপ্ন এখনো বেঁচে থাকল পাকিস্তানের।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/83c82a2537fa6620724788953dca5f7d-69a1d37b8720d.jpg"
     },
     {
       "headline": "জাপানের বার্ষিক জন্মহারে আরও এক ধাপ পতন",
@@ -1467,27 +1489,6 @@
       "published_at": null,
       "summary": "প্লে অফ শেষে কে কার মুখোমুখি হবে তা নিয়ে ছিল নানা জল্পনা। সেই সব গুঞ্জনের শেষ হয়েছে আজ। শুক্রবার নিওনে অনুষ্ঠিত হয়েছে চ্যাম্পিয়নস লিগের শেষ ষোলোর ড্র অনুষ্ঠান।",
       "image_url": "https://media.ndiganta.com/original_images/Real_Madridh_QCtwLyP.jpg"
-    },
-    {
-      "headline": "চাঁদপুর শহর জামায়াতের যাকাত শীর্ষক আলোচনা সভা ও ইফতার",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/ReZQGugVQTyc/",
-      "published_at": null,
-      "summary": "মাহে রমাদান উপলক্ষে বাংলাদেশ জামায়াতে ইসলামী চাঁদপুর শহর শাখার উদ্যোগে যাকাত শীর্ষক আলোচনা সভা ও ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Chadpur_ZuRRRAJ.jpg"
-    },
-    {
-      "headline": "হাজারীবাগে স্কুলছাত্রী হত্যা : দায় স্বীকার করে সিয়ামের জবানবন্দি",
-      "url": "https://dailynayadiganta.com/bangladesh/law-and-justice/YX5ZpnI5aKTQ/",
-      "published_at": null,
-      "summary": "‘আবেদনের পরিপ্রেক্ষিতে ঢাকার মেট্রোপলিটন ম্যাজিস্ট্রেট দিলরুবা আফরোজ তিথি তার জবানবন্দি রেকর্ড করেন। জবানবন্দি রেকর্ড শেষে তাকে কারাগারে পাঠানোর আদেশ দেন আদালত।’",
-      "image_url": "https://media.ndiganta.com/original_images/Binti_Murder.jpg"
-    },
-    {
-      "headline": "লোহাগাড়ায় সিএনজি-ট্রাকের মুখোমুখি সংঘর্ষে নিহত ১, আহত ৭",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/QuodzIrlDdPH/",
-      "published_at": null,
-      "summary": "চট্টগ্রামমুখী মিনিট্রাকটি অপর একটি গাড়িকে ওভারটেক করতে গিয়ে কক্সবাজারমুখী সিএনজিচালিত অটোরিকশার সাথে মুখোমুখি সংঘর্ষ হয়। এতে সিএনজিটি দুমড়ে-মুচড়ে যায় এবং মিনিট্রাকটি সড়কের পাশের খাদে পড়ে যায়। স্থানীয়রা আহত যাত্রীদের উদ্ধার করে একটি বেসরকারি হাসপাতালে পাঠানোর ব্যবস্থা করেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Chattogram-Road-Accident-De.jpg"
     }
   ]
 }
