@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-02-27T21:27:19.606861+00:00",
+  "fetched_at": "2026-02-27T21:53:39.677141+00:00",
   "sections": {
     "latest": [
       {
         "headline": "আফগান বাহিনীর ২৯৭ জন নিহত ও ৮৯টি সেনা চৌকি ধ্বংস, দাবি পাকিস্তানের",
         "url": "https://www.prothomalo.com/world/asia/dorbgkgpjd",
-        "published_at": "2026-02-27T21:07:59.834000+00:00",
+        "published_at": "2026-02-27T21:49:11.467000+00:00",
         "summary": "পাকিস্তানের প্রধানমন্ত্রী শাহবাজ শরিফের মুখপাত্র মোশাররফ জাইদি জানিয়েছেন, অভিযানে এখন পর্যন্ত আফগান তালেবানের ২৭টি সামরিক পোস্ট ধ্বংস এবং ৯টি দখল করা হয়েছে।",
         "image_s3_key": "prothomalo-bangla/2026-02-27/wv8n7ana/Paktika.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/wv8n7ana/Paktika.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আফগানিস্তান–পাকিস্তান সীমান্তে উত্তেজনা শিগগিরই থামছে না ",
+        "url": "https://www.prothomalo.com/world/pakistan/chxcsox2pv",
+        "published_at": "2026-02-27T21:27:25.589000+00:00",
+        "summary": "কয়েক বছর আগে সাবেক প্রধানমন্ত্রী ইমরান খানের বিদায়ের পর থেকেই পাকিস্তানে হামলার ঘটনা নাটকীয়ভাবে বেড়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-02-27/o5k3294m/১.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/o5k3294m/১.avif?auto=format,compress"
       },
       {
         "headline": "উড়োজাহাজে নয়, ট্রেনে সিডনি থেকে ১১ ঘণ্টায় মেলবোর্ন গেলেন এড শিরান",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/jfzlrp70/01.jpg?auto=format,compress"
       },
       {
-        "headline": "আমিরের ‘স্লগার’ নিয়ে জবাব দিলেন অশ্বিন",
-        "url": "https://www.prothomalo.com/sports/cricket/sd8xj0hfn9",
-        "published_at": "2026-02-27T15:13:37.937000+00:00",
-        "summary": "গতকাল অভিষেক জিম্বাবুয়ের বিপক্ষে ফিফটি করার পর ভারতের সাবেক ক্রিকেটার রবিচন্দ্রন অশ্বিন আমিরের এই কথার জবাব দিয়েছেন।",
-        "image_s3_key": "prothomalo-bangla/2026-02-27/zco70rh3/154573-01-02.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/zco70rh3/154573-01-02.jpg?auto=format,compress"
-      },
-      {
         "headline": "আফগানিস্তানে অভিযান অব্যাহত রাখার ঘোষণা পাকিস্তানের",
         "url": "https://www.bd-pratidin.com/international-news/2026/02/28/1222221",
         "published_at": "2026-02-28T02:23:09+06:00",
@@ -393,6 +393,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/27/og/1772202922-415f72e51035cf9e0c4d5b951ea49960.jpg"
       },
       {
+        "headline": "সামরিক অভিযানে ২৯৭ আফগান সেনা নিহত ও ৮৯টি সেনা চৌকি ধ্বংস, দাবি পাকিস্তানের",
+        "url": "https://www.ittefaq.com.bd/776967/%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A7%A8%E0%A7%AF%E0%A7%AD-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%93-%E0%A7%AE%E0%A7%AF%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE",
+        "published_at": null,
+        "summary": "পাকিস্তানের সামরিক অভিযানে আফগান বাহিনীর ২৯৭ জন নিহত এবং ৮৯টি সেনা চৌকি ধ্বংস হয়েছে বলে দাবি করেছে দেশটির প্রধানমন্ত্রী শাহবাজ শরিফ-এর একজন মুখপাত্র। এছাড়া ১৩৫টি ট্যাংক ও সাঁজোয়া যানও ধ্বংস হয়েছে। অভিযান চলেছে আফগানিস্তানের ২৯টি স্থানে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/9bd7cfa674ba366d5108c5fb4938732e-69a2027007a57.jpg"
+      },
+      {
         "headline": "শুধু মেডিকেল কলেজের জন্য তিনদিনে ৫০ কোটি টাকার অফার পেয়েছি: আমির হামজা",
         "url": "https://www.ittefaq.com.bd/776966/%E0%A6%B6%E0%A7%81%E0%A6%A7%E0%A7%81-%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A7%AB%E0%A7%A6-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0",
         "published_at": null,
@@ -454,13 +461,6 @@
         "published_at": null,
         "summary": "জাতীয় সংসদ নির্বাচনকে ‘সাজানো’ ও ‘ইঞ্জিনিয়ারিংয়ের নির্বাচন’ বলে অভিযোগ করেছেন মুফতি সৈয়দ ফয়জুল করীম। শুক্রবার (২৭ ফেব্রুয়ারি) বরিশালে আলেম-ওলামা ও পেশাজীবীদের সম্মানে আয়োজিত ইফতার অনুষ্ঠানে বক্তব্য দিতে গিয়ে তিনি এ অভিযোগ করেন।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/cc02207d6d95f35bf43f89e50df54f3b-69a1cd5d7c448.jpg"
-      },
-      {
-        "headline": "ধর্ষণের বিচার চাওয়ায় অপহরণের পর কিশোরীকে হত্যা: প্রধান অভিযুক্ত নূরা গ্রেপ্তার",
-        "url": "https://www.ittefaq.com.bd/776957/%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AA%E0%A6%B9%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE",
-        "published_at": null,
-        "summary": "নরসিংদীতে ধর্ষণের বিচার চাওয়াকে কেন্দ্র করে বাবার কাছ থেকে অপহরণের পর এক কিশোরীকে হত্যার ঘটনায় প্রধান অভিযুক্ত নূর মোহাম্মদ ওরফে নূরা (২৮) গ্রেপ্তার হয়েছে। শুক্রবার (২৭ ফেব্রুয়ারি) রাত ৯টার দিকে গাজীপুরের মাওনা এলাকা থেকে তাকে গ্রেপ্তার করা হয়।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/68497f3bf054c0bd11931ca48d91718f-69a1e2fc160ce.jpg"
       },
       {
         "headline": "একটি স্মৃতিকথা নিয়ে ভারতে তোলপাড়",
@@ -559,6 +559,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "আমিরের ‘স্লগার’ নিয়ে জবাব দিলেন অশ্বিন",
+        "url": "https://www.prothomalo.com/sports/cricket/sd8xj0hfn9",
+        "published_at": "2026-02-27T15:13:37.937000+00:00",
+        "summary": "গতকাল অভিষেক জিম্বাবুয়ের বিপক্ষে ফিফটি করার পর ভারতের সাবেক ক্রিকেটার রবিচন্দ্রন অশ্বিন আমিরের এই কথার জবাব দিয়েছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-02-27/zco70rh3/154573-01-02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/zco70rh3/154573-01-02.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ধর্ষণের বিচার চাওয়ায় অপহরণের পর কিশোরীকে হত্যা: প্রধান অভিযুক্ত নূরা গ্রেপ্তার",
+        "url": "https://www.ittefaq.com.bd/776957/%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AA%E0%A6%B9%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE",
+        "published_at": null,
+        "summary": "নরসিংদীতে ধর্ষণের বিচার চাওয়াকে কেন্দ্র করে বাবার কাছ থেকে অপহরণের পর এক কিশোরীকে হত্যার ঘটনায় প্রধান অভিযুক্ত নূর মোহাম্মদ ওরফে নূরা (২৮) গ্রেপ্তার হয়েছে। শুক্রবার (২৭ ফেব্রুয়ারি) রাত ৯টার দিকে গাজীপুরের মাওনা এলাকা থেকে তাকে গ্রেপ্তার করা হয়।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/68497f3bf054c0bd11931ca48d91718f-69a1e2fc160ce.jpg"
       },
       {
         "headline": "বাংলাদেশকে দক্ষিণ এশিয়ার নতুন পরাশক্তি তকমা দিলো ফিফা!",
@@ -1476,22 +1491,6 @@
         "summary": "ব্যবহারকারীদের সংবেদনশীল ব্যক্তিগত তথ্য সংগ্রহ না করেই বয়স সম্পর্কে ধারণা দিতে সক্ষম নতুন টুল চালুর ঘোষণা দিয়েছে প্রতিষ্ঠানটি।",
         "image_s3_key": "prothomalo-bangla/2025-08-27/ix49qvg9/Apple.Reuters.png",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-08-27/ix49qvg9/Apple.Reuters.png?auto=format,compress"
-      },
-      {
-        "headline": "রিমার্ক এইচবির কারখানায় পরিবেশকেরা, পেলেন সম্মাননা",
-        "url": "https://www.prothomalo.com/business/industry/g2ni14tq9o",
-        "published_at": "2026-02-27T11:38:17.998000+00:00",
-        "summary": "মুন্সিগঞ্জের গজারিয়ায় অবস্থিত কোম্পানির কারখানায় ঢাকা ও চট্টগ্রাম অঞ্চলের পরিবেশকদের অংশগ্রহণে দিনব্যাপী এ সভা অনুষ্ঠিত হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-02-27/4xxv8agu/Remark.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/4xxv8agu/Remark.jpg?auto=format,compress"
-      },
-      {
-        "headline": "আবারও রিয়ালের মুখোমুখি সিটি, পিএসজির প্রতিপক্ষ চেলসি",
-        "url": "https://www.prothomalo.com/sports/football/k1awo1qat0",
-        "published_at": "2026-02-27T11:31:53.152000+00:00",
-        "summary": "উয়েফা চ্যাম্পিয়নস লিগের শেষ ষোলোর লাইনআপ চূড়ান্ত হয়েছে আজ। কোয়ার্টার ফাইনালে ওঠার লড়াইটিতে বার্সেলোনা পেয়েছে নিউক্যাসলকে, রিয়াল মাদ্রিদ সিটিকে।",
-        "image_s3_key": "prothomalo-bangla/2024-04/581a1b54-2f79-48dd-805c-0a5546d58836/887153_01_02.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-04/581a1b54-2f79-48dd-805c-0a5546d58836/887153_01_02.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -4383,10 +4382,18 @@
       {
         "headline": "আফগান বাহিনীর ২৯৭ জন নিহত ও ৮৯টি সেনা চৌকি ধ্বংস, দাবি পাকিস্তানের",
         "url": "https://www.prothomalo.com/world/asia/dorbgkgpjd",
-        "published_at": "2026-02-27T21:07:59.834000+00:00",
+        "published_at": "2026-02-27T21:49:11.467000+00:00",
         "summary": "পাকিস্তানের প্রধানমন্ত্রী শাহবাজ শরিফের মুখপাত্র মোশাররফ জাইদি জানিয়েছেন, অভিযানে এখন পর্যন্ত আফগান তালেবানের ২৭টি সামরিক পোস্ট ধ্বংস এবং ৯টি দখল করা হয়েছে।",
         "image_s3_key": "prothomalo-bangla/2026-02-27/wv8n7ana/Paktika.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/wv8n7ana/Paktika.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আফগানিস্তান–পাকিস্তান সীমান্তে উত্তেজনা শিগগিরই থামছে না ",
+        "url": "https://www.prothomalo.com/world/pakistan/chxcsox2pv",
+        "published_at": "2026-02-27T21:27:25.589000+00:00",
+        "summary": "কয়েক বছর আগে সাবেক প্রধানমন্ত্রী ইমরান খানের বিদায়ের পর থেকেই পাকিস্তানে হামলার ঘটনা নাটকীয়ভাবে বেড়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-02-27/o5k3294m/১.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-27/o5k3294m/১.avif?auto=format,compress"
       },
       {
         "headline": "নিরাপত্তা শঙ্কায় পাকিস্তানের দুই প্রদেশ ও এক অঞ্চলে ড্রোন ওড়ানো নিষিদ্ধ",
@@ -4693,14 +4700,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-09-18/q7yuvubk/Capture.PNG?auto=format,compress"
       },
       {
-        "headline": "সড়কে বা ভবনে প্রায়ই দেখা যায় মরদেহ, মাদক গোষ্ঠীর দ্বন্দ্বে ‘যুদ্ধক্ষেত্র’ মেক্সিকো",
-        "url": "https://www.prothomalo.com/world/usa/mknzx73y28",
-        "published_at": "2026-02-26T09:21:08.393000+00:00",
-        "summary": "সিনালোয়া কার্টেলের একটি উপদল দাবি করে, লড়াইয়ে একটি পক্ষ ছাড়া সবাই খতম না হওয়া পর্যন্ত এই অস্থিরতা থামবে না।",
-        "image_s3_key": "prothomalo-bangla/2026-02-23/j4o6nizq/OPERATION.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-23/j4o6nizq/OPERATION.JPG?auto=format,compress"
-      },
-      {
         "headline": "আফগানিস্তানে অভিযান অব্যাহত রাখার ঘোষণা পাকিস্তানের",
         "url": "https://www.bd-pratidin.com/international-news/2026/02/28/1222221",
         "published_at": "2026-02-28T02:23:09+06:00",
@@ -4771,6 +4770,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/27/og/1772202922-415f72e51035cf9e0c4d5b951ea49960.jpg"
       },
       {
+        "headline": "সামরিক অভিযানে ২৯৭ আফগান সেনা নিহত ও ৮৯টি সেনা চৌকি ধ্বংস, দাবি পাকিস্তানের",
+        "url": "https://www.ittefaq.com.bd/776967/%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A7%A8%E0%A7%AF%E0%A7%AD-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%93-%E0%A7%AE%E0%A7%AF%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE",
+        "published_at": null,
+        "summary": "পাকিস্তানের সামরিক অভিযানে আফগান বাহিনীর ২৯৭ জন নিহত এবং ৮৯টি সেনা চৌকি ধ্বংস হয়েছে বলে দাবি করেছে দেশটির প্রধানমন্ত্রী শাহবাজ শরিফ-এর একজন মুখপাত্র। এছাড়া ১৩৫টি ট্যাংক ও সাঁজোয়া যানও ধ্বংস হয়েছে। অভিযান চলেছে আফগানিস্তানের ২৯টি স্থানে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/9bd7cfa674ba366d5108c5fb4938732e-69a2027007a57.jpg"
+      },
+      {
         "headline": "নাগরিকদের দ্রুত ইসরায়েল ছাড়তে বললো যুক্তরাষ্ট্র",
         "url": "https://www.ittefaq.com.bd/776955/%E0%A6%A8%E0%A6%BF%E0%A6%9C-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A6%B2-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0",
         "published_at": null,
@@ -4832,13 +4838,6 @@
         "published_at": null,
         "summary": "নিউইয়র্ক সিটির মেয়র জোহরান মামদানি বৃহস্পতিবার (২৭ ফেব্রুয়ারি) প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের সঙ্গে সাক্ষাৎ করে সাশ্রয়ী মূল্যের ১২ হাজার আবাসন ইউনিট ও অবকাঠামো নির্মাণে ২১ বিলিয়ন ডলারের ফেডারেল অনুদান ছাড়ের আহ্বান জানিয়েছেন। ওয়াশিংটন ডিসি থেকে বার্তাসংস্থা এএফপি এ খবর জানিয়েছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/8106e3e559f9003dde7fd6be29a4b751-69a191cbcf603.jpg"
-      },
-      {
-        "headline": "তিন শহরে আফগানদের ড্রোন হামলা, পাকিস্তান বলছে, ক্ষয়ক্ষতি হয়নি",
-        "url": "https://www.ittefaq.com.bd/776914/%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-        "published_at": null,
-        "summary": "পাকিস্তানের খাইবার পাখতুনখাওয়া প্রদেশের তিনটি শহরে ড্রোন হামলা চালিয়েছে আফগানিস্তান। তবে পাকিস্তান কর্তৃপক্ষ জানিয়েছে, আকাশ প্রতিরক্ষা ব্যবস্থার মাধ্যমে সব ড্রোন ভূপাতিত করা হয়েছে এবং কোনো জানমালের ক্ষয়ক্ষতি হয়নি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/81bd564e35078323bcbab6d19bf875d5-69a17f273fbb0.jpg"
       },
       {
         "headline": "একটি স্মৃতিকথা নিয়ে ভারতে তোলপাড়",
@@ -4986,6 +4985,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "সড়কে বা ভবনে প্রায়ই দেখা যায় মরদেহ, মাদক গোষ্ঠীর দ্বন্দ্বে ‘যুদ্ধক্ষেত্র’ মেক্সিকো",
+        "url": "https://www.prothomalo.com/world/usa/mknzx73y28",
+        "published_at": "2026-02-26T09:21:08.393000+00:00",
+        "summary": "সিনালোয়া কার্টেলের একটি উপদল দাবি করে, লড়াইয়ে একটি পক্ষ ছাড়া সবাই খতম না হওয়া পর্যন্ত এই অস্থিরতা থামবে না।",
+        "image_s3_key": "prothomalo-bangla/2026-02-23/j4o6nizq/OPERATION.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-23/j4o6nizq/OPERATION.JPG?auto=format,compress"
+      },
+      {
+        "headline": "তিন শহরে আফগানদের ড্রোন হামলা, পাকিস্তান বলছে, ক্ষয়ক্ষতি হয়নি",
+        "url": "https://www.ittefaq.com.bd/776914/%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+        "published_at": null,
+        "summary": "পাকিস্তানের খাইবার পাখতুনখাওয়া প্রদেশের তিনটি শহরে ড্রোন হামলা চালিয়েছে আফগানিস্তান। তবে পাকিস্তান কর্তৃপক্ষ জানিয়েছে, আকাশ প্রতিরক্ষা ব্যবস্থার মাধ্যমে সব ড্রোন ভূপাতিত করা হয়েছে এবং কোনো জানমালের ক্ষয়ক্ষতি হয়নি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/81bd564e35078323bcbab6d19bf875d5-69a17f273fbb0.jpg"
       },
       {
         "headline": "টেন্ডার নিয়ে বাকবিতণ্ডা, খুলনায় যুবদল নেতাকে কুপিয়ে হত্যা",
@@ -5823,20 +5837,6 @@
         "published_at": null,
         "summary": "পাকিস্তান-আফগানিস্তান সীমান্তে তালেবান সরকারের বাহিনীর ‘উসকানিমূলক’ হামলার জবাবে পাল্টা অভিযানে অন্তত ৩০ জন আফগান তালেবান সদস্য নিহত হয়েছেন বলে দাবি করেছে পাকিস্তানের নিরাপত্তা সূত্রগুলো। খবরজিও নিউজ।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/915f17ee802bef820cfd7f506887868f-69a0a4398a6ea.jpg"
-      },
-      {
-        "headline": "পাকিস্তানের সামরিক স্থাপনায় আফগানিস্তানের হামলা",
-        "url": "https://www.ittefaq.com.bd/776819/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-        "published_at": null,
-        "summary": "পাকিস্তানের সাম্প্রতিক বিমান হামলার জবাবে সীমান্তবর্তী এলাকায় পাকিস্তানি সামরিক অবস্থান লক্ষ্য করে পাল্টা আক্রমণ শুরু করেছে আফগানিস্তান। খবর আল জাজিরার।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/27/169ba495d6c42fec5a82080199f71959-69a08c9886cdb.jpg"
-      },
-      {
-        "headline": "বাজপাখিকে মদ্যপান করানোয় ব্যক্তির ৪৫ দিনের কারাদণ্ড",
-        "url": "https://www.ittefaq.com.bd/776804/%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%AA%E0%A6%BE%E0%A6%96%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A7%9F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A7%AA%E0%A7%AB-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0",
-        "published_at": null,
-        "summary": "বাজপাখিকে মদ্যপান করানোর অভিযোগে এক ব্যক্তিকে ৪৫ দিনের কারাদণ্ড দিয়েছেন যুক্তরাষ্ট্রের আদালত। ক্যালিফোর্নিয়ায় সংরক্ষিত একটি বাজপাখিকে অ্যালকোহল পান করানোর ভিডিও প্রকাশের পর প্রাণীর প্রতি নিষ্ঠুরতার দায়ে তাকে দণ্ডিত করা হয়েছে বলে বুধবার (২৫ ফেব্রুয়ারি) দেশটির গণমাধ্যম জানিয়েছে। খবর বার্তাসংস্থা এএফপি’র।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/26/45aca3c53c548b2638c388d32d975922-69a068c276f98.jpg"
       }
     ],
     "business": [
