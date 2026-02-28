@@ -1,7 +1,31 @@
 {
-  "fetched_at": "2026-02-28T19:00:36.451058+00:00",
+  "fetched_at": "2026-02-28T19:21:39.423429+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "সব অপরাধকেই বিচারপ্রক্রিয়ায় আসতে হবে: প্রথম আলোয় হামলা প্রসঙ্গে তথ্যমন্ত্রী",
+        "url": "https://www.prothomalo.com/video/bangladesh/lnj46g4vmw",
+        "published_at": "2026-02-28T19:09:19.754000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-02-28/0v85x00a/Exhibition.00292919.Still007.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/0v85x00a/Exhibition.00292919.Still007.jpg?auto=format,compress"
+      },
+      {
+        "headline": "সরকার মধ্যপ্রাচ্য পরিস্থিতি নিবিড়ভাবে পর্যবেক্ষণ করছে: ধর্মমন্ত্রী",
+        "url": "https://www.prothomalo.com/bangladesh/2i42ynp8el",
+        "published_at": "2026-02-28T19:08:33.051000+00:00",
+        "summary": "ধর্মমন্ত্রী বিমানবন্দর পরিদর্শন করে পরিস্থিতি সম্পর্কে অবগত হন। তিনি আটকে পড়া যাত্রীদের সঙ্গে কথা বলেন এবং তাঁদের উদ্বেগের কথা শোনেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-19/gkv2vakc/ChatGPT-Image-Jan-19-2026-035211-PM.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-19/gkv2vakc/ChatGPT-Image-Jan-19-2026-035211-PM.png?auto=format,compress"
+      },
+      {
+        "headline": "\n\nবিমানবন্দরে আটকে পড়া যাত্রীদের রাতযাপনের সুবিধা দেবে মন্ত্রণালয়",
+        "url": "https://www.prothomalo.com/bangladesh/uajcm971g2",
+        "published_at": "2026-02-28T18:59:27.894000+00:00",
+        "summary": "মধ্যপ্রাচ্যে উদ্ভূত পরিস্থিতির কারণে যেসব যাত্রীর ফ্লাইট বাতিল হয়েছে, তাঁদের রাতযাপনের সুবিধা দেওয়ার ঘোষণা দিয়েছে প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়।",
+        "image_s3_key": "prothomalo-bangla/2026-02-28/1wo4u2sy/Minister-in-Airport.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/1wo4u2sy/Minister-in-Airport.jpg?auto=format,compress"
+      },
       {
         "headline": "প্রথম আলো-ডেইলি স্টারে হামলা ধারণার চেয়ে ভয়ংকর ও বীভৎস",
         "url": "https://www.prothomalo.com/bangladesh/uso3dijvky",
@@ -291,22 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/wes46gmb/SariatpurDH054120260228Shariatpur-Nayon-Das.jpg?auto=format,compress"
       },
       {
-        "headline": "‘দয়া করে আমাকে সিনেমায় নেবেন না’",
-        "url": "https://www.prothomalo.com/entertainment/bollywood/2loryyk1bg",
-        "published_at": "2026-02-28T16:30:00+00:00",
-        "summary": "মালয়ালম সিনেমার পরিচিত মুখ কানি কুশ্রুতি সম্প্রতি হিন্দি সিনেমা জগতে ‘আসসি’র মাধ্যমে নিজের জায়গা তৈরি করেছেন। ",
-        "image_s3_key": "prothomalo-bangla/2026-02-26/h3b1q1oa/1b99f82b-5ae4-4588-9b81-e3912809ea3c.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/h3b1q1oa/1b99f82b-5ae4-4588-9b81-e3912809ea3c.jpg?auto=format,compress"
-      },
-      {
-        "headline": "বকেয়া আর জ্বালানি-সংকটের গরমে লোডশেডিংয়ের শঙ্কা ",
-        "url": "https://www.prothomalo.com/video/bangladesh/j0o4m29dqm",
-        "published_at": "2026-02-28T16:29:12.586000+00:00",
-        "summary": "বকেয়া আর জ্বালানি-সংকটের গরমে লোডশেডিংয়ের শঙ্কা",
-        "image_s3_key": "prothomalo-bangla/2026-02-28/v1ydhi0g/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/v1ydhi0g/WEB.jpg?auto=format,compress"
-      },
-      {
         "headline": "এক বিশ্বকাপে দুই সেঞ্চুরি ও সর্বোচ্চ রান, ইতিহাসে সাহিবজাদা",
         "url": "https://www.bd-pratidin.com/sports/2026/03/01/1222635",
         "published_at": "2026-03-01T00:40:47+06:00",
@@ -377,6 +385,20 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/28/og/1772282255-aa946cca422fe8f8d5aa3df3923dc58e.jpg"
       },
       {
+        "headline": "কুয়েত বিমানবন্দরে ড্রোন হামলায় এক বাংলাদেশিসহ আহত কয়েকজন",
+        "url": "https://www.ittefaq.com.bd/777151/%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%B9%E0%A6%A4",
+        "published_at": null,
+        "summary": "মধ্যপ্রাচ্যে চলমান সংঘাতের মধ্যেই কুয়েত আন্তর্জাতিক বিমানবন্দরে ড্রোন হামলা চালানো হয়েছে। এতে বিমানবন্দরের টার্মিনাল–১ সামান্য ক্ষতিগ্রস্ত হয়েছে এবং কয়েকজন কর্মী আহত হয়েছেন বলে জানিয়েছে দেশটির বেসামরিক বিমান চলাচল কর্তৃপক্ষ। এর মধ্যে একজন বাংলাদেশিও আহত হয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/f24a574fa2dde8dfbc3e8db79d381b46-69a33cc554aa1.jpg"
+      },
+      {
+        "headline": "প্রতিটি দেশের সার্বভৌমত্ব ও ভৌগোলিক অখণ্ডতাকে সম্মান জানাতে হবে: বাংলাদেশ",
+        "url": "https://www.ittefaq.com.bd/777150/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%AD%E0%A7%8C%E0%A6%AE%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%93-%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%96%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87",
+        "published_at": null,
+        "summary": "ইরানসহ মধ্যপ্রাচ্যে সাম্প্রতিক বিরোধপূর্ণ পরিস্থিতি ও সৃষ্ট উত্তেজনার প্রেক্ষাপটে ওই অঞ্চলে অবস্থানরত বাংলাদেশি নাগরিকদের নিরাপত্তা নিয়ে গভীর উদ্বেগ প্রকাশ করেছে বাংলাদেশ সরকার।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/b211ae9572c6d7f6b8689ebe5d36b13d-69a33a630864d.jpg"
+      },
+      {
         "headline": "ইরানের একাধিক জ্যেষ্ঠ নেতা হামলায় নিহত, দাবি ইসরায়েলের",
         "url": "https://www.ittefaq.com.bd/777149/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
         "published_at": null,
@@ -431,20 +453,6 @@
         "published_at": null,
         "summary": "চট্টগ্রামের সীতাকুণ্ডে আবুল খায়ের ষ্টীল মেল্টিং লিমিটেডে সশস্ত্র হামলার অভিযোগ উঠেছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/436129410ad7163166dfa44b6bd1a1b1-69a31573eca14.jpeg"
-      },
-      {
-        "headline": "চাঁদা না পেয়ে চট্টগ্রামে ব্যবসায়ীর বাড়িতে মুহুর্মুহু গুলি",
-        "url": "https://www.ittefaq.com.bd/777141/%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87",
-        "published_at": null,
-        "summary": "চট্টগ্রামে চাঁদা না পেয়ে আবার ব্যবসায়ীর বাড়ি লক্ষ্য করে মুহুর্মুহু গুলির ঘটনা ঘটেছে। চট্টগ্রামের শীর্ষ ব্যবসায়ী স্মার্ট গ্রুপের চেয়ারম্যান মোস্তাফিজুর রহমানের বাড়ি লক্ষ্য করে এই গুলিবর্ষণের ঘটনা ঘটেছে। চার অস্ত্রধারীর গুলিতে বাড়ির দ্বিতীয় তলায় জানালার কাঁচ ভেঙে যায়। এতে কেউ হতাহত না হলেও আতঙ্ক ছড়িয়ে পড়ে পুরো এলাকায়।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/b083e5e060985c66e4fb417e13946f45-69a310ad47f52.jpg"
-      },
-      {
-        "headline": "দুবাইয়ের হোটেলে ক্ষেপণাস্ত্র হামলার পর অগ্নিকাণ্ড",
-        "url": "https://www.ittefaq.com.bd/777140/%E0%A6%A6%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%86%E0%A6%98%E0%A6%BE%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0",
-        "published_at": null,
-        "summary": "সংযুক্ত আরব আমিরাতের দুবাইয়ের দ্য পাম এলাকার একটি হোটেলে ইরানের ছোড়া ক্ষেপণাস্ত্র আঘাত হানার পর আগুন লাগার ঘটনা ঘটেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/8481da560af5788f9098ec0f110b477f-69a3118388a31.jpg"
       },
       {
         "headline": "চাঁদাবাজদের স্বর্গরাজ্য কাওরানবাজার",
@@ -534,7 +542,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 01, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "শনিবার সকালে তেহরানে ইসরাইল ও যুক্তরাষ্ট্রের যৌথ আকস্মিক হামলায় ইরানের সর্বোচ্চ ধর্মীয় নেতা আয়াতুল্লাহ আলী খামেনির প্রাসাদ সম্পূর্ণভাবে ধ্বংস হয়ে ...",
+        "summary": "মধ্যপ্রাচ্যের বর্তমান নিরাপত্তা পরিস্থিতির অবনতির কারণে বেসামরিক বিমান চলাচল কর্তৃপক্ষ (বেবিচক) ওই অঞ্চলে সব ফ্লাইট সাময়িকভাবে বন্ধ ঘোষণা করেছে। একই ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -543,6 +551,36 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "‘দয়া করে আমাকে সিনেমায় নেবেন না’",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/2loryyk1bg",
+        "published_at": "2026-02-28T16:30:00+00:00",
+        "summary": "মালয়ালম সিনেমার পরিচিত মুখ কানি কুশ্রুতি সম্প্রতি হিন্দি সিনেমা জগতে ‘আসসি’র মাধ্যমে নিজের জায়গা তৈরি করেছেন। ",
+        "image_s3_key": "prothomalo-bangla/2026-02-26/h3b1q1oa/1b99f82b-5ae4-4588-9b81-e3912809ea3c.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/h3b1q1oa/1b99f82b-5ae4-4588-9b81-e3912809ea3c.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বকেয়া আর জ্বালানি-সংকটের গরমে লোডশেডিংয়ের শঙ্কা ",
+        "url": "https://www.prothomalo.com/video/bangladesh/j0o4m29dqm",
+        "published_at": "2026-02-28T16:29:12.586000+00:00",
+        "summary": "বকেয়া আর জ্বালানি-সংকটের গরমে লোডশেডিংয়ের শঙ্কা",
+        "image_s3_key": "prothomalo-bangla/2026-02-28/v1ydhi0g/WEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/v1ydhi0g/WEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "চাঁদা না পেয়ে চট্টগ্রামে ব্যবসায়ীর বাড়িতে মুহুর্মুহু গুলি",
+        "url": "https://www.ittefaq.com.bd/777141/%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87",
+        "published_at": null,
+        "summary": "চট্টগ্রামে চাঁদা না পেয়ে আবার ব্যবসায়ীর বাড়ি লক্ষ্য করে মুহুর্মুহু গুলির ঘটনা ঘটেছে। চট্টগ্রামের শীর্ষ ব্যবসায়ী স্মার্ট গ্রুপের চেয়ারম্যান মোস্তাফিজুর রহমানের বাড়ি লক্ষ্য করে এই গুলিবর্ষণের ঘটনা ঘটেছে। চার অস্ত্রধারীর গুলিতে বাড়ির দ্বিতীয় তলায় জানালার কাঁচ ভেঙে যায়। এতে কেউ হতাহত না হলেও আতঙ্ক ছড়িয়ে পড়ে পুরো এলাকায়।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/b083e5e060985c66e4fb417e13946f45-69a310ad47f52.jpg"
+      },
+      {
+        "headline": "দুবাইয়ের হোটেলে ক্ষেপণাস্ত্র হামলার পর অগ্নিকাণ্ড",
+        "url": "https://www.ittefaq.com.bd/777140/%E0%A6%A6%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%86%E0%A6%98%E0%A6%BE%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0",
+        "published_at": null,
+        "summary": "সংযুক্ত আরব আমিরাতের দুবাইয়ের দ্য পাম এলাকার একটি হোটেলে ইরানের ছোড়া ক্ষেপণাস্ত্র আঘাত হানার পর আগুন লাগার ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/8481da560af5788f9098ec0f110b477f-69a3118388a31.jpg"
       },
       {
         "headline": "অমর একুশে বইমেলায় শিশুপ্রহর",
@@ -1463,44 +1501,25 @@
         "published_at": null,
         "summary": "শনিবার ইরানের তাসনিম বার্তা সংস্থা দেশটির কৃষিমন্ত্রীর বরাতে এ তথ্য জানিয়েছে।",
         "image_url": "https://media.ndiganta.com/original_images/Iran-flag.jpg"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্র-ইরান সঙ্ঘাতে সৌদি বিমানবন্দরে আটকে পড়লেন মুশফিক",
-        "url": "https://dailynayadiganta.com/sports/cricket/UiSPBM7prrij/",
-        "published_at": null,
-        "summary": "‘এখন আমি জেদ্দা বিমানবন্দরে আছি, সাথে আছেন হাজার হাজার যাত্রী। শুধুমাত্র মহান আল্লাহই জানেন আমরা কখন এবং কিভাবে অন্য বাংলাদেশীদের সাথে মিলিত হয়ে ঢাকা পৌঁছাতে পারব।’",
-        "image_url": "https://media.ndiganta.com/original_images/Musfiq_AiXDAfC.jpg"
-      },
-      {
-        "headline": "ছাতকে মসজিদের হিসাব নিয়ে সংঘর্ষ, নিহত ১",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/XWw2qv10Lasr/",
-        "published_at": null,
-        "summary": "সংঘর্ষ চলাকালে প্রতিপক্ষের আঘাতে গুরুতর আহত হন ফজল উদ্দিন। স্থানীয়রা তাকে উদ্ধার করে দ্রুত কোম্পানীগঞ্জ উপজেলা স্বাস্থ্য কমপ্লেক্সে নিয়ে গেলে জরুরি বিভাগের কর্তব্যরত চিকিৎসক তাকে মৃত ঘোষণা করেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Sunamganj-Collusion-Death.jpg"
-      },
-      {
-        "headline": "মধ্যরাতে আবুল খায়ের স্টিল মেল্টিং কারখানায় ডাকাতির চেষ্টা",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/MaMgGUORWpzF/",
-        "published_at": null,
-        "summary": "এ ঘটনায় ১০ জনের নাম উল্লেখ করে অজ্ঞাত আরো ১৫/২০ জনকে আসামি করে সীতাকুণ্ড থানায় মামলা মামলা রুজু হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Chittagong-Map_jXXoYoH.jpg"
-      },
-      {
-        "headline": "ব্যক্তি খাতে কর বাড়ানো হবে না : বাণিজ্যমন্ত্রী",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/PYaorQVe9aMk/",
-        "published_at": null,
-        "summary": "‘বন্ধ থাকা বিভিন্ন শ্রমবাজার পুনরায় চালু করতে সরকার কাজ করছে। আগামী এক মাসের মধ্যেই এ বিষয়ে ইতিবাচক ফল পাওয়া যাবে। স্পেনে অভিবাসনপ্রত্যাশী বাংলাদেশীদের পাসপোর্ট ও পুলিশ ক্লিয়ারেন্স যথাসময়ে পৌঁছে দেয়ার বিষয়েও সরকার কার্যকর পদক্ষেপ নিচ্ছে।’",
-        "image_url": "https://media.ndiganta.com/original_images/Sylhet-3-Minister.jpg"
-      },
-      {
-        "headline": "ভিয়েনায় মুসলিম নেতৃবৃন্দের সম্মানে মেয়রের ইফতার",
-        "url": "https://dailynayadiganta.com/bangladesh/emigration/A2sIeOgs3R0G/",
-        "published_at": null,
-        "summary": "বাংলাদেশি কমিউনিটির পক্ষ থেকে অনুষ্ঠানে উপস্থিত ছিলেন ড. ফারুক আল মাদানী ও রফিকুল ইসলাম রুবেল।",
-        "image_url": "https://media.ndiganta.com/original_images/Veana-282.jpg"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "সরকার মধ্যপ্রাচ্য পরিস্থিতি নিবিড়ভাবে পর্যবেক্ষণ করছে: ধর্মমন্ত্রী",
+        "url": "https://www.prothomalo.com/bangladesh/2i42ynp8el",
+        "published_at": "2026-02-28T19:08:33.051000+00:00",
+        "summary": "ধর্মমন্ত্রী বিমানবন্দর পরিদর্শন করে পরিস্থিতি সম্পর্কে অবগত হন। তিনি আটকে পড়া যাত্রীদের সঙ্গে কথা বলেন এবং তাঁদের উদ্বেগের কথা শোনেন।",
+        "image_s3_key": "prothomalo-bangla/2026-01-19/gkv2vakc/ChatGPT-Image-Jan-19-2026-035211-PM.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-19/gkv2vakc/ChatGPT-Image-Jan-19-2026-035211-PM.png?auto=format,compress"
+      },
+      {
+        "headline": "\n\nবিমানবন্দরে আটকে পড়া যাত্রীদের রাতযাপনের সুবিধা দেবে মন্ত্রণালয়",
+        "url": "https://www.prothomalo.com/bangladesh/uajcm971g2",
+        "published_at": "2026-02-28T18:59:27.894000+00:00",
+        "summary": "মধ্যপ্রাচ্যে উদ্ভূত পরিস্থিতির কারণে যেসব যাত্রীর ফ্লাইট বাতিল হয়েছে, তাঁদের রাতযাপনের সুবিধা দেওয়ার ঘোষণা দিয়েছে প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়।",
+        "image_s3_key": "prothomalo-bangla/2026-02-28/1wo4u2sy/Minister-in-Airport.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/1wo4u2sy/Minister-in-Airport.jpg?auto=format,compress"
+      },
       {
         "headline": "প্রথম আলো-ডেইলি স্টারে হামলা ধারণার চেয়ে ভয়ংকর ও বীভৎস",
         "url": "https://www.prothomalo.com/bangladesh/uso3dijvky",
@@ -1806,22 +1825,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/l0ycazfp/WhatsApp-Image-2026-02-28-at-16.23.46.jpeg?auto=format,compress"
       },
       {
-        "headline": "এপেক্সের ‘স্টাইলে নাম্বার ওয়ান, ঈদ ট্রেন্ডে ফ্যামিলি ফান’ ক্যাম্পেইনে জয়া ও অপূর্ব",
-        "url": "https://www.prothomalo.com/bangladesh/9bytxy3xt3",
-        "published_at": "2026-02-28T10:55:15.769000+00:00",
-        "summary": "ক্যাম্পেইনটির মূল চমক হলো, পুরো ফ্যামিলির জন্য ম্যাচিং ঈদ কালেকশন। ছোট-বড় সবার জন্য রয়েছে হাজারো ট্রেন্ডি ডিজাইনের সমাহার।",
-        "image_s3_key": "prothomalo-bangla/2026-02-28/cgmsz6x5/Apex-Image-1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/cgmsz6x5/Apex-Image-1.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ফ্যামিলি কার্ড উদ্বোধনে ১০ মার্চ বগুড়া সফরে যাচ্ছেন প্রধানমন্ত্রী",
-        "url": "https://www.prothomalo.com/bangladesh/district/lalgnqfa4l",
-        "published_at": "2026-02-28T10:53:46.829000+00:00",
-        "summary": " ১০ মার্চ বগুড়া সদর উপজেলার শাখারিয়া ইউনিয়নের ৩ নম্বর ওয়ার্ডে আনুষ্ঠানিকভাবে ফ্যামিলি কার্ড বিতরণ কার্যক্রমের উদ্বোধন করবেন তিনি।",
-        "image_s3_key": "prothomalo-bangla/2026-02-28/b7gsa3sx/BoguraDH049320260228Bogura-Minister-2.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/b7gsa3sx/BoguraDH049320260228Bogura-Minister-2.jpg?auto=format,compress"
-      },
-      {
         "headline": "এক বিশ্বকাপে দুই সেঞ্চুরি ও সর্বোচ্চ রান, ইতিহাসে সাহিবজাদা",
         "url": "https://www.bd-pratidin.com/sports/2026/03/01/1222635",
         "published_at": "2026-03-01T00:40:47+06:00",
@@ -1892,6 +1895,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/02/28/og/1772282255-aa946cca422fe8f8d5aa3df3923dc58e.jpg"
       },
       {
+        "headline": "প্রতিটি দেশের সার্বভৌমত্ব ও ভৌগোলিক অখণ্ডতাকে সম্মান জানাতে হবে: বাংলাদেশ",
+        "url": "https://www.ittefaq.com.bd/777150/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%AD%E0%A7%8C%E0%A6%AE%E0%A6%A4%E0%A7%8D%E0%A6%AC-%E0%A6%93-%E0%A6%AD%E0%A7%8C%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%96%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87",
+        "published_at": null,
+        "summary": "ইরানসহ মধ্যপ্রাচ্যে সাম্প্রতিক বিরোধপূর্ণ পরিস্থিতি ও সৃষ্ট উত্তেজনার প্রেক্ষাপটে ওই অঞ্চলে অবস্থানরত বাংলাদেশি নাগরিকদের নিরাপত্তা নিয়ে গভীর উদ্বেগ প্রকাশ করেছে বাংলাদেশ সরকার।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/b211ae9572c6d7f6b8689ebe5d36b13d-69a33a630864d.jpg"
+      },
+      {
         "headline": "ফ্লাইট বাতিল হওয়া যাত্রীদের রাত্রিযাপনের ব্যবস্থা করছে সরকার, যোগাযোগের অনুরোধ",
         "url": "https://www.ittefaq.com.bd/777147/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE",
         "published_at": null,
@@ -1953,13 +1963,6 @@
         "published_at": null,
         "summary": "জামায়াতে ইসলামীর ইফতার মাহফিলে যোগ দিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/c18f61b25b3f1e4bff4079f64c1d9ac6-69a2ebb204c43.jpg"
-      },
-      {
-        "headline": "আইসিটি খাতে ১০ লাখ তরুণের কর্মসংস্থান হবে: তথ্যপ্রযুক্তিমন্ত্রী",
-        "url": "https://www.ittefaq.com.bd/777108/%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%AC%E0%A7%87",
-        "published_at": null,
-        "summary": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তিমন্ত্রী ফকির মাহবুব আনাম স্বপন বলেছেন, হাই-টেক পার্কগুলোতে বিদেশি বিনিয়োগ আকর্ষণে প্রয়োজনীয় পদক্ষেপ নেওয়ার সিদ্ধান্ত হয়েছে। স্টার্টআপ কোম্পানি গড়ে তোলা হবে। সম্ভাবনাময় আইসিটি খাতে ১০ লাখ তরুণের কর্মসংস্থানের ব্যবস্থা করা হবে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/cc05b59492107f562aff11a90263ace3-69a2e49b57a17.jpg"
       },
       {
         "headline": "চট্টগ্রামে আবুল খায়ের স্টিল মিলে ডাকাতের হামলা, মামলা দায়ের",
@@ -2240,6 +2243,29 @@
         "published_at": "1772293486",
         "summary": "নেত্রকোনার কেন্দুয়া উপজেলার স্বেচ্ছাসেবী সংগঠন,‘হৃদয়ে আমার কেন্দুয়া’-এর উদ্যোগে সুবিধাবঞ্চিত ও পথচারী রোজাদারদের মাঝে ইফতার সামগ্রী বিতরণ করা হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-designx---2026-02-28T214441227-20260228154446.jpg"
+      },
+      {
+        "headline": "এপেক্সের ‘স্টাইলে নাম্বার ওয়ান, ঈদ ট্রেন্ডে ফ্যামিলি ফান’ ক্যাম্পেইনে জয়া ও অপূর্ব",
+        "url": "https://www.prothomalo.com/bangladesh/9bytxy3xt3",
+        "published_at": "2026-02-28T10:55:15.769000+00:00",
+        "summary": "ক্যাম্পেইনটির মূল চমক হলো, পুরো ফ্যামিলির জন্য ম্যাচিং ঈদ কালেকশন। ছোট-বড় সবার জন্য রয়েছে হাজারো ট্রেন্ডি ডিজাইনের সমাহার।",
+        "image_s3_key": "prothomalo-bangla/2026-02-28/cgmsz6x5/Apex-Image-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/cgmsz6x5/Apex-Image-1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ফ্যামিলি কার্ড উদ্বোধনে ১০ মার্চ বগুড়া সফরে যাচ্ছেন প্রধানমন্ত্রী",
+        "url": "https://www.prothomalo.com/bangladesh/district/lalgnqfa4l",
+        "published_at": "2026-02-28T10:53:46.829000+00:00",
+        "summary": " ১০ মার্চ বগুড়া সদর উপজেলার শাখারিয়া ইউনিয়নের ৩ নম্বর ওয়ার্ডে আনুষ্ঠানিকভাবে ফ্যামিলি কার্ড বিতরণ কার্যক্রমের উদ্বোধন করবেন তিনি।",
+        "image_s3_key": "prothomalo-bangla/2026-02-28/b7gsa3sx/BoguraDH049320260228Bogura-Minister-2.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/b7gsa3sx/BoguraDH049320260228Bogura-Minister-2.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আইসিটি খাতে ১০ লাখ তরুণের কর্মসংস্থান হবে: তথ্যপ্রযুক্তিমন্ত্রী",
+        "url": "https://www.ittefaq.com.bd/777108/%E0%A6%86%E0%A6%87%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A6%AC%E0%A7%87",
+        "published_at": null,
+        "summary": "ডাক, টেলিযোগাযোগ ও তথ্যপ্রযুক্তিমন্ত্রী ফকির মাহবুব আনাম স্বপন বলেছেন, হাই-টেক পার্কগুলোতে বিদেশি বিনিয়োগ আকর্ষণে প্রয়োজনীয় পদক্ষেপ নেওয়ার সিদ্ধান্ত হয়েছে। স্টার্টআপ কোম্পানি গড়ে তোলা হবে। সম্ভাবনাময় আইসিটি খাতে ১০ লাখ তরুণের কর্মসংস্থানের ব্যবস্থা করা হবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/cc05b59492107f562aff11a90263ace3-69a2e49b57a17.jpg"
       },
       {
         "headline": "নারায়ণগঞ্জের সাবেক মেয়র আইভীকে আরও একটি হত্যা মামলায় গ্রেপ্তার দেখানোর আবেদন",
@@ -2960,27 +2986,6 @@
         "published_at": null,
         "summary": "দিনাজপুরের ঘোড়াঘাট উপজেলার ৩ নং সিংড়া ইউনিয়নের হাটশ্যামগঞ্জ ডাকঘরের চারপাশ দীর্ঘদিন ধরে আবর্জনা ও দুর্গন্ধে ভরে থাকায় স্থানীয়রা নাকাল হয়ে পড়েছেন। সরকারি স্থাপনার অস্বাস্থ্যকর পরিবেশে পথচারী, বয়স্ক ও শিক্ষার্থীরা চরম দুর্ভোগের মধ্যে পড়ছেন।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/7718296ce05816de7bb08a3542cc44be-69a28c9fcfc39.jpg"
-      },
-      {
-        "headline": "পিস্তল নিয়ে খেলছিল সন্তান, গুলি বের হয়ে লাগলো এসআইয়ের পায়ে",
-        "url": "https://www.ittefaq.com.bd/777029/%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A7%9F%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A6%B2%E0%A7%8B",
-        "published_at": null,
-        "summary": "নাটোরে পিস্তল নিয়ে পুত্রসন্তান খেলার একপর্যায়ে হঠাৎ ট্রিগারে চাপ লেগে গুলিবিদ্ধ হন এক পুলিশের উপপরিদর্শক (এসআই)। এসময় তাকে দ্রুত রাজশাহী মেডিকেল কলেজ হাসপাতালে চিকিৎসার জন্য স্থানান্তর করা হয়। শুক্রবার (২৭ ফেব্রুয়ারি) রাত ৯টার দিকে শহরের বড়হরিশপুর এলাকার পুলিশ লাইনসে এ ঘটনা ঘটে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/28/255a51967c4c746b929f729b8aedb86f-69a28fdf3f5bd.jpg"
-      },
-      {
-        "headline": "সব মন্ত্রণালয়কে স্বল্প-মধ্য-দীর্ঘমেয়াদি কর্মপরিকল্পনা নেওয়ার নির্দেশ",
-        "url": "https://www.amarsangbad.com/national/news/339172",
-        "published_at": "1772275229",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে বিএনপির নির্বাচনি ইশতেহার বাস্তবায়নে সব মন্ত্রণালয় ও বিভাগকে স্বল্প, মধ্য ও দীর্ঘমেয়াদি কর্মপরিকল্পনা নেওয়ার নির্দেশ দিয়েছে সরকার।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-designx---2026-02-28T164017410-20260228104029.jpg"
-      },
-      {
-        "headline": "প্রধানমন্ত্রীদেশের মানুষ অনেক প্রত্যাশা নিয়ে সরকারের দিকে তাকিয়ে আছে",
-        "url": "https://www.amarsangbad.com/national/news/339169",
-        "published_at": "1772274218",
-        "summary": "প্রধানমন্ত্রী হিসেবে দায়িত্ব গ্রহণের পর প্রথমবারের মতো কার্যালয়ের কর্মকর্তা-কর্মচারীদের সঙ্গে মতবিনিময় করেছেন তারেক রহমান। এসময় তিনি কর্মকর্তা-কর্মচারীদের উদ্দেশ্য করে বলেন, বাংলাদেশের মানুষ অনেক প্রত্যাশা নিয়ে সরকারের দিকে তাকিয়ে আছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-designx---2026-02-28T162330527-20260228102338.jpg"
       }
     ],
     "politics": [
@@ -3212,7 +3217,7 @@
         "headline": "বাংলাদেশ জামায়াতে ইসলামী",
         "url": "https://www.jugantor.com/jamaat",
         "published_at": null,
-        "summary": "নির্বাচন-পরবর্তী দেশের বিভিন্ন স্থানে নারী ও শিশুদের ওপর পাশবিক নির্যাতন করে হত্যার প্রতিবাদে এবং অপরাধীদের দৃষ্টান্তমূলক শাস্তি নিশ্চিতের দাবিতে মানববন্ধন ...",
+        "summary": "বগুড়া-৬ (সদর) আসনের উপনির্বাচনে জামায়াতে ইসলামী মনোনীত প্রার্থী কেন্দ্রীয় কর্মপরিষদ সদস্য ও বগুড়া শহর জামায়াতের আমির আবিদুর রহমান সোহেল মনোনয়নপত্র ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
       },
       {
