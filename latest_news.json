@@ -1,13 +1,21 @@
 {
-  "fetched_at": "2026-02-28T22:21:13.108093+00:00",
+  "fetched_at": "2026-02-28T22:51:06.700935+00:00",
   "stories": [
     {
       "headline": "খামেনি নিহত হয়েছেন, ট্রুথ সোশ্যালে নিশ্চিত করলেন ট্রাম্প",
       "url": "https://www.prothomalo.com/world/middle-east/iem2ufi93x",
-      "published_at": "2026-02-28T22:04:08.711000+00:00",
+      "published_at": "2026-02-28T22:40:26.387000+00:00",
       "summary": "তবে এসব বিস্ফোরণের উৎস বা ক্ষয়ক্ষতির বিষয়ে এখন পর্যন্ত বিস্তারিত কিছু জানা যায়নি।",
       "image_s3_key": "prothomalo-bangla/2026-02-28/81cr3nl1/Tel-Aviv.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/81cr3nl1/Tel-Aviv.jpg?auto=format,compress"
+    },
+    {
+      "headline": "গুনাহ পুড়িয়ে ফেলার মাস রমজান",
+      "url": "https://www.prothomalo.com/religion/islam/zmp5iz6n9j",
+      "published_at": "2026-02-28T22:30:00+00:00",
+      "summary": "‘রমজান’ শব্দটির আভিধানিক অর্থই হচ্ছে উত্তাপ, তাপের উচ্চমাত্রা বা পুড়িয়ে দেওয়া। রমজানকে তাই বলা যায়, গুনাহগার বান্দাদের গুনাহগুলো পুড়িয়ে নিজেদের শুদ্ধ করার মাস। ",
+      "image_s3_key": "prothomalo-bangla/2026-02-28/u5ax2gf2/indian-men-resting-by-bonfire-with-their-camel.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/u5ax2gf2/indian-men-resting-by-bonfire-with-their-camel.jpg?auto=format,compress"
     },
     {
       "headline": "নওগাঁয় ইফতারের ঐতিহ্য টক দইয়ের ঘোল",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/jnttzi3u/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ হামলা। রাষ্ট্রীয় গোপনীয়তার মেনে চলার নির্দেশ প্রধানমন্ত্রীর",
-      "url": "https://www.prothomalo.com/video/bangladesh/pjo5bnlu0x",
-      "published_at": "2026-02-28T17:12:22.711000+00:00",
-      "summary": "ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ হামলা। রাষ্ট্রীয় গোপনীয়তার মেনে চলার নির্দেশ প্রধানমন্ত্রীর",
-      "image_s3_key": "prothomalo-bangla/2026-02-28/d8hiusso/AUDIO-NEWS-THUMB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/d8hiusso/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
-    },
-    {
       "headline": "বিশ্বকাপ ইতিহাসের সেরা জুটি এখন সাহিবজাদা-ফখর",
       "url": "https://www.bd-pratidin.com/sports/2026/03/01/1222679",
       "published_at": "2026-03-01T04:05:23+06:00",
@@ -593,6 +593,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ হামলা। রাষ্ট্রীয় গোপনীয়তার মেনে চলার নির্দেশ প্রধানমন্ত্রীর",
+      "url": "https://www.prothomalo.com/video/bangladesh/pjo5bnlu0x",
+      "published_at": "2026-02-28T17:12:22.711000+00:00",
+      "summary": "ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ হামলা। রাষ্ট্রীয় গোপনীয়তার মেনে চলার নির্দেশ প্রধানমন্ত্রীর",
+      "image_s3_key": "prothomalo-bangla/2026-02-28/d8hiusso/AUDIO-NEWS-THUMB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/d8hiusso/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
     },
     {
       "headline": "প্রথম আলোর দগ্ধ ভবন নিয়ে শিল্প প্রদর্শনীর ১১তম দিন",
@@ -1494,14 +1502,6 @@
       "summary": "এক দিনের বাদশাহ হলে এই ভবনকে জাদুঘর বানাতাম: জয়ন্ত চট্টোপাধ্যায়",
       "image_s3_key": "prothomalo-bangla/2026-02-28/yhtm8spv/WEB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/yhtm8spv/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বাংলাদেশ চা বোর্ডে নিয়োগ, স্নাতক পাসে আবেদন",
-      "url": "https://www.prothomalo.com/chakri/o3po5vcqkt",
-      "published_at": "2026-02-28T13:34:48.820000+00:00",
-      "summary": "বাংলাদেশ চা বোর্ড নিয়ন্ত্রিত ও পরিচালিত চা–বাগানের জন্য জনবল নিয়োগে নতুন একটি নিয়োগ বিজ্ঞপ্তি প্রকাশ করা হয়েছে। আগ্রহী যোগ্য প্রার্থীদের কাছ থেকে দরখাস্ত আহ্বান করা যাচ্ছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-15/w5i3ou1w/bangladesh_government_logo.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-15/w5i3ou1w/bangladesh_government_logo.png?auto=format,compress"
     }
   ]
 }
