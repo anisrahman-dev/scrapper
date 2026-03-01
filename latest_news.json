@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-03-01T19:00:30.929899+00:00",
+  "fetched_at": "2026-03-01T19:23:07.296278+00:00",
   "stories": [
+    {
+      "headline": "চেলসিকে হারিয়ে ৫ পয়েন্টে এগিয়ে গেল আর্সেনাল, জিতেছে ইউনাইটেডও",
+      "url": "https://www.prothomalo.com/sports/football/lwbpph5rwi",
+      "published_at": "2026-03-01T19:02:15.886000+00:00",
+      "summary": "চেলসিকে ২-১ গোলে হারিয়ে শীর্ষে ৫ পয়েন্টে এগিয়ে গেল আর্সেনাল। সেসকোর গোলে প্যালেসকে হারিয়ে তিনে উঠে এসেছে অপ্রতিরোধ্য ম্যানচেস্টার ইউনাইটেড।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/48e7qb4b/179600-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/48e7qb4b/179600-01-02.jpg?auto=format,compress"
+    },
+    {
+      "headline": "হরমুজ প্রণালিতে জাহাজ চলাচল বন্ধের প্রভাব হবে মারাত্মক",
+      "url": "https://www.prothomalo.com/world/middle-east/zde8l5jwcd",
+      "published_at": "2026-03-01T19:02:02.138000+00:00",
+      "summary": "হরমুজ প্রণালি দিয়ে ২০২৪ সালে দৈনিক প্রায় দুই কোটি ব্যারেল অপরিশোধিত তেল পরিবাহিত হয়েছে। বার্ষিক বৈশ্বিক জ্বালানি বাণিজ্যে যার মূল্য প্রায় ৫০ হাজার কোটি ডলার।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/8hrq7l71/A-map-showing-the-Strait.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/8hrq7l71/A-map-showing-the-Strait.png?auto=format,compress"
+    },
+    {
+      "headline": "বিদেশিদের দিয়ে বিশেষ বার্তা ‘ইত্যাদি’তে",
+      "url": "https://www.prothomalo.com/entertainment/tv/2x0166gx70",
+      "published_at": "2026-03-01T19:00:00+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-01/euqjugpa/IMG3258.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/euqjugpa/IMG3258.JPG?auto=format,compress"
+    },
     {
       "headline": "তেহরানে দুটি শক্তিশালী বিস্ফোরণ",
       "url": "https://www.prothomalo.com/world/middle-east/iem2ufi93x",
@@ -298,28 +322,11 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/ov66u1yj/KishorgonjDH063520260301IMG20260301170322.jpg?auto=format,compress"
     },
     {
-      "headline": "‘আলো’র প্রদর্শনীতে দর্শনার্থীদের ভিড়",
-      "url": "https://www.prothomalo.com/photo/bangladesh/vo1rs8nv20",
-      "published_at": "2026-03-01T15:39:13.671000+00:00",
-      "summary": "সংঘবদ্ধ উগ্রবাদীদের দেওয়া আগুনে দগ্ধ প্রথম আলো ভবনে চলছে ব্যতিক্রমী শিল্পকর্ম প্রদর্শনী ‘আলো’। রাজধানীর কারওয়ান বাজারে অবস্থিত ভবনটিতে ১৮ ফেব্রুয়ারি এ প্রদর্শনী শুরু হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/u74f21zk/01.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/u74f21zk/01.jpg?auto=format,compress"
-    },
-    {
-      "headline": "অন্তর্বর্তী সরকার জানত কারা প্রথম আলোতে হামলা করবে: জাকির হোসেন",
-      "url": "https://www.prothomalo.com/video/bangladesh/qwmgmubv5n",
-      "published_at": "2026-03-01T15:33:25.608000+00:00",
-      "summary": "অন্তর্বর্তী সরকার জানত কারা প্রথম আলোতে হামলা করবে: জাকির হোসেন",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/y3fjrd44/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/y3fjrd44/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সকালে আওয়ামী লীগ কার্যালয়ে পতাকা উত্তোলন, বিকেলে পতাকার স্ট্যান্ড কেটে অপসারণ",
-      "url": "https://www.prothomalo.com/bangladesh/district/nbipe74vdl",
-      "published_at": "2026-03-01T15:32:13.228000+00:00",
-      "summary": "মার্চের প্রথম দিনে ফরিদপুর পৌর আওয়ামী লীগের কার্যালয়ে জাতীয় ও দলীয় পতাকা উত্তোলন এবং শেখ মুজিবুর রহমানের প্রতিকৃতিতে মালা দিয়ে শ্রদ্ধা জানানো হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/i7azfrx0/WhatsApp-Image-2026-03-01-at-9.14.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/i7azfrx0/WhatsApp-Image-2026-03-01-at-9.14.png?auto=format,compress"
+      "headline": "একনজরে আজকের বাংলাদেশ প্রতিদিন (২ মার্চ)",
+      "url": "https://www.bd-pratidin.com/national/2026/03/02/1223099",
+      "published_at": "2026-03-02T01:12:32+06:00",
+      "summary": "যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ বিমান হামলায় ইরানের রাজধানী তেহরানে দেশটির সর্বোচ্চ ধর্মীয় নেতা আয়াতুল্লাহ আলী...",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/02/og/1772392350-de2c9f52abebbab3aef135f36012b6d5.PNG"
     },
     {
       "headline": "অস্ট্রেলিয়া সফরে যাচ্ছে ব্যান্ড 'শিরোনামহীন'",
@@ -383,13 +390,6 @@
       "published_at": "2026-03-01T22:11:21+06:00",
       "summary": "মৎস্য ও প্রাণিসম্পদ, কৃষি এবং খাদ্য মন্ত্রণালয়ের প্রতিমন্ত্রী সুলতান সালাউদ্দিন টুকু বলেছেন, মিরপুরে অবস্থিত বাংলাদেশ জাতীয় চিড়িয়াখানাকে আন্তর্জাতিকমানে উন্নীত করতে কাজ করছে সরকার।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772381480-e36ec0dfeeec84746d6d1586377245c3.PNG"
-    },
-    {
-      "headline": "সিলেটে ড্রেনের ভেতর ছিনতাইকারীর আস্তানা, গ্রেফতার ৭",
-      "url": "https://www.bd-pratidin.com/chayer-desh/2026/03/01/1222948",
-      "published_at": "2026-03-01T22:05:01+06:00",
-      "summary": "তাদের নিরাপাদ আস্তানা ছিল ড্রেনের ভেতরে। চুরি-ছিনতাই শেষে সবার চোখে ধুলো দিয়ে তারা নিমিষেই উধাও হয়ে যেতো। আশ্রয় নিতো তাদের নিরাপদ আস্তানায়। আর সেই আস্তানা হচ্ছে সিলেট শহরের বন্দরবাজারের রংমহল টাওয়ার সংলগ্ন ডেন। অবশেষে তাদের সেই আস্তানা থেকে ৭ ছিনতাইকারীকে গ্রেফতারর করা হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772381100-4c53835202bff5468f84e7dccda37a0f.jpg"
     },
     {
       "headline": "ইরানের সরকারি রেডিও-টেলিভিশন ভবনে হামলা",
@@ -577,7 +577,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 02, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ইসরাইল ও যুক্তরাষ্ট্র শনিবার (২৮ ফেব্রুয়ারি) সকালে যৌথভাবে ইরানে হামলা চালিয়েছে। এতে ব্যাপক ক্ষয়ক্ষতি ও হতাহতের তথ্য পাওয়া যায়। তবে ...",
+      "summary": "ইরানের সরকারি রেডিও ও টেলিভিশন সদরদপ্তর লক্ষ্য করে হামলা চালিয়েছে ইসরাইল। তবে পুরো সদরদপ্তরের বদলে এটির আংশিক জায়গায় হামলা হয়েছে। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -586,6 +586,37 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "‘আলো’র প্রদর্শনীতে দর্শনার্থীদের ভিড়",
+      "url": "https://www.prothomalo.com/photo/bangladesh/vo1rs8nv20",
+      "published_at": "2026-03-01T15:39:13.671000+00:00",
+      "summary": "সংঘবদ্ধ উগ্রবাদীদের দেওয়া আগুনে দগ্ধ প্রথম আলো ভবনে চলছে ব্যতিক্রমী শিল্পকর্ম প্রদর্শনী ‘আলো’। রাজধানীর কারওয়ান বাজারে অবস্থিত ভবনটিতে ১৮ ফেব্রুয়ারি এ প্রদর্শনী শুরু হয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/u74f21zk/01.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/u74f21zk/01.jpg?auto=format,compress"
+    },
+    {
+      "headline": "অন্তর্বর্তী সরকার জানত কারা প্রথম আলোতে হামলা করবে: জাকির হোসেন",
+      "url": "https://www.prothomalo.com/video/bangladesh/qwmgmubv5n",
+      "published_at": "2026-03-01T15:33:25.608000+00:00",
+      "summary": "অন্তর্বর্তী সরকার জানত কারা প্রথম আলোতে হামলা করবে: জাকির হোসেন",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/y3fjrd44/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/y3fjrd44/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সকালে আওয়ামী লীগ কার্যালয়ে পতাকা উত্তোলন, বিকেলে পতাকার স্ট্যান্ড কেটে অপসারণ",
+      "url": "https://www.prothomalo.com/bangladesh/district/nbipe74vdl",
+      "published_at": "2026-03-01T15:32:13.228000+00:00",
+      "summary": "মার্চের প্রথম দিনে ফরিদপুর পৌর আওয়ামী লীগের কার্যালয়ে জাতীয় ও দলীয় পতাকা উত্তোলন এবং শেখ মুজিবুর রহমানের প্রতিকৃতিতে মালা দিয়ে শ্রদ্ধা জানানো হয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/i7azfrx0/WhatsApp-Image-2026-03-01-at-9.14.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/i7azfrx0/WhatsApp-Image-2026-03-01-at-9.14.png?auto=format,compress"
+    },
+    {
+      "headline": "সিলেটে ড্রেনের ভেতর ছিনতাইকারীর আস্তানা, গ্রেফতার ৭",
+      "url": "https://www.bd-pratidin.com/chayer-desh/2026/03/01/1222948",
+      "published_at": "2026-03-01T22:05:01+06:00",
+      "summary": "তাদের নিরাপাদ আস্তানা ছিল ড্রেনের ভেতরে। চুরি-ছিনতাই শেষে সবার চোখে ধুলো দিয়ে তারা নিমিষেই উধাও হয়ে যেতো। আশ্রয় নিতো তাদের নিরাপদ আস্তানায়। আর সেই আস্তানা হচ্ছে সিলেট শহরের বন্দরবাজারের রংমহল টাওয়ার সংলগ্ন ডেন। অবশেষে তাদের সেই আস্তানা থেকে ৭ ছিনতাইকারীকে গ্রেফতারর করা হয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772381100-4c53835202bff5468f84e7dccda37a0f.jpg"
     },
     {
       "headline": "সামাজিক সম্প্রীতি জোরদারে মুক্তিযুদ্ধ জাদুঘরে ‘বৈচিত্র্য ও সম্প্রীতি উৎসব’",
@@ -1457,34 +1488,6 @@
       "summary": "গত মঙ্গলবার বিশ্ববিদ্যালয়ের পাশে ইসলামনগর এলাকায় একটি ভাড়া বাসায় আটকে রেখে এক ছাত্রীকে শারীরিক নির্যাতন ও ধর্ষণ করা হয় বলে অভিযোগ।",
       "image_s3_key": "prothomalo-bangla/2026-03-01/gb3hn3p1/JUDH1642.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/gb3hn3p1/JUDH1642.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রাষ্ট্রপতির কাছে পিএসসি’র বার্ষিক প্রতিবেদন পেশ",
-      "url": "https://www.bd-pratidin.com/national/2026/03/01/1222858",
-      "published_at": "2026-03-01T18:37:53+06:00",
-      "summary": "রাষ্ট্রপতি মো. সাহাবুদ্দিনের কাছে আজ রবিবার সরকারি কর্ম কমিশন (পিএসসি) এর বার্ষিক প্রতিবেদন- ২০২৫ পেশ করা হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772368672-66ad25617fefa1c96ee01e8976c548c3.jpg"
-    },
-    {
-      "headline": "ডিএমপির গুরুত্বপূর্ণ ৪ পদে রদবদল",
-      "url": "https://www.ittefaq.com.bd/777293/%E0%A6%A1%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A7%AA-%E0%A6%AA%E0%A6%A6%E0%A7%87-%E0%A6%B0%E0%A6%A6%E0%A6%AC%E0%A6%A6%E0%A6%B2",
-      "published_at": null,
-      "summary": "রাজধানীর চার গুরুত্বপূর্ণ বিভাগের ডিসি (উপ-পুলিশ কমিশনার) পদে পরিবর্তন এনেছে ঢাকা মেট্রোপলিটন পুলিশ (ডিএমপি)। রোববার (১ মার্চ) এ সংক্রান্ত প্রজ্ঞাপন জারি করা হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2025/09/25/96e0d3e7afd6124f3a52b65fc56a87d4-68d4c376d56a5.jpg"
-    },
-    {
-      "headline": "লিটার প্রতি ২০ পয়সা বাড়লো ওয়াসার এটিএম বুথের পানির দাম",
-      "url": "https://www.ittefaq.com.bd/777292/%E0%A6%B2%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A7%A8%E0%A7%A6-%E0%A6%AA%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%B2%E0%A7%8B-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%AE-%E0%A6%AC%E0%A7%81%E0%A6%A5%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B0",
-      "published_at": null,
-      "summary": "রাজধানীতে ঢাকা ওয়াসার এটিএম বুথ থেকে সরবরাহ করা পানির দাম বাড়ানো হয়েছে। রোববার (১ মার্চ) থেকে নতুন এই বর্ধিত মূল্য কার্যকর করা হয়েছে। এখন থেকে গ্রাহকদের প্রতি লিটার পানি কিনতে হবে ১ টাকা (ভ্যাট ও ট্যাক্সসহ) দরে, যা আগে ছিল ৮০ পয়সা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/aed84c0f0de3be8e448ae41c128e239d-69a4496abd845.jpg"
-    },
-    {
-      "headline": "ইরানে বাংলাদেশিদের নিরাপত্তা নিয়ে উদ্বেগ জানাল বাংলাদেশ",
-      "url": "https://www.ittefaq.com.bd/777291/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%97-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2",
-      "published_at": null,
-      "summary": "সাম্প্রতিক হামলার ঘটনায় ইরানে অবস্থানরত বাংলাদেশি নাগরিকদের নিরাপত্তা নিয়ে গভীর উদ্বেগ প্রকাশ করেছে বাংলাদেশ। একই সঙ্গে আঞ্চলিক শান্তি ও স্থিতিশীলতা নিশ্চিত করতে সংশ্লিষ্ট সকল পক্ষকে সর্বোচ্চ সংযম প্রদর্শন ও কূটনৈতিক পথে ফিরে আসার আহ্বান জানানো হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/1e8932142b105b51f573c33c797c1ade-69a44ec2a6e81.jpg"
     }
   ]
 }
