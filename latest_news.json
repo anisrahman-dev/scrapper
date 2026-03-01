@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-03-01T18:30:11.987124+00:00",
+  "fetched_at": "2026-03-01T19:00:30.929899+00:00",
   "stories": [
+    {
+      "headline": "তেহরানে দুটি শক্তিশালী বিস্ফোরণ",
+      "url": "https://www.prothomalo.com/world/middle-east/iem2ufi93x",
+      "published_at": "2026-03-01T18:53:46.225000+00:00",
+      "summary": "তবে এসব বিস্ফোরণের উৎস বা ক্ষয়ক্ষতির বিষয়ে এখন পর্যন্ত বিস্তারিত কিছু জানা যায়নি।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/5cbm6dlo/Irans-Supreme-2.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/5cbm6dlo/Irans-Supreme-2.avif?auto=format,compress"
+    },
+    {
+      "headline": "খামেনি হত্যার প্রতিবাদে দেশে দেশে বিক্ষোভ, পাকিস্তানে ৯ বিক্ষোভকারী নিহত",
+      "url": "https://www.prothomalo.com/world/middle-east/qvst8wowdp",
+      "published_at": "2026-03-01T18:51:52.775000+00:00",
+      "summary": "ইরানের সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনিকে হত্যার প্রতিবাদে বিশ্বজুড়ে যুক্তরাষ্ট্র ও ইসরায়েলবিরোধী বিক্ষোভ ছড়িয়ে পড়েছে। পাকিস্তানে মার্কিন কনস্যুলেট ঘিরে বিক্ষোভে ৯ জন নিহত হয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/9rvwz3lt/Khameni-protest-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/9rvwz3lt/Khameni-protest-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "স্বাধীন দেশের সর্বোচ্চ ব্যক্তিকে হত্যা আন্তর্জাতিক রীতিতে পড়ে না: আহমদ আবদুল কাদের",
+      "url": "https://www.prothomalo.com/politics/mi51obs0za",
+      "published_at": "2026-03-01T18:35:03.213000+00:00",
+      "summary": "আলোচনা চলাকালে ইরানে হামলার ঘটনা আন্তর্জাতিক রীতিনীতিবিরুদ্ধ বলে মন্তব্য করেছেন খেলাফত মজলিসের মহাসচিব আহমদ আবদুল কাদের।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/l9ay3g0r/Khelafat-Majlis.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/l9ay3g0r/Khelafat-Majlis.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ধূমপান ও তামাকজাত দ্রব্য ব্যবহার নিয়ন্ত্রণ আইনের একটি বিধান প্রশ্নে রুল",
+      "url": "https://www.prothomalo.com/bangladesh/ivsvdhfgcx",
+      "published_at": "2026-03-01T18:23:30.925000+00:00",
+      "summary": "আইনের ৬(গ) ধারা কেন অসাংবিধানিক ঘোষণা করা হবে না, রুলে তা জানতে চাওয়া হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2025-12-20/qv0n62d1/১১.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-20/qv0n62d1/১১.jfif?auto=format,compress"
+    },
     {
       "headline": "স্যামসন–ঝড়ে সেমিফাইনালে ভারত",
       "url": "https://www.prothomalo.com/sports/cricket/vlb5p7nv13",
@@ -16,14 +48,6 @@
       "summary": null,
       "image_s3_key": "prothomalo-bangla/2026-03-01/6dbkarxx/AUDIO-NEWS-THUMB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/6dbkarxx/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ইরানের নতুন নেতৃত্বের সঙ্গে কথা বলতে রাজি ট্রাম্প",
-      "url": "https://www.prothomalo.com/world/middle-east/iem2ufi93x",
-      "published_at": "2026-03-01T18:15:42.989000+00:00",
-      "summary": "তবে এসব বিস্ফোরণের উৎস বা ক্ষয়ক্ষতির বিষয়ে এখন পর্যন্ত বিস্তারিত কিছু জানা যায়নি।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/5cbm6dlo/Irans-Supreme-2.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/5cbm6dlo/Irans-Supreme-2.avif?auto=format,compress"
     },
     {
       "headline": "স্যামসনের দুর্দান্ত ৯৭* রানে সেমিফাইনালে ভারত",
@@ -48,14 +72,6 @@
       "summary": "সংযুক্ত আরব আমিরাতের আবুধাবিতে আল-সালাম নৌঘাঁটিতে ইরানি ড্রোনের হামলার ঘটনা ঘটেছে। এতে দুটি কনটেইনারে আগুন ধরে গেলেও কোনো হতাহতের খবর পাওয়া যায়নি।",
       "image_s3_key": "prothomalo-bangla/2026-03-01/lgm17427/Iranian-drone.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/lgm17427/Iranian-drone.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সামাজিক সম্প্রীতি জোরদারে মুক্তিযুদ্ধ জাদুঘরে ‘বৈচিত্র্য ও সম্প্রীতি উৎসব’",
-      "url": "https://www.prothomalo.com/bangladesh/zyfsooe3yg",
-      "published_at": "2026-03-01T18:01:00.359000+00:00",
-      "summary": "তিন দশক ধরে দেশে নানা কর্মসূচি বাস্তবায়ন করছে আন্তর্জাতিক স্বেচ্ছাব্রতী সংস্থা ‘দ্য হাঙ্গার প্রজেক্ট’।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/p9xfr7b3/LOGO.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/p9xfr7b3/LOGO.png?auto=format,compress"
     },
     {
       "headline": "হাল ফ্যাশন ‘ঈদ ফিয়েস্তা’",
@@ -306,20 +322,11 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/i7azfrx0/WhatsApp-Image-2026-03-01-at-9.14.png?auto=format,compress"
     },
     {
-      "headline": "কুমিল্লায় একই ঘরের দুই কক্ষ থেকে মা-মেয়ের ঝুলন্ত লাশ উদ্ধার",
-      "url": "https://www.prothomalo.com/bangladesh/district/q1unc24qdw",
-      "published_at": "2026-03-01T15:31:00.147000+00:00",
-      "summary": "পুলিশ বিষয়টি নিয়ে কাজ করছে। লাশ দুটি ময়নাতদন্তের জন্য কুমিল্লা মেডিকেল কলেজ হাসপাতালে পাঠানো হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2025-12-18/taadxdzl/suicide.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-18/taadxdzl/suicide.png?auto=format,compress"
-    },
-    {
-      "headline": "‘প্রথম আলোর ওপর হামলা বাংলাদেশকে পেছনে নিয়ে যাওয়ার বড় চক্রান্ত’",
-      "url": "https://www.prothomalo.com/bangladesh/lcy21e22ob",
-      "published_at": "2026-03-01T15:30:09.672000+00:00",
-      "summary": "নুর মোহাম্মদ তালুকদার বলেন, এ ঘটনার সঙ্গে দেশীয় শক্তির পাশাপাশি বিদেশি চক্রান্ত থাকতে পারে। তাদের থামাতে আবারও সামাজিক প্রতিরোধ গড়ে তোলার আহ্বান জানান তিনি।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/grgqc02r/3.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/grgqc02r/3.JPG?auto=format,compress"
+      "headline": "অস্ট্রেলিয়া সফরে যাচ্ছে ব্যান্ড 'শিরোনামহীন'",
+      "url": "https://www.bd-pratidin.com/entertainment/2026/03/02/1223093",
+      "published_at": "2026-03-02T00:31:48+06:00",
+      "summary": "বাংলা নববর্ষের আয়োজন ঘিরে ফের বিদেশ সফরে যাচ্ছে ব্যান্ড 'শিরোনামহীন'। তাদের এবারের গন্তব্য অস্ট্রেলিয়া। ব্যান্ডটির দলনেতা, বেজ গিটারিস্ট ও গীতিকার জিয়াউর রহমান জিয়া জানিয়েছেন, অস্ট্রেলিয়ার সিডনি থেকে শুরু হবে কনসার্ট।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/02/og/1772389907-57accffef4bf7c4763a2013c9ffbe06f.jpg"
     },
     {
       "headline": "বিশ্বকাপের সেমিফাইনালে কার বিপক্ষে কোন দল লড়বে?",
@@ -385,11 +392,18 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772381100-4c53835202bff5468f84e7dccda37a0f.jpg"
     },
     {
-      "headline": "দুবাইয়ে আটকে পড়েছেন সোনাল চৌহান, বাঁচার আকুতি",
-      "url": "https://www.bd-pratidin.com/entertainment/2026/03/01/1222946",
-      "published_at": "2026-03-01T22:04:10+06:00",
-      "summary": "মধ্যপ্রাচ্যের সামরিক উত্তেজনার জেরে দুবাইয়ে আটকে দুবাইয়ে ফ্লাইট চলাচল স্থগিত হওয়ায় আটকে পড়েছেন বলিউড অভিনেত্রী সোনাল চৌহান। নিরাপদে ভারতে ফেরার জন্য তিনি ভারতের সরকারের সাহায্য চেয়ে সোশ্যাল মিডিয়ায় আকুতি জানিয়েছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772381048-5b15793bb005e5a639acfbef68e13fc3.jpg"
+      "headline": "ইরানের সরকারি রেডিও-টেলিভিশন ভবনে হামলা",
+      "url": "https://www.ittefaq.com.bd/777322/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%93-%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8-%E0%A6%AD%E0%A6%AC%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+      "published_at": null,
+      "summary": "ইরানের সরকারি রেডিও ও টেলিভিশন সদরদপ্তরকে লক্ষ্য করে হামলা চালিয়েছে ইসরায়েল। তবে পুরো সদরদপ্তরের বদলে এটির আংশিক জায়গায় হামলা হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/52db6634ef7e381d731c7ba6368dff5b-69a489a9ce993.jpg"
+    },
+    {
+      "headline": "বগুড়ায় প্রতিপক্ষের ছুরিকাঘাতে ব্যবসায়ী নিহত",
+      "url": "https://www.ittefaq.com.bd/777321/%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%98%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4",
+      "published_at": null,
+      "summary": "বগুড়ায় প্রতিপক্ষের ছুরিকাঘাতে সাইফুল ইসলাম (৪৫) নামে এক ব্যবসায়ীর মৃত্যু হয়েছে। রোববার (১ মার্চ) সন্ধ্যায় ঢাকায় নেওয়ার পথে তিনি মারা যান।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/492f2ddb647a1b788b720c754d7e34e2-69a4861925448.jpg"
     },
     {
       "headline": "মধ্যপ্রাচ্যের যুদ্ধের প্রভাব মোকাবিলায় সরকার প্রস্তুত: প্রতিমন্ত্রী",
@@ -448,20 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/1e2686df8626cd0fcd865853811aec2a-69a461b28ea20.jpeg"
     },
     {
-      "headline": "সিরাজগঞ্জে ‘ডাকাত সর্দার’ কেচুকে পুলিশে দিলেন স্বজনরা",
-      "url": "https://www.ittefaq.com.bd/777312/%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E2%80%98%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%B0%E2%80%99-%E0%A6%95%E0%A7%87%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8",
-      "published_at": null,
-      "summary": "সিরাজগঞ্জের কামারখন্দে আন্ত:বিভাগীয় ডাকাত সর্দার রাশেদুল ইসলাম ওরফে কেচুকে (৩৮) গ্রেপ্তার করেছে পুলিশ। তার বিরুদ্ধে কামারখন্দ থানাসহ বিভিন্ন থানায় খুন, ডাকাতি, দস্যুতা, মাদক, অপহরণ করে মুক্তিপণ আদায়ের অন্তত ১৬টি মামলা রয়েছে বলে জানিয়েছে পুলিশ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/29d53b57c484d3b1996557bcf750386b-69a46070e6c89.jpg"
-    },
-    {
-      "headline": "ইরানি ক্ষেপণাস্ত্র হামলা প্রতিহত করেছে সৌদি আরব",
-      "url": "https://www.ittefaq.com.bd/777311/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC",
-      "published_at": null,
-      "summary": "রিয়াদ আন্তর্জাতিক বিমানবন্দর এবং মার্কিন সামরিক ঘাঁটি প্রিন্স সুলতার এয়ারবেস লক্ষ্য করে ক্ষেপণাস্ত্র হামলা চালিয়েছে ইরান। তবে ক্ষেপণাস্ত্র সৌদি আরব প্রতিহত করেছে বলে জানিয়েছে নাম প্রকাশে অনিচ্ছুক একটি সূত্র। খবর এএফপি’র।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/872c51f84ab08bc8107320011824e2b6-69a4602ff3fae.jpg"
-    },
-    {
       "headline": "চুক্তির ফাঁদে বিদ্যুৎ খাত",
       "url": "https://dailynayadiganta.com/printed-edition/BBZpFb0bftwX/",
       "published_at": null,
@@ -483,11 +483,53 @@
       "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
-      "headline": "খামেনির হত্যায় ‘তীব্র নিন্দা’ জানাল চীন",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/lZ3QXVQpiBkF/",
+      "headline": "হাসপাতালে সাতক্ষীরা জেলা কারাগারের হাজতির মৃত্যু",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/QLsXoySKmXYR/",
       "published_at": null,
-      "summary": "রোববার চীনের পররাষ্ট্র মন্ত্রণালয় এক বিবৃতিতে এসব কথা বলা হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_4_ueJvLqT.png"
+      "summary": "সাতক্ষীরা জেলা কারাগারের এক হাজতীর মৃত্যু হয়েছে। রোববার (১ মার্চ) সকালে সাতক্ষীরা সদর হাসপাতালে চিকিৎসাধীন অবস্থায় তিনি মৃত্যুবরণ করেন বলে হাসপাতাল সূত্রে জানা গেছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Satkhira_Sadar_Hospital.jpg"
+    },
+    {
+      "headline": "ইসলামী ব্যাংক বনানী শাখা স্থানান্তর",
+      "url": "https://dailynayadiganta.com/printed-edition/UKeFZDZnlvWZ/",
+      "published_at": null,
+      "summary": "ইসলামী ব্যাংক বাংলাদেশ পিএলসির বনানী শাখা সেঞ্চুরি ট্রেড সেন্টার, হোল্ডিং নং-২৩, সড়ক নং-১৭, বনানী, ঢাকায় স্থানান্তর করা হয়েছে। শনিবার ব্যাংকের ম্যানেজিং ডাইরেক্টর মো: ওমর ফারুক খাঁন প্রধান অতিথি হিসেবে নতুন স্থানে শাখার উদ্বোধন করেন। সিনিয়র এক্সিকিউটিভ ভাইস প্রেসিডেন্ট ও ঢাকা নর্থ জোনপ্রধান এ কে এম মাহবুব মোরশেদ- এর সভাপতিত্বে অনুষ্ঠানে বিশেষ অতিথি হিসেবে উপস্থিত ছিলেন- ব্যাংকের এক্সিকিউটিভ ভাইস প্রেসিডেন্ট মো: মজনুজ্জামান, বাংলাদেশ মাদরাসা শিক্ষা বোর্ডের সাবেক রেজিস্ট্রার প্রফেসর মো: শাহজাহান ও সাবেক অতিরিক্ত সচিব মোহাম্মদ নজরুল ইসলাম। প্রধান আলোচক হিসেবে বক্তব্য দেন বনানী সেন্ট্রাল মসজিদের খতিব মাওলানা মো: আবুল কালাম আজাদ এবং স্বাগত বক্তব্য দেন বনানী শাখাপ্রধান মো: হাবিবুর রহমান। এ সময় গ্রাহক ও শুভানুধ্যায়ীবৃন্দ উপস্থিত ছিলেন।  বিজ্ঞপ্তি।",
+      "image_url": "https://media.ndiganta.com/original_images/artho-1_GyPTd0y.jpg"
+    },
+    {
+      "headline": "মধ্যপ্রাচ্যে উত্তেজনায় অস্থির পুঁজিবাজার",
+      "url": "https://dailynayadiganta.com/printed-edition/NRQRspyRNX25/",
+      "published_at": null,
+      "summary": "মধ্যপ্রাচ্যে, বিশেষ করে ইরানে যুক্তরাষ্ট্র ও ইসরাইলি হামলার জেরে আবারো অস্থির হয়ে উঠেছে দেশের পুঁজিবাজার। শনিবার ভোরে শুরু হওয়া এ হামলা সারা দিনব্যাপী চলায় তা বৈশ্বিক অর্থনীতিতে ব্যাপক প্রভাব ফেলে। একইভাবে এর প্রভাব পড়ে দেশের শেয়ারবাজারেও। লেনদেনের পুরো সময়জুড়ে দেশের দুই পুঁজিবাজারই ছিল তীব্র বিক্রয়চাপে অস্থির।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "সাটুরিয়ায় চরের মানুষের জীবনমান উন্নয়নে ভেড়া বিতরণ",
+      "url": "https://dailynayadiganta.com/printed-edition/2s5GiMJouY55/",
+      "published_at": null,
+      "summary": "মানিকগঞ্জের সাটুরিয়ায় নদীবিধৌত চরাঞ্চলের মানুষের জীবনমান উন্নয়ন ও আমিষের চাহিদা পূরণে ৪০ জন সুফলভোগীর মধ্যে ১২০টি ভেড়া বিতরণ করা হয়েছে। গতকাল রোববার বেলা ১১টায় উপজেলা প্রাণিসম্পদ দফতর ও ভেটেরিনারি হাসপাতাল চত্বরে এ বিতরণ অনুষ্ঠানের আয়োজন করা হয়। এ সময় প্রধান অতিথি হিসেবে থেকে ভেড়া বিতরণ করেন মানিকগঞ্জ জেলা প্রাণিসম্পদ কর্মকর্তা ড. মোহাম্মদ মজিবুর রহমান। তিনি জানান, ঢাকা বিভাগের সাত জেলার ৩১টি উপজেলার ১২০টি ইউনিয়নের চরাঞ্চলে সমন্বিত প্রাণিসম্পদ উন্নয়ন প্রকল্প বাস্তবায়ন হচ্ছে। সাটুরিয়ায় প্রায় চার হাজার খামারী এ প্রকল্পের আওতায় রয়েছেন। চরাঞ্চলের মানুষের জীবনমান উন্নয়ন ও পুষ্টি নিরাপত্তা নিশ্চিত করাই প্রকল্পের মূল লক্ষ্য। এ সময় উপজেলা প্রাণিসম্পদ কর্মকর্তা ডা: তানজিলা ফেরদৌসী, ভেটেরিনারি সার্জন ডা: মো: খোকন হোসেন, প্রাণিসম্প্রসারণ কর্মকর্তা নাজমুন্নাহার ও সাটুরিয়া প্রেস ক্লাবের সভাপতি মো: জাহাঙ্গীর আলম উপস্থিত ছিলেন। সাটুরিয়া (মানিকগঞ্জ) সংবাদদাতা।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "কোটচাঁদপুরে ২৫ লাখ টাকার মাছ লুট",
+      "url": "https://dailynayadiganta.com/printed-edition/Z1KYtGrVEf5v/",
+      "published_at": null,
+      "summary": "ঝিনাইদহের কোটচাঁদপুর উপজেলার পারলাট গ্রামের পারলাট বিলে জোরপূর্বক দখল ও বিপুল পরিমাণ মাছ লুটের অভিযোগ উঠেছে একটি সঙ্ঘবদ্ধ চক্রের বিরুদ্ধে। এ ঘটনায় গতকাল রোববার কোটচাঁদপুর প্রেস ক্লাবে সংবাদ সম্মেলন করে লিখিত বক্তব্য দেন ভুক্তভোগী আলতাফ হোসেন।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "আদমদীঘিতে এবারো ন্যায্য মূল্য পাচ্ছেন না আলুচাষিরা",
+      "url": "https://dailynayadiganta.com/printed-edition/9pYQe6CvgJ4j/",
+      "published_at": null,
+      "summary": "গত বছরের লোকসানের ধকল কাটিয়ে উঠতে না উঠতে চলতি বছরে আলুর বাজারদর নিয়ে দুশ্চিন্তায় পড়েছেন বগুড়ার আদমদীঘি উপজেলার আলুচাষিরা। এ বছরও লোকসানের কবলে পড়বেন এ অঞ্চলের আলুচাষিরা। তারা আলুর ন্যায্য মূল্য পাচ্ছেন না। হাটেবাজারে পাইকারদের কাছে আলুচাষিদের যেন কোনো মূল্যই নেই। তাদের পছন্দ মতো দামেই আলু বিক্রি করতে বাধ্য হচ্ছেন কৃষকরা। ফলে এ অঞ্চলের কৃষকরা আগামী বছরগুলোতে আলু চাষের আগ্রহ হারিয়ে ফেলবেন বলে মনে করছে সচেতন মহল।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "মতলবে পরকীয়ার জেরে শাশুড়ি হত্যা, পুত্রবধূ ও প্রেমিক গ্রেফতার",
+      "url": "https://dailynayadiganta.com/printed-edition/7FP0RCLuTsQV/",
+      "published_at": null,
+      "summary": "চাঁদপুরের মতলব উত্তরের বাগানবাড়ি ইউনিয়নের নতুন হাপানিয়া গ্রামে প্রবাসীর বাড়িতে বৃদ্ধা পারুল বেগম (৭০) হত্যার রহস্য উদঘাটন করেছে পুলিশ। পরকীয়ার জেরে পরিকল্পিতভাবে শ্বাসরোধে হত্যার অভিযোগে তার পুত্রবধূ হালিমা আক্তার (২৭) ও প্রতিবেশী আশরাফুল ইসলাম মিঠুকে (৩০) গ্রেফতার করা হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
       "headline": "ফতুল্লা প্রেস ক্লাবের ইফতার মাহফিল অনুষ্ঠিত",
@@ -502,27 +544,6 @@
       "published_at": null,
       "summary": "মধ্যপ্রাচ্যে চলমান সঙ্ঘাতে সংযুক্ত আরব আমিরাতে সালেখ উদ্দিন ওরফে আহমদ আলী (৪৮) নামে এক বাংলাদেশী নিহত হওয়ার খবর পাওয়া গেছে।",
       "image_url": "https://media.ndiganta.com/original_images/Sylhet_Salekh.jpg"
-    },
-    {
-      "headline": "ওয়েস্ট ইন্ডিজকে বিদায় করে সেমিফাইনালে ভারত",
-      "url": "https://dailynayadiganta.com/sports/cricket/CWpja7SXHg4A/",
-      "published_at": null,
-      "summary": "এর আগে ইডেন গার্ডেনে ব্যাট করতে নেমে ভালো সূচনা পায় ক্যারিবীয়রা। উদ্বোধনী জুটিতে আসে ৬৮ রান। ৩৩ বলে ৩২ রান করে আউট হন শাই হোপ। রোস্টন চেজের ব্যাট থেকে আসে ২৫ বলে ৪০ রান।",
-      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_3_pYzmYEr.png"
-    },
-    {
-      "headline": "ইরানের ৪৮ জন নেতার নিহতের খবর জানালেন ট্রাম্প",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/dzwdJtTMiJsy/",
-      "published_at": null,
-      "summary": "‘আমরা কেবল আমাদের জন্য নয়, বরং বিশ্বের জন্য কাজ করছি।’",
-      "image_url": "https://media.ndiganta.com/original_images/Untitled-5_oyjTZUC.gif"
-    },
-    {
-      "headline": "ইরানের সাবেক প্রেসিডেন্ট আহমাদিনেজাদ নিহত",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/rv8WqX2OkD42/",
-      "published_at": null,
-      "summary": "উত্তর-পূর্ব তেহরানের নার্নাকে তার বাসভবনে হামলায় তিনিসহ বেশ কয়েকজন দেহরক্ষীও নিহত হয়েছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_2_F8JFUbb.png"
     },
     {
       "headline": "সিলেটের জৈন্তাপুরে পাড় ধসে বালুচাপায় যুবকের মৃত্যু",
@@ -553,17 +574,10 @@
       "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_QLBxlF1.png"
     },
     {
-      "headline": "কালীগঞ্জে বিএনপির দু’পক্ষের সংঘর্ষের ঘটনায় গ্রেফতার ৬",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/HrY5KIkTmvVz/",
-      "published_at": null,
-      "summary": "গ্রেফতারকৃতরা হলেন সাবেক ইউপি চেয়ারম্যান বিষয়খালী এলাকার বাসিন্দা খুরশিদ আলম, মতি মিয়া, মনিরুল ইসলাম, নুর আলী মন্ডল, পলাশ মন্ডল ও ওলাদ হোসেন। গ্রেফতারকৃতরা সবাই সদর উপজেলার খামারইল ও বিষয়খালী এলাকার বাসিন্দা।",
-      "image_url": "https://media.ndiganta.com/original_images/Jhenidah-1-3.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - March 02, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ইরানের ওপর যুক্তরাষ্ট্র ও ইসরায়েলের হামলার প্রতিক্রিয়া হিসেবে জবাব দেওয়া হবে বলে জানিয়েছে ইরান সমর্থিত এই সংগঠনটি। ...",
+      "summary": "ইসরাইল ও যুক্তরাষ্ট্র শনিবার (২৮ ফেব্রুয়ারি) সকালে যৌথভাবে ইরানে হামলা চালিয়েছে। এতে ব্যাপক ক্ষয়ক্ষতি ও হতাহতের তথ্য পাওয়া যায়। তবে ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -572,6 +586,86 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "সামাজিক সম্প্রীতি জোরদারে মুক্তিযুদ্ধ জাদুঘরে ‘বৈচিত্র্য ও সম্প্রীতি উৎসব’",
+      "url": "https://www.prothomalo.com/bangladesh/zyfsooe3yg",
+      "published_at": "2026-03-01T18:01:00.359000+00:00",
+      "summary": "তিন দশক ধরে দেশে নানা কর্মসূচি বাস্তবায়ন করছে আন্তর্জাতিক স্বেচ্ছাব্রতী সংস্থা ‘দ্য হাঙ্গার প্রজেক্ট’।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/p9xfr7b3/LOGO.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/p9xfr7b3/LOGO.png?auto=format,compress"
+    },
+    {
+      "headline": "কুমিল্লায় একই ঘরের দুই কক্ষ থেকে মা-মেয়ের ঝুলন্ত লাশ উদ্ধার",
+      "url": "https://www.prothomalo.com/bangladesh/district/q1unc24qdw",
+      "published_at": "2026-03-01T15:31:00.147000+00:00",
+      "summary": "পুলিশ বিষয়টি নিয়ে কাজ করছে। লাশ দুটি ময়নাতদন্তের জন্য কুমিল্লা মেডিকেল কলেজ হাসপাতালে পাঠানো হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2025-12-18/taadxdzl/suicide.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-18/taadxdzl/suicide.png?auto=format,compress"
+    },
+    {
+      "headline": "‘প্রথম আলোর ওপর হামলা বাংলাদেশকে পেছনে নিয়ে যাওয়ার বড় চক্রান্ত’",
+      "url": "https://www.prothomalo.com/bangladesh/lcy21e22ob",
+      "published_at": "2026-03-01T15:30:09.672000+00:00",
+      "summary": "নুর মোহাম্মদ তালুকদার বলেন, এ ঘটনার সঙ্গে দেশীয় শক্তির পাশাপাশি বিদেশি চক্রান্ত থাকতে পারে। তাদের থামাতে আবারও সামাজিক প্রতিরোধ গড়ে তোলার আহ্বান জানান তিনি।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/grgqc02r/3.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/grgqc02r/3.JPG?auto=format,compress"
+    },
+    {
+      "headline": "দুবাইয়ে আটকে পড়েছেন সোনাল চৌহান, বাঁচার আকুতি",
+      "url": "https://www.bd-pratidin.com/entertainment/2026/03/01/1222946",
+      "published_at": "2026-03-01T22:04:10+06:00",
+      "summary": "মধ্যপ্রাচ্যের সামরিক উত্তেজনার জেরে দুবাইয়ে আটকে দুবাইয়ে ফ্লাইট চলাচল স্থগিত হওয়ায় আটকে পড়েছেন বলিউড অভিনেত্রী সোনাল চৌহান। নিরাপদে ভারতে ফেরার জন্য তিনি ভারতের সরকারের সাহায্য চেয়ে সোশ্যাল মিডিয়ায় আকুতি জানিয়েছেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772381048-5b15793bb005e5a639acfbef68e13fc3.jpg"
+    },
+    {
+      "headline": "সিরাজগঞ্জে ‘ডাকাত সর্দার’ কেচুকে পুলিশে দিলেন স্বজনরা",
+      "url": "https://www.ittefaq.com.bd/777312/%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E2%80%98%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%B0%E2%80%99-%E0%A6%95%E0%A7%87%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8",
+      "published_at": null,
+      "summary": "সিরাজগঞ্জের কামারখন্দে আন্ত:বিভাগীয় ডাকাত সর্দার রাশেদুল ইসলাম ওরফে কেচুকে (৩৮) গ্রেপ্তার করেছে পুলিশ। তার বিরুদ্ধে কামারখন্দ থানাসহ বিভিন্ন থানায় খুন, ডাকাতি, দস্যুতা, মাদক, অপহরণ করে মুক্তিপণ আদায়ের অন্তত ১৬টি মামলা রয়েছে বলে জানিয়েছে পুলিশ।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/29d53b57c484d3b1996557bcf750386b-69a46070e6c89.jpg"
+    },
+    {
+      "headline": "ইরানি ক্ষেপণাস্ত্র হামলা প্রতিহত করেছে সৌদি আরব",
+      "url": "https://www.ittefaq.com.bd/777311/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC",
+      "published_at": null,
+      "summary": "রিয়াদ আন্তর্জাতিক বিমানবন্দর এবং মার্কিন সামরিক ঘাঁটি প্রিন্স সুলতার এয়ারবেস লক্ষ্য করে ক্ষেপণাস্ত্র হামলা চালিয়েছে ইরান। তবে ক্ষেপণাস্ত্র সৌদি আরব প্রতিহত করেছে বলে জানিয়েছে নাম প্রকাশে অনিচ্ছুক একটি সূত্র। খবর এএফপি’র।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/872c51f84ab08bc8107320011824e2b6-69a4602ff3fae.jpg"
+    },
+    {
+      "headline": "খামেনির হত্যায় ‘তীব্র নিন্দা’ জানাল চীন",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/lZ3QXVQpiBkF/",
+      "published_at": null,
+      "summary": "রোববার চীনের পররাষ্ট্র মন্ত্রণালয় এক বিবৃতিতে এসব কথা বলা হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_4_ueJvLqT.png"
+    },
+    {
+      "headline": "ওয়েস্ট ইন্ডিজকে বিদায় করে সেমিফাইনালে ভারত",
+      "url": "https://dailynayadiganta.com/sports/cricket/CWpja7SXHg4A/",
+      "published_at": null,
+      "summary": "এর আগে ইডেন গার্ডেনে ব্যাট করতে নেমে ভালো সূচনা পায় ক্যারিবীয়রা। উদ্বোধনী জুটিতে আসে ৬৮ রান। ৩৩ বলে ৩২ রান করে আউট হন শাই হোপ। রোস্টন চেজের ব্যাট থেকে আসে ২৫ বলে ৪০ রান।",
+      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_3_pYzmYEr.png"
+    },
+    {
+      "headline": "ইরানের ৪৮ জন নেতার নিহতের খবর জানালেন ট্রাম্প",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/dzwdJtTMiJsy/",
+      "published_at": null,
+      "summary": "‘আমরা কেবল আমাদের জন্য নয়, বরং বিশ্বের জন্য কাজ করছি।’",
+      "image_url": "https://media.ndiganta.com/original_images/Untitled-5_oyjTZUC.gif"
+    },
+    {
+      "headline": "ইরানের সাবেক প্রেসিডেন্ট আহমাদিনেজাদ নিহত",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/rv8WqX2OkD42/",
+      "published_at": null,
+      "summary": "উত্তর-পূর্ব তেহরানের নার্নাকে তার বাসভবনে হামলায় তিনিসহ বেশ কয়েকজন দেহরক্ষীও নিহত হয়েছেন।",
+      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_2_F8JFUbb.png"
+    },
+    {
+      "headline": "কালীগঞ্জে বিএনপির দু’পক্ষের সংঘর্ষের ঘটনায় গ্রেফতার ৬",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/HrY5KIkTmvVz/",
+      "published_at": null,
+      "summary": "গ্রেফতারকৃতরা হলেন সাবেক ইউপি চেয়ারম্যান বিষয়খালী এলাকার বাসিন্দা খুরশিদ আলম, মতি মিয়া, মনিরুল ইসলাম, নুর আলী মন্ডল, পলাশ মন্ডল ও ওলাদ হোসেন। গ্রেফতারকৃতরা সবাই সদর উপজেলার খামারইল ও বিষয়খালী এলাকার বাসিন্দা।",
+      "image_url": "https://media.ndiganta.com/original_images/Jhenidah-1-3.jpg"
     },
     {
       "headline": "কাঁদতে কাঁদতে ইকরার বাবা বললেন, মেয়েটাকে ভিক্ষা চেয়েছিলাম কিন্তু দেয়নি...",
@@ -1391,107 +1485,6 @@
       "published_at": null,
       "summary": "সাম্প্রতিক হামলার ঘটনায় ইরানে অবস্থানরত বাংলাদেশি নাগরিকদের নিরাপত্তা নিয়ে গভীর উদ্বেগ প্রকাশ করেছে বাংলাদেশ। একই সঙ্গে আঞ্চলিক শান্তি ও স্থিতিশীলতা নিশ্চিত করতে সংশ্লিষ্ট সকল পক্ষকে সর্বোচ্চ সংযম প্রদর্শন ও কূটনৈতিক পথে ফিরে আসার আহ্বান জানানো হয়েছে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/1e8932142b105b51f573c33c797c1ade-69a44ec2a6e81.jpg"
-    },
-    {
-      "headline": "গর্তে ইট দিয়ে ঢেকে রাখা হয়েছিল টিসিবির ১৪৪৪ লিটার তেল",
-      "url": "https://www.ittefaq.com.bd/777290/%E0%A6%97%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A6%9F-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A2%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A7%A7%E0%A7%AA%E0%A7%AA%E0%A7%AA-%E0%A6%B2%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B0",
-      "published_at": null,
-      "summary": "জামালপুর শহরের বাগেরহাটা বটতলা এলাকার একটি পরিত্যক্ত গোডাউন থেকে টিসিবির ১ হাজার ৪৪৪ লিটার ভোজ্য তেল জব্দ করা হয়েছে। একটি গর্তে বিশেষ কায়দায় ইট দিয়ে এসব তেল ঢেকে রাখা হয়েছিল বলে জানিয়েছে সংশ্লিষ্টরা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/bd2517e3f56bd83e1e7c472a3f2d70c5-69a4486bf0338.jpg"
-    },
-    {
-      "headline": "ইরানের নিরাপত্তা বাহিনীকে ক্ষমতা ছাড়তে আহ্বান জানালেন পাহলভি",
-      "url": "https://www.ittefaq.com.bd/777289/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%B9%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8",
-      "published_at": null,
-      "summary": "ইরানের সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনির মৃত্যুর পর দেশটির নিরাপত্তা বাহিনী ও অন্য কর্মকর্তাদের দায়িত্ব থেকে সরে দাঁড়িয়ে ক্ষমতা হস্তান্তরের আহ্বান জানিয়েছেন নির্বাসিত যুবরাজ রেজা পাহলভি। খবর ইরান ইন্টারন্যাশনালের।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/96e9d76146fcc0cc7d50a90209bbd1a5-69a447d525503.jpg"
-    },
-    {
-      "headline": "শাহজালালে বিমানবন্দরে তিনদিনে ৭৪ ফ্লাইট বাতিল",
-      "url": "https://www.ittefaq.com.bd/777288/%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A7%AD%E0%A7%AA-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2",
-      "published_at": null,
-      "summary": "মধ্যপ্রাচ্যে সৃষ্ট যুদ্ধ পরিস্থিতির কারণে ২৮ ফেব্রুয়ারি বিকেল থেকে ইরান, ইরাক, কুয়েত, সংযুক্ত আরব আমিরাত, বাহরাইন, কাতার ও জর্ডান তাদের আকাশসীমা সাময়িকভাবে বন্ধ ঘোষণা করে। এর সরাসরি প্রভাব পড়ে ঢাকার হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে। গতকাল থেকে এখন পর্যন্ত বিভিন্ন এয়ারলাইন্সের সর্বশেষ ৭৪টি ফ্লাইট বাতিল ঘোষণা করা হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2022/12/26/c40b8f1fef1ccd2a92c27d0590d1b6cf-63a9ad59f327a.jpg"
-    },
-    {
-      "headline": "রাজশাহীতে হত্যা মামলার প্রধান আসামি ২০ দিন নিখোঁজ, অপহরণের অভিযোগ",
-      "url": "https://www.prothomalo.com/bangladesh/district/m2n0zope4a",
-      "published_at": "2026-03-01T12:39:03.882000+00:00",
-      "summary": "রাজশাহীতে একটি হত্যা মামলার প্রধান আসামিকে অপহরণের অভিযোগ পাওয়া গেছে। ২০ দিন ধরে তাঁর কোনো খোঁজ পাওয়া যাচ্ছে না। ",
-      "image_s3_key": "prothomalo-bangla/2022-06/194e066d-3d01-419e-90a4-cea72da1af7f/1.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-06/194e066d-3d01-419e-90a4-cea72da1af7f/1.webp?auto=format,compress"
-    },
-    {
-      "headline": "বরিশালে মশার দাপটে অতিষ্ঠ নগরবাসী, সিটি করপোরেশনের ‘ক্র্যাশ প্রোগ্রাম’",
-      "url": "https://www.prothomalo.com/bangladesh/district/dmkggxumy9",
-      "published_at": "2026-03-01T12:36:13.917000+00:00",
-      "summary": "নদী-খাল-বিলের পানি কমে যাওয়ায় বরিশালে মশার বংশবিস্তার বেড়েছে। নগরজুড়ে ৩০টি ওয়ার্ডে বিশেষ মশক নিধন অভিযান চালালেও স্থায়ী সমাধান নিয়ে সংশয় রয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/sgxxlyqi/BarishalCity.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/sgxxlyqi/BarishalCity.jpg?auto=format,compress"
-    },
-    {
-      "headline": "জাতীয় দলের নির্বাচক হতে চান, দরকার হবে এসব যোগ্যতা",
-      "url": "https://www.prothomalo.com/sports/cricket/wfgmyaqedr",
-      "published_at": "2026-03-01T12:34:13.408000+00:00",
-      "summary": "কিছু যোগ্যতা থাকলে আপনিও হতে পারবেন জাতীয় দলের নির্বাচক। এত দিন সেই যোগ্যতাগুলো জানিয়ে কখনো প্রকাশ্যে বিজ্ঞপ্তি দেয়নি বিসিবি।",
-      "image_s3_key": "prothomalo-bangla/2024-05/32604477-7bb2-4043-afb8-90afedac8208/071c458c-9f79-41c2-93cc-77ea214334af.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-05/32604477-7bb2-4043-afb8-90afedac8208/071c458c-9f79-41c2-93cc-77ea214334af.jpg?auto=format,compress"
-    },
-    {
-      "headline": "নতুন গভর্নরের নিয়োগ নিয়ে এত হইচই কেন",
-      "url": "https://www.prothomalo.com/opinion/column/oirt3l1dp2",
-      "published_at": "2026-03-01T12:24:55.750000+00:00",
-      "summary": "বিএনপি একটা ভূমিধস জয় নিয়ে ক্ষমতায় এসেছে। এই সরকারি দল তাদের গভর্নর নিয়োগের ব্যাপারে বিএনপি–ভাবাপন্ন মানুষকে খুঁজবে—এতে আশ্চর্য হওয়ার কী-ই বা আছে? ",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/dqtoxncs/WhatsApp-Image-2026-02-28-at-6.37.20-PM.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/dqtoxncs/WhatsApp-Image-2026-02-28-at-6.37.20-PM.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সুপ্রিম কোর্টের করিডরে ২৫ তরুণ, কেমন ছিল ইন্টার্নশিপের অভিজ্ঞতা",
-      "url": "https://www.prothomalo.com/lifestyle/8456iz2v3y",
-      "published_at": "2026-03-01T12:23:29.041000+00:00",
-      "summary": "ঢাকা বিশ্ববিদ্যালয়, রাজশাহী বিশ্ববিদ্যালয়, ব্র্যাক বিশ্ববিদ্যালয়, নর্থ সাউথ ইউনিভার্সিটি এবং ইউআইটিএস—এই পাঁচটি বিশ্ববিদ্যালয়ের শিক্ষার্থীরা সুযোগ পেয়েছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/zxlsj030/IMG3615.JPEG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/zxlsj030/IMG3615.JPEG?auto=format,compress"
-    },
-    {
-      "headline": "কে হচ্ছেন খামেনির উত্তরসূরি? আলোচনায় যাঁরা",
-      "url": "https://www.prothomalo.com/video/international/wevfx9pi0h",
-      "published_at": "2026-03-01T12:22:19.229000+00:00",
-      "summary": "কে হচ্ছেন খামেনির উত্তরসূরি? আলোচনায় যাঁরা",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/s7ky7k66/BARTA-SHONKHEP.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/s7ky7k66/BARTA-SHONKHEP.jpg?auto=format,compress"
-    },
-    {
-      "headline": "পাঁচ জেলার জেলা প্রশাসক প্রত্যাহার",
-      "url": "https://www.prothomalo.com/bangladesh/6pdawflfgu",
-      "published_at": "2026-03-01T12:13:02.479000+00:00",
-      "summary": "তাঁদের পরবর্তী পদায়নের জন্য জনপ্রশাসন মন্ত্রণালয়ে ন্যস্ত করা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-01-01/ji6wc191/4499b667_af50_44c1_a383_b18fddda43aa.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-01/ji6wc191/4499b667_af50_44c1_a383_b18fddda43aa.png?auto=format,compress"
-    },
-    {
-      "headline": " ইরানে বাংলাদেশের নাগরিকদের নিরাপত্তা ও সুরক্ষা নিয়ে সরকারের গভীর উদ্বেগ",
-      "url": "https://www.prothomalo.com/bangladesh/3x1oge4zfv",
-      "published_at": "2026-03-01T12:09:57.666000+00:00",
-      "summary": "ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের হামলার প্রেক্ষাপটে দেশটিতে অবস্থানরত বাংলাদেশি নাগরিকদের নিরাপত্তা ও সুরক্ষা নিয়ে বাংলাদেশ গভীর উদ্বেগ প্রকাশ করছে।",
-      "image_s3_key": "prothomalo-bangla/2025-10-17/bhwpv2jb/foreign-ministry.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-17/bhwpv2jb/foreign-ministry.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সাবেক এমপি সানজিদা খানম ও সাবেক সচিব নজরুল ইসলাম খানের দেশত্যাগে নিষেধাজ্ঞা",
-      "url": "https://www.prothomalo.com/bangladesh/m7j5n41l20",
-      "published_at": "2026-03-01T12:06:52.577000+00:00",
-      "summary": "সাবেক এমপি সানজিদা খানম এবং শিক্ষা মন্ত্রণালয়ের শিক্ষা ও আইসিটি বিভাগের সাবেক সচিব নজরুল ইসলাম খানের দেশত্যাগের নিষেধাজ্ঞা।",
-      "image_s3_key": "prothomalo-bangla/2025-10-21/176alour/Untitled-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-21/176alour/Untitled-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "হ্রদ থেকে সমুদ্র, দুই জলের দুই গল্প",
-      "url": "https://nagorik.prothomalo.com/travel/iswcdcdv2r",
-      "published_at": "2026-03-01T12:04:12.315000+00:00",
-      "summary": "ঢাকায় এখন বেশ শীত, রোদের দেখা পাওয়া যায় না। কিন্তু এখানে সাত সকালে রোদ দেখা গেল।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/w2oe58ls/5.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/w2oe58ls/5.png?auto=format,compress"
     }
   ]
 }
