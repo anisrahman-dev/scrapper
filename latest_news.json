@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-01T19:23:07.296278+00:00",
+  "fetched_at": "2026-03-01T19:47:41.580245+00:00",
   "stories": [
+    {
+      "headline": "ধাক্কা খেল দুবাইয়ের বিলাসী জীবন",
+      "url": "https://www.prothomalo.com/world/p6u4bi9mtj",
+      "published_at": "2026-03-01T19:35:36.055000+00:00",
+      "summary": "সন্ধ্যা নামার কিছুক্ষণ পরই পারস্য উপসাগরীয় দেশগুলোর দিকে ধেয়ে আসতে শুরু করে ইরানের ড্রোন ও ক্ষেপণাস্ত্র।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/a4np0e4g/dubai-iran-prothomalo.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/a4np0e4g/dubai-iran-prothomalo.avif?auto=format,compress"
+    },
     {
       "headline": "চেলসিকে হারিয়ে ৫ পয়েন্টে এগিয়ে গেল আর্সেনাল, জিতেছে ইউনাইটেডও",
       "url": "https://www.prothomalo.com/sports/football/lwbpph5rwi",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/3l91k5jy/Mumit-Al-Rashid.png?auto=format,compress"
     },
     {
-      "headline": "কিশোরগঞ্জে নরসুন্দা নদীর মাঝখানে সীমানাপ্রাচীর, বহুতল ভবন নির্মাণের উদ্যোগ",
-      "url": "https://www.prothomalo.com/bangladesh/district/ahlx3g6j1y",
-      "published_at": "2026-03-01T15:48:47.005000+00:00",
-      "summary": "দেশের অন্য সব নদ-নদীর মতো ধীরে ধীরে কিশোরগঞ্জ শহরবাসীর প্রাণের নরসুন্দাও মৃত্যুর দিকে এগিয়ে যাচ্ছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/ov66u1yj/KishorgonjDH063520260301IMG20260301170322.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/ov66u1yj/KishorgonjDH063520260301IMG20260301170322.jpg?auto=format,compress"
-    },
-    {
       "headline": "একনজরে আজকের বাংলাদেশ প্রতিদিন (২ মার্চ)",
       "url": "https://www.bd-pratidin.com/national/2026/03/02/1223099",
       "published_at": "2026-03-02T01:12:32+06:00",
@@ -392,6 +392,20 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772381480-e36ec0dfeeec84746d6d1586377245c3.PNG"
     },
     {
+      "headline": "আরও দুই শক্তিশালী বিস্ফোরণে কেঁপে উঠল তেহরান",
+      "url": "https://www.ittefaq.com.bd/777325/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A6%B2-%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "ইরানের রাজধানী তেহরানে আরও দুটি প্রবল বিস্ফোরণ ঘটেছে। এ তথ্য জানিয়েছেন বার্তা সংস্থা এএফপির দুজন সাংবাদিক। বিস্ফোরণের ধাক্কায় ওই দুই সাংবাদিকের আবাসিক ভবনের জানালা কেঁপে ওঠেছে, যারা একে অপরের থেকে কয়েক কিলোমিটার দূরে অবস্থান করছিলেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/45262856c1b2cca2d3d3aa49a53fbf60-69a49428f1c6e.jpg"
+    },
+    {
+      "headline": "ইরানের নৌবাহিনীর ৯ জাহাজ ডুবিয়ে দেওয়ার দাবি ট্রাম্পের",
+      "url": "https://www.ittefaq.com.bd/777323/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%8C%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%B0-%E0%A7%AF-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C-%E0%A6%A1%E0%A7%81%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
+      "published_at": null,
+      "summary": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন, হামলা চালিয়ে মার্কিন বাহিনী ইরানের নৌবাহিনীর অন্তত ৯টি জাহাজ ধ্বংস ও ডুবিয়ে দিয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/6f1d31895c21aba1fb5b12febd995b26-69a48e3f36ab3.jpg"
+    },
+    {
       "headline": "ইরানের সরকারি রেডিও-টেলিভিশন ভবনে হামলা",
       "url": "https://www.ittefaq.com.bd/777322/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%93-%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8-%E0%A6%AD%E0%A6%AC%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
       "published_at": null,
@@ -446,20 +460,6 @@
       "published_at": null,
       "summary": "পাবনার ঈশ্বরদী উপজেলা স্বাস্থ্য কমপ্লেক্সে দালালমুক্ত সেবা নিশ্চিত করতে জেলা প্রশাসকের নির্দেশে ও জাতীয় নিরাপত্তা গোয়েন্দা সংস্থার তথ্যের ভিত্তিতে যৌথ অভিযান পরিচালিত হয়েছে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/51183dd32c5d028f120e35939d4cc804-69a4627b7ee2d.jpg"
-    },
-    {
-      "headline": "প্রতিবেশীদের নয়, হামলা হচ্ছে যুক্তরাষ্ট্রের আগ্রাসনের বিরুদ্ধে: ইরানের পররাষ্ট্রমন্ত্রী",
-      "url": "https://www.ittefaq.com.bd/777314/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "প্রতিবেশীদের ওপর ইরান হামলা চালাচ্ছে না বরং যুক্তরাষ্ট্রের আগ্রাসনের বিরুদ্ধে প্রতিশোধমূলক হামলা চালানো চালাচ্ছে বলে মন্তব্য করেছেন ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/6b46b99d7b83cb7953f303608d9a4936-69a4620cd8f96.jpg"
-    },
-    {
-      "headline": "সাদ্দাম-গাদ্দাফি-খামেনি: যুক্তরাষ্ট্রের পরবর্তী শিকার কোন নেতা?",
-      "url": "https://www.ittefaq.com.bd/777313/%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%97%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AB%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A6%BF-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80",
-      "published_at": null,
-      "summary": "আন্তর্জাতিক রাজনীতি ও সংঘাতের ইতিহাসে যুক্তরাষ্ট্রের হামলায় বিভিন্ন দেশের শীর্ষ নেতাদের মৃত্যু বহুবার বৈশ্বিক ক্ষমতার সমীকরণ বদলে দিয়েছে। ইসরায়েল ও যুক্তরাষ্ট্রের সামরিক অভিযানে মধ্যপ্রাচ্যের প্রভাবশালী নেতাদের নিহত হওয়ার ঘটনাগুলো নতুন করে আঞ্চলিক অস্থিরতা ও আন্তর্জাতিক উত্তেজনার জন্ম দিয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/1e2686df8626cd0fcd865853811aec2a-69a461b28ea20.jpeg"
     },
     {
       "headline": "চুক্তির ফাঁদে বিদ্যুৎ খাত",
@@ -577,7 +577,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 02, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ইরানের সরকারি রেডিও ও টেলিভিশন সদরদপ্তর লক্ষ্য করে হামলা চালিয়েছে ইসরাইল। তবে পুরো সদরদপ্তরের বদলে এটির আংশিক জায়গায় হামলা হয়েছে। ...",
+      "summary": "ইরানের রাজধানী তেহরানের গান্ধী হাসপাতালে বিমান হামলা চালিয়েছে যুক্তরাষ্ট্র ও ইসরাইল। ইরানি বার্তাসংস্থা ইসনা স্থানীয় সময় রোববার (১ মার্চ) এ ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -586,6 +586,28 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "কিশোরগঞ্জে নরসুন্দা নদীর মাঝখানে সীমানাপ্রাচীর, বহুতল ভবন নির্মাণের উদ্যোগ",
+      "url": "https://www.prothomalo.com/bangladesh/district/ahlx3g6j1y",
+      "published_at": "2026-03-01T15:48:47.005000+00:00",
+      "summary": "দেশের অন্য সব নদ-নদীর মতো ধীরে ধীরে কিশোরগঞ্জ শহরবাসীর প্রাণের নরসুন্দাও মৃত্যুর দিকে এগিয়ে যাচ্ছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/ov66u1yj/KishorgonjDH063520260301IMG20260301170322.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/ov66u1yj/KishorgonjDH063520260301IMG20260301170322.jpg?auto=format,compress"
+    },
+    {
+      "headline": "প্রতিবেশীদের নয়, হামলা হচ্ছে যুক্তরাষ্ট্রের আগ্রাসনের বিরুদ্ধে: ইরানের পররাষ্ট্রমন্ত্রী",
+      "url": "https://www.ittefaq.com.bd/777314/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "প্রতিবেশীদের ওপর ইরান হামলা চালাচ্ছে না বরং যুক্তরাষ্ট্রের আগ্রাসনের বিরুদ্ধে প্রতিশোধমূলক হামলা চালানো চালাচ্ছে বলে মন্তব্য করেছেন ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/6b46b99d7b83cb7953f303608d9a4936-69a4620cd8f96.jpg"
+    },
+    {
+      "headline": "সাদ্দাম-গাদ্দাফি-খামেনি: যুক্তরাষ্ট্রের পরবর্তী শিকার কোন নেতা?",
+      "url": "https://www.ittefaq.com.bd/777313/%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%97%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%AB%E0%A6%BF-%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A6%BF-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80",
+      "published_at": null,
+      "summary": "আন্তর্জাতিক রাজনীতি ও সংঘাতের ইতিহাসে যুক্তরাষ্ট্রের হামলায় বিভিন্ন দেশের শীর্ষ নেতাদের মৃত্যু বহুবার বৈশ্বিক ক্ষমতার সমীকরণ বদলে দিয়েছে। ইসরায়েল ও যুক্তরাষ্ট্রের সামরিক অভিযানে মধ্যপ্রাচ্যের প্রভাবশালী নেতাদের নিহত হওয়ার ঘটনাগুলো নতুন করে আঞ্চলিক অস্থিরতা ও আন্তর্জাতিক উত্তেজনার জন্ম দিয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/1e2686df8626cd0fcd865853811aec2a-69a461b28ea20.jpeg"
     },
     {
       "headline": "‘আলো’র প্রদর্শনীতে দর্শনার্থীদের ভিড়",
@@ -1466,28 +1488,6 @@
       "published_at": null,
       "summary": "কুমিল্লার চান্দিনায় একই ঘর থেকে মা মেয়ের ঝুলন্ত মরদেহ উদ্ধার করা হয়েছে। রোববার (১ মার্চ) বিকেলে চান্দিনা উপজেলার দোল্লাই নবাবপুর ইউনিয়নের সাঁকোচ গ্রামে ওই ঘটনা ঘটে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/df6f0450994681a9110cb4efbd153a08-69a44cc69295e.jpg"
-    },
-    {
-      "headline": "আগামীর বাংলাদেশ : প্রত্যাশা ও শঙ্কা",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/m3NADyQncG3e/",
-      "published_at": null,
-      "summary": "জুলাই বিপ্লবের যে তরুণসমাজ ঐক্যের শক্তি \r\nদেখিয়েছিল, তাদের সেই ঐক্য আরো সুদৃঢ় করা এখন সময়ের দাবি। কোনো একক রাজনৈতিক শক্তির ওপর নির্ভর করে এ ঐতিহাসিক লক্ষ্য অর্জন সম্ভব নয়। বিশেষ করে যদি কোনো দল তার সামাজিক দৃষ্টিভঙ্গিতে রক্ষণশীল অবস্থানে স্থির থাকে, বিশেষত নারীর অংশগ্রহণ ও সম-অধিকারের প্রশ্নে, তবে তা বৃহত্তর জাতীয় ঐক্যের পথে প্রতিবন্ধকতা তৈরি করতে পারে। সেই সাথে দেশ-বিদেশে \r\nঅস্বস্তি ও আপত্তির জন্ম দিতে পারে",
-      "image_url": "https://media.ndiganta.com/original_images/opinion_2_byeiqOn.jpg"
-    },
-    {
-      "headline": "সিংড়ায় খালেদার জিয়ার রুহের মাগফিরাত কামনায় দোয়া ও ইফতার",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/BGXnDKC9qAXK/",
-      "published_at": null,
-      "summary": "অধ্যক্ষ আনু এমপি বলেন, তিনি কোনো রাজনৈতিক হানাহানি, সংঘাত চান না। সকলকে নিয়ে নিরাপদ ও শান্তির একটি সিংড়া গড়তে চান।",
-      "image_url": "https://media.ndiganta.com/original_images/singra-1-3.jpg"
-    },
-    {
-      "headline": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ে নির্যাতন–ধর্ষণের বিচার দাবিতে ছাত্রীদের বিক্ষোভ",
-      "url": "https://www.prothomalo.com/bangladesh/district/tv6l7eu3eh",
-      "published_at": "2026-03-01T12:41:46.580000+00:00",
-      "summary": "গত মঙ্গলবার বিশ্ববিদ্যালয়ের পাশে ইসলামনগর এলাকায় একটি ভাড়া বাসায় আটকে রেখে এক ছাত্রীকে শারীরিক নির্যাতন ও ধর্ষণ করা হয় বলে অভিযোগ।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/gb3hn3p1/JUDH1642.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/gb3hn3p1/JUDH1642.jpg?auto=format,compress"
     }
   ]
 }
