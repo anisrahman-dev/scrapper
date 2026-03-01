@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-01T19:47:41.580245+00:00",
+  "fetched_at": "2026-03-01T20:23:52.519717+00:00",
   "stories": [
+    {
+      "headline": "স্বস্তিতে বই কিনছেন পাঠক ",
+      "url": "https://www.prothomalo.com/bangladesh/tfbis59yzx",
+      "published_at": "2026-03-01T20:13:06.981000+00:00",
+      "summary": "বিভিন্ন স্টলের বিক্রেতারা জানালেন, আগের দিন শনিবারে লোকসমাগম বেশ ভালোই ছিল। ঐতিহ্যর ব্যবস্থাপক আমজাদ হোসেন বললেন, তাঁদের স্টলে অনেক নতুন বই এসেছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/wr7qp0ne/Untitled-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/wr7qp0ne/Untitled-1.jpg?auto=format,compress"
+    },
     {
       "headline": "ধাক্কা খেল দুবাইয়ের বিলাসী জীবন",
       "url": "https://www.prothomalo.com/world/p6u4bi9mtj",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/2x6lw341/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "ইরানের মানুষ কখনোই স্বকীয়তা বিসর্জন দেয়নি",
-      "url": "https://www.prothomalo.com/bangladesh/586uq4ypvi",
-      "published_at": "2026-03-01T15:57:10.727000+00:00",
-      "summary": "বর্তমানে যাঁরা কবি-সাহিত্যিক রয়েছেন, তাঁরা সবাই আধুনিক ঘরানার এবং ইউরোপের নামকরা বিশ্ববিদ্যালয় থেকে পড়াশোনা করা।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/3l91k5jy/Mumit-Al-Rashid.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/3l91k5jy/Mumit-Al-Rashid.png?auto=format,compress"
-    },
-    {
       "headline": "একনজরে আজকের বাংলাদেশ প্রতিদিন (২ মার্চ)",
       "url": "https://www.bd-pratidin.com/national/2026/03/02/1223099",
       "published_at": "2026-03-02T01:12:32+06:00",
@@ -392,6 +392,20 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772381480-e36ec0dfeeec84746d6d1586377245c3.PNG"
     },
     {
+      "headline": "জুলাই গণহত্যা ও গুমের বিচার পর্যবেক্ষণে এনসিপির ১৪ সদস্যের কমিটি গঠন",
+      "url": "https://www.ittefaq.com.bd/777324/%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%97%E0%A6%A3%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%93-%E0%A6%97%E0%A7%81%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A7%A7%E0%A7%AA",
+      "published_at": null,
+      "summary": "জুলাই গণহত্যা ও গুমের বিচার কার্যক্রম পর্যবেক্ষণে হাসনাত আবদুল্লাহকে প্রধান করে ১৪ সদস্যের একটি পর্যবেক্ষণ কমিটি গঠন করেছে জাতীয় নাগরিক পার্টি (এনসিপি)।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/cfafdaeef34cad301c88e928c2600de5-69a4922da5935.jpg"
+    },
+    {
+      "headline": "ঢাকা বিশ্ববিদ্যালয়ে খামেনির গায়েবানা জানাজা",
+      "url": "https://www.ittefaq.com.bd/777326/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%9C%E0%A6%BE",
+      "published_at": null,
+      "summary": "ইসরায়েলি হামলায় নিহত ইরানের সর্বোচ্চ নেতা আয়াতুল্লাহ আলি খামেনির গায়েবানা জানাজা ঢাকা বিশ্ববিদ্যালয়ে (ঢাবি) অনুষ্ঠিত হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/740078c7665fa7eb7ebaba2056dcd92f-69a4969e2371d.jpg"
+    },
+    {
       "headline": "আরও দুই শক্তিশালী বিস্ফোরণে কেঁপে উঠল তেহরান",
       "url": "https://www.ittefaq.com.bd/777325/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A6%B2-%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%A8",
       "published_at": null,
@@ -446,20 +460,6 @@
       "published_at": null,
       "summary": "যুক্তরাষ্ট্রের টেক্সাস অঙ্গরাজ্যের অস্টিন শহরে একটি পানশালায় বন্দুকধারীর গুলিতে অন্তত দু’জন নিহত এবং ১৪ জন আহত হয়েছেন।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/4f64db4b50d87c0f5df40ceee0f6bf05-69a46a0e31479.jpg"
-    },
-    {
-      "headline": "নির্বাচনে বিজয়ীদের হামলা-নির্যাতনের শিকার পরাজিতরা: গোলাম পরওয়ার",
-      "url": "https://www.ittefaq.com.bd/777316/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0",
-      "published_at": null,
-      "summary": "জাতীয় সংসদ নির্বাচনে যারা বিজয়ী হয়েছেন, তাদের অনেকেই দেশের বিভিন্ন স্থানে পরাজিতদের ওপর হামলে পড়েছেন বলে অভিযোগ করেছেন বাংলাদেশ জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার। বাংলাদেশ জামায়াতে ইসলামীর অনেক নেতা-কর্মীর ওপর আক্রমণ করা হচ্ছে, বাড়িঘরে আগুন দেওয়া হচ্ছে, নির্মমভাবে আঘাত করা হচ্ছে বলেও উল্লেখ করেন তিনি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/112b597a6ddc7a318709b42c5faaa759-69a46543b6858.jpg"
-    },
-    {
-      "headline": "পাবনায় হাসপাতালে যৌথ অভিযান, পাঁচ নারীসহ ৯ জনের কারাদণ্ড",
-      "url": "https://www.ittefaq.com.bd/777315/%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A7%AF-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "পাবনার ঈশ্বরদী উপজেলা স্বাস্থ্য কমপ্লেক্সে দালালমুক্ত সেবা নিশ্চিত করতে জেলা প্রশাসকের নির্দেশে ও জাতীয় নিরাপত্তা গোয়েন্দা সংস্থার তথ্যের ভিত্তিতে যৌথ অভিযান পরিচালিত হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/51183dd32c5d028f120e35939d4cc804-69a4627b7ee2d.jpg"
     },
     {
       "headline": "চুক্তির ফাঁদে বিদ্যুৎ খাত",
@@ -577,7 +577,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 02, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ইরানের রাজধানী তেহরানের গান্ধী হাসপাতালে বিমান হামলা চালিয়েছে যুক্তরাষ্ট্র ও ইসরাইল। ইরানি বার্তাসংস্থা ইসনা স্থানীয় সময় রোববার (১ মার্চ) এ ...",
+      "summary": "দখলদার ইসরাইলকে লক্ষ্য করে নতুন করে মিসাইল হামলা শুরু করেছে ইরান। গত এক ঘণ্টার মধ্যে অন্তত তিনবার মিসাইল ছুড়েছে দেশটি। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -586,6 +586,28 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ইরানের মানুষ কখনোই স্বকীয়তা বিসর্জন দেয়নি",
+      "url": "https://www.prothomalo.com/bangladesh/586uq4ypvi",
+      "published_at": "2026-03-01T15:57:10.727000+00:00",
+      "summary": "বর্তমানে যাঁরা কবি-সাহিত্যিক রয়েছেন, তাঁরা সবাই আধুনিক ঘরানার এবং ইউরোপের নামকরা বিশ্ববিদ্যালয় থেকে পড়াশোনা করা।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/3l91k5jy/Mumit-Al-Rashid.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/3l91k5jy/Mumit-Al-Rashid.png?auto=format,compress"
+    },
+    {
+      "headline": "নির্বাচনে বিজয়ীদের হামলা-নির্যাতনের শিকার পরাজিতরা: গোলাম পরওয়ার",
+      "url": "https://www.ittefaq.com.bd/777316/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%9F%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0",
+      "published_at": null,
+      "summary": "জাতীয় সংসদ নির্বাচনে যারা বিজয়ী হয়েছেন, তাদের অনেকেই দেশের বিভিন্ন স্থানে পরাজিতদের ওপর হামলে পড়েছেন বলে অভিযোগ করেছেন বাংলাদেশ জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার। বাংলাদেশ জামায়াতে ইসলামীর অনেক নেতা-কর্মীর ওপর আক্রমণ করা হচ্ছে, বাড়িঘরে আগুন দেওয়া হচ্ছে, নির্মমভাবে আঘাত করা হচ্ছে বলেও উল্লেখ করেন তিনি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/112b597a6ddc7a318709b42c5faaa759-69a46543b6858.jpg"
+    },
+    {
+      "headline": "পাবনায় হাসপাতালে যৌথ অভিযান, পাঁচ নারীসহ ৯ জনের কারাদণ্ড",
+      "url": "https://www.ittefaq.com.bd/777315/%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A7%AF-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "পাবনার ঈশ্বরদী উপজেলা স্বাস্থ্য কমপ্লেক্সে দালালমুক্ত সেবা নিশ্চিত করতে জেলা প্রশাসকের নির্দেশে ও জাতীয় নিরাপত্তা গোয়েন্দা সংস্থার তথ্যের ভিত্তিতে যৌথ অভিযান পরিচালিত হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/51183dd32c5d028f120e35939d4cc804-69a4627b7ee2d.jpg"
     },
     {
       "headline": "কিশোরগঞ্জে নরসুন্দা নদীর মাঝখানে সীমানাপ্রাচীর, বহুতল ভবন নির্মাণের উদ্যোগ",
@@ -1467,27 +1489,6 @@
       "published_at": "2026-03-01T19:02:35+06:00",
       "summary": "নারায়ণগঞ্জের কাঁচপুর দক্ষিণপাড়া এলাকায় একটি ডোবার পাশ থেকে অজ্ঞাত এক কঙ্কাল উদ্ধার করেছে পুলিশ। রবিবার (১ মার্চ) বিকেলে স্থানীয়রা কঙ্কালটি দেখতে পেয়ে পুলিশে খবর দিলে ঘটনাস্থলে গিয়ে পুলিশ তা উদ্ধার করে।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772370154-1ea229640989d7a8b3d82de7edb76faa.jpg"
-    },
-    {
-      "headline": "সংসদ সদস্যদের প্রতি রাষ্ট্রপতিকে অভিশংসনের আহ্বান আসিফ মাহমুদের",
-      "url": "https://www.ittefaq.com.bd/777296/%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%82%E0%A6%B8%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B9%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8",
-      "published_at": null,
-      "summary": "সংসদ সদস্যদের প্রতি রাষ্ট্রপতিকে অভিশংসনের আহ্বান জানিয়েছেন জাতীয় নাগরিক পার্টি (এনসিপি)–এর মুখপাত্র আসিফ মাহমুদ সজীব ভূঁইয়া। রোববার (১ মার্চ) রাজধানীর ফার্মগেটে কৃষিবিদ ইনস্টিটিউটে জাতীয় যুবশক্তির ইফতার মাহফিলে তিনি এ আহ্বান জানান।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/f95d7846e816563a6bf06d0f85facef7-69a44ef7c034a.jpg"
-    },
-    {
-      "headline": "আমিরাতে ইরানি হামলায় বাংলাদেশিসহ নিহত তিন",
-      "url": "https://www.ittefaq.com.bd/777295/%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%A4%E0%A6%BF%E0%A6%A8",
-      "published_at": null,
-      "summary": "সংযুক্ত আরব আমিরাতে ইরানের হামলায় এক বাংলাদেশি নাগরিক নিহত হয়েছেন। হামলায় আরও একজন পাকিস্তানি ও একজন নেপালি নাগরিক নিহত হয়েছেন। রোববার (১ মার্চ) আমিরাতের প্রতিরক্ষা মন্ত্রণালয়ের বরাতে বার্তা সংস্থা এএফপি এ তথ্য জানিয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/52ea9387426127902c00ca2e586dbb23-69a44ccb88227.jpg"
-    },
-    {
-      "headline": "কুমিল্লায় নিজ ঘরে মিললো মা-মেয়ের ঝুলন্ত মরদেহ",
-      "url": "https://www.ittefaq.com.bd/777294/%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A6%9C-%E0%A6%98%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A6%AE%E0%A6%BE-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%9D%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B9",
-      "published_at": null,
-      "summary": "কুমিল্লার চান্দিনায় একই ঘর থেকে মা মেয়ের ঝুলন্ত মরদেহ উদ্ধার করা হয়েছে। রোববার (১ মার্চ) বিকেলে চান্দিনা উপজেলার দোল্লাই নবাবপুর ইউনিয়নের সাঁকোচ গ্রামে ওই ঘটনা ঘটে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/01/df6f0450994681a9110cb4efbd153a08-69a44cc69295e.jpg"
     }
   ]
 }
