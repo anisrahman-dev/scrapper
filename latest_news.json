@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-01T22:22:31.415539+00:00",
+  "fetched_at": "2026-03-01T22:53:58.855474+00:00",
   "stories": [
+    {
+      "headline": "রমজানে কীভাবে নিজেকে সংযত রাখবেন",
+      "url": "https://www.prothomalo.com/religion/islam/0sm50bwa19",
+      "published_at": "2026-03-01T22:30:00+00:00",
+      "summary": "রোজাদার ব্যক্তির কাজ হলো, কেবল বড় গুনাহ নয়, নিজেকে সব ধরনের গুনাহ থেকে দূরে রাখবেন। তাহলে তিনি আল্লাহর রহমত, করুণা ও ক্ষমা লাভ করবেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-28/oulvgru2/3d-render-muslim-man-praying-namaz-islamic-prayer-green-background.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-28/oulvgru2/3d-render-muslim-man-praying-namaz-islamic-prayer-green-background.jpg?auto=format,compress"
+    },
     {
       "headline": "ইরানে যুদ্ধ চার সপ্তাহ স্থায়ী হতে পারে: ট্রাম্প",
       "url": "https://www.prothomalo.com/world/middle-east/iem2ufi93x",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/vjx32au3/Untitled-3.png?auto=format,compress"
     },
     {
-      "headline": "খামেনির মৃত্যুতে ৩৭ বছরের শাসনের অবসান",
-      "url": "https://www.prothomalo.com/video/international/nrwybsn6zv",
-      "published_at": "2026-03-01T16:13:45.470000+00:00",
-      "summary": "খামেনিকে হত্যার মধ্য দিয়ে সমাপ্ত হলো একটি অধ্যায়ের। ৮৬ বছর বয়সী ইরানের এই সর্বোচ্চ নেতা তিন দশকের বেশি সময় ধরে ইরানের ‘প্রতিরোধ নীতি’কে রাষ্ট্রদর্শনে পরিণত করেছিলেন।",
-      "image_s3_key": "prothomalo-bangla/2026-03-01/grnmivkq/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/grnmivkq/WEB.jpg?auto=format,compress"
-    },
-    {
       "headline": "একনজরে আজকের বাংলাদেশ প্রতিদিন (২ মার্চ)",
       "url": "https://www.bd-pratidin.com/national/2026/03/02/1223099",
       "published_at": "2026-03-02T01:12:32+06:00",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/01/og/1772381480-e36ec0dfeeec84746d6d1586377245c3.PNG"
     },
     {
+      "headline": "ইরানে অভিযান চার সপ্তাহ পর্যন্ত চলতে পারে: ট্রাম্প",
+      "url": "https://www.ittefaq.com.bd/777335/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%9A%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
+      "published_at": null,
+      "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন, ইরানের বিরুদ্ধে সামরিক অভিযান সফল করতে চার সপ্তাহ পর্যন্ত সময় লাগতে পারে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/90977de0f161bdc47d07c6763311c71d-69a4bec00c302.jpg"
+    },
+    {
       "headline": "খামেনি হত্যার পর মসজিদের উপরে ‘লাল পতাকা’ উত্তোলন করল ইরান, কী বার্তা দিচ্ছে?",
       "url": "https://www.ittefaq.com.bd/777333/%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B0%E0%A7%87-%E2%80%98%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%AA%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%BE%E2%80%99-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%A8",
       "published_at": null,
@@ -455,13 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/740078c7665fa7eb7ebaba2056dcd92f-69a4969e2371d.jpg"
     },
     {
-      "headline": "আরও দুই শক্তিশালী বিস্ফোরণে কেঁপে উঠল তেহরান",
-      "url": "https://www.ittefaq.com.bd/777325/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A6%B2-%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%A8",
-      "published_at": null,
-      "summary": "ইরানের রাজধানী তেহরানে আরও দুটি প্রবল বিস্ফোরণ ঘটেছে। এ তথ্য জানিয়েছেন বার্তা সংস্থা এএফপির দুজন সাংবাদিক। বিস্ফোরণের ধাক্কায় ওই দুই সাংবাদিকের আবাসিক ভবনের জানালা কেঁপে ওঠেছে, যারা একে অপরের থেকে কয়েক কিলোমিটার দূরে অবস্থান করছিলেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/45262856c1b2cca2d3d3aa49a53fbf60-69a49428f1c6e.jpg"
-    },
-    {
       "headline": "চুক্তির ফাঁদে বিদ্যুৎ খাত",
       "url": "https://dailynayadiganta.com/printed-edition/BBZpFb0bftwX/",
       "published_at": null,
@@ -481,6 +481,13 @@
       "published_at": null,
       "summary": "১৯৭১ আমাদের স্বাধীনতা দিয়েছে, ২০২৪ আমাদের বিবেক জাগিয়েছে ও ২০২৬ আমাদের বিনয় শিখিয়েছে। তাই এখন প্রয়োজন এক নতুন সামাজিক চুক্তি তৈরি করা, যেখানে ন্যায় হবে কেন্দ্রবিন্দু, ক্ষমতা হবে আমানত,গণতন্ত্র হবে সংস্কৃতি, ধর্ম হবে নৈতিক শক্তি-বিভাজনের অস্ত্র নয়; নাগরিক হবে সেখানে রাষ্ট্রের প্রকৃত মালিক। আমাদের বিবেচনায় রাখতে হবে : রাষ্ট্রের শক্তি অস্ত্রে নয়- বিচারে, রাজনীতির সাফল্য আসনের সংখ্যায়  নয়, আসে আস্থায় আর স্থায়ী বিজয় ভোটে নয়, তা আসে নৈতিকতায়। বাংলাদেশের সামনে দুটি পথ- ক্ষমতার সংক্ষিপ্ত পথ অথবা ন্যায়ের দীর্ঘ কিন্তু স্থায়ী পথ। ইতিহাস বারবার প্রমাণ করেছে- এ জাতি শেষ পর্যন্ত ন্যায়ের পথ বেছে নিয়েছে",
       "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "চাঁদপুর বারের নির্বাচন থেকে সরে দাঁড়াল জামায়াত সমর্থিত প্যানেল",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/mUD51hTfLjGg/",
+      "published_at": null,
+      "summary": "প্রধান নির্বাচন কমিশনার অ্যাডভোকেট জহির উদ্দিন বাবরের কাছে ১৫ সদস্যের পূর্ণাঙ্গ প্যানেলের প্রার্থীরা নিজ নিজ মনোনয়নপত্র প্রত্যাহার করেন।",
+      "image_url": "https://media.ndiganta.com/original_images/chandpur-lawyers.jpg"
     },
     {
       "headline": "সাদুল্লাপুরে শিক্ষার্থীকে পিটিয়ে হত্যার অভিযোগ",
@@ -525,13 +532,6 @@
       "image_url": "https://media.ndiganta.com/original_images/artho-1_GyPTd0y.jpg"
     },
     {
-      "headline": "মধ্যপ্রাচ্যে উত্তেজনায় অস্থির পুঁজিবাজার",
-      "url": "https://dailynayadiganta.com/printed-edition/NRQRspyRNX25/",
-      "published_at": null,
-      "summary": "মধ্যপ্রাচ্যে, বিশেষ করে ইরানে যুক্তরাষ্ট্র ও ইসরাইলি হামলার জেরে আবারো অস্থির হয়ে উঠেছে দেশের পুঁজিবাজার। শনিবার ভোরে শুরু হওয়া এ হামলা সারা দিনব্যাপী চলায় তা বৈশ্বিক অর্থনীতিতে ব্যাপক প্রভাব ফেলে। একইভাবে এর প্রভাব পড়ে দেশের শেয়ারবাজারেও। লেনদেনের পুরো সময়জুড়ে দেশের দুই পুঁজিবাজারই ছিল তীব্র বিক্রয়চাপে অস্থির।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
       "headline": "ফতুল্লা প্রেস ক্লাবের ইফতার মাহফিল অনুষ্ঠিত",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/Bxb16hzEgSrb/",
       "published_at": null,
@@ -546,17 +546,10 @@
       "image_url": "https://media.ndiganta.com/original_images/Sylhet_Salekh.jpg"
     },
     {
-      "headline": "সিলেটের জৈন্তাপুরে পাড় ধসে বালুচাপায় যুবকের মৃত্যু",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/bbXyXEs3yfqb/",
-      "published_at": null,
-      "summary": "সিলেটের জৈন্তাপুর উপজেলার রংপানি নদী থেকে অবৈধভাবে বালু উত্তোলনের সময় পাড় ধসে বালুচাপায় এক যুবকের মৃত্যু হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Sylhet_xAlN2hK.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - March 02, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "দখলদার ইসরাইলের দখলকৃত ফিলিস্তিনের জেরুজালেমে আঘাত হেনেছে ইরানের ব্যালিস্টিক মিসাইল। সংবাদমাধ্যম আলজাজিরা জানিয়েছে, ইরান নতুন করে যেসব মিসাইল ছুড়েছে সেগুলোর ...",
+      "summary": "বার্তা সংস্থা রয়টার্স জানিয়েছে, যুক্তরাষ্ট্র ও ইসরাইলের হামলায় ইরানের সর্বোচ্চ ধর্মীয় নেতা আয়াতুল্লাহ আলী খামেনি নিহত হয়েছেন এবং তার মরদেহ ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -565,6 +558,35 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "খামেনির মৃত্যুতে ৩৭ বছরের শাসনের অবসান",
+      "url": "https://www.prothomalo.com/video/international/nrwybsn6zv",
+      "published_at": "2026-03-01T16:13:45.470000+00:00",
+      "summary": "খামেনিকে হত্যার মধ্য দিয়ে সমাপ্ত হলো একটি অধ্যায়ের। ৮৬ বছর বয়সী ইরানের এই সর্বোচ্চ নেতা তিন দশকের বেশি সময় ধরে ইরানের ‘প্রতিরোধ নীতি’কে রাষ্ট্রদর্শনে পরিণত করেছিলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/grnmivkq/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/grnmivkq/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আরও দুই শক্তিশালী বিস্ফোরণে কেঁপে উঠল তেহরান",
+      "url": "https://www.ittefaq.com.bd/777325/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87-%E0%A6%89%E0%A6%A0%E0%A6%B2-%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "ইরানের রাজধানী তেহরানে আরও দুটি প্রবল বিস্ফোরণ ঘটেছে। এ তথ্য জানিয়েছেন বার্তা সংস্থা এএফপির দুজন সাংবাদিক। বিস্ফোরণের ধাক্কায় ওই দুই সাংবাদিকের আবাসিক ভবনের জানালা কেঁপে ওঠেছে, যারা একে অপরের থেকে কয়েক কিলোমিটার দূরে অবস্থান করছিলেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/02/45262856c1b2cca2d3d3aa49a53fbf60-69a49428f1c6e.jpg"
+    },
+    {
+      "headline": "মধ্যপ্রাচ্যে উত্তেজনায় অস্থির পুঁজিবাজার",
+      "url": "https://dailynayadiganta.com/printed-edition/NRQRspyRNX25/",
+      "published_at": null,
+      "summary": "মধ্যপ্রাচ্যে, বিশেষ করে ইরানে যুক্তরাষ্ট্র ও ইসরাইলি হামলার জেরে আবারো অস্থির হয়ে উঠেছে দেশের পুঁজিবাজার। শনিবার ভোরে শুরু হওয়া এ হামলা সারা দিনব্যাপী চলায় তা বৈশ্বিক অর্থনীতিতে ব্যাপক প্রভাব ফেলে। একইভাবে এর প্রভাব পড়ে দেশের শেয়ারবাজারেও। লেনদেনের পুরো সময়জুড়ে দেশের দুই পুঁজিবাজারই ছিল তীব্র বিক্রয়চাপে অস্থির।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "সিলেটের জৈন্তাপুরে পাড় ধসে বালুচাপায় যুবকের মৃত্যু",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/bbXyXEs3yfqb/",
+      "published_at": null,
+      "summary": "সিলেটের জৈন্তাপুর উপজেলার রংপানি নদী থেকে অবৈধভাবে বালু উত্তোলনের সময় পাড় ধসে বালুচাপায় এক যুবকের মৃত্যু হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Sylhet_xAlN2hK.jpg"
     },
     {
       "headline": "রুম থেকেই দেখা যাচ্ছিল পিরামিড",
@@ -1463,27 +1485,6 @@
       "published_at": null,
       "summary": "রোববার (১ মার্চ) জনতা ব্যাংকের বোর্ড রুমে অনুষ্ঠিত এ অনুষ্ঠানে উপস্থিত ছিলেন ব্যাংকের ম্যানেজিং ডিরেক্টর মো: মুজিবুর রহমান।",
       "image_url": "https://media.ndiganta.com/original_images/Aurora.jpg"
-    },
-    {
-      "headline": "জামায়াতের ইফতার মাহফিলে তারেক রহমান, রাজনৈতিক সংস্কৃতিতে ইতিবাচক ধারা শুরু",
-      "url": "https://dailynayadiganta.com/opinions/editorial/vx5gaxlSBUau/",
-      "published_at": null,
-      "summary": "বাংলাদেশে দীর্ঘ দিনের রাজনৈতিক অপসংসস্কৃতির পরিবর্তে সুস্থধারার  সুন্দর ও অনুকরণীয় রাজনৈতিক প্রতিযোগিতা শুরু হয়েছে। যার সর্বশেষ নজির জাতীয় সংসদের প্রধান বিরোধী দল বাংলাদেশ জামায়াতে ইসলামী আয়োজিত ইফতার মাহফিলে নবনির্বাচিত প্রধানমন্ত্রী ও বিএনপির চেয়ারম্যান তারেক রহমানের উপস্থিতি। চব্বিশের গণ-অভ্যুত্থানের পর রাজনীতিতে এমন সুন্দর দৃশ্যই দেখতে চেয়েছিল মানুষ। আমরা এমন রাজনীতির প্রশংসা করি।",
-      "image_url": "https://media.ndiganta.com/original_images/WhatsApp_Image_2025-10-21_at_5.15.02_PM_1.jpeg"
-    },
-    {
-      "headline": "টিকটকে প্রেম, ময়মনসিংহের তরুণীকে পাংশায় ডেকে সঙ্ঘবদ্ধ ধর্ষণ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/I3Jg4OHyfVfO/",
-      "published_at": null,
-      "summary": "পাংশা উপজেলার সরিষা ইউনিয়নের জয়নাল শেখের ছেলে সজলের (২৩) সাথে প্রায় সাত মাস আগে টিকটকের মাধ্যমে তার পরিচয় হয়। পরে তাদের মধ্যে প্রেমের সম্পর্ক গড়ে ওঠে।",
-      "image_url": "https://media.ndiganta.com/original_images/Rajbari-Rape-Case.jpg"
-    },
-    {
-      "headline": "ইরানের সর্বোচ্চ নেতা খামেনিকে হত্যা, বৈশ্বিক আস্থা আরো হারাবে যুক্তরাষ্ট্র",
-      "url": "https://dailynayadiganta.com/opinions/editorial/luS0RF40sceP/",
-      "published_at": null,
-      "summary": "যুক্তরাষ্ট্র ও ইসরাইল যৌথ হামলা চালিয়ে ইরানের সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনিকে হত্যা করেছে। বাসভবনে পরিবারের কয়েক সদস্যসহ তিনি নির্মমভাবে প্রাণ হারান। ভেনিজুয়েলার পর ইরান আক্রমণের মধ্যে দিয়ে ট্রাম্পের অধীনে শক্তি ও দম্ভ প্রকাশের নতুন এক আমেরিকাকে দেখা যাচ্ছে। যেখানে আন্তর্জাতিক আইন কানুন ও নিয়মের কোনো বালাই নেই। এক ব্যক্তির ইচ্ছা শেষ কথা। এ নীতি চলমান বিশ্বব্যবস্থা তছনছ করে দেবে। আমেরিকার সাথে বিরোধ-দ্বন্দ্বে থাকা দেশগুলোর শাসকরা তাদের স্বাধীনতা ও নিরাপত্তা নিয়ে নতুন করে ভাবতে বাধ্য হবেন। এতে করে সংশয় অবিশ্বাস বাড়বে বিশেষ করে আমেরিকার প্রতি আস্থা তলানিতে ঠেকবে।",
-      "image_url": "https://media.ndiganta.com/original_images/WhatsApp_Image_2025-10-21_at_5.15.02_PM_1.jpeg"
     }
   ]
 }
