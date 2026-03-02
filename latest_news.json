@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-02T22:58:49.671905+00:00",
+  "fetched_at": "2026-03-02T23:25:19.790398+00:00",
   "stories": [
+    {
+      "headline": "ইরানের বিরুদ্ধে যুদ্ধে জড়াবে না ন্যাটো: মার্ক রুত্তে",
+      "url": "https://www.prothomalo.com/world/middle-east/iem2ufi93x",
+      "published_at": "2026-03-02T23:17:48.716000+00:00",
+      "summary": "তবে এসব বিস্ফোরণের উৎস বা ক্ষয়ক্ষতির বিষয়ে এখন পর্যন্ত বিস্তারিত কিছু জানা যায়নি।",
+      "image_s3_key": "prothomalo-bangla/2026-01-27/f9r27gyo/mark-rutte.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/f9r27gyo/mark-rutte.avif?auto=format,compress"
+    },
     {
       "headline": "রমজানে নবীজি যেভাবে দান–সদকা করতেন",
       "url": "https://www.prothomalo.com/religion/islam/lnb1644v8u",
@@ -8,14 +16,6 @@
       "summary": "রমজানে দান-সদকা অন্যের রোজা, নামাজ ও জিকিরের সহায়ক হয়ে ওঠে; ফলে সাহায্যকারী ব্যক্তি পরোক্ষভাবে ঐ সব ইবাদতের অংশীদার হয়ে যায়।",
       "image_s3_key": "prothomalo-bangla/2026-03-02/91e5wyu4/arabian-man-with-kandora-pouring-tea.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-02/91e5wyu4/arabian-man-with-kandora-pouring-tea.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ইরানের বিরুদ্ধে যুদ্ধে জড়াবে না ন্যাটো: মার্ক রুত্তে",
-      "url": "https://www.prothomalo.com/world/middle-east/iem2ufi93x",
-      "published_at": "2026-03-02T22:07:27.355000+00:00",
-      "summary": "তবে এসব বিস্ফোরণের উৎস বা ক্ষয়ক্ষতির বিষয়ে এখন পর্যন্ত বিস্তারিত কিছু জানা যায়নি।",
-      "image_s3_key": "prothomalo-bangla/2026-01-27/f9r27gyo/mark-rutte.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-27/f9r27gyo/mark-rutte.avif?auto=format,compress"
     },
     {
       "headline": "৪১৮ বছর ধরে দাঁড়িয়ে আছে এক গম্বুজের লস্কর খানবাড়ি মসজিদ",
@@ -384,11 +384,32 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/02/og/1772460948-e99d4fea9c1e7b77626aa8afee9646f8.jpg"
     },
     {
+      "headline": "ইরান যুদ্ধ চার-পাঁচ সপ্তাহ ধরে চলতে পারে: ট্রাম্প",
+      "url": "https://www.ittefaq.com.bd/777531/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9-%E0%A6%A7%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
+      "published_at": null,
+      "summary": "ইরানের বিরুদ্ধে শুরু হওয়া সামরিক অভিযান চার থেকে পাঁচ সপ্তাহ পর্যন্ত স্থায়ী হতে পারে বলে ধারণা দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তবে প্রয়োজনে এই যুদ্ধ আরও দীর্ঘায়িত করার জন্য যুক্তরাষ্ট্র প্রস্তুত রয়েছে বলেও হুঁশিয়ারি দিয়েছেন তিনি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/46be65c6088d389b3f3b1b2424ddfb65-69a60809eadcf.jpg"
+    },
+    {
+      "headline": "জামায়াত আমিরের পররাষ্ট্রবিষয়ক উপদেষ্টা হলেন ব্যারিস্টার আরমান",
+      "url": "https://www.ittefaq.com.bd/777524/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%AF%E0%A6%BC%E0%A6%95-%E0%A6%89%E0%A6%AA%E0%A6%A6%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%A8",
+      "published_at": null,
+      "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমির ও জাতীয় সংসদের বিরোধীদলীয় নেতা ডা. শফিকুর রহমানের পররাষ্ট্রবিষয়ক উপদেষ্টা হিসেবে নিযুক্ত হয়েছেন ঢাকা-১৪ আসনের সংসদ সদস্য ব্যারিস্টার মীর আহমদ বিন কাসেম (আরমান)।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/418064704f1a14b7f7b3da760376ca02-69a5fb4523ef2.jpg"
+    },
+    {
+      "headline": "হামলার সঙ্গে সঙ্গেই পাল্টা জবাব দিলো ইরান, ইসরায়েলজুড়ে বাজছে সাইরেন",
+      "url": "https://www.ittefaq.com.bd/777534/%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%87-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A6%AC-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8B-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "তেহরানের গুরুত্বপূর্ণ স্থাপনায় ইসরায়েলি বিমান হামলার কয়েক সঙ্গে সঙ্গেই মধ্যেই বিশাল ক্ষেপণাস্ত্র বহর নিয়ে পাল্টা জবাব দিয়েছে ইরান।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/21f7032d5e6485a027dadfc396ac79c9-69a615cd07733.jpg"
+    },
+    {
       "headline": "আবারও তেহরানের বিভিন্ন গুরুত্বপূর্ণ স্থাপনায় ইসরায়েলি বিমান হামলা",
       "url": "https://www.ittefaq.com.bd/777533/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A7%9F",
       "published_at": null,
       "summary": "তেহরানের প্রাণকেন্দ্রে অবস্থিত ইরানের রাষ্ট্রীয় সম্প্রচারমাধ্যম ‘আইআরআইবি’-র সদর দপ্তর ও এভিন কারাগারসহ বেশ কিছু গুরুত্বপূর্ণ স্থাপনায় ভয়াবহ বিমান হামলা চালিয়েছে ইসরায়েলি বাহিনী।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/24ac4638ad4c5e5ab23dc21c20c238e9-69a6125658d05.jpg"
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/6a60f75f2232e0b08ca07f1f7c9d6761-69a61618c3770.jpg"
     },
     {
       "headline": "ডেপুটি স্পিকার পদে আলোচনায় জামায়াতের ৫ নেতা",
@@ -431,27 +452,6 @@
       "published_at": null,
       "summary": "লন্ডনে আগামী ১২ মার্চ অনুষ্ঠিত হতে যাওয়া ‘দ্য হান্ড্রেড’ ক্রিকেটের নিলামের চূড়ান্ত তালিকায় জায়গা করে নিয়েছেন বাংলাদেশের দুই ক্রিকেটার মোস্তাফিজুর রহমান ও রিশাদ হোসেন।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/cf49c4fcfb0bdb8f9c832ab16bcfc6dd-69a5fdc3c6780.jpg"
-    },
-    {
-      "headline": "ইরান কোনোভাবেই মাথা নত করবে না: প্রেসিডেন্ট পেজেশকিয়ান",
-      "url": "https://www.ittefaq.com.bd/777520/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A5%E0%A6%BE-%E0%A6%A8%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F",
-      "published_at": null,
-      "summary": "যুক্তরাষ্ট্র ও ইসরায়েলি বাহিনীর পক্ষ থেকে স্কুল ও হাসপাতালে হামলার তীব্র নিন্দা জানিয়েছেন ইরানের প্রেসিডেন্ট মাসুদ পেজেশকিয়ান। সোমবার (২ মার্চ) সামাজিক যোগাযোগমাধ্যমে দেওয়া এক পোস্টে তিনি এই হামলার কঠোর সমালোচনা করেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/a2a90981349b5b45fb44d99aeb38ad92-69a5e884976b4.jpg"
-    },
-    {
-      "headline": "বাংলাদেশি নিহতের ঘটনায় পররাষ্ট্রমন্ত্রীকে ফের ফোন বাহরাইনের পররাষ্ট্রমন্ত্রীর",
-      "url": "https://www.ittefaq.com.bd/777519/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%B0%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A7%8B%E0%A6%A8",
-      "published_at": null,
-      "summary": "ইরানে নিক্ষিপ্ত মিসাইলের ধ্বংসাবশেষের আঘাতে বাহরাইনে এক বাংলাদেশি নাগরিকের মৃত্যুর বিষয়টি আনুষ্ঠানিকভাবে নিশ্চিত করেছে সে দেশের সরকার। সোমবার (২ মার্চ) রাতে বাংলাদেশের পররাষ্ট্রমন্ত্রী ড. খলিলুর রহমানকে টেলিফোন করে এই তথ্য নিশ্চিত করেন বাহরাইনের পররাষ্ট্রমন্ত্রী ড. আব্দুললতিফ বিন রশিদ আল জায়ানি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/5e0de8d0f42b9ae6d172b4d909fd1514-69a5e5b286b5d.jpg"
-    },
-    {
-      "headline": "হরমুজ প্রণালীতে মার্কিন ট্যাংকারে হামলা চালালো ইরান",
-      "url": "https://www.ittefaq.com.bd/777518/%E0%A6%B9%E0%A6%B0%E0%A6%AE%E0%A7%81%E0%A6%9C-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%8B",
-      "published_at": null,
-      "summary": "বিশ্বের অন্যতম গুরুত্বপূর্ণ নৌপথ হরমুজ প্রণালীতে যুক্তরাষ্ট্র-সংশ্লিষ্ট একটি তেলবাহী ট্যাংকারে হামলা চালিয়েছে ইরানের ইসলামিক রেভল্যুশনারি গার্ড কর্পস (আইআরজিসি)। ইসরায়েল ও যুক্তরাষ্ট্রের যৌথ হামলার প্রতিশোধ হিসেবে চালানো পাল্টা অভিযানের অংশ হিসেবে এই হামলা করা হয়েছে বলে নিশ্চিত করেছে বাহিনীটি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/f21f04d109299412101719bec493c930-69a5e495df10c.jpg"
     },
     {
       "headline": "খামেনির বিদায় ও রক্তাক্ত মধ্যপ্রাচ্য",
@@ -550,6 +550,27 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ইরান কোনোভাবেই মাথা নত করবে না: প্রেসিডেন্ট পেজেশকিয়ান",
+      "url": "https://www.ittefaq.com.bd/777520/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A5%E0%A6%BE-%E0%A6%A8%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%A1%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F",
+      "published_at": null,
+      "summary": "যুক্তরাষ্ট্র ও ইসরায়েলি বাহিনীর পক্ষ থেকে স্কুল ও হাসপাতালে হামলার তীব্র নিন্দা জানিয়েছেন ইরানের প্রেসিডেন্ট মাসুদ পেজেশকিয়ান। সোমবার (২ মার্চ) সামাজিক যোগাযোগমাধ্যমে দেওয়া এক পোস্টে তিনি এই হামলার কঠোর সমালোচনা করেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/a2a90981349b5b45fb44d99aeb38ad92-69a5e884976b4.jpg"
+    },
+    {
+      "headline": "বাংলাদেশি নিহতের ঘটনায় পররাষ্ট্রমন্ত্রীকে ফের ফোন বাহরাইনের পররাষ্ট্রমন্ত্রীর",
+      "url": "https://www.ittefaq.com.bd/777519/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%B0%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A7%8B%E0%A6%A8",
+      "published_at": null,
+      "summary": "ইরানে নিক্ষিপ্ত মিসাইলের ধ্বংসাবশেষের আঘাতে বাহরাইনে এক বাংলাদেশি নাগরিকের মৃত্যুর বিষয়টি আনুষ্ঠানিকভাবে নিশ্চিত করেছে সে দেশের সরকার। সোমবার (২ মার্চ) রাতে বাংলাদেশের পররাষ্ট্রমন্ত্রী ড. খলিলুর রহমানকে টেলিফোন করে এই তথ্য নিশ্চিত করেন বাহরাইনের পররাষ্ট্রমন্ত্রী ড. আব্দুললতিফ বিন রশিদ আল জায়ানি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/5e0de8d0f42b9ae6d172b4d909fd1514-69a5e5b286b5d.jpg"
+    },
+    {
+      "headline": "হরমুজ প্রণালীতে মার্কিন ট্যাংকারে হামলা চালালো ইরান",
+      "url": "https://www.ittefaq.com.bd/777518/%E0%A6%B9%E0%A6%B0%E0%A6%AE%E0%A7%81%E0%A6%9C-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%8B",
+      "published_at": null,
+      "summary": "বিশ্বের অন্যতম গুরুত্বপূর্ণ নৌপথ হরমুজ প্রণালীতে যুক্তরাষ্ট্র-সংশ্লিষ্ট একটি তেলবাহী ট্যাংকারে হামলা চালিয়েছে ইরানের ইসলামিক রেভল্যুশনারি গার্ড কর্পস (আইআরজিসি)। ইসরায়েল ও যুক্তরাষ্ট্রের যৌথ হামলার প্রতিশোধ হিসেবে চালানো পাল্টা অভিযানের অংশ হিসেবে এই হামলা করা হয়েছে বলে নিশ্চিত করেছে বাহিনীটি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/03/f21f04d109299412101719bec493c930-69a5e495df10c.jpg"
     },
     {
       "headline": "সুযোগ পেয়েও ১৯৫০ বিশ্বকাপে যায়নি ৬টি দল, কী কারণে জানেন",
@@ -1466,27 +1487,6 @@
       "published_at": null,
       "summary": "‘দায়িত্ব গ্রহণের পরপরই কৃষিঋণ মওকুফসহ নানা সহায়তামূলক পদক্ষেপ নেয়া হয়েছে, যাতে কৃষকরা উৎপাদনে উৎসাহ পান। বাংলাদেশ কৃষিপ্রধান দেশ, কৃষিই দেশের অর্থনীতির মূল চালিকাশক্তি। সরকার চায় কৃষক টিকে থাকুক, উৎপাদন বাড়ুক, গ্রামীণ অর্থনীতি শক্তিশালী হোক।’",
       "image_url": "https://media.ndiganta.com/original_images/Gazipur-Water-Minister.jpg"
-    },
-    {
-      "headline": "মঙ্গলবার ঢাকায় আসছেন মার্কিন সহকারী পররাষ্ট্রমন্ত্রী পল কাপুর",
-      "url": "https://dailynayadiganta.com/bangladesh/national/iXemoDskzfvs/",
-      "published_at": null,
-      "summary": "‘সফরকালে সহকারী পররাষ্ট্রমন্ত্রী কাপুর নতুন সরকারের জ্যেষ্ঠ কর্মকর্তা এবং ব্যবসায়ী নেতাদের সাথে বৈঠক করবেন।’",
-      "image_url": "https://media.ndiganta.com/original_images/Pall.jpg"
-    },
-    {
-      "headline": "বাণিজ্যমন্ত্রীর সাথে ভারতীয় হাইকমিশনার প্রণয় ভার্মার বৈঠক",
-      "url": "https://dailynayadiganta.com/bangladesh/national/7kQkweFQDc8P/",
-      "published_at": null,
-      "summary": "‘হরমুজ প্রণালি বন্ধ হয়ে গেলে বিশ্ব বাণিজ্যে তার প্রভাব পড়বে, যা আমাদের ওপরও আসতে পারে। তবে আশার কথা হলো, দেশে বর্তমানে নিত্যপ্রয়োজনীয় পণ্যের পর্যাপ্ত মজুত ও জোগান রয়েছে।’",
-      "image_url": "https://media.ndiganta.com/original_images/BD-INDIA.jpg"
-    },
-    {
-      "headline": "হাবিপ্রবিতে জাতীয়তাবাদী কর্মকর্তা পরিষদের দোয়া ও ইফতার",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/Y4WVsLfUWfH2/",
-      "published_at": null,
-      "summary": "হাজী মোহাম্মদ দানেশ বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের (হাবিপ্রবি) জাতীয়তাবাদী কর্মকর্তা পরিষদের উদ্যোগে দোয়া ও ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/HDUST.jpg"
     }
   ]
 }
