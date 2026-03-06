@@ -1,7 +1,39 @@
 {
-  "fetched_at": "2026-03-06T18:05:08.341365+00:00",
+  "fetched_at": "2026-03-06T18:51:15.100621+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "কারওয়ান বাজারে ভাঙা কাচের আঘাতে এক কিশোরকে হত্যা",
+        "url": "https://www.prothomalo.com/bangladesh/crime/hulriokcm8",
+        "published_at": "2026-03-06T18:38:13.622000+00:00",
+        "summary": "নিহত ময়জুল কারওয়ান বাজারে থাকত এবং কাগজ কুড়িয়ে তা বিক্রি করে জীবিকা চালাত।",
+        "image_s3_key": "prothomalo-bangla/2021-05/54334723-6958-45af-9ebf-ef30f647dc91/kill.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-05/54334723-6958-45af-9ebf-ef30f647dc91/kill.png?auto=format,compress"
+      },
+      {
+        "headline": "দিনে দুই লিটার তেলে কি চলা যাবে, রাইড শেয়ারকারীরা দুশ্চিন্তায়",
+        "url": "https://www.prothomalo.com/bangladesh/ia12qhg8sh",
+        "published_at": "2026-03-06T18:19:34.889000+00:00",
+        "summary": "মধ্যপ্রাচ্যে যুদ্ধ দীর্ঘায়িত হলে বিশ্বব্যাপী জ্বালানি সরবরাহে বড় সংকট তৈরি হবে, যার ভুক্তভোগী হবে বাংলাদেশও। পাশাপাশি জ্বালানি তেল ও গ্যাসের দামও বাড়ছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/0glm3h1n/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/0glm3h1n/Capture.PNG?auto=format,compress"
+      },
+      {
+        "headline": "ইসরায়েল লক্ষ্য করে নতুন করে হামলা চালিয়েছে ইরান",
+        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+        "published_at": "2026-03-06T18:04:15.737000+00:00",
+        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
+      },
+      {
+        "headline": "মার্কিন স্থাপনায় হামলা চালাতে ইরানকে গোয়েন্দা তথ্য দিচ্ছে রাশিয়া",
+        "url": "https://www.prothomalo.com/world/middle-east/5usva9bqlr",
+        "published_at": "2026-03-06T17:57:50.997000+00:00",
+        "summary": "দ্রুত বিস্তার লাভ করা এই সংঘাতের সঙ্গে এখন যুক্তরাষ্ট্রের অন্যতম প্রধান পারমাণবিক শক্তিধর ও উন্নত গোয়েন্দা সক্ষমতাসম্পন্ন এক প্রতিদ্বন্দ্বী জড়িয়ে পড়ল।",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/j6q0utt4/Russia-Iran-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/j6q0utt4/Russia-Iran-1.jpg?auto=format,compress"
+      },
       {
         "headline": "‘জয় বাংলা’র পরিবর্তে ‘বাংলাদেশ জিন্দাবাদ’ হয়েছে, মানুষের ভাগ্যের পরিবর্তন হয়নি: নাহিদ",
         "url": "https://www.prothomalo.com/politics/7wl36oocnr",
@@ -9,14 +41,6 @@
         "summary": "দেশে ‘জয় বাংলা’র পরিবর্তে ‘জিন্দাবাদ’ হয়েছে, এক দলের জায়গায় আরেক দল বসেছে। কিন্তু মানুষের ভাগ্যের কোনো পরিবর্তন ঘটেনি বলে মন্তব্য করেছেন নাহিদ ইসলাম।",
         "image_s3_key": "prothomalo-bangla/2026-03-06/jxn4qmwd/Nahid-Islam.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/jxn4qmwd/Nahid-Islam.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "ইসরায়েল লক্ষ্য করে হামলা চালিয়েছে ইরান",
-        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-06T17:53:45.575000+00:00",
-        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
       },
       {
         "headline": "নেত্রকোনায় ৯ বছরের শিশুর ঝুলন্ত লাশ উদ্ধার, আটক ৬",
@@ -259,14 +283,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/vu97vjai/Epstein.jpg?auto=format,compress"
       },
       {
-        "headline": "যুদ্ধ বন্ধে বাংলাদেশের উদ্যোগ চায় গণসংহতি আন্দোলন",
-        "url": "https://www.prothomalo.com/politics/khwa0pc2p0",
-        "published_at": "2026-03-06T14:39:44.161000+00:00",
-        "summary": "আবুল হাসান রুবেল বলেন, ‘এই যুদ্ধের কারণে মধ্যপ্রাচ্য থেকে আমাদের যে জ্বালানি আসে, তার ওপর একটা বিরাট চাপ পড়বে। আমাদের দেশের কর্মসংস্থানের দিকে একটা বিরাট চাপ পড়বে।’",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/svtxo2yx/gonoshonghoti.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/svtxo2yx/gonoshonghoti.jpeg?auto=format,compress"
-      },
-      {
         "headline": "গাঁজা সেবন দেখে ফেলায় হত্যা করা হয় মাদ্রাসার ছাত্রকে",
         "url": "https://www.prothomalo.com/bangladesh/district/v4czyzb7vf",
         "published_at": "2026-03-06T14:38:56.208000+00:00",
@@ -299,20 +315,18 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/q58zcqln/avyyuktentaus176681127737966106222062322225567282858.jpg?auto=format,compress"
       },
       {
-        "headline": "চুক্তি নিয়ে অন্তর্বর্তী সরকার জামায়াতের সঙ্গে কোনো আলোচনা করেনি, দাবি শফিকুর রহমানের",
-        "url": "https://www.prothomalo.com/politics/8l3zqiy9jb",
-        "published_at": "2026-03-06T14:26:42.209000+00:00",
-        "summary": "জামায়াতের আমির ফেসবুকে লেখেন, ‘এ বিষয়ে আমাদের অবস্থান স্পষ্ট এবং এখানে কোনো ধরনের ধোঁয়াশা তৈরি করার সুযোগ নেই।’",
-        "image_s3_key": "prothomalo-bangla/2026-02-13/gcnr1bro/Untitled_3.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/gcnr1bro/Untitled_3.jpg?auto=format,compress"
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
       },
       {
-        "headline": "নির্ধারিত সময়ে বেতন–বোনাস পরিশোধসহ ৫ দাবি গার্মেন্ট শ্রমিক সংহতির",
-        "url": "https://www.prothomalo.com/bangladesh/district/gsc9kykp5l",
-        "published_at": "2026-03-06T14:15:53.718000+00:00",
-        "summary": "শুক্রবার সকালে সাভারের আশুলিয়ায় বাংলাদেশ গার্মেন্ট শ্রমিক সংহতির আয়োজনে আন্তর্জাতিক নারী দিবসকে সামনে রেখে সভা ও শোভাযাত্রার আয়োজন করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/8nz126zx/Ashulia.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/8nz126zx/Ashulia.jpg?auto=format,compress"
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
       },
       {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
@@ -371,18 +385,18 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
       },
       {
-        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
-        "published_at": "2026-03-06T19:25:29+06:00",
-        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+        "headline": "‘ব্লু স্প্যারো’ মিসাইল ছুড়ে হত্যা করা হয় খামেনিকে",
+        "url": "https://www.ittefaq.com.bd/778234/%E2%80%98%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A7%81-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A7%8B%E2%80%99-%E0%A6%AE%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%9B%E0%A7%81%E0%A7%9C%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A7%9F-%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%87",
+        "published_at": null,
+        "summary": "ইরানের সঙ্গে যুদ্ধ শুরুর দিনই দেশটির সর্বোচ্চ ধর্মীয় নেতা আয়াতুল্লাহ আলি খামেনিসহ শীর্ষ কয়েক ডজন নেতাকে হত্যা করা হয়—এমন দাবি করেছে একাধিক আন্তর্জাতিক সংবাদমাধ্যম। প্রতিবেদনে বলা হয়েছে, ইসরায়েল অত্যন্ত গোপন ও পরিকল্পিত এক অভিযানে এই হামলা চালায়।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/b103fd0d816b2b9ed0bf4471e7cb09e8-69ab19ccecebd.jpg"
       },
       {
-        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
-        "published_at": "2026-03-06T19:18:38+06:00",
-        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
+        "headline": "মার্কিন লক্ষ্যবস্তুতে হামলায় ইরানকে গোয়েন্দা তথ্য দিচ্ছে রাশিয়া: ওয়াশিংটন পোস্ট",
+        "url": "https://www.ittefaq.com.bd/778233/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF",
+        "published_at": null,
+        "summary": "মধ্যপ্রাচ্যে মার্কিন লক্ষ্যবস্তুতে হামলা চালাতে ইরানকে গোয়েন্দা তথ্য দিয়ে সহায়তা করছে রাশিয়া—এমন দাবি করেছে যুক্তরাষ্ট্রের প্রভাবশালী সংবাদমাধ্যম ওয়াশিংটন পোস্ট। সংশ্লিষ্ট তিনজন কর্মকর্তার বরাত দিয়ে প্রকাশিত এক প্রতিবেদনে এ তথ্য জানানো হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/ba00e0823dcb531fbcebb3fa75b4c9f0-69ab172e1ffd4.jpg"
       },
       {
         "headline": "মাহফুজ-তাজনুভার নেতৃত্বে নতুন রাজনৈতিক প্ল্যাটফর্ম ‘অলটারনেটিভস’-এর কমিটি ঘোষণা",
@@ -441,25 +455,39 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/29cd7e7582c8fd3fded9ac699e84e012-69aafa73ec2b1.jpg"
       },
       {
-        "headline": "নকল সামরিক লক্ষ্যবস্তু বানিয়ে ইসরায়েলকে বোকা বানাচ্ছে ইরান!",
-        "url": "https://www.ittefaq.com.bd/778223/%E0%A6%A8%E0%A6%95%E0%A6%B2-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%8B%E0%A6%95%E0%A6%BE",
-        "published_at": null,
-        "summary": "ইসরায়েলি বাহিনী কি সত্যিই ইরানি হেলিকপ্টার ধ্বংস করেছে, নাকি মাটিতে আঁকা একটি ছবির ওপর দামি ক্ষেপণাস্ত্র ছুড়েছে? ইসরায়েলি প্রতিরক্ষা বাহিনীর (আইডিএফ) এ–সংক্রান্ত একটি ভিডিও ঘিরে বিশ্বজুড়ে এমন বিতর্কের জন্ম দিয়েছে। সামাজিক যোগাযোগমাধ্যমে নেটিজেনদের বড় একটি অংশের দাবি, ইরানের পাতা এক সুনিপুণ ফাঁদে পা দিয়েছে ইসরায়েল।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/6d8bd4b30d0a1680b4b83cda54d49656-69aaf9dda3963.jpg"
-      },
-      {
-        "headline": "শিশুদের জন্য সোশ্যাল মিডিয়া বন্ধ করছে ইন্দোনেশিয়া",
-        "url": "https://www.ittefaq.com.bd/778222/%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A7%8B%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE",
-        "published_at": null,
-        "summary": "১৬ বছরের কম বয়সীদের জন্য সোশ্যাল মিডিয়া ব্যবহার নিষিদ্ধ করার সিদ্ধান্ত নিয়েছে ইন্দোনেশিয়া সরকার। শিশুদের অনলাইন আসক্তি, সাইবার বুলিং ও ক্ষতিকর কনটেন্ট থেকে সুরক্ষা দিতে উচ্চ ঝুঁকিপূর্ণ বিভিন্ন সোশ্যাল মিডিয়া প্ল্যাটফর্মে থাকা শিশুদের অ্যাকাউন্ট পর্যায়ক্রমে বন্ধ করা হবে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/33565e61cd9b34ea4738456c37bbc9fe-69aaf7cd86544.jpg"
-      },
-      {
         "headline": "ডেপুটি স্পিকার ঘিরে টানাপড়েনজুলাই সনদে অচলাবস্থা",
         "url": "https://dailynayadiganta.com/printed-edition/XSJ0S6OZc7gY/",
         "published_at": null,
         "summary": "জাতীয় সংসদের প্রথম অধিবেশন সামনে রেখে রাজনৈতিক অঙ্গনে নতুন করে উত্তাপ ছড়িয়েছে ডেপুটি স্পিকার পদকে ঘিরে। সরকারপক্ষের প্রস্তাব-প্রধান বিরোধী দলকে ডেপুটি স্পিকার পদ দেয়া হবে। তবে বিরোধী শিবির স্পষ্ট বার্তা দিয়েছে, গণভোটে অনুমোদিত ‘জুলাই জাতীয় সনদ’ পূর্ণাঙ্গভাবে বাস্তবায়নের সুস্পষ্ট রূপরেখা ছাড়া তারা আপাতত এই পদ গ্রহণ করবে না। ফলে স্পিকার-ডেপুটি স্পিকার নির্বাচনকে ঘিরে যে ঐকমত্যের বার্তা সরকার দিতে চেয়েছিল, তা এখন শর্তসাপেক্ষ রাজনৈতিক সমীকরণে আটকে যাচ্ছে। শুধু ডেপুটি স্পিকার নয়, জুলাই সনদের আইনি ভিত্তির বিষয়টি নিয়েই অচলাবস্থা তৈরি হয়েছে।",
         "image_url": "https://media.ndiganta.com/images/first-1_NC7bzAE.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "তেজগাঁওয়ে মাদক নিয়ে দ্বন্দ্ব, কাঁচের আঘাতে কিশোর খুন",
+        "url": "https://dailynayadiganta.com/bangladesh/crime/tmKFTk6DnBh1/",
+        "published_at": null,
+        "summary": "শুক্রবার (৬ মার্চ) রাত সাড়ে ৮টার দিকে এ ঘটনাটি ঘটে। পরে গুরুতর আহত অবস্থায় মইজুলকে ঢাকা মেডিক্যাল কলেজ হাসপাতালে নিয়ে আসা হলে রাত সাড়ে ১০টার দিকে কর্তব্যরত চিকিৎসক তাকে মৃত ঘোষণা করেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Dhaka_Medical_College_Hospital.jpg"
+      },
+      {
+        "headline": "নতুন আইফোন, আইপ্যাড এয়ার ও ম্যাকবুক আনল অ্যাপল",
+        "url": "https://dailynayadiganta.com/printed-edition/nLwMbBh8UVB1/",
+        "published_at": null,
+        "summary": "আইফোন ১৭ সিরিজের নতুন সংস্করণ ‘আইফোন ১৭-ই’ উন্মোচন করেছে অ্যাপল। একই সাথে এম-৪ চিপসহ হালনাগাদ আইপ্যাড এয়ারও ঘোষণা করেছে প্রতিষ্ঠানটি। আইফোন-১৭-ইর মূল্য নির্ধারণ করা হয়েছে ৫৯৯ মার্কিন ডলার। একই সিরিজের আইফোন-১৭-এর দাম শুরু ৭৯৯ ডলার থেকে। ফলে তুলনামূলক কম দামের এই সংস্করণ দিয়ে মিড রেঞ্জের বাজারে আরো প্রতিযোগিতামূলক অবস্থান নিতে চাইছে অ্যাপল। এ দামের পরিসরে মূল্যসংবেদনশীল বাজারগুলোতে স্যামসাং, গুগলসহ বিভিন্ন চীনা নির্মাতার স্মার্টফোনের সাথে সরাসরি প্রতিদ্বন্দ্বিতা করতে হবে প্রতিষ্ঠানটিকে।",
+        "image_url": "https://media.ndiganta.com/original_images/pro-1_iKd2zkv.jpg"
+      },
+      {
+        "headline": "সোনাতলায় বিএনপির  ইফতার ও দোয়া মাহফিল",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/z2JBMm4gUR2k/",
+        "published_at": null,
+        "summary": "বগুড়ার সোনাতলা উপজেলা ও পৌর বিএনপির অঙ্গসংগঠনের উদ্যোগে শুক্রবার উপজেলার পাইলট বালিকা বিদ্যালয় মাঠে ইফতার ও দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/BNP-Sona.jpg"
+      },
+      {
+        "headline": "সৌহার্দ্য ও সম্প্রীতির বন্ধনে ঢাকায় মিরসরাইয়ানদের ইফতার",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/IoyAhrkeHkMY/",
+        "published_at": null,
+        "summary": "শুক্রবার (৬ মার্চ) ‘শিকড়ের টানে, মিরসরাইয়ের মৈত্রী বন্ধনে’- এই প্রতিপাদ্যকে সামনে রেখে ঢাকার ধানমন্ডি এলাকার একটি রেস্তোরাঁয় আয়োজিত অনুষ্ঠানে ঢাকায় বসবাসরত মিরসরাই উপজেলার বিভিন্ন শ্রেণিপেশার মানুষ অংশ নেন। আর সবার অংশগ্রহণে অনুষ্ঠানস্থল মিরসরাইবাসীর মিলনমেলায় পরিণত হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/223.jpg"
       },
       {
         "headline": "বরগুনায় গৃহবধূকে লোহার রড দিয়ে পিটিয়ে হত্যার অভিযোগ",
@@ -497,13 +525,6 @@
         "image_url": "https://media.ndiganta.com/original_images/Fartilizwr.jpg"
       },
       {
-        "headline": "কবি, সাহিত্যিক, শিল্পী ও সাংবাদিকদের সম্মানে দেশীয় সাংস্কৃতিক সংসদের ইফতার মাহফিল",
-        "url": "https://dailynayadiganta.com/arts-literature/g3KSbXl9JbaD/",
-        "published_at": null,
-        "summary": "পবিত্র রমজান মাসের তাৎপর্যকে সামনে রেখে সাংস্কৃতিক অঙ্গনের বিশিষ্ট ব্যক্তিদের মধ্যে সৌহার্দ্য, পারস্পরিক সম্পর্ক ও মতবিনিময়ের সুযোগ সৃষ্টি করতেই এই ইফতার মাহফিলের আয়োজন করা হয়েছে। অনুষ্ঠানে দেশের বিভিন্ন অঙ্গনের কবি, সাহিত্যিক, শিল্পী, সাংবাদিক ও সংস্কৃতিকর্মীরা অংশ নেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Deshoj-6-3.jpg"
-      },
-      {
         "headline": "গণমাধ্যমকে শিল্প হিসেবে বাঁচাতে সাংবাদিকদের সম্মানজনক ওয়েজবোর্ড জরুরি : তথ্যমন্ত্রী",
         "url": "https://dailynayadiganta.com/bangladesh/national/YuFsU5khRr4L/",
         "published_at": null,
@@ -525,11 +546,77 @@
         "image_url": "https://media.ndiganta.com/original_images/Narsingdi-Rape-Accused.jpg"
       },
       {
-        "headline": "সৌহার্দ্য ও সম্প্রীতির বন্ধনে ঢাকায় মিরসরাইয়ানদের ইফতার",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/IoyAhrkeHkMY/",
+        "headline": "আজকের সর্বশেষ খবর - March 06, 2026",
+        "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "শুক্রবার (৬ মার্চ) ‘শিকড়ের টানে, মিরসরাইয়ের মৈত্রী বন্ধনে’- এই প্রতিপাদ্যকে সামনে রেখে ঢাকার ধানমন্ডি এলাকার একটি রেস্তোরাঁয় আয়োজিত অনুষ্ঠানে ঢাকায় বসবাসরত মিরসরাই উপজেলার বিভিন্ন শ্রেণিপেশার মানুষ অংশ নেন। আর সবার অংশগ্রহণে অনুষ্ঠানস্থল মিরসরাইবাসীর মিলনমেলায় পরিণত হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/223.jpg"
+        "summary": "সরকারি কর্মকর্তা-কর্মচারীদের স্বাস্থ্য সুরক্ষা নিশ্চিত করতে নবম জাতীয় বেতন কমিশনের সুপারিশ অনুযায়ী ‘স্বনির্ভর স্বাস্থ্য বীমা’ ...",
+        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+      },
+      {
+        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+        "published_at": null,
+        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "যুদ্ধ বন্ধে বাংলাদেশের উদ্যোগ চায় গণসংহতি আন্দোলন",
+        "url": "https://www.prothomalo.com/politics/khwa0pc2p0",
+        "published_at": "2026-03-06T14:39:44.161000+00:00",
+        "summary": "আবুল হাসান রুবেল বলেন, ‘এই যুদ্ধের কারণে মধ্যপ্রাচ্য থেকে আমাদের যে জ্বালানি আসে, তার ওপর একটা বিরাট চাপ পড়বে। আমাদের দেশের কর্মসংস্থানের দিকে একটা বিরাট চাপ পড়বে।’",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/svtxo2yx/gonoshonghoti.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/svtxo2yx/gonoshonghoti.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "চুক্তি নিয়ে অন্তর্বর্তী সরকার জামায়াতের সঙ্গে কোনো আলোচনা করেনি, দাবি শফিকুর রহমানের",
+        "url": "https://www.prothomalo.com/politics/8l3zqiy9jb",
+        "published_at": "2026-03-06T14:26:42.209000+00:00",
+        "summary": "জামায়াতের আমির ফেসবুকে লেখেন, ‘এ বিষয়ে আমাদের অবস্থান স্পষ্ট এবং এখানে কোনো ধরনের ধোঁয়াশা তৈরি করার সুযোগ নেই।’",
+        "image_s3_key": "prothomalo-bangla/2026-02-13/gcnr1bro/Untitled_3.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-13/gcnr1bro/Untitled_3.jpg?auto=format,compress"
+      },
+      {
+        "headline": "নির্ধারিত সময়ে বেতন–বোনাস পরিশোধসহ ৫ দাবি গার্মেন্ট শ্রমিক সংহতির",
+        "url": "https://www.prothomalo.com/bangladesh/district/gsc9kykp5l",
+        "published_at": "2026-03-06T14:15:53.718000+00:00",
+        "summary": "শুক্রবার সকালে সাভারের আশুলিয়ায় বাংলাদেশ গার্মেন্ট শ্রমিক সংহতির আয়োজনে আন্তর্জাতিক নারী দিবসকে সামনে রেখে সভা ও শোভাযাত্রার আয়োজন করা হয়।",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/8nz126zx/Ashulia.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/8nz126zx/Ashulia.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
+        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
+        "published_at": "2026-03-06T19:25:29+06:00",
+        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+      },
+      {
+        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
+        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
+        "published_at": "2026-03-06T19:18:38+06:00",
+        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
+      },
+      {
+        "headline": "নকল সামরিক লক্ষ্যবস্তু বানিয়ে ইসরায়েলকে বোকা বানাচ্ছে ইরান!",
+        "url": "https://www.ittefaq.com.bd/778223/%E0%A6%A8%E0%A6%95%E0%A6%B2-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%8B%E0%A6%95%E0%A6%BE",
+        "published_at": null,
+        "summary": "ইসরায়েলি বাহিনী কি সত্যিই ইরানি হেলিকপ্টার ধ্বংস করেছে, নাকি মাটিতে আঁকা একটি ছবির ওপর দামি ক্ষেপণাস্ত্র ছুড়েছে? ইসরায়েলি প্রতিরক্ষা বাহিনীর (আইডিএফ) এ–সংক্রান্ত একটি ভিডিও ঘিরে বিশ্বজুড়ে এমন বিতর্কের জন্ম দিয়েছে। সামাজিক যোগাযোগমাধ্যমে নেটিজেনদের বড় একটি অংশের দাবি, ইরানের পাতা এক সুনিপুণ ফাঁদে পা দিয়েছে ইসরায়েল।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/6d8bd4b30d0a1680b4b83cda54d49656-69aaf9dda3963.jpg"
+      },
+      {
+        "headline": "শিশুদের জন্য সোশ্যাল মিডিয়া বন্ধ করছে ইন্দোনেশিয়া",
+        "url": "https://www.ittefaq.com.bd/778222/%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A7%8B%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8B%E0%A6%A8%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE",
+        "published_at": null,
+        "summary": "১৬ বছরের কম বয়সীদের জন্য সোশ্যাল মিডিয়া ব্যবহার নিষিদ্ধ করার সিদ্ধান্ত নিয়েছে ইন্দোনেশিয়া সরকার। শিশুদের অনলাইন আসক্তি, সাইবার বুলিং ও ক্ষতিকর কনটেন্ট থেকে সুরক্ষা দিতে উচ্চ ঝুঁকিপূর্ণ বিভিন্ন সোশ্যাল মিডিয়া প্ল্যাটফর্মে থাকা শিশুদের অ্যাকাউন্ট পর্যায়ক্রমে বন্ধ করা হবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/33565e61cd9b34ea4738456c37bbc9fe-69aaf7cd86544.jpg"
+      },
+      {
+        "headline": "কবি, সাহিত্যিক, শিল্পী ও সাংবাদিকদের সম্মানে দেশীয় সাংস্কৃতিক সংসদের ইফতার মাহফিল",
+        "url": "https://dailynayadiganta.com/arts-literature/g3KSbXl9JbaD/",
+        "published_at": null,
+        "summary": "পবিত্র রমজান মাসের তাৎপর্যকে সামনে রেখে সাংস্কৃতিক অঙ্গনের বিশিষ্ট ব্যক্তিদের মধ্যে সৌহার্দ্য, পারস্পরিক সম্পর্ক ও মতবিনিময়ের সুযোগ সৃষ্টি করতেই এই ইফতার মাহফিলের আয়োজন করা হয়েছে। অনুষ্ঠানে দেশের বিভিন্ন অঙ্গনের কবি, সাহিত্যিক, শিল্পী, সাংবাদিক ও সংস্কৃতিকর্মীরা অংশ নেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Deshoj-6-3.jpg"
       },
       {
         "headline": "ঢাবি সাংবাদিক সমিতির ইফতারে এক ছাদের নিচে সব ছাত্রসংগঠন",
@@ -544,20 +631,6 @@
         "published_at": null,
         "summary": "পিরোজপুরের নাজিরপুর উপজেলা স্বাস্থ্য কমপ্লেক্সে ভর্তি রোগীদেরকে নিম্ন মানের খাবার সরবরাহ, মাছ-মাংস নির্ধারিত পরিমাণের অর্ধেকেরও কম দেয়া এবং রোগী ভর্তির সংখ্যা বেশি দেখিয়ে খাবারের টাকা আত্মসাতের অভিযোগ উঠেছে।",
         "image_url": "https://media.ndiganta.com/original_images/Nazirpur-Health-CoM.jpg"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর - March 06, 2026",
-        "url": "https://www.jugantor.com/latest",
-        "published_at": null,
-        "summary": "সরকারি কর্মকর্তা-কর্মচারীদের স্বাস্থ্য সুরক্ষা নিশ্চিত করতে নবম জাতীয় বেতন কমিশনের সুপারিশ অনুযায়ী ‘স্বনির্ভর স্বাস্থ্য বীমা’ ...",
-        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-      },
-      {
-        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-        "published_at": null,
-        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
       },
       {
         "headline": "মেহেরপুরে ছুটির দিনে ঈদের কেনাকাটার ধুম, দরজির দোকানে অর্ডার নেওয়া বন্ধ",
@@ -1416,79 +1489,25 @@
         "published_at": "2026-03-06T17:39:49+06:00",
         "summary": "মধ‍্যপ্রাচ‍্য চলমান যুদ্ধের কারণে বৈশ্বিকভাবে জ্বালানি তেলের সরবরাহ কমে গেছে। এতে দেশেও জ্বালানি তেলের সংকট তৈরির আশঙ্কা তৈরি হয়েছে। মানুষ আতঙ্কিত হয়ে ফিলিং স্টেশনে ভিড় করছে এবং প্রয়োজনের চেয়ে বেশি তেল কিনছেন। এজন্য ফিলিং স্টেশন থেকে তেল সরবরাহের সীমা বেঁধে দিয়েছে বাংলাদেশ পেট্রোলিয়াম করপোরেশন (বিপিসি)।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772797188-5872c90063d45931424f88c2651ef574.jpg"
-      },
-      {
-        "headline": "বাংলাদেশ সফরে পুলিশ কর্মকর্তাকে টিম ম্যানেজার করলো পাকিস্তান",
-        "url": "https://www.ittefaq.com.bd/778195/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%9F%E0%A6%BF%E0%A6%AE-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%8B",
-        "published_at": null,
-        "summary": "টি-টোয়েন্টি বিশ্বকাপ ব্যর্থতার পর টিম ম্যানেজমেন্টে পরিবর্তন অব্যাহত রেখেছে পাকিস্তান ক্রিকেট বোর্ড (পিসিবি)। বাংলাদেশের বিপক্ষে তিন ম্যাচের অ্যাওয়ে ওয়ানডে সিরিজে ক্রিকেট টিমের ম্যানেজারকে সরিয়ে দেওয়া হয়েছে। নাভিদ আকরাম চিমাকে অপসারণ করেছে পিসিবি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/4c245ff2ef374f5318da9590358ab8b7-69aad1cbce1e6.jpg"
-      },
-      {
-        "headline": "কলেজছাত্রীর পথ রোধ করে ছিনতাইয়ের চেষ্টা, সিসিটিভি ফুটেজ ভাইরাল",
-        "url": "https://www.ittefaq.com.bd/778194/%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AA%E0%A6%A5-%E0%A6%B0%E0%A7%8B%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF",
-        "published_at": null,
-        "summary": "সিলেট নগরীর হাউজিং এস্টেট এলাকায় প্রকাশ্যে সিএনজিচালিত অটোরিকশা থামিয়ে টাকা ছিনতাইয়ের ঘটনার রেশ না কাটতেই এবার সাগরদিঘির পাড় এলাকায় প্রায় একই কায়দায় এক কলেজছাত্রীর সঙ্গে ছিনতাইয়ের ঘটনা ঘটেছে। ছিনতাইয়ের ঘটনার একটি ভিডিও সামাজিক যোগাযোগমাধ্যম ফেসবুকে ছড়িয়ে পড়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/a88a3954e9328d29b0e0b4b29fec588f-69aad0dbe9b91.jpg"
-      },
-      {
-        "headline": "জাতিসংঘের ৮১তম অধিবেশনে বাংলাদেশের প্রার্থীর পক্ষে সমর্থন আহ্বান",
-        "url": "https://www.ittefaq.com.bd/778193/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A7%AE%E0%A7%A7%E0%A6%A4%E0%A6%AE-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87",
-        "published_at": null,
-        "summary": "জাতিসংঘ সাধারণ পরিষদের ৮১তম অধিবেশনের সভাপতি পদে বাংলাদেশের প্রার্থী পররাষ্ট্রমন্ত্রী ড. খলিলুর রহমানকে সমর্থন দেওয়ার জন্য ঢাকায় নিযুক্ত কূটনীতিকদের প্রতি আহ্বান জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/8772592508db0747dc09da7a202fe567-69aad0a3c9e31.jpg"
-      },
-      {
-        "headline": "৪ হাজারের বেশি শিক্ষার্থীকে ইফতার করালো যবিপ্রবি প্রশাসন",
-        "url": "https://dailynayadiganta.com/bangladesh/education-campus/emXQYCYc8DrN/",
-        "published_at": null,
-        "summary": "‘আমরা সর্বাধিক শিক্ষার্থীর অংশগ্রহণ নিশ্চিত করার চেষ্টা করেছি। সবার সহযোগিতায় এতো বড় আয়োজন সফলভাবে সম্পন্ন করা সম্ভব হয়েছে। এজন্য সংশ্লিষ্ট সকলকে ধন্যবাদ জানাই।’",
-        "image_url": "https://media.ndiganta.com/original_images/Jesshore-University-Iftar.jpg"
-      },
-      {
-        "headline": "৪ শতাধিক শিক্ষার্থী নিয়ে বাকৃবি ভেটেরিনারি শিক্ষার্থীদের ইফতার",
-        "url": "https://dailynayadiganta.com/bangladesh/education-campus/M8Spxw99fXmf/",
-        "published_at": null,
-        "summary": "শিক্ষার্থীদের মধ্যে সৌহার্দ্য, সম্প্রীতি ও ভ্রাতৃত্ববোধ জোরদার করার লক্ষে বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ের (বাকৃবি) ভেটেরিনারি শিক্ষার্থীদের ইফতার ও দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/BAU_5T2ASqA.jpg"
-      },
-      {
-        "headline": "রাজশাহী অঞ্চলের ফিলিং স্টেশনগুলোতে জ্বালানি তেলের সঙ্কট",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/jZO1anhRrC8u/",
-        "published_at": null,
-        "summary": "‘মধ্যপ্রাচ্যে শুরু হওয়া যুদ্ধ পরিস্থিতির প্রভাবে সরবরাহে সমস্যা দেখা দিয়েছে। গত তিন দিন ধরে রাজশাহীর ফিলিং স্টেশনগুলো চাহিদা অনুযায়ী তেল পাচ্ছে না। ফলে পাম্পগুলো চাহিদামতো তেল বিক্রি করতে পারছে না।’",
-        "image_url": "https://media.ndiganta.com/original_images/Rajshahi-Map.jpg"
-      },
-      {
-        "headline": "আরপিজিসিএলের সেমিনারে মুখ্য প্রবন্ধ উপস্থাপন নোবিপ্রবি ভিসির",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/BxNsxqxw0k8E/",
-        "published_at": null,
-        "summary": "শুক্রবার (৬ মার্চ) বিকেলে বিশ্ববিদ্যালয়ের এক সংবাদ বিজ্ঞপ্তিতে বৃহস্পতিবার আরপিজিসিএলের ঢাকাস্থ প্রধান কার্যালয়ে সেমিনারের বিষয়ে জানানো হয়।",
-        "image_url": "https://media.ndiganta.com/original_images/Noakhali-Univ.jpg"
-      },
-      {
-        "headline": "রেকর্ড বই ওলট-পালট করে দিলো ভারত-ইংল্যান্ড সেমিফাইনাল",
-        "url": "https://dailynayadiganta.com/sports/cricket/bsaDB4xxU5A7/",
-        "published_at": null,
-        "summary": "এই ম্যাচে ছক্কা হয়েছে মোট ৩৪টি। ভারত ১৯টি ও ইংল্যান্ড ১৫টি ছক্কা মারে। টি-টোয়েন্টি বিশ্বকাপে এক ম্যাচে সবচেয়ে বেশি ছক্কার রেকর্ডের জন্ম দেয়। চলতি আসরে এর আগে বিশ্বকাপে ৩১ ছক্কায় রেকর্ড গড়েছিল ওয়েস্ট ইন্ডিজ-জিম্বাবুয়ে ম্যাচ।",
-        "image_url": "https://media.ndiganta.com/original_images/India-England_7SX23vg.jpg"
-      },
-      {
-        "headline": "কিছু দেশ মধ্যস্থতার উদ্যোগ শুরু করেছে : ইরানের প্রেসিডেন্ট",
-        "url": "https://dailynayadiganta.com/international/asia/middle-east/nS0rvq7xwDco/",
-        "published_at": null,
-        "summary": "‘মধ্যস্থতা তাদের উদ্দেশে হওয়া উচিত, যারা ইরানি জনগণকে অবমূল্যায়ন করেছে এবং এই সংঘাতকে উসকে দিয়েছে।’",
-        "image_url": "https://media.ndiganta.com/original_images/Iran-president_PN9BZL0.jpg"
-      },
-      {
-        "headline": "মধ্যপ্রাচ্যের যুদ্ধের প্রভাব : চুয়াডাঙ্গায় পাম্পে ভিড়, তেল বিক্রি সীমিত",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/0Ifxdr8EfEeE/",
-        "published_at": null,
-        "summary": "‘দেশে জ্বালানি তেলের পর্যাপ্ত মজুত রয়েছে এবং সরবরাহ স্বাভাবিক আছে। গুজব বা আতঙ্কে অপ্রয়োজনীয়ভাবে তেল কেনা বা মজুত করার কোনো দরকার নেই।’",
-        "image_url": "https://media.ndiganta.com/original_images/Chuadanga-Oil.jpg"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "কারওয়ান বাজারে ভাঙা কাচের আঘাতে এক কিশোরকে হত্যা",
+        "url": "https://www.prothomalo.com/bangladesh/crime/hulriokcm8",
+        "published_at": "2026-03-06T18:38:13.622000+00:00",
+        "summary": "নিহত ময়জুল কারওয়ান বাজারে থাকত এবং কাগজ কুড়িয়ে তা বিক্রি করে জীবিকা চালাত।",
+        "image_s3_key": "prothomalo-bangla/2021-05/54334723-6958-45af-9ebf-ef30f647dc91/kill.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-05/54334723-6958-45af-9ebf-ef30f647dc91/kill.png?auto=format,compress"
+      },
+      {
+        "headline": "দিনে দুই লিটার তেলে কি চলা যাবে, রাইড শেয়ারকারীরা দুশ্চিন্তায়",
+        "url": "https://www.prothomalo.com/bangladesh/ia12qhg8sh",
+        "published_at": "2026-03-06T18:19:34.889000+00:00",
+        "summary": "মধ্যপ্রাচ্যে যুদ্ধ দীর্ঘায়িত হলে বিশ্বব্যাপী জ্বালানি সরবরাহে বড় সংকট তৈরি হবে, যার ভুক্তভোগী হবে বাংলাদেশও। পাশাপাশি জ্বালানি তেল ও গ্যাসের দামও বাড়ছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/0glm3h1n/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/0glm3h1n/Capture.PNG?auto=format,compress"
+      },
       {
         "headline": "নেত্রকোনায় ৯ বছরের শিশুর ঝুলন্ত লাশ উদ্ধার, আটক ৬",
         "url": "https://www.prothomalo.com/bangladesh/district/u3fx87zdsi",
@@ -1794,20 +1813,18 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-12/hejp5ud1/road_accident_02.png?auto=format,compress"
       },
       {
-        "headline": "গাজীপুরে সুজন সহসভাপতি কামরুজ্জামান হত্যার বিচারের দাবি",
-        "url": "https://www.prothomalo.com/bangladesh/district/ellyxztgou",
-        "published_at": "2026-03-06T09:51:22.865000+00:00",
-        "summary": "নিহত কামরুজ্জামান মোল্লা নগরের ৫০ নম্বর ওয়ার্ডের বাসিন্দা ছিলেন। তিনি সুজনের জেলা শাখার সহসভাপতির দায়িত্ব পালন করছিলেন। তাঁর ঠিকাদারি ব্যবসাও ছিল।",
-        "image_s3_key": "prothomalo-bangla/2026-02-20/8w9iud7d/3.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/8w9iud7d/3.avif?auto=format,compress"
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
       },
       {
-        "headline": "মোটরসাইকেল আরোহীর অচেতন দেহ পড়ে ছিল উড়ালসড়কে, হাসপাতালে মৃত ঘোষণা",
-        "url": "https://www.prothomalo.com/bangladesh/district/8bl9gluni9",
-        "published_at": "2026-03-06T09:51:08.107000+00:00",
-        "summary": "চট্টগ্রাম নগরের মুরাদপুর উড়ালসড়ক থেকে অচেতন অবস্থায় উদ্ধারের পর মোহাম্মদ ফরিদ নামের এক মোটরসাইকেল আরোহীর মৃত্যু হয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/vkeol7zj/Capture.PNG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/vkeol7zj/Capture.PNG?auto=format,compress"
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
       },
       {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
@@ -1864,20 +1881,6 @@
         "published_at": "2026-03-06T19:39:57+06:00",
         "summary": "ছাত্রলীগও যে সাহস করেনি তা প্রকাশ্যে শিবির করেছে বলে মন্তব্য করেছেন বাংলাদেশ জাতীয়তাবাদী ছাত্রদলের সভাপতি রাকিবুল ইসলাম রাকিব। তিনি বলেন, সাংবাদিকদের ওপর হামলার যে সাহস কেউ করেনি সেটা তারা করে দেখিয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
-      },
-      {
-        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
-        "published_at": "2026-03-06T19:25:29+06:00",
-        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
-      },
-      {
-        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
-        "published_at": "2026-03-06T19:18:38+06:00",
-        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "ঈদযাত্রায় বাড়তি ভাড়া নয়, নিরাপদ নৌপথে জোর দিচ্ছে সরকার: নৌ-সেতু প্রতিমন্ত্রী",
@@ -2228,6 +2231,36 @@
         "published_at": "1772806658",
         "summary": "মাদারীপুর-২ আসনের সংসদ সদস্য জাহান্দার আলী মিয়া বলেন, মাদারীপুর ও রাজৈর এলাকায় কিশোর গ্যাং, মাদক, চাঁদাবাজ ও ভূমিদস্যুদের কোনো স্থান হবে না। এসব অপশক্তিকে সম্মিলিতভাবে প্রতিহত করা হবে এবং তাদের বিরুদ্ধে কঠোর আইনগত ব্যবস্থা গ্রহণ করা হবে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-45-20260306141738.jpg"
+      },
+      {
+        "headline": "গাজীপুরে সুজন সহসভাপতি কামরুজ্জামান হত্যার বিচারের দাবি",
+        "url": "https://www.prothomalo.com/bangladesh/district/ellyxztgou",
+        "published_at": "2026-03-06T09:51:22.865000+00:00",
+        "summary": "নিহত কামরুজ্জামান মোল্লা নগরের ৫০ নম্বর ওয়ার্ডের বাসিন্দা ছিলেন। তিনি সুজনের জেলা শাখার সহসভাপতির দায়িত্ব পালন করছিলেন। তাঁর ঠিকাদারি ব্যবসাও ছিল।",
+        "image_s3_key": "prothomalo-bangla/2026-02-20/8w9iud7d/3.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/8w9iud7d/3.avif?auto=format,compress"
+      },
+      {
+        "headline": "মোটরসাইকেল আরোহীর অচেতন দেহ পড়ে ছিল উড়ালসড়কে, হাসপাতালে মৃত ঘোষণা",
+        "url": "https://www.prothomalo.com/bangladesh/district/8bl9gluni9",
+        "published_at": "2026-03-06T09:51:08.107000+00:00",
+        "summary": "চট্টগ্রাম নগরের মুরাদপুর উড়ালসড়ক থেকে অচেতন অবস্থায় উদ্ধারের পর মোহাম্মদ ফরিদ নামের এক মোটরসাইকেল আরোহীর মৃত্যু হয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/vkeol7zj/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/vkeol7zj/Capture.PNG?auto=format,compress"
+      },
+      {
+        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
+        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
+        "published_at": "2026-03-06T19:25:29+06:00",
+        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+      },
+      {
+        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
+        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
+        "published_at": "2026-03-06T19:18:38+06:00",
+        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "চাঁদা না পেয়ে সড়কের কাজ বন্ধের অভিযোগ ছাত্রদলের তিন নেতার বিরুদ্ধে",
@@ -2935,41 +2968,23 @@
         "summary": "আদালত-সংশ্লিষ্ট সূত্রে জানা গেছে, আজ আসামিরা আইনজীবীর মাধ্যমে আদালতে আত্মসমর্পণ করে জামিন আবেদন করেন। শুনানি শেষে আদালত প্রত্যেকের এক হাজার টাকা মুচলেকায় জামিন মঞ্জুর করেন।",
         "image_s3_key": "prothomalo-bangla/2026-02-23/xr8c6tut/1.avif",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-23/xr8c6tut/1.avif?auto=format,compress"
-      },
-      {
-        "headline": "সাবেক স্বরাষ্ট্রমন্ত্রী আসাদুজ্জামান খানের স্ত্রীর ২০ লাখ টাকার সঞ্চয়পত্র অবরুদ্ধের আদেশ",
-        "url": "https://www.prothomalo.com/bangladesh/8ptu3q2vhs",
-        "published_at": "2026-03-05T19:23:27.427000+00:00",
-        "summary": "দুদকের আবেদনে বলা হয়, আসাদুজ্জামান খান সাবেক স্বরাষ্ট্রমন্ত্রী হিসেবে সরকারের গুরুত্বপূর্ণ পদে থেকে ক্ষমতার অপব্যবহারের মাধ্যমে তাঁর স্ত্রীর অপরাধে সহায়তা করেছেন।",
-        "image_s3_key": "prothomalo-bangla/2020-09/37a8da53-d280-4462-94c4-e3626386b4e1/court_01.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-09/37a8da53-d280-4462-94c4-e3626386b4e1/court_01.png?auto=format,compress"
-      },
-      {
-        "headline": "চাঁদাবাজির মামলায় গ্রেপ্তার সেই রিয়াদ এবার হত্যাচেষ্টা মামলায় ২ দিনের রিমান্ডে",
-        "url": "https://www.prothomalo.com/bangladesh/st3fqwbuhc",
-        "published_at": "2026-03-05T18:58:26.583000+00:00",
-        "summary": "মামলার এজাহার সূত্রে জানা গেছে, ভুক্তভোগী নির্জন সরদারের সঙ্গে আসামি রাজ্জাক ও তাঁর বন্ধুদের আগে থেকেই বিরোধ ছিল।",
-        "image_s3_key": "prothomalo-bangla/2026-03-05/uv6wmt5g/chadabaj.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/uv6wmt5g/chadabaj.jpg?auto=format,compress"
-      },
-      {
-        "headline": "মানবাধিকার-সংশ্লিষ্ট অধ্যাদেশের ক্ষমতা অক্ষুণ্ণ রেখে আইনে রূপান্তরের আহ্বান",
-        "url": "https://www.prothomalo.com/bangladesh/lzf10yheit",
-        "published_at": "2026-03-05T18:49:22.051000+00:00",
-        "summary": "সভায় বলা হয়, পূর্ববর্তী সময়ে আইনি কাঠামোর সীমাবদ্ধতা ও কার্যকর ক্ষমতার ঘাটতির কারণে কমিশন অনেক ক্ষেত্রে ভুক্তভোগীদের সুরক্ষা ও প্রতিকার প্রদানে প্রত্যাশিত ভূমিকা রাখতে পারেনি।",
-        "image_s3_key": "prothomalo-bangla/2026-03-05/0k0oc5vn/human-rights-commision.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/0k0oc5vn/human-rights-commision.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "সহিংসতার এক মামলায় বদিকে হাইকোর্টের দেওয়া জামিন স্থগিত",
-        "url": "https://www.prothomalo.com/bangladesh/wong39ozm2",
-        "published_at": "2026-03-05T18:17:10.231000+00:00",
-        "summary": "বৈষম্যবিরোধী আন্দোলনের সময় ২০২৪ সালের ৪ আগস্ট বগুড়ায় সহিংসতার ঘটনায় বদিসহ অন্যদের বিরুদ্ধে ওই মামলা করা হয়। মামলায় তাঁকে অর্থের জোগানদাতা হিসেবে উল্লেখ করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2024-10-28/wylc0ycb/image-৩.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-28/wylc0ycb/image-৩.png?auto=format,compress"
       }
     ],
     "politics": [
+      {
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
+      },
+      {
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
+      },
       {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
         "url": "https://www.bd-pratidin.com/country/2026/03/06/1224925",
@@ -3025,20 +3040,6 @@
         "published_at": "2026-03-06T19:39:57+06:00",
         "summary": "ছাত্রলীগও যে সাহস করেনি তা প্রকাশ্যে শিবির করেছে বলে মন্তব্য করেছেন বাংলাদেশ জাতীয়তাবাদী ছাত্রদলের সভাপতি রাকিবুল ইসলাম রাকিব। তিনি বলেন, সাংবাদিকদের ওপর হামলার যে সাহস কেউ করেনি সেটা তারা করে দেখিয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
-      },
-      {
-        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
-        "published_at": "2026-03-06T19:25:29+06:00",
-        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
-      },
-      {
-        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
-        "published_at": "2026-03-06T19:18:38+06:00",
-        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "মাহফুজ-তাজনুভার নেতৃত্বে নতুন রাজনৈতিক প্ল্যাটফর্ম ‘অলটারনেটিভস’-এর কমিটি ঘোষণা",
@@ -3200,6 +3201,20 @@
         "published_at": null,
         "summary": "বাংলাদেশ ইসলামী ছাত্রশিবিরের উদ্যোগে বিভিন্ন রাজনৈতিক, সামাজিক ও সাংস্কৃতিক অঙ্গনের বিশিষ্ট ব্যক্তিদের সম্মানে ইফতার মাহফিল অনুষ্ঠিত হয়েছে। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
+        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
+        "published_at": "2026-03-06T19:25:29+06:00",
+        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+      },
+      {
+        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
+        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
+        "published_at": "2026-03-06T19:18:38+06:00",
+        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "মির্জা আব্বাসকে নিয়ে ভিডিওতে আপত্তিকর মন্তব্য, হাসনাতের দুঃখপ্রকাশ",
@@ -4355,30 +4370,24 @@
         "published_at": "2026-03-04T18:47:02+06:00",
         "summary": "ইরান যুদ্ধের প্রভাবে চট্টগ্রাম ও মধ্যপ্রাচ্যের বিভিন্ন গন্তব্যের মধ্যকার ৪৬টি ফ্লাইট বাতিল হওয়ার তথ্য দিয়েছে শাহ আমানত আন্তর্জাতিক বিমান বন্দর কর্তৃপক্ষ।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772628421-b21de6020356c1d57113292594db7fb4.jpg"
-      },
-      {
-        "headline": "চিকিৎসকদের দায়বদ্ধতা নিয়ে সেবা দানের আহ্বান জামায়াত আমিরের",
-        "url": "https://www.ittefaq.com.bd/777680/%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%AC%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%B9%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8",
-        "published_at": null,
-        "summary": "চিকিৎসকদের স্বচ্ছতা, বিবেক ও দায়বদ্ধতা নিয়ে সেবা দানের আহ্বান জানিয়েছেন বিরোধীদলীয় নেতা ও বাংলাদেশ জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমান।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/02/20/70ad318db0925c792a6bfb94a3109985-699881070febc.jpg"
-      },
-      {
-        "headline": "বিআরডিবি চেয়ারম্যানকে অপহরণের অভিযোগে মামলা",
-        "url": "https://www.bd-pratidin.com/country/2026/03/04/1224125",
-        "published_at": "2026-03-04T18:40:37+06:00",
-        "summary": "কুমিল্লার হোমনায় কেন্দ্রীয় সমবায় সমিতি লি. (বিআরডিবি) চেয়ারম্যান মো. আক্তার হোসেনকে অপহরণ করে মারধর ও মুক্তিপণ আদায়ের অভিযোগ পাওয়া গেছে। মঙ্গলবার (০৩ মার্চ) দুপুরে হোমনা পৌরসভা সংলগ্ন মুক্তিযোদ্ধা ভবনের সামনে এ ঘটনা ঘটে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772628036-411b8248b63ecaf8b3d6503bcc7c1ee4.jpg"
       }
     ],
     "world": [
       {
-        "headline": "ইসরায়েল লক্ষ্য করে হামলা চালিয়েছে ইরান",
+        "headline": "ইসরায়েল লক্ষ্য করে নতুন করে হামলা চালিয়েছে ইরান",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-06T17:53:45.575000+00:00",
+        "published_at": "2026-03-06T18:04:15.737000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
+      },
+      {
+        "headline": "মার্কিন স্থাপনায় হামলা চালাতে ইরানকে গোয়েন্দা তথ্য দিচ্ছে রাশিয়া",
+        "url": "https://www.prothomalo.com/world/middle-east/5usva9bqlr",
+        "published_at": "2026-03-06T17:57:50.997000+00:00",
+        "summary": "দ্রুত বিস্তার লাভ করা এই সংঘাতের সঙ্গে এখন যুক্তরাষ্ট্রের অন্যতম প্রধান পারমাণবিক শক্তিধর ও উন্নত গোয়েন্দা সক্ষমতাসম্পন্ন এক প্রতিদ্বন্দ্বী জড়িয়ে পড়ল।",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/j6q0utt4/Russia-Iran-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/j6q0utt4/Russia-Iran-1.jpg?auto=format,compress"
       },
       {
         "headline": "ইসরায়েলের হয়ে কোনো মার্কিন লড়তে চান না: সিনেট শুনানিতে প্রতিবাদ সাবেক মেরিন সেনার",
@@ -4685,12 +4694,18 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-02/rvlpbre0/Saudi3.jpg?auto=format,compress"
       },
       {
-        "headline": "কুর্দিদের দিয়ে ইরানে স্থল অভিযানের পরিকল্পনা যুক্তরাষ্ট্রের",
-        "url": "https://www.prothomalo.com/world/middle-east/x4vga70ugn",
-        "published_at": "2026-03-04T20:42:35.478000+00:00",
-        "summary": "ইরানি কুর্দিদের এমন একটি সশস্ত্র অভ্যুত্থান ইরানের স্থিতিশীলতার ওপর মারাত্মক প্রভাব ফেলতে পারে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-04/dnus2obi/Capture.PNG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-04/dnus2obi/Capture.PNG?auto=format,compress"
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
+      },
+      {
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
       },
       {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
@@ -4749,18 +4764,18 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
       },
       {
-        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
-        "published_at": "2026-03-06T19:25:29+06:00",
-        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+        "headline": "‘ব্লু স্প্যারো’ মিসাইল ছুড়ে হত্যা করা হয় খামেনিকে",
+        "url": "https://www.ittefaq.com.bd/778234/%E2%80%98%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A7%81-%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A7%8B%E2%80%99-%E0%A6%AE%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%9B%E0%A7%81%E0%A7%9C%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%B9%E0%A7%9F-%E0%A6%96%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%87",
+        "published_at": null,
+        "summary": "ইরানের সঙ্গে যুদ্ধ শুরুর দিনই দেশটির সর্বোচ্চ ধর্মীয় নেতা আয়াতুল্লাহ আলি খামেনিসহ শীর্ষ কয়েক ডজন নেতাকে হত্যা করা হয়—এমন দাবি করেছে একাধিক আন্তর্জাতিক সংবাদমাধ্যম। প্রতিবেদনে বলা হয়েছে, ইসরায়েল অত্যন্ত গোপন ও পরিকল্পিত এক অভিযানে এই হামলা চালায়।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/b103fd0d816b2b9ed0bf4471e7cb09e8-69ab19ccecebd.jpg"
       },
       {
-        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
-        "published_at": "2026-03-06T19:18:38+06:00",
-        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
+        "headline": "মার্কিন লক্ষ্যবস্তুতে হামলায় ইরানকে গোয়েন্দা তথ্য দিচ্ছে রাশিয়া: ওয়াশিংটন পোস্ট",
+        "url": "https://www.ittefaq.com.bd/778233/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF",
+        "published_at": null,
+        "summary": "মধ্যপ্রাচ্যে মার্কিন লক্ষ্যবস্তুতে হামলা চালাতে ইরানকে গোয়েন্দা তথ্য দিয়ে সহায়তা করছে রাশিয়া—এমন দাবি করেছে যুক্তরাষ্ট্রের প্রভাবশালী সংবাদমাধ্যম ওয়াশিংটন পোস্ট। সংশ্লিষ্ট তিনজন কর্মকর্তার বরাত দিয়ে প্রকাশিত এক প্রতিবেদনে এ তথ্য জানানো হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/ba00e0823dcb531fbcebb3fa75b4c9f0-69ab172e1ffd4.jpg"
       },
       {
         "headline": "হরমুজ প্রণালীতে জাহাজ চলাচল নিয়ে ইরানের সঙ্গে চীনের আলোচনা",
@@ -4819,20 +4834,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/c279a93281ec6354b37be969b3edd87f-69aaeb6f9a8d1.jpg"
       },
       {
-        "headline": "যুক্তরাষ্ট্র-ইসরায়েলের বিরুদ্ধে জিহাদের ডাক ৬৬০ সুন্নি আলেমের",
-        "url": "https://www.ittefaq.com.bd/778210/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%9C%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BE%E0%A6%95-%E0%A7%AC%E0%A7%AC%E0%A7%A6",
-        "published_at": null,
-        "summary": "যুক্তরাষ্ট্র ও ইসরায়েলের বিরুদ্ধে জিহাদের আহ্বান জানিয়েছেন ইরানের দক্ষিণ-পূর্বাঞ্চলীয় সিস্তান ও বেলুচিস্তান প্রদেশের সুন্নি মুসলিম ধর্মীয় নেতারা। এক যৌথ বিবৃতিতে তারা এ ঘোষণা দিয়ে দেশটির সশস্ত্র বাহিনীর প্রতি সমর্থন জানিয়েছেন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/348b415e44a49694c13d65bce093972a-69aae95a4cd99.jpg"
-      },
-      {
-        "headline": "ইরানকে ‘নিঃশর্ত আত্মসমর্পণ’ করতে বললেন ট্রাম্প",
-        "url": "https://www.ittefaq.com.bd/778208/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E2%80%98%E0%A6%A8%E0%A6%BF%E0%A6%83%E0%A6%B6%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A6%A3%E2%80%99-%E0%A6%9A%E0%A6%BE%E0%A7%9F-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
-        "published_at": null,
-        "summary": "মধ্যপ্রাচ্যে চলমান উত্তেজনার মধ্যে ইরানের কাছে ‘নিঃশর্ত আত্মসমর্পণ’ দাবি জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। খবর আল জাজিরার।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/67a8596dad506defb71d319a325024b2-69aae62a206f8.jpg"
-      },
-      {
         "headline": "ডেপুটি স্পিকার ঘিরে টানাপড়েনজুলাই সনদে অচলাবস্থা",
         "url": "https://dailynayadiganta.com/printed-edition/XSJ0S6OZc7gY/",
         "published_at": null,
@@ -4857,8 +4858,8 @@
         "headline": "খামেনির বাঙ্কার ধ্বংসে ৫০টি যুদ্ধবিমান অংশ নিয়েছিল : ইসরাইল সেনাবাহিনী",
         "url": "https://dailynayadiganta.com/international/asia/middle-east/JCtcrZA8hOmU/",
         "published_at": null,
-        "summary": null,
-        "image_url": null
+        "summary": "‘খামেনিকে হত্যার পরও ইরানি শাসকগোষ্ঠীর ঊর্ধ্বতন কর্মকর্তারা এই কমপ্লেক্সটি ব্যবহার অব্যাহত রেখেছিলেন।’",
+        "image_url": "https://media.ndiganta.com/original_images/Tehran_4aG33rx.jpg"
       },
       {
         "headline": "মস্কো ও কিয়েভের মধ্যে ৩০০ জন করে যুদ্ধবন্দী বিনিময়",
@@ -4959,18 +4960,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-28-20260302153115.jpg"
       },
       {
+        "headline": "মারণাস্ত্রের অর্থনীতি২০ হাজারি ইরানি ড্রোনে বেসামাল আমেরিকার ৪০ লাখি সুরক্ষা",
+        "url": "https://www.amarsangbad.com/international/news/339672",
+        "published_at": "1772822453",
+        "summary": "যুদ্ধের চিরাচরিত ইতিহাসে এখন এক অদ্ভুত বৈপরীত্য লক্ষ্য করা যাচ্ছে। যেখানে উন্নত দেশগুলো কয়েক বিলিয়ন ডলার খরচ করে স্টিলথ বা হাইপারসনিক প্রযুক্তির পেছনে ছুটছে, সেখানে ইরান খুব সাধারণ মানের প্রযুক্তি ব্যবহার করে বিশ্ব পরাশক্তিগুলোকে এক কঠিন চ্যালেঞ্জের মুখে দাঁড় করিয়ে দিয়েছে। শাহেদ সিরিজের এই আত্মঘাতী ড্রোনগুলো এখন মধ্যপ্রাচ্য থেকে ইউক্রেন পর্যন্ত এক ত্রাসের নাম।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-1-copy-20260306184053.jpg"
+      },
+      {
         "headline": "মধ্যপ্রাচ্যের দাবার ঘুঁটি: ছায়ার যুদ্ধে রাশিয়ার ‘সাইলেন্ট সাপোর্ট’ ও ইরানের কৌশল",
         "url": "https://www.amarsangbad.com/international/news/339666",
         "published_at": "1772806177",
         "summary": "মধ্যপ্রাচ্যের যুদ্ধক্ষেত্রে সরাসরি সেনা না পাঠিয়েও কীভাবে একটি যুদ্ধের মোড় ঘুরিয়ে দেওয়া যায়, রাশিয়া বর্তমানে সেই কৌশলী পথে হাঁটছে। যদিও ক্রেমলিন আনুষ্ঠানিকভাবে দাবি করছে তারা এই সংকটে শান্তিকামী অবস্থানে রয়েছে, কিন্তু মার্কিন গোয়েন্দা সংস্থাগুলো এবং প্রভাবশালী সংবাদমাধ্যম ওয়াশিংটন পোস্ট এর সাম্প্রতিক প্রতিবেদন এক ভিন্ন গল্প বলছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-42-20260306140937.jpg"
-      },
-      {
-        "headline": "পাহাড় যাদের একমাত্র বন্ধুকুর্দিদের রাষ্ট্রহীন দীর্ঘ লড়াই ও ট্রাম্পের ইরান কৌশল",
-        "url": "https://www.amarsangbad.com/international/news/339657",
-        "published_at": "1772800729",
-        "summary": "মধ্যপ্রাচ্যের মানচিত্রে এমন এক বিশাল জনগোষ্ঠী বসবাস করে যাদের ভাষা আছে, সংস্কৃতি আছে এবং দুর্ধর্ষ এক যোদ্ধা বাহিনী আছে, কিন্তু নেই শুধু একটি নিজস্ব মানচিত্র তারা কুর্দি।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-33-20260306123849.jpg"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-42-20260306140937.jpg"
       },
       {
         "headline": "সেহরি ও ইফতারের সময়সূচি",
@@ -4978,6 +4979,49 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "কুর্দিদের দিয়ে ইরানে স্থল অভিযানের পরিকল্পনা যুক্তরাষ্ট্রের",
+        "url": "https://www.prothomalo.com/world/middle-east/x4vga70ugn",
+        "published_at": "2026-03-04T20:42:35.478000+00:00",
+        "summary": "ইরানি কুর্দিদের এমন একটি সশস্ত্র অভ্যুত্থান ইরানের স্থিতিশীলতার ওপর মারাত্মক প্রভাব ফেলতে পারে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-04/dnus2obi/Capture.PNG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-04/dnus2obi/Capture.PNG?auto=format,compress"
+      },
+      {
+        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
+        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
+        "published_at": "2026-03-06T19:25:29+06:00",
+        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+      },
+      {
+        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
+        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
+        "published_at": "2026-03-06T19:18:38+06:00",
+        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
+      },
+      {
+        "headline": "যুক্তরাষ্ট্র-ইসরায়েলের বিরুদ্ধে জিহাদের ডাক ৬৬০ সুন্নি আলেমের",
+        "url": "https://www.ittefaq.com.bd/778210/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%9C%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BE%E0%A6%95-%E0%A7%AC%E0%A7%AC%E0%A7%A6",
+        "published_at": null,
+        "summary": "যুক্তরাষ্ট্র ও ইসরায়েলের বিরুদ্ধে জিহাদের আহ্বান জানিয়েছেন ইরানের দক্ষিণ-পূর্বাঞ্চলীয় সিস্তান ও বেলুচিস্তান প্রদেশের সুন্নি মুসলিম ধর্মীয় নেতারা। এক যৌথ বিবৃতিতে তারা এ ঘোষণা দিয়ে দেশটির সশস্ত্র বাহিনীর প্রতি সমর্থন জানিয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/348b415e44a49694c13d65bce093972a-69aae95a4cd99.jpg"
+      },
+      {
+        "headline": "ইরানকে ‘নিঃশর্ত আত্মসমর্পণ’ করতে বললেন ট্রাম্প",
+        "url": "https://www.ittefaq.com.bd/778208/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E2%80%98%E0%A6%A8%E0%A6%BF%E0%A6%83%E0%A6%B6%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A6%A3%E2%80%99-%E0%A6%9A%E0%A6%BE%E0%A7%9F-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
+        "published_at": null,
+        "summary": "মধ্যপ্রাচ্যে চলমান উত্তেজনার মধ্যে ইরানের কাছে ‘নিঃশর্ত আত্মসমর্পণ’ দাবি জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। খবর আল জাজিরার।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/67a8596dad506defb71d319a325024b2-69aae62a206f8.jpg"
+      },
+      {
+        "headline": "পাহাড় যাদের একমাত্র বন্ধুকুর্দিদের রাষ্ট্রহীন দীর্ঘ লড়াই ও ট্রাম্পের ইরান কৌশল",
+        "url": "https://www.amarsangbad.com/international/news/339657",
+        "published_at": "1772800729",
+        "summary": "মধ্যপ্রাচ্যের মানচিত্রে এমন এক বিশাল জনগোষ্ঠী বসবাস করে যাদের ভাষা আছে, সংস্কৃতি আছে এবং দুর্ধর্ষ এক যোদ্ধা বাহিনী আছে, কিন্তু নেই শুধু একটি নিজস্ব মানচিত্র তারা কুর্দি।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-33-20260306123849.jpg"
       },
       {
         "headline": "মোদির আমন্ত্রণে ভারতে আসা ইরানি জাহাজকে ডুবিয়ে দিয়ে কী বার্তা দিল যুক্তরাষ্ট্র",
@@ -5788,48 +5832,6 @@
         "published_at": "2026-03-06T10:17:39+06:00",
         "summary": "নওগাঁর আত্রাইয়ে নিজ বাড়িতে স্ত্রী-সন্তানকে ছুরিকাঘাতে হত্যার পর স্বামী নিজেও আত্মহত্যা করেছেন। বৃহস্পতিবার (৫ মার্চ) দিবাগত রাত সাড়ে ১২টার দিকে উপজেলার বলরামচক চৌধুরীপাড়া গ্রামের নিজ বাড়িতে এই ঘটনা ঘটে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772770658-d351a2400ba8182ef4062bc66976a894.jpg"
-      },
-      {
-        "headline": "চমকপ্রদ বিশ্বকাপ দল গড়ার ইঙ্গিত জার্মান কোচের",
-        "url": "https://www.bd-pratidin.com/sports/2026/03/06/1224737",
-        "published_at": "2026-03-06T09:44:13+06:00",
-        "summary": "আসন্ন বিশ্বকাপের জন্য চমকপ্রদ দল সাজানোর ইঙ্গিত দিয়ে রেখেছেন জার্মানির কোচ ইউলিয়ান নাগেলসমান। ক্লাবের শুরুর একাদশের নিয়মিত সদস্য কিংবা গুরুত্বপূর্ণ খেলোয়াড় হলেই যে জাতীয় দলে সুযোগ মিলবে, সেই আলোচনা উড়িয়ে দিয়েছেন ইউলিয়ান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772768653-67b79850799f787f7086c7be9edf50a2.jpg"
-      },
-      {
-        "headline": "ক্ষেপণাস্ত্র হামলার মুখে মাঝ আকাশ থেকেই ফিরে গেল ফরাসি বিমান",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/06/1224734",
-        "published_at": "2026-03-06T09:34:38+06:00",
-        "summary": "মধ্যপ্রাচ্যে অবস্থানরত নিজ দেশের নাগরিকদের ফিরিয়ে নিতে যাওয়ার পথে ক্ষেপণাস্ত্র হামলার মুখে একটি ফরাসি বিমান মাঝপথ থেকে ফিরে যেতে বাধ্য হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772768078-ea3d1abcd69fc656c4406b67e84dcb57.JPG"
-      },
-      {
-        "headline": "একনজরে আজকের বাংলাদেশ প্রতিদিন (৬ মার্চ)",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224726",
-        "published_at": "2026-03-06T08:53:27+06:00",
-        "summary": "ইরানের সঙ্গে ইসরায়েল-যুক্তরাষ্ট্রের চলমান যুদ্ধের প্রভাব পড়ছে সারা বিশ্বেই। যুদ্ধে না জড়িয়েও বাংলাদেশে এর...",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772765605-18e2999891374a475d0687ca9f989d83.jpg"
-      },
-      {
-        "headline": "হাজারীবাগে ব্যবসায়ীর ঝুলন্ত মরদেহ উদ্ধার",
-        "url": "https://www.bd-pratidin.com/city-news/2026/03/06/1224723",
-        "published_at": "2026-03-06T08:38:28+06:00",
-        "summary": "রাজধানীর হাজারীবাগ এলাকায় মনোয়ার হোসেন ভাষান (৪৮) নামে এক ব্যবসায়ীর ঝুলন্ত মরদেহ উদ্ধার করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772764707-76ea4c3eb87e05f96afee212d0448d3c.jpg"
-      },
-      {
-        "headline": "ইসরায়েল-লেবানন সীমান্তে বাসিন্দাদের সরে যাওয়ার হুঁশিয়ারি হিজবুল্লাহর",
-        "url": "https://www.ittefaq.com.bd/778110/%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2-%E0%A6%B2%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%A8-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0",
-        "published_at": null,
-        "summary": "লেবাননের সশস্ত্র গোষ্ঠী হিজবুল্লাহ ইসরায়েল-লেবানন সীমান্ত থেকে ৫ কিলোমিটার বা ৩.১১ মাইলের মধ্যে বসবাসকারী ইসরায়েলি বাসিন্দাদের অনতিবিলম্বে এলাকা খালি করার নির্দেশ দিয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/19acbe4bc9e89fc6e289caaea6230b19-69aa5395cf349.jpg"
-      },
-      {
-        "headline": "‘যুদ্ধ থামাতে যোগাযোগ করেছে’, ট্রাম্পের দাবি সম্পূর্ণ নাকচ ইরানের",
-        "url": "https://www.ittefaq.com.bd/778107/%E2%80%98%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%A5%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E2%80%99-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
-        "published_at": null,
-        "summary": "ইরান যুদ্ধ বন্ধের জন্য চুক্তির আকুতি জানিয়ে বারবার যোগাযোগ করছে বলে দাবি করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তবে তেহরান এই দাবিকে সম্পূর্ণ নাকচ করে দিলেও ট্রাম্প তার অবস্থানে অনড়। এমনকি ইরানের পরবর্তী সর্বোচ্চ নেতা কে হবেন, সেই নির্বাচনেও নিজের সংশ্লিষ্টতার কথা জানিয়ে নতুন বিতর্ক উসকে দিয়েছেন তিনি। ব্রিটিশ সংবাদমাধ্যম ‘দ্য ইন্ডিপেন্ডেন্ট’ ও মার্কিন গণমাধ্যম ‘একিওস’-এর প্রতিবেদনে এই চাঞ্চল্যকর তথ্য উঠে এসেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/f2bc76e5778ea555c246c3448a29b8fe-69aa51ea8e54a.jpg"
       }
     ],
     "business": [
@@ -9148,6 +9150,20 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-03/aj3yawv3/egupta17598234603737992572602690885567128165.jpg?auto=format,compress"
       },
       {
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
+      },
+      {
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
+      },
+      {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
         "url": "https://www.bd-pratidin.com/country/2026/03/06/1224925",
         "published_at": "2026-03-06T21:51:14+06:00",
@@ -9202,20 +9218,6 @@
         "published_at": "2026-03-06T19:39:57+06:00",
         "summary": "ছাত্রলীগও যে সাহস করেনি তা প্রকাশ্যে শিবির করেছে বলে মন্তব্য করেছেন বাংলাদেশ জাতীয়তাবাদী ছাত্রদলের সভাপতি রাকিবুল ইসলাম রাকিব। তিনি বলেন, সাংবাদিকদের ওপর হামলার যে সাহস কেউ করেনি সেটা তারা করে দেখিয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
-      },
-      {
-        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
-        "published_at": "2026-03-06T19:25:29+06:00",
-        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
-      },
-      {
-        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
-        "published_at": "2026-03-06T19:18:38+06:00",
-        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "বিয়েতে রাশমিকার গায়ে ছিল ৩ কেজি সোনার গয়না",
@@ -9426,6 +9428,20 @@
         "published_at": "1772116464",
         "summary": "দীর্ঘ আট বছরের প্রেমের সম্পর্কের অবসান ঘটিয়ে অবশেষে পরিণয়ে আবদ্ধ হলেন ভারতীয় সিনেমার জনপ্রিয় দুই তারকা বিজয় দেবরকোণ্ডা ও রাশমিকা মান্দানা।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-28-20260226143424.jpg"
+      },
+      {
+        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
+        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
+        "published_at": "2026-03-06T19:25:29+06:00",
+        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+      },
+      {
+        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
+        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
+        "published_at": "2026-03-06T19:18:38+06:00",
+        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "আলভীর স্ত্রীর মৃত্যু ঘিরে কী ঘটেছে",
@@ -10274,20 +10290,6 @@
         "published_at": "2026-03-05T15:46:57+06:00",
         "summary": "পটুয়াখালীর কলাপাড়া উপজেলা নীলগঞ্জ ইউনিয়ন যুবদলের সাধারণ সম্পাদক জহিরুল ইসলামকে দল থেকে বহিষ্কার করা হয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/05/og/1772704016-6e4cc36a054296c1c1991c207e83cd7c.jpg"
-      },
-      {
-        "headline": "মানিকগঞ্জে ট্রাক-মোটরসাইকেল সংঘর্ষে যুবক নিহত",
-        "url": "https://www.bd-pratidin.com/country/2026/03/05/1224436",
-        "published_at": "2026-03-05T15:13:37+06:00",
-        "summary": "মানিকগঞ্জ সদর উপজেলার তেরদোনা এলাকায় সড়ক দুর্ঘটনায় রোমান মিয়া (৩১) নামে এক মোটরসাইকেল আরোহী নিহত হয়েছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/05/og/1772702016-cf5793938b321b67b3b667655b375703.jpg"
-      },
-      {
-        "headline": "ট্রাফিক আইন লঙ্ঘনে ডিএমপির ১৩৩৮ মামলা",
-        "url": "https://www.bd-pratidin.com/city-news/2026/03/05/1224434",
-        "published_at": "2026-03-05T15:07:09+06:00",
-        "summary": "রাজধানী ঢাকার বিভিন্ন এলাকায় ট্রাফিক আইন লঙ্ঘনকারীদের বিরুদ্ধে অভিযান চালিয়ে ১৩৩৮টি মামলা করেছে ঢাকা মেট্রোপলিটন পুলিশের (ডিএমপি) ট্রাফিক বিভাগ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/05/og/1772701628-c0e8d4e5ba2a23a7eec3a49b06988229.jpg"
       }
     ],
     "jobs": [
@@ -10612,6 +10614,20 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-05-03/j8cgwjfd/197.jpg?auto=format,compress"
       },
       {
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
+      },
+      {
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
+      },
+      {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
         "url": "https://www.bd-pratidin.com/country/2026/03/06/1224925",
         "published_at": "2026-03-06T21:51:14+06:00",
@@ -10666,20 +10682,6 @@
         "published_at": "2026-03-06T19:39:57+06:00",
         "summary": "ছাত্রলীগও যে সাহস করেনি তা প্রকাশ্যে শিবির করেছে বলে মন্তব্য করেছেন বাংলাদেশ জাতীয়তাবাদী ছাত্রদলের সভাপতি রাকিবুল ইসলাম রাকিব। তিনি বলেন, সাংবাদিকদের ওপর হামলার যে সাহস কেউ করেনি সেটা তারা করে দেখিয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
-      },
-      {
-        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
-        "published_at": "2026-03-06T19:25:29+06:00",
-        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
-      },
-      {
-        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
-        "published_at": "2026-03-06T19:18:38+06:00",
-        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "৫০তম বিসিএসের লিখিত পরীক্ষার বিষয়ভিত্তিক সময়সূচি প্রকাশ",
@@ -10841,6 +10843,20 @@
         "published_at": null,
         "summary": "নিয়োগ পরীক্ষার প্রস্তুতিতে সফল হতে হলে দরকার সঠিক তথ্য, আপডেটেড সিলেবাস ও নির্ভরযোগ্য রিসোর্স। প্রতিটি নিয়োগ পরীক্ষার ধরন, প্রশ্নের গঠন ও মানদণ্ড ভিন্ন হওয়ায় সময়মতো সঠিক নির্দেশনা জানা অত্যন্ত জরুরি। লিখিত, এমসিকিউ ও মৌখিক পরীক্ষার প্রস্তুতিতে বিগত বছরের প্রশ্নপত্র, সময় ব্যবস্থাপনা কৌশল, বিষয়ের ওপর ভিত্তি করে অধ্যয়ন পরিকল্পনা এবং মানসম্পন্ন প্র্যাকটিস সেট আপনাকে সঠিক পথে এগিয়ে নিতে পারে।",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
+        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
+        "published_at": "2026-03-06T19:25:29+06:00",
+        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+      },
+      {
+        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
+        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
+        "published_at": "2026-03-06T19:18:38+06:00",
+        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "দুবাই থেকে বিশেষ ফ্লাইটে দেশে ফিরেছেন ৪০৫ যাত্রী",
@@ -11724,20 +11740,6 @@
         "published_at": "2026-03-05T11:23:19+06:00",
         "summary": "গত শনিবার থেকে ইরানে ভয়াবহ হামলা চালাচ্ছে যুক্তরাষ্ট্র ও ইসরায়েল। এতে এরই মধ্যে ১৭৬ শিশুসহ এক হাজারের বেশি বেসামরিক নাগরিক নিহত হয়েছে। ইরানও পাল্টা হামলা চালাচ্ছে। ইসরায়েল ও মধ্যপ্রাচ্যের বিভিন্ন দেশে মার্কিন স্বার্থ সংশ্লিষ্ট স্থাপনায় হামলা চালাচ্ছে। এতে অগ্নিগর্ভে পরিণত হয়েছে গোটা মধ্যপ্রাচ্য। এরই মধ্যেই মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে হত্যাচেষ্টায় ইরানকে জড়ালেন পাকিস্তানি এক ব্যবসায়ী।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/05/og/1772688198-3a11d7ec32f2af87c5001aca459e555d.jpg"
-      },
-      {
-        "headline": "৬ দিনে ঢাকা থেকে ২১০ ফ্লাইট বাতিল",
-        "url": "https://www.bd-pratidin.com/national/2026/03/05/1224365",
-        "published_at": "2026-03-05T10:47:48+06:00",
-        "summary": "মধ্যপ্রাচ্যে সৃষ্ট নিরাপত্তা পরিস্থিতির কারণে গত ২৮ ফেব্রুয়ারি থেকে নিজেদের আকাশসীমা সাময়িকভাবে বন্ধ ঘোষণা করেছে ইরান, ইরাক, কুয়েত, সংযুক্ত আরব আমিরাত, বাহরাইন, কাতার ও জর্ডান। ঢাকার হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে এর সরাসরি প্রভাব পড়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/05/og/1772686067-ada784b511a99b938cdfc26dc1c4c592.jpg"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্র-ইসরায়েলের চোখ অন্ধ করে দিয়েছি: আইআরজিসি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/05/1224360",
-        "published_at": "2026-03-05T10:10:10+06:00",
-        "summary": "রাডার ধ্বংস করে যুক্তরাষ্ট্র ও ইসরায়েলের চোখ অন্ধ করে দেওয়া হয়েছে বলে দাবি করেছে ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী আইআরজিসি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/05/og/1772683809-92d6bd828d7eb0c5b2017384d88c18cb.jpg"
       }
     ],
     "opinion": [
@@ -13147,6 +13149,20 @@
     "football": [],
     "election": [
       {
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
+      },
+      {
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
+      },
+      {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
         "url": "https://www.bd-pratidin.com/country/2026/03/06/1224925",
         "published_at": "2026-03-06T21:51:14+06:00",
@@ -13201,20 +13217,6 @@
         "published_at": "2026-03-06T19:39:57+06:00",
         "summary": "ছাত্রলীগও যে সাহস করেনি তা প্রকাশ্যে শিবির করেছে বলে মন্তব্য করেছেন বাংলাদেশ জাতীয়তাবাদী ছাত্রদলের সভাপতি রাকিবুল ইসলাম রাকিব। তিনি বলেন, সাংবাদিকদের ওপর হামলার যে সাহস কেউ করেনি সেটা তারা করে দেখিয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
-      },
-      {
-        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
-        "published_at": "2026-03-06T19:25:29+06:00",
-        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
-      },
-      {
-        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
-        "published_at": "2026-03-06T19:18:38+06:00",
-        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "কুমিল্লা সিটি নির্বাচন",
@@ -13285,6 +13287,20 @@
         "published_at": "1771227856",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের সঙ্গে অনুষ্ঠিত গণভোটের আনুষ্ঠানিক ফলাফল গেজেট আকারে প্রকাশ করেছে নির্বাচন কমিশন (ইসি)।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-5--20260216074416.jpg"
+      },
+      {
+        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
+        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
+        "published_at": "2026-03-06T19:25:29+06:00",
+        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+      },
+      {
+        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
+        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
+        "published_at": "2026-03-06T19:18:38+06:00",
+        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "দুবাই থেকে বিশেষ ফ্লাইটে দেশে ফিরেছেন ৪০৫ যাত্রী",
@@ -14531,23 +14547,23 @@
         "published_at": "2026-03-04T14:00:08+06:00",
         "summary": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ বলেছেন, চাঁদাবাজ ও অস্ত্রধারী দাগি আসামিদের বিরুদ্ধে ঢাকাসহ সারাদেশে সাঁড়াশি অভিযান পরিচালনা করা হবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772611207-d82319912041449cd31bdb7e7569d171.jpg"
-      },
-      {
-        "headline": "কঙ্গোতে খনি ধসে অন্তত ৬ জনের প্রাণহানি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/04/1224013",
-        "published_at": "2026-03-04T13:52:22+06:00",
-        "summary": "গণতান্ত্রিক প্রজাতন্ত্র কঙ্গোর বিদ্রোহী নিয়ন্ত্রিত পূর্বাঞ্চলে দেশের বৃহত্তম কোলটান খনিতে মঙ্গলবার সুড়ঙ্গ ধসে অন্তত ছয়জনের প্রাণহানি হয়েছে। প্রত্যক্ষদর্শীরা এ তথ্য জানান। খবরএএফপির।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772610741-72a7c054b656a0a99fcc76bfff95fe90.jpg"
-      },
-      {
-        "headline": "কোন দিকে মোড় নিচ্ছে ইরান যুদ্ধ, বিবিসির বিশ্লেষণ",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/04/1224012",
-        "published_at": "2026-03-04T13:47:01+06:00",
-        "summary": "গত শনিবার থেকে যুক্তরাষ্ট্র ও ইসরায়েল যৌথভাবে ইরানে হামলা চালাচ্ছে। এরই মধ্যে ইরানে ১৭৬ শিশুসহ প্রায় এক হাজার ১০০ বেসামরিক মানুষ নিহত হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772610419-ccf697c46a124c6257b29b42c37568b2.jpg"
       }
     ],
     "city": [
+      {
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
+      },
+      {
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
+      },
       {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
         "url": "https://www.bd-pratidin.com/country/2026/03/06/1224925",
@@ -15933,23 +15949,23 @@
         "published_at": "2026-03-04T12:18:37+06:00",
         "summary": "সপ্তাহের চতুর্থ কার্যদিবস আজ বুধবার দেশের প্রধান শেয়ারবাজার ঢাকা স্টক এক্সচেঞ্জ (ডিএসই) ও অপর বাজার চট্টগ্রাম স্টক এক্সচেঞ্জে (সিএসই) সূচকের ওঠানামার মধ্য দিয়ে লেনদেন চলছে।  ডিএসই ও সিএসই সূত্রে এ তথ্য জানা গেছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772605115-0bcd588ec0bdc17839208d0ce4b4f4c5.PNG"
-      },
-      {
-        "headline": "মধ্যপ্রাচ্যে দ্রুত উত্তেজনা প্রশমনে কানাডা প্রধানমন্ত্রীর আহ্বান",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/04/1223994",
-        "published_at": "2026-03-04T12:04:28+06:00",
-        "summary": "ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ হামলায় মধ্যপ্রাচ্যে সৃষ্ট যুদ্ধ পরিস্থিতি দ্রুত প্রশমনের আহ্বান জানিয়েছেন কানাডার প্রধানমন্ত্রী মার্ক কার্নি। তিনি সব পক্ষকে আন্তর্জাতিক নিয়ম মেনে চলার আহ্বান জানান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772604266-bca1a5b7fc82a623a60437f26b015b8d.jpg"
-      },
-      {
-        "headline": "ট্রেনের অগ্রিম টিকিট পেতে ৩০ মিনিটে ২০ লাখ হিট",
-        "url": "https://www.bd-pratidin.com/national/2026/03/04/1223992",
-        "published_at": "2026-03-04T12:01:22+06:00",
-        "summary": "আসন্ন ঈদুল ফিতর উপলক্ষ্যে অগ্রিম টিকিট বিক্রি শুরু করেছে বাংলাদেশ রেলওয়ে। বুধবার (৪ মার্চ) বিক্রি করা হচ্ছে আগামী ১৪ মার্চের (শনিবার) ট্রেনের টিকিট।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772604081-edd283e706a12c806d3f7a98e687254d.jpg"
       }
     ],
     "campus": [
+      {
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
+      },
+      {
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
+      },
       {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
         "url": "https://www.bd-pratidin.com/country/2026/03/06/1224925",
@@ -16005,20 +16021,6 @@
         "published_at": "2026-03-06T19:39:57+06:00",
         "summary": "ছাত্রলীগও যে সাহস করেনি তা প্রকাশ্যে শিবির করেছে বলে মন্তব্য করেছেন বাংলাদেশ জাতীয়তাবাদী ছাত্রদলের সভাপতি রাকিবুল ইসলাম রাকিব। তিনি বলেন, সাংবাদিকদের ওপর হামলার যে সাহস কেউ করেনি সেটা তারা করে দেখিয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
-      },
-      {
-        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
-        "published_at": "2026-03-06T19:25:29+06:00",
-        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
-      },
-      {
-        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
-        "published_at": "2026-03-06T19:18:38+06:00",
-        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "ইবি শিক্ষিকাকে ছুরিকাঘাতে হত্যা, কর্মচারীর আত্মহত্যার চেষ্টা",
@@ -16089,6 +16091,20 @@
         "published_at": "1772722653",
         "summary": "গবেষণা ও প্রশিক্ষণ ক্ষেত্রে বিশেষ অবদানের স্বীকৃতিস্বরূপ 'স্বাধীনতা পুরস্কার ২০২৬' পাচ্ছেন বাংলাদেশ কৃষি বিশ্ববিদ্যালয়ের (বাকৃবি) উদ্যানতত্ত্ব বিভাগের প্রাক্তন অধ্যাপক ড. এম এ রহিম।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-25-20260305145733.jpg"
+      },
+      {
+        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
+        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
+        "published_at": "2026-03-06T19:25:29+06:00",
+        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+      },
+      {
+        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
+        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
+        "published_at": "2026-03-06T19:18:38+06:00",
+        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "দুবাই থেকে বিশেষ ফ্লাইটে দেশে ফিরেছেন ৪০৫ যাত্রী",
@@ -17335,23 +17351,23 @@
         "published_at": "1772013790",
         "summary": "জুনিয়র বৃত্তি পরীক্ষার ফলাফল প্রকাশ করা হয়েছে। বুধবার দুপুর দেড়টার দিকে সচিবালয়ে শিক্ষামন্ত্রী আ ন ম এহছানুল হক মিলন কেন্দ্রীয়ভাবে আনুষ্ঠানিকভাবে এ ফলাফল প্রকাশ করেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-designx---2026-02-25T160253594-20260225100310.jpg"
-      },
-      {
-        "headline": "ইরান যুদ্ধ ১০ দিনের বেশি চললে ক্ষেপণাস্ত্র সংকটে পড়বে আমেরিকা, পেন্টাগনের সতর্কবার্তা",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/04/1224030",
-        "published_at": "2026-03-04T14:38:00+06:00",
-        "summary": "ইরানের সঙ্গে চলমান যুদ্ধ যদি আরও ১০ দিন স্থায়ী হয়, তবে যুক্তরাষ্ট্রের গুরুত্বপূর্ণ ক্ষেপণাস্ত্রের মজুত বিপজ্জনক স্তরে নেমে আসতে পারে বলে মার্কিন প্রতিরক্ষা সদর দফতর পেন্টাগন থেকে সতর্ক করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772613479-3e6e632fb7fc938c1c343bc857ab4dbf.jpg"
-      },
-      {
-        "headline": "৬ সিটি করপোরেশনে প্রশাসক নিয়োগ স্থগিত চেয়ে হাইকোর্টে রিট",
-        "url": "https://www.bd-pratidin.com/national/2026/03/04/1224029",
-        "published_at": "2026-03-04T14:37:06+06:00",
-        "summary": "দেশের ছয় সিটি করপোরেশনে গত ২২ ফেব্রুয়ারি দেওয়া প্রশাসক নিয়োগের কার্যক্রম স্থগিত চেয়ে হাইকোর্টে রিট করা হয়েছে। আবেদনে ৩০ দিনের মধ্যে এসব সিটি করপোরেশনে নির্বাচন আয়োজন করতে নির্দেশনা চাওয়া হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772613425-c80831b55c548372e13f9705a620ac5f.jpg"
       }
     ],
     "tech": [
+      {
+        "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
+        "published_at": "2026-03-07T00:32:22+06:00",
+        "summary": "মধ্যপ্রাচ্যে অবস্থিত মার্কিন ঘাঁটি ও ইসরায়েলি দখলদার ভূখণ্ডকে লক্ষ্য করে ২৩তম ধাপের হামলা শুরু করার ঘোষণা দিয়েছে ইরানের ইসলামিক বিপ্লবী গার্ড (আইআরজিসি)।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821941-da394f7d7f2222acf6c03e21bb3bb2c1.jpg"
+      },
+      {
+        "headline": "যুদ্ধ বন্ধ করে আলোচনায় বসার আহ্বান জাতিসংঘ মহাসচিবের",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225065",
+        "published_at": "2026-03-07T00:21:48+06:00",
+        "summary": "যুদ্ধ বন্ধ করে যুক্তরাষ্ট্র ও ইসরায়েল জোট এবং ইরানকে কূটনৈতিক আলোচনায় বসার আহ্বান জানিয়েছেন জাতিসংঘের মহাসচিব অ্যান্টোনিও গুতেরেস।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772821307-691f9f265cb597f2f0f33e1410cef8e7.jpg"
+      },
       {
         "headline": "গাঁজা সেবন দেখে ফেলায় গোপন রাখার অনুরোধ, রাজি না হওয়ায় খুন",
         "url": "https://www.bd-pratidin.com/country/2026/03/06/1224925",
@@ -17407,20 +17423,6 @@
         "published_at": "2026-03-06T19:39:57+06:00",
         "summary": "ছাত্রলীগও যে সাহস করেনি তা প্রকাশ্যে শিবির করেছে বলে মন্তব্য করেছেন বাংলাদেশ জাতীয়তাবাদী ছাত্রদলের সভাপতি রাকিবুল ইসলাম রাকিব। তিনি বলেন, সাংবাদিকদের ওপর হামলার যে সাহস কেউ করেনি সেটা তারা করে দেখিয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
-      },
-      {
-        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
-        "published_at": "2026-03-06T19:25:29+06:00",
-        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
-      },
-      {
-        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
-        "published_at": "2026-03-06T19:18:38+06:00",
-        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "ফেব্রুয়ারিতেই বাজারে আসতে পারে অ্যাপলের নতুন আইফোন",
@@ -17636,8 +17638,22 @@
         "headline": "বিজ্ঞান ও তথ্যপ্রযুক্তি",
         "url": "https://www.jugantor.com/tech",
         "published_at": null,
-        "summary": "সামাজিক যোগাযোগমাধ্যমে এখন অনুভূতি প্রকাশের একটি সহজ মাধ্যম হয়ে উঠেছে ইমোজি। অনেক সময় একটি ছোট ইমোজিই পুরো বাক্যের সমান অর্থ ...",
+        "summary": "বৈশ্বিক পিসি বাজারের মন্দা এবং মেমোরি চিপের ঘাটতির চ্যালেঞ্জ মোকাবিলা করে নতুন সিরিজের ম্যাকবুক বাজারে ছেড়েছে প্রযুক্তি জায়ান্ট অ্যাপল। মঙ্গলবার ...",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
+        "url": "https://www.bd-pratidin.com/country/2026/03/06/1224876",
+        "published_at": "2026-03-06T19:25:29+06:00",
+        "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি সহকারী অধ্যাপক আসমা সাদিয়া রুনা হত্যা মামলার প্রধান আসামি ফজলুর রহমানকে গ্রেফতার করেছে পুলিশ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803558-a992f07d19721dbf74df68c1ed4e7c56.jpg"
+      },
+      {
+        "headline": "লিগ্যাল এইডের মাধ্যমে আইনি সহায়তায় উপকারভোগী ১৩ লাখ ৯৭ হাজার ৫৩০ জন",
+        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224871",
+        "published_at": "2026-03-06T19:18:38+06:00",
+        "summary": "জাতীয় আইনগত সহায়তা সংস্থার (লিগ্যাল এইড) মাধ্যমে সরকারি খরচে আইনি সহায়তা পাওয়া উপকারভোগীর মোট সংখ্যা ১৩ লাখ ৯৭ হাজার ৫৩০ জন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772803117-d910c0bfa749cd12cea822ced3c1f8b7.jpg"
       },
       {
         "headline": "দুবাই থেকে বিশেষ ফ্লাইটে দেশে ফিরেছেন ৪০৫ যাত্রী",
@@ -18737,20 +18753,6 @@
         "published_at": "2026-03-04T16:22:36+06:00",
         "summary": "পুলিশের পোশাক পরিবর্তনের বিষয়ে স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ বলেছেন, এই বিষয়টি পরে। পোশাক পরিবর্তন করলেই মানসিক অবস্থার পরিবর্তন হবে। এই বিষয়ে আমরা পুলিশের উর্ধ্বতনদের সাথে পরে আলাপ-আলোচনা করে যথাযথ ব্যবস্থা নেব।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772619755-d8cc27d38b32341984f12e0ff7e298fa.jpg"
-      },
-      {
-        "headline": "হোমনায় ১৬ দিনেও ট্রিপল মার্ডার রহস্য উদঘাটন হয়নি, বিক্ষোভ",
-        "url": "https://www.bd-pratidin.com/country/2026/03/04/1224074",
-        "published_at": "2026-03-04T16:21:06+06:00",
-        "summary": "কুমিল্লার হোমনা উপজেলার ঘাড়মোড়া ইউনিয়নের উত্তর মনিপুর গ্রামে মা ও দুই শিশুকে গলা কেটে হত্যার ঘটনায় ১৬ দিন পেরিয়ে গেলেও এখনো রহস্য উদঘাটন হয়নি। এখনো কাউকে গ্রেফতার করতে পারেনি পুলিশ। খুনিদের দ্রুত গ্রেফতার ও দৃষ্টান্তমূলক শাস্তির দাবিতে বুধবার উত্তর মনিপুর বাজারে মানববন্ধন ও বিক্ষোভ মিছিল, সমাবেশ করেছে এলাকাবাসী।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772619665-3f48d9c3f5775103f37f3c48345c4b9c.jpg"
-      },
-      {
-        "headline": "জরুরি সংবাদ সম্মেলন ডেকেছে এনসিপি",
-        "url": "https://www.bd-pratidin.com/national/2026/03/04/1224066",
-        "published_at": "2026-03-04T15:56:54+06:00",
-        "summary": "জরুরি সংবাদ সম্মেলন ডেকেছে জাতীয় নাগরিক পার্টি (এনসিপি)।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/04/og/1772618213-ab117ce1124f5cbd2dccb2ef0ac18679.jpg"
       }
     ]
   }
