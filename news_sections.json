@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-03-06T21:28:10.059624+00:00",
+  "fetched_at": "2026-03-06T21:55:24.853954+00:00",
   "sections": {
     "latest": [
       {
         "headline": "উপসাগরীয় অঞ্চলের নেতাদের সঙ্গে সার্বক্ষণিক যোগাযোগ রাখছেন পুতিন",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-06T21:19:13.845000+00:00",
+        "published_at": "2026-03-06T21:49:52.288000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
+      },
+      {
+        "headline": "দেখতে একদম হলিউডের নায়কদের মতো",
+        "url": "https://www.prothomalo.com/entertainment/wtup33ppsm",
+        "published_at": "2026-03-06T21:30:00+00:00",
+        "summary": "মুক্তি পাচ্ছে আরিফিন শুভ অভিনীত সিরিজ ‘জ্যাজ সিটি’। ট্রেলার এরই মধ্যে মুক্তি পেয়েছে। এতে শুভকে দেখে অনেকে মুগ্ধ হয়েছেন। মুক্তির আগে এখন মুম্বাইয়ে ব্যস্ত সময় পার করছেন তিনি। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/if1jfoep/64709231814898608091733191507526784033976787n.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/if1jfoep/64709231814898608091733191507526784033976787n.jpg?auto=format,compress"
       },
       {
         "headline": "হাঁস জবাই করে পেটে মিলল সোনার টুকরা",
@@ -307,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-04/5qjfmbbb/046A6989.JPG?auto=format,compress"
       },
       {
-        "headline": "কুয়েতের মরুভূমিতে বাংলাদেশির মৃত্যু, পরিবারের দাবি ‘মাইন বিস্ফোরণ’",
-        "url": "https://www.prothomalo.com/bangladesh/district/bqexvbe8pm",
-        "published_at": "2026-03-06T14:57:08.680000+00:00",
-        "summary": "নিহত ব্যক্তির সহকর্মীদের বরাত দিয়ে পরিবার জানায়, কুয়েতের যে এলাকায় জাহেদের মৃত্যু হয়েছে, সেই এলাকায় অনেক অবিস্ফোরিত স্থলমাইন রয়েছে। সেখানে জাহেদ বুধবার বিকেলে উট চরাতে গিয়েছিলেন।",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/hi0rgg91/WhatsApp-Image-2026-03-06-at-8.52.28-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/hi0rgg91/WhatsApp-Image-2026-03-06-at-8.52.28-PM.jpeg?auto=format,compress"
-      },
-      {
         "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
         "published_at": "2026-03-07T00:32:22+06:00",
@@ -385,6 +385,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
       },
       {
+        "headline": "দেশে মজুত ডিজেল, পেট্রল ও অকটেন কতদিন চলবে?",
+        "url": "https://www.ittefaq.com.bd/778241/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%A4-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B2-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2-%E0%A6%93-%E0%A6%85%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%A4%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%9A%E0%A6%B2%E0%A6%AC%E0%A7%87",
+        "published_at": null,
+        "summary": "বাংলাদেশে বর্তমানে প্রায় সাড়ে ৩ লাখ টন ব্যবহারযোগ্য জ্বালানি তেলের মজুত রয়েছে। বাংলাদেশ পেট্রোলিয়াম করপোরেশন (বিপিসি) জানিয়েছে, পরিশোধিত জ্বালানিতে এই মুহূর্তে কোনো তাত্ক্ষণিক সংকট নেই, তবে অপরিশোধিত তেল আমদানিতে ব্যাঘাত ঘটার শঙ্কা রয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/889fe958171a7fcfa92978f0ed038f11-69ab44b77f3c9.jpg"
+      },
+      {
         "headline": "প্রতিবেশী আরব দেশগুলোতে হামলার জন্য দুঃখিত, লক্ষ্য মার্কিন সামরিক ঘাঁটি: ইরান",
         "url": "https://www.ittefaq.com.bd/778240/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A7%80-%E0%A6%86%E0%A6%B0%E0%A6%AC-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A6%E0%A7%81%E0%A6%83%E0%A6%96%E0%A6%BF%E0%A6%A4-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF",
         "published_at": null,
@@ -448,13 +455,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/2f9d3f758b91b82d02d0dbc70090f416-69ab11e9424ce.jpg"
       },
       {
-        "headline": "প্রযুক্তিনির্ভর স্বাস্থ্যসেবা প্ল্যাটফর্ম ‘অল সমাধান’-এর যাত্রা শুরু",
-        "url": "https://www.ittefaq.com.bd/778231/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E2%80%98%E0%A6%85%E0%A6%B2",
-        "published_at": null,
-        "summary": "প্রযুক্তিনির্ভর সমন্বিত ডিজিটাল স্বাস্থ্য ও জরুরি সেবা প্ল্যাটফর্ম ‘অল সমাধান’-এর আনুষ্ঠানিক উদ্বোধন হয়েছে। শুক্রবার রাজধানীর মিরপুরের একটি কনভেনশন হলে আয়োজিত অনুষ্ঠানের মাধ্যমে প্ল্যাটফর্মটির কার্যক্রম শুরু হয়।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/31f0d26efc02eff276c93f6e17ff66db-69ab10a71a8fe.jpeg"
-      },
-      {
         "headline": "ডেপুটি স্পিকার ঘিরে টানাপড়েনজুলাই সনদে অচলাবস্থা",
         "url": "https://dailynayadiganta.com/printed-edition/XSJ0S6OZc7gY/",
         "published_at": null,
@@ -462,18 +462,74 @@
         "image_url": "https://media.ndiganta.com/images/first-1_NC7bzAE.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "রাজধানীতে ট্রাকের ধাক্কায় মোটরসাইকেল আরোহী বাবা-মেয়ে নিহত",
+        "url": "https://dailynayadiganta.com/bangladesh/accidents/hMM7F3cNFO5n/",
+        "published_at": null,
+        "summary": "ঘটনাস্থলেই সাজু আহমেদের মৃত্যু হয় এবং গুরুতর আহত অবস্থায় সুমাইয়াকে ঢাকা মেডিক্যাল কলেজ হাসপাতালের জরুরি বিভাগে নিয়ে আসলে কর্তব্যরত চিকিৎসক  মৃত ঘোষণা করেন।",
+        "image_url": "https://media.ndiganta.com/original_images/accident-dhaka.jpg"
+      },
+      {
+        "headline": "নিষিদ্ধ ছাত্রলীগ কর্মীকে দেখতে  হাসপাতালে ছাত্রদল সভাপতি",
+        "url": "https://dailynayadiganta.com/printed-edition/1YhxCyKYD4fw/",
+        "published_at": null,
+        "summary": "জগন্নাথ বিশ্ববিদ্যালয় সাংবাদিক সমিতির (জবিসাস) সদস্যদের ওপর হামলা ও কক্ষ দখল চেষ্টার অভিযোগ উঠেছে একদল সাংবাদিকের বিরুদ্ধে, যাদের বিরুদ্ধে বিগত ৫ আগস্টের আগে ছাত্রলীগের রাজনীতির সাথে সম্পৃক্ত থাকার প্রমাণ রয়েছে। হামলার পর ‘অসুস্থতার নাটক’ সাজিয়ে হাসপাতালে ভর্তি হওয়া ওই অভিযুক্তদের দেখতে গিয়ে নতুন বিতর্কের জন্ম দিয়েছেন জাতীয়তাবাদী ছাত্রদলের কেন্দ্রীয় সভাপতি রাকিবুল ইসলাম রাকিব।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-6_fGUGX4f.jpg"
+      },
+      {
+        "headline": "আর্জেন্টিনার প্রতি বাণিজ্য  বৃদ্ধির আহ্বান জানালেন মামুনুল হক",
+        "url": "https://dailynayadiganta.com/printed-edition/AOl6VqRkc02B/",
+        "published_at": null,
+        "summary": "বাংলাদেশ ও আর্জেন্টিনার মধ্যে দ্বিপক্ষীয় বাণিজ্যিক সম্পর্ক এবং অর্থনৈতিক সহযোগিতা বৃদ্ধির আহ্বান জানিয়েছেন বাংলাদেশ খেলাফত মজলিসের আমির আল্লামা মামুনুল হক। বৃহস্পতিবার ঢাকাস্থ আর্জেন্টিনার রাষ্ট্রদূত মারসেলো সি. চেসার সাথে সৌজন্য সাক্ষাৎকালে তিনি এ আহ্বান জানান।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-5_LjcatWc.jpg"
+      },
+      {
+        "headline": "ঢাবি সাংবাদিক সমিতির ইফতারে এক ছাদের নিচে সব ছাত্রসংগঠন",
+        "url": "https://dailynayadiganta.com/printed-edition/UpE4dLNskgED/",
+        "published_at": null,
+        "summary": "ঢাকা বিশ্ববিদ্যালয়ে (ঢাবি) ক্রিয়াশীল বিভিন্ন রাজনৈতিক ছাত্রসংগঠনের শীর্ষ নেতারা এবং বিশ্ববিদ্যালয় প্রশাসন নিয়ে আলোচনা সভা ও ইফতার মাহফিল আয়োজন করেছে ঢাবি সাংবাদিক সমিতি (ডুজা)। এতে প্রায় ২০টি ছাত্রসংগঠনের কেন্দ্রীয় ও ঢাবি শাখার নেতারা এক ছাদের নিচে অংশ নেন। অনুষ্ঠানে ক্যাম্পাসে গণতান্ত্রিক সহাবস্থান, সুস্থ রাজনৈতিক চর্চা এবং সম্প্রীতির পরিবেশ জোরদারের আহ্বান জানানো হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-4_LLZ1Jon.jpg"
+      },
+      {
+        "headline": "মাসিক ফুলকুঁড়ির চার যুগে  পদার্পণ উপলক্ষে সাহিত্য সভা ও ইফতার মাহফিল অনুষ্ঠিত",
+        "url": "https://dailynayadiganta.com/printed-edition/uyM0QfIm9Dmh/",
+        "published_at": null,
+        "summary": "শিশু-কিশোর মাসিক ফুলকুঁড়ির চার যুগে তথা ৪৮তম বর্ষে পদার্পণ উপলক্ষে ৪১২তম সাহিত্য সভা ও ইফতার অনুষ্ঠান গত বুধবার বাংলাদেশ শিশু কল্যাণ পরিষদ মিলনায়তনে অনুষ্ঠিত হয়।  মাসিক ফুলকুঁড়ির সম্পাদক আহমদ মতিউর রহমানের সভাপতিত্বে অনুষ্ঠানে বিশেষ অতিথি থেকে বক্তব্য রাখেন- মাসিক ফুলকুঁড়ির সাবেক ব্যবস্থাপনা সম্পাদক এম এ কে শাহিন চৌধুরী, আবরারুল হক, হুমায়ুন কবীর ও সাইফুল ইসলাম, ফুলকুঁড়ির নির্বাহী সম্পাদক নাঈম আল ইসলাম মাহিন, ব্যবস্থাপনা সম্পাদক ও ফুলকুঁড়ি আসরের প্রধান পরিচালক মুজাহিদুল ইসলাম এবং  ফুলকুঁড়ির সহসম্পাদক ও ফুলকুঁড়ি আসরের সহকারী প্রধান পরিচালক আশরাফুল ইসলাম। ফুলকুঁড়ির  সহসম্পাদক আরিব মাহমুদের সঞ্চালনায় এতে উপস্থিত ছিলেন- ফুলকুঁড়ির সাবেক সহসম্পাদক ওয়াহিদ আল হাসান, জাকারিয়া নুরী ও হুসাইন দিলাওয়ার। আরো উপস্থিত ছিলেন- কবি সীমান্ত আকরাম, শাহাদাত সরকার, শাহজাহান মুহাম্মদ প্রমুখ।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-3_hnsN9us.jpg"
+      },
+      {
+        "headline": "চবি ভিসি ও প্রোভিসির  সাথে নবনির্বাচিত চবিসাস নেতৃবৃন্দের সাক্ষাৎ",
+        "url": "https://dailynayadiganta.com/printed-edition/UGkzg8SxNIuZ/",
+        "published_at": null,
+        "summary": "চট্টগ্রাম বিশ্ববিদ্যালয়ের চবি ভিসি প্রফেসর ড. মুহাম্মদ ইয়াহ্ইয়া আখতার ও প্রোভিসি (অ্যাকাডেমিক) প্রফেসর ড. মোহাম্মদ শামীম উদ্দিন খানের সাথে পৃথকভাবে সাক্ষাৎ করেছেন নবনির্বাচিত চট্টগ্রাম বিশ্ববিদ্যালয় সাংবাদিক সমিতির (চবিসাস) নেতৃবৃন্দ। বৃহস্পতিবার এ সাক্ষাৎ করেন তারা।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-2_kAOo2UQ.jpg"
+      },
+      {
+        "headline": "খামেনির শোক বইতে  স্বাক্ষর জামায়াতের",
+        "url": "https://dailynayadiganta.com/printed-edition/7s0PxAkOrJHs/",
+        "published_at": null,
+        "summary": "ইরানের সর্বোচ্চ ধর্মীয় নেতা শহীদ আয়াতুল্লাহ আলী খামেনির প্রতি সম্মান জানিয়ে ঢাকাস্থ ইরান অ্যাম্বাসিতে খোলা শোক বইতে স্বাক্ষর করেছেন বাংলাদেশ জামায়াতে ইসলামীর সেক্রেটারি জেনারেল সাবেক এমপি মিয়া গোলাম পরওয়ার। গতকাল শোক বইতে স্বাক্ষরের সময় তিনি বাংলাদেশ জামায়াতে ইসলামীর পক্ষ থেকে ইরানের সরকার ও জনগণের প্রতি গভীর সমবেদনা জ্ঞাপন করেন।",
+        "image_url": "https://media.ndiganta.com/original_images/3rd-1_DGuA6f7.jpg"
+      },
+      {
+        "headline": "দেশে প্রায় ২ কোটি মানুষ কিডনির সমস্যায় ভুগছে",
+        "url": "https://dailynayadiganta.com/printed-edition/Zjv2MnJ6CsmB/",
+        "published_at": null,
+        "summary": "দেশে কিডনি-মূত্রনালী সংক্রান্ত সমস্যায় আক্রান্তের হার দিন দিন বেড়ে চলেছে। বর্তমানে প্রায় দুই কোটি মানুষ কিডনির কোনো না কোনো সমস্যায় ভুগছেন। এই হার দেশের মোট জনসংখ্যার প্রায় ১০ শতাংশ অর্থাৎ প্রতি হাজারে প্রায় ১১০-১২০ জন। ইউরোলজিস্টরা বলছেন, প্রতি বছর প্রায় ৪০ থেকে ৫০ হাজার মানুষ কিডনি বিকল হয়ে মারা যাচ্ছেন। কিডনি প্রতিস্থাপন বা ডায়ালাইসিসের পর্যাপ্ত সুযোগ না থাকায় তাদের মৃত্যু হচ্ছে। কিডনি নষ্ট হওয়ার প্রধান কারণগুলোর অন্যতম হচ্ছে ডায়াবেটিস, উচ্চ রক্তচাপ, অনিয়ন্ত্রিত জীবনযাপন এবং সঠিক সময়ে চিকিৎসার আওতায় না আসা।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "আবারো নিলয়ের সাথে সুমাইয়া অর্পা",
+        "url": "https://dailynayadiganta.com/printed-edition/RI6yqOEPNiBy/",
+        "published_at": null,
+        "summary": "সুমাইয়া অর্পা, এই প্রজন্মের একজন দর্শকপ্রিয় অভিনেত্রী। ২০২২ সালে মিফতাহ আনানের পরিচালনায় ‘ঢাকাইয়া ওয়েডিং’ নাটকে অভিনয়ের মধ্য দিয়ে অর্পার যাত্রা শুরু হয়। এরপর একে একে তিনি বেশ কিছু দর্শকপ্রিয় নাটকে অভিনয় করেছেন। এই প্রজন্মের জনপ্রিয় অভিনেতা নিলয় আলমগীরের সাথে অর্পা প্রথম অভিনয় করেন মুহিন খানের পরিচালনায় ‘দুষ্টু শ্বশুর মিষ্টি জামাই’ নাটকে। এরপর আরো ১৫টিরও বেশি নাটকে তিনি নিলয় আলমগীরের সাথে অভিনয় করার সুযোগ পেয়েছেন। অর্পার ভাষ্যমতে, সবগুলোতেই তিনি নিলয়ের সাথে সেকেন্ড লিড ক্যারেক্টার করার সুযোগ পেয়েছেন। এরই মধ্যে বেশ কয়েক মাস যুক্তরাষ্ট্র থেকে স্ত্রী ও কন্যাকে নিয়ে দেশে ফিরেই আবারো নাটকে অভিনয়ে ব্যস্ত হয়ে উঠেছেন নিলয় আলমগীর। সুমাইয়া অর্পারও সৌভাগ্য হলো আবারো নিলয় আলমগীরের সাথে আগামী ঈদে প্রচারের জন্য নাটকে অভিনয় করার। নাটকের নাম ‘সিঙ্গেল ফাদার’। নাটকটি রচনা ও পরিচালনা করেছেন মুহিন খান। অর্পা জানান, নিলয়ের সাথে এই নাটকে একটি প্রেম প্রেম ভাবের সম্পর্ক গড়ে ওঠার গল্প দেখা যাবে। সুমাইয়া অর্পা বলেন, ‘নিলয় আলমগীর ভাই ভীষণ ভালো মনের একজন মানুষ। সেই সাথে তিনি একজন গুণী অভিনেতাও বটে। আমার অভিনয় জীবনের শুরু থেকেই বলা যায়, তার সাথে নাটকে অভিনয় করার সুযোগ হয়ে আসছে। তিনি অভিনয়ে সবসময়ই ভীষণ সহযোগিতাপরায়ণ। সিঙ্গেল ফাদার নাটকে তার সাথে অভিনয় করে খুব ভালো লাগল। ধন্যবাদ পরিচালক মুহিন ভাইকে আমাকে আবারো সুন্দর একটি গল্পে কাজ করার সুযোগ করে দেয়ার জন্য।’ ফরিদপুরের মেয়ে সুমাইয়া অর্পা ঢাকার একটি বেসরকারি বিশ^বিদ্যালয়ে বিবিএ তৃতীয় বর্ষে পড়ছেন। আগ্রহ রয়েছে ভালো গল্পের সিনেমাতে অভিনয় করেন। এই মুহূর্তে তার অভিনীত অরণ্য আনোয়ার পরিচালিত ‘নোয়াখালী এক্সপ্রেস’ ধারাবাহিক নাটকটি গ্লোবাল টিভিতে নিয়মিত প্রচার হচ্ছে। এরই মধ্যে আগামী ঈদে প্রচারের জন্য মুহিন খানের পরিচালনায় মোশাররফ করিমের সাথে ‘আমার সুন্দরী শালীরা’ নাটকে অভিনয় করেছেন। অর্পার বাবা মো: শাহেদ আলী ও মা খুরশীদা বেগম। দুই ভাই এক বোনের মধ্যে অর্পা মেঝো।",
+        "image_url": "https://media.ndiganta.com/original_images/bino-5_bxIZlxo.jpg"
+      },
+      {
         "headline": "তেজগাঁওয়ে মাদক নিয়ে দ্বন্দ্ব, কাঁচের আঘাতে কিশোর খুন",
         "url": "https://dailynayadiganta.com/bangladesh/crime/tmKFTk6DnBh1/",
         "published_at": null,
         "summary": "শুক্রবার (৬ মার্চ) রাত সাড়ে ৮টার দিকে এ ঘটনাটি ঘটে। পরে গুরুতর আহত অবস্থায় মইজুলকে ঢাকা মেডিক্যাল কলেজ হাসপাতালে নিয়ে আসা হলে রাত সাড়ে ১০টার দিকে কর্তব্যরত চিকিৎসক তাকে মৃত ঘোষণা করেন।",
         "image_url": "https://media.ndiganta.com/original_images/Dhaka_Medical_College_Hospital.jpg"
-      },
-      {
-        "headline": "নতুন আইফোন, আইপ্যাড এয়ার ও ম্যাকবুক আনল অ্যাপল",
-        "url": "https://dailynayadiganta.com/printed-edition/nLwMbBh8UVB1/",
-        "published_at": null,
-        "summary": "আইফোন ১৭ সিরিজের নতুন সংস্করণ ‘আইফোন ১৭-ই’ উন্মোচন করেছে অ্যাপল। একই সাথে এম-৪ চিপসহ হালনাগাদ আইপ্যাড এয়ারও ঘোষণা করেছে প্রতিষ্ঠানটি। আইফোন-১৭-ইর মূল্য নির্ধারণ করা হয়েছে ৫৯৯ মার্কিন ডলার। একই সিরিজের আইফোন-১৭-এর দাম শুরু ৭৯৯ ডলার থেকে। ফলে তুলনামূলক কম দামের এই সংস্করণ দিয়ে মিড রেঞ্জের বাজারে আরো প্রতিযোগিতামূলক অবস্থান নিতে চাইছে অ্যাপল। এ দামের পরিসরে মূল্যসংবেদনশীল বাজারগুলোতে স্যামসাং, গুগলসহ বিভিন্ন চীনা নির্মাতার স্মার্টফোনের সাথে সরাসরি প্রতিদ্বন্দ্বিতা করতে হবে প্রতিষ্ঠানটিকে।",
-        "image_url": "https://media.ndiganta.com/original_images/pro-1_iKd2zkv.jpg"
       },
       {
         "headline": "সোনাতলায় বিএনপির  ইফতার ও দোয়া মাহফিল",
@@ -497,25 +553,11 @@
         "image_url": "https://media.ndiganta.com/original_images/Barguna_a4rF4mc.jpg"
       },
       {
-        "headline": "সেরা খেলোয়াড়ের তালিকা দিয়েছে আইসিসি, কে হবেন সেরাদের সেরা",
-        "url": "https://dailynayadiganta.com/sports/cricket/BGY0nWP5oz9g/",
-        "published_at": null,
-        "summary": "একদিকে যখন শিরোপার লড়াই, অন্যদিকে তখন প্রশ্ন উঠেছে, আসর সেরার পুরস্কার উঠবে কার হাতে? যার সরাসরি উত্তর দেয়নি অবশ্য আইসিসি, রহস্য রেখে জানিয়েছে বেশ কিছু নাম।",
-        "image_url": "https://media.ndiganta.com/original_images/645733471_1308404044453620_4782438749396441554_n.jpg"
-      },
-      {
         "headline": "লালপুরে জ্বালানি তেল ও গ্যাসের বাজার তদারকি",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/XMcRjzQ3ni8A/",
         "published_at": null,
         "summary": "নাটোরের লালপুরে জ্বালানি তেল ও গ্যাস ভোক্তা ও ক্রেতা সাধারণের নিকট ন্যায্যমূল্যে সরবরাহের জন্য বাজার তদারকি জোরদার করেছে উপজেলা প্রশাসন।",
         "image_url": "https://media.ndiganta.com/original_images/LALPUR.jpg"
-      },
-      {
-        "headline": "বিশ্বকাপ ফাইনাল পরিচালনার দায়িত্বে দুই ইংলিশ আম্পায়ার",
-        "url": "https://dailynayadiganta.com/sports/cricket/oJoWtzqyu6wo/",
-        "published_at": null,
-        "summary": "ফাইনাল ম্যাচকে সামনে রেখে শুক্রবার (৬ মার্চ) ম্যাচ অফিসিয়ালদের নাম প্রকাশ করেছে আইসিসি। যেখানে অলফিল্ড আম্পায়ারের দায়িত্বপালন করবেন দুই ইংলিশম্যান।",
-        "image_url": "https://media.ndiganta.com/original_images/Ampear.jpg"
       },
       {
         "headline": "বন্ধ হয়ে যেতে পারে শাহজালাল সার কারখানার উৎপাদন",
@@ -539,17 +581,10 @@
         "image_url": "https://media.ndiganta.com/original_images/Kurigram-Arrest_WEphGQo.jpg"
       },
       {
-        "headline": "মাধবদীতে গণধর্ষণের অভিযোগে থানায় মামলা, গ্রেফতার ১",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/ybbiLmaSXOlc/",
-        "published_at": null,
-        "summary": "মামলা দায়েরের পরই তথ্য প্রযুক্তি ব্যবহার করে অভিযুক্ত হৃদয় মিয়াকে গ্রেফতার করতে সক্ষম হয় পুলিশ। বাকি আসামিদেরও গ্রেফতারে অভিযান অব্যহত রয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Narsingdi-Rape-Accused.jpg"
-      },
-      {
         "headline": "আজকের সর্বশেষ খবর - March 07, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "দৈনিক যুগান্তরের মালয়েশিয়া প্রতিনিধি আহমাদুল কবির ও জগদল আলফারুক উচ্চ বিদ্যালয়ের এডহক কমিটির সভাপতি শেখ ...",
+        "summary": "আফরা ইভনাথ খান ইকরার আত্মহত্যার আলোচনার মধ্যেই সামাজিক যোগাযোগমাধ্যমে এক পোস্টে বিস্ফোরক দাবি করেছেন ইকরার ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -558,6 +593,49 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "কুয়েতের মরুভূমিতে বাংলাদেশির মৃত্যু, পরিবারের দাবি ‘মাইন বিস্ফোরণ’",
+        "url": "https://www.prothomalo.com/bangladesh/district/bqexvbe8pm",
+        "published_at": "2026-03-06T14:57:08.680000+00:00",
+        "summary": "নিহত ব্যক্তির সহকর্মীদের বরাত দিয়ে পরিবার জানায়, কুয়েতের যে এলাকায় জাহেদের মৃত্যু হয়েছে, সেই এলাকায় অনেক অবিস্ফোরিত স্থলমাইন রয়েছে। সেখানে জাহেদ বুধবার বিকেলে উট চরাতে গিয়েছিলেন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/hi0rgg91/WhatsApp-Image-2026-03-06-at-8.52.28-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/hi0rgg91/WhatsApp-Image-2026-03-06-at-8.52.28-PM.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "প্রযুক্তিনির্ভর স্বাস্থ্যসেবা প্ল্যাটফর্ম ‘অল সমাধান’-এর যাত্রা শুরু",
+        "url": "https://www.ittefaq.com.bd/778231/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E2%80%98%E0%A6%85%E0%A6%B2",
+        "published_at": null,
+        "summary": "প্রযুক্তিনির্ভর সমন্বিত ডিজিটাল স্বাস্থ্য ও জরুরি সেবা প্ল্যাটফর্ম ‘অল সমাধান’-এর আনুষ্ঠানিক উদ্বোধন হয়েছে। শুক্রবার রাজধানীর মিরপুরের একটি কনভেনশন হলে আয়োজিত অনুষ্ঠানের মাধ্যমে প্ল্যাটফর্মটির কার্যক্রম শুরু হয়।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/31f0d26efc02eff276c93f6e17ff66db-69ab10a71a8fe.jpeg"
+      },
+      {
+        "headline": "নতুন আইফোন, আইপ্যাড এয়ার ও ম্যাকবুক আনল অ্যাপল",
+        "url": "https://dailynayadiganta.com/printed-edition/nLwMbBh8UVB1/",
+        "published_at": null,
+        "summary": "আইফোন ১৭ সিরিজের নতুন সংস্করণ ‘আইফোন ১৭-ই’ উন্মোচন করেছে অ্যাপল। একই সাথে এম-৪ চিপসহ হালনাগাদ আইপ্যাড এয়ারও ঘোষণা করেছে প্রতিষ্ঠানটি। আইফোন-১৭-ইর মূল্য নির্ধারণ করা হয়েছে ৫৯৯ মার্কিন ডলার। একই সিরিজের আইফোন-১৭-এর দাম শুরু ৭৯৯ ডলার থেকে। ফলে তুলনামূলক কম দামের এই সংস্করণ দিয়ে মিড রেঞ্জের বাজারে আরো প্রতিযোগিতামূলক অবস্থান নিতে চাইছে অ্যাপল। এ দামের পরিসরে মূল্যসংবেদনশীল বাজারগুলোতে স্যামসাং, গুগলসহ বিভিন্ন চীনা নির্মাতার স্মার্টফোনের সাথে সরাসরি প্রতিদ্বন্দ্বিতা করতে হবে প্রতিষ্ঠানটিকে।",
+        "image_url": "https://media.ndiganta.com/original_images/pro-1_iKd2zkv.jpg"
+      },
+      {
+        "headline": "সেরা খেলোয়াড়ের তালিকা দিয়েছে আইসিসি, কে হবেন সেরাদের সেরা",
+        "url": "https://dailynayadiganta.com/sports/cricket/BGY0nWP5oz9g/",
+        "published_at": null,
+        "summary": "একদিকে যখন শিরোপার লড়াই, অন্যদিকে তখন প্রশ্ন উঠেছে, আসর সেরার পুরস্কার উঠবে কার হাতে? যার সরাসরি উত্তর দেয়নি অবশ্য আইসিসি, রহস্য রেখে জানিয়েছে বেশ কিছু নাম।",
+        "image_url": "https://media.ndiganta.com/original_images/645733471_1308404044453620_4782438749396441554_n.jpg"
+      },
+      {
+        "headline": "বিশ্বকাপ ফাইনাল পরিচালনার দায়িত্বে দুই ইংলিশ আম্পায়ার",
+        "url": "https://dailynayadiganta.com/sports/cricket/oJoWtzqyu6wo/",
+        "published_at": null,
+        "summary": "ফাইনাল ম্যাচকে সামনে রেখে শুক্রবার (৬ মার্চ) ম্যাচ অফিসিয়ালদের নাম প্রকাশ করেছে আইসিসি। যেখানে অলফিল্ড আম্পায়ারের দায়িত্বপালন করবেন দুই ইংলিশম্যান।",
+        "image_url": "https://media.ndiganta.com/original_images/Ampear.jpg"
+      },
+      {
+        "headline": "মাধবদীতে গণধর্ষণের অভিযোগে থানায় মামলা, গ্রেফতার ১",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/ybbiLmaSXOlc/",
+        "published_at": null,
+        "summary": "মামলা দায়েরের পরই তথ্য প্রযুক্তি ব্যবহার করে অভিযুক্ত হৃদয় মিয়াকে গ্রেফতার করতে সক্ষম হয় পুলিশ। বাকি আসামিদেরও গ্রেফতারে অভিযান অব্যহত রয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/Narsingdi-Rape-Accused.jpg"
       },
       {
         "headline": "হরমুজ প্রণালীতে জাহাজ চলাচল নিয়ে ইরানের সঙ্গে চীনের আলোচনা",
@@ -1407,84 +1485,6 @@
         "published_at": null,
         "summary": "শুক্রবার (৬ মার্চ) বিকেলে শহরের ঐতিহ্যবাহী মেছুয়া বাজার ঘুরে দেখা গেছে, বাজারে পর্যাপ্ত মুরগি থাকা সত্ত্বেও বিক্রেতারা বাড়তি দামে বিক্রি করছেন। এ অবস্থায় ক্ষোভ প্রকাশ করেছেন সাধারণ ক্রেতারা।",
         "image_url": "https://media.ndiganta.com/original_images/Broiler-6-3.jpg"
-      },
-      {
-        "headline": "রাজধানীতে খণ্ডিত লাশ উদ্ধার : শাহীন আলমের দায় স্বীকার",
-        "url": "https://dailynayadiganta.com/bangladesh/law-and-justice/IpMeE4Ia6eHF/",
-        "published_at": null,
-        "summary": "আবেদনের পরিপ্রেক্ষিতে ঢাকার মেট্রোপলিটন ম্যাজিস্ট্রেট আমিনুল ইসলাম জুনায়েদ তার জবানবন্দি রেকর্ড করেন। জবানবন্দি রেকর্ড শেষে তাকে কারাগারে পাঠানোর আদেশ দেন আদালত।",
-        "image_url": "https://media.ndiganta.com/original_images/Court_glis0nC.jpg"
-      },
-      {
-        "headline": "জ্বালানি তেল পাচার রোধে যশোরে  সতর্ক বিজিবি",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/PxYcKcfqd317/",
-        "published_at": null,
-        "summary": "মধ্যপ্রাচ্যে অস্থিরতার কারণে আন্তর্জাতিক বাজারে জ্বালানি তেলের সঙ্কট ও মূল্য বৃদ্ধি পেয়েছে। এই সুযোগে এক চোরাকারবারিরা বাংলাদেশ থেকে ভারতে জ্বালানি তেল পাচারের চেষ্টা চালাচ্ছে। বেশি মুনাফার আশায় তারা এটি করছে বলে সূত্র জানিয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/BGB-6-3.jpg"
-      },
-      {
-        "headline": "বঙ্গোপসাগরে কোস্ট গার্ডের অভিযানে ৩৭ জেলে আটক",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/e8yP6BxZm9Mu/",
-        "published_at": null,
-        "summary": "গোপন সংবাদের ভিত্তিতে গত ৪ মার্চ দুপুরে কোস্ট গার্ড জাহাজ সোনার বাংলা মোংলা ফেয়ারওয়ে বয় থেকে ২০ নটিক্যাল মাইল দক্ষিণ পশ্চিম গভীর সমুদ্র এলাকায় অভিযান চালিয়ে তিনটি অবৈধ আর্টিসানাল ট্রলিং বোট জব্দ করে।",
-        "image_url": "https://media.ndiganta.com/original_images/coast-guard_0W350Bj.jpg"
-      },
-      {
-        "headline": "জুলাই সনদ নিয়ে টালবাহানা মেনে নেয়া হবে না : অধ্যাপক ফজলুল করীম",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/mekKUpQhKRVb/",
-        "published_at": null,
-        "summary": "শুক্রবার (৬ মার্চ) মুন্সীগঞ্জের টংগিবাড়ী উপজেলার বালিগাঁও ইউনিয়নে বাংলাদেশ জামায়াতে ইসলামীর উদ্যোগে আয়োজিত মাহফিলে প্রধান অতিথির বক্তব্যে তিনি এ কথা বলেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Fazlul-Karim_KBeGRoy.jpg"
-      },
-      {
-        "headline": "প্রস্তুতি ম্যাচের জন্য অল স্টার্স দল ঘোষণা বিসিবির",
-        "url": "https://dailynayadiganta.com/sports/cricket/WeFfNNkCvfh2/",
-        "published_at": null,
-        "summary": "আর সবকিছু ঠিক থাকলে ১১ মার্চ প্রথম ওয়ানডেতে মাঠে নামবে দুই দল। সিরিজের বাকি দুই ম্যাচ হবে ১৩ ও ১৫ মার্চ। সবগুলো  ম্যাচই হবে মিরপুর শের-ই-বাংলায়।",
-        "image_url": "https://media.ndiganta.com/original_images/BCB_announces_All-Stars_squad_for_warm-up_matches.png"
-      },
-      {
-        "headline": "সাবেক দুই উপদেষ্টাকে জিজ্ঞাসাবাদের দাবিতে জামায়াতের বিক্ষোভ",
-        "url": "https://dailynayadiganta.com/bangladesh/politics/3vWvOoEneoQU/",
-        "published_at": null,
-        "summary": "‘ইলেকশন ইঞ্জিনিয়ারিং করে জনগণের রায় পাল্টে দেয়ার অভিযোগের তদন্তের জন্য সাবেক উপদেষ্টা সৈয়দা রেজওয়ানা হাসান ও ড. খলিলুর রহমানকে জিজ্ঞাসাবাদের দাবি’ লেখা দেখা যায় জামায়াতের বিক্ষোভের ব্যানারে, যা দলটির ভেরিফাইড ফেসবুক ও ইউটিউব পেজে শেয়ার করা হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Jamaat_d7ciJKR.jpg"
-      },
-      {
-        "headline": "যশোরে ছেলেকে কুপিয়ে জখম করলেন বাবা",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/O8n5cM9Ye6vK/",
-        "published_at": null,
-        "summary": "আহত রানা ওই গ্রামের জয়নাল আবেদিনের ছেলে। বর্তমানে তিনি যশোর ২৫০ শয্যা বিশিষ্ট জেনারেল হাসপাতালে চিকিৎসাধীন।",
-        "image_url": "https://media.ndiganta.com/original_images/Jashore-pic.jpg"
-      },
-      {
-        "headline": "২০০ টাকায় মাঠে বসে দেখা যাবে বাংলাদেশ-পাকিস্তান ম্যাচ",
-        "url": "https://dailynayadiganta.com/sports/cricket/1td1s6b7DXb1/",
-        "published_at": null,
-        "summary": "১২০০ টাকা মূল্যে মিলবে ইন্টারন্যাশনাল লাউঞ্জের টিকিটের। আর সর্বোচ্চ ২ হাজার টাকা খসাতে হবে গ্র্যান্ড আপার ও লোয়ার স্ট্যান্ডে বসে খেলা দেখতে।",
-        "image_url": "https://media.ndiganta.com/original_images/You-can-watch-the-Bangladesh-Pakistan-match-sitting-in-the-field-for-200-t.jpg"
-      },
-      {
-        "headline": "শাহরাস্তিতে জামায়াতের ইফতার মাহফিল",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/Vp1Ph69jytc1/",
-        "published_at": null,
-        "summary": "চাঁদপুরের শাহরাস্তি উপজেলার টামটা উত্তর ইউনিয়নে বাংলাদেশ জামায়াতে ইসলামীর উদ্যোগে এক ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Shahrasti-Chadpur.jpg"
-      },
-      {
-        "headline": "জাতিসঙ্ঘে বাংলাদেশের প্রার্থীর পক্ষে সমর্থন চাইলেন প্রধানমন্ত্রী",
-        "url": "https://dailynayadiganta.com/bangladesh/diplomacy/GSulyllc8ZDL/",
-        "published_at": null,
-        "summary": "শুক্রবার রাষ্ট্রীয় অতিথি ভবন যমুনায় কূটনীতিকদের সম্মানে আয়োজিত এক ইফতার মাহফিলে তিনি এ আহ্বান জানান।",
-        "image_url": "https://media.ndiganta.com/original_images/bnp-iftar-1.jpg"
-      },
-      {
-        "headline": "কাতারে ‘ফিনালিসিমা’ আয়োজনের পরিকল্পনা থেকে সরেনি উয়েফা",
-        "url": "https://www.prothomalo.com/sports/football/dfh2mm4j0i",
-        "published_at": "2026-03-06T11:40:25.369000+00:00",
-        "summary": "উয়েফার সঙ্গে কাতারের সম্পর্ক বেশ ঘনিষ্ঠ। কাতারের মালিকানাধীন ক্লাব পিএসজির সভাপতি নাসের আল খেলাইফি উয়েফার নির্বাহী কমিটির সদস্য। ",
-        "image_s3_key": "prothomalo-bangla/2025-09-30/4kmox9nh/uefa.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-09-30/4kmox9nh/uefa.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -1879,6 +1879,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
       },
       {
+        "headline": "দেশে মজুত ডিজেল, পেট্রল ও অকটেন কতদিন চলবে?",
+        "url": "https://www.ittefaq.com.bd/778241/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%A4-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B2-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2-%E0%A6%93-%E0%A6%85%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%A4%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%9A%E0%A6%B2%E0%A6%AC%E0%A7%87",
+        "published_at": null,
+        "summary": "বাংলাদেশে বর্তমানে প্রায় সাড়ে ৩ লাখ টন ব্যবহারযোগ্য জ্বালানি তেলের মজুত রয়েছে। বাংলাদেশ পেট্রোলিয়াম করপোরেশন (বিপিসি) জানিয়েছে, পরিশোধিত জ্বালানিতে এই মুহূর্তে কোনো তাত্ক্ষণিক সংকট নেই, তবে অপরিশোধিত তেল আমদানিতে ব্যাঘাত ঘটার শঙ্কা রয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/889fe958171a7fcfa92978f0ed038f11-69ab44b77f3c9.jpg"
+      },
+      {
         "headline": "কাজে অবহেলার কারণে বিপিসির দুই পরিচালককে ‘ওএসডি’",
         "url": "https://www.ittefaq.com.bd/778238/%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%95%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%93%E0%A6%8F%E0%A6%B8%E0%A6%A1%E0%A6%BF%E2%80%99",
         "published_at": null,
@@ -1940,13 +1947,6 @@
         "published_at": null,
         "summary": "জাতিসংঘ সাধারণ পরিষদের ৮১তম অধিবেশনের সভাপতি পদে বাংলাদেশের প্রার্থী পররাষ্ট্রমন্ত্রী ড. খলিলুর রহমানকে সমর্থন দেওয়ার জন্য ঢাকায় নিযুক্ত কূটনীতিকদের প্রতি আহ্বান জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/8772592508db0747dc09da7a202fe567-69aad0a3c9e31.jpg"
-      },
-      {
-        "headline": "যানবাহনে জ্বালানি তেল নেওয়ার সীমা বেঁধে দিলো সরকার",
-        "url": "https://www.ittefaq.com.bd/778187/%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A7%87%E0%A6%B2-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A7%87%E0%A6%81%E0%A6%A7%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0",
-        "published_at": null,
-        "summary": "মধ‍্যপ্রাচ‍্য চলমান যুদ্ধের কারণে বৈশ্বিকভাবে জ্বালানি তেলের সরবরাহ কমে গেছে। এতে দেশেও জ্বালানি তেলের সংকট তৈরির আশঙ্কা তৈরি হয়েছে। মানুষ আতঙ্কিত হয়ে ফিলিং স্টেশনে ভিড় করছে এবং প্রয়োজনের চেয়ে বেশি তেল কিনছেন। এজন্য ফিলিং স্টেশন থেকে তেল সরবরাহের সীমা বেঁধে দিয়েছে বাংলাদেশ পেট্রোলিয়াম করপোরেশন (বিপিসি)।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/068cdb4bc38557951b7a4bbd1105c874-69aac14ec1e80.jpg"
       },
       {
         "headline": "গাঁজা সেবন দেখে ফেলায় হত্যা করা হয় মাদ্রাসার ছাত্রকে",
@@ -2227,6 +2227,13 @@
         "published_at": "1772806658",
         "summary": "মাদারীপুর-২ আসনের সংসদ সদস্য জাহান্দার আলী মিয়া বলেন, মাদারীপুর ও রাজৈর এলাকায় কিশোর গ্যাং, মাদক, চাঁদাবাজ ও ভূমিদস্যুদের কোনো স্থান হবে না। এসব অপশক্তিকে সম্মিলিতভাবে প্রতিহত করা হবে এবং তাদের বিরুদ্ধে কঠোর আইনগত ব্যবস্থা গ্রহণ করা হবে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-45-20260306141738.jpg"
+      },
+      {
+        "headline": "যানবাহনে জ্বালানি তেল নেওয়ার সীমা বেঁধে দিলো সরকার",
+        "url": "https://www.ittefaq.com.bd/778187/%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%E0%A7%87-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A4%E0%A7%87%E0%A6%B2-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE-%E0%A6%AC%E0%A7%87%E0%A6%81%E0%A6%A7%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "মধ‍্যপ্রাচ‍্য চলমান যুদ্ধের কারণে বৈশ্বিকভাবে জ্বালানি তেলের সরবরাহ কমে গেছে। এতে দেশেও জ্বালানি তেলের সংকট তৈরির আশঙ্কা তৈরি হয়েছে। মানুষ আতঙ্কিত হয়ে ফিলিং স্টেশনে ভিড় করছে এবং প্রয়োজনের চেয়ে বেশি তেল কিনছেন। এজন্য ফিলিং স্টেশন থেকে তেল সরবরাহের সীমা বেঁধে দিয়েছে বাংলাদেশ পেট্রোলিয়াম করপোরেশন (বিপিসি)।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/068cdb4bc38557951b7a4bbd1105c874-69aac14ec1e80.jpg"
       },
       {
         "headline": "সংসদ অধিবেশনে রাষ্ট্রপতির ভাষণ দেওয়ার বিধান আছে: স্বরাষ্ট্রমন্ত্রী",
@@ -2957,13 +2964,6 @@
         "published_at": "2026-03-06T14:04:33+06:00",
         "summary": "মধ্যপ্রাচ্যে ক্ষেপণাস্ত্র হামলার অনিশ্চয়তা এখনো পুরোপুরি কাটেনি। তবু পরিস্থিতির মধ্যে ধীরে ধীরে আকাশপথ চালু করার চেষ্টা করছে উপসাগরীয় বড় বিমান সংস্থাগুলো। এই পরিস্থিতিতেই সংযুক্ত আরব আমিরাতের দুটি প্রধান এয়ারলাইনস এমিরেটস, ইতিহাদ এয়ারওয়েজ সীমিত পরিসরে আন্তর্জাতিক ফ্লাইট চালুর ঘোষণা দিয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772784272-71941de594ae23656f89211d3ed50a25.jpg"
-      },
-      {
-        "headline": "যুদ্ধের মাঝেই বড় প্রশ্ন, ইরান আর যুক্তরাষ্ট্রের অস্ত্র কতদিন চলবে?",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/06/1224776",
-        "published_at": "2026-03-06T13:53:51+06:00",
-        "summary": "ইরান, যুক্তরাষ্ট্র, ইসরায়েলের মধ্যে চলমান সংঘাত যত দীর্ঘ হচ্ছে, ততই সামনে আসছে একটি গুরুত্বপূর্ণ প্রশ্ন। দুই পক্ষের অস্ত্রভাণ্ডার কি ধীরে ধীরে কমে আসছে। যুদ্ধের ফল শুধু অস্ত্রের সংখ্যার ওপর নির্ভর করে না ঠিকই, তবে অস্ত্রের মজুত এবং সরবরাহ যে বড় একটি বিষয়, তা নিয়ে এখন আলোচনা বাড়ছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772783630-54ed7c359203e6737c959d47c69310eb.jpg"
       }
     ],
     "politics": [
@@ -3195,7 +3195,7 @@
         "headline": "বাংলাদেশ জামায়াতে ইসলামী",
         "url": "https://www.jugantor.com/jamaat",
         "published_at": null,
-        "summary": "বাংলাদেশ ইসলামী ছাত্রশিবিরের উদ্যোগে বিভিন্ন রাজনৈতিক, সামাজিক ও সাংস্কৃতিক অঙ্গনের বিশিষ্ট ব্যক্তিদের সম্মানে ইফতার মাহফিল অনুষ্ঠিত হয়েছে। ...",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে মাত্র ৫৯৪ ভোটের ব্যবধানে সিরাজগঞ্জ-৪ আসনে সংসদ-সদস্য নির্বাচিত হয়েছেন জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল মো. রফিকুল ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
       },
       {
@@ -4372,7 +4372,7 @@
       {
         "headline": "উপসাগরীয় অঞ্চলের নেতাদের সঙ্গে সার্বক্ষণিক যোগাযোগ রাখছেন পুতিন",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-06T21:19:13.845000+00:00",
+        "published_at": "2026-03-06T21:49:52.288000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
@@ -8824,6 +8824,14 @@
     ],
     "entertainment": [
       {
+        "headline": "দেখতে একদম হলিউডের নায়কদের মতো",
+        "url": "https://www.prothomalo.com/entertainment/wtup33ppsm",
+        "published_at": "2026-03-06T21:30:00+00:00",
+        "summary": "মুক্তি পাচ্ছে আরিফিন শুভ অভিনীত সিরিজ ‘জ্যাজ সিটি’। ট্রেলার এরই মধ্যে মুক্তি পেয়েছে। এতে শুভকে দেখে অনেকে মুগ্ধ হয়েছেন। মুক্তির আগে এখন মুম্বাইয়ে ব্যস্ত সময় পার করছেন তিনি। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/if1jfoep/64709231814898608091733191507526784033976787n.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/if1jfoep/64709231814898608091733191507526784033976787n.jpg?auto=format,compress"
+      },
+      {
         "headline": "নিজেকে ধরে রাখাই বড় চ্যালেঞ্জ",
         "url": "https://www.prothomalo.com/entertainment/bollywood/4hzmokr8lm",
         "published_at": "2026-03-06T17:15:00+00:00",
@@ -9136,14 +9144,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-09-02/agnpv2wr/fadbbee5-1f23-44a4-b598-5992a0be482a.jpg?auto=format,compress"
       },
       {
-        "headline": "দুবাই থেকে ফিরে ভয়ংকর অভিজ্ঞতার কথা জানালেন নায়িকা",
-        "url": "https://www.prothomalo.com/entertainment/bollywood/8ml5429np6",
-        "published_at": "2026-03-04T06:00:00+00:00",
-        "summary": "যুক্তরাষ্ট্র–ইরান উত্তেজনার জেরে উপসাগরীয় অঞ্চলে যখন অনিশ্চয়তা ও উদ্বেগ ছড়িয়ে পড়ে, সে সময় সংযুক্ত আরব আমিরাতে আটকে পড়েছিলেন বলিউড অভিনেত্রী এশা গুপ্তা। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-03/aj3yawv3/egupta17598234603737992572602690885567128165.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-03/aj3yawv3/egupta17598234603737992572602690885567128165.jpg?auto=format,compress"
-      },
-      {
         "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
         "published_at": "2026-03-07T00:32:22+06:00",
@@ -9422,6 +9422,14 @@
         "published_at": "1772116464",
         "summary": "দীর্ঘ আট বছরের প্রেমের সম্পর্কের অবসান ঘটিয়ে অবশেষে পরিণয়ে আবদ্ধ হলেন ভারতীয় সিনেমার জনপ্রিয় দুই তারকা বিজয় দেবরকোণ্ডা ও রাশমিকা মান্দানা।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-28-20260226143424.jpg"
+      },
+      {
+        "headline": "দুবাই থেকে ফিরে ভয়ংকর অভিজ্ঞতার কথা জানালেন নায়িকা",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/8ml5429np6",
+        "published_at": "2026-03-04T06:00:00+00:00",
+        "summary": "যুক্তরাষ্ট্র–ইরান উত্তেজনার জেরে উপসাগরীয় অঞ্চলে যখন অনিশ্চয়তা ও উদ্বেগ ছড়িয়ে পড়ে, সে সময় সংযুক্ত আরব আমিরাতে আটকে পড়েছিলেন বলিউড অভিনেত্রী এশা গুপ্তা। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-03/aj3yawv3/egupta17598234603737992572602690885567128165.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-03/aj3yawv3/egupta17598234603737992572602690885567128165.jpg?auto=format,compress"
       },
       {
         "headline": "ইবি শিক্ষিকা হত্যা মামলায় প্রধান আসামি ফজলুর গ্রেফতার",
@@ -10277,13 +10285,6 @@
         "published_at": "2026-03-05T15:59:25+06:00",
         "summary": "শীতকালে ঠোঁট ফাটে সঠিক পরিচর্চার অভাবে, এ কথা কমবেশি সবারই জানা। কিন্তু শীত চলে যাবার পর গরমের মধ্যেও ঠোঁট ফাটা নিয়ে বিভ্রান্তিতে আছেন কেউ কেউ। শুধু ঠোঁট ফাটছে না, কারও কারও চামড়াও উঠছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/05/og/1772704764-3dabd2b705eed6fd729b5f5f54662388.jpg"
-      },
-      {
-        "headline": "কলাপাড়ায় ইউনিয়ন যুবদলের নেতাকে বহিষ্কার",
-        "url": "https://www.bd-pratidin.com/country/2026/03/05/1224441",
-        "published_at": "2026-03-05T15:46:57+06:00",
-        "summary": "পটুয়াখালীর কলাপাড়া উপজেলা নীলগঞ্জ ইউনিয়ন যুবদলের সাধারণ সম্পাদক জহিরুল ইসলামকে দল থেকে বহিষ্কার করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/05/og/1772704016-6e4cc36a054296c1c1991c207e83cd7c.jpg"
       }
     ],
     "jobs": [
