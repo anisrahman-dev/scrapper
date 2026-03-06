@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-03-06T19:33:32.783280+00:00",
+  "fetched_at": "2026-03-06T20:00:49.194344+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "বিশ্ববাজারে তেলের দাম প্রতি ব্যারেল ৯০ ডলার ছাড়িয়েছে",
+        "url": "https://www.prothomalo.com/world/middle-east/qmi6trn6is",
+        "published_at": "2026-03-06T19:52:09.419000+00:00",
+        "summary": "গত ২৮ ফেব্রুয়ারি ইরানের ওপর যুক্তরাষ্ট্র ও ইসরায়েলের হামলার পর থেকে আন্তর্জাতিক বাজারে তেলের দাম ২৫ শতাংশের বেশি বেড়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-01/lnvca1bh/oil.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/lnvca1bh/oil.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ইসরায়েল লক্ষ্য করে নতুন করে হামলা চালিয়েছে ইরান",
+        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+        "published_at": "2026-03-06T19:45:01.560000+00:00",
+        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
+      },
       {
         "headline": "রাজধানীতে রাতে সড়ক দুর্ঘটনায় \nচারজন নিহত",
         "url": "https://www.prothomalo.com/bangladesh/capital/jc4zm0kfq0",
@@ -9,14 +25,6 @@
         "summary": "রাজধানীর সায়েন্সল্যাব ও তেজগাঁও শিল্পাঞ্চল এলাকায় পৃথক সড়ক দুর্ঘটনায় মোটরসাইকেল আরোহী বাবা-মেয়ে এবং অটোরিকশার চালকসহ চারজন নিহত হয়েছেন।",
         "image_s3_key": "prothomalo-bangla/2025-12-12/hejp5ud1/road_accident_02.png",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-12/hejp5ud1/road_accident_02.png?auto=format,compress"
-      },
-      {
-        "headline": "ইসরায়েল লক্ষ্য করে নতুন করে হামলা চালিয়েছে ইরান",
-        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-06T19:23:41.376000+00:00",
-        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
       },
       {
         "headline": "‘গণতন্ত্রের অগ্রযাত্রায় শ্রেষ্ঠ অদম্য নারী’ সম্মাননা পাচ্ছেন খালেদা জিয়া",
@@ -307,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-20/1x77ax07/pro.avif?auto=format,compress"
       },
       {
-        "headline": "ইরানে যুক্তরাষ্ট্র-ইসরায়েলের হামলার প্রতিবাদে ঢাকায় বিক্ষোভ",
-        "url": "https://www.prothomalo.com/bangladesh/7y3grzfqyr",
-        "published_at": "2026-03-06T14:51:49.200000+00:00",
-        "summary": "বিক্ষোভকারীদের হাতে যুক্তরাষ্ট্র ও ইসরায়েলের হামলায় নিহত ইরানের সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনির ছবি ও কালো পতাকা দেখা যায়।",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/lffre963/iranrally.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/lffre963/iranrally.jpeg?auto=format,compress"
-      },
-      {
         "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
         "published_at": "2026-03-07T00:32:22+06:00",
@@ -385,6 +385,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
       },
       {
+        "headline": "মিথ্যা বলা মহাপাপ, অপবাদ দিয়ে বদনামী করা আরও বড় পাপ: মির্জা আব্বাস",
+        "url": "https://www.ittefaq.com.bd/778237/%E0%A6%AE%E0%A6%BF%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%AA-%E0%A6%85%E0%A6%AA%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%A6%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%AC%E0%A7%9C",
+        "published_at": null,
+        "summary": "‘মুরুব্বিরা শিক্ষা দেয়, মিথ্যা বলা মহাপাপ। সুতরাং মিথ্যা বলো না। একটি লোকের নামে মিথ্যা অপবাদ দিয়ে তাকে বদনামী করা এটি আরও বড় পাপ। এই পাপ থেকে দয়া করে নিজে দূরে থাকুন এবং আমাদেরকেও দূরে রাখুন।’ নির্বাচনি প্রতিদ্বন্দ্বী ও এনসিপি নেতাদের উদ্দেশ্য করে এ কথা বলেন প্রধানমন্ত্রীর রাজনৈতিক উপদেষ্টা, বিএনপির স্থায়ী কমিটির সদস্য ও নবনির্বাচিত সংসদ সদস্য মির্জা আব্বাস।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/12defb20ecf03208fde67328eaf0d943-69ab2b7180dbd.jpg"
+      },
+      {
         "headline": "ইরানের ২০ হাজার ডলারের ড্রোন ঠেকাতে যুক্তরাষ্ট্রের খরচ ৪০ লাখ ডলার",
         "url": "https://www.ittefaq.com.bd/778236/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A7%A8%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%A0%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0",
         "published_at": null,
@@ -446,13 +453,6 @@
         "published_at": null,
         "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমির ও জাতীয় সংসদের বিরোধীদলীয় নেতা ডা. শফিকুর রহমান বলেছেন, জুলাই শহিদদের আত্মত্যাগের সঙ্গে কেউ বেঈমানি করতে চাইলে তা প্রতিহত করা হবে। তিনি বলেন, প্রয়োজনে জীবন দিয়ে হলেও জুলাই অভ্যুত্থানের চেতনা হারিয়ে যেতে দেওয়া হবে না।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/e97fb15cb833c57938a0cec0f62fb4e5-69ab01859c59b.jpg"
-      },
-      {
-        "headline": "খুব শিগগিরই পতনের মুখে কিউবা সরকার: ট্রাম্প",
-        "url": "https://www.ittefaq.com.bd/778226/%E0%A6%96%E0%A7%81%E0%A6%AC-%E0%A6%B6%E0%A6%BF%E0%A6%97%E0%A6%97%E0%A6%BF%E0%A6%B0%E0%A6%87-%E0%A6%AA%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%89%E0%A6%AC%E0%A6%BE-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
-        "published_at": null,
-        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন, কিউবার সরকার খুব শিগগিরই পতনের মুখে পড়তে পারে এবং দেশটি যুক্তরাষ্ট্রের সঙ্গে সমঝোতায় আগ্রহী। শুক্রবার মার্কিন সংবাদমাধ্যম সিএনএনকে দেওয়া এক সাক্ষাৎকারে তিনি এ মন্তব্য করেন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/060d51c62ee4da4efeee4ebf1024d37e-69aaffa89c219.jpg"
       },
       {
         "headline": "ডেপুটি স্পিকার ঘিরে টানাপড়েনজুলাই সনদে অচলাবস্থা",
@@ -546,10 +546,10 @@
         "image_url": "https://media.ndiganta.com/original_images/Narsingdi-Rape-Accused.jpg"
       },
       {
-        "headline": "আজকের সর্বশেষ খবর - March 06, 2026",
+        "headline": "আজকের সর্বশেষ খবর - March 07, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "‎শিক্ষার্থীদের তৃতীয় কোনো ভাষায় দক্ষতা অর্জনের তাগিদ দিয়েছেন অন্তর্বর্তীকালীন সরকারের সাবেক উপদেষ্টা মো. তৌহিদ হোসেন। ...",
+        "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মূখ্য সংগঠক নাসিরুদ্দিন পাটওয়ারীর কাছে ধর্ষণের বিচার চেয়েছেন এক নির্যাতিতা নারী। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -558,6 +558,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ইরানে যুক্তরাষ্ট্র-ইসরায়েলের হামলার প্রতিবাদে ঢাকায় বিক্ষোভ",
+        "url": "https://www.prothomalo.com/bangladesh/7y3grzfqyr",
+        "published_at": "2026-03-06T14:51:49.200000+00:00",
+        "summary": "বিক্ষোভকারীদের হাতে যুক্তরাষ্ট্র ও ইসরায়েলের হামলায় নিহত ইরানের সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনির ছবি ও কালো পতাকা দেখা যায়।",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/lffre963/iranrally.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/lffre963/iranrally.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "খুব শিগগিরই পতনের মুখে কিউবা সরকার: ট্রাম্প",
+        "url": "https://www.ittefaq.com.bd/778226/%E0%A6%96%E0%A7%81%E0%A6%AC-%E0%A6%B6%E0%A6%BF%E0%A6%97%E0%A6%97%E0%A6%BF%E0%A6%B0%E0%A6%87-%E0%A6%AA%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%89%E0%A6%AC%E0%A6%BE-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
+        "published_at": null,
+        "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন, কিউবার সরকার খুব শিগগিরই পতনের মুখে পড়তে পারে এবং দেশটি যুক্তরাষ্ট্রের সঙ্গে সমঝোতায় আগ্রহী। শুক্রবার মার্কিন সংবাদমাধ্যম সিএনএনকে দেওয়া এক সাক্ষাৎকারে তিনি এ মন্তব্য করেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/060d51c62ee4da4efeee4ebf1024d37e-69aaffa89c219.jpg"
       },
       {
         "headline": "এপস্টিন নথি: ট্রাম্পের বিরুদ্ধে কিশোরীকে যৌন নির্যাতনের অভিযোগ উঠে এল",
@@ -1473,22 +1488,6 @@
         "summary": "নেত্রকোনা শহরে আওয়ামী লীগের কার্যালয়ের তৃতীয় তলায় ছাত্রলীগের কার্যালয়ে দলীয় ব্যানার টানানো হয়েছে। আজ শুক্রবার ভোর পাঁচটা থেকে সাড়ে পাঁচটার মধ্যে এ ঘটনা ঘটে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-06/04gykr80/NetrokonaDH054820260306Screenshot20260306151701WhatsApp.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/04gykr80/NetrokonaDH054820260306Screenshot20260306151701WhatsApp.jpg?auto=format,compress"
-      },
-      {
-        "headline": "বিএনপির উপকার করেছিলেন বলে খলিলুর রহমান মন্ত্রিসভায়: মিয়া গোলাম পরওয়ার",
-        "url": "https://www.prothomalo.com/politics/l8pds6pq95",
-        "published_at": "2026-03-06T11:27:15.548000+00:00",
-        "summary": "পররাষ্ট্রমন্ত্রী খলিলুর রহমানকে উদ্দেশ করে জামায়াতের সেক্রেটারি জেনারেল বলেন, ‘ওই সময় আপনি (খলিলুর রহমান) চেষ্টা করেছেন বলেই তার পুরস্কার হিসেবে আজকে আপনি পররাষ্ট্রমন্ত্রী।’",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/nxkprxv4/Mia-Golam-Parwar.jfif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/nxkprxv4/Mia-Golam-Parwar.jfif?auto=format,compress"
-      },
-      {
-        "headline": "সিলেট নগরে হেঁটে যাচ্ছিলেন নারী, পথ রোধ করে ছিনতাইয়ের চেষ্টা",
-        "url": "https://www.prothomalo.com/bangladesh/district/3y6j9et6vv",
-        "published_at": "2026-03-06T11:22:24.623000+00:00",
-        "summary": "সিলেট নগরে সম্প্রতি সিএনজিচালিত অটোরিকশা থেকে এক নারীর ব্যাগ ছিনতাইয়ের ঘটনার রেশ কাটতে না কাটতেই আবারও ছিনতাই–চেষ্টার একটি ভিডিও সামাজিক যোগাযোগমাধ্যম ফেসবুকে ছড়িয়ে পড়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/92ej839o/SylhetDH077820260306Sylhet-Photo-111.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/92ej839o/SylhetDH077820260306Sylhet-Photo-111.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -1883,6 +1882,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
       },
       {
+        "headline": "মিথ্যা বলা মহাপাপ, অপবাদ দিয়ে বদনামী করা আরও বড় পাপ: মির্জা আব্বাস",
+        "url": "https://www.ittefaq.com.bd/778237/%E0%A6%AE%E0%A6%BF%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%AA-%E0%A6%85%E0%A6%AA%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%A6%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%AC%E0%A7%9C",
+        "published_at": null,
+        "summary": "‘মুরুব্বিরা শিক্ষা দেয়, মিথ্যা বলা মহাপাপ। সুতরাং মিথ্যা বলো না। একটি লোকের নামে মিথ্যা অপবাদ দিয়ে তাকে বদনামী করা এটি আরও বড় পাপ। এই পাপ থেকে দয়া করে নিজে দূরে থাকুন এবং আমাদেরকেও দূরে রাখুন।’ নির্বাচনি প্রতিদ্বন্দ্বী ও এনসিপি নেতাদের উদ্দেশ্য করে এ কথা বলেন প্রধানমন্ত্রীর রাজনৈতিক উপদেষ্টা, বিএনপির স্থায়ী কমিটির সদস্য ও নবনির্বাচিত সংসদ সদস্য মির্জা আব্বাস।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/12defb20ecf03208fde67328eaf0d943-69ab2b7180dbd.jpg"
+      },
+      {
         "headline": "ঈদযাত্রায় বাড়তি ভাড়া নয়, নিরাপদ নৌপথে জোর দিচ্ছে সরকার: নৌ-সেতু প্রতিমন্ত্রী",
         "url": "https://www.ittefaq.com.bd/778228/%E0%A6%88%E0%A6%A6%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%A4%E0%A6%BF-%E0%A6%AD%E0%A6%BE%E0%A7%9C%E0%A6%BE-%E0%A6%A8%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A6-%E0%A6%A8%E0%A7%8C%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%9C%E0%A7%8B%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87",
         "published_at": null,
@@ -1944,13 +1950,6 @@
         "published_at": null,
         "summary": "সংসদ অধিবেশনে রাষ্ট্রপতির ভাষণ দেওয়ার বিধান আছে বলে মন্তব্য করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ। তিনি আরও বলেন, রাষ্ট্রপতি কোনও ব্যক্তি নয় প্রতিষ্ঠান।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/61a8bccb7ab385b063bc766084636275-69aab52c00d89.jpeg"
-      },
-      {
-        "headline": "নির্বাচনে এক হাজারের কম ভোট পেয়েছে ৫ দল",
-        "url": "https://www.ittefaq.com.bd/778157/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AE-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A7%AB-%E0%A6%A6%E0%A6%B2",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে পাঁচটি দল সারা দেশে মিলে এক হাজারেরও কম ভোট পেয়েছে। বৃহস্পতিবার (৫ মার্চ) নির্বাচন কমিশন থেকে এ তথ্য জানা গেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/492a9b2f2f9635fc42298b495d7f3d82-69aa989e90907.jpg"
       },
       {
         "headline": "গাঁজা সেবন দেখে ফেলায় হত্যা করা হয় মাদ্রাসার ছাত্রকে",
@@ -2231,6 +2230,13 @@
         "published_at": "1772806658",
         "summary": "মাদারীপুর-২ আসনের সংসদ সদস্য জাহান্দার আলী মিয়া বলেন, মাদারীপুর ও রাজৈর এলাকায় কিশোর গ্যাং, মাদক, চাঁদাবাজ ও ভূমিদস্যুদের কোনো স্থান হবে না। এসব অপশক্তিকে সম্মিলিতভাবে প্রতিহত করা হবে এবং তাদের বিরুদ্ধে কঠোর আইনগত ব্যবস্থা গ্রহণ করা হবে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-45-20260306141738.jpg"
+      },
+      {
+        "headline": "নির্বাচনে এক হাজারের কম ভোট পেয়েছে ৫ দল",
+        "url": "https://www.ittefaq.com.bd/778157/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%AE-%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%AA%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A7%AB-%E0%A6%A6%E0%A6%B2",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে পাঁচটি দল সারা দেশে মিলে এক হাজারেরও কম ভোট পেয়েছে। বৃহস্পতিবার (৫ মার্চ) নির্বাচন কমিশন থেকে এ তথ্য জানা গেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/492a9b2f2f9635fc42298b495d7f3d82-69aa989e90907.jpg"
       },
       {
         "headline": "বিশ্ববিদ্যালয় শিক্ষককে অপহরণ, অস্ত্রের মুখে টাকা নিয়ে নামানো হয় ৪৫ কিলোমিটার দূরে",
@@ -2961,13 +2967,6 @@
         "published_at": null,
         "summary": "সিরাজগঞ্জের কামারখন্দে তিন ফসলি জমিতে প্রথমবারের মতো বাণিজ্যিকভাবে তামাকের আবাদ হচ্ছে। কৃষকরা অতিরিক্ত মুনাফার আশায় এই ফসল বেছে নিয়েছেন, তবে বিষয়টি স্থানীয় কৃষি কর্মকর্তাদের অজানা ছিল।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/2ab0a5a24063d34e7c3bdb41254b8810-69aa7768c8a57.jpg"
-      },
-      {
-        "headline": "বরগুনায় অসহায় মানুষের মাঝে ইফতার সামগ্রী বিতরণ",
-        "url": "https://www.amarsangbad.com/country/news/339084",
-        "published_at": "1772189465",
-        "summary": "বরগুনার তালতলী উপজেলার অসহায়, হতদরিদ্র ও সুবিধাবঞ্চিত শতাধিক মানুষের মাঝে ইফতার সামগ্রী বিতরণ করা হয়েছে। পবিত্র মাহে রমজান উপলক্ষে স্বেচ্ছাসেবী সংগঠন 'কিশোর কলি উন্নয়ন পরিষদ' এই মানবিক উদ্যোগ গ্রহণ করে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-23-20260227105105.jpg"
       }
     ],
     "politics": [
@@ -4374,9 +4373,17 @@
     ],
     "world": [
       {
+        "headline": "বিশ্ববাজারে তেলের দাম প্রতি ব্যারেল ৯০ ডলার ছাড়িয়েছে",
+        "url": "https://www.prothomalo.com/world/middle-east/qmi6trn6is",
+        "published_at": "2026-03-06T19:52:09.419000+00:00",
+        "summary": "গত ২৮ ফেব্রুয়ারি ইরানের ওপর যুক্তরাষ্ট্র ও ইসরায়েলের হামলার পর থেকে আন্তর্জাতিক বাজারে তেলের দাম ২৫ শতাংশের বেশি বেড়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-01/lnvca1bh/oil.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/lnvca1bh/oil.jpg?auto=format,compress"
+      },
+      {
         "headline": "ইসরায়েল লক্ষ্য করে নতুন করে হামলা চালিয়েছে ইরান",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-06T19:23:41.376000+00:00",
+        "published_at": "2026-03-06T19:45:01.560000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
@@ -4686,14 +4693,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-04/snidq8nk/armenian-genocide-6.jpg?auto=format,compress"
       },
       {
-        "headline": "ইরানের বিরুদ্ধে সামরিক সংঘাত কত দিন টেনে নিতে পারবে ইসরায়েল",
-        "url": "https://www.prothomalo.com/world/middle-east/y5jh44v8ad",
-        "published_at": "2026-03-05T02:00:00+00:00",
-        "summary": "হাইফা ও তেল আবিবের মতো শহরগুলো টানা হামলার মুখে পড়েছে। জনসাধারণকে বোমা থেকে বাঁচতে বাংকার বা শেল্টারে আসা–যাওয়ার মধ্যেই সময় কাটছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-02/rvlpbre0/Saudi3.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-02/rvlpbre0/Saudi3.jpg?auto=format,compress"
-      },
-      {
         "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
         "published_at": "2026-03-07T00:32:22+06:00",
@@ -4979,6 +4978,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ইরানের বিরুদ্ধে সামরিক সংঘাত কত দিন টেনে নিতে পারবে ইসরায়েল",
+        "url": "https://www.prothomalo.com/world/middle-east/y5jh44v8ad",
+        "published_at": "2026-03-05T02:00:00+00:00",
+        "summary": "হাইফা ও তেল আবিবের মতো শহরগুলো টানা হামলার মুখে পড়েছে। জনসাধারণকে বোমা থেকে বাঁচতে বাংকার বা শেল্টারে আসা–যাওয়ার মধ্যেই সময় কাটছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-02/rvlpbre0/Saudi3.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-02/rvlpbre0/Saudi3.jpg?auto=format,compress"
       },
       {
         "headline": "লেবানন সীমান্তে ইসরায়েলি অর্থমন্ত্রীর মন্ত্রীর ছেলে আহত",
@@ -5824,14 +5831,6 @@
         "summary": "মধ্যপ্রাচ্যকে নিজের আধিপত্যে আনার যুক্তরাষ্ট্রের ইচ্ছার শুরু পঞ্চাশের দশক থেকে; মূলত তেল ও বাণিজ্যের প্রশ্নকে ঘিরে। সে লক্ষ্যে গোপনে ও প্রকাশ্যে তাদের হস্তক্ষেপ অব্যাহত রয়েছে।",
         "image_s3_key": "prothomalo-bangla/2026-03-04/pq7fn2wp/Khameni.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-04/pq7fn2wp/Khameni.jpg?auto=format,compress"
-      },
-      {
-        "headline": "হাইতি: স্বাধীনতা অথবা মৃত্যু",
-        "url": "https://www.prothomalo.com/world/k5wv0uveak",
-        "published_at": "2026-03-04T03:58:35.029000+00:00",
-        "summary": "হাইতির স্বাধীনতার ঘোষণাপত্রে ঔপনিবেশিক শাসক ফরাসিদের সঙ্গে কোনো ধরনের আত্মীয়তা বা ঐতিহাসিক সম্পর্ক অস্বীকার করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-03-03/ozy5lnb6/haiti-independence.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-03/ozy5lnb6/haiti-independence.jpg?auto=format,compress"
       }
     ],
     "business": [
@@ -6308,18 +6307,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-10-20260224100516-20260302103818.jpg"
       },
       {
-        "headline": "সিপিডিগভর্নর নিয়োগে নতুন সরকার ‘দুর্বল পদক্ষেপ’ নিয়েছে",
-        "url": "https://www.amarsangbad.com/economy/news/339179",
-        "published_at": "1772277239",
-        "summary": "বাংলাদেশ ব্যাংকের নতুন গভর্নর নিয়োগের ক্ষেত্রে নয়া সরকার একটি ‘দুর্বল পদক্ষেপ’ নিয়েছে বলে মন্তব্য করেছে বেসরকারি গবেষণা সংস্থা সেন্টার ফর পলিসি ডায়ালগ (সিপিডি)।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-designx---2026-02-28T171351201-20260228111359.jpg"
-      },
-      {
         "headline": "দেশে মজুত ডিজেল-পেট্রল-অকটেন কতদিন চলবে?",
         "url": "https://www.amarsangbad.com/economy/news/339644",
         "published_at": "1772788700",
         "summary": "মধ্যপ্রাচ্যে চলমান যুদ্ধের প্রভাবে বৈশ্বিক জ্বালানি বাজারে বড় ধরনের অস্থিরতা তৈরি হয়েছে। বিশেষ করে বিশ্ব বাণিজ্যের গুরুত্বপূর্ণ রুট হরমুজ প্রণালি বন্ধ হয়ে যাওয়ায় তেল ও গ্যাসের দাম বাড়ার পাশাপাশি সরবরাহে অনিশ্চয়তা দেখা দিয়েছে। বাংলাদেশের জ্বালানি তেলের একটি বড় অংশ এই রুট দিয়ে আসায় দেশের বাজারেও এর প্রভাব পড়ার শঙ্কা করা হচ্ছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-19-20260306091820.jpg"
+      },
+      {
+        "headline": "সিপিডিগভর্নর নিয়োগে নতুন সরকার ‘দুর্বল পদক্ষেপ’ নিয়েছে",
+        "url": "https://www.amarsangbad.com/economy/news/339179",
+        "published_at": "1772277239",
+        "summary": "বাংলাদেশ ব্যাংকের নতুন গভর্নর নিয়োগের ক্ষেত্রে নয়া সরকার একটি ‘দুর্বল পদক্ষেপ’ নিয়েছে বলে মন্তব্য করেছে বেসরকারি গবেষণা সংস্থা সেন্টার ফর পলিসি ডায়ালগ (সিপিডি)।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-designx---2026-02-28T171351201-20260228111359.jpg"
       },
       {
         "headline": "সাবেক উপদেষ্টা আসিফ মাহমুদের ব্যাংক হিসাব তলব",

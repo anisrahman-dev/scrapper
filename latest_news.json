@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-03-06T19:33:32.783280+00:00",
+  "fetched_at": "2026-03-06T20:00:49.194344+00:00",
   "stories": [
+    {
+      "headline": "বিশ্ববাজারে তেলের দাম প্রতি ব্যারেল ৯০ ডলার ছাড়িয়েছে",
+      "url": "https://www.prothomalo.com/world/middle-east/qmi6trn6is",
+      "published_at": "2026-03-06T19:52:09.419000+00:00",
+      "summary": "গত ২৮ ফেব্রুয়ারি ইরানের ওপর যুক্তরাষ্ট্র ও ইসরায়েলের হামলার পর থেকে আন্তর্জাতিক বাজারে তেলের দাম ২৫ শতাংশের বেশি বেড়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-01/lnvca1bh/oil.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-01/lnvca1bh/oil.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইসরায়েল লক্ষ্য করে নতুন করে হামলা চালিয়েছে ইরান",
+      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+      "published_at": "2026-03-06T19:45:01.560000+00:00",
+      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
+    },
     {
       "headline": "রাজধানীতে রাতে সড়ক দুর্ঘটনায় \nচারজন নিহত",
       "url": "https://www.prothomalo.com/bangladesh/capital/jc4zm0kfq0",
@@ -8,14 +24,6 @@
       "summary": "রাজধানীর সায়েন্সল্যাব ও তেজগাঁও শিল্পাঞ্চল এলাকায় পৃথক সড়ক দুর্ঘটনায় মোটরসাইকেল আরোহী বাবা-মেয়ে এবং অটোরিকশার চালকসহ চারজন নিহত হয়েছেন।",
       "image_s3_key": "prothomalo-bangla/2025-12-12/hejp5ud1/road_accident_02.png",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-12/hejp5ud1/road_accident_02.png?auto=format,compress"
-    },
-    {
-      "headline": "ইসরায়েল লক্ষ্য করে নতুন করে হামলা চালিয়েছে ইরান",
-      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-      "published_at": "2026-03-06T19:23:41.376000+00:00",
-      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
     },
     {
       "headline": "‘গণতন্ত্রের অগ্রযাত্রায় শ্রেষ্ঠ অদম্য নারী’ সম্মাননা পাচ্ছেন খালেদা জিয়া",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-20/1x77ax07/pro.avif?auto=format,compress"
     },
     {
-      "headline": "ইরানে যুক্তরাষ্ট্র-ইসরায়েলের হামলার প্রতিবাদে ঢাকায় বিক্ষোভ",
-      "url": "https://www.prothomalo.com/bangladesh/7y3grzfqyr",
-      "published_at": "2026-03-06T14:51:49.200000+00:00",
-      "summary": "বিক্ষোভকারীদের হাতে যুক্তরাষ্ট্র ও ইসরায়েলের হামলায় নিহত ইরানের সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনির ছবি ও কালো পতাকা দেখা যায়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-06/lffre963/iranrally.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/lffre963/iranrally.jpeg?auto=format,compress"
-    },
-    {
       "headline": "২৩তম ধাপের হামলা শুরুর ঘোষণা আইআরজিসির",
       "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225066",
       "published_at": "2026-03-07T00:32:22+06:00",
@@ -384,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772804396-351f95b1b3f8f027dd62ac5ff239bfb0.jpg"
     },
     {
+      "headline": "মিথ্যা বলা মহাপাপ, অপবাদ দিয়ে বদনামী করা আরও বড় পাপ: মির্জা আব্বাস",
+      "url": "https://www.ittefaq.com.bd/778237/%E0%A6%AE%E0%A6%BF%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%BE-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%AA-%E0%A6%85%E0%A6%AA%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%A6%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%AC%E0%A7%9C",
+      "published_at": null,
+      "summary": "‘মুরুব্বিরা শিক্ষা দেয়, মিথ্যা বলা মহাপাপ। সুতরাং মিথ্যা বলো না। একটি লোকের নামে মিথ্যা অপবাদ দিয়ে তাকে বদনামী করা এটি আরও বড় পাপ। এই পাপ থেকে দয়া করে নিজে দূরে থাকুন এবং আমাদেরকেও দূরে রাখুন।’ নির্বাচনি প্রতিদ্বন্দ্বী ও এনসিপি নেতাদের উদ্দেশ্য করে এ কথা বলেন প্রধানমন্ত্রীর রাজনৈতিক উপদেষ্টা, বিএনপির স্থায়ী কমিটির সদস্য ও নবনির্বাচিত সংসদ সদস্য মির্জা আব্বাস।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/12defb20ecf03208fde67328eaf0d943-69ab2b7180dbd.jpg"
+    },
+    {
       "headline": "ইরানের ২০ হাজার ডলারের ড্রোন ঠেকাতে যুক্তরাষ্ট্রের খরচ ৪০ লাখ ডলার",
       "url": "https://www.ittefaq.com.bd/778236/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A7%A8%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%A0%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0",
       "published_at": null,
@@ -445,13 +452,6 @@
       "published_at": null,
       "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমির ও জাতীয় সংসদের বিরোধীদলীয় নেতা ডা. শফিকুর রহমান বলেছেন, জুলাই শহিদদের আত্মত্যাগের সঙ্গে কেউ বেঈমানি করতে চাইলে তা প্রতিহত করা হবে। তিনি বলেন, প্রয়োজনে জীবন দিয়ে হলেও জুলাই অভ্যুত্থানের চেতনা হারিয়ে যেতে দেওয়া হবে না।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/e97fb15cb833c57938a0cec0f62fb4e5-69ab01859c59b.jpg"
-    },
-    {
-      "headline": "খুব শিগগিরই পতনের মুখে কিউবা সরকার: ট্রাম্প",
-      "url": "https://www.ittefaq.com.bd/778226/%E0%A6%96%E0%A7%81%E0%A6%AC-%E0%A6%B6%E0%A6%BF%E0%A6%97%E0%A6%97%E0%A6%BF%E0%A6%B0%E0%A6%87-%E0%A6%AA%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%89%E0%A6%AC%E0%A6%BE-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
-      "published_at": null,
-      "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন, কিউবার সরকার খুব শিগগিরই পতনের মুখে পড়তে পারে এবং দেশটি যুক্তরাষ্ট্রের সঙ্গে সমঝোতায় আগ্রহী। শুক্রবার মার্কিন সংবাদমাধ্যম সিএনএনকে দেওয়া এক সাক্ষাৎকারে তিনি এ মন্তব্য করেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/060d51c62ee4da4efeee4ebf1024d37e-69aaffa89c219.jpg"
     },
     {
       "headline": "ডেপুটি স্পিকার ঘিরে টানাপড়েনজুলাই সনদে অচলাবস্থা",
@@ -545,10 +545,10 @@
       "image_url": "https://media.ndiganta.com/original_images/Narsingdi-Rape-Accused.jpg"
     },
     {
-      "headline": "আজকের সর্বশেষ খবর - March 06, 2026",
+      "headline": "আজকের সর্বশেষ খবর - March 07, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "‎শিক্ষার্থীদের তৃতীয় কোনো ভাষায় দক্ষতা অর্জনের তাগিদ দিয়েছেন অন্তর্বর্তীকালীন সরকারের সাবেক উপদেষ্টা মো. তৌহিদ হোসেন। ...",
+      "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মূখ্য সংগঠক নাসিরুদ্দিন পাটওয়ারীর কাছে ধর্ষণের বিচার চেয়েছেন এক নির্যাতিতা নারী। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -557,6 +557,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ইরানে যুক্তরাষ্ট্র-ইসরায়েলের হামলার প্রতিবাদে ঢাকায় বিক্ষোভ",
+      "url": "https://www.prothomalo.com/bangladesh/7y3grzfqyr",
+      "published_at": "2026-03-06T14:51:49.200000+00:00",
+      "summary": "বিক্ষোভকারীদের হাতে যুক্তরাষ্ট্র ও ইসরায়েলের হামলায় নিহত ইরানের সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনির ছবি ও কালো পতাকা দেখা যায়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-06/lffre963/iranrally.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/lffre963/iranrally.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "খুব শিগগিরই পতনের মুখে কিউবা সরকার: ট্রাম্প",
+      "url": "https://www.ittefaq.com.bd/778226/%E0%A6%96%E0%A7%81%E0%A6%AC-%E0%A6%B6%E0%A6%BF%E0%A6%97%E0%A6%97%E0%A6%BF%E0%A6%B0%E0%A6%87-%E0%A6%AA%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%89%E0%A6%AC%E0%A6%BE-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
+      "published_at": null,
+      "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন, কিউবার সরকার খুব শিগগিরই পতনের মুখে পড়তে পারে এবং দেশটি যুক্তরাষ্ট্রের সঙ্গে সমঝোতায় আগ্রহী। শুক্রবার মার্কিন সংবাদমাধ্যম সিএনএনকে দেওয়া এক সাক্ষাৎকারে তিনি এ মন্তব্য করেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/06/060d51c62ee4da4efeee4ebf1024d37e-69aaffa89c219.jpg"
     },
     {
       "headline": "এপস্টিন নথি: ট্রাম্পের বিরুদ্ধে কিশোরীকে যৌন নির্যাতনের অভিযোগ উঠে এল",
@@ -1472,22 +1487,6 @@
       "summary": "নেত্রকোনা শহরে আওয়ামী লীগের কার্যালয়ের তৃতীয় তলায় ছাত্রলীগের কার্যালয়ে দলীয় ব্যানার টানানো হয়েছে। আজ শুক্রবার ভোর পাঁচটা থেকে সাড়ে পাঁচটার মধ্যে এ ঘটনা ঘটে। ",
       "image_s3_key": "prothomalo-bangla/2026-03-06/04gykr80/NetrokonaDH054820260306Screenshot20260306151701WhatsApp.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/04gykr80/NetrokonaDH054820260306Screenshot20260306151701WhatsApp.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বিএনপির উপকার করেছিলেন বলে খলিলুর রহমান মন্ত্রিসভায়: মিয়া গোলাম পরওয়ার",
-      "url": "https://www.prothomalo.com/politics/l8pds6pq95",
-      "published_at": "2026-03-06T11:27:15.548000+00:00",
-      "summary": "পররাষ্ট্রমন্ত্রী খলিলুর রহমানকে উদ্দেশ করে জামায়াতের সেক্রেটারি জেনারেল বলেন, ‘ওই সময় আপনি (খলিলুর রহমান) চেষ্টা করেছেন বলেই তার পুরস্কার হিসেবে আজকে আপনি পররাষ্ট্রমন্ত্রী।’",
-      "image_s3_key": "prothomalo-bangla/2026-03-06/nxkprxv4/Mia-Golam-Parwar.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/nxkprxv4/Mia-Golam-Parwar.jfif?auto=format,compress"
-    },
-    {
-      "headline": "সিলেট নগরে হেঁটে যাচ্ছিলেন নারী, পথ রোধ করে ছিনতাইয়ের চেষ্টা",
-      "url": "https://www.prothomalo.com/bangladesh/district/3y6j9et6vv",
-      "published_at": "2026-03-06T11:22:24.623000+00:00",
-      "summary": "সিলেট নগরে সম্প্রতি সিএনজিচালিত অটোরিকশা থেকে এক নারীর ব্যাগ ছিনতাইয়ের ঘটনার রেশ কাটতে না কাটতেই আবারও ছিনতাই–চেষ্টার একটি ভিডিও সামাজিক যোগাযোগমাধ্যম ফেসবুকে ছড়িয়ে পড়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-06/92ej839o/SylhetDH077820260306Sylhet-Photo-111.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/92ej839o/SylhetDH077820260306Sylhet-Photo-111.jpg?auto=format,compress"
     }
   ]
 }
