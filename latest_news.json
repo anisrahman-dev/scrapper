@@ -1,13 +1,45 @@
 {
-  "fetched_at": "2026-03-07T14:24:22.554378+00:00",
+  "fetched_at": "2026-03-07T14:53:36.051155+00:00",
   "stories": [
+    {
+      "headline": "ইরানে স্থল অভিযান চালানোর ‘প্রবল’ সম্ভাবনা রয়েছে: ইরানি কুর্দি",
+      "url": "https://www.prothomalo.com/world/middle-east/bsvuvbf76u",
+      "published_at": "2026-03-07T14:45:29.040000+00:00",
+      "summary": "‘খাবাত অর্গানাইজেশন অব ইরানি কুর্দিস্তান’-এর সাধারণ সম্পাদক বাবাশেখ হোসেইনি শুক্রবার বলেছেন, ‘এ মুহূর্তে’ কোনো অভিযান চলছে না। তবে যুক্তরাষ্ট্র তাঁদের সঙ্গে যোগাযোগ করেছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/eefzh30l/kurdi.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/eefzh30l/kurdi.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সরকারের আশ্রয়-প্রশ্রয়ে আওয়ামী লীগকে পুনর্বাসনের চেষ্টা চলছে: নাহিদ ইসলাম",
+      "url": "https://www.prothomalo.com/bangladesh/district/obaqf7nizz",
+      "published_at": "2026-03-07T14:36:48.289000+00:00",
+      "summary": "ফরিদপুর শহরের ঐতিহাসিক অম্বিকা ময়দানে এনসিপি আয়োজিত ইফতার অনুষ্ঠানে প্রধান অতিথির বক্তব্য দেন ঢাকা-১১ আসনের সংসদ সদস্য ও এনসিপির আহ্বায়ক নাহিদ ইসলাম।",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/ifk173rz/FaridpurDH1292.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/ifk173rz/FaridpurDH1292.jpg?auto=format,compress"
+    },
     {
       "headline": "ট্রাম্পের হুমকির পর ইরানও হামলার জন্য নতুন মার্কিন স্থাপনা খুঁজছে",
       "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-      "published_at": "2026-03-07T14:17:04.761000+00:00",
+      "published_at": "2026-03-07T14:33:48.819000+00:00",
       "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
       "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
+    },
+    {
+      "headline": "এখন সালামি কম পাওয়া হয়, বরং দিতে হয়: সাবিলা নূর",
+      "url": "https://www.prothomalo.com/video/entertainment/msx1djf2fy",
+      "published_at": "2026-03-07T14:29:52.045000+00:00",
+      "summary": "এখন সালামি কম পাওয়া হয়, বরং দিতে হয়: সাবিলা নূর",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/x74um69b/Sequence-02.00002113.Still001.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/x74um69b/Sequence-02.00002113.Still001.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বাঁশঝাড়ে মাটির নিচে পানির ট্যাংক বসিয়ে ১০ হাজার লিটার ডিজেল মজুত",
+      "url": "https://www.prothomalo.com/bangladesh/district/s7qcxx94ro",
+      "published_at": "2026-03-07T14:28:57.365000+00:00",
+      "summary": "এ ঘটনায় সিংড়ার ইউএনও আজ শনিবার এক ব্যবসায়ীকে পাঁচ হাজার টাকা জরিমানা করেছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/0dm7heqn/Disel.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/0dm7heqn/Disel.jpg?auto=format,compress"
     },
     {
       "headline": "মিরপুরে মি. ডি আই ওয়াইয়ের আউটলেট উদ্বোধন",
@@ -282,36 +314,11 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/zomu78i1/cpb.jpg?auto=format,compress"
     },
     {
-      "headline": "তেলের সংকটের আশঙ্কা, বিপাকে রাইড শেয়ারিং চালকেরা ",
-      "url": "https://www.prothomalo.com/video/bangladesh/aqpfyxegk6",
-      "published_at": "2026-03-07T11:38:41.673000+00:00",
-      "summary": "তেলের সংকটের আশঙ্কা, বিপাকে রাইড শেয়ারিং চালকেরা ",
-      "image_s3_key": "prothomalo-bangla/2026-03-07/2g88y19p/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/2g88y19p/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ধানমন্ডি ৩২ নম্বরে ফুল দিতে গিয়ে ৪ জন গ্রেপ্তার, সন্ত্রাসবিরোধী আইনে মামলা",
-      "url": "https://www.prothomalo.com/politics/1nwjgd1fn1",
-      "published_at": "2026-03-07T11:37:57.535000+00:00",
-      "summary": "১০-১৫ জন মিছিল নিয়ে যাচ্ছিলেন ধানমন্ডি ৩২ নম্বরে। তাঁদের হাতে ছিল ফুলের মালা। পুলিশ মিছিলটি ছত্রভঙ্গ করে দেয় এবং তিনজন নারী ও একজন পুরুষকে গ্রেপ্তার করে।",
-      "image_s3_key": "prothomalo-bangla/2025-02-06/x14dulq1/1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-02-06/x14dulq1/1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ট্রাম্প-নেতানিয়াহুর ‘বিজয়’ নাকি বিপর্যয়ের শুরু?",
-      "url": "https://www.prothomalo.com/opinion/column/vlktlhuovs",
-      "published_at": "2026-03-07T11:35:09.865000+00:00",
-      "summary": "যুদ্ধে বহুল ব্যবহৃত একটি কৌশল হলো শত্রুপক্ষের নেতৃত্বকে সরিয়ে দেওয়া। কখনো কখনো এই কৌশল কার্যকর হতে পারে। ",
-      "image_s3_key": "prothomalo/import/media/2019/03/26/c71787e8a96d840c81339493d3b56301-5c9a33844e93c.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo/import/media/2019/03/26/c71787e8a96d840c81339493d3b56301-5c9a33844e93c.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বিচ্ছেদের আগে আদালতে বিজয়ের স্ত্রীর নতুন আবেদন",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/4ge55ar9l0",
-      "published_at": "2026-03-07T11:30:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-03-04/ddbbpymk/thalapathy-vijay-and-sangeetha-sornalingam.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-04/ddbbpymk/thalapathy-vijay-and-sangeetha-sornalingam.avif?auto=format,compress"
+      "headline": "চাপিয়ে দেওয়া যুদ্ধের মুখে আজকের মুসলিম বিশ্ব: মামুনুল হক",
+      "url": "https://www.bd-pratidin.com/national/2026/03/07/1225315",
+      "published_at": "2026-03-07T20:32:38+06:00",
+      "summary": "বাংলাদেশ খেলাফত মজলিসের আমির মাওলানা মামুনুল হক বলেন, মধ্যপ্রাচ্যের সমৃদ্ধ ঐতিহ্যবাহী রাষ্ট্র ইরানের প্রতি অত্যন্ত ভঙ্গ হৃদয়ে গভীর সহমর্মিতা ও সমবেদনা জ্ঞাপন করছি। চাপিয়ে দেওয়া যুদ্ধের মুখে আজকের মুসলিম বিশ্ব। আরব বিশ্ব থেকে অনেক দূরে, অনেকটা নিরাপদ অবস্থানে থেকেও আমরা স্বস্তি পাচ্ছি না। কারণ আমরা সেই নবীর উম্মত, যিনি বলেছেন— মুসলিম উম্মাহ পুরোটি এক দেহের ন্যায়। আমরা স্বৈরতান্ত্রিক বিশ্বব্যবস্থা থেকে মুক্তি চাই।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772893957-30c01ffed2ce4d95c6ddcc31298e6dad.jpg"
     },
     {
       "headline": "গ্যাসের দাম বৃদ্ধি; হাতা-কড়াই-খুন্তি নিয়ে প্রতিবাদের ডাক মমতার",
@@ -377,11 +384,32 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772888512-d75b6af6999034e3b028162b82eaf2be.jpg"
     },
     {
-      "headline": "বসন্তের রঙের উৎসব শ্রীমঙ্গলে",
-      "url": "https://www.bd-pratidin.com/chayer-desh/2026/03/07/1225276",
-      "published_at": "2026-03-07T18:48:39+06:00",
-      "summary": "সনাতন ধর্মাবলম্বীদের অন্যতম ধর্মীয় উৎসব দোলপূর্ণিমা উপলক্ষে মৌলভীবাজারের শ্রীমঙ্গলে উদযাপিত হয়েছে দোল উৎসব। শুক্রবার শহরের সবুজবাগ আবাসিক এলাকায় ‘সবুজবাগ দোল পূজা উদযাপন পরিষদ’-এর আয়োজনে বর্ণিল এ উৎসব অনুষ্ঠিত হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772887718-d99119ca42e35bfa7fbc7fba9ab1d88a.jpg"
+      "headline": "১৬টি ইরানি বিমান ধ্বংসের দাবি ইসরায়েলের",
+      "url": "https://www.ittefaq.com.bd/778366/%E0%A7%A7%E0%A7%AC%E0%A6%9F%E0%A6%BF-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "ইরানের রাজধানী তেহরানে রাতভর হামলায় ইসলামিক রেভল্যুশনারি গার্ড কর্পস (আইআরজিসি)-এর কুদস ফোর্সের ১৬টি বিমান ধ্বংস করেছে বলে দাবি করেছে ইসরায়েলি সামরিক বাহিনী। কুদস ফোর্সের দায়িত্ব হলো ইরানের সীমান্তের বাইরে বিভিন্ন অভিযান পরিচালনা করা। খবর আল-জাজিরার।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/83165cd31d0132434ca855d1f737eb2a-69ac36d932f7e.jpg"
+    },
+    {
+      "headline": "শুধু একটি দলের জায়গায় আরেকটি দল বসেছে মানুষের ভাগ্যের পরিবর্তন হয়নি",
+      "url": "https://www.ittefaq.com.bd/778365/%E0%A6%B6%E0%A7%81%E0%A6%A7%E0%A7%81-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%97%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%86%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%A6%E0%A6%B2-%E0%A6%AC%E0%A6%B8%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "নির্বাচন পরবর্তী পরিস্থিতির প্রসঙ্গ উল্লেখ করে জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক ও বিরোধী দলীয় চিফ হুইপ নাহিদ ইসলাম বলেছেন, শুধু একটি দলের জায়গায় আরেকটি দল বসেছে। মানুষের ভাগ্যের কোনো পরিবর্তন হয়নি।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/44b712be0ab519d63fe52420e76df848-69ac3685cd937.jpg"
+    },
+    {
+      "headline": "ইসরায়েলে আবারও ক্ষেপণাস্ত্র হামলা চালিয়েছে ইরান",
+      "url": "https://www.ittefaq.com.bd/778364/%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "ইসরায়েলকে লক্ষ্য করে আবারও ক্ষেপণাস্ত্র হামলা চালিয়েছে ইরান।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/aa721eae002b8e0018f64d8402e269cf-69ac3600cb03b.jpg"
+    },
+    {
+      "headline": "তীব্র পানিসংকটে বরেন্দ্র অঞ্চলের মানুষ",
+      "url": "https://www.ittefaq.com.bd/778363/%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7",
+      "published_at": null,
+      "summary": "রাজশাহী, চাঁপাইনবাবগঞ্জ ও নওগাঁ; বরেন্দ্র অঞ্চলের এ তিন জেলার ২১৫টি ইউনিয়নের ৪ হাজার ৯১১টি মৌজাকে ‘পানি সংকটাপন্ন’ এলাকা ঘোষণা করেছে সরকার। এ অঞ্চলের প্রায় ৮৭ হাজার মানুষ সরাসরি তীব্র পানিসংকটের সম্মুখীন হয়েছে। সরকারি গেজেটে কেবল খাওয়ার পানি ছাড়া অন্য কোনো কাজে ১০ বছরের জন্য উল্লিখিত এলাকায় ভূগর্ভস্থ পানি উত্তোলন নিষিদ্ধ করা হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/d582a2cd932db2a2f35df10d122d8fbb-69ac35bea76eb.jpg"
     },
     {
       "headline": "রোববার থেকে মার্কেট-শপিংমলে আলোকসজ্জা বন্ধ রাখার সিদ্ধান্ত",
@@ -426,34 +454,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/81783de3c6837098b0c1078713d64d60-69ac2c1e546cd.jpg"
     },
     {
-      "headline": "ঢালাওভাবে ব্যবসায়ীদের কালিমা দেওয়া ঠিক না: ড. ফাহমিদা খাতুন",
-      "url": "https://www.ittefaq.com.bd/778356/%E0%A6%A2%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%93%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%A0%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%BE-%E0%A6%A1",
-      "published_at": null,
-      "summary": "সেন্টার ফর পলিসি ডায়ালগ (সিপিডি)-এর নির্বাহী পরিচালক ড. ফাহমিদা খাতুন বলেছেন, ঢালাওভাবে ব্যবসায়ীদের ওপর কালিমা দেওয়া ঠিক না। যেসব ব্যবসায়ী ও ব্যক্তিখাত অর্থনীতিতে অবদান রাখতে চান, নির্বাচিত সরকারকে তাদের কাজের সুযোগ করে দেওয়ার সময় এসেছে। এক্ষেত্রে যাচাই বাছাই করে ব্যবসায়ীদের বন্ধ হওয়া ব্যাংক হিসাব খুলে দেওয়া উচিত। তবে যারা অন্যায় করেছে তাদেরকে অবশ্যই আইনের আওতায় আনতে হবে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/d882897ee92055c3a99e4c5675589ac0-69ac2b758bd8b.jpeg"
-    },
-    {
-      "headline": "ই-রেজিস্ট্রেশন করল ২১ হাজার শিক্ষাপ্রতিষ্ঠান",
-      "url": "https://www.ittefaq.com.bd/778355/%E0%A6%87-%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%B2-%E0%A7%A8%E0%A7%A7-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8",
-      "published_at": null,
-      "summary": "দেশের ২১ হাজারের বেশি বেসরকারি শিক্ষাপ্রতিষ্ঠান ই-রেজিস্ট্রেশন সম্পন্ন করেছে, এমন তথ্য জানিয়েছে বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ (এনটিআরসিএ)। এর ফলে প্রতিষ্ঠানগুলোতে শিক্ষক শূন্যপদ থাকলে তারা অনলাইনে সেই তথ্য প্রদান করতে পারবে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/4b1ece4bf160f2f74fcc641e901063a1-69ac2a003bb97.jpg"
-    },
-    {
-      "headline": "আন্তর্জাতিক নারী দিবস উপলক্ষে বিশ্বজুড়ে নারীদের প্রধানমন্ত্রীর শুভেচ্ছা",
-      "url": "https://www.ittefaq.com.bd/778354/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "আন্তর্জাতিক নারী দিবস উপলক্ষে বিশ্বের সব নারীকে আন্তরিক শুভেচ্ছা ও অভিনন্দন জানিয়েছেন প্রধানমন্ত্রী। তিনি বলেছেন, নারীর অধিকার, শিক্ষা, স্বাস্থ্য, নিরাপত্তা ও অংশগ্রহণ নিশ্চিত করা গেলে তবেই একটি রাষ্ট্রের উন্নয়ন টেকসই হয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/fd1f53a876b961cc76a0616dbefedf4c-69ac27f811de3.jpg"
-    },
-    {
-      "headline": "ইরানে ৬,৬৬৮টি বেসামরিক স্থাপনা ক্ষতিগ্রস্ত: রেড ক্রিসেন্ট",
-      "url": "https://www.ittefaq.com.bd/778353/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A7%AC-%E0%A7%AC%E0%A7%AC%E0%A7%AE%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%B0%E0%A7%87%E0%A6%A1",
-      "published_at": null,
-      "summary": "ইরানে ইসরায়েল ও যুক্তরাষ্ট্রের যৌথ হামলায় অন্তত ৬ হাজার ৬৬৮টি বেসামরিক স্থাপনা ক্ষতিগ্রস্ত হয়েছে বলে জানিয়েছে আন্তর্জাতিক সংস্থা রেড ক্রিসেন্ট।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/237c8ff16ddd12c54e90716da452d9be-69ac277cde794.jpg"
-    },
-    {
       "headline": "কৌশল পাল্টে ঢুকছে মাদক",
       "url": "https://dailynayadiganta.com/printed-edition/ggoUUzW0xxYN/",
       "published_at": null,
@@ -475,25 +475,53 @@
       "image_url": "https://media.ndiganta.com/images/first-1_NC7bzAE.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
-      "headline": "জুলাই সনদ : অঙ্গীকার ও অস্বীকার",
-      "url": "https://dailynayadiganta.com/opinions/opinion/0ezv9GQtuVRA/",
+      "headline": "ইরানের নতুন নতুন কৌশলে ফাঁদে পড়ছে যুক্তরাষ্ট্র এবং ইসরাইল",
+      "url": "https://dailynayadiganta.com/video/TbxALodLOoKf/",
       "published_at": null,
-      "summary": "বাংলাদেশের রাজনীতির ইতিহাসে অঙ্গীকার ভাঙার উদাহরণ কম নেই। বহু আন্দোলন, গণ-অভ্যুত্থানের পেছনে জমে থাকা ক্ষোভ ও অপূর্ণ প্রতিশ্রুতির ইতিহাস আছে। পাঁচ আগস্ট ঢাকার সড়কে মানুষের উপস্থিতি ইতিহাসেরই একটি অংশ। মানুষের আশা যখন ভেঙে যায়, তখন রাজনীতির ওপর আস্থা কমে যায়। আর আস্থা হারানো রাজনীতি স্থায়ী হয় না। কোনো অঙ্গীকার যদি গণভোটে অনুমোদন পায়, তাহলে সেই অঙ্গীকার রাখা রাজনৈতিক দলের অনিবার্য দায়িত্ব",
-      "image_url": "https://media.ndiganta.com/original_images/opinion01.original.jpg"
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "বালেন্দ্র শাহের কাছে নিজ আসনে হারলেন নেপালের সাবেক প্রধানমন্ত্রী",
-      "url": "https://dailynayadiganta.com/international/asia/south-asia/ha3MzTWhlyoU/",
+      "headline": "বাংলামোটরে অবৈধভাবে তেল সংগ্রহের চেষ্টা, বাধা দেওয়ায় নয়া দিগন্তের রিপোর্টারকে হেনস্তা",
+      "url": "https://dailynayadiganta.com/video/w2UUZGX7KkgD/",
       "published_at": null,
-      "summary": "৩৫ বছর বয়সী শাহের এই জয় এবং মেয়র থেকে সম্ভাব্য প্রধানমন্ত্রী হয়ে ওঠার পথকে সাম্প্রতিক নেপালি রাজনীতির অন্যতম নাটকীয় ঘটনা হিসেবে দেখা হচ্ছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Balendra-Shah-1.jpg"
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "আদালতের কাঠগড়ায় জুলাই সনদের ভাগ্য",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/sBBOr3SIILmB/",
+      "headline": "দৃষ্টি প্রতিবন্ধী হাফেজদের কণ্ঠে কিরায়াতে কালামুল্লাহ, পারা ১৭",
+      "url": "https://dailynayadiganta.com/video/yAdJVmSCrOs8/",
       "published_at": null,
-      "summary": "তত্ত্বাবধায়ক ব্যবস্থা বাতিলের সেই অধ্যায়টি আমাদের রাজনীতির ইতিহাসে একটি ‘সতর্কতামূলক দৃষ্টান্ত’ হয়ে আছে, যা বারবার মনে করিয়ে দেয়, জনআকাক্সক্ষা উপেক্ষা করার ফল কতটা ভয়াবহ হতে পারে। ইতিহাস আমাদের বারবার সতর্ক করেছে, বিপুল জনসমর্থনপুষ্ট কোনো রাজনৈতিক সমঝোতা যদি আইনি মারপ্যাঁচে নস্যাৎ করা হয়, তবে রাষ্ট্রকে তার জন্য চড়া মাশুল দিতে হয়। তাই বিএনপি নেতৃত্বাধীন সরকারের উচিত হবে ইতিহাসের সেই শিক্ষাগুলো নিয়ে নিবিড়ভাবে পর্যালোচনা করা; ত্রয়োদশ সংশোধনীকে ঘিরে যে ঐতিহাসিক ভুলের সূচনা হয়েছিল, বর্তমান প্রেক্ষাপটে তার পুনরাবৃত্তি হবে আত্মঘাতী",
-      "image_url": "https://media.ndiganta.com/original_images/Ehsan-A-Siddique.jpg"
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "প্রয়োজন সামাজিক প্রতিরোধ",
+      "url": "https://dailynayadiganta.com/opinions/editorial/633gAQyso4kr/",
+      "published_at": null,
+      "summary": "মাদক একটি নীরব মহামারী। এটি শুধু ব্যক্তিকে নয়, পরিবার ও সমাজকে ধ্বংস করে দেয়। তাই তরুণ সমাজকে ইতিবাচক পথে পরিচালনার মাধ্যমে সম্মিলিত প্রতিরোধ গড়ে তোলা হতে পারে এ ভয়াবহ সমস্যার কার্যকর সমাধান।",
+      "image_url": "https://media.ndiganta.com/original_images/Editorial.jpeg"
+    },
+    {
+      "headline": "দেশে জনপ্রিয় হয়ে উঠছে বাইক স্টান্ট; চালকদের মাঝে বাড়ছে উচ্চ সিসির বাইক চাহিদা",
+      "url": "https://dailynayadiganta.com/video/4PrntyR0fjLp/",
+      "published_at": null,
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "দৃষ্টিপ্রতিবন্ধী হাফেজদের সংবর্ধনা দিল নয়া দিগন্ত",
+      "url": "https://dailynayadiganta.com/video/WxwesJk84OL8/",
+      "published_at": null,
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "তাহাজ্জুদ নামাজের মর্যাদা",
+      "url": "https://dailynayadiganta.com/video/c2LmCVhYzeLM/",
+      "published_at": null,
+      "summary": null,
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
       "headline": "মিয়ানমারে জ্বালানি তেল পাচারের আশঙ্কায় কোস্ট গার্ডের টহল বৃদ্ধি",
@@ -501,13 +529,6 @@
       "published_at": null,
       "summary": "শনিবার (৭ মার্চ) বিকেলে কোস্ট গার্ড মিডিয়া কর্মকর্তা লেফটেন্যান্ট কমান্ডার সাব্বির আলম সুজন এ তথ্য জানান।",
       "image_url": "https://media.ndiganta.com/original_images/Coast-Guard_zE1wenz.jpg"
-    },
-    {
-      "headline": "বইমেলা : ঐতিহ্য, সঙ্কট ও ভবিষ্যতের ভাবনা",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/rF5OTkzpqmBH/",
-      "published_at": null,
-      "summary": "সবচেয়ে বড় কথা, বইমেলার মূল লক্ষ্য হওয়া উচিত জ্ঞানচর্চা ও পাঠাভ্যাস শক্তিশালী করা। যদি বইমেলা শুধু উৎসবমুখর ভিড়ের জায়গায় পরিণত হয়, তবে এর মৌলিক উদ্দেশ্য পূরণ হবে না। তাই প্রয়োজন একটি সুপরিকল্পিত নীতি, যেখানে প্রকাশক, লেখক, পাঠক এবং আয়োজকদের স্বার্থের মধ্যে একটি ভারসাম্য তৈরি করা যাবে। বাংলা একাডেমির অমর একুশে বইমেলা বাংলাদেশী আত্মপরিচয়ের একটি গুরুত্বপূর্ণ প্রতীক। এই প্রতীক টিকিয়ে রাখতে হলে ঐতিহ্য ও আধুনিকতার সমন্বয়ে বইমেলা আরো সৃজনশীল, স্বচ্ছ ও পাঠকবান্ধব করে তোলা সময়ের দাবি।",
-      "image_url": "https://media.ndiganta.com/original_images/mynl_krm.webp"
     },
     {
       "headline": "ক্র্যাব সদস্য সন্তানদের কোরআন তেলাওয়াত ও হামদ-নাত প্রতিযোগিতা অনুষ্ঠিত",
@@ -555,7 +576,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 07, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ফরিদপুরে জাতীয় নাগরিক পার্টির (এনসিপি) উদ্যোগে বিভাগীয় ইফতার মাহফিল ও আলোচনা সভা অনুষ্ঠিত হয়েছে। \r\n\r\nশনিবার (৭ মার্চ) বিকালে শহরের অম্বিকা ...",
+      "summary": "আলোচিত বলিউড অভিনেত্রী নীনা গুপ্তা। অভিনয়ের পাশাপাশি ব্যক্তিগত জীবন নিয়ে তাকে কম বিতর্কের মুখে পড়তে হয়নি। সম্প্রতি ৬৬ বছর বয়সী ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -564,6 +585,101 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "তেলের সংকটের আশঙ্কা, বিপাকে রাইড শেয়ারিং চালকেরা ",
+      "url": "https://www.prothomalo.com/video/bangladesh/aqpfyxegk6",
+      "published_at": "2026-03-07T11:38:41.673000+00:00",
+      "summary": "তেলের সংকটের আশঙ্কা, বিপাকে রাইড শেয়ারিং চালকেরা ",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/2g88y19p/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/2g88y19p/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ধানমন্ডি ৩২ নম্বরে ফুল দিতে গিয়ে ৪ জন গ্রেপ্তার, সন্ত্রাসবিরোধী আইনে মামলা",
+      "url": "https://www.prothomalo.com/politics/1nwjgd1fn1",
+      "published_at": "2026-03-07T11:37:57.535000+00:00",
+      "summary": "১০-১৫ জন মিছিল নিয়ে যাচ্ছিলেন ধানমন্ডি ৩২ নম্বরে। তাঁদের হাতে ছিল ফুলের মালা। পুলিশ মিছিলটি ছত্রভঙ্গ করে দেয় এবং তিনজন নারী ও একজন পুরুষকে গ্রেপ্তার করে।",
+      "image_s3_key": "prothomalo-bangla/2025-02-06/x14dulq1/1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-02-06/x14dulq1/1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ট্রাম্প-নেতানিয়াহুর ‘বিজয়’ নাকি বিপর্যয়ের শুরু?",
+      "url": "https://www.prothomalo.com/opinion/column/vlktlhuovs",
+      "published_at": "2026-03-07T11:35:09.865000+00:00",
+      "summary": "যুদ্ধে বহুল ব্যবহৃত একটি কৌশল হলো শত্রুপক্ষের নেতৃত্বকে সরিয়ে দেওয়া। কখনো কখনো এই কৌশল কার্যকর হতে পারে। ",
+      "image_s3_key": "prothomalo/import/media/2019/03/26/c71787e8a96d840c81339493d3b56301-5c9a33844e93c.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo/import/media/2019/03/26/c71787e8a96d840c81339493d3b56301-5c9a33844e93c.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বিচ্ছেদের আগে আদালতে বিজয়ের স্ত্রীর নতুন আবেদন",
+      "url": "https://www.prothomalo.com/entertainment/bollywood/4ge55ar9l0",
+      "published_at": "2026-03-07T11:30:00+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-04/ddbbpymk/thalapathy-vijay-and-sangeetha-sornalingam.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-04/ddbbpymk/thalapathy-vijay-and-sangeetha-sornalingam.avif?auto=format,compress"
+    },
+    {
+      "headline": "বসন্তের রঙের উৎসব শ্রীমঙ্গলে",
+      "url": "https://www.bd-pratidin.com/chayer-desh/2026/03/07/1225276",
+      "published_at": "2026-03-07T18:48:39+06:00",
+      "summary": "সনাতন ধর্মাবলম্বীদের অন্যতম ধর্মীয় উৎসব দোলপূর্ণিমা উপলক্ষে মৌলভীবাজারের শ্রীমঙ্গলে উদযাপিত হয়েছে দোল উৎসব। শুক্রবার শহরের সবুজবাগ আবাসিক এলাকায় ‘সবুজবাগ দোল পূজা উদযাপন পরিষদ’-এর আয়োজনে বর্ণিল এ উৎসব অনুষ্ঠিত হয়।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772887718-d99119ca42e35bfa7fbc7fba9ab1d88a.jpg"
+    },
+    {
+      "headline": "ঢালাওভাবে ব্যবসায়ীদের কালিমা দেওয়া ঠিক না: ড. ফাহমিদা খাতুন",
+      "url": "https://www.ittefaq.com.bd/778356/%E0%A6%A2%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%93%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%A0%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%BE-%E0%A6%A1",
+      "published_at": null,
+      "summary": "সেন্টার ফর পলিসি ডায়ালগ (সিপিডি)-এর নির্বাহী পরিচালক ড. ফাহমিদা খাতুন বলেছেন, ঢালাওভাবে ব্যবসায়ীদের ওপর কালিমা দেওয়া ঠিক না। যেসব ব্যবসায়ী ও ব্যক্তিখাত অর্থনীতিতে অবদান রাখতে চান, নির্বাচিত সরকারকে তাদের কাজের সুযোগ করে দেওয়ার সময় এসেছে। এক্ষেত্রে যাচাই বাছাই করে ব্যবসায়ীদের বন্ধ হওয়া ব্যাংক হিসাব খুলে দেওয়া উচিত। তবে যারা অন্যায় করেছে তাদেরকে অবশ্যই আইনের আওতায় আনতে হবে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/d882897ee92055c3a99e4c5675589ac0-69ac2b758bd8b.jpeg"
+    },
+    {
+      "headline": "ই-রেজিস্ট্রেশন করল ২১ হাজার শিক্ষাপ্রতিষ্ঠান",
+      "url": "https://www.ittefaq.com.bd/778355/%E0%A6%87-%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%B2-%E0%A7%A8%E0%A7%A7-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8",
+      "published_at": null,
+      "summary": "দেশের ২১ হাজারের বেশি বেসরকারি শিক্ষাপ্রতিষ্ঠান ই-রেজিস্ট্রেশন সম্পন্ন করেছে, এমন তথ্য জানিয়েছে বেসরকারি শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ (এনটিআরসিএ)। এর ফলে প্রতিষ্ঠানগুলোতে শিক্ষক শূন্যপদ থাকলে তারা অনলাইনে সেই তথ্য প্রদান করতে পারবে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/4b1ece4bf160f2f74fcc641e901063a1-69ac2a003bb97.jpg"
+    },
+    {
+      "headline": "আন্তর্জাতিক নারী দিবস উপলক্ষে বিশ্বজুড়ে নারীদের প্রধানমন্ত্রীর শুভেচ্ছা",
+      "url": "https://www.ittefaq.com.bd/778354/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0",
+      "published_at": null,
+      "summary": "আন্তর্জাতিক নারী দিবস উপলক্ষে বিশ্বের সব নারীকে আন্তরিক শুভেচ্ছা ও অভিনন্দন জানিয়েছেন প্রধানমন্ত্রী। তিনি বলেছেন, নারীর অধিকার, শিক্ষা, স্বাস্থ্য, নিরাপত্তা ও অংশগ্রহণ নিশ্চিত করা গেলে তবেই একটি রাষ্ট্রের উন্নয়ন টেকসই হয়।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/fd1f53a876b961cc76a0616dbefedf4c-69ac27f811de3.jpg"
+    },
+    {
+      "headline": "ইরানে ৬,৬৬৮টি বেসামরিক স্থাপনা ক্ষতিগ্রস্ত: রেড ক্রিসেন্ট",
+      "url": "https://www.ittefaq.com.bd/778353/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A7%AC-%E0%A7%AC%E0%A7%AC%E0%A7%AE%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%B0%E0%A7%87%E0%A6%A1",
+      "published_at": null,
+      "summary": "ইরানে ইসরায়েল ও যুক্তরাষ্ট্রের যৌথ হামলায় অন্তত ৬ হাজার ৬৬৮টি বেসামরিক স্থাপনা ক্ষতিগ্রস্ত হয়েছে বলে জানিয়েছে আন্তর্জাতিক সংস্থা রেড ক্রিসেন্ট।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/237c8ff16ddd12c54e90716da452d9be-69ac277cde794.jpg"
+    },
+    {
+      "headline": "জুলাই সনদ : অঙ্গীকার ও অস্বীকার",
+      "url": "https://dailynayadiganta.com/opinions/opinion/0ezv9GQtuVRA/",
+      "published_at": null,
+      "summary": "বাংলাদেশের রাজনীতির ইতিহাসে অঙ্গীকার ভাঙার উদাহরণ কম নেই। বহু আন্দোলন, গণ-অভ্যুত্থানের পেছনে জমে থাকা ক্ষোভ ও অপূর্ণ প্রতিশ্রুতির ইতিহাস আছে। পাঁচ আগস্ট ঢাকার সড়কে মানুষের উপস্থিতি ইতিহাসেরই একটি অংশ। মানুষের আশা যখন ভেঙে যায়, তখন রাজনীতির ওপর আস্থা কমে যায়। আর আস্থা হারানো রাজনীতি স্থায়ী হয় না। কোনো অঙ্গীকার যদি গণভোটে অনুমোদন পায়, তাহলে সেই অঙ্গীকার রাখা রাজনৈতিক দলের অনিবার্য দায়িত্ব",
+      "image_url": "https://media.ndiganta.com/original_images/opinion01.original.jpg"
+    },
+    {
+      "headline": "বালেন্দ্র শাহের কাছে নিজ আসনে হারলেন নেপালের সাবেক প্রধানমন্ত্রী",
+      "url": "https://dailynayadiganta.com/international/asia/south-asia/ha3MzTWhlyoU/",
+      "published_at": null,
+      "summary": "৩৫ বছর বয়সী শাহের এই জয় এবং মেয়র থেকে সম্ভাব্য প্রধানমন্ত্রী হয়ে ওঠার পথকে সাম্প্রতিক নেপালি রাজনীতির অন্যতম নাটকীয় ঘটনা হিসেবে দেখা হচ্ছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Balendra-Shah-1.jpg"
+    },
+    {
+      "headline": "আদালতের কাঠগড়ায় জুলাই সনদের ভাগ্য",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/sBBOr3SIILmB/",
+      "published_at": null,
+      "summary": "তত্ত্বাবধায়ক ব্যবস্থা বাতিলের সেই অধ্যায়টি আমাদের রাজনীতির ইতিহাসে একটি ‘সতর্কতামূলক দৃষ্টান্ত’ হয়ে আছে, যা বারবার মনে করিয়ে দেয়, জনআকাক্সক্ষা উপেক্ষা করার ফল কতটা ভয়াবহ হতে পারে। ইতিহাস আমাদের বারবার সতর্ক করেছে, বিপুল জনসমর্থনপুষ্ট কোনো রাজনৈতিক সমঝোতা যদি আইনি মারপ্যাঁচে নস্যাৎ করা হয়, তবে রাষ্ট্রকে তার জন্য চড়া মাশুল দিতে হয়। তাই বিএনপি নেতৃত্বাধীন সরকারের উচিত হবে ইতিহাসের সেই শিক্ষাগুলো নিয়ে নিবিড়ভাবে পর্যালোচনা করা; ত্রয়োদশ সংশোধনীকে ঘিরে যে ঐতিহাসিক ভুলের সূচনা হয়েছিল, বর্তমান প্রেক্ষাপটে তার পুনরাবৃত্তি হবে আত্মঘাতী",
+      "image_url": "https://media.ndiganta.com/original_images/Ehsan-A-Siddique.jpg"
+    },
+    {
+      "headline": "বইমেলা : ঐতিহ্য, সঙ্কট ও ভবিষ্যতের ভাবনা",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/rF5OTkzpqmBH/",
+      "published_at": null,
+      "summary": "সবচেয়ে বড় কথা, বইমেলার মূল লক্ষ্য হওয়া উচিত জ্ঞানচর্চা ও পাঠাভ্যাস শক্তিশালী করা। যদি বইমেলা শুধু উৎসবমুখর ভিড়ের জায়গায় পরিণত হয়, তবে এর মৌলিক উদ্দেশ্য পূরণ হবে না। তাই প্রয়োজন একটি সুপরিকল্পিত নীতি, যেখানে প্রকাশক, লেখক, পাঠক এবং আয়োজকদের স্বার্থের মধ্যে একটি ভারসাম্য তৈরি করা যাবে। বাংলা একাডেমির অমর একুশে বইমেলা বাংলাদেশী আত্মপরিচয়ের একটি গুরুত্বপূর্ণ প্রতীক। এই প্রতীক টিকিয়ে রাখতে হলে ঐতিহ্য ও আধুনিকতার সমন্বয়ে বইমেলা আরো সৃজনশীল, স্বচ্ছ ও পাঠকবান্ধব করে তোলা সময়ের দাবি।",
+      "image_url": "https://media.ndiganta.com/original_images/mynl_krm.webp"
     },
     {
       "headline": "কাজের চাপে অসুস্থ হয়ে পড়ায় নেইমারের বিরুদ্ধে মামলা করলেন তাঁর রাঁধুনি",
@@ -1371,121 +1487,6 @@
       "summary": "অ্যাডোবির তথ্য অনুযায়ী, নতুন এ সুবিধা প্রযুক্তিগত বিষয়ে সময় কমিয়ে নির্মাতাদের গল্প বলার ক্ষেত্রে বেশি মনোযোগ দেওয়ার সুযোগ তৈরি করবে।",
       "image_s3_key": "prothomalo-bangla/2026-03-06/9x1l6ykf/Adobe.png",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/9x1l6ykf/Adobe.png?auto=format,compress"
-    },
-    {
-      "headline": "ইবি শিক্ষিকা হত্যাকাণ্ড তদন্তে ৫ সদস্যের কমিটি গঠন",
-      "url": "https://www.bd-pratidin.com/campus-online/2026/03/07/1225218",
-      "published_at": "2026-03-07T16:07:52+06:00",
-      "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি ও সহকারী অধ্যাপক আসমা সাদিয়া রুনা নিজ অফিস কক্ষে হত্যাকাণ্ডের ঘটনায় পাঁচ সদস্যের তদন্ত কমিটি করেছে বিশ্ববিদ্যালয় প্রশাসন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772878071-e06d061a77a7bde916b8a91163029d41.jpg"
-    },
-    {
-      "headline": "সোনারগাঁও ইউনিভার্সিটিতে চলছে ভর্তি মেলা",
-      "url": "https://www.bd-pratidin.com/campus-online/2026/03/07/1225216",
-      "published_at": "2026-03-07T16:00:37+06:00",
-      "summary": "সোনারগাঁও ইউনিভার্সিটির সামার–২০২৬ সেমিস্টারে ভর্তিচ্ছুক শিক্ষার্থীদের জন্য ভর্তি ফি-এর ওপর ৪০ শতাংশ ছাড়ে মাসব্যাপী তিনটি অনুষদের ১৩ বিভাগে ২১ বিষয়ে ভর্তি মেলা চলছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772877636-c7c4bec3a8885a5ed4bb4f005ae00d43.jpg"
-    },
-    {
-      "headline": "ইরানি সেই জাহাজের কাউকে ফেরত না পাঠাতে শ্রীলঙ্কাকে চাপ যুক্তরাষ্ট্রের?",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225210",
-      "published_at": "2026-03-07T15:49:01+06:00",
-      "summary": "যুক্তরাষ্ট্রের টর্পেডো হামলায় শ্রীলঙ্কা উপকূলে ভারত মহাসাগরে ডুবে গেছে ইরানের একটি যুদ্ধজাহাজ। সেখান থেকে যাদেরকে উদ্ধার করা হয়েছে, তাদের ইরানে ফেরত না পাঠানোর জন্য শ্রীলঙ্কা সরকারকে চাপ দিচ্ছে আমেরিকা- এমনটিই দাবি করেছে ব্রিটিশ বার্তাসংস্থা রয়টার্স।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772876940-3ae5bdaa1a641e43a297f413f20befac.jpg"
-    },
-    {
-      "headline": "ব্রাহ্মণবাড়িয়া কারাগারে হাজতির মৃত্যু",
-      "url": "https://www.ittefaq.com.bd/778324/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%A3%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
-      "published_at": null,
-      "summary": "ব্রাহ্মণবাড়িয়া জেলা কারাগারে শাহাজান মিয়া (৫০) নামে এক হাজতির মৃত্যু হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/2449a810577ccb8917c640e8d1d96961-69abfcbf36103.jpg"
-    },
-    {
-      "headline": "ফাইনাল বৃষ্টিতে ভেসে গেলে শিরোপা যাবে কার হাতে",
-      "url": "https://www.ittefaq.com.bd/778323/%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%87%E0%A6%B8%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%87%C2%A0",
-      "published_at": null,
-      "summary": "পর্দা নামতে যাচ্ছে টি-টোয়েন্টি বিশ্বকাপের দশম আসরের। রোববার (৮ মার্চ) আহমেদাবাদের নরেন্দ্র মোদি স্টেডিয়ামে ফাইনালে নিউজিল্যান্ডের মোকাবিলা করবে ভারত। গত কয়েক সপ্তাহের ব্যাট-বলের যুদ্ধ শেষে কোন দল শিরোপা উঁচিয়ে ধরে, সেটা দেখতে অধীর অপেক্ষায় ভক্তরা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/084776be3f9b05fa6d1a878b1cdbadb4-69abfa5ba95f6.jpg"
-    },
-    {
-      "headline": "৮০ হাজার নারীসহ ১ লাখ স্বাস্থ্যকর্মী নিয়োগ দেবে সরকার: স্বাস্থ্য প্রতিমন্ত্রী",
-      "url": "https://www.ittefaq.com.bd/778322/%E0%A6%8F%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A7%AE%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%87",
-      "published_at": null,
-      "summary": "স্বাস্থ্য প্রতিমন্ত্রী অধ্যাপক ডা. এম এ মুহিত বলেছেন, প্রাইমারি হেলথকেয়ার সিস্টেমকে আরও সার্বজনীন করতে এক লাখ স্বাস্থ্য কর্মী নিয়োগ দেয়ার পরিকল্পনা করছে সরকার।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/4f7df09a6bba128cbfee5f33d7b0b97d-69abf945c2a37.jpg"
-    },
-    {
-      "headline": "হরমুজ প্রণালিতে মার্কিন বাহিনীর ‘অপেক্ষায়’ ইরানের বিপ্লবী গার্ডস",
-      "url": "https://www.ittefaq.com.bd/778321/%E0%A6%B9%E0%A6%B0%E0%A6%AE%E0%A7%81%E0%A6%9C-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A6%A8%E0%A7%80%E0%A6%B0-%E2%80%98%E0%A6%85%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A7%9F%E2%80%99-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "হরমুজ প্রণালিতে জাহাজ চলাচলের পাহারায় থাকা ইরানের ইসলামিক বিপ্লবী গার্ডস কর্পস (আইআরজিসি) মার্কিন বাহিনীর জন্য ‘অপেক্ষা’ করছে বলে জানিয়েছে আইআরজিসি’র মুখপাত্র আলী মোহাম্মদ নাইনি।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/743ad06135677e11f592beb9114ca3a4-69abf90a43690.jpg"
-    },
-    {
-      "headline": "খুলনায় নারীর ব্যাগে মিললো ৫টি অত্যাধুনিক অস্ত্রসহ বিপুল গুলি",
-      "url": "https://www.ittefaq.com.bd/778320/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AE%E0%A6%A1%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A7%AB%E0%A6%9F%E0%A6%BF-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B9",
-      "published_at": null,
-      "summary": "খুলনায় পুলিশ তিনটি পৃথক মডেলের পাঁচটি বিদেশি পিস্তল ও ৯৬ রাউন্ড গুলিসহ সুরাইয়া পারভীন সুমি (৩৮) নামে এক নারীকে গ্রেপ্তারের তথ্য জানিয়েছে পুলিশ।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/f82f5e9a7d4a36a16f6601cf1219950d-69abf6fa679d5.jpg"
-    },
-    {
-      "headline": "লোহাগড়ায় দু’পক্ষের সংঘর্ষে নারীসহ আহত ১৫",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/I9XVIjBSP27e/",
-      "published_at": null,
-      "summary": "বাঁকা গ্রামের ইউপি সদস্য জিরু কাজী সমর্থিত লোকজনদের সাথে একই গ্রামের আক্তার হোসেন সমর্থিত লোকজনদের মধ্যে দীর্ঘদিন ধরে আধিপত্য বিস্তার ও পূর্বশত্রুতার জের ধরে বিরোধ চলে আসছিল।",
-      "image_url": "https://media.ndiganta.com/original_images/Untitled-25_LpNGiFr.jpg"
-    },
-    {
-      "headline": "ইবি শিক্ষিকা হত্যার প্রতিবাদে মাভাবিপ্রবিতে শিক্ষকদের মানববন্ধন",
-      "url": "https://dailynayadiganta.com/bangladesh/education-campus/XeeljRQndGbh/",
-      "published_at": null,
-      "summary": "বক্তারা বলেন, একজন শিক্ষককে নৃশংসভাবে হত্যা করা অত্যন্ত উদ্বেগজনক ও নিন্দনীয় ঘটনা। এ ধরনের ঘটনার পুনরাবৃত্তি রোধে দ্রুত সুষ্ঠু তদন্তের মাধ্যমে জড়িতদের আইনের আওতায় এনে দৃষ্টান্তমূলক শাস্তি নিশ্চিত করার দাবি জানান তারা।",
-      "image_url": "https://media.ndiganta.com/original_images/Tangail_gNBRvMf.jpg"
-    },
-    {
-      "headline": "তেল পাচার রোধে তাহিরপুর সীমান্তে বিজিবির নজরদারি জোরদার",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/Gl8SP3kU11gx/",
-      "published_at": null,
-      "summary": "উপজেলার তিনটি শুল্ক বন্দরসহ সীমান্তবর্তী বিভিন্ন পয়েন্টে তল্লাশি ও বিশেষ অভিযান পরিচালনা করা হচ্ছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Untitled-23_HF8xBCf.jpg"
-    },
-    {
-      "headline": "পানিশূন্য পুরাতন ব্রহ্মপুত্র নদ এখন মশার প্রজননকেন্দ্র",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/CPsW9eBIiVwG/",
-      "published_at": null,
-      "summary": "নদী দখল করে বিশ্ববিদ্যালয় স্থাপন, ক্ষুব্ধ এলাকাবাসী",
-      "image_url": "https://media.ndiganta.com/original_images/Jamalpur-Brahmaputra-River.jpg"
-    },
-    {
-      "headline": "অপরাধীদের কোনোভাবেই ছাড় দেয়া হবে না : প্রবাসীকল্যাণ মন্ত্রী আরিফুল হক",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/6plZBRfIBkuy/",
-      "published_at": null,
-      "summary": "সন্ত্রাস-চাঁদাবাজদের বিরুদ্ধে প্রধানমন্ত্রী জিরো টলারেন্স ঘোষণা করেছেন। তাই কোনোভাবেই সিলেটে এসব কর্মকাণ্ড বরদাশত করা হবে না।",
-      "image_url": "https://media.ndiganta.com/original_images/Untitled-24_4vhlqRh.jpg"
-    },
-    {
-      "headline": "ইরান ভেনেজুয়েলা নয়, সেখানে ট্রাম্পের ‘দেলসি মডেল’ সরকার বসানো কি এত সহজ হবে",
-      "url": "https://www.prothomalo.com/world/middle-east/4873e75zd9",
-      "published_at": "2026-03-07T07:57:09.351000+00:00",
-      "summary": "ইরানের শাসনব্যবস্থায় যাঁরা বেঁচে আছেন, তাঁদের জন্য যুক্তরাষ্ট্রের সঙ্গে কাজ করার ইচ্ছা প্রকাশ কঠিন, পরদিন বিছানা ছেড়ে ওঠার আগেই তাঁদের হত্যা করা হতে পারে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-07/5tifjws4/Trump.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/5tifjws4/Trump.avif?auto=format,compress"
-    },
-    {
-      "headline": "জ্বালানি তেলের মজুত ও পাইপলাইনের সঠিক চিত্র তুলে ধরা জরুরি",
-      "url": "https://www.prothomalo.com/business/analysis/zjbozlewmj",
-      "published_at": "2026-03-07T07:54:11.077000+00:00",
-      "summary": " অকটেন, পেট্রোল, ডিজেল, কেরাসিনের মজুত কত, কী পরিমাণ পাইপলাইনে আছে, কোন জাহাজ কোথায় আছে, কত দিন পর দেশে আসবে—তা নিয়ে প্রতিদিন একবার জ্বালানি মন্ত্রণালয় ব্রিফিং করতে পারে।",
-      "image_s3_key": "prothomalo-bangla/2024-05/da79b8f6-fb80-4510-8236-2bace6ef4c91/selim_rayhan.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-05/da79b8f6-fb80-4510-8236-2bace6ef4c91/selim_rayhan.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘এক কিলোমিটার লাইনে দাঁড়িয়ে দুই লিটার তেল নিলাম’",
-      "url": "https://www.prothomalo.com/video/bangladesh/9d5e23dzsd",
-      "published_at": "2026-03-07T07:49:48.847000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-03-07/m3m36h5g/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/m3m36h5g/WEB.jpg?auto=format,compress"
     }
   ]
 }
