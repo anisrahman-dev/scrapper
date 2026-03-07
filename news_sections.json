@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-03-07T21:19:39.841336+00:00",
+  "fetched_at": "2026-03-07T21:45:45.581561+00:00",
   "sections": {
     "latest": [
       {
-        "headline": "বাহরাইনে মার্কিন ঘাঁটি লক্ষ্য করে ইরানের হামলা: আইআরজিসি",
+        "headline": "ইরাকের কুর্দিস্তানে মার্কিন সামরিক ঘাঁটিতে ড্রোন হামলা",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-07T21:04:37.501000+00:00",
+        "published_at": "2026-03-07T21:30:53.009000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
+      },
+      {
+        "headline": "তৃষা ‘প্রিন্সেস’, বিচ্ছেদের গুঞ্জনের মধ্যেই ভাইরাল বিজয়ের পুরোনো মন্তব্য",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/x19g53vlgz",
+        "published_at": "2026-03-07T21:30:00+00:00",
+        "summary": "বিচ্ছেদের আলোচনার মধ্যে গত বৃহস্পতিবার এক বিয়ের আয়োজনে একসঙ্গে দেখা যায় বিজয়-তৃষাকে, যা তাঁদের সম্পর্ককে ঘিরে নতুন গুঞ্জন উসকে দিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-07/fopi6wyf/153612050.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/fopi6wyf/153612050.jpg?auto=format,compress"
       },
       {
         "headline": "পিটিআইয়ের শীর্ষ নেতাদের কারাদণ্ড",
@@ -299,14 +307,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/xc70gnn0/prothomalo-bangla2024.avif?auto=format,compress"
       },
       {
-        "headline": "র‍্যাংগস ইমার্টের ‘ঈদ উৎসব প্রতিদিন’ শুরু",
-        "url": "https://www.prothomalo.com/business/ca783whcnm",
-        "published_at": "2026-03-07T15:30:00+00:00",
-        "summary": "এই ক্যাম্পেইনের আওতায় ক্রেতারা পাচ্ছেন ৪৮ শতাংশ পর্যন্ত ছাড়, প্রতিদিনের উপহার (সারপ্রাইজ গিফট), বিভিন্ন ব্যাংকের বাড়তি অফার ও ২৪ মাস পর্যন্ত শূন্য ইএমআই সুবিধা।",
-        "image_s3_key": "prothomalo-bangla/2026-03-07/r8400rnk/Ranges.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/r8400rnk/Ranges.jpg?auto=format,compress"
-      },
-      {
         "headline": "নারী দিবসের বিশেষ আয়োজন",
         "url": "https://www.bd-pratidin.com/special-occasion-for-womens-day",
         "published_at": null,
@@ -377,6 +377,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772899172-bb7ebb8271534528bb73fe021b9086f5.jpg"
       },
       {
+        "headline": "তারেক রহমান আজ জাতির নেতা: তথ্যমন্ত্রী",
+        "url": "https://www.ittefaq.com.bd/778395/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%86%E0%A6%9C-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+        "published_at": null,
+        "summary": "তথ্য ও সম্প্রচার মন্ত্রী জহির উদ্দিন স্বপন এমপি বলেছেন, তারেক রহমান আজ জাতির নেতা হিসেবে প্রতিষ্ঠিত হয়েছেন। জনগণের ভোট ও ম্যান্ডেটে তিনি দেশের প্রধানমন্ত্রী হিসেবে দায়িত্ব গ্রহণ করে জাতির নেতৃত্ব হাতে নিয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/8a6c3751ea9ef5b98a60fd2a4c2a1d7f-69ac93f36c8e4.jpg"
+      },
+      {
         "headline": "‘খেজুরের দাম’ নিয়ে তর্ক, গ্রাহককে চেয়ার ছুড়ে মারলেন স্টার কাবাবের কর্মী",
         "url": "https://www.ittefaq.com.bd/778393/%E2%80%98%E0%A6%96%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E2%80%99-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%9B%E0%A7%81%E0%A7%9C%E0%A7%87",
         "published_at": null,
@@ -440,13 +447,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/f51b54801849613489d57bc3699ab7f6-69ac5ac23a016.jpg"
       },
       {
-        "headline": "ইরানের ৪২ নৌযান ও ১৬ বিমান ধ্বংসের দাবি যুক্তরাষ্ট্র-ইসরায়েলের",
-        "url": "https://www.ittefaq.com.bd/778384/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A7%AA%E0%A7%A8-%E0%A6%A8%E0%A7%8C%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%93-%E0%A7%A7%E0%A7%AC-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
-        "published_at": null,
-        "summary": "মার্কিন হামলায় ইরানের সামরিক সক্ষমতা উল্লেখযোগ্যভাবে ক্ষতিগ্রস্ত হয়েছে বলে দাবি করেছেন ডোনাল্ড ট্রাম্প। তার মতে, এতে ইরানের নৌবাহিনী, বিমান বাহিনী ও টেলিযোগাযোগ ব্যবস্থায় বড় ধরনের ক্ষতি হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/69fa397edde6e22a9df83c9bbf8f203c-69ac55a4c0739.jpg"
-      },
-      {
         "headline": "কৌশল পাল্টে ঢুকছে মাদক",
         "url": "https://dailynayadiganta.com/printed-edition/ggoUUzW0xxYN/",
         "published_at": null,
@@ -466,6 +466,13 @@
         "published_at": null,
         "summary": "জাতীয় সংসদের প্রথম অধিবেশন সামনে রেখে রাজনৈতিক অঙ্গনে নতুন করে উত্তাপ ছড়িয়েছে ডেপুটি স্পিকার পদকে ঘিরে। সরকারপক্ষের প্রস্তাব-প্রধান বিরোধী দলকে ডেপুটি স্পিকার পদ দেয়া হবে। তবে বিরোধী শিবির স্পষ্ট বার্তা দিয়েছে, গণভোটে অনুমোদিত ‘জুলাই জাতীয় সনদ’ পূর্ণাঙ্গভাবে বাস্তবায়নের সুস্পষ্ট রূপরেখা ছাড়া তারা আপাতত এই পদ গ্রহণ করবে না। ফলে স্পিকার-ডেপুটি স্পিকার নির্বাচনকে ঘিরে যে ঐকমত্যের বার্তা সরকার দিতে চেয়েছিল, তা এখন শর্তসাপেক্ষ রাজনৈতিক সমীকরণে আটকে যাচ্ছে। শুধু ডেপুটি স্পিকার নয়, জুলাই সনদের আইনি ভিত্তির বিষয়টি নিয়েই অচলাবস্থা তৈরি হয়েছে।",
         "image_url": "https://media.ndiganta.com/images/first-1_NC7bzAE.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "মাটির নিচে পানির ট্যাংকিতে জ্বালানি তেল মজুদ!",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/zSh2VhC4dVv6/",
+        "published_at": null,
+        "summary": "একটি বাঁশের ঝাঁড়ে মাটির নিচে পানির ট্যাংকিতে অবৈধভাবে তেল সংরক্ষণের খবরে অভিযান পরিচালনা করা হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/Singra-oil.jpg"
       },
       {
         "headline": "ফটিকছড়িতে মাটি কাটা নিয়ে বিএনপি-ছাত্রদল সংঘর্ষ, আহত ৮",
@@ -510,17 +517,10 @@
         "image_url": "https://media.ndiganta.com/original_images/Charfashon-8-3.jpg"
       },
       {
-        "headline": "মেহেরপুরে বিশিষ্ট ব্যক্তিদের সম্মানে এনসিপির ইফতার মাহফিল",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/kKQ6i3UeUfmv/",
-        "published_at": null,
-        "summary": "অনুষ্ঠানে বক্তারা পবিত্র রমজান মাসের তাৎপর্য তুলে ধরে সমাজে পারস্পরিক সহমর্মিতা, ঐক্য ও ন্যায়ের পক্ষে কাজ করার আহ্বান জানান। ইফতার মাহফিল শেষে দেশ ও জাতির কল্যাণ কামনায় বিশেষ দোয়া অনুষ্ঠিত হয়।",
-        "image_url": "https://media.ndiganta.com/original_images/Meherpur-8-3.jpg"
-      },
-      {
         "headline": "আজকের সর্বশেষ খবর - March 07, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "ইসরাইল প্রথমবারের মতো সরাসরি ইরানের তেলক্ষেত্র ও তেলের অবকাঠামোতে হামলা চালিয়েছে। রোববার রাতে ইসরাইলি বিমানবাহিনী এই অভিযান শুরু করে। সামাজিক ...",
+        "summary": "ইসরাইলের হাইফা নৌঘাঁটি লক্ষ্য করে মিসাইল ছুঁড়েছে লেবাননের শক্তিশালী সশস্ত্র গোষ্ঠী হিজবুল্লাহ। বাংলাদেশ সময় রোববার দিবাগত রাত প্রায় ২টা এবং ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -529,6 +529,28 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "র‍্যাংগস ইমার্টের ‘ঈদ উৎসব প্রতিদিন’ শুরু",
+        "url": "https://www.prothomalo.com/business/ca783whcnm",
+        "published_at": "2026-03-07T15:30:00+00:00",
+        "summary": "এই ক্যাম্পেইনের আওতায় ক্রেতারা পাচ্ছেন ৪৮ শতাংশ পর্যন্ত ছাড়, প্রতিদিনের উপহার (সারপ্রাইজ গিফট), বিভিন্ন ব্যাংকের বাড়তি অফার ও ২৪ মাস পর্যন্ত শূন্য ইএমআই সুবিধা।",
+        "image_s3_key": "prothomalo-bangla/2026-03-07/r8400rnk/Ranges.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/r8400rnk/Ranges.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ইরানের ৪২ নৌযান ও ১৬ বিমান ধ্বংসের দাবি যুক্তরাষ্ট্র-ইসরায়েলের",
+        "url": "https://www.ittefaq.com.bd/778384/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A7%AA%E0%A7%A8-%E0%A6%A8%E0%A7%8C%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%93-%E0%A7%A7%E0%A7%AC-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
+        "published_at": null,
+        "summary": "মার্কিন হামলায় ইরানের সামরিক সক্ষমতা উল্লেখযোগ্যভাবে ক্ষতিগ্রস্ত হয়েছে বলে দাবি করেছেন ডোনাল্ড ট্রাম্প। তার মতে, এতে ইরানের নৌবাহিনী, বিমান বাহিনী ও টেলিযোগাযোগ ব্যবস্থায় বড় ধরনের ক্ষতি হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/69fa397edde6e22a9df83c9bbf8f203c-69ac55a4c0739.jpg"
+      },
+      {
+        "headline": "মেহেরপুরে বিশিষ্ট ব্যক্তিদের সম্মানে এনসিপির ইফতার মাহফিল",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/kKQ6i3UeUfmv/",
+        "published_at": null,
+        "summary": "অনুষ্ঠানে বক্তারা পবিত্র রমজান মাসের তাৎপর্য তুলে ধরে সমাজে পারস্পরিক সহমর্মিতা, ঐক্য ও ন্যায়ের পক্ষে কাজ করার আহ্বান জানান। ইফতার মাহফিল শেষে দেশ ও জাতির কল্যাণ কামনায় বিশেষ দোয়া অনুষ্ঠিত হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/Meherpur-8-3.jpg"
       },
       {
         "headline": "যেভাবে প্রত্যাখ্যানকে হার মানিয়ে আধুনিক ঢাকাই সিনেমার নির্মাতা হয়ে উঠলেন রায়হান রাফী | লিগ্যাসি উইথ এমআরএইচ : সিজন–২ | পর্ব: ০৭\n",
@@ -1471,27 +1493,6 @@
         "published_at": null,
         "summary": "ইসরায়েলকে লক্ষ্য করে আবারও ক্ষেপণাস্ত্র হামলা চালিয়েছে ইরান।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/aa721eae002b8e0018f64d8402e269cf-69ac3600cb03b.jpg"
-      },
-      {
-        "headline": "তীব্র পানিসংকটে বরেন্দ্র অঞ্চলের মানুষ",
-        "url": "https://www.ittefaq.com.bd/778363/%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0-%E0%A6%85%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7",
-        "published_at": null,
-        "summary": "রাজশাহী, চাঁপাইনবাবগঞ্জ ও নওগাঁ; বরেন্দ্র অঞ্চলের এ তিন জেলার ২১৫টি ইউনিয়নের ৪ হাজার ৯১১টি মৌজাকে ‘পানি সংকটাপন্ন’ এলাকা ঘোষণা করেছে সরকার। এ অঞ্চলের প্রায় ৮৭ হাজার মানুষ সরাসরি তীব্র পানিসংকটের সম্মুখীন হয়েছে। সরকারি গেজেটে কেবল খাওয়ার পানি ছাড়া অন্য কোনো কাজে ১০ বছরের জন্য উল্লিখিত এলাকায় ভূগর্ভস্থ পানি উত্তোলন নিষিদ্ধ করা হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/d582a2cd932db2a2f35df10d122d8fbb-69ac35bea76eb.jpg"
-      },
-      {
-        "headline": "রোববার থেকে মার্কেট-শপিংমলে আলোকসজ্জা বন্ধ রাখার সিদ্ধান্ত",
-        "url": "https://www.ittefaq.com.bd/778362/%E0%A6%B0%E0%A7%8B%E0%A6%AC%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%9F-%E0%A6%B6%E0%A6%AA%E0%A6%BF%E0%A6%82%E0%A6%AE%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A6%B8%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B0",
-        "published_at": null,
-        "summary": "মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতির কারণে বৈশ্বিক বাজারে দ্রুততার সাথেই বাড়ছে জ্বালানি তেলের দাম। সারা বিশ্বে তেল সরবরাহের গুরুত্বপূর্ণ পথ হরমুজ প্রণালী বন্ধ থাকায় অচিরেই বিশ্ববাজারে জ্বালানি সংকট তৈরি হওয়ার সম্ভাবনা উড়িয়ে দেওয়া যাচ্ছে না।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/94aca9f4bb38cd51278bf5436401f14b-69ac32cb480a5.jpeg"
-      },
-      {
-        "headline": "ব্রিটিশ প্রধানমন্ত্রীর সঙ্গে ফোনালাপ, ইরান ইস্যুতে সংলাপের আহ্বান এরদোয়ানের",
-        "url": "https://www.ittefaq.com.bd/778361/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B6-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AB%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%AA-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%87",
-        "published_at": null,
-        "summary": "তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ব্রিটিশ প্রধানমন্ত্রী কিয়ার স্টারমারকে বলেছেন, ইরান ইস্যুতে সংলাপের উপযোগী পরিবেশ তৈরিতে আরও পদক্ষেপ নেওয়া যেতে পারে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/8dfc1690252ea8cc499252a909c51b36-69ac31fe59b27.jpg"
       }
     ],
     "bangladesh": [
@@ -1886,6 +1887,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772899172-bb7ebb8271534528bb73fe021b9086f5.jpg"
       },
       {
+        "headline": "তারেক রহমান আজ জাতির নেতা: তথ্যমন্ত্রী",
+        "url": "https://www.ittefaq.com.bd/778395/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%86%E0%A6%9C-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+        "published_at": null,
+        "summary": "তথ্য ও সম্প্রচার মন্ত্রী জহির উদ্দিন স্বপন এমপি বলেছেন, তারেক রহমান আজ জাতির নেতা হিসেবে প্রতিষ্ঠিত হয়েছেন। জনগণের ভোট ও ম্যান্ডেটে তিনি দেশের প্রধানমন্ত্রী হিসেবে দায়িত্ব গ্রহণ করে জাতির নেতৃত্ব হাতে নিয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/8a6c3751ea9ef5b98a60fd2a4c2a1d7f-69ac93f36c8e4.jpg"
+      },
+      {
         "headline": "প্রতিশ্রুতিশীল ভবিষ্যতের দ্বারপ্রান্তে দাঁড়িয়ে বাংলাদেশ-ভারত",
         "url": "https://www.ittefaq.com.bd/778387/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%80%E0%A6%B2-%E0%A6%AD%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87",
         "published_at": null,
@@ -1947,13 +1955,6 @@
         "published_at": null,
         "summary": "আন্তর্জাতিক নারী দিবস উপলক্ষে বিশ্বের সব নারীকে আন্তরিক শুভেচ্ছা ও অভিনন্দন জানিয়েছেন প্রধানমন্ত্রী। তিনি বলেছেন, নারীর অধিকার, শিক্ষা, স্বাস্থ্য, নিরাপত্তা ও অংশগ্রহণ নিশ্চিত করা গেলে তবেই একটি রাষ্ট্রের উন্নয়ন টেকসই হয়।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/fd1f53a876b961cc76a0616dbefedf4c-69ac27f811de3.jpg"
-      },
-      {
-        "headline": "রমজান মাসে ব্যবসায়ীদের অশুভ পন্থা অবলম্বন না করার আহ্বান প্রধানমন্ত্রীর",
-        "url": "https://www.ittefaq.com.bd/778347/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%B6%E0%A7%81%E0%A6%AD-%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%A8-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0",
-        "published_at": null,
-        "summary": "পবিত্র রমজান মাসে ব্যবসায়ীদের অশুভ পন্থা অবলম্বন না করতে আহ্বান জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান। শনিবার (৭ মার্চ) সন্ধ্যায় রাজধানীর হেয়ার রোডের রাষ্ট্রীয় অতিথি ভবন যমুনায় আলেম ওলামা ও এতিমদের সম্মানে ইফতার আয়োজনে এসব কথা বলেন তিনি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/4d26d762c74d925bc4207bf07338a7b3-69ac1fb0eb48c.jpg"
       },
       {
         "headline": "ফিলিং স্টেশনে তেল নিতে গিয়ে বাগ্‌বিতণ্ডা, বিক্রয়কর্মীদের মারধরে তরুণ নিহত",
@@ -2234,6 +2235,13 @@
         "published_at": "1772895354",
         "summary": "ব্রাহ্মণবাড়িয়ার বাঞ্ছারামপুরে জাতীয় সাংবাদিক সংস্থার ৫৪তম প্রতিষ্ঠাবার্ষিকী উপলক্ষে আলোচনা সভা, ইফতার ও দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-07T205451315-20260307145554.jpg"
+      },
+      {
+        "headline": "রমজান মাসে ব্যবসায়ীদের অশুভ পন্থা অবলম্বন না করার আহ্বান প্রধানমন্ত্রীর",
+        "url": "https://www.ittefaq.com.bd/778347/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%B6%E0%A7%81%E0%A6%AD-%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A5%E0%A6%BE-%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%A8-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0",
+        "published_at": null,
+        "summary": "পবিত্র রমজান মাসে ব্যবসায়ীদের অশুভ পন্থা অবলম্বন না করতে আহ্বান জানিয়েছেন প্রধানমন্ত্রী তারেক রহমান। শনিবার (৭ মার্চ) সন্ধ্যায় রাজধানীর হেয়ার রোডের রাষ্ট্রীয় অতিথি ভবন যমুনায় আলেম ওলামা ও এতিমদের সম্মানে ইফতার আয়োজনে এসব কথা বলেন তিনি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/4d26d762c74d925bc4207bf07338a7b3-69ac1fb0eb48c.jpg"
       },
       {
         "headline": "গাজীপুরে সুজন নেতা হত্যার প্রতিবাদে মানববন্ধন ও স্মারকলিপি প্রদান",
@@ -2959,13 +2967,6 @@
         "published_at": "2026-03-07T16:26:43+06:00",
         "summary": "রমজান ও আসন্ন ঈদকে সামনে রেখে নিত্যপ্রয়োজনীয় পণ্যের সরবরাহ স্বাভাবিক রাখা এবং অবৈধ মজুত ও অতিমুনাফা প্রতিরোধে বাজারে নিয়মিত তদারকি করা হচ্ছে বলে জানিয়েছেন মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772879202-5307cc152be8d13319aef4455b739adf.jpg"
-      },
-      {
-        "headline": "৮৬ ক্ষেপণাস্ত্র ও ১৪৮ ড্রোন প্রতিহতের দাবি বাহরাইনের",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225221",
-        "published_at": "2026-03-07T16:16:30+06:00",
-        "summary": "গত ২৮ ফেব্রুয়ারি থেকে ইরানের ওপর হামলা শুরু করেছে ইসরায়েল ও যুক্তরাষ্ট্র। তাৎক্ষণিক পাল্টা হামলা শুরু করে ইরানও। এতে অগ্নিগর্ভ হয়ে উঠেছে গোটা মধ্যপ্রাচ্য। পাল্টা হামলার শিকার হয়েছে বাহরাইনে অবস্থিত মার্কিন ঘাঁটি ও স্থাপনাও।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772878589-c028754aeee5c91b9f156b0200355e9e.jpg"
       }
     ],
     "politics": [
@@ -4372,9 +4373,9 @@
     ],
     "world": [
       {
-        "headline": "বাহরাইনে মার্কিন ঘাঁটি লক্ষ্য করে ইরানের হামলা: আইআরজিসি",
+        "headline": "ইরাকের কুর্দিস্তানে মার্কিন সামরিক ঘাঁটিতে ড্রোন হামলা",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-07T21:04:37.501000+00:00",
+        "published_at": "2026-03-07T21:30:53.009000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
@@ -8816,6 +8817,14 @@
     ],
     "entertainment": [
       {
+        "headline": "তৃষা ‘প্রিন্সেস’, বিচ্ছেদের গুঞ্জনের মধ্যেই ভাইরাল বিজয়ের পুরোনো মন্তব্য",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/x19g53vlgz",
+        "published_at": "2026-03-07T21:30:00+00:00",
+        "summary": "বিচ্ছেদের আলোচনার মধ্যে গত বৃহস্পতিবার এক বিয়ের আয়োজনে একসঙ্গে দেখা যায় বিজয়-তৃষাকে, যা তাঁদের সম্পর্ককে ঘিরে নতুন গুঞ্জন উসকে দিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-07/fopi6wyf/153612050.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/fopi6wyf/153612050.jpg?auto=format,compress"
+      },
+      {
         "headline": "‘নীরব চাপে জমছে এক বিস্ফোরণ…ঢাকনা উঠলেই বের হবে সেই হুইসেল’",
         "url": "https://www.prothomalo.com/entertainment/dhallywood/7yb6smcbv8",
         "published_at": "2026-03-07T18:30:00+00:00",
@@ -9128,14 +9137,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/fzcbenh5/ayeshaakhanofficial1771233633383370632627095404811054152984.jpg?auto=format,compress"
       },
       {
-        "headline": "চোখ খোলার সঙ্গে সঙ্গে আম্মুকে খুঁজছিলাম: টিউমার অস্ত্রোপচারের পর তানিয়া বৃষ্টি",
-        "url": "https://www.prothomalo.com/entertainment/tv/q8jdqs16km",
-        "published_at": "2026-03-05T08:00:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-03-05/99sd5o9x/6051283438488182148000326699159186147530078n.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/99sd5o9x/6051283438488182148000326699159186147530078n.jpg?auto=format,compress"
-      },
-      {
         "headline": "নারী দিবসের বিশেষ আয়োজন",
         "url": "https://www.bd-pratidin.com/special-occasion-for-womens-day",
         "published_at": null,
@@ -9414,6 +9415,14 @@
         "published_at": "1772270492",
         "summary": "জনপ্রিয় ছোটপর্দা অভিনেতা জাহের আলভীর স্ত্রী ইকরা আত্মহত্যা করেছেন। শনিবার দুপুর দেড়টার দিকে রাজধানীর মিরপুর ডিওএইচএস এলাকার একটি বাসায় এই ঘটনা ঘটে। অভিনেতার শ্বশুরবাড়ির পক্ষ থেকে গণমাধ্যমকে বিষয়টি নিশ্চিত করা হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-28-20260228092132.jpg"
+      },
+      {
+        "headline": "চোখ খোলার সঙ্গে সঙ্গে আম্মুকে খুঁজছিলাম: টিউমার অস্ত্রোপচারের পর তানিয়া বৃষ্টি",
+        "url": "https://www.prothomalo.com/entertainment/tv/q8jdqs16km",
+        "published_at": "2026-03-05T08:00:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-05/99sd5o9x/6051283438488182148000326699159186147530078n.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/99sd5o9x/6051283438488182148000326699159186147530078n.jpg?auto=format,compress"
       },
       {
         "headline": "জ্বালানি সাশ্রয়ে দোকানপাট ও শপিংমলে কমানো হচ্ছে আলোকসজ্জা",
@@ -10266,13 +10275,6 @@
         "published_at": "2026-03-06T19:09:22+06:00",
         "summary": "ইরান-ইসরাইল সংঘাতের কারণে সংযুক্ত আরব আমিরাতে আটকে পড়া ৪০৫ যাত্রী নিয়ে ঢাকায় এসেছে দ্বিতীয় বিশেষ ফ্লাইট। শুক্রবার (৬ মার্চ) সকাল ৬টা ৭ মিনিটে শাহজালাল আন্তর্জাতিক বিমানবন্দরে অবতরণ করে ইউএস-বাংলা এয়ারলাইনসের এই ফ্লাইট।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772802561-0a243f43f61ed11b3e32ff9016859ebf.jpg"
-      },
-      {
-        "headline": "কূটনীতিকদের সঙ্গে ইফতার করলেন প্রধানমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/national/2026/03/06/1224867",
-        "published_at": "2026-03-06T19:07:07+06:00",
-        "summary": "ঢাকায় নিযুক্ত বিভিন্ন দেশের কূটনীতিকদের সঙ্গে ইফতার করেছেন প্রধানমন্ত্রী তারেক রহমান। শুক্রবার রাষ্ট্রীয় অতিথি ভবন যমুনায় কূটনীতিকদের সম্মানে এই ইফতারের আয়োজন করেন তিনি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/06/og/1772805786-7b1ce93e269467ce656a8f9ebd48da13.jpg"
       }
     ],
     "jobs": [
