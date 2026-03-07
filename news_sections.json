@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-03-07T20:50:56.134803+00:00",
+  "fetched_at": "2026-03-07T21:19:39.841336+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "বাহরাইনে মার্কিন ঘাঁটি লক্ষ্য করে ইরানের হামলা: আইআরজিসি",
+        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+        "published_at": "2026-03-07T21:04:37.501000+00:00",
+        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
+      },
+      {
+        "headline": "পিটিআইয়ের শীর্ষ নেতাদের কারাদণ্ড",
+        "url": "https://www.prothomalo.com/world/pakistan/sqlm8neukd",
+        "published_at": "2026-03-07T20:47:21.749000+00:00",
+        "summary": "আদালতের বিচারক আমজাদ আলী শাহ পিটিআইয়ের এই নেতাদের দাঙ্গার মূল পরিকল্পনাকারী হিসেবে দোষী সাব্যস্ত করেছেন। ",
+        "image_s3_key": "prothomalo-bangla/2022-08/b702d83f-f58b-41c6-b9ea-1745e93ea799/PTI_leader.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-08/b702d83f-f58b-41c6-b9ea-1745e93ea799/PTI_leader.webp?auto=format,compress"
+      },
       {
         "headline": "ইউক্রেনে ড্রোন-ক্ষেপণাস্ত্র হামলায় নিহত ১০",
         "url": "https://www.prothomalo.com/world/europe/vk1twz0pad",
@@ -203,14 +219,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/z2jc1ppn/20.JPG?auto=format,compress"
       },
       {
-        "headline": "বাহরাইনে মার্কিন ঘাঁটি লক্ষ্য করে ইরানের হামলা: আইআরজিসি",
-        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-07T16:43:05.100000+00:00",
-        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
-      },
-      {
         "headline": "কোটি কোটি টাকার বিমানে কেন স্মার্টফোন বন্ধ করতে বলা হয়",
         "url": "https://www.prothomalo.com/technology/wmyzg2s0o8",
         "published_at": "2026-03-07T16:42:35.971000+00:00",
@@ -299,14 +307,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/r8400rnk/Ranges.jpg?auto=format,compress"
       },
       {
-        "headline": "যেভাবে প্রত্যাখ্যানকে হার মানিয়ে আধুনিক ঢাকাই সিনেমার নির্মাতা হয়ে উঠলেন রায়হান রাফী | লিগ্যাসি উইথ এমআরএইচ : সিজন–২ | পর্ব: ০৭\n",
-        "url": "https://www.prothomalo.com/video/7l7zkcoac0",
-        "published_at": "2026-03-07T15:30:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-03-07/9go4ziwp/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/9go4ziwp/WEB.jpg?auto=format,compress"
-      },
-      {
         "headline": "নারী দিবসের বিশেষ আয়োজন",
         "url": "https://www.bd-pratidin.com/special-occasion-for-womens-day",
         "published_at": null,
@@ -377,6 +377,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772899172-bb7ebb8271534528bb73fe021b9086f5.jpg"
       },
       {
+        "headline": "‘খেজুরের দাম’ নিয়ে তর্ক, গ্রাহককে চেয়ার ছুড়ে মারলেন স্টার কাবাবের কর্মী",
+        "url": "https://www.ittefaq.com.bd/778393/%E2%80%98%E0%A6%96%E0%A7%87%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E2%80%99-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%9B%E0%A7%81%E0%A7%9C%E0%A7%87",
+        "published_at": null,
+        "summary": "রাজধানীতে আবারও গ্রাহককে মারধরের অভিযোগ উঠেছে স্টার হোটেল অ্যান্ড রেস্টুরেন্টের কর্মীদের বিরুদ্ধে। এবার পুরান ঢাকার রায় সাহেব বাজার মোড় এলাকায় জনসন রোডে অবস্থিত স্টার হোটেলের শাখায় ইফতারের সময় খেজুরের দাম নিয়ে তর্কের জেরে এ ঘটনা ঘটেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/ef18b2ce82381d6857ca486a735d6581-69ac8e1461b28.jpg"
+      },
+      {
         "headline": "৪ ঘণ্টায় ২৮ বার ভূমিকম্পে কেঁপেছে গোটা যুক্তরাষ্ট্র",
         "url": "https://www.ittefaq.com.bd/778392/%E0%A7%AA-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A7%A8%E0%A7%AE-%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%9F%E0%A6%BE",
         "published_at": null,
@@ -438,13 +445,6 @@
         "published_at": null,
         "summary": "মার্কিন হামলায় ইরানের সামরিক সক্ষমতা উল্লেখযোগ্যভাবে ক্ষতিগ্রস্ত হয়েছে বলে দাবি করেছেন ডোনাল্ড ট্রাম্প। তার মতে, এতে ইরানের নৌবাহিনী, বিমান বাহিনী ও টেলিযোগাযোগ ব্যবস্থায় বড় ধরনের ক্ষতি হয়েছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/69fa397edde6e22a9df83c9bbf8f203c-69ac55a4c0739.jpg"
-      },
-      {
-        "headline": "ঈদুল ফিতরের সম্ভাব্য তারিখ জানাল আরব আমিরাত",
-        "url": "https://www.ittefaq.com.bd/778383/%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%86%E0%A6%B0%E0%A6%AC-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4",
-        "published_at": null,
-        "summary": "সংযুক্ত আরব আমিরাতে আগামী ২০ মার্চ (শুক্রবার) পবিত্র ঈদুল ফিতর পালিত হতে পারে বলে জানিয়েছে শারজাহ অ্যাকাডেমি ফর অ্যাস্ট্রোনমি, স্পেস সায়েন্সেস অ্যান্ড টেকনোলজি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/b7d64df7db96075d877481cf85918248-69ac51f8661da.jpg"
       },
       {
         "headline": "কৌশল পাল্টে ঢুকছে মাদক",
@@ -517,10 +517,10 @@
         "image_url": "https://media.ndiganta.com/original_images/Meherpur-8-3.jpg"
       },
       {
-        "headline": "আজকের সর্বশেষ খবর - March 08, 2026",
+        "headline": "আজকের সর্বশেষ খবর - March 07, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "ইরান আগামী ২৪ ঘণ্টার মধ্যে নতুন সুপ্রিম লিডারের নাম ঘোষণা করতে যাচ্ছে। এর আগে দেশটির সুপ্রিম লিডার আয়াতুল্লাহ আলী খামেনি ...",
+        "summary": "ইসরাইল প্রথমবারের মতো সরাসরি ইরানের তেলক্ষেত্র ও তেলের অবকাঠামোতে হামলা চালিয়েছে। রোববার রাতে ইসরাইলি বিমানবাহিনী এই অভিযান শুরু করে। সামাজিক ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -529,6 +529,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "যেভাবে প্রত্যাখ্যানকে হার মানিয়ে আধুনিক ঢাকাই সিনেমার নির্মাতা হয়ে উঠলেন রায়হান রাফী | লিগ্যাসি উইথ এমআরএইচ : সিজন–২ | পর্ব: ০৭\n",
+        "url": "https://www.prothomalo.com/video/7l7zkcoac0",
+        "published_at": "2026-03-07T15:30:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-07/9go4ziwp/WEB.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/9go4ziwp/WEB.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ঈদুল ফিতরের সম্ভাব্য তারিখ জানাল আরব আমিরাত",
+        "url": "https://www.ittefaq.com.bd/778383/%E0%A6%88%E0%A6%A6%E0%A7%81%E0%A6%B2-%E0%A6%AB%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%96-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%86%E0%A6%B0%E0%A6%AC-%E0%A6%86%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%A4",
+        "published_at": null,
+        "summary": "সংযুক্ত আরব আমিরাতে আগামী ২০ মার্চ (শুক্রবার) পবিত্র ঈদুল ফিতর পালিত হতে পারে বলে জানিয়েছে শারজাহ অ্যাকাডেমি ফর অ্যাস্ট্রোনমি, স্পেস সায়েন্সেস অ্যান্ড টেকনোলজি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/b7d64df7db96075d877481cf85918248-69ac51f8661da.jpg"
       },
       {
         "headline": "রাঁধুনী কীর্তিমতী সম্মাননা পেলেন চার নারী",
@@ -1477,20 +1492,6 @@
         "published_at": null,
         "summary": "তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ান ব্রিটিশ প্রধানমন্ত্রী কিয়ার স্টারমারকে বলেছেন, ইরান ইস্যুতে সংলাপের উপযোগী পরিবেশ তৈরিতে আরও পদক্ষেপ নেওয়া যেতে পারে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/8dfc1690252ea8cc499252a909c51b36-69ac31fe59b27.jpg"
-      },
-      {
-        "headline": "পরিকল্পিত যাকাত ব্যবস্থাপনায় দারিদ্র্য বিমোচনে ভূমিকা রাখা সম্ভব: প্রধানমন্ত্রী",
-        "url": "https://www.ittefaq.com.bd/778360/%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%A4-%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A4-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A7%87",
-        "published_at": null,
-        "summary": "প্রধানমন্ত্রী তারেক রহমান বলেছেন, ‘লক্ষ্যভিত্তিক এবং সুনির্দিষ্ট পরিকল্পনার মাধ্যমে যাকাত দেওয়া হলে ১০ থেকে ১৫ বছরের মধ্যে শুধু যাকাত ব্যবস্থাপনার মাধ্যমেই দেশে দারিদ্র্য বিমোচনে কার্যকর ভূমিকা রাখা সম্ভব।’তিনি বলেছেন, ধনী-দরিদ্র সবমিলিয়ে দেশে বর্তমানে পরিবারের সংখ্যা কমবেশি ৪ কোটি। এসব পরিবারগুলোর মধ্যে যদি দরিদ্র কিংবা হতদরিদ্র পরিবারগুলোকে চিহ্নিত করে প্রতিবছর পর্যায়ক্রমে ৫ লাখ পরিবারকে ১ লাখ টাকা করে যাকাত দেওয়া হয়, আমার বিশ্বাস— এসব পরিবারগুলোর মধ্যে বেশিরভাগ পরিবারকে পরের বছর আর যাকাত নাও দিতে হতে পারে। লক্ষ্যভিত্তিক এবং সুনির্দিষ্ট পরিকল্পনার মাধ্যমে যাকাত দেওয়া হলে ১০ থেকে ১৫ বছরের মধ্যে শুধু যাকাত ব্যবস্থাপনার মাধ্যমেই দেশে দারিদ্র বিমোচনে কার্যকর ভূমিকা রাখা সম্ভব।শনিবার (৭ মার্চ) রাষ্ট্রীয় অতিথি ভবন যমুনায় এতিম শিশু এবং ওলামা-মাশায়েখদের সম্মানে প্রধানমন্ত্রী তারেক রহমান আয়োজিত ইফতার মাহফিল অনুষ্ঠিত হয়েছে। ইফতার পূর্ববর্তী সংক্ষিপ্ত বক্তব্যে প্রধানমন্ত্রী এসব কথা বলেন। বিষয়টি নিশ্চিত করেছেন তার ডেপুটি প্রেস সেক্রেটারি জাহিদুল ইসলাম রনি।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/f47f032a6502506c119213c86720b6bb-69ac3038785ad.jpg"
-      },
-      {
-        "headline": "ইরানে আজ ‘কঠোর আঘাত হানার’ হুমকি দিলেন ট্রাম্প",
-        "url": "https://www.ittefaq.com.bd/778359/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%9C-%E2%80%98%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%86%E0%A6%98%E0%A6%BE%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0%E2%80%99-%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%95%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA",
-        "published_at": null,
-        "summary": "ইরানে আজ ‘কঠোর আঘাত হানার হুমকি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। শনিবার (৭ মার্চ) নিজের মালিকানাধীন সামাজিক যোগাযোগমাধ্যম ট্রুথ সোশ্যালে ট্রাম্প এ কথা বলেন।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/162c3e8cd4d6ba58e34c9703b1ee52f1-69ac283c80418.jpg"
       }
     ],
     "bangladesh": [
@@ -4371,20 +4372,28 @@
     ],
     "world": [
       {
+        "headline": "বাহরাইনে মার্কিন ঘাঁটি লক্ষ্য করে ইরানের হামলা: আইআরজিসি",
+        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+        "published_at": "2026-03-07T21:04:37.501000+00:00",
+        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
+      },
+      {
+        "headline": "পিটিআইয়ের শীর্ষ নেতাদের কারাদণ্ড",
+        "url": "https://www.prothomalo.com/world/pakistan/sqlm8neukd",
+        "published_at": "2026-03-07T20:47:21.749000+00:00",
+        "summary": "আদালতের বিচারক আমজাদ আলী শাহ পিটিআইয়ের এই নেতাদের দাঙ্গার মূল পরিকল্পনাকারী হিসেবে দোষী সাব্যস্ত করেছেন। ",
+        "image_s3_key": "prothomalo-bangla/2022-08/b702d83f-f58b-41c6-b9ea-1745e93ea799/PTI_leader.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-08/b702d83f-f58b-41c6-b9ea-1745e93ea799/PTI_leader.webp?auto=format,compress"
+      },
+      {
         "headline": "ইউক্রেনে ড্রোন-ক্ষেপণাস্ত্র হামলায় নিহত ১০",
         "url": "https://www.prothomalo.com/world/europe/vk1twz0pad",
         "published_at": "2026-03-07T20:35:07.476000+00:00",
         "summary": "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি বলেন, রাশিয়া অন্তত ৪৮০টি ড্রোন এবং ২৯টি ক্ষেপণাস্ত্র ছুড়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-07/yvzzxxn0/UKRAINE-RUSSIA-CONFLICT-WAR-090417.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/yvzzxxn0/UKRAINE-RUSSIA-CONFLICT-WAR-090417.jpg?auto=format,compress"
-      },
-      {
-        "headline": "বাহরাইনে মার্কিন ঘাঁটি লক্ষ্য করে ইরানের হামলা: আইআরজিসি",
-        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-07T16:43:05.100000+00:00",
-        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ywd328bl/kwuet.jpg?auto=format,compress"
       },
       {
         "headline": "ইরানে স্থল অভিযান চালানোর ‘প্রবল’ সম্ভাবনা রয়েছে: ইরানি কুর্দি",
@@ -4683,14 +4692,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/rjkbaoa0/Iran-school.avif?auto=format,compress"
       },
       {
-        "headline": "দ্বিতীয় বিশ্বযুদ্ধের পর প্রথমবার ইরানি যুদ্ধজাহাজ তাক করে  টর্পেডো ছুড়ল যুক্তরাষ্ট্র ",
-        "url": "https://www.prothomalo.com/world/middle-east/49im97r9h9",
-        "published_at": "2026-03-06T05:39:29.951000+00:00",
-        "summary": "শ্রীলঙ্কার কর্মকর্তারা জানিয়েছেন, তাঁরা ৩২ জন ইরানি নাবিককে উদ্ধার করেছেন। জাহাজটিতে ১৮০ জন ক্রু ছিল বলে ধারণা করা হচ্ছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/ex3zo147/TORPEDO-1083120.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ex3zo147/TORPEDO-1083120.jpg?auto=format,compress"
-      },
-      {
         "headline": "নারী দিবসের বিশেষ আয়োজন",
         "url": "https://www.bd-pratidin.com/special-occasion-for-womens-day",
         "published_at": null,
@@ -4976,6 +4977,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "দ্বিতীয় বিশ্বযুদ্ধের পর প্রথমবার ইরানি যুদ্ধজাহাজ তাক করে  টর্পেডো ছুড়ল যুক্তরাষ্ট্র ",
+        "url": "https://www.prothomalo.com/world/middle-east/49im97r9h9",
+        "published_at": "2026-03-06T05:39:29.951000+00:00",
+        "summary": "শ্রীলঙ্কার কর্মকর্তারা জানিয়েছেন, তাঁরা ৩২ জন ইরানি নাবিককে উদ্ধার করেছেন। জাহাজটিতে ১৮০ জন ক্রু ছিল বলে ধারণা করা হচ্ছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-06/ex3zo147/TORPEDO-1083120.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/ex3zo147/TORPEDO-1083120.jpg?auto=format,compress"
       },
       {
         "headline": "যুদ্ধের লাগাম আইআরজিসির হাতে ",
@@ -5809,13 +5818,6 @@
         "published_at": "2026-03-07T12:23:26+06:00",
         "summary": "ইরানের সঙ্গে মার্কিন-ইসরায়েল যুদ্ধকে ‘একটি অসাধারণ ভুল’ বলে অভিহিত করেছেন স্পেনের প্রধানমন্ত্রী পেদ্রো সানচেজ।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772864605-6bd8407bf6d5ceee8602e3fad4c3511f.jpg"
-      },
-      {
-        "headline": "ইরান যুদ্ধ নিয়ে মুখ খুললেন পুতিন",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/07/1225144",
-        "published_at": "2026-03-07T12:20:55+06:00",
-        "summary": "ইরানের প্রেসিডেন্ট মাসুদ পেজেশকিয়ানের সঙ্গে ফোনালাপের পর ইরান-যুক্তরাষ্ট্র-ইসরায়েল যুদ্ধে নিজের অবস্থান স্পষ্ট করে বিবৃতি দিয়েছেন রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন। সেই বিবৃতিতে ইরানে যত দ্রুত সম্ভব যুদ্ধ-সহিংসতা বন্ধ করতে এবং কূটনীতির পথে ফিরে আসতে যুক্তরাষ্ট্র ও ইসরায়েলকে আহ্বান জানিয়েছেন তিনি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772864454-aa07858a432c92c3996f7e7916975248.jpg"
       }
     ],
     "business": [
