@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-03-07T17:22:31.229319+00:00",
+  "fetched_at": "2026-03-07T17:50:31.726942+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "দুর্নীতির অভিযোগে প্রকৌশলীর পদায়ন বাতিলের দাবি নারায়ণগঞ্জ নাগরিক আন্দোলনের",
+        "url": "https://www.prothomalo.com/bangladesh/district/pdpbb12f7o",
+        "published_at": "2026-03-07T17:37:04.438000+00:00",
+        "summary": "নারায়ণগঞ্জ নাগরিক আন্দোলনের বিবৃতিতে ওই প্রকৌশলীর বিরুদ্ধে দুর্নীতির অভিযোগ তুলে নারায়ণগঞ্জ সিটি করপোরেশনে পদায়ন না করার জন্য সরকারের প্রতি আহ্বান জানানো হয়।",
+        "image_s3_key": "prothomalo-bangla/2026-03-07/eejxbza6/Logo.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/eejxbza6/Logo.jpg?auto=format,compress"
+      },
+      {
+        "headline": "প্রথম পরীক্ষামূলক উড্ডয়নেই সফল নাসার ‘নিঃশব্দ’ সুপারসনিক জেট এক্স–৫৯",
+        "url": "https://www.prothomalo.com/technology/science/fnlj8d62hb",
+        "published_at": "2026-03-07T17:30:00+00:00",
+        "summary": "ক্যালিফোর্নিয়ায় পরিচালিত প্রথম পরীক্ষামূলক উড্ডয়নে এক্স–৫৯ উড়োজাহাজটি পামডেলের মার্কিন বিমানবাহিনীর প্ল্যান্ট ৪২ থেকে উড্ডয়ন করে এডওয়ার্ডসের নাসা আর্মস্ট্রং ফ্লাইট রিসার্চ সেন্টারে অবতরণ করে। প্রায় ২৬ মাইল পথ অতিক্রম করা এই সংক্ষিপ্ত যাত্রাকে প্রকল্পের আনুষ্ঠানিক ফ্লাইট পরীক্ষার সূচনা হিসেবে দেখা হচ্ছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-07/oey4m2c7/sonic.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/oey4m2c7/sonic.jpg?auto=format,compress"
+      },
       {
         "headline": "গণতান্ত্রিক, স্থিতিশীল ও অন্তর্ভুক্তিমূলক বাংলাদেশকে সমর্থন করে দিল্লি: প্রণয় ভার্মা",
         "url": "https://www.prothomalo.com/bangladesh/fpv78kccvh",
@@ -11,7 +27,7 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/g5pev14x/India-Pronoy.jpeg?auto=format,compress"
       },
       {
-        "headline": "ফেসবুকে মৃত্যুর গুজব, ‘ফাইসা গেছি’ গায়ক বললেন—‘কী ঝামেলায় পড়েছি’",
+        "headline": "মৃত্যুর গুজব! ‘ফাইসা গেছি’ গায়ক বললেন—‘কী ঝামেলায় পড়েছি’",
         "url": "https://www.prothomalo.com/entertainment/song/g6iqhvnqzp",
         "published_at": "2026-03-07T17:05:59.702000+00:00",
         "summary": "ফেসবুকে ছড়াল ‘মারা গেছেন’ গুজব, যা বললেন গায়ক হায়দার হোসেন বিনোদন প্রতিবেদক, ",
@@ -291,27 +307,11 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/ifk173rz/FaridpurDH1292.jpg?auto=format,compress"
       },
       {
-        "headline": "এখন সালামি কম পাওয়া হয়, বরং দিতে হয়: সাবিলা নূর",
-        "url": "https://www.prothomalo.com/video/entertainment/msx1djf2fy",
-        "published_at": "2026-03-07T14:29:52.045000+00:00",
-        "summary": "এখন সালামি কম পাওয়া হয়, বরং দিতে হয়: সাবিলা নূর",
-        "image_s3_key": "prothomalo-bangla/2026-03-07/x74um69b/Sequence-02.00002113.Still001.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/x74um69b/Sequence-02.00002113.Still001.jpg?auto=format,compress"
-      },
-      {
-        "headline": "বাঁশঝাড়ে মাটির নিচে পানির ট্যাংক বসিয়ে ১০ হাজার লিটার ডিজেল মজুত",
-        "url": "https://www.prothomalo.com/bangladesh/district/s7qcxx94ro",
-        "published_at": "2026-03-07T14:28:57.365000+00:00",
-        "summary": "এ ঘটনায় সিংড়ার ইউএনও আজ শনিবার এক ব্যবসায়ীকে পাঁচ হাজার টাকা জরিমানা করেছেন।",
-        "image_s3_key": "prothomalo-bangla/2026-03-07/0dm7heqn/Disel.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/0dm7heqn/Disel.jpg?auto=format,compress"
-      },
-      {
         "headline": "শেখ মুজিবুর পাকিস্তান রাষ্ট্রকে একসঙ্গে রাখার চেষ্টা করেছিলেন: আবদুর রব",
         "url": "https://www.bd-pratidin.com/national/2026/03/07/1225364",
         "published_at": "2026-03-07T22:58:51+06:00",
         "summary": "জাতীয় সমাজতান্ত্রিক দল (জাসদ) নেতা আ. স. ম. আবদুর রব বলেছেন, শেখ মুজিবুর রহমান এবং আওয়ামী লীগের পক্ষ থেকে পাকিস্তানকে এক রাষ্ট্র হিসেবে রাখার চেষ্টা করা হয়েছিল। তিনি এই মন্তব্য একটি পুরনো সাক্ষাৎকারে করেন, যা সম্প্রতি সামাজিক যোগাযোগ মাধ্যমে ভাইরাল হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772902729-189c873d9510b655050ff0ac1fde3a32.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772903834-189c873d9510b655050ff0ac1fde3a32.jpg"
       },
       {
         "headline": "জলবায়ু পরিবর্তন নতুন করে বাড়াচ্ছে কিডনি রোগের ঝুঁকি",
@@ -468,6 +468,27 @@
         "image_url": "https://media.ndiganta.com/images/first-1_NC7bzAE.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "জ্বালানি তেল পাচার রোধে সিলেট সীমান্তে বিজিবির বাড়তি নজরদারি",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/FmObXzxnPjcP/",
+        "published_at": null,
+        "summary": "‘স্পর্শকাতর ও ঝুঁকিপূর্ণ সীমান্ত পয়েন্ট, নদীপথ ও চিহ্নিত রুটগুলোতে টহল বাড়ানো হয়েছে। পাশাপাশি গোয়েন্দা তৎপরতা জোরদার, জ্বালানি স্টেশন ও পরিবহন কার্যক্রম মনিটরিং এবং সন্দেহভাজন রুটে অস্থায়ী চেকপোস্ট বসিয়ে তল্লাশি পরিচালনা করা হচ্ছে।’",
+        "image_url": "https://media.ndiganta.com/original_images/WhatsApp_Image_2026-03-07_at_11.16.59_PM.jpeg"
+      },
+      {
+        "headline": "আমরা ইতিহাস ভুলতে আসিনি, সত্য প্রতিষ্ঠা করতে একত্র হয়েছি",
+        "url": "https://dailynayadiganta.com/bangladesh/national/MGPKmZdExBGF/",
+        "published_at": null,
+        "summary": "‘পিলখানা গণহত্যা বিচার দ্রুত কার্যকর করতে হবে। চির শত্রুদের চিহ্নিত করা আমাদের প্রধান কাজ। ওরা আবারো আমাদের স্বার্বভৌমত্ব ও সেনাবাহিনীকে টার্গেট করতে পারে। দুর্বল বিচার ব্যবস্থার সুযোগে ভিনদেশী শত্রুরা আমাদের আঘাত করতে পারে।’",
+        "image_url": "https://media.ndiganta.com/original_images/Pilkhana_nZXsrKp.jpg"
+      },
+      {
+        "headline": "ভোরে ঢাকায় আসছে পাকিস্তান দল, বিমানবন্দরেই করবেন সেহরি",
+        "url": "https://dailynayadiganta.com/sports/cricket/0OoXinJUMVPG/",
+        "published_at": null,
+        "summary": "সবকিছ ঠিক থাকলে পাকিস্তান দলের ১৫ ক্রিকেটার ও ৭ কোচিং অ্যান্ড সপোর্টিং স্টাফ ঢাকায় আসবেন রোববার ভোর ৪টা ২০ মিনিটে। ঢাকায় নেমে তারা বিমানবন্দরেই সেহরি করবেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Pakistan_sZd9eYh.jpg"
+      },
+      {
         "headline": "ঢাবিতে জিয়াউর রহমান ও খালেদা জিয়ার রুহের মাগফিরাত কামনায় ইফতার মাহফিল",
         "url": "https://dailynayadiganta.com/bangladesh/education-campus/INvY6BGwWSgS/",
         "published_at": null,
@@ -503,6 +524,36 @@
         "image_url": "https://media.ndiganta.com/original_images/Iftar-Feni-Chattogram.jpg"
       },
       {
+        "headline": "আজকের সর্বশেষ খবর - March 07, 2026",
+        "url": "https://www.jugantor.com/latest",
+        "published_at": null,
+        "summary": "সিলেটের ফেঞ্চুগঞ্জে কুরকুছি খাল খনন করে মাটি ফেলা হচ্ছে খালের পাশেই। এতে খালটি পুনরায় ভরাটের শষ্কা প্রকাশ করছেন স্থানীয়রা। একইসঙ্গে ...",
+        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+      },
+      {
+        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+        "published_at": null,
+        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "এখন সালামি কম পাওয়া হয়, বরং দিতে হয়: সাবিলা নূর",
+        "url": "https://www.prothomalo.com/video/entertainment/msx1djf2fy",
+        "published_at": "2026-03-07T14:29:52.045000+00:00",
+        "summary": "এখন সালামি কম পাওয়া হয়, বরং দিতে হয়: সাবিলা নূর",
+        "image_s3_key": "prothomalo-bangla/2026-03-07/x74um69b/Sequence-02.00002113.Still001.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/x74um69b/Sequence-02.00002113.Still001.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বাঁশঝাড়ে মাটির নিচে পানির ট্যাংক বসিয়ে ১০ হাজার লিটার ডিজেল মজুত",
+        "url": "https://www.prothomalo.com/bangladesh/district/s7qcxx94ro",
+        "published_at": "2026-03-07T14:28:57.365000+00:00",
+        "summary": "এ ঘটনায় সিংড়ার ইউএনও আজ শনিবার এক ব্যবসায়ীকে পাঁচ হাজার টাকা জরিমানা করেছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-07/0dm7heqn/Disel.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/0dm7heqn/Disel.jpg?auto=format,compress"
+      },
+      {
         "headline": "ডুপা’র ইফতার মাহফিল ও দ্বিবার্ষিক সম্মেলন অনুষ্ঠিত",
         "url": "https://dailynayadiganta.com/economy/corporate/Fv7vYThkDjRk/",
         "published_at": null,
@@ -522,20 +573,6 @@
         "published_at": null,
         "summary": "‘আমরা আশা করব, সরকার জনগণের মনের ভাষা বুঝে দেশ পরিচালনা করবে। সরকারের ইতিবাচক সমস্ত কর্মকাণ্ডে জামায়াতে ইসলামী সার্বক্ষণিক সহযোগিতা করবে। আইনের শাসনের পক্ষে ইতিবাচক ভূমিকা রাখলে সরকারের পাশে থাকব।’",
         "image_url": "https://media.ndiganta.com/original_images/Coxs-Bazar-Jamaat.jpg"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর - March 07, 2026",
-        "url": "https://www.jugantor.com/latest",
-        "published_at": null,
-        "summary": "ঝালকাঠির নলছিটিতে ওষুধ দোকানির ‘লোভের’ খেসারত দিচ্ছে কাওছার হোসেন (৭) নামে এক শিশু । বর্তমানে সে ঢাকার একটি বেসরকারি হাসপাতালে ...",
-        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-      },
-      {
-        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-        "published_at": null,
-        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
       },
       {
         "headline": "মিরপুরে মি. ডি আই ওয়াইয়ের আউটলেট উদ্বোধন",
@@ -1451,44 +1488,17 @@
         "published_at": null,
         "summary": "‘বিদ্যমান সমাজে সমতা হোক অঙ্গীকার, মর্যাদা হোক বাস্তবতা, আর ক্ষমতায়ন হোক উন্নয়নের ভিত্তি। সরকার শিক্ষা, অর্থনীতি, স্বাস্থ্য ও রাজনীতিসহ সকল স্তরে নারীর সক্রিয় ও কার্যকর অংশগ্রহণ নিশ্চিত করতে অঙ্গীকারবদ্ধ।’",
         "image_url": "https://media.ndiganta.com/original_images/PM_Tarique_Rahman_hfip28D.jpg"
-      },
-      {
-        "headline": "আলেম-ওলামা ও এতিমদের সম্মানে প্রধানমন্ত্রীর ইফতার",
-        "url": "https://dailynayadiganta.com/bangladesh/politics/PfsCbEriBQsR/",
-        "published_at": null,
-        "summary": "‘জাকাত দারিদ্র্যবিমোচনে গুরুত্বপূর্ণ ভূমিকা রাখে। পরিকল্পিতভাবে জাকাত বণ্টন করা গেলে দরিদ্রতা মোকাবেলা করা যাবে।’",
-        "image_url": "https://media.ndiganta.com/original_images/PM-Ifter.jpg"
-      },
-      {
-        "headline": "তালতলীতে গৃহবধূর লাশ উদ্ধার",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/4ohsNJeayUhM/",
-        "published_at": null,
-        "summary": "নিহতের পরিবারের পক্ষ থেকে ঘটনাটিকে হত্যাকাণ্ড দাবি করা হয়েছে। এ বিষয়ে মামলার প্রস্তুতি চলছে। ময়নাতদন্তের প্রতিবেদন পাওয়ার পর তদন্ত সাপেক্ষে আইনগত ব্যবস্থা নেয়া হবে।",
-        "image_url": "https://media.ndiganta.com/original_images/Borguna-Death.jpg"
-      },
-      {
-        "headline": "ওসমানীনগরে রাস্তা নিয়ে সালিশ বৈঠকে ছুরিকাঘাতে যুবক নিহত",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/aZ23pw4zHhac/",
-        "published_at": null,
-        "summary": "শুক্রবার তারাবিহ নামাজ শেষে স্থানীয় মাশুক মিয়ার বাড়িতে একটি সালিশ বৈঠক বসে। রাত সাড়ে ১০টার দিকে বৈঠকে উভয় পক্ষ সংঘর্ষে জড়িয়ে পড়লে ছুরিকাঘাতে সামাদ আহমদ গুরুতর আহত হন।",
-        "image_url": "https://media.ndiganta.com/original_images/Sylhet-Murder.jpg"
-      },
-      {
-        "headline": "সিলেটস্থ সুনামগঞ্জ ওয়েলফেয়ার সোসাইটির অভিষেক ও ইফতার",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/sXTZiEytI54Y/",
-        "published_at": null,
-        "summary": "জাতির কল্যাণে নিজেকে নিয়োজিত করার মাঝেই জীবনের সার্থকতা : উপাধ্যক্ষ তোফায়েল খান",
-        "image_url": "https://media.ndiganta.com/original_images/Sunamganj-Welfare-Society-S.jpg"
-      },
-      {
-        "headline": "কূটনীতিতে নারীর অংশগ্রহণ বাড়ানোর ওপর গুরুত্বারোপ পররাষ্ট্র প্রতিমন্ত্রীর",
-        "url": "https://dailynayadiganta.com/bangladesh/national/wF3XLKm2topG/",
-        "published_at": null,
-        "summary": "‘আমাদের অঙ্গীকার স্পষ্ট-নারীর সুরক্ষা, ক্ষমতায়ন ও সমান অংশগ্রহণ অগ্রাধিকার হিসেবে থাকবে।’",
-        "image_url": "https://media.ndiganta.com/original_images/Shama-Obaid_Mw930I2.jpg"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "দুর্নীতির অভিযোগে প্রকৌশলীর পদায়ন বাতিলের দাবি নারায়ণগঞ্জ নাগরিক আন্দোলনের",
+        "url": "https://www.prothomalo.com/bangladesh/district/pdpbb12f7o",
+        "published_at": "2026-03-07T17:37:04.438000+00:00",
+        "summary": "নারায়ণগঞ্জ নাগরিক আন্দোলনের বিবৃতিতে ওই প্রকৌশলীর বিরুদ্ধে দুর্নীতির অভিযোগ তুলে নারায়ণগঞ্জ সিটি করপোরেশনে পদায়ন না করার জন্য সরকারের প্রতি আহ্বান জানানো হয়।",
+        "image_s3_key": "prothomalo-bangla/2026-03-07/eejxbza6/Logo.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/eejxbza6/Logo.jpg?auto=format,compress"
+      },
       {
         "headline": "গণতান্ত্রিক, স্থিতিশীল ও অন্তর্ভুক্তিমূলক বাংলাদেশকে সমর্থন করে দিল্লি: প্রণয় ভার্মা",
         "url": "https://www.prothomalo.com/bangladesh/fpv78kccvh",
@@ -1802,19 +1812,11 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/4rfozt5m/WhatsApp-Image-2026-03-07-at-13.35.17.jpeg?auto=format,compress"
       },
       {
-        "headline": "নরসিংদীতে চার সন্তানের মাকে দলবদ্ধ ধর্ষণের অভিযোগ, একজন গ্রেপ্তার",
-        "url": "https://www.prothomalo.com/bangladesh/district/x74giezyas",
-        "published_at": "2026-03-07T07:38:39.763000+00:00",
-        "summary": "নরসিংদীর মাধবদীতে চার সন্তানের মাকে (৪০) দলবদ্ধ ধর্ষণের অভিযোগ উঠেছে। গতকাল শুক্রবার ভুক্তভোগী ওই নারী অজ্ঞাতনামা চারজনকে আসামি করে মাধবদী থানায় মামলা করেছেন",
-        "image_s3_key": "prothomalo-bangla/2025-03-23/r48mzth1/WhatsApp-Image-2025-03-23-at-12.19.48.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-23/r48mzth1/WhatsApp-Image-2025-03-23-at-12.19.48.jpeg?auto=format,compress"
-      },
-      {
         "headline": "শেখ মুজিবুর পাকিস্তান রাষ্ট্রকে একসঙ্গে রাখার চেষ্টা করেছিলেন: আবদুর রব",
         "url": "https://www.bd-pratidin.com/national/2026/03/07/1225364",
         "published_at": "2026-03-07T22:58:51+06:00",
         "summary": "জাতীয় সমাজতান্ত্রিক দল (জাসদ) নেতা আ. স. ম. আবদুর রব বলেছেন, শেখ মুজিবুর রহমান এবং আওয়ামী লীগের পক্ষ থেকে পাকিস্তানকে এক রাষ্ট্র হিসেবে রাখার চেষ্টা করা হয়েছিল। তিনি এই মন্তব্য একটি পুরনো সাক্ষাৎকারে করেন, যা সম্প্রতি সামাজিক যোগাযোগ মাধ্যমে ভাইরাল হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772902729-189c873d9510b655050ff0ac1fde3a32.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772903834-189c873d9510b655050ff0ac1fde3a32.jpg"
       },
       {
         "headline": "জলবায়ু পরিবর্তন নতুন করে বাড়াচ্ছে কিডনি রোগের ঝুঁকি",
@@ -1880,6 +1882,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772892232-317cfdb7e7ae462a344a7e6bfb8b0da8.jpg"
       },
       {
+        "headline": "আমরা দুর্নীতিমুক্ত একটি সমাজ বিনির্মাণ করতে চাই : মৎস্য প্রতিমন্ত্রী",
+        "url": "https://www.ittefaq.com.bd/778386/%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A3-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%87",
+        "published_at": null,
+        "summary": "মৎস্য ও প্রাণিসম্পদ প্রতিমন্ত্রী সুলতান সালাউদ্দিন টুকু বলেছেন, আমরা এদেশের অর্থনীতিকে একটি শক্ত ভিতের উপরে প্রতিষ্ঠিত করতে চাই। দুর্নীতিমুক্ত একটি সমাজ আমরা বিনির্মাণ করতে চাই। যে জন্য মাননীয় প্রধানমন্ত্রীর দুর্নীতিকে জিরো টলারেন্সের মধ্যে রেখেছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/b51a823418b3c24d8a455e7110a4fbf3-69ac636ebc070.jpg"
+      },
+      {
         "headline": "কূটনীতিতে নারীর অংশগ্রহণ বাড়ানোর ওপর গুরুত্বারোপ পররাষ্ট্র প্রতিমন্ত্রীর",
         "url": "https://www.ittefaq.com.bd/778373/%E0%A6%95%E0%A7%82%E0%A6%9F%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%85%E0%A6%82%E0%A6%B6%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8B%E0%A6%AA",
         "published_at": null,
@@ -1941,13 +1950,6 @@
         "published_at": null,
         "summary": "ঢাকা থেকে মধ্যপ্রাচ্যের বিভিন্ন গন্তব্যের মোট ২৬৮টি ফ্লাইট যুদ্ধের কারণে বাতিল হয়েছে। বেসামরিক বিমান চলাচল কর্তৃপক্ষ (বেবিচক) জানিয়েছে, গত ২৮ ফেব্রুয়ারি থেকে শনিবার (৭ মার্চ) পর্যন্ত আট দিনে এসব ফ্লাইট বাতিল হয়েছে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/11b5e86e0fc753ddab81d912e21b819c-69ac1d7d51654.jpg"
-      },
-      {
-        "headline": "শেখ হাসিনার সাবেক দুই মুখ্য সচিবের ব্যাংক হিসাব তলব",
-        "url": "https://www.ittefaq.com.bd/778338/%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%9A%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC",
-        "published_at": null,
-        "summary": "আর্থিক লেনদেন খতিয়ে দেখতে সাবেক প্রধানমন্ত্রী শেখ হাসিনার দুই সাবেক মুখ্য সচিবের ব্যাংক হিসাবের তথ্য তলব করেছে বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট (বিএফআইইউ)। তারা হলেন- আবুল কালাম আজাদ ও তোফাজ্জল হোসেন মিয়া। পাশাপাশি তোফাজ্জল হোসেন মিয়ার স্ত্রী আফরোজা খান ও ছেলে সারাফ ইসলামের ব্যাংক হিসাবের তথ্যও চাওয়া হয়েছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/cd2ed31090f48932270492a2a6c6b541-69ac0b0943118.jpg"
       },
       {
         "headline": "নূরা নয়, নরসিংদীর ওই কিশোরীকে হত্যা করে সৎপিতা",
@@ -2228,6 +2230,21 @@
         "published_at": "1772895354",
         "summary": "ব্রাহ্মণবাড়িয়ার বাঞ্ছারামপুরে জাতীয় সাংবাদিক সংস্থার ৫৪তম প্রতিষ্ঠাবার্ষিকী উপলক্ষে আলোচনা সভা, ইফতার ও দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-07T205451315-20260307145554.jpg"
+      },
+      {
+        "headline": "নরসিংদীতে চার সন্তানের মাকে দলবদ্ধ ধর্ষণের অভিযোগ, একজন গ্রেপ্তার",
+        "url": "https://www.prothomalo.com/bangladesh/district/x74giezyas",
+        "published_at": "2026-03-07T07:38:39.763000+00:00",
+        "summary": "নরসিংদীর মাধবদীতে চার সন্তানের মাকে (৪০) দলবদ্ধ ধর্ষণের অভিযোগ উঠেছে। গতকাল শুক্রবার ভুক্তভোগী ওই নারী অজ্ঞাতনামা চারজনকে আসামি করে মাধবদী থানায় মামলা করেছেন",
+        "image_s3_key": "prothomalo-bangla/2025-03-23/r48mzth1/WhatsApp-Image-2025-03-23-at-12.19.48.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-23/r48mzth1/WhatsApp-Image-2025-03-23-at-12.19.48.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "শেখ হাসিনার সাবেক দুই মুখ্য সচিবের ব্যাংক হিসাব তলব",
+        "url": "https://www.ittefaq.com.bd/778338/%E0%A6%B6%E0%A7%87%E0%A6%96-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%9A%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%AC",
+        "published_at": null,
+        "summary": "আর্থিক লেনদেন খতিয়ে দেখতে সাবেক প্রধানমন্ত্রী শেখ হাসিনার দুই সাবেক মুখ্য সচিবের ব্যাংক হিসাবের তথ্য তলব করেছে বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট (বিএফআইইউ)। তারা হলেন- আবুল কালাম আজাদ ও তোফাজ্জল হোসেন মিয়া। পাশাপাশি তোফাজ্জল হোসেন মিয়ার স্ত্রী আফরোজা খান ও ছেলে সারাফ ইসলামের ব্যাংক হিসাবের তথ্যও চাওয়া হয়েছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/cd2ed31090f48932270492a2a6c6b541-69ac0b0943118.jpg"
       },
       {
         "headline": "সংঘাতের আগে হরমুজ ছেড়ে আসা ১৫টি জাহাজ চট্টগ্রাম বন্দরে",
@@ -2939,20 +2956,6 @@
         "published_at": null,
         "summary": "আন্তর্জাতিক নারী দিবসের উপলক্ষে বাংলাদেশের নারী নেতৃত্ব ও অবদানের স্বীকৃতি হিসেবে ‘শ্রেষ্ঠ অদম্য নারী’ পুরস্কার দেওয়া হবে ছয় নারীকে। এ তালিকায় রয়েছেন সাবেক প্রধানমন্ত্রী ও বিএনপির প্রয়াত চেয়ারপারসন বেগম খালেদা জিয়া। রোববার (৮ মার্চ) রাজধানীর ওসমানী স্মৃতি মিলনায়তনে মহিলা ও শিশু বিষয়ক মন্ত্রণালয়ের আয়োজন করা অনুষ্ঠানে এ সম্মাননা প্রদান করা হবে।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/ed179f5a6824dc36700387dd18885747-69abccbc0eb12.jpg"
-      },
-      {
-        "headline": "যুদ্ধের আগমুহূর্তে হরমুজ ছেড়ে আসা ১৫টি জাহাজ চট্টগ্রাম বন্দরে",
-        "url": "https://www.ittefaq.com.bd/778297/%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%B0%E0%A6%AE%E0%A7%81%E0%A6%9C-%E0%A6%9B%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%BE-%E0%A7%A7%E0%A7%AB%E0%A6%9F%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C",
-        "published_at": null,
-        "summary": "ইরানের ওপর যুক্তরাষ্ট্র ও ইসরায়েলের হামলার আগে হরমুজ প্রণালি ও ওমান উপসাগর পেরিয়ে আসা ১৫টি জাহাজ চট্টগ্রাম বন্দরে পৌঁছাতে শুরু করেছে। এই জাহাজগুলো প্রণালি বন্ধ ঘোষণার আগেই বাংলাদেশের উদ্দেশ্যে রওনা হয়েছিল।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/4c401ddd901caf5d10049673ad8d22d7-69abd5aee4196.jpg"
-      },
-      {
-        "headline": "বরিশালে ব্যাটারিচালিত রিকশা বন্ধের দাবিতে প্যাডেল চালিত চালকদের বিক্ষোভ",
-        "url": "https://www.amarsangbad.com/country/news/339717",
-        "published_at": "1772877936",
-        "summary": "বরিশাল সিটি কর্পোরেশন এলাকার নির্দিষ্ট ৮টি গুরুত্বপূর্ণ সড়কে ব্যাটারিচালিত রিকশা চলাচল বন্ধের দাবিতে বিক্ষোভ সমাবেশ করেছে প্যাডেল চালিত রিকশা শ্রমিকরা।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-32-20260307100536.jpg"
       }
     ],
     "politics": [
@@ -2961,7 +2964,7 @@
         "url": "https://www.bd-pratidin.com/national/2026/03/07/1225364",
         "published_at": "2026-03-07T22:58:51+06:00",
         "summary": "জাতীয় সমাজতান্ত্রিক দল (জাসদ) নেতা আ. স. ম. আবদুর রব বলেছেন, শেখ মুজিবুর রহমান এবং আওয়ামী লীগের পক্ষ থেকে পাকিস্তানকে এক রাষ্ট্র হিসেবে রাখার চেষ্টা করা হয়েছিল। তিনি এই মন্তব্য একটি পুরনো সাক্ষাৎকারে করেন, যা সম্প্রতি সামাজিক যোগাযোগ মাধ্যমে ভাইরাল হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772902729-189c873d9510b655050ff0ac1fde3a32.jpg"
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772903834-189c873d9510b655050ff0ac1fde3a32.jpg"
       },
       {
         "headline": "জলবায়ু পরিবর্তন নতুন করে বাড়াচ্ছে কিডনি রোগের ঝুঁকি",
@@ -4945,18 +4948,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-designx---2026-03-02T171905858-20260302111924.jpg"
       },
       {
+        "headline": "ট্রাম্পইরানে হামলা করে ‘বিশ্বের উপকার করেছে’ যুক্তরাষ্ট্র",
+        "url": "https://www.amarsangbad.com/international/news/339767",
+        "published_at": "1772904851",
+        "summary": "ইরানের বিরুদ্ধে চলমান সামরিক অভিযানকে পুরো বিশ্বের জন্য একটি ‘উপকার’ এবং ‘সেবামূলক কাজ’ হিসেবে অভিহিত করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। মার্কিন অভিযানের বর্তমান অবস্থাকে তিনি অসাধারণ এক সাফল্য হিসেবে বর্ণনা করেছেন। কাতারভিত্তিক সংবাদমাধ্যম আল জাজিরার এক প্রতিবেদন থেকে এই তথ্য জানা গেছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-2-20260307173411.jpg"
+      },
+      {
         "headline": "সৌদি-কাতার-আমিরাতে ইরানের নতুন হামলা, ২৪ ঘণ্টায় হতাহত ২২০ মার্কিন সেনা!",
         "url": "https://www.amarsangbad.com/international/news/339766",
         "published_at": "1772903235",
         "summary": "ইরানের সঙ্গে ইসরায়েল ও যুক্তরাষ্ট্রের চলমান সংঘাত ক্রমশ ভয়াবহ রূপ ধারণ করছে। যুদ্ধের অষ্টম দিনে দুই পক্ষই হামলার মাত্রা ব্যাপক হারে বাড়িয়েছে। এরই মধ্যে সৌদি আরব, কাতার ও সংযুক্ত আরব আমিরাতে নতুন দফায় ক্ষেপণাস্ত্র ও ড্রোন হামলা চালিয়েছে ইরান। এই দফায় প্রথমবারের মতো তেহরান তাদের উন্নত হাইপারসনিক মিসাইল ব্যবহার করেছে বলে খবর পাওয়া গেছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-1-copy-20260307170715.jpg"
-      },
-      {
-        "headline": "বিহারে রোজা অবস্থায় মুসলিম নারীকে খুঁটিতে বেঁধে গণপিটুনিতে হত্যা",
-        "url": "https://www.amarsangbad.com/international/news/339762",
-        "published_at": "1772896767",
-        "summary": "ন্যায়বিচারের আশায় দ্বারে দ্বারে ঘুরেও শেষ পর্যন্ত চরম নির্মমতার শিকার হতে হলো এক অসহায় মুসলিম নারীকে। রমজানের পবিত্র মাসে রোজা রেখে শান্তিপূর্ণ সমাধানের আশায় স্থানীয় গ্রাম প্রধানের কাছে গিয়েছিলেন রওশন খাতুন। কিন্তু সেখান থেকেই তাকে ফিরতে হয়েছে অমানবিক নির্যাতনের শিকার হয়ে মৃত্যুর কোলে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-07T211914013-20260307151927.jpg"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-1-copy-20260307170715.jpg"
       },
       {
         "headline": "সেহরি ও ইফতারের সময়সূচি",
@@ -4964,6 +4967,13 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "বিহারে রোজা অবস্থায় মুসলিম নারীকে খুঁটিতে বেঁধে গণপিটুনিতে হত্যা",
+        "url": "https://www.amarsangbad.com/international/news/339762",
+        "published_at": "1772896767",
+        "summary": "ন্যায়বিচারের আশায় দ্বারে দ্বারে ঘুরেও শেষ পর্যন্ত চরম নির্মমতার শিকার হতে হলো এক অসহায় মুসলিম নারীকে। রমজানের পবিত্র মাসে রোজা রেখে শান্তিপূর্ণ সমাধানের আশায় স্থানীয় গ্রাম প্রধানের কাছে গিয়েছিলেন রওশন খাতুন। কিন্তু সেখান থেকেই তাকে ফিরতে হয়েছে অমানবিক নির্যাতনের শিকার হয়ে মৃত্যুর কোলে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-07T211914013-20260307151927.jpg"
       },
       {
         "headline": "মধ্যপ্রাচ্যে যুদ্ধের উত্তাপ; বগুড়ায় বেড়েছে নির্মাণসামগ্রীর দাম",
@@ -5798,13 +5808,6 @@
         "published_at": "2026-03-07T11:41:58+06:00",
         "summary": "এবারের ঈদে নৌপথে সরকার নির্ধারিত ভাড়ার চেয়ে কম টাকায় যাত্রী পরিবহনের ব্যবস্থা করা নিয়ে লঞ্চ মালিকদের সাথে আলোচনা চলছে বলে জানিয়েছেন নৌপরিবহন মন্ত্রণালয় ও সেতু বিভাগের প্রতিমন্ত্রী মো. রাজিব আহসান।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772862117-be073cb96eac1a406efd856e597f06ba.jpg"
-      },
-      {
-        "headline": "নিউজিল্যান্ডকে কেন ‘চোকার’ ডাকতে চান স্টেইন",
-        "url": "https://www.bd-pratidin.com/sports/2026/03/07/1225130",
-        "published_at": "2026-03-07T11:23:25+06:00",
-        "summary": "দক্ষিণ আফ্রিকা ক্রিকেটের সঙ্গে ‘চোকার’ শব্দটি ওতপ্রোতভাবে মিশে আছে। কিন্তু বিশ্ব মঞ্চে বারবার ফাইনালে হেরে যাওয়া নিউজিল্যান্ডকে আরও বড় ‘চোকার’ মনে করেন ডেল স্টেইন। এবারের টি-টোয়েন্টি বিশ্বকাপের শিরোপা নির্ধারণী ম্যাচে ভারতকে হারাতে না পারলে, এই তকমা কিউইদের দিতে চান প্রোটিয়া পেস বোলিং গ্রেট।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772861004-d89f8359edc7d84465db4be60b9b9420.jpg"
       }
     ],
     "business": [
@@ -8802,7 +8805,7 @@
     ],
     "entertainment": [
       {
-        "headline": "ফেসবুকে মৃত্যুর গুজব, ‘ফাইসা গেছি’ গায়ক বললেন—‘কী ঝামেলায় পড়েছি’",
+        "headline": "মৃত্যুর গুজব! ‘ফাইসা গেছি’ গায়ক বললেন—‘কী ঝামেলায় পড়েছি’",
         "url": "https://www.prothomalo.com/entertainment/song/g6iqhvnqzp",
         "published_at": "2026-03-07T17:05:59.702000+00:00",
         "summary": "ফেসবুকে ছড়াল ‘মারা গেছেন’ গুজব, যা বললেন গায়ক হায়দার হোসেন বিনোদন প্রতিবেদক, ",
@@ -10264,12 +10267,12 @@
     ],
     "jobs": [
       {
-        "headline": "প্রাইম ব্যাংকে ম্যানেজমেন্ট ট্রেইনি পদে চাকরি, বেতন ৮৫ হাজার টাকা থেকে শুরু",
-        "url": "https://www.prothomalo.com/chakri/employment/qzvlpk6q36",
-        "published_at": "2026-03-07T09:23:51.692000+00:00",
-        "summary": "প্রাইম ব্যাংক পিএলসি তাদের ভবিষ্যৎ ‘ব্রাঞ্চ লিডার’ তৈরির লক্ষ্যে ‘ম্যানেজমেন্ট ট্রেইনি’ পদে নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-07/7fip4rr7/Screenshot-2026-03-07-152304.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/7fip4rr7/Screenshot-2026-03-07-152304.png?auto=format,compress"
+        "headline": "পিএসসি স্বাস্থ্য ক্যাডারে নেবে ৩০০ চিকিৎসক, ৮ মার্চ শেষ আবেদন",
+        "url": "https://www.prothomalo.com/chakri/employment/apbor92o5s",
+        "published_at": "2026-03-07T07:46:55.632000+00:00",
+        "summary": "বিসিএস (স্বাস্থ্য) ক্যাডারে বিভিন্ন ক্যাটাগরির পদে সরাসরি নিয়োগে আবেদন চলছে।",
+        "image_s3_key": "prothomalo/import/media/2016/08/05/733a820dc1876eba2a921ed65b230060-Untitled-2.gif",
+        "image_url": "https://media.prothomalo.com/prothomalo/import/media/2016/08/05/733a820dc1876eba2a921ed65b230060-Untitled-2.gif?auto=format,compress"
       },
       {
         "headline": "বাংলাদেশ নবজাতক হাসপাতালে চাকরি, পদ ৭২",
@@ -10280,12 +10283,12 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/qx0hgm6o/9532A98C499089P7MR123708.JPG?auto=format,compress"
       },
       {
-        "headline": "বিইউপিতে অধ্যাপক থেকে অফিস সহায়ক পদে চাকরি, আবেদন ১২ মার্চের মধ্যে",
-        "url": "https://www.prothomalo.com/chakri/employment/lq3zegbbix",
-        "published_at": "2026-03-07T06:15:21.332000+00:00",
-        "summary": "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালস (বিইউপি) তাদের বিভিন্ন অনুষদে স্থায়ী ভিত্তিতে শিক্ষক ও কর্মচারী নিয়োগের ঘোষণা দিয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2020-09/0b9641df-f04d-4432-9eb4-f72f54ad9df1/new67.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-09/0b9641df-f04d-4432-9eb4-f72f54ad9df1/new67.png?auto=format,compress"
+        "headline": "প্রাইম ব্যাংকে ম্যানেজমেন্ট ট্রেইনি পদে চাকরি, বেতন ৮৫ হাজার টাকা থেকে শুরু",
+        "url": "https://www.prothomalo.com/chakri/employment/qzvlpk6q36",
+        "published_at": "2026-03-07T09:23:51.692000+00:00",
+        "summary": "প্রাইম ব্যাংক পিএলসি তাদের ভবিষ্যৎ ‘ব্রাঞ্চ লিডার’ তৈরির লক্ষ্যে ‘ম্যানেজমেন্ট ট্রেইনি’ পদে নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-07/7fip4rr7/Screenshot-2026-03-07-152304.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/7fip4rr7/Screenshot-2026-03-07-152304.png?auto=format,compress"
       },
       {
         "headline": "বাংলাদেশ সেনাবাহিনীতে সৈনিক পদে চাকরি",
@@ -10296,12 +10299,12 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/jq2ofwna/Screenshot-2026-03-05-135523.png?auto=format,compress"
       },
       {
-        "headline": "পিএসসি স্বাস্থ্য ক্যাডারে নেবে ৩০০ চিকিৎসক, ৮ মার্চ শেষ আবেদন",
-        "url": "https://www.prothomalo.com/chakri/employment/apbor92o5s",
-        "published_at": "2026-03-07T07:46:55.632000+00:00",
-        "summary": "বিসিএস (স্বাস্থ্য) ক্যাডারে বিভিন্ন ক্যাটাগরির পদে সরাসরি নিয়োগে আবেদন চলছে।",
-        "image_s3_key": "prothomalo/import/media/2016/08/05/733a820dc1876eba2a921ed65b230060-Untitled-2.gif",
-        "image_url": "https://media.prothomalo.com/prothomalo/import/media/2016/08/05/733a820dc1876eba2a921ed65b230060-Untitled-2.gif?auto=format,compress"
+        "headline": "বিইউপিতে অধ্যাপক থেকে অফিস সহায়ক পদে চাকরি, আবেদন ১২ মার্চের মধ্যে",
+        "url": "https://www.prothomalo.com/chakri/employment/lq3zegbbix",
+        "published_at": "2026-03-07T06:15:21.332000+00:00",
+        "summary": "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালস (বিইউপি) তাদের বিভিন্ন অনুষদে স্থায়ী ভিত্তিতে শিক্ষক ও কর্মচারী নিয়োগের ঘোষণা দিয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2020-09/0b9641df-f04d-4432-9eb4-f72f54ad9df1/new67.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2020-09/0b9641df-f04d-4432-9eb4-f72f54ad9df1/new67.png?auto=format,compress"
       },
       {
         "headline": "নেত্রকোনা পল্লী বিদ্যুৎ সমিতিতে চাকরির সুযোগ",
