@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-03-07T22:21:06.642548+00:00",
+  "fetched_at": "2026-03-07T22:51:28.616159+00:00",
   "stories": [
+    {
+      "headline": "কোন রাতে শবে কদর, কীভাবে আমল করব",
+      "url": "https://www.prothomalo.com/religion/islam/3vjz718lvy",
+      "published_at": "2026-03-07T22:30:00+00:00",
+      "summary": "লাইলাতুল কদর এমন একটি রাত, যার মর্যাদা হাজার মাসের চেয়েও বেশি। অর্থাৎ এক রাতের ইবাদত তিরাশি বছর চার মাসের বেশি সময়ের ইবাদতের সমান।",
+      "image_s3_key": "prothomalo-bangla/2026-03-05/ckaf1ccl/pexels-zeynep-sude-emek-193601188-20784505.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/ckaf1ccl/pexels-zeynep-sude-emek-193601188-20784505.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইরাকের কুর্দিস্তানে মার্কিন সামরিক ঘাঁটিতে ড্রোন হামলা",
+      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+      "published_at": "2026-03-07T22:21:38.085000+00:00",
+      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG?auto=format,compress"
+    },
     {
       "headline": "কংগ্রেসকে এড়িয়ে ইসরায়েলকে ২৭ হাজার বোমা দিচ্ছে যুক্তরাষ্ট্র ",
       "url": "https://www.prothomalo.com/world/usa/ey7q3h8vcc",
@@ -16,14 +32,6 @@
       "summary": "কয়েক শ বছর ধরে মসজিদটি শুধু ধর্মীয় উপাসনালয় নয়, স্থানীয় সমাজ, সংস্কৃতি ও আধ্যাত্মিকতার কেন্দ্র হিসেবেও পরিচিত।",
       "image_s3_key": "prothomalo-bangla/2026-03-07/vhh985se/SirajgonjDH061020260307IMG20260227142353.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/vhh985se/SirajgonjDH061020260307IMG20260227142353.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ইরাকের কুর্দিস্তানে মার্কিন সামরিক ঘাঁটিতে ড্রোন হামলা",
-      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-      "published_at": "2026-03-07T21:56:45.516000+00:00",
-      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG?auto=format,compress"
     },
     {
       "headline": "আরব–ইরান সম্পর্ক ভাঙনের মুখে",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/9sm8xvw5/WOMENS-DAY-1080.00323700.Still022.jpg?auto=format,compress"
     },
     {
-      "headline": "আলভীর ‘শেষ পোস্ট’ শেয়ার করে অভিনয়শিল্পী রিমুর কড়া জবাব",
-      "url": "https://www.prothomalo.com/entertainment/tv/vd564iah4n",
-      "published_at": "2026-03-07T16:00:00+00:00",
-      "summary": "আলভীর সর্বশেষ ফেসবুক পোস্ট শেয়ার করে তাঁরই প্রতিবেশী ও অভিনয়শিল্পী রিমু রোজা খন্দকার দীর্ঘ একটি জবাব দিয়েছেন, যা নতুন করে আলোচনার জন্ম দিয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-07/9l4b6n88/638108779_26097275096598162_86647139566093859_n.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/9l4b6n88/638108779_26097275096598162_86647139566093859_n.jpg?auto=format,compress"
-    },
-    {
       "headline": "নারী দিবসের বিশেষ আয়োজন",
       "url": "https://www.bd-pratidin.com/special-occasion-for-womens-day",
       "published_at": null,
@@ -384,6 +384,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772899172-bb7ebb8271534528bb73fe021b9086f5.jpg"
     },
     {
+      "headline": "ইরাকের কুর্দিস্তানে মার্কিন সামরিক ঘাঁটিতে ড্রোন হামলা",
+      "url": "https://www.ittefaq.com.bd/778399/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%98%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8",
+      "published_at": null,
+      "summary": "উত্তর ইরাকের কুর্দি অঞ্চলের ইরবিল আন্তর্জাতিক বিমানবন্দরের কাছে একটি মার্কিন সামরিক ঘাঁটিকে লক্ষ্য করে ড্রোন হামলা চালানো হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/319c13dbc491d67dd2ee2c6a83b5a9ba-69aca0ef579cf.jpg"
+    },
+    {
       "headline": "ইসরায়েলের নৌঘাঁটিতে লেবাননের মিসাইল হামলা",
       "url": "https://www.ittefaq.com.bd/778398/%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%8C%E0%A6%98%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B2%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
       "published_at": null,
@@ -445,13 +452,6 @@
       "published_at": null,
       "summary": "দখলদার ইসরায়েলকে লক্ষ্য করে ফের ব্যালিস্টিক ক্ষেপণাস্ত্র (মিসাইল) ছুড়েছ ইরান। এবারের হামলাটি হয়েছে চার ঘণ্টা পর।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/94ddca813dfbe20d0fc7003a3ab44da1-69ac6a4c31beb.jpg"
-    },
-    {
-      "headline": "প্রতিশ্রুতিশীল ভবিষ্যতের দ্বারপ্রান্তে দাঁড়িয়ে বাংলাদেশ-ভারত",
-      "url": "https://www.ittefaq.com.bd/778387/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%80%E0%A6%B2-%E0%A6%AD%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87",
-      "published_at": null,
-      "summary": "ঢাকায় নিযুক্ত ভারতীয় হাইকমিশনার প্রণয় কুমার ভার্মা বলেছেন, দুই প্রাণবন্ত ও অগ্রসরমান সমাজ হিসেবে ভারত ও বাংলাদেশ অভিন্ন সমৃদ্ধি ও আঞ্চলিক সহযোগিতার ভিত্তিতে এক প্রতিশ্রুতিশীল ভবিষ্যতের দ্বারপ্রান্তে দাঁড়িয়ে আছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/51c4f7aa2cc4b492f19e5389726442ef-69ac66d6719f1.jpg"
     },
     {
       "headline": "কৌশল পাল্টে ঢুকছে মাদক",
@@ -534,7 +534,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 08, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ইসরাইলের হাইফা নৌঘাঁটি লক্ষ্য করে মিসাইল ছুঁড়েছে লেবাননের শক্তিশালী সশস্ত্র গোষ্ঠী হিজবুল্লাহ। বাংলাদেশ সময় রোববার দিবাগত রাত প্রায় ২টা এবং ...",
+      "summary": "সৌদি আরবের একটি বিমানঘাঁটিকে লক্ষ্য করে ছোড়া দুটি ব্যালিস্টিক ক্ষেপণাস্ত্র ধ্বংস করেছে দেশটির সামরিক বাহিনী। এক প্রতিবেদনে এ তথ্য জানিয়েছে ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -543,6 +543,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "আলভীর ‘শেষ পোস্ট’ শেয়ার করে অভিনয়শিল্পী রিমুর কড়া জবাব",
+      "url": "https://www.prothomalo.com/entertainment/tv/vd564iah4n",
+      "published_at": "2026-03-07T16:00:00+00:00",
+      "summary": "আলভীর সর্বশেষ ফেসবুক পোস্ট শেয়ার করে তাঁরই প্রতিবেশী ও অভিনয়শিল্পী রিমু রোজা খন্দকার দীর্ঘ একটি জবাব দিয়েছেন, যা নতুন করে আলোচনার জন্ম দিয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/9l4b6n88/638108779_26097275096598162_86647139566093859_n.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/9l4b6n88/638108779_26097275096598162_86647139566093859_n.jpg?auto=format,compress"
+    },
+    {
+      "headline": "প্রতিশ্রুতিশীল ভবিষ্যতের দ্বারপ্রান্তে দাঁড়িয়ে বাংলাদেশ-ভারত",
+      "url": "https://www.ittefaq.com.bd/778387/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%80%E0%A6%B2-%E0%A6%AD%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%81%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87",
+      "published_at": null,
+      "summary": "ঢাকায় নিযুক্ত ভারতীয় হাইকমিশনার প্রণয় কুমার ভার্মা বলেছেন, দুই প্রাণবন্ত ও অগ্রসরমান সমাজ হিসেবে ভারত ও বাংলাদেশ অভিন্ন সমৃদ্ধি ও আঞ্চলিক সহযোগিতার ভিত্তিতে এক প্রতিশ্রুতিশীল ভবিষ্যতের দ্বারপ্রান্তে দাঁড়িয়ে আছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/51c4f7aa2cc4b492f19e5389726442ef-69ac66d6719f1.jpg"
     },
     {
       "headline": "ইরানে আজ কঠোর আঘাত হানা হবে: ট্রাম্প | তেল কিনতে লম্বা সারি",
@@ -1475,22 +1490,6 @@
       "summary": "ইরান যুদ্ধে যুক্তরাষ্ট্রের আকাশচুম্বী ব্যায়, প্রথম ১০০ ঘণ্টায় কত খরচ হলো ",
       "image_s3_key": "prothomalo-bangla/2026-03-07/4g67mezg/WEB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/4g67mezg/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "দেশের তৈরি পাঞ্জাবি বিক্রি হচ্ছিল ভারতীয় বলে",
-      "url": "https://www.prothomalo.com/bangladesh/district/ojtgjxq7a2",
-      "published_at": "2026-03-07T12:15:42.073000+00:00",
-      "summary": "দেশে তৈরি হয়েছে পাঞ্জাবি; কিন্তু তা বিক্রি করা হচ্ছিল ভারতীয় বলে। দেশের পাঞ্জাবিতে ভারতীয় স্টিকার।",
-      "image_s3_key": "prothomalo-bangla/2026-03-07/6vtv1bhs/Untitled-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/6vtv1bhs/Untitled-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ব্রিটিশ কাউন্সিলের উইমেন অব দ্য ওয়ার্ল্ড গ্র্যান্ট বিজয়ীদের নাম ঘোষণা",
-      "url": "https://www.prothomalo.com/education/higher-education/3yk02f2xbb",
-      "published_at": "2026-03-07T12:10:37.148000+00:00",
-      "summary": "নারী সমতা ও সামাজিক পরিবর্তনে শিল্পকলার ভূমিকা তুলে ধরতে উইমেন অব দ্য ওয়ার্ল্ড (ওয়াও) বাংলাদেশ ২০২৫–২৬–এর আওতায় ১৩টি অনুদান প্রদানের ঘোষণা দিয়েছে ব্রিটিশ কাউন্সিল।",
-      "image_s3_key": "prothomalo-bangla/2026-03-07/b7ynx7sk/12.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/b7ynx7sk/12.jpeg?auto=format,compress"
     }
   ]
 }
