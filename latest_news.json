@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-07T20:22:37.043354+00:00",
+  "fetched_at": "2026-03-07T20:50:56.134803+00:00",
   "stories": [
+    {
+      "headline": "ইউক্রেনে ড্রোন-ক্ষেপণাস্ত্র হামলায় নিহত ১০",
+      "url": "https://www.prothomalo.com/world/europe/vk1twz0pad",
+      "published_at": "2026-03-07T20:35:07.476000+00:00",
+      "summary": "ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি বলেন, রাশিয়া অন্তত ৪৮০টি ড্রোন এবং ২৯টি ক্ষেপণাস্ত্র ছুড়েছে। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/yvzzxxn0/UKRAINE-RUSSIA-CONFLICT-WAR-090417.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/yvzzxxn0/UKRAINE-RUSSIA-CONFLICT-WAR-090417.jpg?auto=format,compress"
+    },
     {
       "headline": "যুক্তরাজ্যে বাংলাদেশের হাইকমিশনার আবিদা ইসলামকে প্রত্যাহার",
       "url": "https://www.prothomalo.com/bangladesh/codqo38wgt",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/9go4ziwp/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "রাঁধুনী কীর্তিমতী সম্মাননা পেলেন চার নারী",
-      "url": "https://www.prothomalo.com/bangladesh/8m21p5le9r",
-      "published_at": "2026-03-07T15:29:43.134000+00:00",
-      "summary": "নিজ নিজ ক্ষেত্রে অনন্য অবদান রাখা ‘রাঁধুনী কীর্তিমতী সম্মাননা’ পেলেন চার নারী। রাজধানীর একটি পাঁচ তারকা হোটেলে তাঁদের হাতে এই সম্মাননা তুলে দেওয়া হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-07/4rja1lb6/radhuni-kirtimoti.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/4rja1lb6/radhuni-kirtimoti.jpeg?auto=format,compress"
-    },
-    {
       "headline": "নারী দিবসের বিশেষ আয়োজন",
       "url": "https://www.bd-pratidin.com/special-occasion-for-womens-day",
       "published_at": null,
@@ -376,6 +376,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772899172-bb7ebb8271534528bb73fe021b9086f5.jpg"
     },
     {
+      "headline": "৪ ঘণ্টায় ২৮ বার ভূমিকম্পে কেঁপেছে গোটা যুক্তরাষ্ট্র",
+      "url": "https://www.ittefaq.com.bd/778392/%E0%A7%AA-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A7%A8%E0%A7%AE-%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%81%E0%A6%AA%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%9F%E0%A6%BE",
+      "published_at": null,
+      "summary": "যুক্তরাষ্ট্রের বিভিন্ন অঙ্গরাজ্যে একের পর এক ভূমিকম্প অনুভূত হচ্ছে। সর্বশেষ তথ্য অনুযায়ী, মাত্র চার ঘণ্টার মধ্যে দেশটির বিভিন্ন এলাকায় অন্তত ২৮টি মৃদু মাত্রার ভূমিকম্প রেকর্ড করা হয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/3bb4309222c1e4503ed9ccd659543274-69ac890299062.jpg"
+    },
+    {
       "headline": "২৪ ঘণ্টার মধ্যে আনুষ্ঠানিকভাবে নতুন সুপ্রিম লিডারের নাম ঘোষণা করতে যাচ্ছে ইরান",
       "url": "https://www.ittefaq.com.bd/778391/%E0%A7%A8%E0%A7%AA-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE",
       "published_at": null,
@@ -437,13 +444,6 @@
       "published_at": null,
       "summary": "সংযুক্ত আরব আমিরাতে আগামী ২০ মার্চ (শুক্রবার) পবিত্র ঈদুল ফিতর পালিত হতে পারে বলে জানিয়েছে শারজাহ অ্যাকাডেমি ফর অ্যাস্ট্রোনমি, স্পেস সায়েন্সেস অ্যান্ড টেকনোলজি।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/b7d64df7db96075d877481cf85918248-69ac51f8661da.jpg"
-    },
-    {
-      "headline": "ইরানের বিরুদ্ধে যুদ্ধ শুরু করে বিশ্বের উপকার করেছে যুক্তরাষ্ট্র: ট্রাম্প",
-      "url": "https://www.ittefaq.com.bd/778382/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87",
-      "published_at": null,
-      "summary": "ইরানের বিরুদ্ধে যুদ্ধ শুরু করে যুক্তরাষ্ট্র পুরো বিশ্বের উপকার করেছে বলে মন্তব্য করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তিনি ইরানের বিরুদ্ধে চলমান সামরিক অভিযানের অগ্রগতিকে অসাধারণ সাফল্য বলেও দাবি করেছেন।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/2e6889444e9321ea84b69019870e0c06-69ac4a8203efc.jpg"
     },
     {
       "headline": "কৌশল পাল্টে ঢুকছে মাদক",
@@ -519,7 +519,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 08, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পকে সতর্ক করেছেন যে, যুক্তরাষ্ট্র যদি উত্তেজনা বাড়াতে চায়, তাহলে ইরানের সশস্ত্র বাহিনী ...",
+      "summary": "ইরান আগামী ২৪ ঘণ্টার মধ্যে নতুন সুপ্রিম লিডারের নাম ঘোষণা করতে যাচ্ছে। এর আগে দেশটির সুপ্রিম লিডার আয়াতুল্লাহ আলী খামেনি ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -528,6 +528,21 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "রাঁধুনী কীর্তিমতী সম্মাননা পেলেন চার নারী",
+      "url": "https://www.prothomalo.com/bangladesh/8m21p5le9r",
+      "published_at": "2026-03-07T15:29:43.134000+00:00",
+      "summary": "নিজ নিজ ক্ষেত্রে অনন্য অবদান রাখা ‘রাঁধুনী কীর্তিমতী সম্মাননা’ পেলেন চার নারী। রাজধানীর একটি পাঁচ তারকা হোটেলে তাঁদের হাতে এই সম্মাননা তুলে দেওয়া হয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/4rja1lb6/radhuni-kirtimoti.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/4rja1lb6/radhuni-kirtimoti.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "ইরানের বিরুদ্ধে যুদ্ধ শুরু করে বিশ্বের উপকার করেছে যুক্তরাষ্ট্র: ট্রাম্প",
+      "url": "https://www.ittefaq.com.bd/778382/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87",
+      "published_at": null,
+      "summary": "ইরানের বিরুদ্ধে যুদ্ধ শুরু করে যুক্তরাষ্ট্র পুরো বিশ্বের উপকার করেছে বলে মন্তব্য করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তিনি ইরানের বিরুদ্ধে চলমান সামরিক অভিযানের অগ্রগতিকে অসাধারণ সাফল্য বলেও দাবি করেছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/2e6889444e9321ea84b69019870e0c06-69ac4a8203efc.jpg"
     },
     {
       "headline": "রাজশাহীতে কলেজশিক্ষককে মারধরের অভিযোগ, ছাত্রদলের দুই নেতা কারাগারে",
@@ -1475,20 +1490,6 @@
       "published_at": null,
       "summary": "ইরানে আজ ‘কঠোর আঘাত হানার হুমকি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। শনিবার (৭ মার্চ) নিজের মালিকানাধীন সামাজিক যোগাযোগমাধ্যম ট্রুথ সোশ্যালে ট্রাম্প এ কথা বলেন।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/162c3e8cd4d6ba58e34c9703b1ee52f1-69ac283c80418.jpg"
-    },
-    {
-      "headline": "অপারেশন থিয়েটারে মোটরসাইকেলের ফগলাইট, হাসপাতাল সিলগালা",
-      "url": "https://www.ittefaq.com.bd/778358/%E0%A6%85%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A5%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%97%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2",
-      "published_at": null,
-      "summary": "চুয়াডাঙ্গার দামুড়হুদা উপজেলার কার্পাসডাঙ্গা বাজারে ‘লাইফ কেয়ার জেনারেল হাসপাতাল’ নামে একটি প্রতিষ্ঠানকে ২ লাখ টাকা জরিমানা করেছেন ভ্রাম্যমাণ আদালত। একইসঙ্গে ওই ক্লিনিক সিলগালা করে দেওয়া হয়। অভিযানের সময় ক্লিনিকের অপারেশন থিয়েটারে আধুনিক সার্জিক্যাল লাইটের পরিবর্তে মোটরসাইকেলের ফগলাইট ব্যবহারসহ একাধিক গুরুতর অনিয়মের প্রমাণ পাওয়া গেছে বলে জানিয়েছেন সংশ্লিষ্টরা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/45fe12c05e7fdb197f138a200870118c-69ac2c442cf7e.jpg"
-    },
-    {
-      "headline": "ইরানের ১৪৩ ক্ষেপণাস্ত্র ও ড্রোন ভূপাতিতের দাবি আমিরাতের",
-      "url": "https://www.ittefaq.com.bd/778357/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%AA%E0%A7%A9-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%93-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%AD%E0%A7%82%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
-      "published_at": null,
-      "summary": "ইরানের ছোড়া একাধিক ব্যালিস্টিক ক্ষেপণাস্ত্র ও ড্রোন প্রতিহত করার দাবি জানিয়েছে সংযুক্ত আরব আমিরাত। দেশটির সামরিক বাহিনীর মতে, শনিবার (৭ মার্চ) আকাশ প্রতিরক্ষা ব্যবস্থার মাধ্যমে এসব হামলা প্রতিহত করা হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/81783de3c6837098b0c1078713d64d60-69ac2c1e546cd.jpg"
     }
   ]
 }
