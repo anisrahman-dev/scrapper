@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-07T18:59:36.822670+00:00",
+  "fetched_at": "2026-03-07T19:21:30.925139+00:00",
   "stories": [
+    {
+      "headline": "রাজশাহীতে জামায়াত-বিএনপি মারামারি, মুয়াজ্জিনের মৃত্যু",
+      "url": "https://www.prothomalo.com/bangladesh/district/m8xipl31ab",
+      "published_at": "2026-03-07T19:02:02.502000+00:00",
+      "summary": "মৃত মো. আলাউদ্দিনকে নিজেদের কর্মী দাবি করছে জামায়াতে ইসলামী। তবে তাঁকে বিএনপির সমর্থক বলে দাবি করেছেন দলটির নেতারা।",
+      "image_s3_key": "prothomalo-bangla/2025-08-19/4re07ugj/rajshahi.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-08-19/4re07ugj/rajshahi.png?auto=format,compress"
+    },
     {
       "headline": "৭ মার্চের ভাষণ বাজানো নিয়ে রাতে শাহবাগ থানায় উত্তেজনা",
       "url": "https://www.prothomalo.com/bangladesh/capital/66rntom3yg",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/q3hlq23k/GazipurDH061520260307Screenshot20260307170206Gallery.jpg.jpg?auto=format,compress"
     },
     {
-      "headline": "গণিত নিয়ে স্বপ্ন দেখার আহ্বান",
-      "url": "https://www.prothomalo.com/bangladesh/usfo5moksj",
-      "published_at": "2026-03-07T15:12:30.976000+00:00",
-      "summary": "সারা দেশ থেকে গতকাল ১ হাজার ১৪৩ জন শিক্ষার্থী অংশগ্রহণ করে জাতীয় গণিত উৎসবে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-07/kgpiik7c/১০.jfif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/kgpiik7c/১০.jfif?auto=format,compress"
-    },
-    {
       "headline": "নারী দিবসের বিশেষ আয়োজন",
       "url": "https://www.bd-pratidin.com/special-occasion-for-womens-day",
       "published_at": null,
@@ -320,11 +320,11 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772908888-ce7c808d1a2d0d3f8bd7d06ee2c64713.jpg"
     },
     {
-      "headline": "তেল কিনতে এসে কথা-কাটাকাটির জেরে যুবককে পিটিয়ে হত্যা",
+      "headline": "তেল কিনতে এসে কথা-কাটাকাটি, অতঃপর যুবককে পিটিয়ে হত্যা",
       "url": "https://www.bd-pratidin.com/country/2026/03/08/1225499",
       "published_at": "2026-03-08T00:38:55+06:00",
       "summary": "ঝিনাইদহে পেট্রলপাম্পে তেল কিন‌তে এসে কথা-কাটাকা‌টির জের ধ‌রে পিটুনিতে এক যুবক নিহত হয়েছেন। শনিবার রা‌তে ঝিনাইদহ শহরের কেন্দ্রীয় বাস টার্মিনাল এলাকায় ‌মেসার্স তাজ ফিলিং স্টেশনে এই ঘটনা‌টি ঘটে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772908734-dfec01b72cc429d6bd5861cb612f2603.jpg"
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772910055-dfec01b72cc429d6bd5861cb612f2603.jpg"
     },
     {
       "headline": "বিশ্বকাপ ফাইনাল: টিকেটের মূল্য ও হোটেল ভাড়া আকাশচুম্বী",
@@ -467,6 +467,20 @@
       "image_url": "https://media.ndiganta.com/images/first-1_NC7bzAE.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "বিশিষ্টজনদের নিয়ে রাজশাহী মহানগরী জামায়াতের ইফতার মাহফিল",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/j9lVWD7xOHWE/",
+      "published_at": null,
+      "summary": "অনুষ্ঠানে বক্তারা বলেন, ঐক্য ও সম্প্রীতির মধ্য দিয়ে বাংলাদেশকে এগিয়ে নিতে সবাইকে একসঙ্গে কাজ করতে হবে। পাশাপাশি রাজশাহীকে একটি নিরাপদ ও সুন্দর নগরী হিসেবে গড়ে তোলার প্রত্যয় ব্যক্ত করেন তারা।",
+      "image_url": "https://media.ndiganta.com/original_images/Rajshahi-4-3.jpg"
+    },
+    {
+      "headline": "ঐতিহাসিক বদর দিবসে বরিশাল সংস্কৃতিকেন্দ্রের সেমিনার",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/qLcKCaXP1QAk/",
+      "published_at": null,
+      "summary": "আলোচনার ফাঁকে ফাঁকে চলে ইসলামী গানের মনোমুগ্ধকর পরিবেশনা। বরিশাল সংস্কৃতিকেন্দ্র ও হেরাররশ্মি শিল্পগোষ্ঠীর শিল্পীরা কোরাস ইসলামী সংগীত পরিবেশন করে উপস্থিত দর্শকদের মুগ্ধ করেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Barishal-8-3.jpg"
+    },
+    {
       "headline": "চরফ্যাশন আইনজীবী সমিতির নির্বাচন সম্পন্ন",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/BKq8RXIrWGYC/",
       "published_at": null,
@@ -502,6 +516,35 @@
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
+      "headline": "আন্তর্জাতিক নারী দিবস আজ",
+      "url": "https://dailynayadiganta.com/bangladesh/national/BZ5UJUBLFweA/",
+      "published_at": null,
+      "summary": "১৯০০ সালের শুরুর দিকে নারীদের শ্রম অধিকার, ভোটাধিকার এবং সামাজিক মর্যাদার দাবিতে যে আন্দোলন শুরু হয়েছিল, তার ধারাবাহিকতায় আন্তর্জাতিক নারী দিবসের সূচনা হয়। পরবর্তীতে জাতিসঙ্ঘ ১৯৭৫ সাল থেকে আনুষ্ঠানিকভাবে দিবসটি উদযাপন শুরু করে এবং বিশ্বব্যাপী নারী অধিকার প্রতিষ্ঠার আহ্বান জানায়।",
+      "image_url": "https://media.ndiganta.com/original_images/Woman.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - March 08, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "বাহরাইনের রাজধানী মানামাতেতে হামলা চালিয়েছে ইরান। শনিবারের এই হামলায় রাজধানীর কয়েকটি ভবন ক্ষতিগ্রস্ত হয়েছে এবং একটি ভবনে আগুন লাগার ঘটনাও ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "গণিত নিয়ে স্বপ্ন দেখার আহ্বান",
+      "url": "https://www.prothomalo.com/bangladesh/usfo5moksj",
+      "published_at": "2026-03-07T15:12:30.976000+00:00",
+      "summary": "সারা দেশ থেকে গতকাল ১ হাজার ১৪৩ জন শিক্ষার্থী অংশগ্রহণ করে জাতীয় গণিত উৎসবে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/kgpiik7c/১০.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/kgpiik7c/১০.jfif?auto=format,compress"
+    },
+    {
       "headline": "তেলের দাম বাড়ার গুঞ্জনে মাদারগঞ্জে ফিলিং  স্টেশনে ভিড়",
       "url": "https://dailynayadiganta.com/printed-edition/R9pmmbTec1ga/",
       "published_at": null,
@@ -516,13 +559,6 @@
       "image_url": "https://media.ndiganta.com/original_images/bangla-6_H7fCo5Q.jpg"
     },
     {
-      "headline": "আন্তর্জাতিক নারী দিবস আজ",
-      "url": "https://dailynayadiganta.com/bangladesh/national/BZ5UJUBLFweA/",
-      "published_at": null,
-      "summary": "১৯০০ সালের শুরুর দিকে নারীদের শ্রম অধিকার, ভোটাধিকার এবং সামাজিক মর্যাদার দাবিতে যে আন্দোলন শুরু হয়েছিল, তার ধারাবাহিকতায় আন্তর্জাতিক নারী দিবসের সূচনা হয়। পরবর্তীতে জাতিসঙ্ঘ ১৯৭৫ সাল থেকে আনুষ্ঠানিকভাবে দিবসটি উদযাপন শুরু করে এবং বিশ্বব্যাপী নারী অধিকার প্রতিষ্ঠার আহ্বান জানায়।",
-      "image_url": "https://media.ndiganta.com/original_images/Woman.jpg"
-    },
-    {
       "headline": "শ্রীমঙ্গলে জ্বালানি তেলের দোকানে ভয়াবহ অগ্নিকাণ্ড",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/50Et35fHZGoz/",
       "published_at": null,
@@ -535,20 +571,6 @@
       "published_at": null,
       "summary": "‘একটি অন্ধকার সময়ের অবসান ঘটিয়ে প্রধানমন্ত্রী তারেক রহমানের নেতৃত্বে দেশ এগিয়ে যাচ্ছে। সরকার সাংস্কৃতিক বিকাশ, সৃজনশীলতা এবং মুক্তচিন্তার পরিবেশ নিশ্চিত করতে নিরলসভাবে কাজ করে যাচ্ছে।’",
       "image_url": "https://media.ndiganta.com/original_images/Nitai-20260218094832.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 08, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "বিএনপির নেতাকর্মীদের উদ্দেশ্যে সংযত ও দায়িত্বশীল আচরণের আহ্বান জানিয়ে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন বলেছেন, এমন কোনো কর্মকাণ্ড করা যাবে না ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "কূটনীতিকদের সম্মানে জামায়াতের ইফতার মাহফিল",
@@ -1466,28 +1488,6 @@
       "summary": "যুদ্ধে বহুল ব্যবহৃত একটি কৌশল হলো শত্রুপক্ষের নেতৃত্বকে সরিয়ে দেওয়া। কখনো কখনো এই কৌশল কার্যকর হতে পারে। ",
       "image_s3_key": "prothomalo/import/media/2019/03/26/c71787e8a96d840c81339493d3b56301-5c9a33844e93c.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo/import/media/2019/03/26/c71787e8a96d840c81339493d3b56301-5c9a33844e93c.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বিচ্ছেদের আগে আদালতে বিজয়ের স্ত্রীর নতুন আবেদন",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/4ge55ar9l0",
-      "published_at": "2026-03-07T11:30:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-03-04/ddbbpymk/thalapathy-vijay-and-sangeetha-sornalingam.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-04/ddbbpymk/thalapathy-vijay-and-sangeetha-sornalingam.avif?auto=format,compress"
-    },
-    {
-      "headline": "বসন্তের রঙের উৎসব শ্রীমঙ্গলে",
-      "url": "https://www.bd-pratidin.com/chayer-desh/2026/03/07/1225276",
-      "published_at": "2026-03-07T18:48:39+06:00",
-      "summary": "সনাতন ধর্মাবলম্বীদের অন্যতম ধর্মীয় উৎসব দোলপূর্ণিমা উপলক্ষে মৌলভীবাজারের শ্রীমঙ্গলে উদযাপিত হয়েছে দোল উৎসব। শুক্রবার শহরের সবুজবাগ আবাসিক এলাকায় ‘সবুজবাগ দোল পূজা উদযাপন পরিষদ’-এর আয়োজনে বর্ণিল এ উৎসব অনুষ্ঠিত হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/07/og/1772887718-d99119ca42e35bfa7fbc7fba9ab1d88a.jpg"
-    },
-    {
-      "headline": "ঢালাওভাবে ব্যবসায়ীদের কালিমা দেওয়া ঠিক না: ড. ফাহমিদা খাতুন",
-      "url": "https://www.ittefaq.com.bd/778356/%E0%A6%A2%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%93%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%A0%E0%A6%BF%E0%A6%95-%E0%A6%A8%E0%A6%BE-%E0%A6%A1",
-      "published_at": null,
-      "summary": "সেন্টার ফর পলিসি ডায়ালগ (সিপিডি)-এর নির্বাহী পরিচালক ড. ফাহমিদা খাতুন বলেছেন, ঢালাওভাবে ব্যবসায়ীদের ওপর কালিমা দেওয়া ঠিক না। যেসব ব্যবসায়ী ও ব্যক্তিখাত অর্থনীতিতে অবদান রাখতে চান, নির্বাচিত সরকারকে তাদের কাজের সুযোগ করে দেওয়ার সময় এসেছে। এক্ষেত্রে যাচাই বাছাই করে ব্যবসায়ীদের বন্ধ হওয়া ব্যাংক হিসাব খুলে দেওয়া উচিত। তবে যারা অন্যায় করেছে তাদেরকে অবশ্যই আইনের আওতায় আনতে হবে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/07/d882897ee92055c3a99e4c5675589ac0-69ac2b758bd8b.jpeg"
     }
   ]
 }
