@@ -1,6 +1,46 @@
 {
-  "fetched_at": "2026-03-08T19:48:14.772237+00:00",
+  "fetched_at": "2026-03-08T20:23:15.823924+00:00",
   "stories": [
+    {
+      "headline": "ছবিতে ইরান যুদ্ধে পাল্টাপাল্টি হামলা, বিক্ষোভ",
+      "url": "https://www.prothomalo.com/photo/international/e05no1lwz1",
+      "published_at": "2026-03-08T20:09:46.578000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-08/v3ufk6re/১.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/v3ufk6re/১.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ঢাকা ওয়াসার সদ্য বিদায়ী এমডি আব্দুস সালামের অর্থ পাচারের অভিযোগ অনুসন্ধান শুরু: সিআইডি",
+      "url": "https://www.prothomalo.com/bangladesh/hin9uilxn9",
+      "published_at": "2026-03-08T20:04:45.082000+00:00",
+      "summary": "৩ মার্চ সালাম ব্যাপারীর পরিবারের কানাডার বাড়ি নিয়ে ‘কানাডার বেগমপাড়ায় ঢাকা ওয়াসার এমডির স্ত্রীর নামে বাড়ি’ শিরোনামে একটি অনুসন্ধানী প্রতিবেদন প্রকাশ করেছিল প্রথম আলো।",
+      "image_s3_key": "prothomalo-bangla/2026-03-08/w0ix2343/prothomalo_bangla2025_11_09zsaq8vprWhatsApp_Image_2025_11_09_at_7_43.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/w0ix2343/prothomalo_bangla2025_11_09zsaq8vprWhatsApp_Image_2025_11_09_at_7_43.webp?auto=format,compress"
+    },
+    {
+      "headline": "জবি উপাচার্যের পদত্যাগ চায় ইউট্যাব, পুরো প্রশাসনের চায় ছাত্রদল-ছাত্রশক্তি",
+      "url": "https://www.prothomalo.com/bangladesh/w4set5uspr",
+      "published_at": "2026-03-08T19:58:51.289000+00:00",
+      "summary": "জগন্নাথ বিশ্ববিদ্যালয়ে উপাচার্যের পদত্যাগ চেয়েছে শিক্ষকদের সংগঠন ইউট্যাব। অন্যদিকে সাংবাদিকদের ওপর হামলা ও দাবি পূরণে ব্যর্থতায় পুরো প্রশাসনের পদত্যাগ দাবি করেছে ছাত্রদল ও ছাত্রশক্তি।",
+      "image_s3_key": "prothomalo-bangla/2026-02-01/ospdwrcy/2.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-01/ospdwrcy/2.avif?auto=format,compress"
+    },
+    {
+      "headline": "তেহরানে সড়কের পাশে ‘আগুনের নদী’",
+      "url": "https://www.prothomalo.com/world/middle-east/qhkhrlk3cy",
+      "published_at": "2026-03-08T19:58:04.499000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-08/0bhprihn/Capture.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/0bhprihn/Capture.PNG?auto=format,compress"
+    },
+    {
+      "headline": "ডিএনসিসির অতিরিক্ত প্রধান প্রকৌশলী আরিফুর সাময়িক বরখাস্ত, নিজেকে নির্দোষ দাবি",
+      "url": "https://www.prothomalo.com/bangladesh/p25xuc7y4t",
+      "published_at": "2026-03-08T19:52:31.867000+00:00",
+      "summary": "আরিফুর রহমান নিজেকে নির্দেশ দাবি করে এ ঘটনার জন্য বরখাস্ত হওয়া সাবেক নির্বাহী প্রকৌশলী মিজানুর রহমানকে দায়ী করেছেন। তাঁর দাবি, আইডি-পাসওয়ার্ড হ্যাক করা হয়েছে।  ",
+      "image_s3_key": "prothomalo-bangla/2022-05/53e1fb3c-e0a3-4310-a288-d71e52fbddc2/Untitled_9.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-05/53e1fb3c-e0a3-4310-a288-d71e52fbddc2/Untitled_9.webp?auto=format,compress"
+    },
     {
       "headline": "সোমবার থেকে ঈদের ছুটি পর্যন্ত ঢাকা বিশ্ববিদ্যালয়ে ক্লাস–পরীক্ষা বন্ধ",
       "url": "https://www.prothomalo.com/bangladesh/fb96p53y2q",
@@ -282,46 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/k7isaytf/ncp.png?auto=format,compress"
     },
     {
-      "headline": "প্যারোলে মুক্তি পেতে দেরি, বাবার জানাজা শেষে পৌঁছালেন যুবলীগ কর্মী",
-      "url": "https://www.prothomalo.com/bangladesh/district/law839wxbl",
-      "published_at": "2026-03-08T16:19:46.345000+00:00",
-      "summary": "গোপালগঞ্জ জেলা কারাগার থেকে প্যারোলে মুক্তি পেলেও দেরিতে পৌঁছানোয় বাবার জানাজায় অংশ নিতে পারলেন না কোটালীপাড়া উপজেলা যুবলীগ কর্মী।",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/ywn5s5dk/WhatsApp-Image-2026-03-08-at-10.09.18-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/ywn5s5dk/WhatsApp-Image-2026-03-08-at-10.09.18-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "লেটস টক এন্ডোমেট্রিওসিস | পর্ব–০১ | নুভিস্তা ফার্মা",
-      "url": "https://www.prothomalo.com/video/3r0vz7wa00",
-      "published_at": "2026-03-08T16:15:10.817000+00:00",
-      "summary": "প্রখ্যাত প্রসূতি ও স্ত্রীরোগ বিশেষজ্ঞদের সঙ্গে লাইভ পডকাস্ট নুভিস্তা ফার্মা নিবেদিত ‘লেটস টক এন্ডোমেট্রিওসিস’। সহযোগিতায় ডাইনাজেস্ট ও এলাগক্স।",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/rd6bdmu7/NUVISTA.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/rd6bdmu7/NUVISTA.png?auto=format,compress"
-    },
-    {
-      "headline": "মা সব সময় চাইত আমি যেন নিজেকে সুন্দরভাবে উপস্থাপন করি: আইশা খান",
-      "url": "https://www.prothomalo.com/video/entertainment/xbqx10y7u3",
-      "published_at": "2026-03-08T16:13:01.821000+00:00",
-      "summary": "মা সব সময় চাইত আমি যেন নিজেকে সুন্দরভাবে উপস্থাপন করি: আইশা খান",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/zujldp9k/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/zujldp9k/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ঢাকা ওয়াসার এমডি আবদুস সালামের পদত্যাগ, অর্থ পাচারের তদন্ত চলছে",
-      "url": "https://www.prothomalo.com/video/bangladesh/ugpg7moebo",
-      "published_at": "2026-03-08T16:10:00+00:00",
-      "summary": "ঢাকা ওয়াসার এমডি আবদুস সালামের পদত্যাগ, অর্থ পাচারের তদন্ত চলছে",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/2fdhmapp/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/2fdhmapp/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রাজশাহীতে জামায়াত-বিএনপি মারামারির সময় মুয়াজ্জিনের মৃত্যুর ঘটনায় হত্যা মামলা",
-      "url": "https://www.prothomalo.com/bangladesh/district/pxylnr124y",
-      "published_at": "2026-03-08T16:02:51.342000+00:00",
-      "summary": "রোববার বিকেলে মুয়াজ্জিন আলাউদ্দিনের জানাজা অনুষ্ঠিত হয়। পরে পারিবারিক কবরস্থানে তাঁকে দাফন করা হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/cjwdpsdt/RajshahiDH109220260308IMG-20260308-WA0036.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/cjwdpsdt/RajshahiDH109220260308IMG-20260308-WA0036.jpg?auto=format,compress"
-    },
-    {
       "headline": "নারী দিবসে ডেইলি সানের গোলটেবিল আলোচনা, পাঁচ ক্রীড়াবিদকে সম্মাননা",
       "url": "https://www.bd-pratidin.com/sports/2026/03/09/1225944",
       "published_at": "2026-03-09T00:22:30+06:00",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772982572-ccbfb4a734cb5d1154674c56f9cbb011.PNG"
     },
     {
+      "headline": "নতুন সুপ্রিম লিডার নির্বাচন সম্পন্ন হয়েছে, দ্রুতই নাম ঘোষণা করবে ইরান",
+      "url": "https://www.ittefaq.com.bd/778546/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%87",
+      "published_at": null,
+      "summary": "ইরানের নতুন সর্বোচ্চ নেতা নির্বাচন করা হয়েছে বলে জানিয়েছে দেশটির গণমাধ্যম। বাংলাদেশ সময় রোববার (৮ মার্চ) দিবাগত রাত ১২টা ২০ মিনিটের দিকে ইরানের অ্যাসেম্বলি অব এক্সপার্টের সদস্য আহমাদ আলামোলহোদা জানিয়েছেন, নির্বাচন সম্পন্ন করা হয়েছে এবং নতুন সর্বোচ্চ নেতা নির্বাচিত হয়েছেন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/b0ac2a55be2688e7b009bb695b1cd38a-69add6621b795.jpg"
+    },
+    {
       "headline": "ইরানের জ্বালানি ডিপোতে হামলা চালিয়েছে ইসরায়েল: যুক্তরাষ্ট্র",
       "url": "https://www.ittefaq.com.bd/778545/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A7%8B%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2",
       "published_at": null,
@@ -455,13 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/ac9723fd52f9734026a5de776d4c5ef9-69ad9c9d6770f.jpg"
     },
     {
-      "headline": "আড়াই লাখ টন এলএনজিসহ চট্টগ্রাম বন্দরে ১৫ জাহাজ",
-      "url": "https://www.ittefaq.com.bd/778518/%E0%A6%86%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%A8-%E0%A6%8F%E0%A6%B2%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A7%A7%E0%A7%AB-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C",
-      "published_at": null,
-      "summary": "মধ্যপ্রাচ্যে চলমান উত্তেজনার মধ্যে সংঘাত শুরুর আগেই প্রায় আড়াই লাখ টন এলএনজিসহ হরমুজ প্রণালি অতিক্রম করে আসা ১৫টি জাহাজ চট্টগ্রাম বন্দরে পৌঁছাতে শুরু করেছে। এসব জাহাজে তরলীকৃত প্রাকৃতিক গ্যাস (এলএনজি), তরলীকৃত পেট্রোলিয়াম গ্যাস (এলপিজি), বিভিন্ন ধরনের জ্বালানি তেল ও শিল্পকারখানার কাঁচামাল রয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/38ebdb7ddda104b89851045957433488-69ad8acbc4058.jpg"
-    },
-    {
       "headline": "ইতিহাস বিস্মৃত জাতির পরিণতি",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/hc9UMF6ZZ0Y6/",
       "published_at": null,
@@ -483,7 +483,63 @@
       "image_url": "https://media.ndiganta.com/original_images/Screenshot_20260307-093502_Chrome.jpg"
     },
     {
-      "headline": "আগুনের আতঙ্কে দৌড়ে নামতে গিয়ে ৫ রোগী আহত",
+      "headline": "মাদককারবারি ও চাঁদাবাজদের ধরতে আরেকটি অভিযান আসছে : আবদুল আউয়াল মিন্টু",
+      "url": "https://dailynayadiganta.com/printed-edition/bUMzPGztxqHu/",
+      "published_at": null,
+      "summary": "পরিবেশ, বন ও জলবায়ু পরিবর্তন মন্ত্রী আবদুল আউয়াল মিন্টু বলেছেন, সরকার দুই-তিন মাসের মধ্যেই অপারেশন ক্লিনহাটের মতো একটি অভিযান চালাবে। প্রকৃতপক্ষে যারা অন্যায় করছে তাদের আইনের আওতায় আনা হবে। সরকার এই ক্ষেত্রে কাউকে ছাড় দেবে না।",
+      "image_url": "https://media.ndiganta.com/original_images/3rd-4_p6QUf0Y.jpg"
+    },
+    {
+      "headline": "নারী নির্যাতন বন্ধে বিচারব্যবস্থা ঢেলে সাজাতে হবে  :  নূরুন্নিসা সিদ্দীকা",
+      "url": "https://dailynayadiganta.com/printed-edition/LncGdpTZ4jYW/",
+      "published_at": null,
+      "summary": "নারী নির্যাতন বন্ধে বিচারব্যবস্থাকে ঢেলে সাজানো দরকার বলে মনে করেন  বাংলাদেশ জামায়াতে ইসলামী মহিলা বিভাগের সেক্রেটারি নূরুন্নিসা সিদ্দীকা। আন্তর্জাতিক নারী দিবস উপলক্ষে আয়োজিত আলোচনা সভায় তিনি একথা বলেন।  এ সময় তিনি নারী ও শিশু নির্যাতন বন্ধে দ্রুতবিচার ট্রাইবুন্যাল গঠনের জোর দাবি জানান।",
+      "image_url": "https://media.ndiganta.com/original_images/3rd-3_HNWIIhI.jpg"
+    },
+    {
+      "headline": "এনসিপির নারী উইং  ‘জাতীয় নারীশক্তি’র  আত্মপ্রকাশ",
+      "url": "https://dailynayadiganta.com/printed-edition/eHGfdka9kk5l/",
+      "published_at": null,
+      "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) নারী সংগঠন জাতীয় নারীশক্তি আনুষ্ঠানিকভাবে আত্মপ্রকাশ করেছে। নতুন এই প্ল্যাটফর্মের আহ্বায়ক হিসেবে মনিরা শারমিন, সদস্যসচিব হিসেবে ডা: মাহমুদা আলম মিতু এবং মুখ্য সংগঠক হিসেবে নুসরাত তাবাসসুমের নাম ঘোষণা করা হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/3rd-2_3pCYdQv.jpg"
+    },
+    {
+      "headline": "সিলেটে ছিনতাইকারী ও কিশোর গ্যাং নিয়ন্ত্রণে পুলিশকে কঠোর হওয়ার নির্দেশ প্রবাসীকল্যাণ মন্ত্রীর",
+      "url": "https://dailynayadiganta.com/printed-edition/33vjk6UbYFjg/",
+      "published_at": null,
+      "summary": "সিলেট মহানগরীতে ছিনতাইকারী ও কিশোর গ্যাং নিয়ন্ত্রণে পুলিশকে কঠোর হওয়ার নির্দেশ দিয়েছেন প্রবাসীকল্যাণ, বৈদেশিক কর্মসংস্থান এবং শ্রম ও কর্মসংস্থান মন্ত্রী আরিফুল হক চৌধুরী।",
+      "image_url": "https://media.ndiganta.com/original_images/3rd-1_oKYtliN.jpg"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রে ৪ ঘণ্টায় ২৮ ভূমিকম্প",
+      "url": "https://dailynayadiganta.com/printed-edition/rNJ2905MqRWu/",
+      "published_at": null,
+      "summary": "যুক্তরাষ্ট্রের বিভিন্ন অঙ্গরাজ্যে একের পর এক ভূমিকম্প অনুভূত হয়েছে। সর্বশেষ তথ্য অনুযায়ী, মাত্র চার ঘণ্টার মধ্যে দেশটির বিভিন্ন এলাকায় অন্তত ২৮টি মৃদু মাত্রার ভূমিকম্প রেকর্ড করা হয়েছে। ভূকম্পন পর্যবেক্ষণকারী সংস্থা ইউএসজিএস জানিয়েছে, গত ২৪ ঘণ্টায় যুক্তরাষ্ট্রজুড়ে ১.৫ বা তার বেশি মাত্রার মোট ১০৮টি ভূমিকম্প হয়েছে। গত সাত দিনে এই সংখ্যা দাঁড়িয়েছে ৭৩১টিতে, আর গত ৩০ দিনে প্রায় তিন হাজার ৭০৭টি ভূমিকম্প রেকর্ড করা হয়েছে। সাম্প্রতিক ভূমিকম্পগুলোর বেশির ভাগই ছিল কম মাত্রার। সর্বশেষ রেকর্ড অনুযায়ী, নেভাদার লাভলকে ১.৫ মাত্রার একটি ভূমিকম্প অনুভূত হয়েছে, যার গভীরতা ছিল প্রায় চার কিলোমিটার। এর আগে টেক্সাসের ভ্যান হর্নে ১.৯ এবং ক্যালিফোর্নিয়ার সোলেদাদে ২.০ মাত্রার ভূমিকম্প রেকর্ড করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "মামদানির বাড়ির সামনে মুসলিমবিরোধী বিক্ষোভ",
+      "url": "https://dailynayadiganta.com/printed-edition/STrB0FuVlmRu/",
+      "published_at": null,
+      "summary": "যুক্তরাষ্ট্রের নিউ ইয়র্কে মুসলিমবিরোধী বিক্ষোভ চলাকালে শহটির মেয়র জোহরান মামদানির সরকারি বাসভবনের সামনে বিস্ফোরক সদৃশ বস্তু নিক্ষেপ করা হয়েছে। এই ঘটনায় একজনকে আটক করেছে পুলিশ। শনিবার  নিউ ইয়র্কে মেয়রের বাসভবন গ্রেসি ম্যানশনের সামনে এই ঘটনা ঘটে। ঘটনাস্থলে উপস্থিত সাংবাদিকদের বরাতে আন্তর্জাতিক সংবাদমাধ্যমগুলো জানিয়েছে, বিক্ষোভকারীদের সামনে একজন ব্যক্তি আগুন জ্বালানো দু’টি বস্তু ছুড়ে দেন। নিউ ইয়র্ক পুলিশ বিভাগের কমিশনার জেসিকা টিশ জানান, উদ্ধার হওয়া বস্তুগুলোর মধ্যে নাট-বল্টু, স্ক্রু এবং একটি ফিউজ ছিল। তবে সেগুলো কার্যকর ইম্প্রোভাইজড এক্সপ্লোসিভ ডিভাইস (আইইডি) ছিল কি না, তা এখনো নিশ্চিত হওয়া যায়নি।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "ইরানি নাবিক উদ্ধারে যুক্তরাষ্ট্রের চাপের মুখে শ্রীলঙ্কা",
+      "url": "https://dailynayadiganta.com/printed-edition/00zi5zKXPHFT/",
+      "published_at": null,
+      "summary": "ভারত মহাসাগরে ইরানি যুদ্ধজাহাজ ডুবিয়ে দেয়ার পর এবার উদ্ধার নাবিকদের দেশে ফেরত না পাঠাতে শ্রীলঙ্কার ওপর ব্যাপক চাপ সৃষ্টি করছে যুক্তরাষ্ট্র। রয়টার্সের হাতে আসা মার্কিন পররাষ্ট্র দফতরের একটি অভ্যন্তরীণ তারবার্তা (কেবল) থেকে এই চাঞ্চল্যকর তথ্য পাওয়া গেছে।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "মাদারীপুরে গৃহবধূর মৃত্যুর ঘটনায় শ্বশুরবাড়িতে ভাঙচুর, অগ্নিসংযোগ",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/tjoFqQ2Vy2pt/",
+      "published_at": null,
+      "summary": "মাদারীপুর সদর মডেল থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) আবুল কালাম আজাদ বলেন, গৃহবধুর মৃত্যুকে কেন্দ্র করে তার শ্বশুরবাড়িতে বিক্ষুব্ধরা আগুন দেয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Madaripur-8-3.jpg"
+    },
+    {
+      "headline": "শিবচর স্বাস্থ্য কমপ্লেক্সআগুনের আতঙ্কে দৌড়ে নামতে গিয়ে ৫ রোগী আহত",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/11KpoZuH0nmz/",
       "published_at": null,
       "summary": "খবর পেয়ে ফায়ার সার্ভিসের কর্মীরা ঘটনাস্থলে এসে আগুনের কোনো আলামত না পেয়ে সবাইকে আশ্বস্ত করলে প্রায় দুই ঘণ্টা পর রোগীরা আবার হাসপাতালে নিজ নিজ শয্যায় ফিরে যান।",
@@ -525,17 +581,10 @@
       "image_url": "https://media.ndiganta.com/original_images/Burtex--8-3.jpg"
     },
     {
-      "headline": "দোয়ারাবাজারে জামায়াতের ইফতার মাহফিল",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/KdJOinw352En/",
-      "published_at": null,
-      "summary": "বাংলাদেশ জামায়াতে ইসলামী সুনামগঞ্জের দোয়ারাবাজার উপজেলা কর্তৃক আয়োজিত পবিত্র রমজানের তাৎপর্য শীর্ষক আলোচনা সভা ও ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Doara-Bazar.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - March 09, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "গত ২৮ ফেব্রুয়ারি থেকে শুরু হওয়া ইরান-ইসরাইল যুদ্ধে প্রাণহানি ও আহতের সংখ্যা আশঙ্কাজনকভাবে বাড়ছে। ইসরাইলের স্বাস্থ্য মন্ত্রণালয়ের তথ্যমতে, যুদ্ধ শুরু ...",
+      "summary": "নিজের নামে মানহানি মামলা হয়েছে শুনে বিএনপির স্থায়ী কমিটির সদস্য মির্জা আব্বাসকে হুঁশিয়ারি দিয়ে জাতীয় নাগরিক পার্টির (এনসিপি) মুখ্য সমন্বয়ক ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -544,6 +593,60 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "প্যারোলে মুক্তি পেতে দেরি, বাবার জানাজা শেষে পৌঁছালেন যুবলীগ কর্মী",
+      "url": "https://www.prothomalo.com/bangladesh/district/law839wxbl",
+      "published_at": "2026-03-08T16:19:46.345000+00:00",
+      "summary": "গোপালগঞ্জ জেলা কারাগার থেকে প্যারোলে মুক্তি পেলেও দেরিতে পৌঁছানোয় বাবার জানাজায় অংশ নিতে পারলেন না কোটালীপাড়া উপজেলা যুবলীগ কর্মী।",
+      "image_s3_key": "prothomalo-bangla/2026-03-08/ywn5s5dk/WhatsApp-Image-2026-03-08-at-10.09.18-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/ywn5s5dk/WhatsApp-Image-2026-03-08-at-10.09.18-PM.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "লেটস টক এন্ডোমেট্রিওসিস | পর্ব–০১ | নুভিস্তা ফার্মা",
+      "url": "https://www.prothomalo.com/video/3r0vz7wa00",
+      "published_at": "2026-03-08T16:15:10.817000+00:00",
+      "summary": "প্রখ্যাত প্রসূতি ও স্ত্রীরোগ বিশেষজ্ঞদের সঙ্গে লাইভ পডকাস্ট নুভিস্তা ফার্মা নিবেদিত ‘লেটস টক এন্ডোমেট্রিওসিস’। সহযোগিতায় ডাইনাজেস্ট ও এলাগক্স।",
+      "image_s3_key": "prothomalo-bangla/2026-03-08/rd6bdmu7/NUVISTA.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/rd6bdmu7/NUVISTA.png?auto=format,compress"
+    },
+    {
+      "headline": "মা সব সময় চাইত আমি যেন নিজেকে সুন্দরভাবে উপস্থাপন করি: আইশা খান",
+      "url": "https://www.prothomalo.com/video/entertainment/xbqx10y7u3",
+      "published_at": "2026-03-08T16:13:01.821000+00:00",
+      "summary": "মা সব সময় চাইত আমি যেন নিজেকে সুন্দরভাবে উপস্থাপন করি: আইশা খান",
+      "image_s3_key": "prothomalo-bangla/2026-03-08/zujldp9k/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/zujldp9k/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ঢাকা ওয়াসার এমডি আবদুস সালামের পদত্যাগ, অর্থ পাচারের তদন্ত চলছে",
+      "url": "https://www.prothomalo.com/video/bangladesh/ugpg7moebo",
+      "published_at": "2026-03-08T16:10:00+00:00",
+      "summary": "ঢাকা ওয়াসার এমডি আবদুস সালামের পদত্যাগ, অর্থ পাচারের তদন্ত চলছে",
+      "image_s3_key": "prothomalo-bangla/2026-03-08/2fdhmapp/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/2fdhmapp/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "রাজশাহীতে জামায়াত-বিএনপি মারামারির সময় মুয়াজ্জিনের মৃত্যুর ঘটনায় হত্যা মামলা",
+      "url": "https://www.prothomalo.com/bangladesh/district/pxylnr124y",
+      "published_at": "2026-03-08T16:02:51.342000+00:00",
+      "summary": "রোববার বিকেলে মুয়াজ্জিন আলাউদ্দিনের জানাজা অনুষ্ঠিত হয়। পরে পারিবারিক কবরস্থানে তাঁকে দাফন করা হয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-08/cjwdpsdt/RajshahiDH109220260308IMG-20260308-WA0036.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/cjwdpsdt/RajshahiDH109220260308IMG-20260308-WA0036.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আড়াই লাখ টন এলএনজিসহ চট্টগ্রাম বন্দরে ১৫ জাহাজ",
+      "url": "https://www.ittefaq.com.bd/778518/%E0%A6%86%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%A8-%E0%A6%8F%E0%A6%B2%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A7%A7%E0%A7%AB-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C",
+      "published_at": null,
+      "summary": "মধ্যপ্রাচ্যে চলমান উত্তেজনার মধ্যে সংঘাত শুরুর আগেই প্রায় আড়াই লাখ টন এলএনজিসহ হরমুজ প্রণালি অতিক্রম করে আসা ১৫টি জাহাজ চট্টগ্রাম বন্দরে পৌঁছাতে শুরু করেছে। এসব জাহাজে তরলীকৃত প্রাকৃতিক গ্যাস (এলএনজি), তরলীকৃত পেট্রোলিয়াম গ্যাস (এলপিজি), বিভিন্ন ধরনের জ্বালানি তেল ও শিল্পকারখানার কাঁচামাল রয়েছে।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/38ebdb7ddda104b89851045957433488-69ad8acbc4058.jpg"
+    },
+    {
+      "headline": "দোয়ারাবাজারে জামায়াতের ইফতার মাহফিল",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/KdJOinw352En/",
+      "published_at": null,
+      "summary": "বাংলাদেশ জামায়াতে ইসলামী সুনামগঞ্জের দোয়ারাবাজার উপজেলা কর্তৃক আয়োজিত পবিত্র রমজানের তাৎপর্য শীর্ষক আলোচনা সভা ও ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Doara-Bazar.jpg"
     },
     {
       "headline": "নারী লেখকদের সাহিত্যের আন্তর্জাতিক মঞ্চ",
@@ -1393,108 +1496,6 @@
       "published_at": null,
       "summary": "পাথর আনলোড করার পর ভারতে ফেরার পথে জ্বালানি সঙ্কটে পড়েন তিনি। এ সময় বাংলাদেশে অবস্থিত ‘নাদিয়া স্টোর’ নামের একটি দোকান থেকে ভারতীয় রুপি দিয়ে ডিজেল কেনার চেষ্টা করেন।",
       "image_url": "https://media.ndiganta.com/original_images/Sylhet-BGB_N9tCEYy.jpg"
-    },
-    {
-      "headline": "'হ্যাঁ' ভোট আপনাদের অর্জন, এই অর্জনকে বঙ্গপসাগরে ফেলে দিয়েন না-সরকারকে সাবেক সেনা কর্মকর্তা",
-      "url": "https://dailynayadiganta.com/video/Y9DxqbUMFF1n/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "ইরান থেকে কীভাবে খবর পাঠান সাংবাদিকরা?",
-      "url": "https://dailynayadiganta.com/video/StWDE4rZHzIH/",
-      "published_at": null,
-      "summary": null,
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "মেট্রোরেল সফল ও যাতায়াতবান্ধব প্রকল্প : সেতুমন্ত্রী",
-      "url": "https://dailynayadiganta.com/bangladesh/national/j6eztGyBx5jw/",
-      "published_at": null,
-      "summary": "জনগণের অর্থের অপচয় রোধ করে এবং প্রকল্পের গুণগত মানের সাথে কোনো ধরনের আপস না করে উন্নয়ন প্রকল্প বাস্তবায়ন করতে হবে। নির্বাচিত সরকার জনগণের কাছে জবাবদিহিতা ও স্বচ্ছতা নিশ্চিত করতে বদ্ধপরিকর। তাই প্রকল্প বাস্তবায়নের ক্ষেত্রে চুক্তির ন্যায্যতা, ব্যয়ের যৌক্তিকতা এবং ব্যয় বৃদ্ধির কারণ সম্পর্কে স্বচ্ছতা নিশ্চিত করতে হবে।",
-      "image_url": "https://media.ndiganta.com/original_images/minister_m8sVWij.JPG"
-    },
-    {
-      "headline": "শিক্ষার মানোন্নয়নে আন্তর্জাতিক উন্নয়ন সহযোগীদের সাথে সমন্বয় জোরদার করা হবে : শিক্ষামন্ত্রী",
-      "url": "https://dailynayadiganta.com/bangladesh/national/6q8BwDF9p7QU/",
-      "published_at": null,
-      "summary": "বৈঠকে বাংলাদেশের শিক্ষা খাতের চলমান ও ভবিষ্যৎ সহযোগিতা জোরদার করার বিষয়ে বিস্তারিত আলোচনা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Milon_0NyBjxA.JPG"
-    },
-    {
-      "headline": "উত্তরায় দগ্ধ সেই অন্তঃসত্ত্বা সোনিয়ার মৃত্যু",
-      "url": "https://dailynayadiganta.com/bangladesh/accidents/gnbYNBUfbPGc/",
-      "published_at": null,
-      "summary": "‘সকাল ১০টার দিকে নিবিড় পরিচর্যা কেন্দ্রে (আইসিইউ) অন্তঃসত্ত্বা সোনিয়া আক্তারের মৃত্যু হয়েছে। তার শরীরে ১০০ শতাংশ দগ্ধ ছিল। তার ইনহেলিশন ইনজুরি ছিল।’",
-      "image_url": "https://media.ndiganta.com/original_images/death111_LvWCFha.jpg"
-    },
-    {
-      "headline": "সংস্কার পরিষদ গঠন না হলে আবারো রাজপথে নামতে হবে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/fJIHZBKFjLCo/",
-      "published_at": null,
-      "summary": "‘জাতীয় নির্বাচনে যে কারচুপির অভিযোগ উঠেছে, স্থানীয় নির্বাচনে তা প্রতিরোধে প্রতিটি কেন্দ্রে সংগঠিত কমিটি গড়ে তুলতে হবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Barishal-NCP.jpg"
-    },
-    {
-      "headline": "নিজে স্বাবলম্বী হয়ে অন্য নারীদের ভবিষ্যৎ গড়ছেন লাভলী",
-      "url": "https://www.prothomalo.com/video/bangladesh/79n8dx7cos",
-      "published_at": "2026-03-08T13:00:00+00:00",
-      "summary": "নিজে স্বাবলম্বী হয়ে অন্য নারীদের ভবিষ্যৎ গড়ছেন লাভলী",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/nweefab8/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/nweefab8/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "নির্বাচন শেষ হলেও তথ্য হালনাগাদে দুর্বলতা",
-      "url": "https://www.prothomalo.com/technology/ngdixq3ng0",
-      "published_at": "2026-03-08T12:53:46.993000+00:00",
-      "summary": "নির্বাচনী তথ্য আদান-প্রদান সহজ করতে চালু হয় ‘স্মার্ট ইলেকশন ম্যানেজমেন্ট বিডি’ অ্যাপ।",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/o7kpujc1/Election.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/o7kpujc1/Election.png?auto=format,compress"
-    },
-    {
-      "headline": "শত্রুকে এক ইঞ্চি জমিও দখল করতে দেবে না ইরান: পেজেশকিয়ান",
-      "url": "https://www.prothomalo.com/video/international/e0y01seeig",
-      "published_at": "2026-03-08T12:50:28.436000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-03-08/i423kca8/BARTA-SHONKHEP.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/i423kca8/BARTA-SHONKHEP.jpg?auto=format,compress"
-    },
-    {
-      "headline": "অস্ট্রেলিয়া পুলিশের ভিডিওতে একুশে ফেব্রুয়ারি ",
-      "url": "https://nagorik.prothomalo.com/durporobash/sl7z1e95oj",
-      "published_at": "2026-03-08T12:48:19.855000+00:00",
-      "summary": "আন্তর্জাতিক মাতৃভাষা দিবসের মাহেন্দ্রক্ষণে অস্ট্রেলিয়া পুলিশের একটি বিশেষ ভিডিও সামাজিক যোগাযোগমাধ্যমে ভাইরাল হয়ে অস্ট্রেলিয়াপ্রবাসী বাংলাদেশিদের আবেগাপ্লুত করেছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/qa2xcjsc/9.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/qa2xcjsc/9.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ভর্তুকি মূল্যে সারের দাবিতে গাইবান্ধায় স্মারকলিপি",
-      "url": "https://www.bd-pratidin.com/country/2026/03/08/1225741",
-      "published_at": "2026-03-08T19:36:35+06:00",
-      "summary": "আলুর লাভজনক দাম নিশ্চিত করা এবং সার নিয়ে দুর্নীতি, কালোবাজারী বন্ধ করে ভর্তুকি মূল্যে কৃষকের সার পাওয়ার নিশ্চয়তার দাবিতে গাইবান্ধায় কৃষিমন্ত্রী বরাবর স্মারকলিপি পেশ করা হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772976994-4bef58c8d206e45c668e13246f022c47.jpg"
-    },
-    {
-      "headline": "উখিয়ার রোহিঙ্গা ক্যাম্পে কারিতাসের গুদামে আগুন",
-      "url": "https://www.bd-pratidin.com/country/2026/03/08/1225737",
-      "published_at": "2026-03-08T19:31:18+06:00",
-      "summary": "কক্সবাজারের উখিয়ার রোহিঙ্গা ক্যাম্পে বেসরকারি সংস্থা কারিতাস বাংলাদেশের ওয়াশ কার্যক্রমের একটি গুদামে অগ্নিকাণ্ডের ঘটনা ঘটেছে। রবিবার (৮ মার্চ) দুপুর ২টার দিকে কুতুপালং মধুরছড়াস্থ ৪ নম্বর রোহিঙ্গা ক্যাম্পে প্রতিষ্ঠানটির গুদামে আগুনের সূত্রপাত হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772976677-79d96c04ba4483e1cfafdb7108e2418d.jpg"
-    },
-    {
-      "headline": "নতুন সর্বোচ্চ নেতা নির্বাচন করা ইরানের জনগণের বিষয়, আর কারও নয়: আরাঘচি",
-      "url": "https://www.ittefaq.com.bd/778515/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A6%97%E0%A6%A3%E0%A7%87%E0%A6%B0",
-      "published_at": null,
-      "summary": "ইরানের পররাষ্ট্রমন্ত্রী বলেছেন আব্বাস আরাঘচি বলেছেন, নতুন সর্বোচ্চ নেতা নির্বাচনের সিদ্ধান্ত ইরানের বিশেষজ্ঞ পরিষদ নেবে এবং এটি ইরানের জনগণের অভ্যন্তরীণ বিষয়।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/c1ac5ad380e158c32addf4f6ee9ebbf5-69ad86e30cb06.jpg"
-    },
-    {
-      "headline": "মার্কিন হামলায়ও টলানো যাবে না ইরানের শাসনব্যবস্থা, বলেছিলেন খোদ মার্কিন গোয়েন্দারাই",
-      "url": "https://www.ittefaq.com.bd/778514/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F%E0%A6%93-%E0%A6%9F%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE",
-      "published_at": null,
-      "summary": "ইরানের ওপর যুক্তরাষ্ট্র বড় ধরনের সামরিক হামলা চালালেও দেশটির শক্তিশালী সামরিক বাহিনী ও ইসলামি শাসনব্যবস্থাকে উৎখাত করা কঠিন হতে পারে—এমন সতর্কবার্তা দেওয়া হয়েছিল যুক্তরাষ্ট্রের ন্যাশনাল ইন্টেলিজেন্স কাউন্সিলের (এনআইসি) একটি গোপন প্রতিবেদনে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/a0378cb6ac0f671df8be3dac5570bf70-69ad8404f1aad.jpg"
     }
   ]
 }
