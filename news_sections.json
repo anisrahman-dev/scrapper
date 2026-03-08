@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-03-08T21:22:10.359605+00:00",
+  "fetched_at": "2026-03-08T21:48:54.655192+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "সাংবাদিকতার শিক্ষক অধ্যাপক সাখাওয়াত আলী খান আর নেই",
+        "url": "https://www.prothomalo.com/bangladesh/xmdkm18x1y",
+        "published_at": "2026-03-08T21:24:35.446000+00:00",
+        "summary": "অধ্যাপক সাখাওয়াত আলী খান স্ত্রী, এক মেয়ে, এক ছেলে, দুই নাতিসহ অসংখ্য গুণগ্রাহী ও ছাত্রছাত্রী রেখে গেছেন। প্রথম আলোর সহযোগী সম্পাদক সুমনা শারমীন তাঁর মেয়ে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-08/mnrq47ce/fother-of-Sumi-apa.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/mnrq47ce/fother-of-Sumi-apa.jpeg?auto=format,compress"
+      },
       {
         "headline": "বইমেলায় নিরালা পরিবেশ ",
         "url": "https://www.prothomalo.com/bangladesh/capital/p3qpc4hlzm",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/pp7ere56/menopause-guidelines.jpg?auto=format,compress"
       },
       {
-        "headline": "সরকারি ইউনানি–আয়ুর্বেদিক মেডিকেল কলেজ এবং সরকারি হোমিওপ্যাথিক কলেজে ভর্তির ফল প্রকাশ",
-        "url": "https://www.prothomalo.com/education/8ywyx8ikw1",
-        "published_at": "2026-03-08T16:37:05.818000+00:00",
-        "summary": "স্বাস্থ্য শিক্ষা অধিদপ্তরের অধীন ২০২৫-২৬ শিক্ষাবর্ষের সরকারি ইউনানি ও আয়ুর্বেদিক মেডিকেল কলেজ এবং সরকারি হোমিওপ্যাথিক মেডিকেল কলেজে বিইউএমএস, বিএএমএস এবং বিএইচএমএস কোর্সের ভর্তি পরীক্ষার ফল প্রকাশিত হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2024-04/43baf02a-cd76-429f-92d6-905b5de1951e/dr.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-04/43baf02a-cd76-429f-92d6-905b5de1951e/dr.webp?auto=format,compress"
-      },
-      {
         "headline": "নারী দিবসে ডেইলি সানের গোলটেবিল আলোচনা, পাঁচ ক্রীড়াবিদকে সম্মাননা",
         "url": "https://www.bd-pratidin.com/sports/2026/03/09/1225944",
         "published_at": "2026-03-09T00:22:30+06:00",
@@ -571,7 +571,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 09, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর বিএনপি মিডিয়া সেল কমিটির বৈঠক শেষে ইফতার ও দোয়ার আয়োজন করা হয়েছে। ...",
+        "summary": "দক্ষিণী সিনেমার অভিনেত্রী নয়নতারা ইতোমধ্যেই বলিউড বাদশাহ শাহরুখ খানের ‘জওয়ান’ সিনেমার মাধ্যমে হিন্দি সিনেমায় ব্যাপক পরিচিতি পেয়েছেন। নতুন করে গুঞ্জন ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -580,6 +580,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "সরকারি ইউনানি–আয়ুর্বেদিক মেডিকেল কলেজ এবং সরকারি হোমিওপ্যাথিক কলেজে ভর্তির ফল প্রকাশ",
+        "url": "https://www.prothomalo.com/education/8ywyx8ikw1",
+        "published_at": "2026-03-08T16:37:05.818000+00:00",
+        "summary": "স্বাস্থ্য শিক্ষা অধিদপ্তরের অধীন ২০২৫-২৬ শিক্ষাবর্ষের সরকারি ইউনানি ও আয়ুর্বেদিক মেডিকেল কলেজ এবং সরকারি হোমিওপ্যাথিক মেডিকেল কলেজে বিইউএমএস, বিএএমএস এবং বিএইচএমএস কোর্সের ভর্তি পরীক্ষার ফল প্রকাশিত হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2024-04/43baf02a-cd76-429f-92d6-905b5de1951e/dr.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-04/43baf02a-cd76-429f-92d6-905b5de1951e/dr.webp?auto=format,compress"
       },
       {
         "headline": "রাজনীতিতে শুধুই পুরুষ, এই সংস্কৃতি ভাঙতে হবে",
@@ -1487,17 +1495,17 @@
         "summary": null,
         "image_s3_key": "prothomalo-bangla/2026-03-08/sr9cbwss/WEB.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/sr9cbwss/WEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "কেউ দুর্নীতি করলে, জনগণের ক্ষতি করলে, ঘাড় ধরে বের করে দেব: পর্যটনমন্ত্রী",
-        "url": "https://www.prothomalo.com/bangladesh/district/fw9lm88gpf",
-        "published_at": "2026-03-08T13:13:18.702000+00:00",
-        "summary": "আফরোজা খানম বলেন, ‘এই সরকারের সুনাম ধরে রাখার দায়িত্ব আমাদের। বিগত সময়ে কে কী করেছেন, তা বাদ দিলাম। এখন থেকে সবাইকে সচেতন হতে হবে।’",
-        "image_s3_key": "prothomalo-bangla/2026-03-08/p841i9x4/WhatsApp-Image-2026-03-08-at-7.06.25-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/p841i9x4/WhatsApp-Image-2026-03-08-at-7.06.25-PM.jpeg?auto=format,compress"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "সাংবাদিকতার শিক্ষক অধ্যাপক সাখাওয়াত আলী খান আর নেই",
+        "url": "https://www.prothomalo.com/bangladesh/xmdkm18x1y",
+        "published_at": "2026-03-08T21:24:35.446000+00:00",
+        "summary": "অধ্যাপক সাখাওয়াত আলী খান স্ত্রী, এক মেয়ে, এক ছেলে, দুই নাতিসহ অসংখ্য গুণগ্রাহী ও ছাত্রছাত্রী রেখে গেছেন। প্রথম আলোর সহযোগী সম্পাদক সুমনা শারমীন তাঁর মেয়ে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-08/mnrq47ce/fother-of-Sumi-apa.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/mnrq47ce/fother-of-Sumi-apa.jpeg?auto=format,compress"
+      },
       {
         "headline": "বইমেলায় নিরালা পরিবেশ ",
         "url": "https://www.prothomalo.com/bangladesh/capital/p3qpc4hlzm",
@@ -1809,14 +1817,6 @@
         "summary": "আফরোজা খানম বলেন, ‘এই সরকারের সুনাম ধরে রাখার দায়িত্ব আমাদের। বিগত সময়ে কে কী করেছেন, তা বাদ দিলাম। এখন থেকে সবাইকে সচেতন হতে হবে।’",
         "image_s3_key": "prothomalo-bangla/2026-03-08/p841i9x4/WhatsApp-Image-2026-03-08-at-7.06.25-PM.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/p841i9x4/WhatsApp-Image-2026-03-08-at-7.06.25-PM.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "‘ঘরে বসে আয়’, মেটার এআইনির্ভর এমন সব স্ক্যাম বিজ্ঞাপনের শিকার বাংলাদেশের নারীরা",
-        "url": "https://www.prothomalo.com/bangladesh/j5aludbrud",
-        "published_at": "2026-03-08T13:06:51.025000+00:00",
-        "summary": "বাংলাদেশে সামাজিক যোগাযোগমাধ্যমে নারীদের ওপর আর্থিক প্রতারণার নতুন এক ধারা নিয়ে বিশ্লেষণ প্রকাশ করেছে ডিসমিসল্যাব। তথ্য গবেষণা প্ল্যাটফর্মটির এক প্রতিবেদনে দেখানো হয়েছে, মেটার বিজ্ঞাপন ব্যবস্থা এবং কৃত্রিম বুদ্ধিমত্তানির্ভর অ্যালগরিদম ব্যবহার করে কীভাবে নারীদের লক্ষ্য করে স্ক্যাম বিজ্ঞাপন ছড়ানো হচ্ছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-08/oifsxp4x/ডিসমিসল্যাবের-প্রতিবেদনের-একাংশের-স্ক্রিনশট.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/oifsxp4x/ডিসমিসল্যাবের-প্রতিবেদনের-একাংশের-স্ক্রিনশট.jpeg?auto=format,compress"
       },
       {
         "headline": "নারী দিবসে ডেইলি সানের গোলটেবিল আলোচনা, পাঁচ ক্রীড়াবিদকে সম্মাননা",
@@ -2237,6 +2237,14 @@
         "published_at": "1772985492",
         "summary": "চাঁদপুরের মতলব উত্তরে মেয়েকে উত্যক্তের প্রতিবাদ করায় মো. জাকির হোসেন মিয়াজী (৪৫) নামে এক কৃষক পিতাকে পিটিয়ে হত্যার অভিযোগ উঠেছে। বখাটে যুবকদের হামলায় আহত হয়ে ১৩ দিন হাসপাতালে চিকিৎসাধীন থাকার পর রোববারভোরে তিনি মারা যান। নিহত জাকির উপজেলার দুর্গাপুর ইউনিয়নের হরিনা গ্রামের বাসিন্দা এবং পাঁচ সন্তানের জনক ছিলেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-45-20260308155812.jpg"
+      },
+      {
+        "headline": "‘ঘরে বসে আয়’, মেটার এআইনির্ভর এমন সব স্ক্যাম বিজ্ঞাপনের শিকার বাংলাদেশের নারীরা",
+        "url": "https://www.prothomalo.com/bangladesh/j5aludbrud",
+        "published_at": "2026-03-08T13:06:51.025000+00:00",
+        "summary": "বাংলাদেশে সামাজিক যোগাযোগমাধ্যমে নারীদের ওপর আর্থিক প্রতারণার নতুন এক ধারা নিয়ে বিশ্লেষণ প্রকাশ করেছে ডিসমিসল্যাব। তথ্য গবেষণা প্ল্যাটফর্মটির এক প্রতিবেদনে দেখানো হয়েছে, মেটার বিজ্ঞাপন ব্যবস্থা এবং কৃত্রিম বুদ্ধিমত্তানির্ভর অ্যালগরিদম ব্যবহার করে কীভাবে নারীদের লক্ষ্য করে স্ক্যাম বিজ্ঞাপন ছড়ানো হচ্ছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-08/oifsxp4x/ডিসমিসল্যাবের-প্রতিবেদনের-একাংশের-স্ক্রিনশট.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/oifsxp4x/ডিসমিসল্যাবের-প্রতিবেদনের-একাংশের-স্ক্রিনশট.jpeg?auto=format,compress"
       },
       {
         "headline": "১৬ মার্চ সারা দেশে খাল পুনঃখনন কাজের উদ্বোধন করবেন প্রধানমন্ত্রী",
@@ -2973,13 +2981,6 @@
         "published_at": "2026-03-08T17:17:09+06:00",
         "summary": "যুক্তরাজ্য রোহিঙ্গা শরণার্থীদের (বাস্তুচ্যুত মিয়ানমারের নাগরিক) জন্য সহায়তা অব্যাহত রাখতে চায় বলে প্রতিশ্রুতি পুনর্ব্যক্ত করেছেন ব্রিটিশ হাইকমিশনার সারাহ কুক।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772968628-b5f3c3d30d091f8a1e74037546293566.jpg"
-      },
-      {
-        "headline": "নির্বাচনে দায়িত্ব পালন না করায় সহকারী প্রিজাইডিং অফিসার বরখাস্ত",
-        "url": "https://www.bd-pratidin.com/national/2026/03/08/1225689",
-        "published_at": "2026-03-08T17:10:34+06:00",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন ও গণভোটে দায়িত্ব পালন না করায় রাঙামাটি-২৯৯ আসনের বিলাইছড়ি উপজেলার একটি ভোটকেন্দ্রের সহকারী প্রিজাইডিং অফিসার আবদুল্লাহ আল মামুনকে দুই মাসের জন্য সাময়িক বরখাস্ত করার সিদ্ধান্ত নিয়েছে নির্বাচন কমিশন (ইসি)।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772968233-95474b102319ba183aad222aee334702.jpg"
       }
     ],
     "politics": [
@@ -3204,7 +3205,7 @@
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
         "url": "https://www.jugantor.com/bnp",
         "published_at": null,
-        "summary": "শহীদ রাষ্ট্রপতি জিয়াউর রহমান ও সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার আত্মার মাগফিরাত কামনায় দোয়া ও ইফতার মাহফিলের আয়োজন করেছে জাতীয়তাবাদী ...",
+        "summary": "নিজের নামে মানহানি মামলা হয়েছে শুনে বিএনপির স্থায়ী কমিটির সদস্য মির্জা আব্বাসকে হুঁশিয়ারি দিয়ে জাতীয় নাগরিক পার্টির (এনসিপি) মুখ্য সমন্বয়ক ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747294137-430161.jpg"
       },
       {
@@ -4768,6 +4769,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772982572-ccbfb4a734cb5d1154674c56f9cbb011.PNG"
       },
       {
+        "headline": "তেল স্থাপনায় হামলা: তেহরানে সড়কের পাশে ‘আগুনের নদী’",
+        "url": "https://www.ittefaq.com.bd/778550/%E0%A6%A4%E0%A7%87%E0%A6%B2-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87-%E2%80%98%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "যুক্তরাষ্ট্র ও ইসরায়েল এবার ইরানের তেল স্থাপনাকে নিশানা করেছে। রোববার (৮ মার্চ) যুদ্ধের নবম দিনে দেশটির তেল স্থাপনায় দফায় দফায় হামলায় হয়েছে। রাজধানী তেহরান ও এর পশ্চিমে কয়েকটি তেলের ডিপো ও শোধনাগারে হামলার পর ভয়াবহ পরিস্থিতির সৃষ্টি হয়। কুণ্ডলী পাকানো আগুনে রাতের আকাশ রক্তাভ রং ধারণ করে। নালায় ছড়িয়ে পড়া তেল থেকে সড়কের পাশে ‘আগুনের নদী’ তৈরি হয়। আর দিনের বেলায় তেহরানের আকাশ ছিল ধোঁয়ায় আচ্ছন্ন। এসব হামলায় অন্তত ৪১ জন নিহত হয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/93bc8dca48b785910b8c9ee5bae36e69-69aded2557473.jpg"
+      },
+      {
         "headline": "নতুন সুপ্রিম লিডার নির্বাচন সম্পন্ন হয়েছে, দ্রুতই নাম ঘোষণা করবে ইরান",
         "url": "https://www.ittefaq.com.bd/778546/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%87",
         "published_at": null,
@@ -4829,13 +4837,6 @@
         "published_at": null,
         "summary": "দক্ষিণ লেবাননে দুই ইসরায়েলি সেনা নিহত হয়েছেন বলে জানিয়েছে ইসরায়েলি সেনাবাহিনী। খবর আল-জাজিরার।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/eb704d8c46e42fcb970df519687fcb78-69ad7cc403ea4.jpg"
-      },
-      {
-        "headline": "অন্ধভাবে কোনো দেশের পক্ষ নেওয়া যুক্তরাজ্যের জাতীয় স্বার্থের পরিপন্থী: ব্রিটিশ পররাষ্ট্রমন্ত্রী",
-        "url": "https://www.ittefaq.com.bd/778496/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F",
-        "published_at": null,
-        "summary": "ইরান ইস্যুতে যুক্তরাষ্ট্রের সামরিক অভিযানে ব্রিটেনের সমর্থন দেওয়া উচিত ছিল—সাবেক প্রধানমন্ত্রী টনি ব্লেয়ারের এমন মন্তব্যের কঠোর সমালোচনা করেছেন দেশটির পররাষ্ট্রমন্ত্রী ইভেট কুপার। তিনি বলেছেন, ২০০৩ সালের ইরাক যুদ্ধের অভিজ্ঞতা থেকে শিক্ষা নেওয়া জরুরি এবং অন্ধভাবে কোনো দেশের পক্ষ নেওয়া ব্রিটেনের জাতীয় স্বার্থের পরিপন্থী।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/0fcee413100e900a180c9807e3fd9574-69ad6fcd8556b.jpg"
       },
       {
         "headline": "ইতিহাস বিস্মৃত জাতির পরিণতি",
@@ -4983,6 +4984,13 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "অন্ধভাবে কোনো দেশের পক্ষ নেওয়া যুক্তরাজ্যের জাতীয় স্বার্থের পরিপন্থী: ব্রিটিশ পররাষ্ট্রমন্ত্রী",
+        "url": "https://www.ittefaq.com.bd/778496/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A7%9F",
+        "published_at": null,
+        "summary": "ইরান ইস্যুতে যুক্তরাষ্ট্রের সামরিক অভিযানে ব্রিটেনের সমর্থন দেওয়া উচিত ছিল—সাবেক প্রধানমন্ত্রী টনি ব্লেয়ারের এমন মন্তব্যের কঠোর সমালোচনা করেছেন দেশটির পররাষ্ট্রমন্ত্রী ইভেট কুপার। তিনি বলেছেন, ২০০৩ সালের ইরাক যুদ্ধের অভিজ্ঞতা থেকে শিক্ষা নেওয়া জরুরি এবং অন্ধভাবে কোনো দেশের পক্ষ নেওয়া ব্রিটেনের জাতীয় স্বার্থের পরিপন্থী।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/0fcee413100e900a180c9807e3fd9574-69ad6fcd8556b.jpg"
       },
       {
         "headline": "ইরানে নতুন সর্বোচ্চ নেতা নির্বাচন করা হয়েছে",
@@ -5823,14 +5831,6 @@
         "published_at": null,
         "summary": "সিআইএ ইরানের বিরুদ্ধে স্থল হামলা চালাতে ইরাক ও ইরানের কুর্দিদের ব্যবহার করার একটি গোপন পরিকল্পনা করেছিল বলে জানিয়েছে একাধিক আন্তর্জাতিক সংবাদমাধ্যম। এ তথ্য প্রকাশ করে মার্কিন সংবাদমাধ্যম সিএনএনসহ কয়েকটি গণমাধ্যম।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/d89333780c5f86d9f9107358e2e4fa99-69acb4a1aaf8b.jpg"
-      },
-      {
-        "headline": "ইরান নিয়ে ট্রাম্প প্রশাসনের বক্তব্য যেভাবে বারবার বদলাচ্ছে",
-        "url": "https://www.prothomalo.com/world/middle-east/qmg0oitwni",
-        "published_at": "2026-03-06T09:08:01.499000+00:00",
-        "summary": "ইরান ইস্যুতে ট্রাম্প ও তাঁর প্রশাসনের বক্তব্যে বারবার পরিবর্তন ও স্ববিরোধিতা দেখা গেছে—কখনো পারমাণবিক কর্মসূচি ধ্বংসের দাবি, কখনো হামলার নতুন হুমকি।",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/s7ixumtx/trump-rubio.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/s7ixumtx/trump-rubio.jpg?auto=format,compress"
       }
     ],
     "business": [

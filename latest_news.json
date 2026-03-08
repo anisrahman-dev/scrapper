@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-08T21:22:10.359605+00:00",
+  "fetched_at": "2026-03-08T21:48:54.655192+00:00",
   "stories": [
+    {
+      "headline": "সাংবাদিকতার শিক্ষক অধ্যাপক সাখাওয়াত আলী খান আর নেই",
+      "url": "https://www.prothomalo.com/bangladesh/xmdkm18x1y",
+      "published_at": "2026-03-08T21:24:35.446000+00:00",
+      "summary": "অধ্যাপক সাখাওয়াত আলী খান স্ত্রী, এক মেয়ে, এক ছেলে, দুই নাতিসহ অসংখ্য গুণগ্রাহী ও ছাত্রছাত্রী রেখে গেছেন। প্রথম আলোর সহযোগী সম্পাদক সুমনা শারমীন তাঁর মেয়ে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-08/mnrq47ce/fother-of-Sumi-apa.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/mnrq47ce/fother-of-Sumi-apa.jpeg?auto=format,compress"
+    },
     {
       "headline": "বইমেলায় নিরালা পরিবেশ ",
       "url": "https://www.prothomalo.com/bangladesh/capital/p3qpc4hlzm",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/pp7ere56/menopause-guidelines.jpg?auto=format,compress"
     },
     {
-      "headline": "সরকারি ইউনানি–আয়ুর্বেদিক মেডিকেল কলেজ এবং সরকারি হোমিওপ্যাথিক কলেজে ভর্তির ফল প্রকাশ",
-      "url": "https://www.prothomalo.com/education/8ywyx8ikw1",
-      "published_at": "2026-03-08T16:37:05.818000+00:00",
-      "summary": "স্বাস্থ্য শিক্ষা অধিদপ্তরের অধীন ২০২৫-২৬ শিক্ষাবর্ষের সরকারি ইউনানি ও আয়ুর্বেদিক মেডিকেল কলেজ এবং সরকারি হোমিওপ্যাথিক মেডিকেল কলেজে বিইউএমএস, বিএএমএস এবং বিএইচএমএস কোর্সের ভর্তি পরীক্ষার ফল প্রকাশিত হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2024-04/43baf02a-cd76-429f-92d6-905b5de1951e/dr.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-04/43baf02a-cd76-429f-92d6-905b5de1951e/dr.webp?auto=format,compress"
-    },
-    {
       "headline": "নারী দিবসে ডেইলি সানের গোলটেবিল আলোচনা, পাঁচ ক্রীড়াবিদকে সম্মাননা",
       "url": "https://www.bd-pratidin.com/sports/2026/03/09/1225944",
       "published_at": "2026-03-09T00:22:30+06:00",
@@ -570,7 +570,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 09, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর বিএনপি মিডিয়া সেল কমিটির বৈঠক শেষে ইফতার ও দোয়ার আয়োজন করা হয়েছে। ...",
+      "summary": "দক্ষিণী সিনেমার অভিনেত্রী নয়নতারা ইতোমধ্যেই বলিউড বাদশাহ শাহরুখ খানের ‘জওয়ান’ সিনেমার মাধ্যমে হিন্দি সিনেমায় ব্যাপক পরিচিতি পেয়েছেন। নতুন করে গুঞ্জন ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -579,6 +579,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "সরকারি ইউনানি–আয়ুর্বেদিক মেডিকেল কলেজ এবং সরকারি হোমিওপ্যাথিক কলেজে ভর্তির ফল প্রকাশ",
+      "url": "https://www.prothomalo.com/education/8ywyx8ikw1",
+      "published_at": "2026-03-08T16:37:05.818000+00:00",
+      "summary": "স্বাস্থ্য শিক্ষা অধিদপ্তরের অধীন ২০২৫-২৬ শিক্ষাবর্ষের সরকারি ইউনানি ও আয়ুর্বেদিক মেডিকেল কলেজ এবং সরকারি হোমিওপ্যাথিক মেডিকেল কলেজে বিইউএমএস, বিএএমএস এবং বিএইচএমএস কোর্সের ভর্তি পরীক্ষার ফল প্রকাশিত হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2024-04/43baf02a-cd76-429f-92d6-905b5de1951e/dr.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-04/43baf02a-cd76-429f-92d6-905b5de1951e/dr.webp?auto=format,compress"
     },
     {
       "headline": "রাজনীতিতে শুধুই পুরুষ, এই সংস্কৃতি ভাঙতে হবে",
@@ -1486,14 +1494,6 @@
       "summary": null,
       "image_s3_key": "prothomalo-bangla/2026-03-08/sr9cbwss/WEB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/sr9cbwss/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "কেউ দুর্নীতি করলে, জনগণের ক্ষতি করলে, ঘাড় ধরে বের করে দেব: পর্যটনমন্ত্রী",
-      "url": "https://www.prothomalo.com/bangladesh/district/fw9lm88gpf",
-      "published_at": "2026-03-08T13:13:18.702000+00:00",
-      "summary": "আফরোজা খানম বলেন, ‘এই সরকারের সুনাম ধরে রাখার দায়িত্ব আমাদের। বিগত সময়ে কে কী করেছেন, তা বাদ দিলাম। এখন থেকে সবাইকে সচেতন হতে হবে।’",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/p841i9x4/WhatsApp-Image-2026-03-08-at-7.06.25-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/p841i9x4/WhatsApp-Image-2026-03-08-at-7.06.25-PM.jpeg?auto=format,compress"
     }
   ]
 }
