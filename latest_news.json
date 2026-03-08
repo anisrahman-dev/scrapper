@@ -1,13 +1,29 @@
 {
-  "fetched_at": "2026-03-08T22:21:13.473519+00:00",
+  "fetched_at": "2026-03-08T22:53:14.304470+00:00",
   "stories": [
     {
-      "headline": "মোজতবা খামেনির প্রতি আইআরজিসির আনুগত্য প্রকাশ",
+      "headline": "রোজা : নফসের বিরুদ্ধে জিহাদ",
+      "url": "https://www.prothomalo.com/religion/islam/25kthzydit",
+      "published_at": "2026-03-08T22:30:00+00:00",
+      "summary": "রোজা মানুষকে আল্লাহর সঙ্গে সম্পর্ক গড়তে শেখায়। কিন্তু দোয়া কবুলের শর্ত হলো—আল্লাহর নির্দেশ মান্য করা এবং তাঁর ডাকে সাড়া দেওয়া। নিছক মুখের কথা যথেষ্ট নয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-08/y47fe2am/pexels-erva-nur-297236386-19640894.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/y47fe2am/pexels-erva-nur-297236386-19640894.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সৌদি আরবে ক্ষেপণাস্ত্র  হামলায় দুজন নিহত, একজন বাংলাদেশি অপরজন ভারতীয়",
       "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-      "published_at": "2026-03-08T22:13:34.454000+00:00",
+      "published_at": "2026-03-08T22:25:59.290000+00:00",
       "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
       "image_s3_key": "prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG?auto=format,compress"
+    },
+    {
+      "headline": "মোজতবা খামেনির প্রতি আইআরজিসির আনুগত্য প্রকাশ",
+      "url": "https://www.prothomalo.com/world/middle-east/8g5o3q8t7t",
+      "published_at": "2026-03-08T22:25:01.749000+00:00",
+      "summary": "ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী (আইআরজিসি) মোজতবা খামেনিকে অভিনন্দন জানিয়েছে। বাহিনীটি তাঁকে ইরানের নতুন সর্বোচ্চ নেতা হিসেবে স্বীকৃতি দিয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-05/xoehz55n/Mojtaba-Khamenei.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/xoehz55n/Mojtaba-Khamenei.webp?auto=format,compress"
     },
     {
       "headline": "সাংবাদিকতার শিক্ষক অধ্যাপক সাখাওয়াত আলী খান আর নেই",
@@ -306,20 +322,11 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/79q8lloj/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "করোনার পর শেয়ারবাজারে সূচকের বড় পতন মধ্যপ্রাচ্য সংকটে",
-      "url": "https://www.prothomalo.com/business/market/f66v4mbl21",
-      "published_at": "2026-03-08T16:44:56.216000+00:00",
-      "summary": "সপ্তাহের প্রথম কার্যদিবসে আজ রোববার এক দিনেই ডিএসইএক্স সূচকটি কমেছে ২৩১ পয়েন্ট বা সাড়ে ৪ শতাংশ। ৯৫ শতাংশ শেয়ারের দরপতন।",
-      "image_s3_key": "prothomalo-bangla/2023-10/20184d0a-0ada-4560-a576-aa0dacb9ad39/_____________1______________________________.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-10/20184d0a-0ada-4560-a576-aa0dacb9ad39/_____________1______________________________.jpg?auto=format,compress"
-    },
-    {
-      "headline": "মেনোপজ নিয়ে চিকিৎসকদের জন্য নতুন নির্দেশিকা প্রকাশ",
-      "url": "https://www.prothomalo.com/bangladesh/1t31m5h25d",
-      "published_at": "2026-03-08T16:41:08.818000+00:00",
-      "summary": "নারী দিবসে মেনোপজ বিষয়ে চিকিৎসকদের জন্য নতুন নির্দেশিকা প্রকাশ",
-      "image_s3_key": "prothomalo-bangla/2026-03-08/pp7ere56/menopause-guidelines.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/pp7ere56/menopause-guidelines.jpg?auto=format,compress"
+      "headline": "যাত্রাবাড়ীতে যুবকের রক্তাক্ত মরদেহ উদ্ধার",
+      "url": "https://www.bd-pratidin.com/city-news/2026/03/09/1225969",
+      "published_at": "2026-03-09T04:23:42+06:00",
+      "summary": "রাজধানীর যাত্রাবাড়ীতে সবজির আড়তের কাছে রক্তাক্ত অবস্থায় পড়ে থাকা এক যুবকের মরদেহ উদ্ধার করেছে পুলিশ।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/09/og/1773008620-27c0f3b981233a5c6e6462400c9a0b9b.PNG"
     },
     {
       "headline": "নারী দিবসে ডেইলি সানের গোলটেবিল আলোচনা, পাঁচ ক্রীড়াবিদকে সম্মাননা",
@@ -385,11 +392,18 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772983225-e0079216089f03035a0d23224d16bb87.jpg"
     },
     {
-      "headline": "কেরানীগঞ্জে অবৈধ স্ট্যান্ড ও ফুটপাত দখল উচ্ছেদে যৌথ অভিযান",
-      "url": "https://www.bd-pratidin.com/city-news/2026/03/08/1225772",
-      "published_at": "2026-03-08T21:09:34+06:00",
-      "summary": "ঢাকার কেরানীগঞ্জে যানজট নিরসন এবং ফুটপাত ও সড়ক দখলমুক্ত করতে বিভিন্ন অবৈধ স্ট্যান্ড, স্থাপনা ও দোকানপাট উচ্ছেদে অভিযান চালিয়েছে যৌথ বাহিনী।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772982572-ccbfb4a734cb5d1154674c56f9cbb011.PNG"
+      "headline": "সোমবার থেকে ঈদের ছুটি পর্যন্ত ঢাকা বিশ্ববিদ্যালয়ে ক্লাস-পরীক্ষা বন্ধ",
+      "url": "https://www.ittefaq.com.bd/778553/%E0%A6%B8%E0%A7%8B%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%88%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9B%E0%A7%81%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87",
+      "published_at": null,
+      "summary": "শিক্ষা মন্ত্রণালয়ের নির্দেশনার পরিপ্রেক্ষিতে সোমবার থেকে ঈদের ছুটি পর্যন্ত ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) সব ক্লাস ও পরীক্ষা বন্ধ রাখার সিদ্ধান্ত নিয়েছে বিশ্ববিদ্যালয় প্রশাসন।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/dfce36f715d4ca036834f7c5f5462988-69adf705283e0.jpg"
+    },
+    {
+      "headline": "হাদির খুনিদের অনতিবিলম্বে দেশে ফিরিয়ে এনে দৃষ্টান্তমূলক শাস্তির দাবি জানাচ্ছি",
+      "url": "https://www.ittefaq.com.bd/778552/%E0%A6%B9%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%96%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A7%87",
+      "published_at": null,
+      "summary": "ভারতে গ্রেপ্তার হওয়া শরীফ ওসমান হাদি হত্যাকাণ্ডের প্রধান আসামি ও তার সহযোগীকে অনতিবিলম্বে দেশে ফিরিয়ে এনে আইনের আওতায় সোপর্দ এবং দৃষ্টান্তমূলক শাস্তির দাবি জানিয়েছে ডাকসুর ভিপি আবু সাদিক কায়েম।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/e63969cff1836e9406289bc7dead72ff-69adf46f2817d.jpg"
     },
     {
       "headline": "ইরানের নতুন সর্বোচ্চ নেতা হিসেবে মোজতবা খামেনির নাম ঘোষণা",
@@ -448,20 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/e265f378eb04ac63aa0e84e3508c9e7e-69adc07d9e168.jpg"
     },
     {
-      "headline": "সৌদিতে আঘাত হানল ইরানের মিসাইল, বাংলাদেশিসহ নিহত ২",
-      "url": "https://www.ittefaq.com.bd/778542/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%98%E0%A6%BE%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%B2-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%A8",
-      "published_at": null,
-      "summary": "মধ্য সৌদি আরবের আল-খারজ অঞ্চলে চালানো এক হামলায় অন্তত দুজন নিহত হয়েছেন। এদের মধ্যে একজন বাংলাদেশি, অপরজন ভারতীয় নাগরিক।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/d5e28d63ff10c3d054653636ced076db-69adbd544e7a8.jpg"
-    },
-    {
-      "headline": "ফের টি-টোয়েন্টিতে বিশ্ব চ্যাম্পিয়ন ভারত",
-      "url": "https://www.ittefaq.com.bd/778541/%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A7%8B%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4",
-      "published_at": null,
-      "summary": "টি-টোয়েন্টি বিশ্বকাপের ফাইনালে নিউজিল্যান্ডকে ৯৬ রানের বড় ব্যবধানে হারিয়ে টানা দ্বিতীয়বারের মতো চ্যাম্পিয়ন হয়েছে ভারত। একই সঙ্গে বিশ্বকাপের ইতিহাসে প্রথম দল হিসেবে তিনবার শিরোপা জয়ের রেকর্ড গড়েছে তারা।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/18dfc568d6a54770beac293525848dcf-69adb6047ae1e.jpg"
-    },
-    {
       "headline": "ইতিহাস বিস্মৃত জাতির পরিণতি",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/hc9UMF6ZZ0Y6/",
       "published_at": null,
@@ -481,6 +481,27 @@
       "published_at": null,
       "summary": "কক্সবাজারের টেকনাফ, উখিয়া সীমান্ত এবং বঙ্গোপসাগরে মাছ ধরার ট্রলারে আসছে বিপুল পরিমাণ ইয়াবা ও আইস। এই তিনটি রুটেই মিয়ানমার সীমান্ত এলাকা। দেশের প্রায় ৯০ শতাংশ মাদক এই তিন রুট দিয়েই দেশের বিভিন্ন অঞ্চলে পাঠানো হয়। পাচারকারীরা রুট পরিবর্তন না করলেও কৌশল পরিবর্তন করে মাদকে সয়লাব করে তুলছে সারাদেশ।",
       "image_url": "https://media.ndiganta.com/original_images/Screenshot_20260307-093502_Chrome.jpg"
+    },
+    {
+      "headline": "রুয়েটে ইন্টারন্যাশনাল ওমেন্স’ডে ডিবেট প্রতিযোগিতা",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/xDxZTDOU8JKu/",
+      "published_at": null,
+      "summary": "রোববার (৮ মার্চ) বিশ্ববিদ্যালয়ের হলরুমে এই প্রতিযোগিতার আয়োজন করে ব্র্যাক সোশাল কমপ্লায়েন্স প্রোগ্রাম।",
+      "image_url": "https://media.ndiganta.com/original_images/RUET_7lKNsjv.jpg"
+    },
+    {
+      "headline": "সোসাইটি অব ব্রিটিশ বাংলাদেশী সলিসিটরসের ইফতার মাহফিল অনুষ্ঠিত",
+      "url": "https://dailynayadiganta.com/bangladesh/emigration/V5wku940iL3Q/",
+      "published_at": null,
+      "summary": "এ সময় সভাপতি মুহাম্মদ নূরুল গাফ্ফার সংগঠনের চলতি বছরের পরিকল্পনা ও ইভেন্ট ক্যালেন্ডার সদস্যদের সামনে তুলে ধরেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Britain.jpg"
+    },
+    {
+      "headline": "ইরান যুদ্ধ : কোন দেশের কত প্রাণহানি",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/ohrWkfYHuBFV/",
+      "published_at": null,
+      "summary": "সরকারি কর্মকর্তা ও কর্তৃপক্ষের বিবৃতি থেকে কিছুটা ধারণা পাওয়া যায়।",
+      "image_url": "https://media.ndiganta.com/original_images/Iran_7L7Qyh8.jpg"
     },
     {
       "headline": "ভুয়া নিয়োগ বিজ্ঞপ্তি থেকে সাবধান থাকার আহ্বান ইসলামিক ফাউন্ডেশনের",
@@ -511,6 +532,64 @@
       "image_url": "https://media.ndiganta.com/original_images/Sunamganj-8-3.jpg"
     },
     {
+      "headline": "আনোয়ারা স্টুডেন্ট’স ফোরামের ইফতার ও দোয়া মাহফিল",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/SWbnYYYt7eHC/",
+      "published_at": null,
+      "summary": "ইফতার মাহফিলে দেশ ও জাতির কল্যাণ কামনায় বিশেষ দোয়া ও মোনাজাত করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Anowar-4-3.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - March 09, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "মার্কিন-ইসরাইলি বিমান হামলায় আয়াতুল্লাহ আলী খামেনি নিহত হওয়ার পর সোমবার (৯ মার্চ) ভোরে ইরানের রাষ্ট্রীয় গণমাধ্যম তার ছেলে মোজতবা খামেনিকে ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "করোনার পর শেয়ারবাজারে সূচকের বড় পতন মধ্যপ্রাচ্য সংকটে",
+      "url": "https://www.prothomalo.com/business/market/f66v4mbl21",
+      "published_at": "2026-03-08T16:44:56.216000+00:00",
+      "summary": "সপ্তাহের প্রথম কার্যদিবসে আজ রোববার এক দিনেই ডিএসইএক্স সূচকটি কমেছে ২৩১ পয়েন্ট বা সাড়ে ৪ শতাংশ। ৯৫ শতাংশ শেয়ারের দরপতন।",
+      "image_s3_key": "prothomalo-bangla/2023-10/20184d0a-0ada-4560-a576-aa0dacb9ad39/_____________1______________________________.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-10/20184d0a-0ada-4560-a576-aa0dacb9ad39/_____________1______________________________.jpg?auto=format,compress"
+    },
+    {
+      "headline": "মেনোপজ নিয়ে চিকিৎসকদের জন্য নতুন নির্দেশিকা প্রকাশ",
+      "url": "https://www.prothomalo.com/bangladesh/1t31m5h25d",
+      "published_at": "2026-03-08T16:41:08.818000+00:00",
+      "summary": "নারী দিবসে মেনোপজ বিষয়ে চিকিৎসকদের জন্য নতুন নির্দেশিকা প্রকাশ",
+      "image_s3_key": "prothomalo-bangla/2026-03-08/pp7ere56/menopause-guidelines.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/pp7ere56/menopause-guidelines.jpg?auto=format,compress"
+    },
+    {
+      "headline": "কেরানীগঞ্জে অবৈধ স্ট্যান্ড ও ফুটপাত দখল উচ্ছেদে যৌথ অভিযান",
+      "url": "https://www.bd-pratidin.com/city-news/2026/03/08/1225772",
+      "published_at": "2026-03-08T21:09:34+06:00",
+      "summary": "ঢাকার কেরানীগঞ্জে যানজট নিরসন এবং ফুটপাত ও সড়ক দখলমুক্ত করতে বিভিন্ন অবৈধ স্ট্যান্ড, স্থাপনা ও দোকানপাট উচ্ছেদে অভিযান চালিয়েছে যৌথ বাহিনী।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772982572-ccbfb4a734cb5d1154674c56f9cbb011.PNG"
+    },
+    {
+      "headline": "সৌদিতে আঘাত হানল ইরানের মিসাইল, বাংলাদেশিসহ নিহত ২",
+      "url": "https://www.ittefaq.com.bd/778542/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%98%E0%A6%BE%E0%A6%A4-%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%B2-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A7%A8",
+      "published_at": null,
+      "summary": "মধ্য সৌদি আরবের আল-খারজ অঞ্চলে চালানো এক হামলায় অন্তত দুজন নিহত হয়েছেন। এদের মধ্যে একজন বাংলাদেশি, অপরজন ভারতীয় নাগরিক।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/d5e28d63ff10c3d054653636ced076db-69adbd544e7a8.jpg"
+    },
+    {
+      "headline": "ফের টি-টোয়েন্টিতে বিশ্ব চ্যাম্পিয়ন ভারত",
+      "url": "https://www.ittefaq.com.bd/778541/%E0%A6%AB%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A7%8B%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A7%9F%E0%A6%A8-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4",
+      "published_at": null,
+      "summary": "টি-টোয়েন্টি বিশ্বকাপের ফাইনালে নিউজিল্যান্ডকে ৯৬ রানের বড় ব্যবধানে হারিয়ে টানা দ্বিতীয়বারের মতো চ্যাম্পিয়ন হয়েছে ভারত। একই সঙ্গে বিশ্বকাপের ইতিহাসে প্রথম দল হিসেবে তিনবার শিরোপা জয়ের রেকর্ড গড়েছে তারা।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/18dfc568d6a54770beac293525848dcf-69adb6047ae1e.jpg"
+    },
+    {
       "headline": "অনূর্ধ্ব-২০ দলে ব্রিটিশ কোচ",
       "url": "https://dailynayadiganta.com/printed-edition/85r7L904oLM9/",
       "published_at": null,
@@ -532,13 +611,6 @@
       "image_url": "https://media.ndiganta.com/original_images/Irans-Ship-8-3.jpg"
     },
     {
-      "headline": "আনোয়ারা স্টুডেন্ট’স ফোরামের ইফতার ও দোয়া মাহফিল",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/SWbnYYYt7eHC/",
-      "published_at": null,
-      "summary": "ইফতার মাহফিলে দেশ ও জাতির কল্যাণ কামনায় বিশেষ দোয়া ও মোনাজাত করা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Anowar-4-3.jpg"
-    },
-    {
       "headline": "শ্রীনগরে প্রতিপক্ষের হামলায় নারীসহ গুলিবিদ্ধ ১৫",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/SGhAbUV73eUL/",
       "published_at": null,
@@ -551,20 +623,6 @@
       "published_at": null,
       "summary": "মাদারীপুর সদর মডেল থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) আবুল কালাম আজাদ বলেন, গৃহবধুর মৃত্যুকে কেন্দ্র করে তার শ্বশুরবাড়িতে বিক্ষুব্ধরা আগুন দেয়।",
       "image_url": "https://media.ndiganta.com/original_images/Madaripur-8-3.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 09, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "মার্কিন-ইসরাইলি বিমান হামলায় আয়াতুল্লাহ আলী খামেনি নিহত হওয়ার পর সোমবার (৯ মার্চ) ভোরে ইরানের রাষ্ট্রীয় গণমাধ্যম তার ছেলে মোজতবা খামেনিকে ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "মোহাম্মদপুরে ছিনতাইয়ের কবলে মোবাইল-ঘড়ি-টাকা খোয়ালেন দুদক মহাপরিচালক",
@@ -1434,62 +1492,6 @@
       "published_at": null,
       "summary": "আকু বিল পরিশোধের কারণে দেশের রিজার্ভ কমেছে। রোববার (৮ মার্চ) বাংলাদেশ ১ দশমিক ৩৭ বিলিয়ন ডলার পরিশোধ করেছে।",
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2024/12/25/b9a6077122594cde14c0bfa5bd6b2956-676b76d2f30b3.jpg"
-    },
-    {
-      "headline": "মেয়েকে উত্যক্তের প্রতিবাদ করায় বাবাকে মারধর, ১৩ দিন পর মৃত্যু",
-      "url": "https://www.ittefaq.com.bd/778525/%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%A7%E0%A6%B0-%E0%A7%A7%E0%A7%A9",
-      "published_at": null,
-      "summary": "চাঁদপুরের মতলব উত্তর উপজেলায় মেয়েকে উত্যক্তের প্রতিবাদ করায় জাকির হোসেন মিয়াজি (৪৫) নামে এক কৃষককে পিটিয়ে হত্যার অভিযোগ উঠেছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/fd93f5ab186cea315c30d698f0669d92-69ad90d8a8445.jpg"
-    },
-    {
-      "headline": "নারীর ক্ষমতায়নে শহীদ রাষ্ট্রপতি জিয়াউর রহমানের অবদান অনন্য",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/qMXZ0YBybwhp/",
-      "published_at": null,
-      "summary": "‘বাংলাদেশের সাবেক রাষ্ট্রপতি শহীদ জিয়াউর রহমান নারীর ক্ষমতায়নে অগ্রগণ্য ভূমিকা রেখেছিলেন। তিনি ১৯৭৬ সালে প্রথমবারের মতো নারী বিষয়ক দফতর প্রতিষ্ঠা করে নারীদের রাষ্ট্রীয় ও সামাজিক মূলধারায় অন্তর্ভুক্তির পথ সুগম করেন।’",
-      "image_url": "https://media.ndiganta.com/original_images/SCC-Adminis.jpg"
-    },
-    {
-      "headline": "নারী দিবসে সাভারে বিভিন্ন দাবিতে শ্রমিক সমাবেশ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/cocmZTWWyo4L/",
-      "published_at": null,
-      "summary": "মাতৃত্বকালীন ছুটি ছয় মাসে উন্নীত করা, ঈদের আগে শ্রমিক-কর্মচারীদের বকেয়া বেতন-ভাতা ও ঈদ বোনাস পরিশোধ, ছাঁটাইকৃত শ্রমিকদের পুনর্বহাল, হয়রানিমূলক মিথ্যা মামলা ও লে-অফ প্রত্যাহার, ত্রিপক্ষীয় চুক্তি বাস্তবায়ন এবং বন্ধ কারখানা চালুর দাবি জানানো হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Savar-8-3.jpg"
-    },
-    {
-      "headline": "হোসেনপুরে ৬৫০ টাকা কেজি দরে গরুর গোশত বিক্রির উদ্বোধন",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/uPMp3e9FsBBk/",
-      "published_at": null,
-      "summary": "‎কিশোরগঞ্জের হোসেনপুরে উপজেলা প্রশাসন ও প্রাণিসম্পদ অফিসের যৌথ উদ্যোগে ৬৫০ টাকা কেজি দরে গরুর মাংস বিক্রি আনুষ্ঠানিকভাবে শুরু হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Hossainpur-Beef.jpg"
-    },
-    {
-      "headline": "সরকারকে কাজ করতে দিন : মির্জা আব্বাস",
-      "url": "https://dailynayadiganta.com/bangladesh/politics/UCyThiJ8w7sS/",
-      "published_at": null,
-      "summary": "‘এক শ্রেণির ছেলেপেলের মুখ দিয়ে কথা বের হচ্ছে- বাসার ইট খুলে নিয়ে আসবে। এগুলো তো রাজমিস্ত্রি বা শ্রমিকের কাজ। ইট খোলার জন্য আমাদের কোনো শ্রমিকের প্রয়োজন নেই, আমাদের নিজেদেরই শ্রমিক রয়েছে। আপনারা ইট খুলতে যাবেন না, এতে হাত-পা ভেঙে যেতে পারে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Mirza-Abbas_7XlbFBq.jpg"
-    },
-    {
-      "headline": "নারী দিবসে ফুলবাড়ীতে সেলাই মেশিন বিতরণ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/hAdtsTEs7qHU/",
-      "published_at": null,
-      "summary": "অনুষ্ঠানে আলাদীপুর ও বেতদিঘী ইউনিয়নের ১০ জন প্রান্তিক নারীকে তিন মাস প্রশিক্ষণ শেষে বিনামূল্যে সেলাই মেশিন বিতরণ হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Dinajpur-NGO.jpg"
-    },
-    {
-      "headline": "জ্বালানি তেলের মজুত পরিস্থিতি নিয়ে ভ্রাম্যমান আদালত পরিচালনা",
-      "url": "https://dailynayadiganta.com/bangladesh/national/8Xnc1GqoQ4MG/",
-      "published_at": null,
-      "summary": "রোববার এক বার্তায় জ্বালানি বিভাগ জানিয়েছে, জ্বালানি তেলের মজুত পরিস্থিতি নিয়ে বিভিন্ন পেট্রোল পাম্পে এক্সিকিউটিভ ম্যাজিস্ট্রেটের নেতৃত্বে অভিযান পরিচালনা করা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Screenshot_20260305-095250_Google.jpg"
-    },
-    {
-      "headline": "লোহাগড়ায় জামায়াতে ইসলামীর আয়োজনে ইফতার",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/AfjhwdaNNDit/",
-      "published_at": null,
-      "summary": "নড়াইলের লোহাগড়া উপজেলার শালনগর ইউনিয়ন জামায়াতে ইসলামীর উদ্যোগে ইফতার ও দোয়া মাহফিল অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Lohagara-Narail-Jamaat.jpg"
     }
   ]
 }
