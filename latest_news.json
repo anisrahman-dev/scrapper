@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-08T20:23:15.823924+00:00",
+  "fetched_at": "2026-03-08T20:52:00.091153+00:00",
   "stories": [
+    {
+      "headline": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় দুজন নিহত, একজন বাংলাদেশি",
+      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+      "published_at": "2026-03-08T20:23:21.642000+00:00",
+      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG?auto=format,compress"
+    },
     {
       "headline": "ছবিতে ইরান যুদ্ধে পাল্টাপাল্টি হামলা, বিক্ষোভ",
       "url": "https://www.prothomalo.com/photo/international/e05no1lwz1",
@@ -152,14 +160,6 @@
       "summary": "টি–টুয়েন্টি বিশ্বকাপের ফাইনালে আজ ভারতের মুখোমুখি নিউজিল্যান্ড। এই ম্যাচের লাইভ বিবরণী ও বিশ্লেষণ জানতে চোখ রাখুন এখানে।",
       "image_s3_key": "prothomalo-bangla/2026-03-08/bw1sb6ru/232034-01-02.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/bw1sb6ru/232034-01-02.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় দুজন নিহত, একজন বাংলাদেশি",
-      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-      "published_at": "2026-03-08T18:03:45.338000+00:00",
-      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/oou114th/IRAN-CRISIS.JPG?auto=format,compress"
     },
     {
       "headline": "সুপার এইট, সেমিফাইনালের পর ফাইনালেও ‘স্যামসন–শো’",
@@ -392,6 +392,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772982572-ccbfb4a734cb5d1154674c56f9cbb011.PNG"
     },
     {
+      "headline": "‘আত্মগোপনে ছিলাম—এ কথা সত্য নয়’, ট্রাইব্যুনালে জেরায় মীর আহমাদ বিন কাসেম",
+      "url": "https://www.ittefaq.com.bd/778547/%E2%80%98%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%A8%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%AE%E2%80%94%E0%A6%8F-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%B8%E0%A6%A4%E0%A7%8D%E0%A6%AF-%E0%A6%A8%E0%A7%9F%E2%80%99-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87",
+      "published_at": null,
+      "summary": "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে আসামিপক্ষের আইনজীবীর জেরায় সংসদ সদস্য মীর আহমাদ বিন কাসেম (আরমান) বলেছেন, ‘আমি আত্মগোপনে ছিলাম—এ কথা সত্য নয়।’ তিনি আরও বলেন, ‘কোনো আইন প্রয়োগকারী সংস্থা আমাকে গুম করেনি—এ কথাও সত্য নয়।’",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/8439723e77839b4253aaf20c2e6b5541-69addcb20e097.jpg"
+    },
+    {
       "headline": "নতুন সুপ্রিম লিডার নির্বাচন সম্পন্ন হয়েছে, দ্রুতই নাম ঘোষণা করবে ইরান",
       "url": "https://www.ittefaq.com.bd/778546/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%B9%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%87",
       "published_at": null,
@@ -455,13 +462,6 @@
       "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/de030f9dae9f1801c2ed3b1df12fb88a-69adb297314cb.jpg"
     },
     {
-      "headline": "শুরুতেই তিন উইকেট হারিয়ে ধুঁকছে নিউজিল্যান্ড",
-      "url": "https://www.ittefaq.com.bd/778537/%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%89%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%9F-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A7%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1",
-      "published_at": null,
-      "summary": "টি-টোয়েন্টি বিশ্বকাপের ফাইনালে ভারতের দেওয়ার ২৫৬ রানের টার্গেটে ব্যাট করছে নিউজিল্যান্ড। বিশাল এই লক্ষ্য তাড়া করতে নেমে শুরুটা ভালো হয়নি কিউইদের। শুরুতেই জোড়া উইকেট হারিয়ে চাপে পড়েছে নিউজিল্যান্ড।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/ac9723fd52f9734026a5de776d4c5ef9-69ad9c9d6770f.jpg"
-    },
-    {
       "headline": "ইতিহাস বিস্মৃত জাতির পরিণতি",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/hc9UMF6ZZ0Y6/",
       "published_at": null,
@@ -481,6 +481,125 @@
       "published_at": null,
       "summary": "কক্সবাজারের টেকনাফ, উখিয়া সীমান্ত এবং বঙ্গোপসাগরে মাছ ধরার ট্রলারে আসছে বিপুল পরিমাণ ইয়াবা ও আইস। এই তিনটি রুটেই মিয়ানমার সীমান্ত এলাকা। দেশের প্রায় ৯০ শতাংশ মাদক এই তিন রুট দিয়েই দেশের বিভিন্ন অঞ্চলে পাঠানো হয়। পাচারকারীরা রুট পরিবর্তন না করলেও কৌশল পরিবর্তন করে মাদকে সয়লাব করে তুলছে সারাদেশ।",
       "image_url": "https://media.ndiganta.com/original_images/Screenshot_20260307-093502_Chrome.jpg"
+    },
+    {
+      "headline": "ইরানি যুদ্ধজাহাজে মার্কিন হামলায়  নিহত হয়েছেন ১০৪ জন",
+      "url": "https://dailynayadiganta.com/international/asia/south-asia/mO4hIMzNLS3g/",
+      "published_at": null,
+      "summary": "শ্রীলঙ্কার গল থেক ১৯ নটিক্যাল মাইল দূরে ভারত মহাসাগরে জাহাজটি ছিল। ঠিক তখন সাবমেরিন থেকে টর্পেডো ছোড়ে মার্কিন নৌবাহিনী। এতে জাহাজটি ডুবে যায়।",
+      "image_url": "https://media.ndiganta.com/original_images/Irans-Ship-8-3.jpg"
+    },
+    {
+      "headline": "৯০০ গোলের অপেক্ষায় মেসি",
+      "url": "https://dailynayadiganta.com/printed-edition/93QWs5CrqlFj/",
+      "published_at": null,
+      "summary": "আর মাত্র একটি গোল করলেই ইতিহাসের দ্বিতীয় ফুটবলার হিসেবে ৯০০ গোলের মাইলফলক স্পর্শ করবেন লিওনেল মেসি। এই মুহূর্তে ৯৬০ গোল নিয়ে তার সামনে শুধু পর্তুগিজ ক্রিশ্চিয়ানো রোনালদো। এ জন্য অপেক্ষা করতে হবে আগামী বুধবার পর্যন্ত। ওই দিন কনকাক্যাফ চ্যম্পিয়নস কাপের প্রথম মাচে ন্যাশভিলের মুখোমুখি হবে মায়ামি।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "ঢাকায় পাকিস্তান ক্রিকেট দল",
+      "url": "https://dailynayadiganta.com/printed-edition/W5JvxSqSuilR/",
+      "published_at": null,
+      "summary": "তিন ম্যাচের ওয়ানডে সিরিজে অংশ নিতে ঢাকায় পা রেখেছে পাকিস্তান জাতীয় ক্রিকেট দল। গতকাল ভোরে অধিনায়ক শাহিন শাহ আফ্রিদির নেতৃত্বে খেলোয়াড় ও সাপোর্ট স্টাফদের একটি অংশ ঢাকায় এসে পৌঁছায়। নতুনদের মধ্যে সবচেয়ে আলোচিত নাম ওপেনার সাহিবজাদা ফারহান। টি-২০ বিশ্বকাপে ৩৮৩ রান করে টুর্নামেন্টের সর্বোচ্চ রানসংগ্রাহক হয়েছেন তিনি। তবে চোটের কারণে এই সিরিজে দলে রাখা হয়নি অভিজ্ঞ এই ব্যাটারকে।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "জিতলেও অপেক্ষায় থাকতে হবে বাংলাদেশকে",
+      "url": "https://dailynayadiganta.com/printed-edition/c49bgZKxpnMO/",
+      "published_at": null,
+      "summary": "দুই শক্তিশালী দলের কাছে উভয় ম্যাচেই হার। চীনের কাছে ০-২ গোলে হারের পর উত্তর কোরিয়ার কাছে ০-৫ গোলে পরাজিত হওয়া। দুই ম্যাচে এই সাত গোল হজমই বড় বাধা হয়ে দাঁড়িয়েছে বাংলাদেশের জন্য। সে সাথে গতকাল ‘এ’ গ্রুপে ইরানের বিপক্ষে ফিলিপাইনের ২-০ গোলের জয় আরো অনিশ্চয়তা বাইড়য়েছে আফঈদা খন্দকারদের। ফলে নারী এশিয়ান কাপের গ্রুপ পর্ব থেকে তিন গ্রুপের তৃতীয় হওয়া তিন দলের মধ্যে সেরা দুইয়ে থাকার জন্য আজ শুধু জিতলেই হবে না পিটার জেমস বাটলার বাহিনীর। লাল-সবুজরা কত বড় ব্যবধানে জিততে পারবে সেটি একটি বিষয়। সে সাথে আগামীকাল ‘সি’ গ্রুপে জাপানের কাছে ভিয়েতনাম কত গোলে হার এবং ভারত ও চাইনিজ তাইপের ম্যাচের ফলাফল কি হয় সে দিকেও তাকিয়ে থাকতে হবে। এই হিসাব নিকাশের মধ্যেই আজ বাংলাদেশ সময় বিকেল ৩টায় পার্থের র‌্যাক ট্যাঙ্গুয়ার স্টেডিয়ামে উজবেকিস্তানের বিপক্ষে ম্যাচ বাংলাদেশের। ফিফা র‌্যাংকিংয়ে ৪৯ এ থাকা মধ্য এশিয়ান এই নারী  দলের বিপক্ষে এই প্রথম ম্যাচ খেলতে নামছে বাংলাদেশ।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "এনএসসিতে তামিমদের অভিযোগ",
+      "url": "https://dailynayadiganta.com/printed-edition/Bjvzy1hRDpFM/",
+      "published_at": null,
+      "summary": "বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি) নির্বাচনে অনিয়ম হয়েছে দাবি করে এবার জাতীয় ক্রীড়া পরিষদের (এনএসসি) কাছে অভিযোগ করেছেন তামিম ইকবালসহ ঢাকার ক্লাব ক্রিকেটের শীর্ষস্থানীয় ৫০টি ক্লাবের কর্তারা। এ সময় তারা জানান, অভিযোগপত্রে বোর্ডকে অবৈধ দাবি করেননি, তবে তদন্তের আবেদন জানিয়েছেন।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "ফাইনালে জ্বলে উঠলেন অভিষেক",
+      "url": "https://dailynayadiganta.com/printed-edition/OMSRgKoqSrEJ/",
+      "published_at": null,
+      "summary": "টি-২০ বিশ্বকাপের ফাইনাল। দেখতে দেখতে কেটে গেল এক মাস। শিরোপা মঞ্চে স্বাগতিক ভারতের প্রতিপক্ষ নিউজিল্যান্ড। টস জিতে ফিল্ডিংয়ের সিদ্ধান্ত জানান কিউই অধিনায়ক মিচেল স্যান্টনার। ব্যাট হাতে ইনিংসের সূচনা করতে আসেন ভারতকে ফাইনালে তোলার নায়ক সঞ্জু স্যামসন ও প্রিন্স হিটার অভিষেক শর্মা। দু’জনের উদ্বোধনী জুটিতে ভারত পেল ৯৮ রানের বিশাল সংগ্রহ। টি-২০ বিশ্বকাপের ফাইনালে এর আগে কোনো ওপেনিং জুটিতে ৫০ রানও পায়নি কোনো দল। এই রান তুলতে তাদের মোকাবেলা করতে হয়েছে ৪২ বল। অষ্টম ওভারের প্রথম বলেই স্পিনার রাচিন রবীন্দ্রর প্রথম বলে উইকেটের পেছনে ক্যাচে পরিণত হন অভিষেক। ২১ বলে ৫২ রান নিয়ে ফিরেন এই ওপেনার।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "রেকর্ড গড়েই শিরোপা জিতল ভারত",
+      "url": "https://dailynayadiganta.com/printed-edition/aI79nMa9Pyjt/",
+      "published_at": null,
+      "summary": "ভারত তৃতীয় বিশ্বকাপ শিরোপা জিতে যেন রেকর্ডের ঝাঁপি খুলে বসেছে। ব্যাক টু ব্যাক বিশ্বকাপ টি-২০ শিরোপা জেতার রেকর্ড কারো ছিল না। ভারতই সেটি করে দেখাল। ফাইনালের মঞ্চে ২৫০ রান করার কোনো নজির ছিল না। সেখানে ২৫৫ রান করে দেখাল ভারত। ফাইনালে ওপেনিং জুটিতে অর্ধশত রান ছিল না কারোই। ভারতের দুই ওপেনার সঞ্জু স্যামসন ও অভিষেক শর্মা সেটিও করে দেখাল। ফাইনালে ৯৬ রানে নিউজিল্যান্ডকে হারিয়ে তৃতীয় টি-২০ বিশ্বকাপ শিরোপা জিতল ভারত। এটিও একটি রেকর্ড। কিউইদের বিপক্ষে সবচেয়ে বড় জয়। বিশ্বকাপে ৪০ উইকেট নিয়ে শীর্ষে ভারতের পেসার বুমরাহ। ৩৬ উইকেট আছে আর্শদীপের। ফাইনাল সেরা জাসপ্রিত বুমরাহ, সিরিজ সেরা ও মোস্ট ভ্যালুয়েবল প্লেয়ার সঞ্জু স্যামসন।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "আনোয়ারা স্টুডেন্ট’স ফোরামের ইফতার ও দোয়া মাহফিল",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/SWbnYYYt7eHC/",
+      "published_at": null,
+      "summary": "ইফতার মাহফিলে দেশ ও জাতির কল্যাণ কামনায় বিশেষ দোয়া ও মোনাজাত করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Anowar-4-3.jpg"
+    },
+    {
+      "headline": "শ্রীনগরে প্রতিপক্ষের হামলায় নারীসহ গুলিবিদ্ধ ১৫",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/SGhAbUV73eUL/",
+      "published_at": null,
+      "summary": "তারাবির নামাজের পর মান্নান খা, হারুন খা, আমিন খা-সহ ১০ থেকে ১৫ জনের একটি সশস্ত্র দল দেশীয় অস্ত্র নিয়ে মিজানুর রহমানের বাড়িতে হামলা চালায় বলে অভিযোগ পাওয়া গেছে। তারা বাড়িতে ঢুকে গুলিবর্ষণ ও ধারালো অস্ত্র দিয়ে আঘাত আলে নারীসহ অন্তত ১৫ জন আহত হন।",
+      "image_url": "https://media.ndiganta.com/original_images/Attack_vArsaQ4.jpg"
+    },
+    {
+      "headline": "মাদারীপুরে গৃহবধূর মৃত্যুর ঘটনায় শ্বশুরবাড়িতে ভাঙচুর, অগ্নিসংযোগ",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/tjoFqQ2Vy2pt/",
+      "published_at": null,
+      "summary": "মাদারীপুর সদর মডেল থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) আবুল কালাম আজাদ বলেন, গৃহবধুর মৃত্যুকে কেন্দ্র করে তার শ্বশুরবাড়িতে বিক্ষুব্ধরা আগুন দেয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Madaripur-8-3.jpg"
+    },
+    {
+      "headline": "শিবচর স্বাস্থ্য কমপ্লেক্সআগুনের আতঙ্কে দৌড়ে নামতে গিয়ে ৫ রোগী আহত",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/11KpoZuH0nmz/",
+      "published_at": null,
+      "summary": "খবর পেয়ে ফায়ার সার্ভিসের কর্মীরা ঘটনাস্থলে এসে আগুনের কোনো আলামত না পেয়ে সবাইকে আশ্বস্ত করলে প্রায় দুই ঘণ্টা পর রোগীরা আবার হাসপাতালে নিজ নিজ শয্যায় ফিরে যান।",
+      "image_url": "https://media.ndiganta.com/original_images/Shibchar-8-3.jpg"
+    },
+    {
+      "headline": "সিলেটে সুপার শপে আগুন, মালামাল পুড়ে ছাই",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/0a58rPLjekDi/",
+      "published_at": null,
+      "summary": "ফায়ার সার্ভিস জানায়, নগরীর মজুমদারি এলাকার মেহজাবিন সুপার শপে রাত ৯টার দিকে আগুন লাগে। খবর পেয়ে ফায়ার সার্ভিসের দুটি ইউনিট ঘটনাস্থলে গিয়ে আগুন নিয়ন্ত্রণে আনে।",
+      "image_url": "https://media.ndiganta.com/original_images/Syl-fire-8-3.jpg"
+    },
+    {
+      "headline": "বগুড়ায় গাভিন গরু জবাইয়ের অভিযোগে কসাইকে জনতার ধাওয়া",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/s5eF7P0LbqQu/",
+      "published_at": null,
+      "summary": "বগুড়ার শাজাহানপুর উপজেলার খরনা হাটে গাভিন গরু জবাইয়ের অভিযোগকে কেন্দ্র করে উত্তেজনা সৃষ্টি হয়েছে। এ ঘটনায় অভিযুক্ত মিজান কসাইকে ধাওয়া দিয়ে হাট থেকে বের করে দিয়েছে বিক্ষুব্ধ জনতা।",
+      "image_url": "https://media.ndiganta.com/original_images/Bagra.jpg"
+    },
+    {
+      "headline": "গফরগাঁওয়ে খেলাফত মজলিসের আলোচনা সভা ও ইফতার",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/vacJfdHxYLi5/",
+      "published_at": null,
+      "summary": "পবিত্র মাহে রমজান উপলক্ষ্যে ময়মনসিংহের গফরগাঁওয়ে বাংলাদেশ খেলাফত মজলিস গফরগাঁও উপজেলা শাখার উদ্যোগে ‘তাকওয়া অর্জনে মাহে রমজানের তাৎপর্য শীর্ষক’ এক আলোচনা সভা ও ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Gafargaon-BD-Khelafat.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - March 09, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "নিজের নামে মানহানি মামলা হয়েছে শুনে বিএনপির স্থায়ী কমিটির সদস্য মির্জা আব্বাসকে হুঁশিয়ারি দিয়ে জাতীয় নাগরিক পার্টির (এনসিপি) মুখ্য সমন্বয়ক ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "শুরুতেই তিন উইকেট হারিয়ে ধুঁকছে নিউজিল্যান্ড",
+      "url": "https://www.ittefaq.com.bd/778537/%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%89%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%9F-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A7%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1",
+      "published_at": null,
+      "summary": "টি-টোয়েন্টি বিশ্বকাপের ফাইনালে ভারতের দেওয়ার ২৫৬ রানের টার্গেটে ব্যাট করছে নিউজিল্যান্ড। বিশাল এই লক্ষ্য তাড়া করতে নেমে শুরুটা ভালো হয়নি কিউইদের। শুরুতেই জোড়া উইকেট হারিয়ে চাপে পড়েছে নিউজিল্যান্ড।",
+      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/ac9723fd52f9734026a5de776d4c5ef9-69ad9c9d6770f.jpg"
     },
     {
       "headline": "মাদককারবারি ও চাঁদাবাজদের ধরতে আরেকটি অভিযান আসছে : আবদুল আউয়াল মিন্টু",
@@ -532,41 +651,6 @@
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "মাদারীপুরে গৃহবধূর মৃত্যুর ঘটনায় শ্বশুরবাড়িতে ভাঙচুর, অগ্নিসংযোগ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/tjoFqQ2Vy2pt/",
-      "published_at": null,
-      "summary": "মাদারীপুর সদর মডেল থানার ভারপ্রাপ্ত কর্মকর্তা (ওসি) আবুল কালাম আজাদ বলেন, গৃহবধুর মৃত্যুকে কেন্দ্র করে তার শ্বশুরবাড়িতে বিক্ষুব্ধরা আগুন দেয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Madaripur-8-3.jpg"
-    },
-    {
-      "headline": "শিবচর স্বাস্থ্য কমপ্লেক্সআগুনের আতঙ্কে দৌড়ে নামতে গিয়ে ৫ রোগী আহত",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/11KpoZuH0nmz/",
-      "published_at": null,
-      "summary": "খবর পেয়ে ফায়ার সার্ভিসের কর্মীরা ঘটনাস্থলে এসে আগুনের কোনো আলামত না পেয়ে সবাইকে আশ্বস্ত করলে প্রায় দুই ঘণ্টা পর রোগীরা আবার হাসপাতালে নিজ নিজ শয্যায় ফিরে যান।",
-      "image_url": "https://media.ndiganta.com/original_images/Shibchar-8-3.jpg"
-    },
-    {
-      "headline": "সিলেটে সুপার শপে আগুন, মালামাল পুড়ে ছাই",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/0a58rPLjekDi/",
-      "published_at": null,
-      "summary": "ফায়ার সার্ভিস জানায়, নগরীর মজুমদারি এলাকার মেহজাবিন সুপার শপে রাত ৯টার দিকে আগুন লাগে। খবর পেয়ে ফায়ার সার্ভিসের দুটি ইউনিট ঘটনাস্থলে গিয়ে আগুন নিয়ন্ত্রণে আনে।",
-      "image_url": "https://media.ndiganta.com/original_images/Syl-fire-8-3.jpg"
-    },
-    {
-      "headline": "বগুড়ায় গাভিন গরু জবাইয়ের অভিযোগে কসাইকে জনতার ধাওয়া",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/s5eF7P0LbqQu/",
-      "published_at": null,
-      "summary": "বগুড়ার শাজাহানপুর উপজেলার খরনা হাটে গাভিন গরু জবাইয়ের অভিযোগকে কেন্দ্র করে উত্তেজনা সৃষ্টি হয়েছে। এ ঘটনায় অভিযুক্ত মিজান কসাইকে ধাওয়া দিয়ে হাট থেকে বের করে দিয়েছে বিক্ষুব্ধ জনতা।",
-      "image_url": "https://media.ndiganta.com/original_images/Bagra.jpg"
-    },
-    {
-      "headline": "গফরগাঁওয়ে খেলাফত মজলিসের আলোচনা সভা ও ইফতার",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/vacJfdHxYLi5/",
-      "published_at": null,
-      "summary": "পবিত্র মাহে রমজান উপলক্ষ্যে ময়মনসিংহের গফরগাঁওয়ে বাংলাদেশ খেলাফত মজলিস গফরগাঁও উপজেলা শাখার উদ্যোগে ‘তাকওয়া অর্জনে মাহে রমজানের তাৎপর্য শীর্ষক’ এক আলোচনা সভা ও ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Gafargaon-BD-Khelafat.jpg"
-    },
-    {
       "headline": "ফেনীতে জামায়াত নেতা মানিক কে সাথে নিয়ে পরিবেশ মন্ত্রীর ইফতার",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/mChFbeQmTKPo/",
       "published_at": null,
@@ -579,20 +663,6 @@
       "published_at": null,
       "summary": "বুটেক্স ক্যারিয়ার ক্লাব বিশ্ববিদ্যালয়ের শিক্ষার্থীদের পেশাগত দক্ষতা বৃদ্ধি, ক্যারিয়ার পরিকল্পনা ও বিভিন্ন কর্পোরেট দক্ষতা অর্জনে সহায়তা করার লক্ষ্যে কাজ করে আসছে।",
       "image_url": "https://media.ndiganta.com/original_images/Burtex--8-3.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 09, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "নিজের নামে মানহানি মামলা হয়েছে শুনে বিএনপির স্থায়ী কমিটির সদস্য মির্জা আব্বাসকে হুঁশিয়ারি দিয়ে জাতীয় নাগরিক পার্টির (এনসিপি) মুখ্য সমন্বয়ক ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "প্যারোলে মুক্তি পেতে দেরি, বাবার জানাজা শেষে পৌঁছালেন যুবলীগ কর্মী",
@@ -1426,76 +1496,6 @@
       "published_at": "2026-03-08T19:41:44+06:00",
       "summary": "লেবাননের বিভিন্ন এলাকায় সংঘাত শুরু হওয়ার পর বাংলাদেশ দূতাবাস বৈরুতে বসবাসরত বাংলাদেশি নাগরিকদের কয়েকটি এলাকা ত্যাগ করে নিরাপদ স্থানে সরে যাওয়ার পরামর্শ দিয়েছে।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/08/og/1772977303-c02b89d905df91054c3e9d3a9398b890.jpg"
-    },
-    {
-      "headline": "মধ্যপ্রাচ্য থেকে ২০ হাজার নাগরিককে সরিয়ে নিয়েছে ইতালি",
-      "url": "https://www.ittefaq.com.bd/778524/%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%AF-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A8%E0%A7%A6-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87",
-      "published_at": null,
-      "summary": "ইতালির পররাষ্ট্রমন্ত্রী আন্তোনিও তায়ানি বলেছেন, ইরানে মার্কিন–ইসরায়েলি হামলা শুরু হওয়ার পর থেকে মধ্যপ্রাচ্যের বিভিন্ন দেশ থেকে ইতালি এ পর্যন্ত তার ২০ হাজার নাগরিককে সরিয়ে নিয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/a2b2f5dce7e1db7f546b0864e39361b1-69ad8ebb52a7c.jpg"
-    },
-    {
-      "headline": "বরিশালে পুলিশ কর্মকর্তার বিরুদ্ধে স্ত্রীকে হত্যা চেষ্টার মামলা",
-      "url": "https://www.ittefaq.com.bd/778522/%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE",
-      "published_at": null,
-      "summary": "স্ত্রীকে মারধর ও পরবর্তীতে হত্যা চেষ্টার অভিযোগ এনে বরিশাল কোতোয়ালি মডেল থানা পুলিশের উপ-পরিদর্শক (এসআই) সিহান রহমান শোভনের বিরুদ্ধে মামলা দায়ের করা হয়েছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/d2dbb673ceb22198d139fef81abfba3b-69ad8dedd108b.jpg"
-    },
-    {
-      "headline": "সরকার পতনের স্বপ্ন দেখলে সাবধান হয়ে যান: মির্জা আব্বাস",
-      "url": "https://www.ittefaq.com.bd/778520/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE",
-      "published_at": null,
-      "summary": "সরকার পতনের স্বপ্ন দেখছেন যারা, তাদের সতর্ক হয়ে যাওয়ার আহ্বান জানিয়েছেন প্রধানমন্ত্রীর রাজনৈতিক উপদেষ্টা ও বিএনপি নেতা মির্জা আব্বাস (এমপি)। তিনি বলেন, সরকার মাত্র কাজ শুরু করেছে, তাই ধৈর্য ধরে সময় দেওয়া উচিত।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/4590232209a8f9f18fd2b26ff066bbae-69ad8ca75966d.jpg"
-    },
-    {
-      "headline": "কক্সবাজারে মালয়েশিয়ায় পাচারচেষ্টা: নারী-শিশুসহ ৩২ জন উদ্ধার",
-      "url": "https://www.ittefaq.com.bd/778521/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B8%E0%A6%B9-%E0%A7%A9%E0%A7%A8",
-      "published_at": null,
-      "summary": "কক্সবাজারের টেকনাফে কোস্ট গার্ড ও র‍্যাবের যৌথ অভিযান চালিয়ে নারী, পুরুষ ও শিশুসহ ৩২ জনকে উদ্ধার করা হয়েছে। তারা মালয়েশিয়ায় পাচারের উদ্দেশ্যে আটক রাখা হয়েছিল।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/a089401679d92636a95364b0a53bb745-69ad8d3f829dd.jpg"
-    },
-    {
-      "headline": "নির্বাচনে যে প্রতিশ্রুতি দিয়েছি তা আমরা অক্ষরে অক্ষরে পালন করবো: ইশরাক",
-      "url": "https://www.ittefaq.com.bd/778519/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9B%E0%A6%BF-%E0%A6%A4%E0%A6%BE-%E0%A6%86%E0%A6%AE%E0%A6%B0%E0%A6%BE-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%B0%E0%A7%87",
-      "published_at": null,
-      "summary": "মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইঞ্জিনিয়ার ইশরাক হোসেন বলেছেন, নির্বাচনে জনগণকে যে প্রতিশ্রুতি দিয়েছি সেই প্রতিশ্রুতি আমরা অক্ষরে অক্ষরে তা পালন করো।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/4ab1349744ee624768facd6e1c7dfaf2-69ad8c401bc89.jpeg"
-    },
-    {
-      "headline": "পেট্রোল পাম্পে পুলিশ মোতায়ন চেয়ে স্বরাষ্ট্র মন্ত্রণালয়ে চিঠি",
-      "url": "https://www.ittefaq.com.bd/778517/%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B2-%E0%A6%AA%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%AE%E0%A7%8B%E0%A6%A4%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0",
-      "published_at": null,
-      "summary": "বাংলাদেশ পেট্রোলিয়াম কর্পোরেশন (বিপিসি) স্বরাষ্ট্র মন্ত্রণালয়ে চিঠি পাঠিয়ে দেশের সব ফিলিং স্টেশনের নিরাপত্তার জন্য পুলিশি টহল জোরদার করার অনুরোধ করেছে।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/372e9d6ce91dc51f060ff0cda874e749-69ad927326a47.jpg"
-    },
-    {
-      "headline": "বিএনপির কাছে নতিস্বীকার করে একই দিনে দুই ভোট দিয়েছে অন্তর্বর্তী সরকার: জামায়াত আমির",
-      "url": "https://www.ittefaq.com.bd/778516/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AD%E0%A7%8B%E0%A6%9F",
-      "published_at": null,
-      "summary": "বিএনপির কাছে নতিস্বীকার করেই অন্তর্বর্তী সরকার একই দিনে দুটি নির্বাচন আয়োজন করেছে বলে অভিযোগ করেছেন বাংলাদেশ জামায়াতে ইসলামীর আমির ও বিরোধী দলীয় নেতা ডা. শফিকুর রহমান।",
-      "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/08/2a5ec11895e26433f210c0dbb7a5a744-69ad89447c1d2.jpg"
-    },
-    {
-      "headline": "ইরান পরিস্থিতি খারাপ হলে প্রবাসীদের দেশে আনার প্রস্তুতি রয়েছে : শ্রমমন্ত্রী",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/mJJgKQE7HCBu/",
-      "published_at": null,
-      "summary": "রোববার মৌলভীবাজার সদর উপজেলার বাহারমর্দানে সাবেক অর্থ ও পরিকল্পনা মন্ত্রী মরহুম এম সাইফুর রহমানের কবর জিয়ারত শেষে সাংবাদিকদের সাথে আলাপকালে তিনি এসব কথা বলেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Arif-Moulvibazar.jpg"
-    },
-    {
-      "headline": "জনপ্রশাসন উপদেষ্টার সাথে জাইকা প্রতিনিধিদলের সাক্ষাৎ",
-      "url": "https://dailynayadiganta.com/bangladesh/national/AfdljtKj2yfr/",
-      "published_at": null,
-      "summary": "উপদেষ্টা জাপানের সাথে বাংলাদেশের সম্পর্কের উজ্জ্বল ভবিষ্যৎ কামনা এবং অর্থনৈতিকভাবে টেকসই দেশ হিসেবে প্রতিষ্ঠা হওয়ার সব যাত্রায় জাপান সহযোগিতা করবে বলে আশা প্রকাশ করেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Ismail_Jobiullah-2.JPG"
-    },
-    {
-      "headline": "শেওলা স্থলবন্দরে রুপি দিয়ে জ্বালানি তেল কেনার চেষ্টা, ভারতীয় ট্রাক জব্দ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/gZajjNVQqFND/",
-      "published_at": null,
-      "summary": "পাথর আনলোড করার পর ভারতে ফেরার পথে জ্বালানি সঙ্কটে পড়েন তিনি। এ সময় বাংলাদেশে অবস্থিত ‘নাদিয়া স্টোর’ নামের একটি দোকান থেকে ভারতীয় রুপি দিয়ে ডিজেল কেনার চেষ্টা করেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Sylhet-BGB_N9tCEYy.jpg"
     }
   ]
 }
