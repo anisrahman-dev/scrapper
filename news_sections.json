@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-03-09T19:42:06.997995+00:00",
+  "fetched_at": "2026-03-09T20:30:40.614347+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "লেবানন সীমান্তের কাছে ইসরায়েলি সেনাদের লক্ষ্য করে রকেট হামলা",
+        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+        "published_at": "2026-03-09T20:02:19.749000+00:00",
+        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-09/8c3ll5te/Iranian-missile.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/8c3ll5te/Iranian-missile.avif?auto=format,compress"
+      },
+      {
+        "headline": "দুই পক্ষের লড়াইয়ে ক্ষতিগ্রস্ত হচ্ছেন ইউরোপের নাগরিকেরা: উরসুলা ভন ডার লিয়েন",
+        "url": "https://www.prothomalo.com/world/europe/l1ad8ozocu",
+        "published_at": "2026-03-09T19:40:17.558000+00:00",
+        "summary": "ইরানে যুদ্ধের প্রভাব ইউরোপেও পড়ছে বলে উল্লেখ করেছেন ইউরোপীয় কমিশনের প্রেসিডেন্ট উরসুলা ভন ডার লিয়েন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-09/m4l6syo3/EU-commision-president.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/m4l6syo3/EU-commision-president.avif?auto=format,compress"
+      },
       {
         "headline": "ঢাকায় সিরাজগঞ্জ সাংবাদিক সমিতির ইফতার মাহফিল অনুষ্ঠিত",
         "url": "https://www.prothomalo.com/bangladesh/3upnefa4pq",
@@ -41,14 +57,6 @@
         "summary": "ইউক্রেনের প্রেসিডেন্ট আরও বলেন, ‘যারা আমাদের জনগণের জীবন এবং ইউক্রেনের স্বাধীনতা রক্ষায় সাহায্য করে, তাদের অনুরোধে ইতিবাচক সাড়া দিতে ইউক্রেন প্রস্তুত।’",
         "image_s3_key": "prothomalo-bangla/2026-03-09/ey7ckoso/Zelensky.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/ey7ckoso/Zelensky.jpg?auto=format,compress"
-      },
-      {
-        "headline": "লেবানন সীমান্তের কাছ ইসরায়েলি সেনাদের লক্ষ্য করে রকেট হামলা",
-        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-09T18:18:37.071000+00:00",
-        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-09/8c3ll5te/Iranian-missile.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/8c3ll5te/Iranian-missile.avif?auto=format,compress"
       },
       {
         "headline": "ছক্কা আর সেঞ্চুরির বিশ্বকাপ",
@@ -115,20 +123,20 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/3tlro40v/Thumbnail.jpeg?auto=format,compress"
       },
       {
-        "headline": "বকেয়া বাবদ প্রয়োজনে বন্ড চায় বিদ্যুৎকেন্দ্র মালিকেরা",
-        "url": "https://www.prothomalo.com/business/industry/adpdv8d911",
-        "published_at": "2026-03-09T17:00:00+00:00",
-        "summary": "বকেয়া পাওনার দাবিতে আজ সোমবার সংবাদ সম্মেলন করে এই প্রস্তাব দেয় বেসরকারি বিদ্যুৎকেন্দ্রের মালিকদের সংগঠন বিআইপিপিএ।",
-        "image_s3_key": "prothomalo-bangla/2026-03-09/3f1u1nei/WhatsApp-Image-2026-03-09-at-10.27.00-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/3f1u1nei/WhatsApp-Image-2026-03-09-at-10.27.00-PM.jpeg?auto=format,compress"
-      },
-      {
         "headline": "মেক্সিকোর সৈকতে খোঁজ পাওয়া বিরল ওরফিশ কী কোনো দুর্যোগের পূর্বাভাস",
         "url": "https://www.prothomalo.com/technology/science/b5gccaprxu",
         "published_at": "2026-03-09T17:00:00+00:00",
         "summary": "পর্যটক মোনিকা পিটেঞ্জার এবং তার বোন কেটি সমুদ্রসৈকতে ঘোরাঘুরির সময় দুটি বিশালকার ওরফিশ উপকূলে ভেসে আসতে দেখেন।",
         "image_s3_key": "prothomalo-bangla/2026-03-09/49qdl8gh/Fish.yutube.png",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/49qdl8gh/Fish.yutube.png?auto=format,compress"
+      },
+      {
+        "headline": "বকেয়া বাবদ প্রয়োজনে বন্ড চায় বিদ্যুৎকেন্দ্র মালিকেরা",
+        "url": "https://www.prothomalo.com/business/industry/adpdv8d911",
+        "published_at": "2026-03-09T17:00:00+00:00",
+        "summary": "বকেয়া পাওনার দাবিতে আজ সোমবার সংবাদ সম্মেলন করে এই প্রস্তাব দেয় বেসরকারি বিদ্যুৎকেন্দ্রের মালিকদের সংগঠন বিআইপিপিএ।",
+        "image_s3_key": "prothomalo-bangla/2026-03-09/3f1u1nei/WhatsApp-Image-2026-03-09-at-10.27.00-PM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/3f1u1nei/WhatsApp-Image-2026-03-09-at-10.27.00-PM.jpeg?auto=format,compress"
       },
       {
         "headline": "লাখ টাকার পথে ছুটছে রডের টনপ্রতি দাম",
@@ -299,14 +307,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-20/1x77ax07/pro.avif?auto=format,compress"
       },
       {
-        "headline": "ইরানি নারী ফুটবলারদের নিরাপত্তা ও অস্ট্রেলিয়ায় আশ্রয় দেওয়ার দাবি",
-        "url": "https://www.prothomalo.com/sports/football/d3fd51d97r",
-        "published_at": "2026-03-09T15:36:27.670000+00:00",
-        "summary": "পাহলভি মনে করেন, ইরানের নারী ফুটবলাররা এখন প্রচণ্ড চাপের মুখে। ইসলামি প্রজাতন্ত্রের পক্ষ থেকে তাঁদের প্রতিনিয়ত হুমকি দেওয়া হচ্ছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-09/d67wicuz/229765-01-02.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/d67wicuz/229765-01-02.jpg?auto=format,compress"
-      },
-      {
         "headline": "রাঙামাটিতে এনসিপির আহ্বায়কসহ ৮৭ জনের পদত্যাগ",
         "url": "https://www.bd-pratidin.com/country/2026/03/10/1226351",
         "published_at": "2026-03-10T00:26:52+06:00",
@@ -377,6 +377,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/09/og/1773068097-ac53d87c45c4f48223a33cad872d31d7.jpg"
       },
       {
+        "headline": "ইরানি ড্রোন মোকাবিলায় ইউক্রেনের সহায়তা চায় যুক্তরাষ্ট্রসহ ১১ দেশ: জেলেনস্কি",
+        "url": "https://www.ittefaq.com.bd/778712/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%AE%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%BE%E0%A7%9F%E0%A6%A4%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A7%9F",
+        "published_at": null,
+        "summary": "ইরানি প্রযুক্তিতে তৈরি ড্রোন ভূপাতিত করার লক্ষে ইউক্রেনের কাছে সহায়তা চেয়েছে যুক্তরাষ্ট্র, ইউরোপ ও ইরানের প্রতিবেশী দেশসহ মোট ১১টি রাষ্ট্র। মধ্যপ্রাচ্যে এক সপ্তাহ ধরে চলা উত্তেজনার প্রেক্ষাপটে এই অনুরোধ জানানো হয়েছে বলে সোমবার দাবি করেছেন ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/10/03d21e84f32c674417a8ca9d93df023d-69af2364bb985.jpg"
+      },
+      {
         "headline": "ভারত থেকে আজই আসছে ৫ হাজার মেট্রিক টন ডিজেল",
         "url": "https://www.ittefaq.com.bd/778711/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87-%E0%A7%AB-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%9F%E0%A6%A8-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B2",
         "published_at": null,
@@ -440,13 +447,6 @@
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/4c0717fc26a4a694c61f5165fa124b5f-69aeeeab969f7.jpg"
       },
       {
-        "headline": "বৈদ্যুতিক খুঁটি বসাতে গিয়ে বিদ্যুৎস্পৃষ্টে ২ জনের মৃত্যু",
-        "url": "https://www.ittefaq.com.bd/778702/%E0%A6%AC%E0%A7%88%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A7%A8-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
-        "published_at": null,
-        "summary": "কুড়িগ্রামের সদর উপজেলার ঘোগাদহ ইউনিয়নে বৈদ্যুতিক খুঁটি স্থাপন করতে গিয়ে বিদ্যুৎস্পৃষ্ট হয়ে দুইজনের মৃত্যু হয়েছে। এ ঘটনায় আরও কয়েকজন আহতের খবর পাওয়া গেছে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/cebea9f1fc6ee4cf2a17c58bec70a112-69aeebe2a546c.jpg"
-      },
-      {
         "headline": "ঢাকার পরিবহন ভবিষ্যৎ কোন পথে?মেট্রোরেল বনাম মনোরেল",
         "url": "https://dailynayadiganta.com/printed-edition/WNgiCcGnLsFA/",
         "published_at": null,
@@ -457,7 +457,7 @@
         "headline": "আত্মসচেতন হওয়ার বিকল্প নেই",
         "url": "https://dailynayadiganta.com/opinions/sub-editorial/O33QXJcHzzsq/",
         "published_at": null,
-        "summary": null,
+        "summary": "ধীরে ধীরে অর্থনীতিকে আনুষ্ঠানিক খাতে আনা দীর্ঘমেয়াদে ইতিবাচক। দেশীয় প্রতিষ্ঠানগত দুর্বলতা মূলত প্রশাসনের সক্ষমতার অভাব থেকে সৃষ্টি হয়। বিভিন্ন দফতরের মধ্যে দুর্বল সমন্বয় আইন অমান্যকারীদের যথাযথভাবে শাস্তি দেয়া কঠিন করে তোলে। এই দুর্বলতা সরকারি ও বেসরকারি উভয় খাতে দুর্নীতি ও অপব্যবহারকে উৎসাহিত করে। এর সাথে শিথিল আন্তর্জাতিক নীতিমালা যুক্ত হয়, যা বহুজাতিক কোম্পানিগুলোর পক্ষে যায়। ফলে দুর্বল কর প্রশাসন রাজস্ব হারায় এবং যারা কর দেয় তারাও ক্ষতিগ্রস্ত হয়। দারিদ্র্য হ্রাস স্বাস্থ্য ব্যয়, অপরাধ দমন ব্যয় কমাবে এবং কর রাজস্ব বাড়াবে। স্বাস্থ্য ও অপরাধ দমন খাতে সরকারি ব্যয় সাশ্রয় হবে। যদিও দারিদ্র্য হ্রাসে প্রাথমিক বিনিয়োগ প্রয়োজন, তবে এর ফলাফল হবে বহুমুখী একটি সুস্থ সমাজ, অর্থনৈতিক প্রবৃদ্ধি এবং কর রাজস্ব বৃদ্ধি। সব খানেই দায়িত্বশীল আচরণ, অর্থাৎ— আত্মসচেতন হওয়া ছাড়া বিকল্প নেই",
         "image_url": "https://media.ndiganta.com/images/Majid-1.original.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
@@ -492,8 +492,8 @@
         "headline": "জঙ্গল সলিমপুরে যৌথ বাহিনীর অভিযানে ১৫ জন আটক, অস্ত্র উদ্ধার",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/ONmK66y6OfpY/",
         "published_at": null,
-        "summary": null,
-        "image_url": null
+        "summary": "পুলিশ বলছে, এই অভিযানের মাধ্যমে জঙ্গল সলিমপুরে পুলিশ প্রশাসনের নিয়ন্ত্রণ প্রতিষ্ঠিত হয়েছে। এর আগে বিভিন্ন সময়ে এই এলাকায় অভিযান চালাতে গিয়ে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যরা হামলার শিকার হয়েছেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Police_FvK8mHd.jpg"
       },
       {
         "headline": "ইরানের নতুন সর্বোচ্চ নেতার প্রতি সমর্থন আইআরজিসির",
@@ -562,7 +562,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 10, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "মার্কিন পপ তারকা রিয়ানার বেভারলি হিলসের বাড়িতে বন্দুক হামলার ঘটনা ঘটেছে। বিবিসি পুলিশের বরাতে এ তথ্য জানিয়েছে। ...",
+        "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক ও বিরোধী দলের চিফ হুইপ নাহিদ ইসলাম বলেছেন, ‘জুলাই গণঅভ্যুত্থানই বর্তমান সরকারের বৈধতার ভিত্তি। এই ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -571,6 +571,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ইরানি নারী ফুটবলারদের নিরাপত্তা ও অস্ট্রেলিয়ায় আশ্রয় দেওয়ার দাবি",
+        "url": "https://www.prothomalo.com/sports/football/d3fd51d97r",
+        "published_at": "2026-03-09T15:36:27.670000+00:00",
+        "summary": "পাহলভি মনে করেন, ইরানের নারী ফুটবলাররা এখন প্রচণ্ড চাপের মুখে। ইসলামি প্রজাতন্ত্রের পক্ষ থেকে তাঁদের প্রতিনিয়ত হুমকি দেওয়া হচ্ছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-09/d67wicuz/229765-01-02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/d67wicuz/229765-01-02.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বৈদ্যুতিক খুঁটি বসাতে গিয়ে বিদ্যুৎস্পৃষ্টে ২ জনের মৃত্যু",
+        "url": "https://www.ittefaq.com.bd/778702/%E0%A6%AC%E0%A7%88%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A7%A8-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
+        "published_at": null,
+        "summary": "কুড়িগ্রামের সদর উপজেলার ঘোগাদহ ইউনিয়নে বৈদ্যুতিক খুঁটি স্থাপন করতে গিয়ে বিদ্যুৎস্পৃষ্ট হয়ে দুইজনের মৃত্যু হয়েছে। এ ঘটনায় আরও কয়েকজন আহতের খবর পাওয়া গেছে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/cebea9f1fc6ee4cf2a17c58bec70a112-69aeebe2a546c.jpg"
       },
       {
         "headline": "‘ইরাকে আগ্রাসনেরও প্রতিবাদ করেছিলাম, কিন্তু আমাদের কথা শোনা হয়নি’",
@@ -1479,20 +1494,6 @@
         "published_at": null,
         "summary": "‘এটি হবে সর্বজনীন কর্মসূচি এবং ধাপে ধাপে দেশের চার কোটি পরিবারের সবাইকে এর আওতায় আনার পরিকল্পনা রয়েছে।’",
         "image_url": "https://media.ndiganta.com/original_images/Titumir.jpg"
-      },
-      {
-        "headline": "জুলাইয়ের অর্জনের সাথে বেঈমানীর সুযোগ নেই : এহসানুল মাহবুব জুবায়ের",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/4dFpZD88eAWC/",
-        "published_at": null,
-        "summary": "গাজীপুরে সাংবাদিকদের সম্মানে জামায়াতের ইফতার মাহফিল",
-        "image_url": "https://media.ndiganta.com/original_images/Jubair.jpg"
-      },
-      {
-        "headline": "পাকুন্দিয়ায় জামায়াতের ইফতার মাহফিলে উপস্থিত বিএনপি নেতারা",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/qz46thDopuOQ/",
-        "published_at": null,
-        "summary": "কিশোরঞ্জের পাকুন্দিয়ায় পবিত্র মাহে রমজানের তাৎপর্যশীর্ষক আলোচনা সভা ও ইফতার মাহফিল করেছে বাংলাদেশ জামায়াতে ইসলামী। আর এ ইফতার মাহফিলে উপস্থিত ছিলেন পাকুন্দিয়া উপজেলা এবং পৌর বিএনপির নেতাকর্মীরা।",
-        "image_url": "https://media.ndiganta.com/original_images/Kishoregonj-Iftar-Jamaat.jpg"
       }
     ],
     "bangladesh": [
@@ -1974,8 +1975,8 @@
         "headline": "কথা বলার জন্য ডেকে নিয়ে সাংবাদিককে পিটিয়ে লাপাত্তা যুবক",
         "url": "https://www.ittefaq.com.bd/778698/%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A1%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE",
         "published_at": null,
-        "summary": null,
-        "image_url": null
+        "summary": "দিনাজপুরের হিলিতে নাগরিক টিভির হিলি প্রতিনিধি মো. তাহাকিক হাসানকে মারধর করে গুরুতর জখম করার অভিযোগ উঠেছে। রোববার (৮ মার্চ) রাতে স্থানীয় সরকারি কলেজ গেটে এই সন্ত্রাসী হামলার ঘটনা ঘটে। বর্তমানে আহত তাহাকিক জয়পুরহাট সদর আধুনিক হাসপাতালে চিকিৎসাধীন রয়েছেন।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/7469d93bad083073720b5d8ef1f22f6e-69aee9222071b.jpg"
       },
       {
         "headline": "মামলা করায় যুবককে তুলে নিয়ে হাত-পা ভেঙে দিলো ছিনতাইকারীরা",
@@ -3197,14 +3198,14 @@
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
         "url": "https://www.jugantor.com/bnp",
         "published_at": null,
-        "summary": "বিএনপির স্থায়ী কমিটির সদস্য ও নরসিংদীর পলাশ আসনের এমপি ড. আব্দুল মঈন খান বলেছেন, বিএনপি ক্ষমতার জন্য রাজনীতি করে না। ...",
+        "summary": "এ আসনে জয়ী হয়েছিলেন জামায়াতে ইসলামীর নায়েবে আমীর ডা.সৈয়দ আবদুল্লাহ মোহাম্মদ তাহের। এর আগে ২০ এর অধিক প্রার্থী ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747294137-430161.jpg"
       },
       {
         "headline": "বাংলাদেশ জামায়াতে ইসলামী",
         "url": "https://www.jugantor.com/jamaat",
         "published_at": null,
-        "summary": "আমরা সংসদের ভেতরে জনগণের অধিকারের পক্ষে কথা বলব। যদি সেই দাবি মেনে নেওয়া হয়, সাধুবাদ জানাব। ...",
+        "summary": "ঢাকা-১৬ আসনের সংসদ সদস্য অবসরপ্রাপ্ত কর্নেল আব্দুল বাতেন ও তার নেতাকর্মীদের ওপর হামলার প্রতিবাদে বিক্ষোভ মিছিল করেছে জামায়াতে ইসলামীর নেতাকর্মীরা। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
       },
       {
@@ -4379,20 +4380,28 @@
     ],
     "world": [
       {
+        "headline": "লেবানন সীমান্তের কাছে ইসরায়েলি সেনাদের লক্ষ্য করে রকেট হামলা",
+        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+        "published_at": "2026-03-09T20:02:19.749000+00:00",
+        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-09/8c3ll5te/Iranian-missile.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/8c3ll5te/Iranian-missile.avif?auto=format,compress"
+      },
+      {
+        "headline": "দুই পক্ষের লড়াইয়ে ক্ষতিগ্রস্ত হচ্ছেন ইউরোপের নাগরিকেরা: উরসুলা ভন ডার লিয়েন",
+        "url": "https://www.prothomalo.com/world/europe/l1ad8ozocu",
+        "published_at": "2026-03-09T19:40:17.558000+00:00",
+        "summary": "ইরানে যুদ্ধের প্রভাব ইউরোপেও পড়ছে বলে উল্লেখ করেছেন ইউরোপীয় কমিশনের প্রেসিডেন্ট উরসুলা ভন ডার লিয়েন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-09/m4l6syo3/EU-commision-president.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/m4l6syo3/EU-commision-president.avif?auto=format,compress"
+      },
+      {
         "headline": "ইরানের ড্রোন মোকাবিলা ও ইলেকট্রনিক ওয়ারফেয়ারে যুক্তরাষ্ট্রসহ ১১টি দেশ সহায়তা চেয়েছে: জেলেনস্কি",
         "url": "https://www.prothomalo.com/world/europe/7anwi1ord6",
         "published_at": "2026-03-09T18:35:32.928000+00:00",
         "summary": "ইউক্রেনের প্রেসিডেন্ট আরও বলেন, ‘যারা আমাদের জনগণের জীবন এবং ইউক্রেনের স্বাধীনতা রক্ষায় সাহায্য করে, তাদের অনুরোধে ইতিবাচক সাড়া দিতে ইউক্রেন প্রস্তুত।’",
         "image_s3_key": "prothomalo-bangla/2026-03-09/ey7ckoso/Zelensky.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/ey7ckoso/Zelensky.jpg?auto=format,compress"
-      },
-      {
-        "headline": "লেবানন সীমান্তের কাছ ইসরায়েলি সেনাদের লক্ষ্য করে রকেট হামলা",
-        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-09T18:18:37.071000+00:00",
-        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-09/8c3ll5te/Iranian-missile.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/8c3ll5te/Iranian-missile.avif?auto=format,compress"
       },
       {
         "headline": "‘ইরাকে আগ্রাসনেরও প্রতিবাদ করেছিলাম, কিন্তু আমাদের কথা শোনা হয়নি’",
@@ -4675,14 +4684,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/jwgx5trc/venezuela-decleration-of-independence-1811.jpg?auto=format,compress"
       },
       {
-        "headline": "শ্রীলঙ্কাকে যুক্তরাষ্ট্রের চাপ",
-        "url": "https://www.prothomalo.com/world/asia/rta0ayw8g5",
-        "published_at": "2026-03-07T23:29:04.985000+00:00",
-        "summary": "কলম্বোয় মার্কিন দূতাবাসের চার্জ দ্য অ্যাফেয়ার্স জেন হাওয়েল শ্রীলঙ্কা সরকারকে স্পষ্ট করে বলেছেন, বুশেহর জাহাজের ক্রু ও ডেনা থেকে বেঁচে ফেরা ৩২ সদস্যের কাউকেই ইরানে ফেরত পাঠানো উচিত হবে না। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-05/b0n1zhu1/iran-fridget.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/b0n1zhu1/iran-fridget.avif?auto=format,compress"
-      },
-      {
         "headline": "রাঙামাটিতে এনসিপির আহ্বায়কসহ ৮৭ জনের পদত্যাগ",
         "url": "https://www.bd-pratidin.com/country/2026/03/10/1226351",
         "published_at": "2026-03-10T00:26:52+06:00",
@@ -4753,6 +4754,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/09/og/1773068097-ac53d87c45c4f48223a33cad872d31d7.jpg"
       },
       {
+        "headline": "ইরানি ড্রোন মোকাবিলায় ইউক্রেনের সহায়তা চায় যুক্তরাষ্ট্রসহ ১১ দেশ: জেলেনস্কি",
+        "url": "https://www.ittefaq.com.bd/778712/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8-%E0%A6%AE%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%BE%E0%A7%9F%E0%A6%A4%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A7%9F",
+        "published_at": null,
+        "summary": "ইরানি প্রযুক্তিতে তৈরি ড্রোন ভূপাতিত করার লক্ষে ইউক্রেনের কাছে সহায়তা চেয়েছে যুক্তরাষ্ট্র, ইউরোপ ও ইরানের প্রতিবেশী দেশসহ মোট ১১টি রাষ্ট্র। মধ্যপ্রাচ্যে এক সপ্তাহ ধরে চলা উত্তেজনার প্রেক্ষাপটে এই অনুরোধ জানানো হয়েছে বলে সোমবার দাবি করেছেন ইউক্রেনের প্রেসিডেন্ট ভলোদিমির জেলেনস্কি।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/10/03d21e84f32c674417a8ca9d93df023d-69af2364bb985.jpg"
+      },
+      {
         "headline": "ইরানের নতুন সর্বোচ্চ নেতা নির্বাচনকে ‘বড় ভুল’ বললেন ট্রাম্প",
         "url": "https://www.ittefaq.com.bd/778710/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%AC%E0%A7%9C-%E0%A6%AD%E0%A7%81%E0%A6%B2%E2%80%99",
         "published_at": null,
@@ -4814,13 +4822,6 @@
         "published_at": null,
         "summary": "ইরান থেকে তুরস্কের দিকে ছোড়া একটি ব্যালিস্টিক ক্ষেপণাস্ত্র ভূপাতিত করেছে বলে জানিয়েছে আঙ্কারা। পূর্ব ভূমধ্যসাগরে পশ্চিমা সামরিক জোট ন্যাটোর আকাশ প্রতিরক্ষা ব্যবস্থার মাধ্যমে ওই ক্ষেপণাস্ত্র ভূপাতিত করা হয়েছে বলে জানিয়েছে তুরস্কের প্রতিরক্ষা মন্ত্রণালয়।",
         "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/d7d0131a04a592d65d00b194e3543d77-69aeccf5cf2aa.jpg"
-      },
-      {
-        "headline": "উত্তেজনা বাড়লে ইরানই ক্ষতিগ্রস্ত হবে: হুমকি সৌদি আরবের",
-        "url": "https://www.ittefaq.com.bd/778667/%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%9C%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF",
-        "published_at": null,
-        "summary": "সৌদি আরব ও উপসাগরীয় সহযোগিতা পরিষদ (জিসিসি) সদস্য দেশগুলোর ওপর ইরানের ধারাবাহিক হামলার তীব্র নিন্দা জানিয়েছে রিয়াদ। একই সঙ্গে তেহরানকে কড়া সতর্কবার্তা দিয়ে সৌদি আরব বলেছে, উত্তেজনা অব্যাহতভাবে বাড়তে থাকলে শেষ পর্যন্ত এর চরম মূল্য ইরানকেই দিতে হবে।",
-        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/eec40b7d70cac0a6dd4affddca6c50ef-69aec782769fa.jpg"
       },
       {
         "headline": "ঢাকার পরিবহন ভবিষ্যৎ কোন পথে?মেট্রোরেল বনাম মনোরেল",
@@ -4968,6 +4969,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "শ্রীলঙ্কাকে যুক্তরাষ্ট্রের চাপ",
+        "url": "https://www.prothomalo.com/world/asia/rta0ayw8g5",
+        "published_at": "2026-03-07T23:29:04.985000+00:00",
+        "summary": "কলম্বোয় মার্কিন দূতাবাসের চার্জ দ্য অ্যাফেয়ার্স জেন হাওয়েল শ্রীলঙ্কা সরকারকে স্পষ্ট করে বলেছেন, বুশেহর জাহাজের ক্রু ও ডেনা থেকে বেঁচে ফেরা ৩২ সদস্যের কাউকেই ইরানে ফেরত পাঠানো উচিত হবে না। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-05/b0n1zhu1/iran-fridget.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/b0n1zhu1/iran-fridget.avif?auto=format,compress"
+      },
+      {
+        "headline": "উত্তেজনা বাড়লে ইরানই ক্ষতিগ্রস্ত হবে: হুমকি সৌদি আরবের",
+        "url": "https://www.ittefaq.com.bd/778667/%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%9C%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%B2%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%95%E0%A6%BF-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF",
+        "published_at": null,
+        "summary": "সৌদি আরব ও উপসাগরীয় সহযোগিতা পরিষদ (জিসিসি) সদস্য দেশগুলোর ওপর ইরানের ধারাবাহিক হামলার তীব্র নিন্দা জানিয়েছে রিয়াদ। একই সঙ্গে তেহরানকে কড়া সতর্কবার্তা দিয়ে সৌদি আরব বলেছে, উত্তেজনা অব্যাহতভাবে বাড়তে থাকলে শেষ পর্যন্ত এর চরম মূল্য ইরানকেই দিতে হবে।",
+        "image_url": "https://cdn.ittefaqbd.com/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/03/09/eec40b7d70cac0a6dd4affddca6c50ef-69aec782769fa.jpg"
       },
       {
         "headline": "নিজ নাগরিকদের তুরস্ক ত্যাগের আহ্বান জানিয়েছে যুক্তরাষ্ট্র",
@@ -5821,20 +5837,6 @@
         "published_at": "2026-03-09T12:22:51+06:00",
         "summary": "বিভ্রান্তিকর তথ্য ছড়ানোর অভিযোগে ৩১৩ জনকে গ্রেফতার করেছে কাতার।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/09/og/1773037371-b4773705d3aac274ffe9253ae64404ee.jpg"
-      },
-      {
-        "headline": "সরকারি দলের সংসদীয় সভা ১১ মার্চ",
-        "url": "https://www.bd-pratidin.com/national/2026/03/09/1226030",
-        "published_at": "2026-03-09T12:18:56+06:00",
-        "summary": "সংসদ নেতার সভাপতিত্বে সরকারি দলের সংসদীয় সভা আগামী ১১ মার্চ (বুধবার) বেলা ১১ টায় অনুষ্ঠিত হবে। সংসদ ভবনে অবস্থিত ত্রয়োদশ জাতীয় সংসদের সরকার দলীয় সভাকক্ষে এ বৈঠক বসবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/09/og/1773037135-7efd743118381d47acc23ad91c31844f.jpg"
-      },
-      {
-        "headline": "লন্ডনে কমনওয়েলথ বৈঠকে যোগ দিয়েছেন পররাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/national/2026/03/09/1226029",
-        "published_at": "2026-03-09T12:14:10+06:00",
-        "summary": "লন্ডনে কমনওয়েলথ পররাষ্ট্রমন্ত্রীদের বৈঠকে যোগ দিয়েছেন পররাষ্ট্রমন্ত্রী ড. খলিলুর রহমান। সোমবার (৯ মার্চ) লন্ডনের বাংলাদেশ হাইকমিশন এ তথ্য জানায়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/09/og/1773036849-b2a5351efa29e676a669ba4176742cf8.jpg"
       }
     ],
     "business": [
