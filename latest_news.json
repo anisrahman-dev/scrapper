@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-10T21:54:02.050445+00:00",
+  "fetched_at": "2026-03-10T22:25:37.186748+00:00",
   "stories": [
+    {
+      "headline": "এখানে প্রতিদিন একসঙ্গে ইফতার করেন প্রায় ছয় হাজার রোজাদার",
+      "url": "https://www.prothomalo.com/bangladesh/district/0g51knvj30",
+      "published_at": "2026-03-10T22:00:00+00:00",
+      "summary": "রমজান মাসজুড়ে প্রতিদিন এভাবে একসঙ্গে ইফতার করেন প্রায় ছয় হাজার মানুষ। ধর্মীয় অনুভূতি আর মানবিকতার সমন্বয়ে সাতক্ষীরার কালীগঞ্জ উপজেলায় এমন ব্যতিক্রমী আয়োজন করে আসছে নলতা কেন্দ্রীয় আহ্ছানিয়া মিশন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-10/set6gc7k/SatkhiraDH055020260310Iftarin-6-thousand-paticipant-NalTa-10-03-2026.-8.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/set6gc7k/SatkhiraDH055020260310Iftarin-6-thousand-paticipant-NalTa-10-03-2026.-8.jpg?auto=format,compress"
+    },
     {
       "headline": "ইরান নিয়ে ট্রাম্পের হিসাবে কি ভুল হলো",
       "url": "https://www.prothomalo.com/world/usa/rhhifvqnjf",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/zb6urp2t/Basir.jpeg?auto=format,compress"
     },
     {
-      "headline": "এক বছরের জন্য ঢাকা ওয়াসার নতুন এমডি আমিনুল  ইসলাম",
-      "url": "https://www.prothomalo.com/bangladesh/capital/u1v8twfvs9",
-      "published_at": "2026-03-10T15:20:17.230000+00:00",
-      "summary": "গতকাল সোমবার স্থানীয় সরকার মন্ত্রণালয়ের অতিরিক্ত সচিব মুহা. মনিরুজ্জামানকে অতিরিক্ত দায়িত্ব হিসেবে ঢাকা ওয়াসার এমডির দায়িত্ব দেওয়া হয়। পরদিনই সেখানে আমিনুল ইসলামকে নিয়োগ দেওয়া হলো।",
-      "image_s3_key": "prothomalo-bangla/2026-03-10/ahzxpap0/1-image-Template.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/ahzxpap0/1-image-Template.jpg?auto=format,compress"
-    },
-    {
       "headline": "গাইবান্ধায় প্রবাসীর স্ত্রীর ঝুলন্ত মরদেহ উদ্ধার",
       "url": "https://www.bd-pratidin.com/country/2026/03/11/1226824",
       "published_at": "2026-03-11T03:36:16+06:00",
@@ -405,6 +405,27 @@
       "image_url": "https://media.ndiganta.com/images/Maksudul_Haque_k1yDtD.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "দুই কর্মকর্তার ভ্রমণের বিষয় স্পষ্ট করল বাংলাদেশ ব্যাংক",
+      "url": "https://dailynayadiganta.com/economy/banking-insurance/IXjBYZfJdA8b/",
+      "published_at": null,
+      "summary": "কেন্দ্রীয় ব্যাংক স্পষ্টভাবে এই দাবি প্রত্যাখ্যান করেছে যে পরিচালক লিজা ফাহমিদা ও অতিরিক্ত পরিচালক কামরুল ইসলামকে তাদের কথিত ঘনিষ্ঠতার কারণে ভ্রমণ থেকে নিষিদ্ধ করা হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/bangladesh-bank.jpg"
+    },
+    {
+      "headline": "সিলেট নগরীকে আইপি ক্যামেরার আওতায় আনা হবে : বাণিজ্যমন্ত্রী",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/XmrGbPGk3Kah/",
+      "published_at": null,
+      "summary": "মঙ্গলবার সিলেট মেট্রোপলিটন পুলিশের (এসএমপি) কর্মকর্তাদের সাথে মতবিনিময় সভায় প্রধান অতিথির বক্তব্যে তিনি এসব কথা বলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Sylhet-SMP-Meting-Minister-Muktadir.jpg"
+    },
+    {
+      "headline": "মামলাবাণিজ্য নিয়ন্ত্রণে ও গুম বন্ধে কাজ করছে সরকার : আইনমন্ত্রী",
+      "url": "https://dailynayadiganta.com/bangladesh/law-and-justice/1Ytj3g2e8HIB/",
+      "published_at": null,
+      "summary": "‘মানুষের জন্য ফাউন্ডেশন’ আয়োজিত আন্তর্জাতিক নারী দিবস ২০২৬ উপলক্ষে ‘সকল নারী ও বালিকার জন্য অধিকার, বিচার ও বাস্তবায়ন’ শীর্ষক সেমিনারে প্রধান অতিথির বক্তব্যে তিনি এসব কথা বলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Law-minister.jpg"
+    },
+    {
       "headline": "ঈশ্বরগঞ্জে ধানক্ষেত থেকে নবজাতক উদ্ধার, হাসপাতালে চিকিৎসাধীন",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/bytq0owgCkBs/",
       "published_at": null,
@@ -440,6 +461,28 @@
       "image_url": "https://media.ndiganta.com/original_images/Anowara-11-3.jpg"
     },
     {
+      "headline": "আজকের সর্বশেষ খবর - March 11, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "পবিত্র মাহে রমজান উপলক্ষে মালয়েশিয়ার ইন্টারন্যাশনাল ইসলামিক ইউনিভার্সিটি মালয়েশিয়া (আইআইইউএম)-এ অনুষ্ঠিত হয়েছে দৃষ্টিনন্দন এক মেগা ইফতার অনুষ্ঠান। ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "এক বছরের জন্য ঢাকা ওয়াসার নতুন এমডি আমিনুল  ইসলাম",
+      "url": "https://www.prothomalo.com/bangladesh/capital/u1v8twfvs9",
+      "published_at": "2026-03-10T15:20:17.230000+00:00",
+      "summary": "গতকাল সোমবার স্থানীয় সরকার মন্ত্রণালয়ের অতিরিক্ত সচিব মুহা. মনিরুজ্জামানকে অতিরিক্ত দায়িত্ব হিসেবে ঢাকা ওয়াসার এমডির দায়িত্ব দেওয়া হয়। পরদিনই সেখানে আমিনুল ইসলামকে নিয়োগ দেওয়া হলো।",
+      "image_s3_key": "prothomalo-bangla/2026-03-10/ahzxpap0/1-image-Template.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/ahzxpap0/1-image-Template.jpg?auto=format,compress"
+    },
+    {
       "headline": "ঝিনাইদহে জেলা পুলিশের ইফতার ও দোয়া মাহফিল",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/ouNZj9c9YEPn/",
       "published_at": null,
@@ -452,20 +495,6 @@
       "published_at": null,
       "summary": "আমাদের শিশু-কিশোর ও যুব সমাজকে অপসংস্কৃতির আগ্রাসন থেকে রক্ষা করতে হলে শুদ্ধ, পবিত্র ও পরিশীলিত সংস্কৃতির ব্যাপক প্রসার ঘটাতে হবে। শিশু-কিশোর সুপ্ত প্রতিভা বিকাশ ও লালনে এই আয়োজন কক্সবাজারের অঙ্গনে মাইলফলক হিসেবে বিবেচিত হবে।",
       "image_url": "https://media.ndiganta.com/original_images/Cox-11-3.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 11, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "ভারতের পূর্বাঞ্চলের অন্যতম বড় মহানগর কলকাতায় এলপিজি গ্যাস সংকটের কারণে বড় ধরনের সংকটের আশঙ্কা দেখা দিয়েছে। হোটেল অ্যান্ড রেস্তোরাঁ অ্যাসোসিয়েশন ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "প্রসিকিউটরের কথোপকথন ফাঁস: জামিনের জন্য ঘুষ চেয়েছেন ১ কোটি টাকা",
@@ -1474,35 +1503,6 @@
       "summary": "অভিভাবক সেজে নবজাতকের পাশে বসে আছেন আয়েশা নামের এক নারী। তিনি বলছেন, বাচ্চাকে দত্তক নেওয়ার জন্য তাঁরা আবেদন করেছেন।",
       "image_s3_key": "prothomalo-bangla/2026-03-10/5h5jbaet/RajshahiDH060120260310IMG-20260310-WA0008.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/5h5jbaet/RajshahiDH060120260310IMG-20260310-WA0008.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘ফ্যামিলি কার্ডটা পায়্যা ঈদের চাইতেও বেশি খুশি লাগিচ্চে’",
-      "url": "https://www.prothomalo.com/bangladesh/district/3nv9xoxuj5",
-      "published_at": "2026-03-10T11:41:15.200000+00:00",
-      "summary": "আজ মঙ্গলবার বেলা ১১টার দিকে বগুড়ার জেলা প্রশাসক মো. তৌফিকুর রহমান সদর উপজেলার গোপালবাড়ি গ্রামে ফ্যামিলি কার্ড বিতরণ কার্যক্রমের আনুষ্ঠানিক উদ্বোধন করেন।",
-      "image_s3_key": "prothomalo-bangla/2026-03-10/c9qg57hr/WhatsApp-Image-2026-03-10-at-5.18.55-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/c9qg57hr/WhatsApp-Image-2026-03-10-at-5.18.55-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "যতদিন দায়িত্বে থাকব, দলকে এগিয়ে নেওয়ার চেষ্টা করব: মিরাজ",
-      "url": "https://www.bd-pratidin.com/sports/2026/03/10/1226606",
-      "published_at": "2026-03-10T19:33:34+06:00",
-      "summary": "পাকিস্তানের বিপক্ষে সিরিজ দিয়েই আগামী বছরের বিশ্বকাপের প্রস্তুতি শুরু হচ্ছে, এমনটাই জানিয়েছেন বাংলাদেশের প্রধান কোচ ফিল সিমন্স। এবার সেই সুরই শোনা গেল বাংলাদেশ দলের অধিনায়ক মেহেদী হাসান মিরাজের কণ্ঠেও। তবে বিশ্বকাপ পর্যন্ত তিনি অধিনায়ক থাকবেন কি না, তা নিয়ে নিজেও নিশ্চিত নন মিরাজ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/10/og/1773149613-6ac07c7ef60c00b791a837bf13419170.jpg"
-    },
-    {
-      "headline": "সিলেটে র‌্যাবের চিরুণী অভিযানে ১৬ ছিনতাইকারী আটক",
-      "url": "https://www.bd-pratidin.com/chayer-desh/2026/03/10/1226600",
-      "published_at": "2026-03-10T19:16:21+06:00",
-      "summary": "সিলেটে র‌্যাপিড অ্যাকশন ব্যাটালিয়ন (র‌্যাব)-এর চিরুণী অভিযানে একরাতে ১৬ ছিনতাইকারীকে আটক করা হয়েছে। মঙ্গলবার তাদেরকে আদালতের মাধ্যমে কারাগারে প্রেরণ করা হয়েছে। সোমবার রাতভর অভিযান চালিয়ে তাদের ধরা হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/10/og/1773148580-dc3a336cefb09aa4b818bc2c2887a055.jpg"
-    },
-    {
-      "headline": "টাঙ্গাইলে শহীদ একাডেমিক স্কুলের শিক্ষার্থীর রহস্যজনক মৃত্যু, শিক্ষকরা পলাতক",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/t0lqT87Km4OC/",
-      "published_at": null,
-      "summary": "টাঙ্গাইলে সরকারিভাবে শিক্ষা প্রতিষ্ঠান বন্ধ রাখার নির্দেশনা থাকলেও শহরের বিভিন্ন বেসরকারি প্রতিষ্ঠান তা মানছে না। সরকারি নির্দেশনা অমান্য করেই খোলা রাখা হয়েছে প্রতিষ্ঠান; চলছে ক্লাস ও পরীক্ষা।",
-      "image_url": "https://media.ndiganta.com/original_images/Tangail-Student_Death_Picture-10.03.26.jpeg"
     }
   ]
 }
