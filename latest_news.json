@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-11T22:25:30.510368+00:00",
+  "fetched_at": "2026-03-11T22:52:24.624219+00:00",
   "stories": [
+    {
+      "headline": "নিরাপদ নগর, সমৃদ্ধ জীবন: চার হাজার বছর আগের দোয়া",
+      "url": "https://www.prothomalo.com/religion/islam/26at7vkgzl",
+      "published_at": "2026-03-11T22:30:00+00:00",
+      "summary": "সুরা বাকারায় ইব্রাহিম (আ.) মক্কা নগরীর জন্য দোয়া করেছিলেন। সেখানে তিনি মাত্র দুটো জিনিস চেয়েছিলেন—একটি নিরাপদ শহর এবংঅধিবাসীদের জন্য রিজিক।",
+      "image_s3_key": "prothomalo-bangla/2026-03-09/jpanwcw9/ancient-egyptian-culture-civilization-from.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/jpanwcw9/ancient-egyptian-culture-civilization-from.jpg?auto=format,compress"
+    },
     {
       "headline": "ভালভের্দের হ্যাটট্রিক, সিটিকে উড়িয়ে দিল রিয়াল",
       "url": "https://www.prothomalo.com/sports/football/3l7ov14r82",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/hn1676s2/tree-cut-.00033021.Still002.jpg?auto=format,compress"
     },
     {
-      "headline": "রাজনৈতিক পরিচয়ের কারণে বিপুলসংখ্যক মানুষ কারাগারে ধুঁকছে: অধ্যাপক রেহমান সোবহান",
-      "url": "https://www.prothomalo.com/bangladesh/z38p1845ej",
-      "published_at": "2026-03-11T16:35:33.451000+00:00",
-      "summary": "তিনি বলেছেন, এটি মানবাধিকারের লঙ্ঘন, দেশের বিচারব্যবস্থার ব্যর্থতা এবং অন্তর্বর্তী সরকারের অন্যতম ব্যর্থতা, যাদের আইনের শাসন রক্ষার বিষয়ে আরও প্রতিশ্রুতিবদ্ধ হওয়া উচিত ছিল।",
-      "image_s3_key": "prothomalo-bangla/2026-03-11/z7j8qiqi/Rehman-Sobhan-01.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/z7j8qiqi/Rehman-Sobhan-01.jpeg?auto=format,compress"
-    },
-    {
       "headline": "যুক্তরাষ্ট্রের বিখ্যাত প্রতিষ্ঠানে সাইবার হামলার দাবি ইরানি হ্যাকারদের, বিশ্বজুড়ে পরিষেবা ব্যাহত",
       "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227206",
       "published_at": "2026-03-12T02:25:48+06:00",
@@ -478,7 +478,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 12, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "বর্তমান ভূ-রাজনীতির প্রেক্ষাপটে পারস্য উপসাগরের নীল জলরাশি এখন আর কেবল তেলবাহী জাহাজের পথ নয়, বরং এটি হয়ে দাঁড়িয়েছে বৈশ্বিক অর্থনীতির ...",
+      "summary": "ইরানের দক্ষিণাঞ্চলীয় মিনাব শহরের একটি স্কুলে ভয়াবহ মিসাইল হামলার ঘটনায় মার্কিন যুক্তরাষ্ট্রকে সরাসরি দায়ী করে একে ‘ক্ষমাঅযোগ্য যুদ্ধাপরাধ’ হিসেবে অভিহিত ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -487,6 +487,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "রাজনৈতিক পরিচয়ের কারণে বিপুলসংখ্যক মানুষ কারাগারে ধুঁকছে: অধ্যাপক রেহমান সোবহান",
+      "url": "https://www.prothomalo.com/bangladesh/z38p1845ej",
+      "published_at": "2026-03-11T16:35:33.451000+00:00",
+      "summary": "তিনি বলেছেন, এটি মানবাধিকারের লঙ্ঘন, দেশের বিচারব্যবস্থার ব্যর্থতা এবং অন্তর্বর্তী সরকারের অন্যতম ব্যর্থতা, যাদের আইনের শাসন রক্ষার বিষয়ে আরও প্রতিশ্রুতিবদ্ধ হওয়া উচিত ছিল।",
+      "image_s3_key": "prothomalo-bangla/2026-03-11/z7j8qiqi/Rehman-Sobhan-01.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/z7j8qiqi/Rehman-Sobhan-01.jpeg?auto=format,compress"
     },
     {
       "headline": "ডেঙ্গু প্রতিরোধে প্রতি শনিবার পরিচ্ছন্নতা অভিযান চালানো হবে: প্রধানমন্ত্রী",
@@ -1512,13 +1520,6 @@
       "published_at": "2026-03-11T19:07:55+06:00",
       "summary": "ইন্সপেক্টর জেনারেল অব পুলিশ (আইজিপি) মো. আলী হোসেন ফকিরের সঙ্গে সুহেল দাউদের নেতৃত্বে এফবিআইয়ের চার সদস্যের এক প্রতিনিধিদল সৌজন্য সাক্ষাৎ করেছে।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773234474-af317b4f6e53e42b85da1e7cb8cc4ce6.jpg"
-    },
-    {
-      "headline": "এক কোটি ৮০ লাখ লিটার ভোজ্যতেল কিনবে সরকার",
-      "url": "https://www.bd-pratidin.com/economy/2026/03/11/1227016",
-      "published_at": "2026-03-11T19:06:19+06:00",
-      "summary": "এক কোটি ৮০ লাখ লিটার ভোজ্যতেল কেনার সিদ্ধান্ত নিয়েছে সরকার। এর মধ্যে স্থানীয় দরপত্রের মাধ্যমে ৮০ লাখ লিটার পরিশোধিত রাইস ব্র্যান তেল, অন্য একটি দরপত্রের মাধ্যমে এক কোটি লিটার পরিশোধিত রাইস ব্র্যান তেল ক্রয় করা হবে। এতে মোট ব্যয় হবে ৩০৫ কোটি ৫৬ লাখ ৮০ হাজার টাকা। সরকারি ক্রয় সংক্রান্ত মন্ত্রিসভা কমিটির সভায় প্রস্তাব দুটি অনুমোদন দেওয়া হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773234378-41d0393ce054f4d90e978e9e1661f44c.jpg"
     }
   ]
 }
