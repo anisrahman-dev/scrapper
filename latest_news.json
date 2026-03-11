@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-03-11T22:52:24.624219+00:00",
+  "fetched_at": "2026-03-11T23:24:01.701013+00:00",
   "stories": [
+    {
+      "headline": "ইরানে বিদ্যালয়ে হামলার জন্য ‘যুক্তরাষ্ট্রই দায়ী’",
+      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+      "published_at": "2026-03-11T23:18:17.921000+00:00",
+      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইরানে প্রাথমিক বিদ্যালয়ে হামলা চালিয়েছিল যুক্তরাষ্ট্রই: প্রাথমিক অনুসন্ধান",
+      "url": "https://www.prothomalo.com/world/middle-east/z7rxrn5lx3",
+      "published_at": "2026-03-11T22:54:10.607000+00:00",
+      "summary": "প্রাথমিক তদন্তের ফলাফলের সঙ্গে সংশ্লিষ্ট ব্যক্তিদের বক্তব্য অনুযায়ী, ইরানে মেয়েদের ওই প্রাথমিক বিদ্যালয়ে টমাহক ক্ষেপণাস্ত্র হামলার জন্য যুক্তরাষ্ট্রই দায়ী।",
+      "image_s3_key": "prothomalo-bangla/2026-03-09/h8tnrj8e/Iran-School.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/h8tnrj8e/Iran-School.jpg?auto=format,compress"
+    },
     {
       "headline": "নিরাপদ নগর, সমৃদ্ধ জীবন: চার হাজার বছর আগের দোয়া",
       "url": "https://www.prothomalo.com/religion/islam/26at7vkgzl",
@@ -10,7 +26,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/jpanwcw9/ancient-egyptian-culture-civilization-from.jpg?auto=format,compress"
     },
     {
-      "headline": "ভালভের্দের হ্যাটট্রিক, সিটিকে উড়িয়ে দিল রিয়াল",
+      "headline": "ভালভের্দের হ্যাটট্রিকে সিটিকে উড়িয়ে দিল রিয়াল",
       "url": "https://www.prothomalo.com/sports/football/3l7ov14r82",
       "published_at": "2026-03-11T22:02:39.796000+00:00",
       "summary": "উয়েফা চ্যাম্পিয়নস লিগ শেষ ষোলোর প্রথম লেগে বার্নাব্যুতে রিয়াল মাদ্রিদের মুখোমুখি ম্যানচেস্টার সিটি।",
@@ -48,14 +64,6 @@
       "summary": "মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতিতে যুক্তরাষ্ট্র ভারতকে রাশিয়ার তেল আমদানিতে যেমন ছাড় দিয়েছে, বাংলাদেশও ওয়াশিংটনের কাছ থেকে তেমনটি চেয়েছে বলে অর্থমন্ত্রী আমীর খসরু মাহমুদ চৌধুরী জানিয়েছেন।",
       "image_s3_key": "prothomalo-bangla/2026-03-11/szhbcj94/২.webp",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/szhbcj94/২.webp?auto=format,compress"
-    },
-    {
-      "headline": "ইসরায়েলে একযোগে ১০০টি রকেট ও ক্ষেপণাস্ত্র নিক্ষেপ ইরান-হিজবুল্লাহর",
-      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-      "published_at": "2026-03-11T19:58:52.898000+00:00",
-      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
     },
     {
       "headline": "গণমাধ্যমই প্রতিটি গণতান্ত্রিক আন্দোলনের প্রেক্ষাপট তৈরি করেছে: তথ্যমন্ত্রী",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-03/f92cd674-4ba7-4e7f-920b-1ed34d672eb8/Lng.jpg?auto=format,compress"
     },
     {
-      "headline": "ঈদগাহ তৈরির নামে গাছ কাটার অভিযোগ, ক্ষুব্ধ রোকেয়া বিশ্ববিদ্যালয়ের শিক্ষার্থীরা ",
-      "url": "https://www.prothomalo.com/video/bangladesh/sszcq997mt",
-      "published_at": "2026-03-11T16:36:12.018000+00:00",
-      "summary": "ঈদগাহ তৈরির নামে গাছ কাটার অভিযোগ, ক্ষুব্ধ রোকেয়া বিশ্ববিদ্যালয়ের শিক্ষার্থীরা",
-      "image_s3_key": "prothomalo-bangla/2026-03-11/hn1676s2/tree-cut-.00033021.Still002.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/hn1676s2/tree-cut-.00033021.Still002.jpg?auto=format,compress"
-    },
-    {
       "headline": "যুক্তরাষ্ট্রের বিখ্যাত প্রতিষ্ঠানে সাইবার হামলার দাবি ইরানি হ্যাকারদের, বিশ্বজুড়ে পরিষেবা ব্যাহত",
       "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227206",
       "published_at": "2026-03-12T02:25:48+06:00",
@@ -478,7 +478,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 12, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ইরানের দক্ষিণাঞ্চলীয় মিনাব শহরের একটি স্কুলে ভয়াবহ মিসাইল হামলার ঘটনায় মার্কিন যুক্তরাষ্ট্রকে সরাসরি দায়ী করে একে ‘ক্ষমাঅযোগ্য যুদ্ধাপরাধ’ হিসেবে অভিহিত ...",
+      "summary": "লেবানন ভিত্তিক সশস্ত্র গোষ্ঠী হিজবুল্লাহ আজ রাতে ইসরাইলের উত্তরাঞ্চল লক্ষ্য করে এক বিশাল রকেট হামলা চালিয়েছে।  ইসরাইলি প্রতিরক্ষা বাহিনী ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -487,6 +487,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ঈদগাহ তৈরির নামে গাছ কাটার অভিযোগ, ক্ষুব্ধ রোকেয়া বিশ্ববিদ্যালয়ের শিক্ষার্থীরা ",
+      "url": "https://www.prothomalo.com/video/bangladesh/sszcq997mt",
+      "published_at": "2026-03-11T16:36:12.018000+00:00",
+      "summary": "ঈদগাহ তৈরির নামে গাছ কাটার অভিযোগ, ক্ষুব্ধ রোকেয়া বিশ্ববিদ্যালয়ের শিক্ষার্থীরা",
+      "image_s3_key": "prothomalo-bangla/2026-03-11/hn1676s2/tree-cut-.00033021.Still002.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/hn1676s2/tree-cut-.00033021.Still002.jpg?auto=format,compress"
     },
     {
       "headline": "রাজনৈতিক পরিচয়ের কারণে বিপুলসংখ্যক মানুষ কারাগারে ধুঁকছে: অধ্যাপক রেহমান সোবহান",
@@ -1513,13 +1521,6 @@
       "summary": "মাদ্রাসা শিক্ষা বোর্ডের অধীন ২০২৬ সালের আলিম পরীক্ষার ফরম পূরণের সময় বৃদ্ধি করা হয়েছে।",
       "image_s3_key": "prothomalo-bangla/2023-07/2da20666-029d-4387-b303-0d0239fae0f8/Untitled_1__1_.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-07/2da20666-029d-4387-b303-0d0239fae0f8/Untitled_1__1_.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আইজিপির সঙ্গে এফবিআই প্রতিনিধি দলের সাক্ষাৎ",
-      "url": "https://www.bd-pratidin.com/national/2026/03/11/1227017",
-      "published_at": "2026-03-11T19:07:55+06:00",
-      "summary": "ইন্সপেক্টর জেনারেল অব পুলিশ (আইজিপি) মো. আলী হোসেন ফকিরের সঙ্গে সুহেল দাউদের নেতৃত্বে এফবিআইয়ের চার সদস্যের এক প্রতিনিধিদল সৌজন্য সাক্ষাৎ করেছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773234474-af317b4f6e53e42b85da1e7cb8cc4ce6.jpg"
     }
   ]
 }
