@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-03-12T21:41:16.871948+00:00",
+  "fetched_at": "2026-03-12T22:22:59.108011+00:00",
   "sections": {
     "latest": [
       {
-        "headline": "মোজতবা খামেনিকে নেতানিয়াহুর হুমকি, শীর্ষ পরমাণু বিজ্ঞানীদের হত্যার দাবি",
+        "headline": "ইরাকের আকাশসীমায় যুক্তরাষ্ট্রের রিফুয়েলিং উড়োজাহাজ বিধ্বস্ত",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-12T20:54:08.578000+00:00",
+        "published_at": "2026-03-12T22:18:21.964000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
+      },
+      {
+        "headline": "নিখুঁত হামলা চালাতে ইরান কি চীনের বাইদু নেভিগেশন সিস্টেম ব্যবহার করছে",
+        "url": "https://www.prothomalo.com/world/middle-east/nshomz2izq",
+        "published_at": "2026-03-12T22:05:47.512000+00:00",
+        "summary": "ইসরায়েল ও মার্কিন স্থাপনায় নির্ভুল হামলা চালাতে ইরান সম্ভবত চীনের বাইদু নেভিগেশন সিস্টেম ব্যবহার করছে। এতে মার্কিন জিপিএস সিস্টেমের আধিপত্যের অবসান ঘটতে পারে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/nlqnllxg/beidou1.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/nlqnllxg/beidou1.jpeg?auto=format,compress"
       },
       {
         "headline": "সুন্দরবনে অস্ত্রসহ দস্যু ‘করিম শরীফ বাহিনী’র সদস্য আটক",
@@ -299,14 +307,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-07-30/iv66lqmw/Police.avif?auto=format,compress"
       },
       {
-        "headline": "ইরান যুদ্ধের কারণে ‘প্রতারিত’ বোধ করছেন ট্রাম্পের সমর্থকেরা",
-        "url": "https://www.prothomalo.com/world/usa/z6zlbboeiw",
-        "published_at": "2026-03-12T15:47:01.477000+00:00",
-        "summary": "ইরান যুদ্ধের কারণে ডোনাল্ড ট্রাম্পের ওপর ক্ষুব্ধ প্রভাবশালী পডকাস্টার জো রোগান। তিনি মনে করেন, যুদ্ধের এ সিদ্ধান্ত ট্রাম্পের সমর্থকদের সঙ্গে একধরনের বড় বিশ্বাসঘাতকতা।",
-        "image_s3_key": "prothomalo-bangla/2026-03-12/gllo48y3/Joe-Rogan-1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/gllo48y3/Joe-Rogan-1.jpg?auto=format,compress"
-      },
-      {
         "headline": "নিরাপদ আশ্রয়ের খোঁজে অন্যরা পালালেও মধ্যপ্রাচ্যে কাজে ফিরছেন বাংলাদেশিরা",
         "url": "https://www.bd-pratidin.com/national/2026/03/13/1227605",
         "published_at": "2026-03-13T01:58:26+06:00",
@@ -391,6 +391,27 @@
         "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "রংপুরের মডার্ন মোড়ে পুলিশের সাব-কন্ট্রোল রুম চালু",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/nysaReg6Z1V9/",
+        "published_at": null,
+        "summary": "বৃহস্পতিবার বিকেল ৪টার দিকে নগরীর মডার্ন মোড়ে এই সার্ভিস চালু হয়। উদ্বোধন করেন মহানগর পুলিশ কমিশনার মজিদ আলী।",
+        "image_url": "https://media.ndiganta.com/original_images/Rangpur-control-room-1.jpg"
+      },
+      {
+        "headline": "নওগাঁয় বজ্রপাতে ২ কৃষকের মৃত্যু",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/cMkNudJQKn9N/",
+        "published_at": null,
+        "summary": "বৃষ্টির মধ্যে বাড়ির পাশে একটি বিলে ক্ষেত পরিচর্যা করতে যান কৃষক জালাল উদ্দীন। এ সময় হঠাৎ বজ্রপাত হলে ঘটনাস্থলেই তার মৃত্যু হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/Thunderstiked-to-Death_6Mzxt4Q.jpg"
+      },
+      {
+        "headline": "হরমুজ প্রণালীতে তেলবাহী ট্যাঙ্কার পাহারা দিতে কতটুকু প্রস্তুত মার্কিন নৌবাহিনী",
+        "url": "https://dailynayadiganta.com/international/asia/middle-east/iITtYpnlKJBE/",
+        "published_at": null,
+        "summary": "হোয়াইট হাউস নিশ্চিত করে যে, মার্কিন নৌবাহিনী হরমুজ প্রণালী দিয়ে কোনো ট্যাঙ্কার পাহারা দিয়ে নিয়ে যায়নি। এরপর এই খবরটি ছড়িয়ে পড়লে তেলের দাম আবারো বেড়ে যায়।",
+        "image_url": "https://media.ndiganta.com/original_images/Hormuz_tQZFmPG.jpg"
+      },
+      {
         "headline": "ছয় ঘণ্টা পর ইসরাইলে আবারো মিসাইল হামলা ইরানের",
         "url": "https://dailynayadiganta.com/international/asia/middle-east/5xiCpYJWgFem/",
         "published_at": null,
@@ -426,13 +447,6 @@
         "image_url": "https://media.ndiganta.com/original_images/Jhalakathi-12-3.jpg"
       },
       {
-        "headline": "আনসার-ভিডিপির ঈদ উপহার পেলেন ২৯ হাজার সদস্য ও কর্মচারী",
-        "url": "https://dailynayadiganta.com/economy/corporate/Fdn1Ttp2rbmh/",
-        "published_at": null,
-        "summary": "দেশের ৬৪ জেলার ভাতাভোগী সদস্য এবং চতুর্থ শ্রেণির কর্মচারীসহ মোট ২৯ হাজার ৩৭ জনের মধ্যে ঈদ উপহার সামগ্রী বিতরণ করা হয়।",
-        "image_url": "https://media.ndiganta.com/original_images/Ansar-VDP-12-3.jpg"
-      },
-      {
         "headline": "আহমেদ আযম খান মুক্তিযুদ্ধ মন্ত্রণালয় ও মীর হেলাল ভূমি মন্ত্রণালয়ের দায়িত্বে",
         "url": "https://dailynayadiganta.com/bangladesh/national/ShFxPbBjyPHG/",
         "published_at": null,
@@ -461,6 +475,35 @@
         "image_url": "https://media.ndiganta.com/original_images/Amir-Khasru_gpBEfZ2.jpg"
       },
       {
+        "headline": "আজকের সর্বশেষ খবর - March 13, 2026",
+        "url": "https://www.jugantor.com/latest",
+        "published_at": null,
+        "summary": "‎নাটোরের নলডাঙ্গায় নিয়মবহির্ভূতভাবে বিপুল পরিমাণ জ্বালানি তেল মজুত রাখার দায়ে এক ব্যবসায়ীকে ২০ হাজার টাকা জরিমানা করেছেন ভ্রাম্যমাণ আদালত। ...",
+        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+      },
+      {
+        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+        "published_at": null,
+        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ইরান যুদ্ধের কারণে ‘প্রতারিত’ বোধ করছেন ট্রাম্পের সমর্থকেরা",
+        "url": "https://www.prothomalo.com/world/usa/z6zlbboeiw",
+        "published_at": "2026-03-12T15:47:01.477000+00:00",
+        "summary": "ইরান যুদ্ধের কারণে ডোনাল্ড ট্রাম্পের ওপর ক্ষুব্ধ প্রভাবশালী পডকাস্টার জো রোগান। তিনি মনে করেন, যুদ্ধের এ সিদ্ধান্ত ট্রাম্পের সমর্থকদের সঙ্গে একধরনের বড় বিশ্বাসঘাতকতা।",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/gllo48y3/Joe-Rogan-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/gllo48y3/Joe-Rogan-1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আনসার-ভিডিপির ঈদ উপহার পেলেন ২৯ হাজার সদস্য ও কর্মচারী",
+        "url": "https://dailynayadiganta.com/economy/corporate/Fdn1Ttp2rbmh/",
+        "published_at": null,
+        "summary": "দেশের ৬৪ জেলার ভাতাভোগী সদস্য এবং চতুর্থ শ্রেণির কর্মচারীসহ মোট ২৯ হাজার ৩৭ জনের মধ্যে ঈদ উপহার সামগ্রী বিতরণ করা হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/Ansar-VDP-12-3.jpg"
+      },
+      {
         "headline": "বিলবোর্ড-ফেস্টুনে সৌন্দর্য নষ্ট না করতে সিসিক প্রশাসকের আহ্বান",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/ReoqQHQN7hIH/",
         "published_at": null,
@@ -473,20 +516,6 @@
         "published_at": null,
         "summary": "এ সময় তারা সুমনের শারীরিক অবস্থার খোঁজ নেন এবং প্রধানমন্ত্রীর পক্ষ থেকে সহমর্মিতার বার্তা পৌঁছে দেন। সেইসাথে চিকিৎসায় সহায়তাও করেন তারা।",
         "image_url": "https://media.ndiganta.com/original_images/sumon_ooRCImt.jpg"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর - March 13, 2026",
-        "url": "https://www.jugantor.com/latest",
-        "published_at": null,
-        "summary": "জ্বালানি তেলের দাম ব্যারেল ২০০ ডলার হওয়ার ‘সম্ভাবনা কম’ বলে মনে করছেন যুক্তরাষ্ট্রের জ্বালানিমন্ত্রী ক্রিস রাইট। ...",
-        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-      },
-      {
-        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-        "published_at": null,
-        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
       },
       {
         "headline": "হত্যা চেষ্টা থেকে বেঁচে গেলেন জম্মু-কাশ্মিরের ফারুক আব্দুল্লাহ",
@@ -1475,35 +1504,6 @@
         "summary": "বীর মুক্তিযোদ্ধা, ফুটবলার, এখন জাতীয় সংসদের স্পিকার হাফিজ উদ্দিন আহমদ",
         "image_s3_key": "prothomalo-bangla/2026-03-12/r0plph43/WEB.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/r0plph43/WEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "অস্ত্রের বলে বলীয়ান বিশ্বে জাপানের নতুন হিসাব-নিকাশ",
-        "url": "https://www.prothomalo.com/opinion/column/epujcui8c1",
-        "published_at": "2026-03-12T11:26:32.062000+00:00",
-        "summary": "৮১ বছর আগে মার্চ মাসের ১০ তারিখের শীতার্ত প্রত্যুষে জাপানের রাজধানী টোকিওর ওপর উড়ে এসেছিল মার্কিন বি-২৯ বোমারু বিমানের বিশাল এক বহর।",
-        "image_s3_key": "prothomalo-bangla/2022-12/e38d5a6b-dd48-4406-b350-bf6cc8418fa1/mmmmmmm.PNG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-12/e38d5a6b-dd48-4406-b350-bf6cc8418fa1/mmmmmmm.PNG?auto=format,compress"
-      },
-      {
-        "headline": "সাভারে অবৈধ স্থাপনা উচ্ছেদ, ফুটপাত দখলমুক্ত",
-        "url": "https://www.bd-pratidin.com/city-news/2026/03/12/1227399",
-        "published_at": "2026-03-12T19:27:55+06:00",
-        "summary": "আসন্ন ঈদুল ফিতর উপলক্ষে জনগণের চলাচল নির্বিঘ্ন করতে সাভার বাজার বাসস্ট্যান্ড এলাকায় অবৈধ স্থাপনা ও ফুটপাত দখলমুক্ত করতে উচ্ছেদ অভিযান চালিয়েছে উপজেলা প্রশাসন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773322073-9c88febe1a59538c527eb0e161cbe945.PNG"
-      },
-      {
-        "headline": "সিলেটে ছিনতাইয়ের বিরুদ্ধে পুলিশের সাঁড়াশি অভিযান",
-        "url": "https://www.bd-pratidin.com/chayer-desh/2026/03/12/1227398",
-        "published_at": "2026-03-12T19:26:54+06:00",
-        "summary": "ছিনতাইয়ের বিরুদ্ধে সাঁড়াশি অভিযানে নেমেছে সিলেট মেট্রোপলিটন পুলিশ (এসএমপি)। গত ২৪ ঘণ্টায় মহানগরীর বিভিন্ন স্থানে অভিযান চালিয়ে ছিনতাইকারী ও মাদক বিক্রেতাসহ বিভিন্ন অপরাধে জড়িত ৬৬ জনকে গ্রেফতার করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773322013-35871d97ae8baa19c6277f9144ac3751.jpg"
-      },
-      {
-        "headline": "চাঁদপুরে ভোক্তা অধিদপ্তরের অভিযানে ৪ প্রতিষ্ঠানকে জরিমানা",
-        "url": "https://www.bd-pratidin.com/country/2026/03/12/1227396",
-        "published_at": "2026-03-12T19:24:30+06:00",
-        "summary": "চাঁদপুরে জাতীয় ভোক্তা-অধিকার সংরক্ষণ অধিদপ্তরের অভিযানে চারটি প্রতিষ্ঠানকে মোট ১৭ হাজার টাকা জরিমানা করা হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773321869-126141a4375f97c410366ccaffe7e40f.PNG"
       }
     ],
     "bangladesh": [
@@ -3101,18 +3101,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-35-20260312133255.jpg"
       },
       {
-        "headline": "ভারতীয় হাইকমিশনের ইফতার মাহফিলে জামায়াত নেতৃবৃন্দ",
-        "url": "https://www.amarsangbad.com/politics/news/339761",
-        "published_at": "1772896011",
-        "summary": "ঢাকায় ভারতীয় হাইকমিশনের আয়োজিত ইফতার মাহফিলে অংশ নিয়েছেন বাংলাদেশ জামায়াতে ইসলামীর নেতারা। আজ শনিবার রাজধানীর একটি হোটেলে এই ইফতার মাহফিলের আয়োজন করা হয়।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-07T210640515-20260307150651.jpg"
-      },
-      {
         "headline": "গোলাম পরওয়ারইলেকশন ইঞ্জিনিয়ারিংয়ের রাজসাক্ষী রিজওয়ানা হাসান",
         "url": "https://www.amarsangbad.com/politics/news/339649",
         "published_at": "1772793775",
         "summary": "অন্তর্বর্তী সরকারের সাবেক উপদেষ্টা রিজওয়ানা হাসানকে ইলেকশন ইঞ্জিনিয়ারিংয়ের প্রত্যক্ষ রাজসাক্ষী হিসেবে উল্লেখ করেছেন জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ার।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-24-20260306104255.jpg"
+      },
+      {
+        "headline": "ভারতীয় হাইকমিশনের ইফতার মাহফিলে জামায়াত নেতৃবৃন্দ",
+        "url": "https://www.amarsangbad.com/politics/news/339761",
+        "published_at": "1772896011",
+        "summary": "ঢাকায় ভারতীয় হাইকমিশনের আয়োজিত ইফতার মাহফিলে অংশ নিয়েছেন বাংলাদেশ জামায়াতে ইসলামীর নেতারা। আজ শনিবার রাজধানীর একটি হোটেলে এই ইফতার মাহফিলের আয়োজন করা হয়।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-07T210640515-20260307150651.jpg"
       },
       {
         "headline": "নাসীরুদ্দীন পাটওয়ারীর বিরুদ্ধে মির্জা আব্বাসের মামলা",
@@ -4398,12 +4398,20 @@
     ],
     "world": [
       {
-        "headline": "মোজতবা খামেনিকে নেতানিয়াহুর হুমকি, শীর্ষ পরমাণু বিজ্ঞানীদের হত্যার দাবি",
+        "headline": "ইরাকের আকাশসীমায় যুক্তরাষ্ট্রের রিফুয়েলিং উড়োজাহাজ বিধ্বস্ত",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-12T20:54:08.578000+00:00",
+        "published_at": "2026-03-12T22:18:21.964000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
+      },
+      {
+        "headline": "নিখুঁত হামলা চালাতে ইরান কি চীনের বাইদু নেভিগেশন সিস্টেম ব্যবহার করছে",
+        "url": "https://www.prothomalo.com/world/middle-east/nshomz2izq",
+        "published_at": "2026-03-12T22:05:47.512000+00:00",
+        "summary": "ইসরায়েল ও মার্কিন স্থাপনায় নির্ভুল হামলা চালাতে ইরান সম্ভবত চীনের বাইদু নেভিগেশন সিস্টেম ব্যবহার করছে। এতে মার্কিন জিপিএস সিস্টেমের আধিপত্যের অবসান ঘটতে পারে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/nlqnllxg/beidou1.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/nlqnllxg/beidou1.jpeg?auto=format,compress"
       },
       {
         "headline": "তেলের দাম ব্যারেল ২০০ ডলার হওয়ার সম্ভাবনা কম: মার্কিন জ্বালানিমন্ত্রী",
@@ -4710,14 +4718,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/cg72rr9u/1.avif?auto=format,compress"
       },
       {
-        "headline": "ইরানে যুদ্ধে যেতে চান না অনেক মার্কিন সেনা",
-        "url": "https://www.prothomalo.com/world/middle-east/j97klxydnv",
-        "published_at": "2026-03-10T15:25:27.331000+00:00",
-        "summary": "গত সপ্তাহে মিডলইস্ট আই একটি প্রতিবেদনে বলেছিল, ইরানে বিশেষ বাহিনী পাঠানোর কথা ভাবছে যুক্তরাষ্ট্র, আরও বৃহত্তর সেনা মোতায়েনের সম্ভাবনা নিয়েও জল্পনা রয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-10/lkdyhele/US-soldiers.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/lkdyhele/US-soldiers.avif?auto=format,compress"
-      },
-      {
         "headline": "নিরাপদ আশ্রয়ের খোঁজে অন্যরা পালালেও মধ্যপ্রাচ্যে কাজে ফিরছেন বাংলাদেশিরা",
         "url": "https://www.bd-pratidin.com/national/2026/03/13/1227605",
         "published_at": "2026-03-13T01:58:26+06:00",
@@ -4802,6 +4802,13 @@
         "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "হরমুজ প্রণালীতে তেলবাহী ট্যাঙ্কার পাহারা দিতে কতটুকু প্রস্তুত মার্কিন নৌবাহিনী",
+        "url": "https://dailynayadiganta.com/international/asia/middle-east/iITtYpnlKJBE/",
+        "published_at": null,
+        "summary": "হোয়াইট হাউস নিশ্চিত করে যে, মার্কিন নৌবাহিনী হরমুজ প্রণালী দিয়ে কোনো ট্যাঙ্কার পাহারা দিয়ে নিয়ে যায়নি। এরপর এই খবরটি ছড়িয়ে পড়লে তেলের দাম আবারো বেড়ে যায়।",
+        "image_url": "https://media.ndiganta.com/original_images/Hormuz_tQZFmPG.jpg"
+      },
+      {
         "headline": "ছয় ঘণ্টা পর ইসরাইলে আবারো মিসাইল হামলা ইরানের",
         "url": "https://dailynayadiganta.com/international/asia/middle-east/5xiCpYJWgFem/",
         "published_at": null,
@@ -4821,13 +4828,6 @@
         "published_at": null,
         "summary": "বৃহস্পতিবার (১২ মার্চ) তেহরানে ফরাসি বার্তা সংস্থা এএফপিকে দেয়া এক সাক্ষাৎকারে ইরানের উপপররাষ্ট্রমন্ত্রী মাজিদ তখত-রাভানচি বলেন, “কিছু দেশ ইতোমধ্যে আমাদের সাথে যোগাযোগ করে হরমুজ প্রণালী দিয়ে তাদের জাহাজ চলাচলের বিষয়ে আলোচনা করেছে এবং আমরা তাদের সাথে সহযোগিতা করেছি।”",
         "image_url": "https://media.ndiganta.com/original_images/Iran-12-3.jpg"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্রের সবচেয়ে বড় রণতরী ইউএসএস জেরাল্ড ফোর্ডে আগুন, আহত ২",
-        "url": "https://dailynayadiganta.com/international/RpmEeVLuhjQ7/",
-        "published_at": null,
-        "summary": "যুক্তরাষ্ট্রের সেনাবাহিনীর সেন্ট্রাল কমান্ড দাবি করেছে, রণতরীতে লাগা আগুনের সাথে যুদ্ধের কোনো সম্পর্ক নেই।",
-        "image_url": "https://media.ndiganta.com/original_images/US-Fightership.jpg"
       },
       {
         "headline": "ভারতশাসিত কাশ্মিরের সাবেক মুখ্যমন্ত্রী ফারুক আবদুল্লাহকে হত্যাচেষ্টা",
@@ -4933,6 +4933,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ইরানে যুদ্ধে যেতে চান না অনেক মার্কিন সেনা",
+        "url": "https://www.prothomalo.com/world/middle-east/j97klxydnv",
+        "published_at": "2026-03-10T15:25:27.331000+00:00",
+        "summary": "গত সপ্তাহে মিডলইস্ট আই একটি প্রতিবেদনে বলেছিল, ইরানে বিশেষ বাহিনী পাঠানোর কথা ভাবছে যুক্তরাষ্ট্র, আরও বৃহত্তর সেনা মোতায়েনের সম্ভাবনা নিয়েও জল্পনা রয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-10/lkdyhele/US-soldiers.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/lkdyhele/US-soldiers.avif?auto=format,compress"
+      },
+      {
+        "headline": "যুক্তরাষ্ট্রের সবচেয়ে বড় রণতরী ইউএসএস জেরাল্ড ফোর্ডে আগুন, আহত ২",
+        "url": "https://dailynayadiganta.com/international/RpmEeVLuhjQ7/",
+        "published_at": null,
+        "summary": "যুক্তরাষ্ট্রের সেনাবাহিনীর সেন্ট্রাল কমান্ড দাবি করেছে, রণতরীতে লাগা আগুনের সাথে যুদ্ধের কোনো সম্পর্ক নেই।",
+        "image_url": "https://media.ndiganta.com/original_images/US-Fightership.jpg"
       },
       {
         "headline": "জাতির উদ্দেশে প্রথম ভাষণে যা বললেন ইরানের নতুন সর্বোচ্চ নেতা",
@@ -5840,21 +5855,6 @@
         "published_at": "2026-03-11T19:53:34+06:00",
         "summary": "ইসরাইল থেকে আনুষ্ঠানিকভাবে রাষ্ট্রদূত প্রত্যাহার করেছে স্পেন, যা দেশ দুটির কূটনৈতিক সম্পর্কের আরও অবনতির ইঙ্গিত দিচ্ছে। আজ বুধবার (১১ মার্চ) প্রকাশিত সরকারি গেজেটে এ তথ্য জানানো হয়।আল জাজিরারপ্রতিবেদনে এ তথ্য উঠে এসেছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773237213-51f48be693147ecab1047329fca2793f.jpg"
-      },
-      {
-        "headline": "ইরানের ড্রোন মোকাবিলা ও ইলেকট্রনিক ওয়ারফেয়ারে যুক্তরাষ্ট্রসহ ১১টি দেশ সহায়তা চেয়েছে: জেলেনস্কি",
-        "url": "https://www.prothomalo.com/world/europe/7anwi1ord6",
-        "published_at": "2026-03-09T18:35:32.928000+00:00",
-        "summary": "ইউক্রেনের প্রেসিডেন্ট আরও বলেন, ‘যারা আমাদের জনগণের জীবন এবং ইউক্রেনের স্বাধীনতা রক্ষায় সাহায্য করে, তাদের অনুরোধে ইতিবাচক সাড়া দিতে ইউক্রেন প্রস্তুত।’",
-        "image_s3_key": "prothomalo-bangla/2026-03-09/ey7ckoso/Zelensky.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/ey7ckoso/Zelensky.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ইরাকি প্রতিরোধ বাহিনীর হামলা : ১২ দিনে ১৩ আমেরিকান নিহত",
-        "url": "https://dailynayadiganta.com/international/asia/middle-east/lOaN7WD4A1TG/",
-        "published_at": null,
-        "summary": "ইরানের বিরুদ্ধে ইসরাইল এবং যুক্তরাষ্ট্রের আগ্রাসী যুদ্ধ শুরু হওয়ার পর থেকে তারা এখন পর্যন্ত মোট ২৯১টি অভিযান চালিয়েছে এবং তাতে কমপক্ষে ১৩ আমেরিকান নিহত হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/iran-usa_8Cac1RJ.jpg"
       }
     ],
     "business": [
@@ -9338,18 +9338,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitledtx---2026-03-11T133326785-20260311073400.jpg"
       },
       {
-        "headline": "টেইলর-রিহানার পাশে শাহরুখের নামবিশ্বসেরা ধনীদের কাতারে আবারও ‘কিং খান’",
-        "url": "https://www.amarsangbad.com/entertainment/news/340212",
-        "published_at": "1773304387",
-        "summary": "বলিউড বাদশা শাহরুখ খান কেবল রূপালি পর্দার সম্রাট নন, বৈশ্বিক ব্যবসার জগতেও তাঁর আধিপত্য এখন অবিসংবাদিত। ২০২৬ সালের ৫ মার্চ প্রকাশিত ‘হুরুন গ্লোবাল রিচ লিস্ট’ (Hurun Global Rich List) অনুযায়ী, শাহরুখ খান আবারও বিশ্বের অন্যতম শীর্ষ ধনীদের তালিকায় নিজের অবস্থান সুসংহত করেছেন।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-12T143250714-20260312083307.jpg"
-      },
-      {
         "headline": "ধর্ষণ মামলায় জামিন পেলেন হিরো আলম",
         "url": "https://www.amarsangbad.com/entertainment/news/340225",
         "published_at": "1773309176",
         "summary": "বিয়ের আশ্বাসে ধর্ষণ, শারীরিক নির্যাতন ও গর্ভপাতের অভিযোগে করা মামলায় জামিন পেয়েছেন আলোচিত কনটেন্ট ক্রিয়েটর আশরাফুল আলম ওরফে হিরো আলম। বুধবার বিকেলে আদালত তার জামিন মঞ্জুর করেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-10-20260312095256.jpg"
+      },
+      {
+        "headline": "টেইলর-রিহানার পাশে শাহরুখের নামবিশ্বসেরা ধনীদের কাতারে আবারও ‘কিং খান’",
+        "url": "https://www.amarsangbad.com/entertainment/news/340212",
+        "published_at": "1773304387",
+        "summary": "বলিউড বাদশা শাহরুখ খান কেবল রূপালি পর্দার সম্রাট নন, বৈশ্বিক ব্যবসার জগতেও তাঁর আধিপত্য এখন অবিসংবাদিত। ২০২৬ সালের ৫ মার্চ প্রকাশিত ‘হুরুন গ্লোবাল রিচ লিস্ট’ (Hurun Global Rich List) অনুযায়ী, শাহরুখ খান আবারও বিশ্বের অন্যতম শীর্ষ ধনীদের তালিকায় নিজের অবস্থান সুসংহত করেছেন।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-12T143250714-20260312083307.jpg"
       },
       {
         "headline": "‘প্রিন্স’ টিজারে গ্যাংস্টার লুকে বুলেটের বৃষ্টি ঝরালেন শাকিব খান",
@@ -16076,18 +16076,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitledtx-(65)-20260309141201.jpg"
       },
       {
-        "headline": "জবি উপাচার্য ও প্রক্টরের পদত্যাগ দাবিতে ছাত্রদলের ভিসি ভবন ঘেরাও",
-        "url": "https://www.amarsangbad.com/education/news/339829",
-        "published_at": "1772967915",
-        "summary": "জগন্নাথ বিশ্ববিদ্যালয় (জবি) সাংবাদিক সমিতির নির্বাচনে সাংবাদিকদের ওপর হামলার ঘটনায় প্রশাসনের পক্ষপাতমূলক আচরণের অভিযোগ তুলে উপাচার্য ভবন ঘেরাও করে বিক্ষোভ করেছে শাখা ছাত্রদল।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-17-20260308110515.jpg"
-      },
-      {
         "headline": "ঢাবিতে আজ থেকেই ঈদের ছুটি শুরু",
         "url": "https://www.amarsangbad.com/education/news/339878",
         "published_at": "1773033022",
         "summary": "শিক্ষা মন্ত্রণালয়ের বিশেষ নির্দেশনার পরিপ্রেক্ষিতে আজ সোমবার (০৯ মার্চ) থেকে পবিত্র ঈদুল ফিতরের ছুটি পর্যন্ত ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) সকল ক্লাস ও পরীক্ষা বন্ধ ঘোষণা করা হয়েছে। রোববার রাতে বিশ্ববিদ্যালয়ের এক জরুরি সভায় এই সিদ্ধান্ত গ্রহণ করা হয়।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-5-20260309051022.jpg"
+      },
+      {
+        "headline": "জবি উপাচার্য ও প্রক্টরের পদত্যাগ দাবিতে ছাত্রদলের ভিসি ভবন ঘেরাও",
+        "url": "https://www.amarsangbad.com/education/news/339829",
+        "published_at": "1772967915",
+        "summary": "জগন্নাথ বিশ্ববিদ্যালয় (জবি) সাংবাদিক সমিতির নির্বাচনে সাংবাদিকদের ওপর হামলার ঘটনায় প্রশাসনের পক্ষপাতমূলক আচরণের অভিযোগ তুলে উপাচার্য ভবন ঘেরাও করে বিক্ষোভ করেছে শাখা ছাত্রদল।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-17-20260308110515.jpg"
       },
       {
         "headline": "ঢাবিতে পাইকগাছা ছাত্রকল্যাণ সমিতির দোয়া ও ইফতার মাহফিল অনুষ্ঠিত",

@@ -1,13 +1,21 @@
 {
-  "fetched_at": "2026-03-12T21:41:16.871948+00:00",
+  "fetched_at": "2026-03-12T22:22:59.108011+00:00",
   "stories": [
     {
-      "headline": "মোজতবা খামেনিকে নেতানিয়াহুর হুমকি, শীর্ষ পরমাণু বিজ্ঞানীদের হত্যার দাবি",
+      "headline": "ইরাকের আকাশসীমায় যুক্তরাষ্ট্রের রিফুয়েলিং উড়োজাহাজ বিধ্বস্ত",
       "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-      "published_at": "2026-03-12T20:54:08.578000+00:00",
+      "published_at": "2026-03-12T22:18:21.964000+00:00",
       "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
       "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
+    },
+    {
+      "headline": "নিখুঁত হামলা চালাতে ইরান কি চীনের বাইদু নেভিগেশন সিস্টেম ব্যবহার করছে",
+      "url": "https://www.prothomalo.com/world/middle-east/nshomz2izq",
+      "published_at": "2026-03-12T22:05:47.512000+00:00",
+      "summary": "ইসরায়েল ও মার্কিন স্থাপনায় নির্ভুল হামলা চালাতে ইরান সম্ভবত চীনের বাইদু নেভিগেশন সিস্টেম ব্যবহার করছে। এতে মার্কিন জিপিএস সিস্টেমের আধিপত্যের অবসান ঘটতে পারে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-12/nlqnllxg/beidou1.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/nlqnllxg/beidou1.jpeg?auto=format,compress"
     },
     {
       "headline": "সুন্দরবনে অস্ত্রসহ দস্যু ‘করিম শরীফ বাহিনী’র সদস্য আটক",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-07-30/iv66lqmw/Police.avif?auto=format,compress"
     },
     {
-      "headline": "ইরান যুদ্ধের কারণে ‘প্রতারিত’ বোধ করছেন ট্রাম্পের সমর্থকেরা",
-      "url": "https://www.prothomalo.com/world/usa/z6zlbboeiw",
-      "published_at": "2026-03-12T15:47:01.477000+00:00",
-      "summary": "ইরান যুদ্ধের কারণে ডোনাল্ড ট্রাম্পের ওপর ক্ষুব্ধ প্রভাবশালী পডকাস্টার জো রোগান। তিনি মনে করেন, যুদ্ধের এ সিদ্ধান্ত ট্রাম্পের সমর্থকদের সঙ্গে একধরনের বড় বিশ্বাসঘাতকতা।",
-      "image_s3_key": "prothomalo-bangla/2026-03-12/gllo48y3/Joe-Rogan-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/gllo48y3/Joe-Rogan-1.jpg?auto=format,compress"
-    },
-    {
       "headline": "নিরাপদ আশ্রয়ের খোঁজে অন্যরা পালালেও মধ্যপ্রাচ্যে কাজে ফিরছেন বাংলাদেশিরা",
       "url": "https://www.bd-pratidin.com/national/2026/03/13/1227605",
       "published_at": "2026-03-13T01:58:26+06:00",
@@ -390,6 +390,27 @@
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "রংপুরের মডার্ন মোড়ে পুলিশের সাব-কন্ট্রোল রুম চালু",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/nysaReg6Z1V9/",
+      "published_at": null,
+      "summary": "বৃহস্পতিবার বিকেল ৪টার দিকে নগরীর মডার্ন মোড়ে এই সার্ভিস চালু হয়। উদ্বোধন করেন মহানগর পুলিশ কমিশনার মজিদ আলী।",
+      "image_url": "https://media.ndiganta.com/original_images/Rangpur-control-room-1.jpg"
+    },
+    {
+      "headline": "নওগাঁয় বজ্রপাতে ২ কৃষকের মৃত্যু",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/cMkNudJQKn9N/",
+      "published_at": null,
+      "summary": "বৃষ্টির মধ্যে বাড়ির পাশে একটি বিলে ক্ষেত পরিচর্যা করতে যান কৃষক জালাল উদ্দীন। এ সময় হঠাৎ বজ্রপাত হলে ঘটনাস্থলেই তার মৃত্যু হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Thunderstiked-to-Death_6Mzxt4Q.jpg"
+    },
+    {
+      "headline": "হরমুজ প্রণালীতে তেলবাহী ট্যাঙ্কার পাহারা দিতে কতটুকু প্রস্তুত মার্কিন নৌবাহিনী",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/iITtYpnlKJBE/",
+      "published_at": null,
+      "summary": "হোয়াইট হাউস নিশ্চিত করে যে, মার্কিন নৌবাহিনী হরমুজ প্রণালী দিয়ে কোনো ট্যাঙ্কার পাহারা দিয়ে নিয়ে যায়নি। এরপর এই খবরটি ছড়িয়ে পড়লে তেলের দাম আবারো বেড়ে যায়।",
+      "image_url": "https://media.ndiganta.com/original_images/Hormuz_tQZFmPG.jpg"
+    },
+    {
       "headline": "ছয় ঘণ্টা পর ইসরাইলে আবারো মিসাইল হামলা ইরানের",
       "url": "https://dailynayadiganta.com/international/asia/middle-east/5xiCpYJWgFem/",
       "published_at": null,
@@ -425,13 +446,6 @@
       "image_url": "https://media.ndiganta.com/original_images/Jhalakathi-12-3.jpg"
     },
     {
-      "headline": "আনসার-ভিডিপির ঈদ উপহার পেলেন ২৯ হাজার সদস্য ও কর্মচারী",
-      "url": "https://dailynayadiganta.com/economy/corporate/Fdn1Ttp2rbmh/",
-      "published_at": null,
-      "summary": "দেশের ৬৪ জেলার ভাতাভোগী সদস্য এবং চতুর্থ শ্রেণির কর্মচারীসহ মোট ২৯ হাজার ৩৭ জনের মধ্যে ঈদ উপহার সামগ্রী বিতরণ করা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Ansar-VDP-12-3.jpg"
-    },
-    {
       "headline": "আহমেদ আযম খান মুক্তিযুদ্ধ মন্ত্রণালয় ও মীর হেলাল ভূমি মন্ত্রণালয়ের দায়িত্বে",
       "url": "https://dailynayadiganta.com/bangladesh/national/ShFxPbBjyPHG/",
       "published_at": null,
@@ -460,6 +474,35 @@
       "image_url": "https://media.ndiganta.com/original_images/Amir-Khasru_gpBEfZ2.jpg"
     },
     {
+      "headline": "আজকের সর্বশেষ খবর - March 13, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "‎নাটোরের নলডাঙ্গায় নিয়মবহির্ভূতভাবে বিপুল পরিমাণ জ্বালানি তেল মজুত রাখার দায়ে এক ব্যবসায়ীকে ২০ হাজার টাকা জরিমানা করেছেন ভ্রাম্যমাণ আদালত। ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ইরান যুদ্ধের কারণে ‘প্রতারিত’ বোধ করছেন ট্রাম্পের সমর্থকেরা",
+      "url": "https://www.prothomalo.com/world/usa/z6zlbboeiw",
+      "published_at": "2026-03-12T15:47:01.477000+00:00",
+      "summary": "ইরান যুদ্ধের কারণে ডোনাল্ড ট্রাম্পের ওপর ক্ষুব্ধ প্রভাবশালী পডকাস্টার জো রোগান। তিনি মনে করেন, যুদ্ধের এ সিদ্ধান্ত ট্রাম্পের সমর্থকদের সঙ্গে একধরনের বড় বিশ্বাসঘাতকতা।",
+      "image_s3_key": "prothomalo-bangla/2026-03-12/gllo48y3/Joe-Rogan-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/gllo48y3/Joe-Rogan-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আনসার-ভিডিপির ঈদ উপহার পেলেন ২৯ হাজার সদস্য ও কর্মচারী",
+      "url": "https://dailynayadiganta.com/economy/corporate/Fdn1Ttp2rbmh/",
+      "published_at": null,
+      "summary": "দেশের ৬৪ জেলার ভাতাভোগী সদস্য এবং চতুর্থ শ্রেণির কর্মচারীসহ মোট ২৯ হাজার ৩৭ জনের মধ্যে ঈদ উপহার সামগ্রী বিতরণ করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Ansar-VDP-12-3.jpg"
+    },
+    {
       "headline": "বিলবোর্ড-ফেস্টুনে সৌন্দর্য নষ্ট না করতে সিসিক প্রশাসকের আহ্বান",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/ReoqQHQN7hIH/",
       "published_at": null,
@@ -472,20 +515,6 @@
       "published_at": null,
       "summary": "এ সময় তারা সুমনের শারীরিক অবস্থার খোঁজ নেন এবং প্রধানমন্ত্রীর পক্ষ থেকে সহমর্মিতার বার্তা পৌঁছে দেন। সেইসাথে চিকিৎসায় সহায়তাও করেন তারা।",
       "image_url": "https://media.ndiganta.com/original_images/sumon_ooRCImt.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 13, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "জ্বালানি তেলের দাম ব্যারেল ২০০ ডলার হওয়ার ‘সম্ভাবনা কম’ বলে মনে করছেন যুক্তরাষ্ট্রের জ্বালানিমন্ত্রী ক্রিস রাইট। ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "হত্যা চেষ্টা থেকে বেঁচে গেলেন জম্মু-কাশ্মিরের ফারুক আব্দুল্লাহ",
@@ -1474,35 +1503,6 @@
       "summary": "বীর মুক্তিযোদ্ধা, ফুটবলার, এখন জাতীয় সংসদের স্পিকার হাফিজ উদ্দিন আহমদ",
       "image_s3_key": "prothomalo-bangla/2026-03-12/r0plph43/WEB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/r0plph43/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "অস্ত্রের বলে বলীয়ান বিশ্বে জাপানের নতুন হিসাব-নিকাশ",
-      "url": "https://www.prothomalo.com/opinion/column/epujcui8c1",
-      "published_at": "2026-03-12T11:26:32.062000+00:00",
-      "summary": "৮১ বছর আগে মার্চ মাসের ১০ তারিখের শীতার্ত প্রত্যুষে জাপানের রাজধানী টোকিওর ওপর উড়ে এসেছিল মার্কিন বি-২৯ বোমারু বিমানের বিশাল এক বহর।",
-      "image_s3_key": "prothomalo-bangla/2022-12/e38d5a6b-dd48-4406-b350-bf6cc8418fa1/mmmmmmm.PNG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-12/e38d5a6b-dd48-4406-b350-bf6cc8418fa1/mmmmmmm.PNG?auto=format,compress"
-    },
-    {
-      "headline": "সাভারে অবৈধ স্থাপনা উচ্ছেদ, ফুটপাত দখলমুক্ত",
-      "url": "https://www.bd-pratidin.com/city-news/2026/03/12/1227399",
-      "published_at": "2026-03-12T19:27:55+06:00",
-      "summary": "আসন্ন ঈদুল ফিতর উপলক্ষে জনগণের চলাচল নির্বিঘ্ন করতে সাভার বাজার বাসস্ট্যান্ড এলাকায় অবৈধ স্থাপনা ও ফুটপাত দখলমুক্ত করতে উচ্ছেদ অভিযান চালিয়েছে উপজেলা প্রশাসন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773322073-9c88febe1a59538c527eb0e161cbe945.PNG"
-    },
-    {
-      "headline": "সিলেটে ছিনতাইয়ের বিরুদ্ধে পুলিশের সাঁড়াশি অভিযান",
-      "url": "https://www.bd-pratidin.com/chayer-desh/2026/03/12/1227398",
-      "published_at": "2026-03-12T19:26:54+06:00",
-      "summary": "ছিনতাইয়ের বিরুদ্ধে সাঁড়াশি অভিযানে নেমেছে সিলেট মেট্রোপলিটন পুলিশ (এসএমপি)। গত ২৪ ঘণ্টায় মহানগরীর বিভিন্ন স্থানে অভিযান চালিয়ে ছিনতাইকারী ও মাদক বিক্রেতাসহ বিভিন্ন অপরাধে জড়িত ৬৬ জনকে গ্রেফতার করা হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773322013-35871d97ae8baa19c6277f9144ac3751.jpg"
-    },
-    {
-      "headline": "চাঁদপুরে ভোক্তা অধিদপ্তরের অভিযানে ৪ প্রতিষ্ঠানকে জরিমানা",
-      "url": "https://www.bd-pratidin.com/country/2026/03/12/1227396",
-      "published_at": "2026-03-12T19:24:30+06:00",
-      "summary": "চাঁদপুরে জাতীয় ভোক্তা-অধিকার সংরক্ষণ অধিদপ্তরের অভিযানে চারটি প্রতিষ্ঠানকে মোট ১৭ হাজার টাকা জরিমানা করা হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773321869-126141a4375f97c410366ccaffe7e40f.PNG"
     }
   ]
 }
