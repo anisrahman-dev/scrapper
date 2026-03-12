@@ -1,13 +1,101 @@
 {
-  "fetched_at": "2026-03-12T07:33:11.064301+00:00",
+  "fetched_at": "2026-03-12T08:07:31.823763+00:00",
   "stories": [
     {
-      "headline": "বিরতির আগে স্পিকারের মাইকে গোলযোগ",
+      "headline": "সোনার দাম ভরিতে কমেছে ৩,৩২৪ টাকা",
+      "url": "https://www.prothomalo.com/business/industry/9fkmrjlp4v",
+      "published_at": "2026-03-12T08:00:34.900000+00:00",
+      "summary": "ভালো মানের এক ভরি সোনার দাম কমে হয়েছে ২ লাখ ৬৭ হাজার টাকা।",
+      "image_s3_key": "prothomalo-bangla/2024-10-20/zj9aw2i8/720e0420-01e3-4fea-865b-55ca7aa70335.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-10-20/zj9aw2i8/720e0420-01e3-4fea-865b-55ca7aa70335.jfif?auto=format,compress"
+    },
+    {
+      "headline": "প্রথম অধিবেশনে মাইকে গোলযোগ, স্পিকার বললেন সংসদ অভ্যস্ত নয় ",
+      "url": "https://www.prothomalo.com/video/bangladesh/vrnhs9h9vy",
+      "published_at": "2026-03-12T08:00:14.516000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-12/dba2891r/Web.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/dba2891r/Web.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইরানের ভূগর্ভে হামলা চালাতে বি-১ বোমারু বিমান মারণাস্ত্রে সাজাচ্ছে যুক্তরাষ্ট্র",
+      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+      "published_at": "2026-03-12T07:55:57.876000+00:00",
+      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আপনি লড়াকু মুক্তিযোদ্ধা, আপনি পারবেন: স্পিকারকে বললেন বিরোধী নেতা ",
       "url": "https://www.prothomalo.com/politics/mktlwvtdjy",
-      "published_at": "2026-03-12T07:27:04.573000+00:00",
+      "published_at": "2026-03-12T07:55:09.245000+00:00",
       "summary": " বেলা ১১টার কিছু পরে স্পিকারের চেয়ার খালি রেখে সংসদ অধিবেশনের কার্যক্রম শুরু হয়। ",
       "image_s3_key": "prothomalo-bangla/2026-03-11/gs3pjo8h/Capture.PNG",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/gs3pjo8h/Capture.PNG?auto=format,compress"
+    },
+    {
+      "headline": "মডেলিং এজেন্ট ব্যবহার করে কীভাবে মেয়েদের ফাঁদে ফেলতেন এপস্টিন",
+      "url": "https://www.prothomalo.com/world/qinck7qvam",
+      "published_at": "2026-03-12T07:48:29.938000+00:00",
+      "summary": "এপস্টিনের সঙ্গে প্রায় চার মাস আনা যুক্তরাষ্ট্র ও ফ্রান্সে কাটান। তিনি এপস্টিনের ব্যক্তিগত দ্বীপেও গিয়েছিলেন। তিনি জানান, ব্রুনাল সব সময় তাঁকে ‘নেকড়ের মতো রাক্ষুসে দৃষ্টিতে’ দেখতেন।",
+      "image_s3_key": "prothomalo-bangla/2026-02-09/4ait10xd/Baby-2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-09/4ait10xd/Baby-2.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইরাকের সব জ্বালানি বন্দরের কার্যক্রম পুরোপুরি বন্ধ",
+      "url": "https://www.prothomalo.com/video/international/fxdxm0p3y1",
+      "published_at": "2026-03-12T07:43:12.486000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-12/ad365prt/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/ad365prt/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রের তদন্তে বাংলাদেশের নাম আসাটা অস্বস্তির, তাৎক্ষণিক প্রতিক্রিয়ায় বিজিএমইএ সভাপতি",
+      "url": "https://www.prothomalo.com/business/economics/uu79vvai8n",
+      "published_at": "2026-03-12T07:39:41.758000+00:00",
+      "summary": " উৎপাদন খাতে অতিরিক্ত সক্ষমতা ও অতিরিক্ত উৎপাদন করা হচ্ছে কি না, তা খতিয়ে দেখতে বাংলাদেশসহ বিশ্বের ১৬টি দেশের বিরুদ্ধে তদন্ত শুরু করেছে যুক্তরাষ্ট্র।",
+      "image_s3_key": "prothomalo-bangla/2026-01-02/949cjnjx/জাতীয়-সংসদ-নির্বাচন—মাহমুদ-হাসান-খান-সভাপতি-বিজিএমইএ.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-02/949cjnjx/জাতীয়-সংসদ-নির্বাচন—মাহমুদ-হাসান-খান-সভাপতি-বিজিএমইএ.jpg?auto=format,compress"
+    },
+    {
+      "headline": "স্পিকার হাফিজ উদ্দিন আহমদকে অভিনন্দন চীনের",
+      "url": "https://www.prothomalo.com/bangladesh/q0duikgno8",
+      "published_at": "2026-03-12T07:36:36.426000+00:00",
+      "summary": "চীনের জাতীয় গণকংগ্রেসের স্থায়ী কমিটির চেয়ারম্যান ঝাও লেজি স্পিকার হাফিজ উদ্দিন আহমদকে অভিনন্দন জানিয়ে চীন–বাংলাদেশ সম্পর্ক ও কৌশলগত সহযোগিতা আরও উন্নয়নের ইচ্ছা প্রকাশ করেছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-12/gf413jhr/00-5.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/gf413jhr/00-5.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ফাল্গুনের বৃষ্টি স্বস্তি হয়ে ঝরল নওগাঁয়, চাষিরা খুশি",
+      "url": "https://www.prothomalo.com/bangladesh/district/9cpc7dmop7",
+      "published_at": "2026-03-12T07:35:38.079000+00:00",
+      "summary": "আমের মুকুল আসার পর থেকে অনাবৃষ্টি ও খরায় দুশ্চিন্তায় ছিলেন নওগাঁর আম ও বোরো চাষিরা। অপেক্ষা শেষে ফাল্গুনের বৃষ্টি তাঁদের কিছুটা স্বস্তি এনে দিয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-12/8xrrd9q0/NaogaonDH061920260312IMG20260312094627.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/8xrrd9q0/NaogaonDH061920260312IMG20260312094627.jpg?auto=format,compress"
+    },
+    {
+      "headline": "১ গানের জন্য ৩০ লাখ টাকা! শ্রেয়া ঘোষাল কত টাকার মালিক",
+      "url": "https://www.prothomalo.com/entertainment/song/fg8kizgcg8",
+      "published_at": "2026-03-12T07:30:00+00:00",
+      "summary": "ভারতের বর্তমান সংগীতজগতে যাঁদের কণ্ঠ শুনলেই আলাদা করে চিনে নেওয়া যায়, তাঁদের মধ্যে অন্যতম শ্রেয়া ঘোষাল। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-12/ky54clej/shreyaghoshal1772256941384228767237050213518240208.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/ky54clej/shreyaghoshal1772256941384228767237050213518240208.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ওমানের সালালাহ বন্দরে তেল স্থাপনায় ড্রোন হামলা",
+      "url": "https://www.prothomalo.com/video/international/k0ytnxdzko",
+      "published_at": "2026-03-12T07:28:41.251000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-12/hsy51cpy/YT-GFX.00045116.Still025.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/hsy51cpy/YT-GFX.00045116.Still025.jpg?auto=format,compress"
+    },
+    {
+      "headline": "আজ শুরু ‘প্রাইম ব্যাংক অর্থনীতি-অনর্থনীতি’",
+      "url": "https://www.prothomalo.com/business/economics/yk326ibhn6",
+      "published_at": "2026-03-12T07:28:15.987000+00:00",
+      "summary": "প্রথম আলোর হেড অব অনলাইন সাংবাদিক শওকত হোসেনের বিশ্লেষণ ও উপস্থাপনায় প্রতি বৃহস্পতিবার রাত ৯টায় এ কনটেন্ট প্রচারিত হবে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-12/yqhlw4w9/WhatsApp-Image-2026-03-12-at-1.09.14-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/yqhlw4w9/WhatsApp-Image-2026-03-12-at-1.09.14-PM.jpeg?auto=format,compress"
     },
     {
       "headline": "মেট্রোরেলে চাকরির সুযোগ, পদ ৮",
@@ -88,14 +176,6 @@
       "summary": "এমসিজিতে ১৮৭৭ সালে এই মার্চেই (১৫ থেকে ১৯ মার্চ) অনুষ্ঠিত হয়েছিল টেস্ট ক্রিকেটের প্রথম ম্যাচ। আগামী বছর তার ১৫০ বছর পূর্তি উদ্‌যাপন করা হবে এখানেই।",
       "image_s3_key": "prothomalo-bangla/2022-11/1ff39fdf-8bc1-4fbf-8d88-1ceac03ed6b9/312726857_10159188365856570_6961601421012311791_n.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-11/1ff39fdf-8bc1-4fbf-8d88-1ceac03ed6b9/312726857_10159188365856570_6961601421012311791_n.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ইরানি নেতৃত্ব ভেঙে পড়ার কোনো ঝুঁকি নেই: মার্কিন গোয়েন্দা প্রতিবেদন",
-      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-      "published_at": "2026-03-12T06:55:40.865000+00:00",
-      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
     },
     {
       "headline": "ত্রয়োদশ সংসদের সভাপতি খন্দকার মোশাররফ হোসেন",
@@ -242,6 +322,195 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/wprvfgcy/212233-hxtvophpmb-1772387826.jpg?auto=format,compress"
     },
     {
+      "headline": "নারায়ণগঞ্জে বকেয়া বেতনের দাবিতে সড়ক অবরোধ",
+      "url": "https://www.bd-pratidin.com/city-news/2026/03/12/1227282",
+      "published_at": "2026-03-12T13:53:27+06:00",
+      "summary": "নারায়ণগঞ্জের ফতুল্লার গাবতলী এলাকায় বকেয়া বেতন, ওভারটাইম ও বোনাসের দাবিতে সড়ক অবরোধ করে বিক্ষোভ করেছে গার্মেন্টস শ্রমিকরা।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773302006-390051acc73e39be737f7d4f058d3e05.jpg"
+    },
+    {
+      "headline": "ভরাট ও দখল–দূষণে মৃতপ্রায় হাওরের খাল, সেচ সংকটে কৃষকেরা",
+      "url": "https://www.bd-pratidin.com/chayer-desh/2026/03/12/1227279",
+      "published_at": "2026-03-12T13:49:09+06:00",
+      "summary": "মৌলভীবাজার সদর ও রাজনগর উপজেলায় অবস্থিত হাওর কাউয়াদীঘি। হাওরে ছোট বড় প্রায় ২০টি খাল ও ছড়া রয়েছে। খালগুলো এখন মৃতপ্রায়। নাব্যতা সংকট, ভরাট, দখল, দূষণ ও অবহেলায় হাওরের খালগুলো অস্তিত্ব টিকিয়ে রাখাই এখন কঠিন হয়ে পড়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773301748-f1d50d5b12980f6983c5f9a204c5280c.jpg"
+    },
+    {
+      "headline": "বগুড়ায় সাংবাদিক রউফ জালালের ইন্তেকাল",
+      "url": "https://www.bd-pratidin.com/country/2026/03/12/1227276",
+      "published_at": "2026-03-12T13:41:37+06:00",
+      "summary": "চ্যানেল আইয়ের বগুড়া প্রতিনিধি রউফ জালাল মারা গেছেন (ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন)। তিনি বুধবার (১১ মার্চ) দিবাগত রাত ৩টার দিকে বগুড়া শহরের সূত্রাপুর এলাকায় নিজ ভাড়া বাসায় শেষ নিঃশ্বাস ত্যাগ করেন। মৃত্যুকালে তার বয়স হয়েছিল ৭০ বছর। তিনি দীর্ঘদিন ধরে অসুস্থ ছিলেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773301296-329acacc667bce063b0f114ed4662837.jpg"
+    },
+    {
+      "headline": "ইরান যুদ্ধে ছয় দিনে আমেরিকার খরচ ১১ বিলিয়ন ডলারের বেশি: ট্রাম্প প্রশাসন",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227274",
+      "published_at": "2026-03-12T13:07:51+06:00",
+      "summary": "গত ২৮ ফেব্রুয়ারি ইরানের ওপর যৌথভাবে বিমান হামলা শুরু করে যুক্তরাষ্ট্র ও ইসরায়েল। জবাবে তৎক্ষণাৎ পাল্টা হামলা শুরু ইরানও। এখনও ইসরায়েল ও মধ্যপ্রাচ্যের বিভিন্ন দেশে মার্কিন স্বার্থ সংশ্লিষ্ট স্থাপনায় হামলা চালাচ্ছে তেহরান। ইরানি হামলার শিকার হয়েছে-কাতার, বাহরাইন, ওমান, সংযুক্ত আরব আমিরাত, কুয়েত ও সৌদি আরব। এতে অগ্নিগর্ভে পরিণত হয়েছে মধ্যপ্রাচ্যের উপসাগরীয় অঞ্চল।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773299270-917a4601e741143401cdeaf71ece3ada.jpg"
+    },
+    {
+      "headline": "অসহায় স্বীকারোক্তি, গোপনে পরাজয় মেনে নিল ইসরায়েল?",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227244",
+      "published_at": "2026-03-12T10:46:24+06:00",
+      "summary": "চলমান যুদ্ধের মাধ্যমে ইরানের ধর্মীয় নেতৃত্বাধীন সরকারের পতন ঘটাবে-এমন কোনও নিশ্চয়তা নেই। পর্দার আড়ালে ইসরায়েলি কর্মকর্তারা এই বাস্তবতা স্বীকার করে নিয়েছেন। একজন জ্যেষ্ঠ ইসরায়েলি কর্মকর্তা ব্রিটিশ বার্তাসংস্থা রয়টার্সকে এ তথ্য জানিয়েছেন। একই সঙ্গে ইরানে চলমান বোমাবর্ষণের মধ্যেও কোনও গণঅভ্যুত্থানের লক্ষণ দেখা যাচ্ছে না বলেও উল্লেখ করেন তিনি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773290783-b10c4c2fb2e0252719a5528bed28871f.jpg"
+    },
+    {
+      "headline": "আমিরাত কারো সহজ শিকার নয়, প্রেসিডেন্ট আল নাহিয়ানের হুঁশিয়ারি",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227222",
+      "published_at": "2026-03-12T08:42:02+06:00",
+      "summary": "মধ্যপ্রাচ্যে যুদ্ধ ছড়িয়ে পড়ার পরিপ্রেক্ষিতে প্রথমবারের মতো মুখ খুলেছেন সংযুক্ত আরব আমিরাতের (ইউএই) প্রেসিডেন্ট শেখ মোহাম্মদ বিন জায়েদ আল নাহিয়ান। ইরানকে ইঙ্গিত করে তিনি বলেছেন, সংযুক্ত আরব আমিরাতের চামড়া পুরু এবং মাংস তিতা— আমরা সহজ শিকার নই।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773283320-0b9163d73d8bb368db682a04a8ebb848.jpg"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রের বিখ্যাত প্রতিষ্ঠানে সাইবার হামলার দাবি ইরানি হ্যাকারদের, বিশ্বজুড়ে পরিষেবা ব্যাহত",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227206",
+      "published_at": "2026-03-12T02:25:48+06:00",
+      "summary": "ইরান ও ইসরায়েলের মধ্যে চলমান সামরিক উত্তেজনার আঁচ এবার লাগল সাইবার জগতেও। গত মাসে ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের বিমান হামলা শুরুর পর প্রথমবারের মতো বড় কোনো মার্কিন অবকাঠামোয় সাইবার হামলার দাবি করেছে ইরানপন্থী হ্যাকাররা।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773260747-0d40bb7ae83f974d558d659c20876c94.jpg"
+    },
+    {
+      "headline": "ইরানে সরকার পতন হচ্ছে না, ‘হার মেনে নিয়েছে’ ইসরায়েল: রয়টার্সের প্রতিবেদন",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227204",
+      "published_at": "2026-03-12T01:54:12+06:00",
+      "summary": "ইরানের ধর্মীয় নেতৃত্বাধীন সরকারকে সামরিক শক্তির জোরে উৎখাত করা সম্ভব—এমন দৃঢ় অবস্থান থেকে এবার পিছু হটতে শুরু করেছে ইসরায়েল। যুদ্ধের মাধ্যমে দেশটিতে সরকার পরিবর্তনের যে লক্ষ্য তেল আবিব ও ওয়াশিংটন নির্ধারণ করেছিল, বাস্তবে তার প্রতিফলন না ঘটায় পর্দার আড়ালে নিজেদের ‘অসহায়ত্ব’ স্বীকার করে নিচ্ছেন ইসরায়েলি কর্মকর্তারা।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773258851-0d40bb7ae83f974d558d659c20876c94.jpg"
+    },
+    {
+      "headline": "দুবাইয়ের বাসিন্দাদের খোলা জায়গা ও দরজা-জানালা থেকে দূরে থাকার নির্দেশ",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227187",
+      "published_at": "2026-03-12T00:59:51+06:00",
+      "summary": "মধ্যপ্রাচ্যে ক্রমবর্ধমান উত্তেজনার প্রেক্ষাপটে সংযুক্ত আরব আমিরাতের দুবাইয়ে সর্বোচ্চ সতর্কতা বা হাই অ্যালার্ট জারি করা হয়েছে। ইরান থেকে ধেয়ে আসা ক্ষেপণাস্ত্র ও ড্রোন হামলার আশঙ্কায় দেশটির প্রতিরক্ষা মন্ত্রণালয় এক জরুরি বার্তায় বাসিন্দাদের নিরাপদ আশ্রয়ে থাকার আহ্বান জানিয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773255590-0d40bb7ae83f974d558d659c20876c94.jpg"
+    },
+    {
+      "headline": "খণ্ডিতভাবে ডেপুটি স্পিকার চাচ্ছি না, আমরা চাই প্যাকেজ: জামায়াত আমির",
+      "url": "https://www.bd-pratidin.com/national/2026/03/11/1227073",
+      "published_at": "2026-03-11T21:57:27+06:00",
+      "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমির ও জাতীয় সংসদের বিরোধীদলীয় নেতা ডা. শফিকুর রহমান বলেছেন, ‘জুলাই সনদেই আছে যে একজন ডেপুটি স্পিকার বিরোধী দল থেকে হবেন। আমরা খণ্ডিতভাবে এটা চাচ্ছি না, আমরা চাই প্যাকেজ, আমরা চাই পিস মিল; পুরোটাই সেখানে গ্রহণ ও বাস্তবায়ন হোক এবং এর ভিত্তিতে আমরা যেন আমাদের ন্যায্য দায়িত্ব পালন করতে পারি।’",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773244646-6a2a7385c3b402930eaa610e58719e63.jpg"
+    },
+    {
+      "headline": "গণ-আকাঙ্ক্ষার সংসদের যাত্রা আজ",
+      "url": "https://dailynayadiganta.com/printed-edition/xNxBzUOLMNCr/",
+      "published_at": null,
+      "summary": "শক্তিশালী সরকার ও কার্যকর বিরোধী দলের উপস্থিতি সংসদকে আরো প্রাণবন্ত ও কার্যকর করে তুলতে পারে। তবে জুলাই সনদ বাস্তবায়ন ও সংবিধান সংস্কার প্রশ্নে শুরু থেকেই সরকারি দল বিএনপি এবং বিরোধী জোট জামায়াত-এনসিপির মধ্যে টানাপড়েন তৈরি হওয়ার আশঙ্কাও রয়েছে। এ উত্তাপ সংসদ এবং রাজপথ দুই ক্ষেত্রেই প্রতিফলিত হতে পারে বলে মনে করছেন পর্যবেক্ষকরা। ইতোমধ্যে ইঙ্গিত পাওয়া গেছে, প্রথম দিনেই রাষ্ট্রপতির ভাষণের প্রতিবাদ জানিয়ে ওয়াকআউট করতে পারেন বিরোধী জোটের সংসদ সদস্যরা।",
+      "image_url": "https://media.ndiganta.com/images/Screenshot_20260218-0.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "ইরানকে যুদ্ধে কেন হারানো যাবে না",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/44PqjKIZBXbY/",
+      "published_at": null,
+      "summary": "মধ্যপ্রাচ্যে চলমান সঙ্ঘাত এখন আর সীমিত সামরিক উত্তেজনার পর্যায়ে নেই। এ সঙ্ঘাত এখন বহুস্তরের  সামরিক হামলা, প্রক্সি যুদ্ধ, সাইবার সঙ্ঘাত, জ্বালানি রাজনীতি এবং বৈশ্বিক কূটনৈতিক মেরুকরণের সমন্বয়ে এক জটিল ভূরাজনৈতিক সঙ্কটে পরিণত। যুদ্ধের কয়েক দিনেই স্পষ্ট হয়ে উঠেছে যে, এটি কেবল দুই রাষ্ট্রের সংঘর্ষ নয়; বরং মধ্যপ্রাচ্যের শক্তির ভারসাম্য পুনর্গঠনের বৃহৎ লড়াই।",
+      "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "বাহরাইনের জ্বালানি ট্যাংকে হামলা",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/RZI5ki0d7w0e/",
+      "published_at": null,
+      "summary": "বাহরাইনের মুহাররাক অঞ্চলে জ্বালানি ট্যাংক লক্ষ্য করে হামলা চালিয়েছে ইরান, বাসিন্দাদের ঘরে অবস্থান এবং জানালা, বায়ু চলাচলের পথ বন্ধ রাখার নির্দেশ দিয়েছে সরকার।",
+      "image_url": "https://media.ndiganta.com/original_images/bahrain_oBWcI5I.jpg"
+    },
+    {
+      "headline": "ঝিনাইদহে অসহায় পরিবারের মাঝে যাকাত ফান্ডের অর্থ বিতরণ",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/2gKJESuC95QO/",
+      "published_at": null,
+      "summary": "উপজেলা পরিষদ মিলনায়তনে জেলার ৭৮ জনের মাঝে সাত লাখ ৫৭ হাজার টাকা বিতরণ করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Jakat-Taka.jpg"
+    },
+    {
+      "headline": "ইরানে মার্কিন-ইসরাইলি হামলার পর মধ্যপ্রাচ্যে ১১০০ শিশু হতাহত",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/RhtloTm4NktF/",
+      "published_at": null,
+      "summary": "ইরানে যুক্তরাষ্ট্র ও ইসরাইল–এর হামলার পর মধ্যপ্রাচ্যে ১,১০০টিরও বেশি শিশু নিহত বা আহত হয়েছে, জানিয়েছে ইউনিসেফ।",
+      "image_url": "https://media.ndiganta.com/original_images/iran-school.jpg"
+    },
+    {
+      "headline": "সংসদকে জাতীয় সমস্যা সমাধানের কেন্দ্রবিন্দুতে পরিণত করতে চাই",
+      "url": "https://dailynayadiganta.com/bangladesh/national/sLyCEyRuJoDO/",
+      "published_at": null,
+      "summary": "প্রধানমন্ত্রী তারেক রহমান বলেছেন, জাতীয় সংসদকে তিনি সকল যুক্তি, তর্ক এবং জাতীয় সমস্যা সমাধানের কেন্দ্রবিন্দুতে পরিণত করতে চান।",
+      "image_url": "https://media.ndiganta.com/original_images/tarique-songsad.jpg"
+    },
+    {
+      "headline": "ফতুল্লার বকেয়া বেতনের দাবিতে শ্রমিকদের সড়ক অবরোধ",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/9p5JWnzE8fnn/",
+      "published_at": null,
+      "summary": "উপজেলার গাবতলী এলাকায় অবস্থিত সেঞ্চুরি গার্মেন্টসের শ্রমিকরা কারখানার সামনে ঢাকা-নারায়ণগঞ্জ পুরাতন সড়ক অবরোধ করে বিক্ষোভ শুরু করেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Fotulla_gPUXsmk.jpg"
+    },
+    {
+      "headline": "ইরান থেকে ইসরাইলের দিকে ক্ষেপণাস্ত্র নিক্ষেপের সতর্কবার্তা ইসরাইলি বাহিনীর",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/jS3k8slRkP3X/",
+      "published_at": null,
+      "summary": "ইরান থেকে ইসরাইল–এর দিকে ক্ষেপণাস্ত্র নিক্ষেপের সতর্কবার্তা দেওয়া হয়েছে এবং ইসরাইলি সামরিক বাহিনী আকাশ প্রতিরক্ষা ব্যবস্থা সক্রিয় করেছে।",
+      "image_url": "https://media.ndiganta.com/original_images/iran-missail.jpg"
+    },
+    {
+      "headline": "উপসাগরে হামলার শিকার থাই জাহাজে তিন নাবিক আটকা",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/4Z5IBx2xfLUo/",
+      "published_at": null,
+      "summary": "থাই পরিবহন কোম্পানি প্রেশাস শিপিং জানায়, থাই পতাকাবাহী বাল্ক ক্যারিয়ার ‘মায়ুরি নারি’ জাহাজটিতে হামলার ঘটনায় তিনজন নাবিক নিখোঁজ রয়েছেন।",
+      "image_url": "https://media.ndiganta.com/original_images/thai-ship.jpg"
+    },
+    {
+      "headline": "মার্কিন স্থাপনা লক্ষ্য করে অন্তত ২৫টি ইরানি হামলা",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/6kHWJB1m2wN4/",
+      "published_at": null,
+      "summary": "মধ্যপ্রাচ্যে যুদ্ধ শুরুর পর অন্তত ২৫টি হামলা চালিয়েছে ইরান, যেখানে লক্ষ্যবস্তু হয়েছে মার্কিন স্থাপনা ও সামরিক ঘাঁটি। এছাড়া তেল ও গ্যাসক্ষেত্রসহ জ্বালানি অবকাঠামোতেও ইরান ১৬টি হামলা চালিয়েছে, যার মধ্যে রয়েছে সংযুক্ত আরব আমিরাতের বৃহৎ রুওয়াইস তেল শোধনাগার।",
+      "image_url": "https://media.ndiganta.com/original_images/iran-attacked_Zc2u1AQ.jpg"
+    },
+    {
+      "headline": "মধুখালী উপজেলা প্রেসক্লাবের উদ্যোগে ইফতার ও দোয়া মাহফিল",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/HLZ571ipVxgK/",
+      "published_at": null,
+      "summary": "ইফতারের পর দোয়া মাহফিলে দেশ ও জাতির কল্যাণ, রমজানের ফজিলত কবুল এবং সবার সুস্থতা ও মঙ্গল কামনা করে বিশেষ মোনাজাত করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Faridpur_uBPs8rA.jpg"
+    },
+    {
+      "headline": "শপথ নিলেন স্পিকার ও ডেপুটি স্পিকার",
+      "url": "https://dailynayadiganta.com/bangladesh/national/JdKCdsaN7Kn7/",
+      "published_at": null,
+      "summary": "জাতীয় সংসদের স্পিকার হিসেবে মেজর (অব.) হাফিজ উদ্দিন আহমদ এবং ডেপুটি স্পিকার হিসেবে ব্যারিস্টার কায়সার কামাল শপথ গ্রহণ করেছেন।\r\nরাষ্ট্রপতি মো: সাহাবুদ্দিন তাদের শপথবাক্য পাঠ করান, অনুষ্ঠানে প্রধানমন্ত্রী তারেক রহমান উপস্থিত ছিলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/shapath-speaker.jpg"
+    },
+    {
+      "headline": "আশুলিয়ায় দরিদ্রদের মাঝে ভিজিএফের চাল বিতরণ",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/mNJPNylphXO0/",
+      "published_at": null,
+      "summary": "দুর্যোগ ব্যবস্থাপনা ও ত্রাণ মন্ত্রণালয় এবং দুর্যোগ ব্যবস্থাপনা অধিদফতর কর্তৃক মানবিক সহায়তা কর্মসূচির আওতায় আসন্ন পবিত্র ঈদ উল ফিতর উপলক্ষে ভিজিএফের চাল বিতরণ করা হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Ashulia_L63ROoi.jpg"
+    },
+    {
+      "headline": "সংসদের সভাপতি নির্বাচনে সমর্থন না চাওয়ায় জামায়াতের অসন্তোষ",
+      "url": "https://dailynayadiganta.com/bangladesh/national/YQlmWnXPeJoC/",
+      "published_at": null,
+      "summary": "ত্রয়োদশ সংসদের প্রথম অধিবেশনে সভাপতিত্ব করেন বিএনপির খন্দকার মোশাররফ হোসেন।\r\nবিরোধী দল বাংলাদেশ জামায়াতে ইসলামী সভাপতি নির্বাচনের আগে সমর্থন চাওয়ার ক্ষেত্রে অসন্তোষ প্রকাশ করেছে।",
+      "image_url": "https://media.ndiganta.com/original_images/songsod2.jpg"
+    },
+    {
+      "headline": "ঈদের ছুটিতে ব্যস্ত জীবন ছেড়ে বাড়ির পথে বুটেক্স শিক্ষার্থীরা",
+      "url": "https://dailynayadiganta.com/bangladesh/education-campus/NinBzT9Nqmmy/",
+      "published_at": null,
+      "summary": "‘ঈদের সময় মনটা আগে আগে গ্রামে ছুটে যায়। টিকিট কাটার পর থেকেই শুরু হয় অপেক্ষার দিন-গোনা। হলের রুমে ব্যাগ গোছাতে গোছাতে মনে পড়ে গ্রামের সরু কাঁচা রাস্তা, সবুজ ধানের মাঠ আর সন্ধ্যার আজানের সুর। ট্রেন বা বাসের দীর্ঘ যাত্রা তখন আর ক্লান্তিকর মনে হয় না।’",
+      "image_url": "https://media.ndiganta.com/original_images/Butex_Gim2yXd.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - March 12, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "বিরতির পর আবারও শুরু হয়েছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন। স্পিকার মেজর (অব.) হাফিজ উদ্দিন আহমদের সভাপতিত্বে অধিবেশন শুরু হয়। ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
       "headline": "চ্যাম্পিয়নস লিগে এ কোন দুর্দশায় ‘বিশ্বসেরা’ প্রিমিয়ার লিগের পরাশক্তিরা ",
       "url": "https://www.prothomalo.com/sports/football/pm604ams40",
       "published_at": "2026-03-12T05:43:18.379000+00:00",
@@ -322,55 +591,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/q63d2f17/tangaildh056920260312mirzapur-12-03-2026-accident-9.jpg?auto=format,compress"
     },
     {
-      "headline": "ইরান যুদ্ধে ছয় দিনে আমেরিকার খরচ ১১ বিলিয়ন ডলারের বেশি: ট্রাম্প প্রশাসন",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227274",
-      "published_at": "2026-03-12T13:07:51+06:00",
-      "summary": "গত ২৮ ফেব্রুয়ারি ইরানের ওপর যৌথভাবে বিমান হামলা শুরু করে যুক্তরাষ্ট্র ও ইসরায়েল। জবাবে তৎক্ষণাৎ পাল্টা হামলা শুরু ইরানও। এখনও ইসরায়েল ও মধ্যপ্রাচ্যের বিভিন্ন দেশে মার্কিন স্বার্থ সংশ্লিষ্ট স্থাপনায় হামলা চালাচ্ছে তেহরান। ইরানি হামলার শিকার হয়েছে-কাতার, বাহরাইন, ওমান, সংযুক্ত আরব আমিরাত, কুয়েত ও সৌদি আরব। এতে অগ্নিগর্ভে পরিণত হয়েছে মধ্যপ্রাচ্যের উপসাগরীয় অঞ্চল।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773299270-917a4601e741143401cdeaf71ece3ada.jpg"
-    },
-    {
-      "headline": "অসহায় স্বীকারোক্তি, গোপনে পরাজয় মেনে নিল ইসরায়েল?",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227244",
-      "published_at": "2026-03-12T10:46:24+06:00",
-      "summary": "চলমান যুদ্ধের মাধ্যমে ইরানের ধর্মীয় নেতৃত্বাধীন সরকারের পতন ঘটাবে-এমন কোনও নিশ্চয়তা নেই। পর্দার আড়ালে ইসরায়েলি কর্মকর্তারা এই বাস্তবতা স্বীকার করে নিয়েছেন। একজন জ্যেষ্ঠ ইসরায়েলি কর্মকর্তা ব্রিটিশ বার্তাসংস্থা রয়টার্সকে এ তথ্য জানিয়েছেন। একই সঙ্গে ইরানে চলমান বোমাবর্ষণের মধ্যেও কোনও গণঅভ্যুত্থানের লক্ষণ দেখা যাচ্ছে না বলেও উল্লেখ করেন তিনি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773290783-b10c4c2fb2e0252719a5528bed28871f.jpg"
-    },
-    {
-      "headline": "আমিরাত কারো সহজ শিকার নয়, প্রেসিডেন্ট আল নাহিয়ানের হুঁশিয়ারি",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227222",
-      "published_at": "2026-03-12T08:42:02+06:00",
-      "summary": "মধ্যপ্রাচ্যে যুদ্ধ ছড়িয়ে পড়ার পরিপ্রেক্ষিতে প্রথমবারের মতো মুখ খুলেছেন সংযুক্ত আরব আমিরাতের (ইউএই) প্রেসিডেন্ট শেখ মোহাম্মদ বিন জায়েদ আল নাহিয়ান। ইরানকে ইঙ্গিত করে তিনি বলেছেন, সংযুক্ত আরব আমিরাতের চামড়া পুরু এবং মাংস তিতা— আমরা সহজ শিকার নই।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773283320-0b9163d73d8bb368db682a04a8ebb848.jpg"
-    },
-    {
-      "headline": "যুক্তরাষ্ট্রের বিখ্যাত প্রতিষ্ঠানে সাইবার হামলার দাবি ইরানি হ্যাকারদের, বিশ্বজুড়ে পরিষেবা ব্যাহত",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227206",
-      "published_at": "2026-03-12T02:25:48+06:00",
-      "summary": "ইরান ও ইসরায়েলের মধ্যে চলমান সামরিক উত্তেজনার আঁচ এবার লাগল সাইবার জগতেও। গত মাসে ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের বিমান হামলা শুরুর পর প্রথমবারের মতো বড় কোনো মার্কিন অবকাঠামোয় সাইবার হামলার দাবি করেছে ইরানপন্থী হ্যাকাররা।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773260747-0d40bb7ae83f974d558d659c20876c94.jpg"
-    },
-    {
-      "headline": "ইরানে সরকার পতন হচ্ছে না, ‘হার মেনে নিয়েছে’ ইসরায়েল: রয়টার্সের প্রতিবেদন",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227204",
-      "published_at": "2026-03-12T01:54:12+06:00",
-      "summary": "ইরানের ধর্মীয় নেতৃত্বাধীন সরকারকে সামরিক শক্তির জোরে উৎখাত করা সম্ভব—এমন দৃঢ় অবস্থান থেকে এবার পিছু হটতে শুরু করেছে ইসরায়েল। যুদ্ধের মাধ্যমে দেশটিতে সরকার পরিবর্তনের যে লক্ষ্য তেল আবিব ও ওয়াশিংটন নির্ধারণ করেছিল, বাস্তবে তার প্রতিফলন না ঘটায় পর্দার আড়ালে নিজেদের ‘অসহায়ত্ব’ স্বীকার করে নিচ্ছেন ইসরায়েলি কর্মকর্তারা।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773258851-0d40bb7ae83f974d558d659c20876c94.jpg"
-    },
-    {
-      "headline": "দুবাইয়ের বাসিন্দাদের খোলা জায়গা ও দরজা-জানালা থেকে দূরে থাকার নির্দেশ",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227187",
-      "published_at": "2026-03-12T00:59:51+06:00",
-      "summary": "মধ্যপ্রাচ্যে ক্রমবর্ধমান উত্তেজনার প্রেক্ষাপটে সংযুক্ত আরব আমিরাতের দুবাইয়ে সর্বোচ্চ সতর্কতা বা হাই অ্যালার্ট জারি করা হয়েছে। ইরান থেকে ধেয়ে আসা ক্ষেপণাস্ত্র ও ড্রোন হামলার আশঙ্কায় দেশটির প্রতিরক্ষা মন্ত্রণালয় এক জরুরি বার্তায় বাসিন্দাদের নিরাপদ আশ্রয়ে থাকার আহ্বান জানিয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773255590-0d40bb7ae83f974d558d659c20876c94.jpg"
-    },
-    {
-      "headline": "খণ্ডিতভাবে ডেপুটি স্পিকার চাচ্ছি না, আমরা চাই প্যাকেজ: জামায়াত আমির",
-      "url": "https://www.bd-pratidin.com/national/2026/03/11/1227073",
-      "published_at": "2026-03-11T21:57:27+06:00",
-      "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমির ও জাতীয় সংসদের বিরোধীদলীয় নেতা ডা. শফিকুর রহমান বলেছেন, ‘জুলাই সনদেই আছে যে একজন ডেপুটি স্পিকার বিরোধী দল থেকে হবেন। আমরা খণ্ডিতভাবে এটা চাচ্ছি না, আমরা চাই প্যাকেজ, আমরা চাই পিস মিল; পুরোটাই সেখানে গ্রহণ ও বাস্তবায়ন হোক এবং এর ভিত্তিতে আমরা যেন আমাদের ন্যায্য দায়িত্ব পালন করতে পারি।’",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773244646-6a2a7385c3b402930eaa610e58719e63.jpg"
-    },
-    {
       "headline": "ভালো রাজনৈতিক সংস্কৃতির চর্চা সংসদ থেকে শুরু করতে চাই : স্বরাষ্ট্রমন্ত্রী",
       "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227064",
       "published_at": "2026-03-11T21:26:25+06:00",
@@ -392,88 +612,11 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241835-bd06ce96d57fa9e331ff472d661b4f38.jpg"
     },
     {
-      "headline": "গণ-আকাঙ্ক্ষার সংসদের যাত্রা আজ",
-      "url": "https://dailynayadiganta.com/printed-edition/xNxBzUOLMNCr/",
-      "published_at": null,
-      "summary": "শক্তিশালী সরকার ও কার্যকর বিরোধী দলের উপস্থিতি সংসদকে আরো প্রাণবন্ত ও কার্যকর করে তুলতে পারে। তবে জুলাই সনদ বাস্তবায়ন ও সংবিধান সংস্কার প্রশ্নে শুরু থেকেই সরকারি দল বিএনপি এবং বিরোধী জোট জামায়াত-এনসিপির মধ্যে টানাপড়েন তৈরি হওয়ার আশঙ্কাও রয়েছে। এ উত্তাপ সংসদ এবং রাজপথ দুই ক্ষেত্রেই প্রতিফলিত হতে পারে বলে মনে করছেন পর্যবেক্ষকরা। ইতোমধ্যে ইঙ্গিত পাওয়া গেছে, প্রথম দিনেই রাষ্ট্রপতির ভাষণের প্রতিবাদ জানিয়ে ওয়াকআউট করতে পারেন বিরোধী জোটের সংসদ সদস্যরা।",
-      "image_url": "https://media.ndiganta.com/images/Screenshot_20260218-0.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "ইরানকে যুদ্ধে কেন হারানো যাবে না",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/44PqjKIZBXbY/",
-      "published_at": null,
-      "summary": "মধ্যপ্রাচ্যে চলমান সঙ্ঘাত এখন আর সীমিত সামরিক উত্তেজনার পর্যায়ে নেই। এ সঙ্ঘাত এখন বহুস্তরের  সামরিক হামলা, প্রক্সি যুদ্ধ, সাইবার সঙ্ঘাত, জ্বালানি রাজনীতি এবং বৈশ্বিক কূটনৈতিক মেরুকরণের সমন্বয়ে এক জটিল ভূরাজনৈতিক সঙ্কটে পরিণত। যুদ্ধের কয়েক দিনেই স্পষ্ট হয়ে উঠেছে যে, এটি কেবল দুই রাষ্ট্রের সংঘর্ষ নয়; বরং মধ্যপ্রাচ্যের শক্তির ভারসাম্য পুনর্গঠনের বৃহৎ লড়াই।",
-      "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "ফতুল্লার বকেয়া বেতনের দাবিতে শ্রমিকদের সড়ক অবরোধ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/9p5JWnzE8fnn/",
-      "published_at": null,
-      "summary": "উপজেলার গাবতলী এলাকায় অবস্থিত সেঞ্চুরি গার্মেন্টসের শ্রমিকরা কারখানার সামনে ঢাকা-নারায়ণগঞ্জ পুরাতন সড়ক অবরোধ করে বিক্ষোভ শুরু করেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Fotulla_gPUXsmk.jpg"
-    },
-    {
-      "headline": "ইরান থেকে ইসরাইলের দিকে ক্ষেপণাস্ত্র নিক্ষেপের সতর্কবার্তা ইসরাইলি বাহিনীর",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/jS3k8slRkP3X/",
-      "published_at": null,
-      "summary": "ইরান থেকে ইসরাইল–এর দিকে ক্ষেপণাস্ত্র নিক্ষেপের সতর্কবার্তা দেওয়া হয়েছে এবং ইসরাইলি সামরিক বাহিনী আকাশ প্রতিরক্ষা ব্যবস্থা সক্রিয় করেছে।",
-      "image_url": "https://media.ndiganta.com/original_images/iran-missail.jpg"
-    },
-    {
-      "headline": "উপসাগরে হামলার শিকার থাই জাহাজে তিন নাবিক আটকা",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/4Z5IBx2xfLUo/",
-      "published_at": null,
-      "summary": "থাই পরিবহন কোম্পানি প্রেশাস শিপিং জানায়, থাই পতাকাবাহী বাল্ক ক্যারিয়ার ‘মায়ুরি নারি’ জাহাজটিতে হামলার ঘটনায় তিনজন নাবিক নিখোঁজ রয়েছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/thai-ship.jpg"
-    },
-    {
-      "headline": "মার্কিন স্থাপনা লক্ষ্য করে অন্তত ২৫টি ইরানি হামলা",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/6kHWJB1m2wN4/",
-      "published_at": null,
-      "summary": "মধ্যপ্রাচ্যে যুদ্ধ শুরুর পর অন্তত ২৫টি হামলা চালিয়েছে ইরান, যেখানে লক্ষ্যবস্তু হয়েছে মার্কিন স্থাপনা ও সামরিক ঘাঁটি। এছাড়া তেল ও গ্যাসক্ষেত্রসহ জ্বালানি অবকাঠামোতেও ইরান ১৬টি হামলা চালিয়েছে, যার মধ্যে রয়েছে সংযুক্ত আরব আমিরাতের বৃহৎ রুওয়াইস তেল শোধনাগার।",
-      "image_url": "https://media.ndiganta.com/original_images/iran-attacked_Zc2u1AQ.jpg"
-    },
-    {
-      "headline": "মধুখালী উপজেলা প্রেসক্লাবের উদ্যোগে ইফতার ও দোয়া মাহফিল",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/HLZ571ipVxgK/",
-      "published_at": null,
-      "summary": "ইফতারের পর দোয়া মাহফিলে দেশ ও জাতির কল্যাণ, রমজানের ফজিলত কবুল এবং সবার সুস্থতা ও মঙ্গল কামনা করে বিশেষ মোনাজাত করা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Faridpur_uBPs8rA.jpg"
-    },
-    {
       "headline": "মার্কিন মেডিক্যাল কোম্পানিতে ইরানি হ্যাকারদের হামলা",
       "url": "https://dailynayadiganta.com/international/asia/middle-east/uKEZdiH8YZzc/",
       "published_at": null,
       "summary": "ইরানের সাথে সংযুক্ত হ্যাকিং গ্রুপ হানদালা যুক্তরাষ্ট্রের চিকিৎসা প্রযুক্তি প্রতিষ্ঠান স্ট্রাইকার–এর ওপর সাইবার হামলার দায় স্বীকার করেছে।\r\nহ্যাকাররা ৫০ টেরাবাইট তথ্য হাতিয়ে নেয়ার দাবি করেছে, তবে স্ট্রাইকার জানিয়েছে পরিস্থিতি নিয়ন্ত্রণে রয়েছে।",
       "image_url": "https://media.ndiganta.com/original_images/hacking.jpg"
-    },
-    {
-      "headline": "শপথ নিলেন স্পিকার ও ডেপুটি স্পিকার",
-      "url": "https://dailynayadiganta.com/bangladesh/national/JdKCdsaN7Kn7/",
-      "published_at": null,
-      "summary": "জাতীয় সংসদের স্পিকার হিসেবে মেজর (অব.) হাফিজ উদ্দিন আহমদ এবং ডেপুটি স্পিকার হিসেবে ব্যারিস্টার কায়সার কামাল শপথ গ্রহণ করেছেন।\r\nরাষ্ট্রপতি মো: সাহাবুদ্দিন তাদের শপথবাক্য পাঠ করান, অনুষ্ঠানে প্রধানমন্ত্রী তারেক রহমান উপস্থিত ছিলেন।",
-      "image_url": "https://media.ndiganta.com/original_images/shapath-speaker.jpg"
-    },
-    {
-      "headline": "আশুলিয়ায় দরিদ্রদের মাঝে ভিজিএফের চাল বিতরণ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/mNJPNylphXO0/",
-      "published_at": null,
-      "summary": "দুর্যোগ ব্যবস্থাপনা ও ত্রাণ মন্ত্রণালয় এবং দুর্যোগ ব্যবস্থাপনা অধিদফতর কর্তৃক মানবিক সহায়তা কর্মসূচির আওতায় আসন্ন পবিত্র ঈদ উল ফিতর উপলক্ষে ভিজিএফের চাল বিতরণ করা হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Ashulia_L63ROoi.jpg"
-    },
-    {
-      "headline": "সংসদের সভাপতি নির্বাচনে সমর্থন না চাওয়ায় জামায়াতের অসন্তোষ",
-      "url": "https://dailynayadiganta.com/bangladesh/national/YQlmWnXPeJoC/",
-      "published_at": null,
-      "summary": "ত্রয়োদশ সংসদের প্রথম অধিবেশনে সভাপতিত্ব করেন বিএনপির খন্দকার মোশাররফ হোসেন।\r\nবিরোধী দল বাংলাদেশ জামায়াতে ইসলামী সভাপতি নির্বাচনের আগে সমর্থন চাওয়ার ক্ষেত্রে অসন্তোষ প্রকাশ করেছে।",
-      "image_url": "https://media.ndiganta.com/original_images/songsod2.jpg"
-    },
-    {
-      "headline": "ঈদের ছুটিতে ব্যস্ত জীবন ছেড়ে বাড়ির পথে বুটেক্স শিক্ষার্থীরা",
-      "url": "https://dailynayadiganta.com/bangladesh/education-campus/NinBzT9Nqmmy/",
-      "published_at": null,
-      "summary": "‘ঈদের সময় মনটা আগে আগে গ্রামে ছুটে যায়। টিকিট কাটার পর থেকেই শুরু হয় অপেক্ষার দিন-গোনা। হলের রুমে ব্যাগ গোছাতে গোছাতে মনে পড়ে গ্রামের সরু কাঁচা রাস্তা, সবুজ ধানের মাঠ আর সন্ধ্যার আজানের সুর। ট্রেন বা বাসের দীর্ঘ যাত্রা তখন আর ক্লান্তিকর মনে হয় না।’",
-      "image_url": "https://media.ndiganta.com/original_images/Butex_Gim2yXd.jpg"
     },
     {
       "headline": "জ্বালানি তেল সরবরাহ নিশ্চিতে ছুটির দিনেও ডিপো খোলা রাখার নির্দেশ বিপিসির",
@@ -488,20 +631,6 @@
       "published_at": null,
       "summary": "প্রাথমিকভাবে এয়ারলাইন্সটি প্রতি সপ্তাহে রোববার ও বৃহস্পতিবার এই রুটে দু’টি ফ্লাইট পরিচালনা করবে। ঢাকা-মালে-ঢাকা রুটে আসা-যাওয়ার সর্বনিম্ন ভাড়া নির্ধারণ করা হয়েছে ৩৯৯ মার্কিন ডলার",
       "image_url": "https://media.ndiganta.com/original_images/maldivian.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 12, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) কেন্দ্রীয় যুগ্ম সদস্যসচিব ডা. মাহমুদা মিতু প্রধানমন্ত্রীর রাজনৈতিক উপদেষ্টা এবং বিএনপির স্থায়ী কমিটির সদস্য মির্জা আব্বাসের ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "অবিশ্বাস্য ভালভের্দে ‘বিশ্বের সবচেয়ে অবমূল্যায়িত ফুটবলার’",
@@ -1401,132 +1530,6 @@
       "summary": "ইউপি চেয়ারম্যান জানান, তিনি বুকে-পিঠে আঘাত পেয়েছেন। পায়ে জখম হয়েছে। বুকে–পিঠে এক্স-রে করার জন্য ডাক্তার পরামর্শ দিয়েছেন।",
       "image_s3_key": "prothomalo-bangla/2023-11/83e96984-d408-4893-b8ff-432f95c9c8b2/78b76439_59f6_4b25_8e0b_5a47c14b13a3.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-11/83e96984-d408-4893-b8ff-432f95c9c8b2/78b76439_59f6_4b25_8e0b_5a47c14b13a3.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বিশ্বকাপে অংশ নেয়া সম্ভব নয় : ইরানি ক্রীড়ামন্ত্রী",
-      "url": "https://dailynayadiganta.com/printed-edition/bY0mWGwWpmRA/",
-      "published_at": null,
-      "summary": "আসন্ন ফুটবল বিশ্বকাপে অংশ নিতে পারে না বলে জানিয়েছে ইরান। দেশটির ক্রীড়ামন্ত্রী আহমদ দোনিয়ামালি গতকাল এ কথা বলেছেন। সংবাদ সংস্থা রয়টার্স জানিয়েছে দেশটির ক্রীড়ামন্ত্রী রাষ্ট্রীয় টেলিভিশনে দেয়া এক সাক্ষাৎকারে বলেন, সহ-আয়োজক যুক্তরাষ্ট্র ও ইসরাইলের সাম্প্রতিক বিমান হামলার পর ২০২৬ সালের বিশ্বকাপে অংশ নেয়া সম্ভব নয়।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "লেবু ফুলের ঘ্রাণ  : সরকার শাহাদত হোসেন",
-      "url": "https://dailynayadiganta.com/printed-edition/JUojwA8pUEf0/",
-      "published_at": null,
-      "summary": "ফাল্গুনের মৃদু হাওয়া আর রোদের নরম ছোঁয়ায় বসন্তের আগমনী বার্তায় সেজে উঠেছে গাইবান্ধা জেলা। এ সময় লেবু গাছে মন মাতানো সাদা ফুলের ছড়াছড়ি দেখা যাচ্ছে। অন্যান্য বছরের তুলনায় এবার ফুলের পরিমাণ অনেক বেশি বলে জানিয়েছেন স্থানীয়রা।",
-      "image_url": "https://media.ndiganta.com/original_images/pas-4_WH279ie.jpg"
-    },
-    {
-      "headline": "পাটপণ্যের ব্যবহার বাড়াতে কাজ করছে সরকার : পাট প্রতিমন্ত্রী",
-      "url": "https://dailynayadiganta.com/bangladesh/national/I3syt8HLTLBj/",
-      "published_at": null,
-      "summary": "‘অফিস থেকে শুরু করে সবখানে পাটপণ্যের ব্যবহার বাড়াতে আমরা উদ্যোগী হচ্ছি। দুর্যোগ, কৃষি, খাদ্য এবং বাণিজ্য মন্ত্রণালয়ের নানা কার্যক্রমে পাটব্যাগ ব্যবহার বাড়াতে আমরা কাজ করছি।’",
-      "image_url": "https://media.ndiganta.com/original_images/Jute_Dh3mylC.jpg"
-    },
-    {
-      "headline": "মাদ্রিদের বায়তুল মোকাররম জামে মসজিদে স্পেনিশ পেশাজীবী ও ধর্মীয় নেতাদের সম্মানে ইফতার",
-      "url": "https://nagorik.prothomalo.com/durporobash/k6etgv0c7d",
-      "published_at": "2026-03-11T16:18:18.708000+00:00",
-      "summary": "মুসলিমদের পবিত্র মাহে রমজান উপলক্ষে মাদ্রিদের বাংলাদেশি–অধ্যুষিত বায়তুল মোকাররম জামে মসজিদে স্পেনের বিভিন্ন পেশাজীবী, রাজনীতিবিদ, আইনজীবী ও বিভিন্ন ধর্মীয় নেতাদের সম্মানে এক ব্যতিক্রমধর্মী ইফতার মাহফিলের আয়োজন করা হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-11/tq3joyih/18.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/tq3joyih/18.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "বিলুপ্তপ্রায় ধানের গোলা : উত্তম গোলদার",
-      "url": "https://dailynayadiganta.com/printed-edition/bgYm9bId2KLf/",
-      "published_at": null,
-      "summary": "গ্রামবাংলার সমৃদ্ধির প্রতীক ধানের গোলা এখন বিলুপ্ত প্রায়। ‘গোয়াল ভরা গরু, পুকুর ভরা মাছ আর গোলা ভরা ধান।’ অথচ এক সময় সমাজের নেতৃত্ব নির্ভর করত কার ক’টি ধানের গোলা আছে এ হিসাব কষে। কন্যা পাত্রস্থ করতেও বরপক্ষের বাড়িতে ধানের গোলার খবর নিত কনেপক্ষের লোকজন, যা এখন শুধু কল্পকাহিনীতে শোনা যায়। এক সময় এমন প্রবাদ বাক্য থাকলেও বর্তমানে পটুয়াখালীর মির্জাগঞ্জ থেকে হারিয়ে যেতে বসেছে ঐতিহ্যবাহী ধানের গোলা। এখন আর খুব একটা খুঁজে পাওয়া যায় না। নতুন প্রজন্মের অনেকেই এই ধানের গোলা চেনে না। অনেকেই নাম পর্যন্তও জানে না। তবে স্থানীয় ভাষায় ধানের ডোলও বলে।",
-      "image_url": "https://media.ndiganta.com/original_images/pas-3_e0Anoto.jpg"
-    },
-    {
-      "headline": "পরিবেশ মন্ত্রীর সাথে চীনের রাষ্ট্রদূতের সৌজন্য সাক্ষাৎ",
-      "url": "https://dailynayadiganta.com/bangladesh/national/umiTwWDuR07O/",
-      "published_at": null,
-      "summary": "বৈঠকে দু’দেশের মধ্যে পরিবেশ সংরক্ষণ, বন ব্যবস্থাপনা এবং জলবায়ু পরিবর্তন মোকাবেলায় পারস্পরিক সহযোগিতা জোরদারের বিষয়ে ফলপ্রসূ আলোচনা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/China_m3imAiK.jpg"
-    },
-    {
-      "headline": "আবারো ঘুরে এলাম ইনানী বিচ : আব্দুস সাত্তার সুমন",
-      "url": "https://dailynayadiganta.com/printed-edition/dwnp95S8ZFQ3/",
-      "published_at": null,
-      "summary": "ভ্রমণ শুরু হয় অনেক আগেই, যে দিন মানুষের মন ক্লান্ত হয়ে পড়ে, যে দিন ব্যস্ততার ভিড়ে হৃদয় হাঁপিয়ে ওঠে, সে দিনই প্রকৃতি ডাক দেয়। সেই ডাক কখনো পাহাড় হয়ে আসে, কখনো সমুদ্র হয়ে, আবার কখনো নীরব এক শৈবাল-পাথরের ভাষায়। আমাদের এই ভ্রমণটিও শুরু হয়েছিল ঠিক এমনই এক ডাকে।",
-      "image_url": "https://media.ndiganta.com/original_images/pas-2_jlg2PTa.jpg"
-    },
-    {
-      "headline": "বসন্তের সাজে প্রকৃতি : মুহিব্বুল্লাহ কাফি",
-      "url": "https://dailynayadiganta.com/printed-edition/m4iyENybUbXB/",
-      "published_at": null,
-      "summary": "ঋতুর রদবদলে আসে প্রকৃতিতে ভিন্ন সাজ। ছয় ঋতুর এই দেশে নতুন নতুন রূপে সেজে উঠে এই বাংলা। এই তো গেল শীত। শীতে শুষ্কতায় লেপ্টে ছিল জীবন, প্রকৃতি। হিমধরা শীতে যেমনি জীবজন্তুর হাড় কাঁপিয়ে দেয় তেমনি গুটিয়ে আসে প্রকৃতির চারপাশ। গাছগুলো তার অস্তিত্ব বিলীন করে দেয়। নিষ্প্রাণ পাতাহীন গাছগুলোর কাণ্ড  শুকিয়ে কড়কড় করে ভেঙে পড়ে। ফুলের তো প্রশ্নই উঠে না। কেমন যেন প্রকৃতিও শীতের রুক্ষতায় জমে থাকে। কিন্তু শীতের পরই প্রকৃতিতে ব্যাপক পরিবর্তন চোখে পড়ে। চারদিকে ফাল্গুনের শুরুতেই বসন্তের ছোঁয়া লেগে যায় গাছে-গাছে। ফুলে-ফসলে। প্রকৃতিতে প্রাণচাঞ্চল্যের বাতাস বয়ে দেয় ঋতুরাজ বসন্ত। প্রকৃতি আবারো সেজে উঠে আপন সাজে। রাঙিয়ে তুলে চারপাশ। গাছে-গাছে সবুজ পাতা ধরে। গাছের কাণ্ডগুলো সজীবতা ফিরে পায়। সবুজ কচি পাতা গজায়। কুঁড়ি ফোটে। ফাল্গুন শেষে আসে চৈত্র। বসন্ত যেন তার সবটুকু রূপ ঢেলে দিয়ে সাজিয়ে তুলে প্রকৃতিকে। গাছে-গাছে ফুল ফোটে। ফুলের মোহনীয় সৌন্দর্যের অপার বিস্তার ঘটে। বিভিন্ন রঙের, বিভিন্ন ফুলের গন্ধ সোনারোদে মৌ মৌ করে ওঠে। চারদিকে বসন্তের স্নিগ্ধ সুষমায় ভরা বাহারি রঙ, রকমারি ফুলের অপরূপ সৌন্দর্যে মুগ্ধ হয়ে মানুষ আল্লাহ তাআলার শুকরিয়া আদায় করে। বসন্ত এসেছে সাহিত্যের পাড়ায়ও। কবিরা তাদের কবিতায় বসন্ত ফুটিয়ে তুলেছেন প্রকৃতির মাধ্যমে। সাহিত্যিকরা তাদের কলমের তুলিতে এঁকে দিয়েছেন বসন্তের নয়রাভিরাম দৃশ্য। কবি রবীন্দ্রনাথও বসন্তের প্রেমে পড়ে লিখে গেছেন- ‘আহা আজি এ বসন্তে, কত ফুল ফোটে। কত পাখি গায়। আহা আজি এ বসন্তে।’  ছয় ঋতুর শেষ ঋতু বসন্তের ফুলের মধ্যে পলাশ, শিমুল, কৃষ্ণচূড়া, নয়নতারা, কনকচাঁপা, গাঁদা, চাঁপা, ডালিয়া, নাগকেশর, গন্ধরাজ অন্যতম। বনের বা বাগানের আগুন বলা হয় পলাশকে। নজরকাড়া এ ফুলটি গাছের শাখায় শাখায় লাল ও কমলা রঙের আগুন ধরিয়ে দেয়। সাহিত্যেও বেশ জায়গা করে নিয়েছে পলাশ ফুল। তার মধ্যে ঔষধি গুণও রয়েছে ঢের। বসন্তের অন্যতম সৌন্দর্য শিমুল। শীতে সবকটা পাতা ঝরে গেলেও ফাল্গুনের ফুল ফোটে। ধীরে ধীরে লাল টুকটুকে রঙ ধরা শিমুল ফুলে মানুষ তো বটেই পাখিরাও মেতে উঠে। শাখায় বসে কলরব তোলে। শিমুলও সাহিত্যে তার আসন পেতে বসেছে। কবিগুরু রবীন্দ্রনাথ ঠাকুর লাল বর্ণের শিমুল ফুলে মুগ্ধ হয়ে লিখেছেন, ‘শিমুলের কুঁড়ি, এক রাত্রে বর্ণবহ্নি জ্বলিল সমস্ত বনজুড়ি।’ বসন্ত মৌসুমে সৌন্দর্যের দূত হলো কৃষ্ণচূড়া। শীতের বাগড়ায় বিষণœবদনে দাঁড়িয়ে থাকে একমনে। ঝরে পড়ে সব পাতা। কিন্তু মাঘমাসের শেষের দিকেই কৃষ্ণচূড়া কাণ্ডে  কাণ্ডে  সবুজ পাতা গজায়। সজীবতা ছড়িয়ে মগডালে লাল লাল অগ্নি উঁকি দেয়। ধীরে ধীরে কৃষ্ণচূড়ার শাখায় শাখায় লাল আগুন ধরিয়ে দিয়ে ফুলের চারটি পাপড়ি মেলে ধরে। কৃষ্ণচূড়া বসন্তের সাজে সজ্জিত হয়ে প্রকৃতিকে রঙিন করে তোলে। সজীব হয়ে ওঠে আশপাশ। অপরূপ রূপে সেজে উঠা কৃষ্ণচূড়ার ডালে ডালে বসন্তের কোকিল এসে বসে। তার মধুর কুহুতানে মুখরিত হয়ে উঠে বাড়ির উঠোন কিংবা স্কুল-কলেজ-মাদরাসার আঙিনা।",
-      "image_url": "https://media.ndiganta.com/original_images/pas-1_bFKgifb.jpg"
-    },
-    {
-      "headline": "আশা করছি সংসদ অধিবেশনেই রাষ্ট্রপতিকে সরানোর প্রক্রিয়া শুরু করবে বিএনপি",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/dUvR2dQzlWYM/",
-      "published_at": null,
-      "summary": "‘ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশনে বিএনপির সংসদ সদস্যরা সংবিধান সংস্কার পরিষদের সদস্য হিসেবে শপথ নিতে সম্মত হবে এবং সরকার রাষ্ট্রপতিকে সরানোর প্রক্রিয়া শুরু করবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Nahid-Islam_JUJcDJj.jpg"
-    },
-    {
-      "headline": "কুলাউড়ায় কৃষি জমির টপ সয়েল কাটার দায়ে ২ লাখ টাকা জরিমানা",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/x6n0zrAaMRxK/",
-      "published_at": null,
-      "summary": "মৌলভীবাজারের কুলাউড়ায় অবৈধভাবে কৃষি জমির টপ সয়েল কাটার দায়ে এক ব্যক্তিকে দুই লাখ টাকা জরিমানা করেছেন ভ্রাম্যমাণ আদালত।",
-      "image_url": "https://media.ndiganta.com/original_images/Kulaura-Moulovibazar.jpg"
-    },
-    {
-      "headline": "‘তান্ডব’ থেকে ‘মায়ের হাতে বেহেস্তের চাবি’, ঈদে দীপ্ত টিভিতে ১৪টি সিনেমা",
-      "url": "https://www.prothomalo.com/entertainment/tv/k4tq6sjpnq",
-      "published_at": "2026-03-11T16:15:00+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2025-06-07/eg1e0ygl/50389913612594732155460514907453463957941815n.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-07/eg1e0ygl/50389913612594732155460514907453463957941815n.jpg?auto=format,compress"
-    },
-    {
-      "headline": "যুক্তরাষ্ট্র থেকে ৫৮ হাজার মেট্রিক টন গম নিয়ে মোংলা বন্দরে জাহাজ",
-      "url": "https://www.bd-pratidin.com/economy/2026/03/11/1227048",
-      "published_at": "2026-03-11T20:33:36+06:00",
-      "summary": "যুক্তরাষ্ট্র থেকে ৫৮ হাজার ৪৫৭ মেট্রিক টন গম নিয়ে ‌‘এমভি ক্যালিপসো এন’ নামের একটি জাহাজ মোংলা বন্দরের বহির্নোঙরে পৌঁছেছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773239615-276e8e8d3aa000da376e6c4c33047bf6.jpg"
-    },
-    {
-      "headline": "হবিগঞ্জ কারাগারে কয়েদির মৃত্যু, পরিবারের অভিযোগ হত্যা",
-      "url": "https://www.prothomalo.com/bangladesh/district/0dx6wi74qr",
-      "published_at": "2026-03-11T16:08:40.753000+00:00",
-      "summary": "বুধবার সকাল সাড়ে ৯টার দিকে হঠাৎ তিনি অসুস্থ হয়ে পড়েন। ওই কয়েদির লাশ ময়নাতদন্তের জন্য হবিগঞ্জ ২৫০ শয্যা জেলা হাসপাতালের মর্গে রাখা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-02-20/fqm9em2c/1.avif",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-20/fqm9em2c/1.avif?auto=format,compress"
-    },
-    {
-      "headline": "তেরো বছরের কারিগরি সংগ্রাম পেরিয়ে আমার আত্মবিশ্বাসের জয়গাথা",
-      "url": "https://www.prothomalo.com/bangladesh/rxiy1idco8",
-      "published_at": "2026-03-11T16:06:53.069000+00:00",
-      "summary": "মেয়ে হয়ে কেন চ্যালেঞ্জিং পেশায়?—সামাজিক এমন প্রতিবন্ধকতা পেরিয়ে সংসার ও পেশা সামলে এক নারী প্রকৌশলীর সফল হওয়ার অনুপ্রেরণামূলক গল্প।",
-      "image_s3_key": "prothomalo-bangla/2026-03-11/yu5mo1f6/MunniKumarikaImage01.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/yu5mo1f6/MunniKumarikaImage01.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "নারী বিপিএল পিছিয়ে গেল জুলাইয়ে",
-      "url": "https://www.prothomalo.com/sports/cricket/34w2khh2ed",
-      "published_at": "2026-03-11T16:06:41.885000+00:00",
-      "summary": "তিনটি ফ্র্যাঞ্চাইজির স্বত্ব বিক্রির জন্য দুই দফায় আবেদনের সময় বাড়ায় বিসিবি। ৮ মার্চ পর্যন্ত সময় বাড়ালেও দুটি ফ্র্যাঞ্চাইজি চূড়ান্ত করতে পারে বিসিবি। ",
-      "image_s3_key": "prothomalo-bangla/2025-04-19/lvsms8g1/49159111611423198279065164979160983355824496n.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-04-19/lvsms8g1/49159111611423198279065164979160983355824496n.jpg?auto=format,compress"
-    },
-    {
-      "headline": "জামদানি শাড়ির দাম দেড় লাখ টাকা, কী আছে ওই শাড়িতে",
-      "url": "https://www.prothomalo.com/business/industry/oobiorms2v",
-      "published_at": "2026-03-11T16:00:00+00:00",
-      "summary": "রাজধানীতে আয়োজিত জামদানি ও কারুপণ্য মেলায় এই দামি শাড়ি নিয়ে এসেছে জামদানি উইভিং নামের প্রতিষ্ঠান।",
-      "image_s3_key": "prothomalo-bangla/2026-03-11/0i3nh2ts/WhatsApp-Image-2026-03-11-at-7.18.44-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/0i3nh2ts/WhatsApp-Image-2026-03-11-at-7.18.44-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "শেয়ারধারীদের ৪৬৫ কোটি টাকা লভ্যাংশ দিচ্ছে লাফার্জহোলসিম",
-      "url": "https://www.prothomalo.com/business/market/6w1fldi2hr",
-      "published_at": "2026-03-11T15:55:25.719000+00:00",
-      "summary": "গত বছর শেষে লাফার্জহোলসিম সব ধরনের খরচ বাদ দেওয়ার পর প্রায় ৫১১ কোটি টাকা মুনাফা করেছে। এক বছরের ব্যবধানে কোম্পানিটির মুনাফা ১২৯ কোটি টাকা বেড়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-11/4mud1e6b/LafargeHolcim.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/4mud1e6b/LafargeHolcim.jpg?auto=format,compress"
     }
   ]
 }
