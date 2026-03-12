@@ -1,14 +1,134 @@
 {
-  "fetched_at": "2026-03-12T05:20:01.615899+00:00",
+  "fetched_at": "2026-03-12T06:15:47.656685+00:00",
   "sections": {
     "latest": [
       {
-        "headline": "সংসদের প্রথম অধিবেশন শুরু ",
+        "headline": "ইরানি নেতৃত্ব ভেঙে পড়ার কোনো ঝুঁকি নেই: মার্কিন গোয়েন্দা প্রতিবেদন",
+        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+        "published_at": "2026-03-12T06:09:01.253000+00:00",
+        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ডেপুটি স্পিকার নির্বাচিত হলেন কায়সার কামাল",
+        "url": "https://www.prothomalo.com/video/bangladesh/mqqvotgfr7",
+        "published_at": "2026-03-12T06:07:35.030000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-12/xuzta1qs/Web-2.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/xuzta1qs/Web-2.jpg?auto=format,compress"
+      },
+      {
+        "headline": "সংসদকে জাতীয় সমস্যা সমাধানের কেন্দ্রবিন্দু করতে চাই: প্রধানমন্ত্রী",
+        "url": "https://www.prothomalo.com/video/bangladesh/5m7ptmabz0",
+        "published_at": "2026-03-12T06:03:12.705000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-12/f2dk4dxl/Web-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/f2dk4dxl/Web-1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বিশ্বে GIS কৌশলটির ব্যবহার শুরু হয় ১৯৬৪ সালে",
+        "url": "https://www.prothomalo.com/education/examination/0swtkapk4r",
+        "published_at": "2026-03-12T06:02:46.250000+00:00",
+        "summary": "আমাদের পৃথিবীকে কত ডিগ্রি দ্রাঘিমারেখা দ্বারা ভাগ করা হয়েছে?\n\nক. ৯০° খ. ১৮০°\n\nগ. ২৬০° ঘ. ৩৬০°\n\n২. জিপিএস তার রিসিভার দিয়ে কোথা থেকে তথ্য সংগ্রহ করে?\n\nক. ভূ–উপগ্রহ খ. গ্রিনিচ মান মন্দির\n\nগ. মোবাইল থেকে ঘ. আবহাওয়া অফিস থেকে",
+        "image_s3_key": "prothomalo-bangla/2025-04-10/9a7ebne3/RANGPURDH057620250410WHATSAPP-IMAGE-2025-04-10-AT-4.12.04-PM-1.JPG.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-04-10/9a7ebne3/RANGPURDH057620250410WHATSAPP-IMAGE-2025-04-10-AT-4.12.04-PM-1.JPG.JPG?auto=format,compress"
+      },
+      {
+        "headline": "যুদ্ধের সঙ্গে কীভাবে নিজেদের মানিয়ে নিচ্ছেন ইরানি তরুণেরা",
+        "url": "https://www.prothomalo.com/world/middle-east/miznvvk3th",
+        "published_at": "2026-03-12T06:01:44.191000+00:00",
+        "summary": "মিনা বলেন, ‘যে রাতে ডিপোতে হামলা হলো, আমাদের পুরো ফ্ল্যাট কেঁপে উঠেছিল। জানালায় এমন আলোর ঝলকানি খেলে গিয়েছিল যে মাঝরাতেই মনে হয়েছিল সকাল হয়ে গেছে।’",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/izw63bdv/1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/izw63bdv/1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "তেলের দাম আবার ১০০ ডলার ছাড়াল, ২০০ ডলার ছাড়াতে পারে বলে ইরানের সতর্ক বার্তা",
+        "url": "https://www.prothomalo.com/business/world-business/8taac5allw",
+        "published_at": "2026-03-12T06:00:01.607000+00:00",
+        "summary": "বৃহস্পতিবার এশিয়ার বাজারে সকালের লেনদেনে ব্রেন্ট ক্রুড তেলের দাম ৮ দশমিক ৫১ শতাংশ বেড়ে ব্যারেলপ্রতি ১০০ দশমিক ৫০ ডলারে ওঠে।",
+        "image_s3_key": "prothomalo-bangla/2025-10-29/bk453pjw/prothomalo-bangla2022-1220ce22ed-ca1e-4566-9a99-d1b9eee452703Dprintedoilbarrels.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-29/bk453pjw/prothomalo-bangla2022-1220ce22ed-ca1e-4566-9a99-d1b9eee452703Dprintedoilbarrels.avif?auto=format,compress"
+      },
+      {
+        "headline": "বাংলাদেশে কিডনির রোগ বাড়ছে কেন? সবচেয়ে কার্যকর সমাধান জেনে রাখুন",
+        "url": "https://www.prothomalo.com/lifestyle/health/gdrkgt69xw",
+        "published_at": "2026-03-12T06:00:00+00:00",
+        "summary": "কিডনি-স্বাস্থ্য এখন একটি জাতীয়, বৈশ্বিক ও পরিবেশগত জনস্বাস্থ্য চ্যালেঞ্জ। বিশ্বে প্রতি ১০ জনে একজন মানুষ দীর্ঘমেয়াদি কিডনির রোগে (ক্রনিক কিডনি ডিজিজ) আক্রান্ত। ",
+        "image_s3_key": "prothomalo-bangla/2025-07-01/7fx04plk/Thumb.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-07-01/7fx04plk/Thumb.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বিস্তৃত হচ্ছে এনসিপি, চারটি সংগঠন হয়েছে, আরও দুটি আসছে",
+        "url": "https://www.prothomalo.com/politics/93lt5bo7aq",
+        "published_at": "2026-03-12T06:00:00+00:00",
+        "summary": "জাতীয় ছাত্রশক্তি ও জাতীয় শ্রমিক শক্তি এবং জাতীয় যুবশক্তি ও জাতীয় নারীশক্তির আত্মপ্রকাশ এরই মধ্যে হয়েছে। অপেক্ষায় আছে জাতীয় কৃষক শক্তি ও জাতীয় স্বেচ্ছাসেবক শক্তি।",
+        "image_s3_key": "prothomalo-bangla/2026-02-19/k9fcqurz/Untitled-5.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-19/k9fcqurz/Untitled-5.png?auto=format,compress"
+      },
+      {
+        "headline": "স্পিকার নির্বাচিত হলেন হাফিজ উদ্দিন আহমদ, ডেপুটি স্পিকার কায়সার কামাল ",
         "url": "https://www.prothomalo.com/politics/mktlwvtdjy",
-        "published_at": "2026-03-12T05:10:51.097000+00:00",
+        "published_at": "2026-03-12T05:59:47.099000+00:00",
         "summary": " বেলা ১১টার কিছু পরে স্পিকারের চেয়ার খালি রেখে সংসদ অধিবেশনের কার্যক্রম শুরু হয়। ",
         "image_s3_key": "prothomalo-bangla/2026-03-11/gs3pjo8h/Capture.PNG",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/gs3pjo8h/Capture.PNG?auto=format,compress"
+      },
+      {
+        "headline": "স্পিকার নির্বাচিত হলেন হাফিজ উদ্দিন আহমদ",
+        "url": "https://www.prothomalo.com/video/bangladesh/125r72jajf",
+        "published_at": "2026-03-12T05:57:45.946000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-12/pnkfda6r/Web.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/pnkfda6r/Web.jpg?auto=format,compress"
+      },
+      {
+        "headline": "যে হাসপাতালের মেঝেতে নানাকে নিয়ে ছিলেন, এখন সেখানকার আবাসিক চিকিৎসকের দায়িত্বে",
+        "url": "https://www.prothomalo.com/bangladesh/nozdiebf9f",
+        "published_at": "2026-03-12T05:52:47.682000+00:00",
+        "summary": "২০১১ সালের অক্টোবরে সাব্বিরের নানা স্ট্রোক করার পর হাসপাতালে ভর্তি হয়েছিলেন। একই মাসে তিনি মারা যান। এর আগের মাসে সাব্বির মেডিকেলে ভর্তির সুযোগ পান।",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/hvdc28tc/Sabbir-1.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/hvdc28tc/Sabbir-1.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "বুড়ো হাড়ে ভেলকি দেখালেন অনিল কাপুর",
+        "url": "https://www.prothomalo.com/entertainment/ott/7b2csr332y",
+        "published_at": "2026-03-12T05:48:45.942000+00:00",
+        "summary": "পর্দায় তাঁর নায়কোচিত উপস্থিতিতে ৬৯ বছর বয়সে সত্যি সত্যি ‘ইয়ং’ হয়ে উঠেছেন অনিল কাপুর। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-10/wprvfgcy/212233-hxtvophpmb-1772387826.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/wprvfgcy/212233-hxtvophpmb-1772387826.jpg?auto=format,compress"
+      },
+      {
+        "headline": "চ্যাম্পিয়নস লিগে এ কোন দুর্দশায় ‘বিশ্বসেরা’ প্রিমিয়ার লিগের পরাশক্তিরা ",
+        "url": "https://www.prothomalo.com/sports/football/pm604ams40",
+        "published_at": "2026-03-12T05:43:18.379000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-12/pct1iq0j/2026-03-11T220236Z1668978411UP1EM3B1OY6NKRTRMADP3SOCCER-CHAMPIONS-RMA-MCI.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/pct1iq0j/2026-03-11T220236Z1668978411UP1EM3B1OY6NKRTRMADP3SOCCER-CHAMPIONS-RMA-MCI.JPG?auto=format,compress"
+      },
+      {
+        "headline": "জাতীয় সংসদে প্রধানমন্ত্রী তারেক রহমানের বক্তব্য",
+        "url": "https://www.prothomalo.com/video/bangladesh/0hhjbt53w0",
+        "published_at": "2026-03-12T05:37:49.601000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-12/ases7wfb/Web.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/ases7wfb/Web.jpg?auto=format,compress"
+      },
+      {
+        "headline": "অ্যান্ড্রয়েডে কাস্টম কলার আইডি কার্ড, লোকেশন শেয়ারিংয়ে নতুন সুবিধা",
+        "url": "https://www.prothomalo.com/technology/0qxzaeizgb",
+        "published_at": "2026-03-12T05:31:54.886000+00:00",
+        "summary": "অ্যান্ড্রয়েড ব্যবহারকারীদের জন্য একাধিক নতুন সুবিধা চালুর ঘোষণা দিয়েছে গুগল।",
+        "image_s3_key": "prothomalo-bangla/2026-03-11/oh7xrdty/Androied.reuters.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/oh7xrdty/Androied.reuters.png?auto=format,compress"
+      },
+      {
+        "headline": "ইরান যুদ্ধে ছয় দিনে যুক্তরাষ্ট্রের খরচ ১১ বিলিয়ন ডলার ছাড়িয়েছে: ট্রাম্প প্রশাসন",
+        "url": "https://www.prothomalo.com/world/middle-east/4eqxr7s9cj",
+        "published_at": "2026-03-12T05:20:00+00:00",
+        "summary": "মার্কিন কর্মকর্তারা আইনপ্রণেতাদের জানিয়েছেন, হামলার প্রথম দুই দিনেই প্রায় ৫৬০ কোটি (৫ দশমিক ৬ বিলিয়ন) ডলারের গোলাবারুদ ও সমরাস্ত্র ব্যবহার করা হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/u6ar3u92/Iran-war-cost.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/u6ar3u92/Iran-war-cost.jpg?auto=format,compress"
       },
       {
         "headline": "ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন",
@@ -25,14 +145,6 @@
         "summary": " উন্মুক্ত বিশ্ববিদ্যালয়ে ২০ ফেব্রুয়ারি ২০২৬ প্রকাশিত নিয়োগ বিজ্ঞপ্তিতে আবেদনের সময় বৃদ্ধি করা হয়েছে।",
         "image_s3_key": "prothomalo-bangla/2025-05-25/k13281s6/BOU.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-05-25/k13281s6/BOU.jpg?auto=format,compress"
-      },
-      {
-        "headline": "যুদ্ধ বন্ধে তিন শর্ত দিলেন ইরানের প্রেসিডেন্ট পেজেশকিয়ান",
-        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-12T05:05:55.172000+00:00",
-        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
       },
       {
         "headline": "আমরা আবার পুরোনো ব্যবস্থায় ফিরে যাচ্ছি না তো?",
@@ -75,6 +187,14 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/u4obuyjh/257020-01-02.jpg?auto=format,compress"
       },
       {
+        "headline": "আল–আকসা মসজিদে ১২ দিন ধরে মুসল্লিদের ঢুকতে দিচ্ছে না ইসরায়েল, ৮ দেশের নিন্দা",
+        "url": "https://www.prothomalo.com/world/middle-east/othefgai5m",
+        "published_at": "2026-03-12T04:30:00+00:00",
+        "summary": "নিন্দা জানিয়েছে গত মঙ্গলবার হামাস বলেছে, এটি একটি ‘বিপজ্জনক ঐতিহাসিক নজির’ এবং মানুষের প্রার্থনার স্বাধীনতার ‘সুস্পষ্ট লঙ্ঘন’।",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/tp4jzhhc/Al-Aqsa-Mosque.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/tp4jzhhc/Al-Aqsa-Mosque.webp?auto=format,compress"
+      },
+      {
         "headline": "বিশ্বের শীর্ষ ধনী ইলন মাস্ক, ধারেকাছে কেউ নেই",
         "url": "https://www.prothomalo.com/business/world-business/f4uuthtk7e",
         "published_at": "2026-03-12T04:30:00+00:00",
@@ -89,14 +209,6 @@
         "summary": "এবার ঠাকুরগাঁওয়ের লিচুবাগানে মুকুলের বদলে অধিকাংশ গাছে দেখা যাচ্ছে নতুন পাতা। যেসব গাছে মুকুল এসেছে, তাতেও কচিপাতার আধিক্য।",
         "image_s3_key": "prothomalo-bangla/2026-03-11/8ldedo4o/ThakurgaonDH05972026030920260304111637.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/8ldedo4o/ThakurgaonDH05972026030920260304111637.jpg?auto=format,compress"
-      },
-      {
-        "headline": "আল–আকসা মসজিদে ১২ দিন ধরে মুসল্লিদের ঢুকতে দিচ্ছে না ইসরায়েল, ৮ দেশের নিন্দা",
-        "url": "https://www.prothomalo.com/world/middle-east/othefgai5m",
-        "published_at": "2026-03-12T04:30:00+00:00",
-        "summary": "নিন্দা জানিয়েছে গত মঙ্গলবার হামাস বলেছে, এটি একটি ‘বিপজ্জনক ঐতিহাসিক নজির’ এবং মানুষের প্রার্থনার স্বাধীনতার ‘সুস্পষ্ট লঙ্ঘন’।",
-        "image_s3_key": "prothomalo-bangla/2026-03-12/tp4jzhhc/Al-Aqsa-Mosque.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/tp4jzhhc/Al-Aqsa-Mosque.webp?auto=format,compress"
       },
       {
         "headline": "বাংলায় মূল ভাব লেখো, ৫ নম্বর পাও",
@@ -203,20 +315,174 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-06/55dcab3f-8c60-4a69-b46e-f84e8ef81343/np_file_161678.jpeg?auto=format,compress"
       },
       {
-        "headline": "কক্সবাজার এক্সপ্রেসে দুই মাসেই আয় বেড়েছে কোটি টাকা, বাকি ট্রেনে কত",
-        "url": "https://www.prothomalo.com/bangladesh/district/dhmqw399ck",
-        "published_at": "2026-03-12T03:00:00+00:00",
-        "summary": "সরাসরি টিকিটের দাম না বাড়িয়ে পন্টেজ চার্জ আরোপের মাধ্যমে ভাড়া সমন্বয় করা হয়েছে। এর ফলে প্রায় ৯ বছর পর ট্রেনের ভাড়া বাড়ায় রেলওয়ের পূর্বাঞ্চল।",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/ok6pg44n/4.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/ok6pg44n/4.jpeg?auto=format,compress"
-      },
-      {
         "headline": "নাভানা ফার্মা দখলচেষ্টা তদন্তে বিএসইসির কমিটি, দুই সভার কার্যকারিতা স্থগিত",
         "url": "https://www.prothomalo.com/business/market/5n3jqde6s3",
         "published_at": "2026-03-12T03:00:00+00:00",
         "summary": "গত ২৮ জানুয়ারি কোম্পানিটির পর্ষদ সভায় সাবেক কয়েকজন পরিচালক হঠাৎ অনলাইনে যুক্ত হয়ে সিদ্ধান্ত গ্রহণে প্রভাব বিস্তার করেন বলে বিএসইসিতে অভিযোগের পর এই সিদ্ধান্ত নেওয়া হয়।",
         "image_s3_key": "prothomalo-bangla/2021-02/108227d0-cc38-46ef-b07c-b699ce646840/Dhaka_South_City_Corporation.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-02/108227d0-cc38-46ef-b07c-b699ce646840/Dhaka_South_City_Corporation.jpg?auto=format,compress"
+      },
+      {
+        "headline": "অসহায় স্বীকারোক্তি, গোপনে পরাজয় মেনে নিল ইসরায়েল?",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227244",
+        "published_at": "2026-03-12T10:46:24+06:00",
+        "summary": "চলমান যুদ্ধের মাধ্যমে ইরানের ধর্মীয় নেতৃত্বাধীন সরকারের পতন ঘটাবে-এমন কোনও নিশ্চয়তা নেই। পর্দার আড়ালে ইসরায়েলি কর্মকর্তারা এই বাস্তবতা স্বীকার করে নিয়েছেন। একজন জ্যেষ্ঠ ইসরায়েলি কর্মকর্তা ব্রিটিশ বার্তাসংস্থা রয়টার্সকে এ তথ্য জানিয়েছেন। একই সঙ্গে ইরানে চলমান বোমাবর্ষণের মধ্যেও কোনও গণঅভ্যুত্থানের লক্ষণ দেখা যাচ্ছে না বলেও উল্লেখ করেন তিনি।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773290783-b10c4c2fb2e0252719a5528bed28871f.jpg"
+      },
+      {
+        "headline": "আমিরাত কারো সহজ শিকার নয়, প্রেসিডেন্ট আল নাহিয়ানের হুঁশিয়ারি",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227222",
+        "published_at": "2026-03-12T08:42:02+06:00",
+        "summary": "মধ্যপ্রাচ্যে যুদ্ধ ছড়িয়ে পড়ার পরিপ্রেক্ষিতে প্রথমবারের মতো মুখ খুলেছেন সংযুক্ত আরব আমিরাতের (ইউএই) প্রেসিডেন্ট শেখ মোহাম্মদ বিন জায়েদ আল নাহিয়ান। ইরানকে ইঙ্গিত করে তিনি বলেছেন, সংযুক্ত আরব আমিরাতের চামড়া পুরু এবং মাংস তিতা— আমরা সহজ শিকার নই।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773283320-0b9163d73d8bb368db682a04a8ebb848.jpg"
+      },
+      {
+        "headline": "যুক্তরাষ্ট্রের বিখ্যাত প্রতিষ্ঠানে সাইবার হামলার দাবি ইরানি হ্যাকারদের, বিশ্বজুড়ে পরিষেবা ব্যাহত",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227206",
+        "published_at": "2026-03-12T02:25:48+06:00",
+        "summary": "ইরান ও ইসরায়েলের মধ্যে চলমান সামরিক উত্তেজনার আঁচ এবার লাগল সাইবার জগতেও। গত মাসে ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের বিমান হামলা শুরুর পর প্রথমবারের মতো বড় কোনো মার্কিন অবকাঠামোয় সাইবার হামলার দাবি করেছে ইরানপন্থী হ্যাকাররা।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773260747-0d40bb7ae83f974d558d659c20876c94.jpg"
+      },
+      {
+        "headline": "ইরানে সরকার পতন হচ্ছে না, ‘হার মেনে নিয়েছে’ ইসরায়েল: রয়টার্সের প্রতিবেদন",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227204",
+        "published_at": "2026-03-12T01:54:12+06:00",
+        "summary": "ইরানের ধর্মীয় নেতৃত্বাধীন সরকারকে সামরিক শক্তির জোরে উৎখাত করা সম্ভব—এমন দৃঢ় অবস্থান থেকে এবার পিছু হটতে শুরু করেছে ইসরায়েল। যুদ্ধের মাধ্যমে দেশটিতে সরকার পরিবর্তনের যে লক্ষ্য তেল আবিব ও ওয়াশিংটন নির্ধারণ করেছিল, বাস্তবে তার প্রতিফলন না ঘটায় পর্দার আড়ালে নিজেদের ‘অসহায়ত্ব’ স্বীকার করে নিচ্ছেন ইসরায়েলি কর্মকর্তারা।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773258851-0d40bb7ae83f974d558d659c20876c94.jpg"
+      },
+      {
+        "headline": "দুবাইয়ের বাসিন্দাদের খোলা জায়গা ও দরজা-জানালা থেকে দূরে থাকার নির্দেশ",
+        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227187",
+        "published_at": "2026-03-12T00:59:51+06:00",
+        "summary": "মধ্যপ্রাচ্যে ক্রমবর্ধমান উত্তেজনার প্রেক্ষাপটে সংযুক্ত আরব আমিরাতের দুবাইয়ে সর্বোচ্চ সতর্কতা বা হাই অ্যালার্ট জারি করা হয়েছে। ইরান থেকে ধেয়ে আসা ক্ষেপণাস্ত্র ও ড্রোন হামলার আশঙ্কায় দেশটির প্রতিরক্ষা মন্ত্রণালয় এক জরুরি বার্তায় বাসিন্দাদের নিরাপদ আশ্রয়ে থাকার আহ্বান জানিয়েছে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773255590-0d40bb7ae83f974d558d659c20876c94.jpg"
+      },
+      {
+        "headline": "খণ্ডিতভাবে ডেপুটি স্পিকার চাচ্ছি না, আমরা চাই প্যাকেজ: জামায়াত আমির",
+        "url": "https://www.bd-pratidin.com/national/2026/03/11/1227073",
+        "published_at": "2026-03-11T21:57:27+06:00",
+        "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমির ও জাতীয় সংসদের বিরোধীদলীয় নেতা ডা. শফিকুর রহমান বলেছেন, ‘জুলাই সনদেই আছে যে একজন ডেপুটি স্পিকার বিরোধী দল থেকে হবেন। আমরা খণ্ডিতভাবে এটা চাচ্ছি না, আমরা চাই প্যাকেজ, আমরা চাই পিস মিল; পুরোটাই সেখানে গ্রহণ ও বাস্তবায়ন হোক এবং এর ভিত্তিতে আমরা যেন আমাদের ন্যায্য দায়িত্ব পালন করতে পারি।’",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773244646-6a2a7385c3b402930eaa610e58719e63.jpg"
+      },
+      {
+        "headline": "ভালো রাজনৈতিক সংস্কৃতির চর্চা সংসদ থেকে শুরু করতে চাই : স্বরাষ্ট্রমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227064",
+        "published_at": "2026-03-11T21:26:25+06:00",
+        "summary": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ বলেছেন, আমাদের বিদ্যমান রাজনৈতিক সংস্কৃতিকে আমরা উন্নত করার চেষ্টা করছি ধীরে ধীরে বা পর্যায়ক্রমে। তবে এটা রাতারাতি বাস্তবায়ন সম্ভব নয়, এর জন্য সময় লাগবে। আমরা গণতান্ত্রিক ভালো প্র্যাকটিসগুলো করতে চাই; অতীতের খারাপ সংস্কৃতি দূর করে ভালো সংস্কৃতি চর্চা, সৃজন ও লালনের মাধ্যমে ভালো রাজনৈতিক সংস্কৃতি নিয়ে আসতে চাই। আর ভালো রাজনৈতিক সংস্কৃতির চর্চা আমরা জাতীয় সংসদ থেকেই শুরু করতে চাই।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773242784-bcb084523dc2f12fbeab29d347dc53e8.jpg"
+      },
+      {
+        "headline": "জুনে চালু হতে পারে ই-হেলথ কার্ড: স্বাস্থ্যমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227063",
+        "published_at": "2026-03-11T21:15:32+06:00",
+        "summary": "দেশের স্বাস্থ্যসেবাকে আরও শক্তিশালী, সমন্বিত ও কার্যকর করতে জাতীয় ই-হেলথ কার্ড আগামী জুনে চালু করার আশাবাদ ব্যক্ত করেছেন স্বাস্থ্য ও পরিবারকল্যাণ মন্ত্রণালয়ের মন্ত্রী সরদার মো. সাখাওয়াত হোসেন। তিনি বলেন, প্রধানমন্ত্রী তারেক রহমান জনগণের সেবা জোরদারের অগ্রাধিকারপ্রাপ্ত উদ্যোগ হিসেবে এ কার্ড বাস্তবায়নের নির্দেশনা দিয়েছেন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773242130-38350963439d6ac6cfbdf38eca049648.jpg"
+      },
+      {
+        "headline": "নাহিদ রানাকে প্রশংসায় ভাসালেন পাকিস্তানের কোচ",
+        "url": "https://www.bd-pratidin.com/sports/2026/03/11/1227061",
+        "published_at": "2026-03-11T21:10:36+06:00",
+        "summary": "পাকিস্তানকে তিন ম্যাচ সিরিজের প্রথম ওয়ানডেতে হেসেখেলে হারিয়েছে বাংলাদেশ। বুধবার মিরপুরে ব্যাটিংয়ে নেমে পেসার নাহিদ রানার বোলিং তোপে ৩০.৪ ওভারে ১১৪ রানেই গুটিয়ে যায় পাকিস্তান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241835-bd06ce96d57fa9e331ff472d661b4f38.jpg"
+      },
+      {
+        "headline": "মানবাধিকার পরিস্থিতির সূচক উন্নতির দিকে: আইনমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227060",
+        "published_at": "2026-03-11T21:05:43+06:00",
+        "summary": "আইন, বিচার ও সংসদবিষয়ক মন্ত্রী মো. আসাদুজ্জামান বলেছেন, বাংলাদেশে মানবাধিকার পরিস্থিতির সূচক বর্তমানে উন্নতির দিকে রয়েছে। বিচারবহির্ভূত হত্যাকাণ্ড ও জোরপূর্বক গুম এখন প্রায় শূন্যের কোটায় নামিয়ে আনা হয়েছে এবং গায়েবি ও মিথ্যা মামলাও উল্লেখযোগ্যভাবে কমানো হয়েছে। এ অগ্রগতি আরও এগিয়ে নিতে আইনজীবীদের সহযোগিতা প্রয়োজন।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241542-78d5c5b028f169118af9a9505ef338fb.jpg"
+      },
+      {
+        "headline": "গণ-আকাঙ্ক্ষার সংসদের যাত্রা আজ",
+        "url": "https://dailynayadiganta.com/printed-edition/xNxBzUOLMNCr/",
+        "published_at": null,
+        "summary": "শক্তিশালী সরকার ও কার্যকর বিরোধী দলের উপস্থিতি সংসদকে আরো প্রাণবন্ত ও কার্যকর করে তুলতে পারে। তবে জুলাই সনদ বাস্তবায়ন ও সংবিধান সংস্কার প্রশ্নে শুরু থেকেই সরকারি দল বিএনপি এবং বিরোধী জোট জামায়াত-এনসিপির মধ্যে টানাপড়েন তৈরি হওয়ার আশঙ্কাও রয়েছে। এ উত্তাপ সংসদ এবং রাজপথ দুই ক্ষেত্রেই প্রতিফলিত হতে পারে বলে মনে করছেন পর্যবেক্ষকরা। ইতোমধ্যে ইঙ্গিত পাওয়া গেছে, প্রথম দিনেই রাষ্ট্রপতির ভাষণের প্রতিবাদ জানিয়ে ওয়াকআউট করতে পারেন বিরোধী জোটের সংসদ সদস্যরা।",
+        "image_url": "https://media.ndiganta.com/images/Screenshot_20260218-0.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "ইরানকে যুদ্ধে কেন হারানো যাবে না",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/44PqjKIZBXbY/",
+        "published_at": null,
+        "summary": "মধ্যপ্রাচ্যে চলমান সঙ্ঘাত এখন আর সীমিত সামরিক উত্তেজনার পর্যায়ে নেই। এ সঙ্ঘাত এখন বহুস্তরের  সামরিক হামলা, প্রক্সি যুদ্ধ, সাইবার সঙ্ঘাত, জ্বালানি রাজনীতি এবং বৈশ্বিক কূটনৈতিক মেরুকরণের সমন্বয়ে এক জটিল ভূরাজনৈতিক সঙ্কটে পরিণত। যুদ্ধের কয়েক দিনেই স্পষ্ট হয়ে উঠেছে যে, এটি কেবল দুই রাষ্ট্রের সংঘর্ষ নয়; বরং মধ্যপ্রাচ্যের শক্তির ভারসাম্য পুনর্গঠনের বৃহৎ লড়াই।",
+        "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "জাতীয় সংসদের স্পিকার হলেন মেজর হাফিজ উদ্দিন",
+        "url": "https://dailynayadiganta.com/bangladesh/national/QuSN35DEVImJ/",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদের স্পিকার হিসেবে নির্বাচিত হয়েছেন মেজর (অব.) হাফিজ উদ্দিন আহমদ। তিনি ভোলা-৩ আসন থেকে সংসদ সদস্য নির্বাচিত হয়েছেন।",
+        "image_url": "https://media.ndiganta.com/original_images/mejor-hafiz.jpg"
+      },
+      {
+        "headline": "সিংড়ায় অবৈধভাবে জ্বালানি তেল মজুদ, ব্যবসায়ীকে জরিমানা",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/0S7gV4o7xMlw/",
+        "published_at": null,
+        "summary": "অবৈধভাবে জ্বালানি তেল মজুদ করে বেশি দামে বিক্রয়ের অপরাধে আসাদ আলী নামে এক তেল ব্যবসায়ীকে জরিমানা করেছেন ভ্রাম্যমাণ আদালতের নির্বাহী ম্যাজিস্ট্রেট আব্দুল্লাহ আল রিফাত।",
+        "image_url": "https://media.ndiganta.com/original_images/Natore_4wZ0Alh.jpg"
+      },
+      {
+        "headline": "সংসদের প্রথম অধিবেশনের সভাপতি খন্দকার মোশাররফ হোসেন",
+        "url": "https://dailynayadiganta.com/bangladesh/national/uhrd5TkNPOX4/",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশনে সভাপতিত্ব করছেন বিএনপির জ্যেষ্ঠ নেতা ও সংসদ সদস্য খন্দকার মোশাররফ হোসেন। তিনি স্পিকার ও ডেপুটি স্পিকার নির্বাচিত না হওয়া পর্যন্ত আপাতত সংসদের দায়িত্ব পালন করবেন।",
+        "image_url": "https://media.ndiganta.com/original_images/mosharraf.jpg"
+      },
+      {
+        "headline": "আনোয়ারায় বালুখেকোদের বিরুদ্ধে অভিযান, আড়াই লাখ টাকা জরিমানা",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/wuq47ECLHAIZ/",
+        "published_at": null,
+        "summary": "পৃথক দু’টি অভিযানে এ জরিমানা করা হয় এবং বালু উত্তোলনে ব্যবহৃত সরঞ্জাম জব্দ ও ধ্বংস করা হয়।",
+        "image_url": "https://media.ndiganta.com/original_images/Anowara_LgixFGp.jpg"
+      },
+      {
+        "headline": "হাসপাতালে ভর্তি মির্জা আব্বাস",
+        "url": "https://dailynayadiganta.com/bangladesh/politics/JB0tC4JVbaYM/",
+        "published_at": null,
+        "summary": "মির্জা আব্বাস ইফতারের সময় অসুস্থ হয়ে রাজধানীর এভারকেয়ার হাসপাতালে ভর্তি হয়েছেন। তার সুস্থতার জন্য দেশবাসীর কাছে দোয়া চেয়েছেন আফরোজা আব্বাস।",
+        "image_url": "https://media.ndiganta.com/original_images/Abbas_MdxTDAB.jpg"
+      },
+      {
+        "headline": "ত্রয়োদশ সংসদের প্রথম অধিবেশন শুরু",
+        "url": "https://dailynayadiganta.com/bangladesh/national/GmUmUYCq9BrS/",
+        "published_at": null,
+        "summary": "বাংলাদেশ জাতীয় সংসদের ত্রয়োদশ সংসদের প্রথম অধিবেশন শুরু হয়েছে। প্রধানমন্ত্রীর প্রস্তাবে অধিবেশনে সভাপতিত্বের দায়িত্ব পেয়েছেন খন্দকার মোশাররফ হোসেন।",
+        "image_url": "https://media.ndiganta.com/original_images/songsod1.jpg"
+      },
+      {
+        "headline": "মিরসরাইয়ে মধ্যরাত পর্যন্ত চলছে ঈদের কেনাকাটা, পুলিশের তৎপরতা বাড়ানোর তাগিদ",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/WhxFQSKEkcVG/",
+        "published_at": null,
+        "summary": "ইফতারের পর ক্রেতাদের উপচে পড়া ভিড় থাকে পুরো এলাকায়। পোশাক, জুতা, ব্যাগ ও কসমেটিকসের দোকানে চলছে জমজমাট বেচাকেনা আর দর কষাকষি।",
+        "image_url": "https://media.ndiganta.com/original_images/Mirsorai_Nbmj56k.jpg"
+      },
+      {
+        "headline": "ঈদ ফিরতি ট্রেনযাত্রার টিকিট বিক্রি শুরু আগামীকাল",
+        "url": "https://dailynayadiganta.com/bangladesh/national/bAUC0hfnnb0n/",
+        "published_at": null,
+        "summary": "সকাল ৮টা থেকে অনলাইনে পশ্চিমাঞ্চলের সব আন্তঃনগর ট্রেনের টিকিট বিক্রি শুরু হয়েছে। অন্যদিকে দুপুর ২টা থেকে পূর্বাঞ্চলের সব আন্তঃনগর ট্রেনের অগ্রিম টিকিট বিক্রি করা হবে।",
+        "image_url": "https://media.ndiganta.com/original_images/20250524_083814.jpg"
+      },
+      {
+        "headline": "আজকের সর্বশেষ খবর - March 12, 2026",
+        "url": "https://www.jugantor.com/latest",
+        "published_at": null,
+        "summary": "গণঅভ্যুত্থানের মাধ্যমে আওয়ামী লীগ সরকার পতনের ১৮ মাস পর ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন শুরু হয়েছে। বেশকিছু নতুনত্ব নিয়ে এবারের ...",
+        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+      },
+      {
+        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+        "published_at": null,
+        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "কক্সবাজার এক্সপ্রেসে দুই মাসেই আয় বেড়েছে কোটি টাকা, বাকি ট্রেনে কত",
+        "url": "https://www.prothomalo.com/bangladesh/district/dhmqw399ck",
+        "published_at": "2026-03-12T03:00:00+00:00",
+        "summary": "সরাসরি টিকিটের দাম না বাড়িয়ে পন্টেজ চার্জ আরোপের মাধ্যমে ভাড়া সমন্বয় করা হয়েছে। এর ফলে প্রায় ৯ বছর পর ট্রেনের ভাড়া বাড়ায় রেলওয়ের পূর্বাঞ্চল।",
+        "image_s3_key": "prothomalo-bangla/2026-03-11/ok6pg44n/4.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/ok6pg44n/4.jpeg?auto=format,compress"
       },
       {
         "headline": "বদর বিজয় পরবর্তী প্রত্যাবর্তন, ইবনে তাইমিয়ার লড়াই",
@@ -315,83 +581,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/o5wf7hi2/50dac52d-dc50-4499-b1d9-9051e9376864.jpg?auto=format,compress"
       },
       {
-        "headline": "অসহায় স্বীকারোক্তি, গোপনে পরাজয় মেনে নিল ইসরায়েল?",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227244",
-        "published_at": "2026-03-12T10:46:24+06:00",
-        "summary": "চলমান যুদ্ধের মাধ্যমে ইরানের ধর্মীয় নেতৃত্বাধীন সরকারের পতন ঘটাবে-এমন কোনও নিশ্চয়তা নেই। পর্দার আড়ালে ইসরায়েলি কর্মকর্তারা এই বাস্তবতা স্বীকার করে নিয়েছেন। একজন জ্যেষ্ঠ ইসরায়েলি কর্মকর্তা ব্রিটিশ বার্তাসংস্থা রয়টার্সকে এ তথ্য জানিয়েছেন। একই সঙ্গে ইরানে চলমান বোমাবর্ষণের মধ্যেও কোনও গণঅভ্যুত্থানের লক্ষণ দেখা যাচ্ছে না বলেও উল্লেখ করেন তিনি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773290783-b10c4c2fb2e0252719a5528bed28871f.jpg"
-      },
-      {
-        "headline": "আমিরাত কারো সহজ শিকার নয়, প্রেসিডেন্ট আল নাহিয়ানের হুঁশিয়ারি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227222",
-        "published_at": "2026-03-12T08:42:02+06:00",
-        "summary": "মধ্যপ্রাচ্যে যুদ্ধ ছড়িয়ে পড়ার পরিপ্রেক্ষিতে প্রথমবারের মতো মুখ খুলেছেন সংযুক্ত আরব আমিরাতের (ইউএই) প্রেসিডেন্ট শেখ মোহাম্মদ বিন জায়েদ আল নাহিয়ান। ইরানকে ইঙ্গিত করে তিনি বলেছেন, সংযুক্ত আরব আমিরাতের চামড়া পুরু এবং মাংস তিতা— আমরা সহজ শিকার নই।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773283320-0b9163d73d8bb368db682a04a8ebb848.jpg"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্রের বিখ্যাত প্রতিষ্ঠানে সাইবার হামলার দাবি ইরানি হ্যাকারদের, বিশ্বজুড়ে পরিষেবা ব্যাহত",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227206",
-        "published_at": "2026-03-12T02:25:48+06:00",
-        "summary": "ইরান ও ইসরায়েলের মধ্যে চলমান সামরিক উত্তেজনার আঁচ এবার লাগল সাইবার জগতেও। গত মাসে ইরানে যুক্তরাষ্ট্র ও ইসরায়েলের বিমান হামলা শুরুর পর প্রথমবারের মতো বড় কোনো মার্কিন অবকাঠামোয় সাইবার হামলার দাবি করেছে ইরানপন্থী হ্যাকাররা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773260747-0d40bb7ae83f974d558d659c20876c94.jpg"
-      },
-      {
-        "headline": "ইরানে সরকার পতন হচ্ছে না, ‘হার মেনে নিয়েছে’ ইসরায়েল: রয়টার্সের প্রতিবেদন",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227204",
-        "published_at": "2026-03-12T01:54:12+06:00",
-        "summary": "ইরানের ধর্মীয় নেতৃত্বাধীন সরকারকে সামরিক শক্তির জোরে উৎখাত করা সম্ভব—এমন দৃঢ় অবস্থান থেকে এবার পিছু হটতে শুরু করেছে ইসরায়েল। যুদ্ধের মাধ্যমে দেশটিতে সরকার পরিবর্তনের যে লক্ষ্য তেল আবিব ও ওয়াশিংটন নির্ধারণ করেছিল, বাস্তবে তার প্রতিফলন না ঘটায় পর্দার আড়ালে নিজেদের ‘অসহায়ত্ব’ স্বীকার করে নিচ্ছেন ইসরায়েলি কর্মকর্তারা।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773258851-0d40bb7ae83f974d558d659c20876c94.jpg"
-      },
-      {
-        "headline": "দুবাইয়ের বাসিন্দাদের খোলা জায়গা ও দরজা-জানালা থেকে দূরে থাকার নির্দেশ",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227187",
-        "published_at": "2026-03-12T00:59:51+06:00",
-        "summary": "মধ্যপ্রাচ্যে ক্রমবর্ধমান উত্তেজনার প্রেক্ষাপটে সংযুক্ত আরব আমিরাতের দুবাইয়ে সর্বোচ্চ সতর্কতা বা হাই অ্যালার্ট জারি করা হয়েছে। ইরান থেকে ধেয়ে আসা ক্ষেপণাস্ত্র ও ড্রোন হামলার আশঙ্কায় দেশটির প্রতিরক্ষা মন্ত্রণালয় এক জরুরি বার্তায় বাসিন্দাদের নিরাপদ আশ্রয়ে থাকার আহ্বান জানিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/12/og/1773255590-0d40bb7ae83f974d558d659c20876c94.jpg"
-      },
-      {
-        "headline": "খণ্ডিতভাবে ডেপুটি স্পিকার চাচ্ছি না, আমরা চাই প্যাকেজ: জামায়াত আমির",
-        "url": "https://www.bd-pratidin.com/national/2026/03/11/1227073",
-        "published_at": "2026-03-11T21:57:27+06:00",
-        "summary": "বাংলাদেশ জামায়াতে ইসলামীর আমির ও জাতীয় সংসদের বিরোধীদলীয় নেতা ডা. শফিকুর রহমান বলেছেন, ‘জুলাই সনদেই আছে যে একজন ডেপুটি স্পিকার বিরোধী দল থেকে হবেন। আমরা খণ্ডিতভাবে এটা চাচ্ছি না, আমরা চাই প্যাকেজ, আমরা চাই পিস মিল; পুরোটাই সেখানে গ্রহণ ও বাস্তবায়ন হোক এবং এর ভিত্তিতে আমরা যেন আমাদের ন্যায্য দায়িত্ব পালন করতে পারি।’",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773244646-6a2a7385c3b402930eaa610e58719e63.jpg"
-      },
-      {
-        "headline": "ভালো রাজনৈতিক সংস্কৃতির চর্চা সংসদ থেকে শুরু করতে চাই : স্বরাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227064",
-        "published_at": "2026-03-11T21:26:25+06:00",
-        "summary": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ বলেছেন, আমাদের বিদ্যমান রাজনৈতিক সংস্কৃতিকে আমরা উন্নত করার চেষ্টা করছি ধীরে ধীরে বা পর্যায়ক্রমে। তবে এটা রাতারাতি বাস্তবায়ন সম্ভব নয়, এর জন্য সময় লাগবে। আমরা গণতান্ত্রিক ভালো প্র্যাকটিসগুলো করতে চাই; অতীতের খারাপ সংস্কৃতি দূর করে ভালো সংস্কৃতি চর্চা, সৃজন ও লালনের মাধ্যমে ভালো রাজনৈতিক সংস্কৃতি নিয়ে আসতে চাই। আর ভালো রাজনৈতিক সংস্কৃতির চর্চা আমরা জাতীয় সংসদ থেকেই শুরু করতে চাই।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773242784-bcb084523dc2f12fbeab29d347dc53e8.jpg"
-      },
-      {
-        "headline": "জুনে চালু হতে পারে ই-হেলথ কার্ড: স্বাস্থ্যমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227063",
-        "published_at": "2026-03-11T21:15:32+06:00",
-        "summary": "দেশের স্বাস্থ্যসেবাকে আরও শক্তিশালী, সমন্বিত ও কার্যকর করতে জাতীয় ই-হেলথ কার্ড আগামী জুনে চালু করার আশাবাদ ব্যক্ত করেছেন স্বাস্থ্য ও পরিবারকল্যাণ মন্ত্রণালয়ের মন্ত্রী সরদার মো. সাখাওয়াত হোসেন। তিনি বলেন, প্রধানমন্ত্রী তারেক রহমান জনগণের সেবা জোরদারের অগ্রাধিকারপ্রাপ্ত উদ্যোগ হিসেবে এ কার্ড বাস্তবায়নের নির্দেশনা দিয়েছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773242130-38350963439d6ac6cfbdf38eca049648.jpg"
-      },
-      {
-        "headline": "নাহিদ রানাকে প্রশংসায় ভাসালেন পাকিস্তানের কোচ",
-        "url": "https://www.bd-pratidin.com/sports/2026/03/11/1227061",
-        "published_at": "2026-03-11T21:10:36+06:00",
-        "summary": "পাকিস্তানকে তিন ম্যাচ সিরিজের প্রথম ওয়ানডেতে হেসেখেলে হারিয়েছে বাংলাদেশ। বুধবার মিরপুরে ব্যাটিংয়ে নেমে পেসার নাহিদ রানার বোলিং তোপে ৩০.৪ ওভারে ১১৪ রানেই গুটিয়ে যায় পাকিস্তান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241835-bd06ce96d57fa9e331ff472d661b4f38.jpg"
-      },
-      {
-        "headline": "মানবাধিকার পরিস্থিতির সূচক উন্নতির দিকে: আইনমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227060",
-        "published_at": "2026-03-11T21:05:43+06:00",
-        "summary": "আইন, বিচার ও সংসদবিষয়ক মন্ত্রী মো. আসাদুজ্জামান বলেছেন, বাংলাদেশে মানবাধিকার পরিস্থিতির সূচক বর্তমানে উন্নতির দিকে রয়েছে। বিচারবহির্ভূত হত্যাকাণ্ড ও জোরপূর্বক গুম এখন প্রায় শূন্যের কোটায় নামিয়ে আনা হয়েছে এবং গায়েবি ও মিথ্যা মামলাও উল্লেখযোগ্যভাবে কমানো হয়েছে। এ অগ্রগতি আরও এগিয়ে নিতে আইনজীবীদের সহযোগিতা প্রয়োজন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241542-78d5c5b028f169118af9a9505ef338fb.jpg"
-      },
-      {
-        "headline": "ইরানকে যুদ্ধে কেন হারানো যাবে না",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/44PqjKIZBXbY/",
-        "published_at": null,
-        "summary": "মধ্যপ্রাচ্যে চলমান সঙ্ঘাত এখন আর সীমিত সামরিক উত্তেজনার পর্যায়ে নেই। এ সঙ্ঘাত এখন বহুস্তরের  সামরিক হামলা, প্রক্সি যুদ্ধ, সাইবার সঙ্ঘাত, জ্বালানি রাজনীতি এবং বৈশ্বিক কূটনৈতিক মেরুকরণের সমন্বয়ে এক জটিল ভূরাজনৈতিক সঙ্কটে পরিণত। যুদ্ধের কয়েক দিনেই স্পষ্ট হয়ে উঠেছে যে, এটি কেবল দুই রাষ্ট্রের সংঘর্ষ নয়; বরং মধ্যপ্রাচ্যের শক্তির ভারসাম্য পুনর্গঠনের বৃহৎ লড়াই।",
-        "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
         "headline": "এবার স্থানীয় নির্বাচনে চোখ জামায়াতের",
         "url": "https://dailynayadiganta.com/printed-edition/znHl3DvpZA53/",
         "published_at": null,
@@ -474,20 +663,6 @@
         "published_at": null,
         "summary": "হাতিয়া এলাকায় বিয়ের প্রলোভনে ডেকে নিয়ে এক নারীকে গণধর্ষণের অভিযোগে তিনজনের বিরুদ্ধে মামলা হয়েছে।",
         "image_url": "https://media.ndiganta.com/original_images/rape_Ua9vSNS.jpg"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর - March 12, 2026",
-        "url": "https://www.jugantor.com/latest",
-        "published_at": null,
-        "summary": "বাংলাদেশে নিযুক্ত ডেনমার্কের রাষ্ট্রদূত ক্রিশ্চিয়ান ব্রিক্স মোলার এবং জার্মানির রাষ্ট্রদূত ড. রুডিগার লোটজ আজ পররাষ্ট্র মন্ত্রণালয়ে পররাষ্ট্র প্রতিমন্ত্রী ...",
-        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-      },
-      {
-        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-        "published_at": null,
-        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
       },
       {
         "headline": "ইরানে আমেরিকার ধর্মযুদ্ধ! ",
@@ -1352,188 +1527,17 @@
         "published_at": null,
         "summary": "কক্সবাজারের উখিয়া উপজেলায় রমজান মাসেও থামছে না খুন, ধর্ষণ ও মাদকসংক্রান্ত অপরাধ। সর্বশেষ বুধবার (১১ মার্চ) ভোরে সেহরির সময় এক গৃহবধূকে নৃশংসভাবে ছুরিকাঘাতে হত্যা করা হয়েছে।",
         "image_url": "https://media.ndiganta.com/original_images/Ukhia-Thana-Coxbazar.jpg"
-      },
-      {
-        "headline": "বর্ধিত ১৫ ওয়ার্ডে সেবা দিতে হিমশিম খাচ্ছে সিসিক: প্রশাসক",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/xDVJfthdYhA0/",
-        "published_at": null,
-        "summary": "সিসিক প্রশাসক বলেন, আগে সিলেট সিটি করপোরেশনে ২৭টি ওয়ার্ড ছিল, বর্তমানে তা বেড়ে ৪২টিতে উন্নীত হয়েছে। নগরবাসী আধুনিক নাগরিক সুবিধা প্রত্যাশা করলেও এখনো সেই মানের সেবা পুরোপুরি নিশ্চিত করা সম্ভব হয়নি।",
-        "image_url": "https://media.ndiganta.com/original_images/Syl--1---11-3.jpg"
-      },
-      {
-        "headline": "মৌলভীবাজার জেলা বিএনপির সদস্যসচিবের বিরুদ্ধে অনাস্থা, অব্যাহতি দাবি",
-        "url": "https://www.prothomalo.com/bangladesh/district/pb5lesn6lv",
-        "published_at": "2026-03-11T14:34:39.292000+00:00",
-        "summary": "মৌলভীবাজার জেলা বিএনপির সদস্যসচিব আব্দুর রহিমের (রিপন) বিরুদ্ধে লিখিত অনাস্থা প্রকাশ করেছেন আহ্বায়ক কমিটির সংখ্যাগরিষ্ঠ সদস্য। দলীয় শৃঙ্খলা ভঙ্গ, নেতা-কর্মীদের সঙ্গে সমন্বয়হীনতা, আর্থিক অনিয়মসহ বিভিন্ন অভিযোগ এনে তাঁকে দল থেকে অব্যাহতির দাবি জানিয়েছেন তাঁরা। ",
-        "image_s3_key": "prothomalo-bangla/2025-06-18/a7lctjdz/বিএনপি-জামাত.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-06-18/a7lctjdz/বিএনপি-জামাত.jpg?auto=format,compress"
-      },
-      {
-        "headline": "এবার এনসিপির রাঙামাটি জেলার আহ্বায়কের পদত্যাগ",
-        "url": "https://www.prothomalo.com/bangladesh/district/rsq4bzo7vb",
-        "published_at": "2026-03-11T14:33:09.332000+00:00",
-        "summary": "এনসিপির জেলা কমিটির আহ্বায়ক বিপিন চাকমার আগে জেলা কমিটির যুগ্ম সদস্যসচিব ও জুরাছড়ি উপজেলা আহ্বায়ক কমিটির ৮৭ জন সদস্য পদত্যাগ করেন।",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/jqua5qbu/BAGERHATsnake.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/jqua5qbu/BAGERHATsnake.jpg?auto=format,compress"
-      },
-      {
-        "headline": "তোরসার গিনেস ওয়ার্ল্ড রেকর্ডের গল্প",
-        "url": "https://www.prothomalo.com/video/cafelive/xu9h69qxt4",
-        "published_at": "2026-03-11T14:28:07.328000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-03-11/m91lg2bd/THUMBNAIL.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/m91lg2bd/THUMBNAIL.jpg?auto=format,compress"
-      },
-      {
-        "headline": "স্পিকার–ডেপুটি স্পিকার কে হবেন, চূড়ান্ত করবেন প্রধানমন্ত্রী তারেক রহমান",
-        "url": "https://www.prothomalo.com/video/bangladesh/45t26l556p",
-        "published_at": "2026-03-11T14:27:11.086000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-03-11/adr5duhg/BARTA-SHONKHEP.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/adr5duhg/BARTA-SHONKHEP.jpg?auto=format,compress"
-      },
-      {
-        "headline": "রমজান মাসে কেন মুখের স্বাস্থ্যের যত্ন নিতে হবে",
-        "url": "https://www.prothomalo.com/lifestyle/health/e1mo6mnrx9",
-        "published_at": "2026-03-11T14:27:03.353000+00:00",
-        "summary": "ইফতারে ভাজাপোড়া খাবারের সঙ্গে অনেকেই পেঁয়াজ, রসুনও অধিক পরিমাণে খেয়ে থাকেন। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/5sehuuku/69c68b871d0ac6e06e527ea5eb0d0b72_Untitled_4.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/5sehuuku/69c68b871d0ac6e06e527ea5eb0d0b72_Untitled_4.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ঈদযাত্রা নির্বিঘ্ন করতে পরিবহনের মালিক ও শ্রমিকদের সঙ্গে ডিএমপির মতবিনিময়",
-        "url": "https://www.prothomalo.com/bangladesh/ycrzyaoure",
-        "published_at": "2026-03-11T14:26:31.826000+00:00",
-        "summary": "আসন্ন ঈদুল ফিতরে মানুষের ঈদযাত্রা নির্বিঘ্ন, নিরাপদ ও চাঁদামুক্ত করতে মহাখালী বাস টার্মিনালে পরিবহনের মালিক-শ্রমিকদের সঙ্গে পুলিশের এক মতবিনিময় সভা অনুষ্ঠিত হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/ykt0jnm9/DMP-Meeting.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/ykt0jnm9/DMP-Meeting.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "রাজধানীর আইনশৃঙ্খলা পরিস্থিতির উল্লেখযোগ্য উন্নতি হয়েছে: ডিএমপি কমিশনার",
-        "url": "https://www.prothomalo.com/bangladesh/capital/chytq8t73n",
-        "published_at": "2026-03-11T14:23:33.145000+00:00",
-        "summary": "ডিএমপি কমিশনার বলেন, ঈদ উদ্‌যাপনকে সুষ্ঠু ও নির্বিঘ্ন করতে প্রতিটি সরকারি সংস্থাকে আগের চেয়ে আরও বেশি মনোযোগ ও আন্তরিকতার সঙ্গে দায়িত্ব পালন করতে হবে।",
-        "image_s3_key": "prothomalo-bangla/2026-02-26/1xylvbuc/DMP.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/1xylvbuc/DMP.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "আগামীকাল সংবিধান সংস্কার পরিষদের যাত্রা শুরু হবে: নাহিদ ইসলাম",
-        "url": "https://www.prothomalo.com/bangladesh/district/8z6bckdabf",
-        "published_at": "2026-03-11T14:21:35.025000+00:00",
-        "summary": "বুধবার রংপুরে এনসিপির বিভাগীয় ইফতার ও দোয়া মাহফিলে প্রধান অতিথির বক্তব্য দেন দলটির আহ্বায়ক নাহিদ ইসলাম।",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/0pgmgp0x/RangpurDH049.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/0pgmgp0x/RangpurDH049.jpg?auto=format,compress"
-      },
-      {
-        "headline": "পাবনায় অভিযানেও বন্ধ হচ্ছে না ভেজাল দুধের কারবার",
-        "url": "https://www.prothomalo.com/bangladesh/district/yr26kuentj",
-        "published_at": "2026-03-11T14:19:19.938000+00:00",
-        "summary": "পাবনার বিভিন্ন এলাকায় ননি তুলে পানি ও রাসায়নিক মিশিয়ে ভেজাল দুধ তৈরির অভিযোগ উঠেছে। অভিযানে জরিমানা হলেও পুরোপুরি বন্ধ হচ্ছে না এই কারবার।",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/szrev4n4/PabnaDH060720260310Bera-Fake-Milk-6.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/szrev4n4/PabnaDH060720260310Bera-Fake-Milk-6.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ব্র্যান্ড হওয়া নয়, নাহিদের চাওয়া শুধু ‘ভালো ভালো পারফরম্যান্স’",
-        "url": "https://www.prothomalo.com/sports/cricket/sc6rsq1d0v",
-        "published_at": "2026-03-11T14:17:39.129000+00:00",
-        "summary": "আন্তর্জাতিক ক্রিকেটে পা রাখার পর প্রায় দুই বছর হয়ে গেলেও নাহিদ নিয়মিত খেলেন শুধু টেস্টে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/179multp/1c7331aa-1b29-4860-93f8-af74d0207718.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/179multp/1c7331aa-1b29-4860-93f8-af74d0207718.jpg?auto=format,compress"
-      },
-      {
-        "headline": "মানবতাবিরোধী অপরাধের মামলা থেকে মেনন ও কামরুলের অব্যাহতি চেয়ে আবেদন",
-        "url": "https://www.prothomalo.com/bangladesh/i4uf1rofqh",
-        "published_at": "2026-03-11T14:16:17.792000+00:00",
-        "summary": "ট্রাইব্যুনাল আদেশ দিয়েছেন, মেনন ও কামরুলের বিরুদ্ধে আনুষ্ঠানিক অভিযোগ গঠন করা হবে কি না, সে বিষয়ে আগামী ৩০ এপ্রিল আদেশ দেওয়া হবে।",
-        "image_s3_key": "prothomalo-bangla/2026-02-09/cutnwjxa/২.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-09/cutnwjxa/২.avif?auto=format,compress"
-      },
-      {
-        "headline": "হরমুজ প্রণালিতে মাইন বসাচ্ছে ইরান, ১৬ যুদ্ধজাহাজ ধ্বংসের দাবি যুক্তরাষ্ট্রের",
-        "url": "https://www.prothomalo.com/video/international/hfkjgntu7c",
-        "published_at": "2026-03-11T14:13:31.769000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-03-11/y8nx3m62/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/y8nx3m62/WEB.jpg?auto=format,compress"
-      },
-      {
-        "headline": "রাউজানের বৌদ্ধবিহারে আগুন, পরিকল্পিত বলে দাবি বিহার অধ্যক্ষের",
-        "url": "https://www.prothomalo.com/bangladesh/district/jm0jzj07k9",
-        "published_at": "2026-03-11T14:13:15.011000+00:00",
-        "summary": "গতকাল মঙ্গলবার দিবাগত রাত ১২টার দিকে বিহারের অধ্যক্ষ শ্রদ্ধাপাল ভিক্ষু ঘুমিয়ে পড়েন। আনুমানিক ভোর চারটার দিকে শব্দ শুনে উঠে দেখতে পান, বিহারে আগুন জ্বলছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/7vzq7nmi/WhatsApp-Image-2026-03-11-at-7.48.57-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/7vzq7nmi/WhatsApp-Image-2026-03-11-at-7.48.57-PM.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "গুলিবিদ্ধ নাফিজকে বহনকারী সেই রিকশাচালক থাকছেন ত্রয়োদশ সংসদের প্রথম অধিবেশনে",
-        "url": "https://www.prothomalo.com/bangladesh/clqv3hpds9",
-        "published_at": "2026-03-11T14:03:23.773000+00:00",
-        "summary": "জুলাই গণ-অভ্যুত্থানে গুলিবিদ্ধ শিক্ষার্থী গোলাম নাফিজকে রিকশায় নিয়ে যান নূর মোহাম্মদ। ত্রয়োদশ সংসদের প্রথম অধিবেশনে আমন্ত্রণ পেয়েছেন তিনি।",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/4sqpuc8v/Rickshaw-Puller-1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/4sqpuc8v/Rickshaw-Puller-1.jpg?auto=format,compress"
-      },
-      {
-        "headline": "মায়ের ইচ্ছা পূরণ করলেন প্রবাসী দুই ভাই, হেলিকপ্টার চড়িয়ে বাড়ি ফিরলেন",
-        "url": "https://www.prothomalo.com/bangladesh/district/gzupue4t3o",
-        "published_at": "2026-03-11T14:01:06.123000+00:00",
-        "summary": "আজ বুধবার হেলিকপ্টারে চড়ে বাড়ি পৌঁছালে তাঁদের স্বজন, প্রতিবেশী ও এলাকাবাসী মা ও প্রবাসী দুই ভাইকে ফুলেল শুভেচ্ছা জানান।",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/z0l95zxd/SylhetDH072020260311narsingdi-belabo-helicopter-2.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/z0l95zxd/SylhetDH072020260311narsingdi-belabo-helicopter-2.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ভারতে ফয়সাল করিমের গ্রেপ্তারের ছবি-ভিডিও এআই দিয়ে তৈরি",
-        "url": "https://www.prothomalo.com/bangladesh/nsk0x3czd2",
-        "published_at": "2026-03-11T14:00:13.700000+00:00",
-        "summary": "সামাজিক যোগাযোগমাধ্যমে আরেকটি ছবিও ঘুরছে, যেখানে ইনকিলাব মঞ্চের কয়েকজন সদস্যকে গ্রেপ্তারের দাবি করা হয়। সেই ছবিটিও এআই দিয়ে তৈরি।",
-        "image_s3_key": "prothomalo-bangla/2026-03-11/m3i8f5wd/Fact-01.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/m3i8f5wd/Fact-01.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ডেঙ্গু–চিকুনগুনিয়া রোধে পরিচ্ছন্নতা অভিযানের ঘোষণা তারেক রহমানের",
-        "url": "https://www.prothomalo.com/video/bangladesh/cb1o05e2f1",
-        "published_at": "2026-03-11T13:59:23.659000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-03-11/b5zm6kdi/PM-Tarique-Rahman.00050501.Still002.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/b5zm6kdi/PM-Tarique-Rahman.00050501.Still002.jpg?auto=format,compress"
-      },
-      {
-        "headline": "গোপন কক্ষে ২ কোটি ৪০ লাখ ডলার, সিনেমার আড়ালের সত্যি ঘটনা",
-        "url": "https://www.prothomalo.com/entertainment/ott/7onlkjjej2",
-        "published_at": "2026-03-11T13:45:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-01-21/kr7memhf/MV5BNGQ1YTdjZDItZTQ5ZS00ZDZmLTk0YzgtMTNmZmIzZDM4MDc5XkEyXkFqcGc.V1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-21/kr7memhf/MV5BNGQ1YTdjZDItZTQ5ZS00ZDZmLTk0YzgtMTNmZmIzZDM4MDc5XkEyXkFqcGc.V1.jpg?auto=format,compress"
-      },
-      {
-        "headline": "আনোয়ারায় অসচ্ছল পরিবারের মাঝে সেলাই মেশিন, নগদ অর্থ ও ইফতার বিতরণ",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/u4vjZCh1EYZW/",
-        "published_at": null,
-        "summary": "চট্টগ্রামের আনোয়ারায় উপজেলা প্রশাসনের আয়োজনে আল্লামা আবুল খাইর ফাউন্ডেশনের উদ্যোগে অসচ্ছল পরিবারের কর্মউদ্যোগী নারীদের মাঝে সেলাই মেশিন এবং দরিদ্র পরিবারের মাঝে নগদ অর্থ ও ইফতার সামগ্রী বিতরণ করা হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Anwara_PPZuAD0.jpg"
-      },
-      {
-        "headline": "হরমুজ প্রণালিতে কোনো জাহাজকে নিরাপত্তা দেয়া সম্ভব না | মার্কিন নৌবাহিনী",
-        "url": "https://dailynayadiganta.com/video/wF5KHrRFInhX/",
-        "published_at": null,
-        "summary": null,
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "সকল ব্যাপারে বিরোধিতা নয়, আবার না বুঝেও সহযোগিতা নয়",
-        "url": "https://dailynayadiganta.com/video/rNmSedHo82TP/",
-        "published_at": null,
-        "summary": null,
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "দিনের সব আলোচিত সংবাদ ll দিগন্ত প্রাইম টাইম",
-        "url": "https://dailynayadiganta.com/video/7ExsDB1q0FNK/",
-        "published_at": null,
-        "summary": null,
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       }
     ],
     "bangladesh": [
+      {
+        "headline": "যে হাসপাতালের মেঝেতে নানাকে নিয়ে ছিলেন, এখন সেখানকার আবাসিক চিকিৎসকের দায়িত্বে",
+        "url": "https://www.prothomalo.com/bangladesh/nozdiebf9f",
+        "published_at": "2026-03-12T05:52:47.682000+00:00",
+        "summary": "২০১১ সালের অক্টোবরে সাব্বিরের নানা স্ট্রোক করার পর হাসপাতালে ভর্তি হয়েছিলেন। একই মাসে তিনি মারা যান। এর আগের মাসে সাব্বির মেডিকেলে ভর্তির সুযোগ পান।",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/hvdc28tc/Sabbir-1.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/hvdc28tc/Sabbir-1.jpeg?auto=format,compress"
+      },
       {
         "headline": "সিলেটে ছিনতাইকারী সন্দেহে মারধরের পর পুলিশের কানে ঘুষি, ভিডিও ছড়াল ফেসবুকে",
         "url": "https://www.prothomalo.com/bangladesh/district/urwuwqk4e6",
@@ -1847,14 +1851,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/ykt0jnm9/DMP-Meeting.jpeg?auto=format,compress"
       },
       {
-        "headline": "রাজধানীর আইনশৃঙ্খলা পরিস্থিতির উল্লেখযোগ্য উন্নতি হয়েছে: ডিএমপি কমিশনার",
-        "url": "https://www.prothomalo.com/bangladesh/capital/chytq8t73n",
-        "published_at": "2026-03-11T14:23:33.145000+00:00",
-        "summary": "ডিএমপি কমিশনার বলেন, ঈদ উদ্‌যাপনকে সুষ্ঠু ও নির্বিঘ্ন করতে প্রতিটি সরকারি সংস্থাকে আগের চেয়ে আরও বেশি মনোযোগ ও আন্তরিকতার সঙ্গে দায়িত্ব পালন করতে হবে।",
-        "image_s3_key": "prothomalo-bangla/2026-02-26/1xylvbuc/DMP.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/1xylvbuc/DMP.jpeg?auto=format,compress"
-      },
-      {
         "headline": "অসহায় স্বীকারোক্তি, গোপনে পরাজয় মেনে নিল ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227244",
         "published_at": "2026-03-12T10:46:24+06:00",
@@ -2051,18 +2047,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitledtx-(15)-20260308104023.jpg"
       },
       {
-        "headline": "কুরআন তেলাওয়াতের মাধ্যমে শুরু ত্রয়োদশ সংসদের প্রথম অধিবেশন",
-        "url": "https://www.amarsangbad.com/national/news/340179",
-        "published_at": "1773292200",
-        "summary": "পবিত্র কুরআন তেলাওয়াতের মধ্য দিয়ে শুরু হয়েছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন। বৃহস্পতিবার বেলা ১১টার দিকে সংসদ ভবনে আনুষ্ঠানিকভাবে অধিবেশন শুরু হয়।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/screenshot3122026-111317-20260312051338.jpeg"
+        "headline": "ডেপুটি স্পিকার পদ নেয়নি জামায়াত",
+        "url": "https://www.amarsangbad.com/national/news/340187",
+        "published_at": "1773295790",
+        "summary": "ত্রয়োদশ জাতীয় সংসদে ডেপুটি স্পিকারের পদে বিরোধী দলকে প্রার্থী দিতে আহ্বান জানানো হলেও বাংলাদেশ জামায়াতে ইসলামী কোনো মনোনয়ন জমা দেয়নি। ফলে সরকার দলীয় প্রার্থী ব্যারিস্টার কায়সার কামাল হোসেন ডেপুটি স্পিকার হিসেবে নির্বাচিত হয়েছেন।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-design---2026-03-12T120930719-20260312060950.jpg"
       },
       {
-        "headline": "স্পিকারের আসন খালি রেখেই ত্রয়োদশ সংসদের প্রথম অধিবেশন বসছে আজ",
-        "url": "https://www.amarsangbad.com/national/news/340175",
-        "published_at": "1773290567",
-        "summary": "আজ বৃহস্পতিবার সকাল ১১টায় সংসদ ভবনে শুরু হচ্ছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন। তবে এ অধিবেশনে থাকবে না চিরাচরিত দৃশ্য স্পিকারের আসন থাকবে খালি। চব্বিশের গণ-অভ্যুত্থানের পর পরিবর্তিত রাজনৈতিক পরিস্থিতিতে এখনো স্পিকার নির্বাচিত না হওয়ায় এমন পরিস্থিতি তৈরি হয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/screenshot3122026-104225-20260312044247.jpeg"
+        "headline": "তামাক নিয়ন্ত্রণ সংশোধনী অধ্যাদেশ প্রথম অধিবেশনেই পাসের দাবি স্বাস্থ্য আন্দোলনের",
+        "url": "https://www.amarsangbad.com/national/news/340186",
+        "published_at": "1773295601",
+        "summary": "দেশের জনস্বাস্থ্য সুরক্ষা এবং তরুণ প্রজন্মকে তামাকের ক্ষতি থেকে রক্ষার লক্ষ্যে ‘ধূমপান ও তামাকজাত দ্রব্য ব্যবহার (নিয়ন্ত্রণ) (সংশোধন) অধ্যাদেশ, ২০২৫’ ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশনেই আইন হিসেবে পাস করার দাবি জানিয়েছে স্বাস্থ্য আন্দোলন-এর নেতৃবৃন্দ।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-12T120619891-20260312060641.jpg"
       },
       {
         "headline": "নূরা নয়, নরসিংদীর সেই কিশোরীকে হত্যা করেন তার সৎ বাবা",
@@ -2133,6 +2129,28 @@
         "published_at": "1773240788",
         "summary": "পবিত্র রমজান মাসে সাধারণ মানুষের খাদ্য ব্যয় কমাতে মাগুরায় সুলভ মূল্যে ডিম, দুধ, ব্রয়লার মুরগি ও গরুর মাংস বিক্রি কার্যক্রম শুরু হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-29-20260311145308.jpg"
+      },
+      {
+        "headline": "রাজধানীর আইনশৃঙ্খলা পরিস্থিতির উল্লেখযোগ্য উন্নতি হয়েছে: ডিএমপি কমিশনার",
+        "url": "https://www.prothomalo.com/bangladesh/capital/chytq8t73n",
+        "published_at": "2026-03-11T14:23:33.145000+00:00",
+        "summary": "ডিএমপি কমিশনার বলেন, ঈদ উদ্‌যাপনকে সুষ্ঠু ও নির্বিঘ্ন করতে প্রতিটি সরকারি সংস্থাকে আগের চেয়ে আরও বেশি মনোযোগ ও আন্তরিকতার সঙ্গে দায়িত্ব পালন করতে হবে।",
+        "image_s3_key": "prothomalo-bangla/2026-02-26/1xylvbuc/DMP.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/1xylvbuc/DMP.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "কুরআন তেলাওয়াতের মাধ্যমে শুরু ত্রয়োদশ সংসদের প্রথম অধিবেশন",
+        "url": "https://www.amarsangbad.com/national/news/340179",
+        "published_at": "1773292200",
+        "summary": "পবিত্র কুরআন তেলাওয়াতের মধ্য দিয়ে শুরু হয়েছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন। বৃহস্পতিবার বেলা ১১টার দিকে সংসদ ভবনে আনুষ্ঠানিকভাবে অধিবেশন শুরু হয়।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/screenshot3122026-111317-20260312051338.jpeg"
+      },
+      {
+        "headline": "স্পিকারের আসন খালি রেখেই ত্রয়োদশ সংসদের প্রথম অধিবেশন বসছে আজ",
+        "url": "https://www.amarsangbad.com/national/news/340175",
+        "published_at": "1773290567",
+        "summary": "আজ বৃহস্পতিবার সকাল ১১টায় সংসদ ভবনে শুরু হচ্ছে ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশন। তবে এ অধিবেশনে থাকবে না চিরাচরিত দৃশ্য স্পিকারের আসন থাকবে খালি। চব্বিশের গণ-অভ্যুত্থানের পর পরিবর্তিত রাজনৈতিক পরিস্থিতিতে এখনো স্পিকার নির্বাচিত না হওয়ায় এমন পরিস্থিতি তৈরি হয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/screenshot3122026-104225-20260312044247.jpeg"
       },
       {
         "headline": "আগামীকাল সংবিধান সংস্কার পরিষদের যাত্রা শুরু হবে: নাহিদ ইসলাম",
@@ -3014,28 +3032,6 @@
         "published_at": "1773224117",
         "summary": "রাজধানীর হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরের থার্ড টার্মিনাল চালুর বিষয়ে সরকারের অবস্থান তুলে ধরেছেন বেসামরিক বিমান পরিবহন ও পর্যটন প্রতিমন্ত্রী রশিদুজ্জামান মিল্লাত।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitledtx---2026-03-11T161501524-20260311101517.jpg"
-      },
-      {
-        "headline": "বানিয়াচংয়ে নির্মাণাধীন ভবন থেকে ইট পড়ে ভ্যানচালকের মৃত্যু",
-        "url": "https://www.amarsangbad.com/country/news/340127",
-        "published_at": "1773222363",
-        "summary": "হবিগঞ্জের বানিয়াচংয়ে একটি নির্মাণাধীন ভবনের দ্বিতীয় তলা থেকে ইট পড়ে মকসুদ মিয়া (৩০) নামে এক ভ্যানচালকের মর্মান্তিক মৃত্যু হয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-5-20260311094603.jpg"
-      },
-      {
-        "headline": "সাতক্ষীরা কেন্দ্রীয় মন্দিরে দুর্ধর্ষ চুরি, স্বর্ণালংকারসহ ১৮ লক্ষাধিক টাকার সম্পদ লুট",
-        "url": "https://www.amarsangbad.com/country/news/340121",
-        "published_at": "1773220579",
-        "summary": "সীমান্তবর্তী জেলা সাতক্ষীরার ধর্মীয় সম্প্রীতি ও ঐতিহ্যের প্রতীক ‘সাতক্ষীরা কেন্দ্রীয় মন্দির’-এ এক ভয়াবহ চুরির ঘটনা ঘটেছে। মঙ্গলবার গভীর রাতে মন্দিরের একাধিক কক্ষের তালা ভেঙে প্রতিমার গায়ে থাকা বিপুল পরিমাণ স্বর্ণালংকার, রুপা এবং দানবাক্সের অর্থ লুট করে নিয়ে গেছে দুর্বৃত্তরা। প্রাথমিক হিসাবে মন্দির কর্তৃপক্ষের দাবি, চুরি হওয়া সম্পদের বাজারমূল্য প্রায় ১৮ লাখ টাকা। এই ঘটনায় স্থানীয় হিন্দু সম্প্রদায়ের মধ্যে তীব্র ক্ষোভ ও নিরাপত্তার চরম অনিশ্চয়তা তৈরি হয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitledtx---2026-03-11T151604644-20260311091619.jpg"
-      },
-      {
-        "headline": "বিদেশে পলাতক সন্ত্রাসী সাজ্জাদের তিন সহযোগী আগ্নেয়াস্ত্রসহ গ্রেপ্তার",
-        "url": "https://www.prothomalo.com/bangladesh/crime/4205se6pao",
-        "published_at": "2026-03-10T19:43:40.375000+00:00",
-        "summary": "পুলিশ বলছে, তাঁদের কাছ থেকে উদ্ধার হওয়া আগ্নেয়াস্ত্রগুলো দিয়েই কোটি টাকা চাঁদা না পেয়ে চট্টগ্রামের এক ব্যবসায়ীর বাসায় গুলি করা হয়েছিল। এর মধ্যে পিস্তল ও রিভলবার থানা থেকে লুট হওয়া অস্ত্র।",
-        "image_s3_key": "prothomalo-bangla/2026-03-10/65vfkslv/২.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/65vfkslv/২.jpg?auto=format,compress"
       }
     ],
     "politics": [
@@ -3166,18 +3162,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-42-20260308151651.jpg"
       },
       {
+        "headline": "রাষ্ট্রপতির অভিশংসনসহ তিন দাবিতে সংসদ ভবনের সামনে এনসিপির অবস্থান",
+        "url": "https://www.amarsangbad.com/politics/news/340182",
+        "published_at": "1773293761",
+        "summary": "ত্রয়োদশ জাতীয় সংসদের প্রথম অধিবেশনকে উপলক্ষ্য করে মানিক মিয়া এভিনিউয়ে সংসদ ভবনের প্রবেশপথে তিন দফা দাবিতে অবস্থান কর্মসূচি পালন করছেন জাতীয় নাগরিক পার্টির (এনসিপি) নেতাকর্মীরা। তাদের সঙ্গে জুলাই গণঅভ্যুত্থানে শহীদ পরিবারের সদস্যদেরও কয়েকজন যোগ দিয়েছেন।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-design---2026-03-12T113454735-20260312053601.jpg"
+      },
+      {
         "headline": "মির্জা ফখরুলগণতান্ত্রিক আন্দোলনে গণমাধ্যমের সহযোগিতার কথা স্মরণ রাখা হবে",
         "url": "https://www.amarsangbad.com/politics/news/340166",
         "published_at": "1773245629",
         "summary": "গণমাধ্যম ও সংবাদপত্রের স্বাধীনতা নিশ্চিত করতে সবাইকে এগিয়ে আসার আহ্বান জানিয়েছেন স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় (এলজিআরডি) মন্ত্রী মির্জা ফখরুল ইসলাম আলমগীর।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-33-20260311161349.jpg"
-      },
-      {
-        "headline": "বিএনপির আরও ৩ নেতা বহিষ্কার",
-        "url": "https://www.amarsangbad.com/politics/news/340158",
-        "published_at": "1773237466",
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে দলীয় শৃঙ্খলাভঙ্গ করে স্বতন্ত্র প্রার্থী আব্দুল মতিন খানের পক্ষে প্রচার-প্রচারণায় অংশ নেওয়ার অভিযোগে কুমিল্লার তিতাসের সদর কড়িকান্দি ইউনিয়ন বিএনপির তিন নেতাকে বহিষ্কার করা হয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-25-20260311135746.jpg"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-33-20260311161349.jpg"
       },
       {
         "headline": "সেহরি ও ইফতারের সময়সূচি",
@@ -3190,7 +3186,7 @@
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
         "url": "https://www.jugantor.com/bnp",
         "published_at": null,
-        "summary": "মন্ত্রী এবং দলের সংসদ-সদস্যদের চলনে-বলনে মার্জিত ও সতর্ক থাকতে বলেছেন বিএনপির চেয়ারম্যান, সংসদ নেতা ও প্রধানমন্ত্রী তারেক রহমান। বিশেষ করে ...",
+        "summary": "আজ জনআকাঙ্ক্ষা, প্রত্যাশা ও গণতন্ত্রের পদযাত্রা শুরুর সংসদ বলে মন্তব্য করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747294137-430161.jpg"
       },
       {
@@ -3199,6 +3195,13 @@
         "published_at": null,
         "summary": "দেলোয়ার হোসাইন সাঈদীর সেজ ছেলে ও পিরোজপুর-১ (সদর-নাজিরপুর-জিয়ানগর) আসনের সংসদ সদস্য মাসুদ সাঈদী অনুদানে পাওয়া খেজুরের হিসাব দিলেন। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "বিএনপির আরও ৩ নেতা বহিষ্কার",
+        "url": "https://www.amarsangbad.com/politics/news/340158",
+        "published_at": "1773237466",
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনে দলীয় শৃঙ্খলাভঙ্গ করে স্বতন্ত্র প্রার্থী আব্দুল মতিন খানের পক্ষে প্রচার-প্রচারণায় অংশ নেওয়ার অভিযোগে কুমিল্লার তিতাসের সদর কড়িকান্দি ইউনিয়ন বিএনপির তিন নেতাকে বহিষ্কার করা হয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-25-20260311135746.jpg"
       },
       {
         "headline": "বর্তমান সরকার সবার, কারও প্রতিপক্ষ নয়: প্রবাসীকল্যাণ প্রতিমন্ত্রী",
@@ -4431,23 +4434,32 @@
         "published_at": "2026-03-10T10:37:34+06:00",
         "summary": "মধ্যপ্রাচ্যে চলমান যুদ্ধের প্রভাবে আন্তর্জাতিক বাজারে অপরিশোধিত জ্বালানি তেলের দাম লাগামহীনভাবে বাড়ছে। এশিয়ার বাজারে কেনাবেচা শুরু হওয়ার পর সোমবার (৯ মার্চ) দিনেই দাম বাড়ল ১৩ শতাংশ, তেলের দাম ব্যারেলপ্রতি ১০০ ডলার ছাড়িয়ে গেছে। গত এক সপ্তাহে দাম বেড়েছে ৩৮ শতাংশ। যুদ্ধ দীর্ঘায়িত হলে অপরিশোধিত তেলের দাম ব্যারেলপ্রতি ১৫০ ডলারে পৌঁছার আশঙ্কা করছেন বিশ্লেষকরা।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/10/og/1773117453-ea30d07c62a62d002dd9570f94ab9e9b.jpg"
-      },
-      {
-        "headline": "রিয়াল মাদ্রিদের চোটের তালিকায় নতুন নাম কাররেয়াস",
-        "url": "https://www.bd-pratidin.com/sports/2026/03/10/1226434",
-        "published_at": "2026-03-10T10:07:29+06:00",
-        "summary": "কয়েক মৌসুম ধরেই চোট ভীষণ ভোগাচ্ছে রিয়াল মাদ্রিদকে। শেষ কবে দলটি পুরো স্কোয়াডকে, অন্তত অধিকাংশ গুরুত্বপূর্ণ খেলোয়াড়কে পেয়েছিল, সেটাও গবেষণার বিষয়। ম্যানচেস্টার সিটির বিপক্ষে আসছে মহাগুরুত্বপূর্ণ ম্যাচের আগেও তাদের একই দশা; চোটাক্রান্ত খেলোয়াড়দের দীর্ঘ তালিকায় নতুন যোগ হয়েছেন আলভারো কাররেয়াস।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/10/og/1773115648-35d8506c0c625758b365bd48241d2aae.jpg"
       }
     ],
     "world": [
       {
-        "headline": "যুদ্ধ বন্ধে তিন শর্ত দিলেন ইরানের প্রেসিডেন্ট পেজেশকিয়ান",
+        "headline": "ইরানি নেতৃত্ব ভেঙে পড়ার কোনো ঝুঁকি নেই: মার্কিন গোয়েন্দা প্রতিবেদন",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-12T05:05:55.172000+00:00",
+        "published_at": "2026-03-12T06:09:01.253000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
+      },
+      {
+        "headline": "যুদ্ধের সঙ্গে কীভাবে নিজেদের মানিয়ে নিচ্ছেন ইরানি তরুণেরা",
+        "url": "https://www.prothomalo.com/world/middle-east/miznvvk3th",
+        "published_at": "2026-03-12T06:01:44.191000+00:00",
+        "summary": "মিনা বলেন, ‘যে রাতে ডিপোতে হামলা হলো, আমাদের পুরো ফ্ল্যাট কেঁপে উঠেছিল। জানালায় এমন আলোর ঝলকানি খেলে গিয়েছিল যে মাঝরাতেই মনে হয়েছিল সকাল হয়ে গেছে।’",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/izw63bdv/1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/izw63bdv/1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ইরান যুদ্ধে ছয় দিনে যুক্তরাষ্ট্রের খরচ ১১ বিলিয়ন ডলার ছাড়িয়েছে: ট্রাম্প প্রশাসন",
+        "url": "https://www.prothomalo.com/world/middle-east/4eqxr7s9cj",
+        "published_at": "2026-03-12T05:20:00+00:00",
+        "summary": "মার্কিন কর্মকর্তারা আইনপ্রণেতাদের জানিয়েছেন, হামলার প্রথম দুই দিনেই প্রায় ৫৬০ কোটি (৫ দশমিক ৬ বিলিয়ন) ডলারের গোলাবারুদ ও সমরাস্ত্র ব্যবহার করা হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-12/u6ar3u92/Iran-war-cost.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/u6ar3u92/Iran-war-cost.jpg?auto=format,compress"
       },
       {
         "headline": "আল–আকসা মসজিদে ১২ দিন ধরে মুসল্লিদের ঢুকতে দিচ্ছে না ইসরায়েল, ৮ দেশের নিন্দা",
@@ -4746,22 +4758,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-04/j16c1k27/prothomalo-balen.jpg?auto=format,compress"
       },
       {
-        "headline": "ট্রাম্পের চাপেই কি অস্ট্রেলিয়ায় থাকার মানবিক ভিসা পেলেন ৫ ইরানি নারী ফুটবল খেলোয়াড়",
-        "url": "https://www.prothomalo.com/world/asia/rhkfh2pna1",
-        "published_at": "2026-03-10T05:51:30.913000+00:00",
-        "summary": "অস্ট্রেলিয়ায় আশ্রয় পাওয়ার তালিকায় রয়েছেন ইরানি নারী ফুটবল দলের অধিনায়ক জোহরা গানবারিও। এ ঘটনায় সরগরম অস্ট্রেলিয়ার মূলধারার গণমাধ্যম ও সামাজিক যোগাযোগমাধ্যম।",
-        "image_s3_key": "prothomalo-bangla/2026-03-10/k0lixj43/australia-iran.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/k0lixj43/australia-iran.jpg?auto=format,compress"
-      },
-      {
-        "headline": "রোজ রোজ ঘরে আসে রাকুন ",
-        "url": "https://www.prothomalo.com/world/fuwkxqy6w4",
-        "published_at": "2026-03-10T05:34:53.032000+00:00",
-        "summary": "হাবার্ড রান্নাঘরে একটি সিসিটিভি ক্যামেরা স্থাপন করেন, তাতেই ধরা পড়ে অপরাধী। সে আর কেউ নয়, একটি রাকুন।",
-        "image_s3_key": "prothomalo-bangla/2026-03-09/55pmxei6/Untitled-2.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/55pmxei6/Untitled-2.jpg?auto=format,compress"
-      },
-      {
         "headline": "অসহায় স্বীকারোক্তি, গোপনে পরাজয় মেনে নিল ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227244",
         "published_at": "2026-03-12T10:46:24+06:00",
@@ -4832,6 +4828,13 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241542-78d5c5b028f169118af9a9505ef338fb.jpg"
       },
       {
+        "headline": "গণ-আকাঙ্ক্ষার সংসদের যাত্রা আজ",
+        "url": "https://dailynayadiganta.com/printed-edition/xNxBzUOLMNCr/",
+        "published_at": null,
+        "summary": "শক্তিশালী সরকার ও কার্যকর বিরোধী দলের উপস্থিতি সংসদকে আরো প্রাণবন্ত ও কার্যকর করে তুলতে পারে। তবে জুলাই সনদ বাস্তবায়ন ও সংবিধান সংস্কার প্রশ্নে শুরু থেকেই সরকারি দল বিএনপি এবং বিরোধী জোট জামায়াত-এনসিপির মধ্যে টানাপড়েন তৈরি হওয়ার আশঙ্কাও রয়েছে। এ উত্তাপ সংসদ এবং রাজপথ দুই ক্ষেত্রেই প্রতিফলিত হতে পারে বলে মনে করছেন পর্যবেক্ষকরা। ইতোমধ্যে ইঙ্গিত পাওয়া গেছে, প্রথম দিনেই রাষ্ট্রপতির ভাষণের প্রতিবাদ জানিয়ে ওয়াকআউট করতে পারেন বিরোধী জোটের সংসদ সদস্যরা।",
+        "image_url": "https://media.ndiganta.com/images/Screenshot_20260218-0.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
         "headline": "ইরানকে যুদ্ধে কেন হারানো যাবে না",
         "url": "https://dailynayadiganta.com/opinions/sub-editorial/44PqjKIZBXbY/",
         "published_at": null,
@@ -4839,18 +4842,11 @@
         "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
-        "headline": "এবার স্থানীয় নির্বাচনে চোখ জামায়াতের",
-        "url": "https://dailynayadiganta.com/printed-edition/znHl3DvpZA53/",
+        "headline": "উপসাগরীয় দেশগুলোতে ইরানের হামলা বন্ধের দাবি নিরাপত্তা পরিষদের",
+        "url": "https://dailynayadiganta.com/international/asia/middle-east/jxywx2Zgq0FD/",
         "published_at": null,
-        "summary": "জাতীয় সংসদ নির্বাচনে ভালো ফলের পর এবার স্থানীয় নির্বাচনে চোখ দিয়েছে প্রধান বিরোধী দল বাংলাদেশ জামায়াতে ইসলামী। আসন সংখ্যায় কম হলেও ভোটের হিসাব দলটিকে আত্মবিশ্বাসী করে তুলেছে। সিটি করপোরেশনের মেয়র থেকে শুরু করে ইউনিয়ন-ওয়ার্ড পর্যন্ত প্রার্থী দেয়ার পরিকল্পনা নিয়েছে দলটি। স্থানীয় নির্বাচনে লড়বেন দলের নারী প্রার্থীরাও।",
-        "image_url": "https://media.ndiganta.com/images/Jamaat-Logo-1_y5EA4yE.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "জুলাই সনদ নিয়ে গড়িমসি নয়",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/ShAz0TEP7ElI/",
-        "published_at": null,
-        "summary": "গণভোট প্রশ্নে বিএনপির দাবি আমলে \r\nনিয়ে গ্রাউন্ডটি তৈরি করে রেখেছিল ইউনূস সরকার নিজেই, আর তাতে বুঝে হোক কিংবা না বুঝে— সমর্থন জুগিয়েছিল জুলাই বিপ্লবের নায়কদের নিয়ে গড়া জাতীয় নাগরিক পার্টি-এনসিপি। না, আপনি ভুল কিছু শুনছেন না, ঘটনার ধারাক্রম সেরকমই। জামায়াত ও তার সমমনা দলগুলো জোর দাবি জানিয়ে আসছিল জুলাই সনদের উপর গণভোট আগে অনুষ্ঠানের জন্য। অন্যদিকে আগে \r\nগণভোট অনুষ্ঠান প্রশ্নে ঘোরতর \r\nআপত্তি জানিয়ে আসছিল বিএনপি",
-        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+        "summary": "জাতিসঙ্ঘ নিরাপত্তা পরিষদ উপসাগরীয় দেশগুলোর ওপর হামলা বন্ধে ইরানকে আহ্বান জানিয়ে একটি প্রস্তাব পাস করেছে। প্রস্তাবে হরমুজ প্রণালীতে নৌচলাচলে হস্তক্ষেপ ও উপসাগরীয় দেশগুলোর ওপর হামলার তীব্র নিন্দা জানানো হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/UN_dhVumSK.jpg"
       },
       {
         "headline": "কাতারে ৯টি ব্যালিস্টিক ক্ষেপনাস্ত্র হামলা ইরানের",
@@ -4874,13 +4870,6 @@
         "image_url": "https://media.ndiganta.com/original_images/Israel-12-3.jpg"
       },
       {
-        "headline": "পুরো অঞ্চলে আগুন ছড়িয়ে পড়ার আগেই যুদ্ধ বন্ধ করতে হবে : এরদোগান",
-        "url": "https://dailynayadiganta.com/international/hHYPWEKRkMxh/",
-        "published_at": null,
-        "summary": "‘যদি কূটনীতিকে একটি সুযোগ দেয়া হয় তবে প্রকৃতপক্ষেই শান্তি প্রতিষ্ঠা সম্ভব। আমরা ধৈর্য ধরে আলোচনার টেবিলে ও প্রতিক্রিয়াশীল কূটনীতিতে ফিরে আসার জন্য আমাদের প্রচেষ্টা চালিয়ে যাচ্ছি।’",
-        "image_url": "https://media.ndiganta.com/original_images/WhatsApp_Image_2026-03-11_at_11.51.50_PM.jpeg"
-      },
-      {
         "headline": "ভারতে গোরক্ষকদের হিংসায় প্রাণ হারালেন আরো এক মুসলিম তরুণ",
         "url": "https://dailynayadiganta.com/international/asia/south-asia/hdzB0vRevuow/",
         "published_at": null,
@@ -4900,6 +4889,13 @@
         "published_at": null,
         "summary": "‘আমরা বিশ্বাস করি উত্তেজনা কমাতে সকলেরই সংলাপ ও কূটনৈতিক পথ অনুসরণ করা উচিত।’",
         "image_url": "https://media.ndiganta.com/original_images/S-Jaishankar_UMbttGV.jpg"
+      },
+      {
+        "headline": "ইরানি যুদ্ধজাহাজে মার্কিন হামলায়  নিহত হয়েছেন ১০৪ জন",
+        "url": "https://dailynayadiganta.com/international/asia/south-asia/mO4hIMzNLS3g/",
+        "published_at": null,
+        "summary": "শ্রীলঙ্কার গল থেক ১৯ নটিক্যাল মাইল দূরে ভারত মহাসাগরে জাহাজটি ছিল। ঠিক তখন সাবমেরিন থেকে টর্পেডো ছোড়ে মার্কিন নৌবাহিনী। এতে জাহাজটি ডুবে যায়।",
+        "image_url": "https://media.ndiganta.com/original_images/Irans-Ship-8-3.jpg"
       },
       {
         "headline": "নেতানিয়াহু কি সত্যিই মারা গেছেন?",
@@ -4977,6 +4973,43 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ট্রাম্পের চাপেই কি অস্ট্রেলিয়ায় থাকার মানবিক ভিসা পেলেন ৫ ইরানি নারী ফুটবল খেলোয়াড়",
+        "url": "https://www.prothomalo.com/world/asia/rhkfh2pna1",
+        "published_at": "2026-03-10T05:51:30.913000+00:00",
+        "summary": "অস্ট্রেলিয়ায় আশ্রয় পাওয়ার তালিকায় রয়েছেন ইরানি নারী ফুটবল দলের অধিনায়ক জোহরা গানবারিও। এ ঘটনায় সরগরম অস্ট্রেলিয়ার মূলধারার গণমাধ্যম ও সামাজিক যোগাযোগমাধ্যম।",
+        "image_s3_key": "prothomalo-bangla/2026-03-10/k0lixj43/australia-iran.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/k0lixj43/australia-iran.jpg?auto=format,compress"
+      },
+      {
+        "headline": "রোজ রোজ ঘরে আসে রাকুন ",
+        "url": "https://www.prothomalo.com/world/fuwkxqy6w4",
+        "published_at": "2026-03-10T05:34:53.032000+00:00",
+        "summary": "হাবার্ড রান্নাঘরে একটি সিসিটিভি ক্যামেরা স্থাপন করেন, তাতেই ধরা পড়ে অপরাধী। সে আর কেউ নয়, একটি রাকুন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-09/55pmxei6/Untitled-2.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/55pmxei6/Untitled-2.jpg?auto=format,compress"
+      },
+      {
+        "headline": "এবার স্থানীয় নির্বাচনে চোখ জামায়াতের",
+        "url": "https://dailynayadiganta.com/printed-edition/znHl3DvpZA53/",
+        "published_at": null,
+        "summary": "জাতীয় সংসদ নির্বাচনে ভালো ফলের পর এবার স্থানীয় নির্বাচনে চোখ দিয়েছে প্রধান বিরোধী দল বাংলাদেশ জামায়াতে ইসলামী। আসন সংখ্যায় কম হলেও ভোটের হিসাব দলটিকে আত্মবিশ্বাসী করে তুলেছে। সিটি করপোরেশনের মেয়র থেকে শুরু করে ইউনিয়ন-ওয়ার্ড পর্যন্ত প্রার্থী দেয়ার পরিকল্পনা নিয়েছে দলটি। স্থানীয় নির্বাচনে লড়বেন দলের নারী প্রার্থীরাও।",
+        "image_url": "https://media.ndiganta.com/images/Jamaat-Logo-1_y5EA4yE.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "জুলাই সনদ নিয়ে গড়িমসি নয়",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/ShAz0TEP7ElI/",
+        "published_at": null,
+        "summary": "গণভোট প্রশ্নে বিএনপির দাবি আমলে \r\nনিয়ে গ্রাউন্ডটি তৈরি করে রেখেছিল ইউনূস সরকার নিজেই, আর তাতে বুঝে হোক কিংবা না বুঝে— সমর্থন জুগিয়েছিল জুলাই বিপ্লবের নায়কদের নিয়ে গড়া জাতীয় নাগরিক পার্টি-এনসিপি। না, আপনি ভুল কিছু শুনছেন না, ঘটনার ধারাক্রম সেরকমই। জামায়াত ও তার সমমনা দলগুলো জোর দাবি জানিয়ে আসছিল জুলাই সনদের উপর গণভোট আগে অনুষ্ঠানের জন্য। অন্যদিকে আগে \r\nগণভোট অনুষ্ঠান প্রশ্নে ঘোরতর \r\nআপত্তি জানিয়ে আসছিল বিএনপি",
+        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "পুরো অঞ্চলে আগুন ছড়িয়ে পড়ার আগেই যুদ্ধ বন্ধ করতে হবে : এরদোগান",
+        "url": "https://dailynayadiganta.com/international/hHYPWEKRkMxh/",
+        "published_at": null,
+        "summary": "‘যদি কূটনীতিকে একটি সুযোগ দেয়া হয় তবে প্রকৃতপক্ষেই শান্তি প্রতিষ্ঠা সম্ভব। আমরা ধৈর্য ধরে আলোচনার টেবিলে ও প্রতিক্রিয়াশীল কূটনীতিতে ফিরে আসার জন্য আমাদের প্রচেষ্টা চালিয়ে যাচ্ছি।’",
+        "image_url": "https://media.ndiganta.com/original_images/WhatsApp_Image_2026-03-11_at_11.51.50_PM.jpeg"
       },
       {
         "headline": "খুব শিগগিরই ইরান যুদ্ধের অবসান ঘটবে: ট্রাম্প",
@@ -5865,45 +5898,17 @@
         "published_at": null,
         "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প যুদ্ধ প্রায় শেষ হয়ে এসেছে বলে যে দাবি করেছেন, তার জবাবেই এ কঠোর হুঁশিয়ারি দেয়া হয়েছে।",
         "image_url": "https://media.ndiganta.com/original_images/Iran_V6fsTuB.jpg"
-      },
-      {
-        "headline": "সৌদি ও কুয়েতে ইরানের ড্রোন হামলা, ট্রাম্পের হুঁশিয়ারিতে বিশ্ববাজারে চরম অস্থিরতা",
-        "url": "https://www.amarsangbad.com/international/news/340052",
-        "published_at": "1773142824",
-        "summary": "মধ্যপ্রাচ্যের রণক্ষেত্রে উত্তেজনার পারদ এখন তুঙ্গে। মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প যখন দাবি করছেন যে ইরান যুদ্ধ ‘খুব দ্রুত ‘শেষ হতে পারে, ঠিক তখনই সৌদি আরব ও কুয়েতের জ্বালানি অবকাঠামো লক্ষ্য করে ঝাঁকে ঝাঁকে ড্রোন ছুড়েছে ইরান।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitledtx---2026-03-10T174011358-20260310114024.jpg"
-      },
-      {
-        "headline": "নেপালের নির্বাচনে বালেন্দ্র শাহর জেন-জি জোয়ারেও টিকে গেলেন পুষ্প কমল দহল",
-        "url": "https://www.prothomalo.com/world/asia/t2zu4cfzm2",
-        "published_at": "2026-03-09T09:07:13.041000+00:00",
-        "summary": "পুষ্প কমল দহল নেপালে ‘প্রচণ্ড’ নামে পরিচিত। একসময় মাওবাদী নেতা ছিলেন। দীর্ঘ এক দশক রাজতন্ত্রের বিরুদ্ধে লড়েছেন। মূলধারার রাজনীতিতে যুক্ত হয়ে একাধিকবার নেপালের প্রধানমন্ত্রী হয়েছেন।",
-        "image_s3_key": "prothomalo-bangla/2026-03-09/qhx89hov/WhatsApp-Image-2026-03-09-at-3.23.43-PM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/qhx89hov/WhatsApp-Image-2026-03-09-at-3.23.43-PM.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "আবাসন খাত রক্ষায় ৩ হাজার কোটি টাকার বিশেষ তহবিল চায় রিহ্যাব",
-        "url": "https://www.bd-pratidin.com/economy/2026/03/11/1226821",
-        "published_at": "2026-03-11T02:33:37+06:00",
-        "summary": "বর্তমান বৈশ্বিক যুদ্ধ পরিস্থিতির প্রভাব মোকাবেলা করে দেশের আবাসন খাতকে সচল রাখতে রিয়েল এস্টেট অ্যান্ড হাউজিং অ্যাসোসিয়েশন অব বাংলাদেশ (রিহ্যাব) তিন হাজার কোটি টাকার একটি বিশেষ তহবিল গঠনের দাবি জানিয়েছে। এ বিষয়ে রিহ্যাবের শীর্ষ নেতারা গতকাল মঙ্গলবার বাংলাদেশ ব্যাংকের নতুন গভর্নর মো. মোস্তাকুর রহমানের সঙ্গে সাক্ষাৎ করে আনুষ্ঠানিকভাবে এ প্রস্তাব তুলে ধরেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773174816-36307eaf48c355e75be1ea1676ad88c2.jpg"
-      },
-      {
-        "headline": "রমজান আল্লাহর কাছে আত্মসমর্পণের মাস",
-        "url": "https://www.bd-pratidin.com/islam/2026/03/11/1226813",
-        "published_at": "2026-03-11T02:22:56+06:00",
-        "summary": "রমজান মুমিনের ইবাদত ও আনুগত্যের মাস। তবে অনেকেই রমজানকে বাহ্যিক ইবাদতে সীমাবদ্ধ করে ফেলে। ফলে রমজান তাদের জন্য ফলপ্রসূ হয় না। রমজানকে ফলপ্রসূ করতে হলে নিজের মন ও মস্তিষ্কে তাকে স্থান দিতে হবে এবং বাহ্যিক ও অভ্যন্তরীণ উভয়ভাবে আল্লাহর কাছে আত্মসমর্পণ করতে হবে, বিশেষত ইবাদতে পূর্ণ মনোযোগ স্থাপন জরুরি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773174175-99100a81b8e7b47f86daf529be94dbda.jpg"
-      },
-      {
-        "headline": "যুদ্ধের সময়সীমা নির্ধারণ করবে কে?  ইরান নাকি যুক্তরাষ্ট্র",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/11/1226810",
-        "published_at": "2026-03-11T02:16:50+06:00",
-        "summary": "ইরানকে কেন্দ্র করে যুক্তরাষ্ট্র ও ইসরায়েলের সঙ্গে চলমান যুদ্ধ কতদিন চলবে এবং এর নিয়ন্ত্রণ কার হাতে রয়েছে তা নিয়ে নতুন করে আলোচনা শুরু হয়েছে। ইসরায়েল, যুক্তরাষ্ট্র এবং ইরানের পক্ষ থেকে আসা বার্তায় ভিন্ন ভিন্ন অবস্থান স্পষ্ট হওয়ায় মধ্যপ্রাচ্যের এই সংঘাতের ভবিষ্যৎ নিয়ে অনিশ্চয়তা বাড়ছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773173810-bd45d4cc437ba7d330ba0d6adaab6f8c.jpg"
       }
     ],
     "business": [
+      {
+        "headline": "তেলের দাম আবার ১০০ ডলার ছাড়াল, ২০০ ডলার ছাড়াতে পারে বলে ইরানের সতর্ক বার্তা",
+        "url": "https://www.prothomalo.com/business/world-business/8taac5allw",
+        "published_at": "2026-03-12T06:00:01.607000+00:00",
+        "summary": "বৃহস্পতিবার এশিয়ার বাজারে সকালের লেনদেনে ব্রেন্ট ক্রুড তেলের দাম ৮ দশমিক ৫১ শতাংশ বেড়ে ব্যারেলপ্রতি ১০০ দশমিক ৫০ ডলারে ওঠে।",
+        "image_s3_key": "prothomalo-bangla/2025-10-29/bk453pjw/prothomalo-bangla2022-1220ce22ed-ca1e-4566-9a99-d1b9eee452703Dprintedoilbarrels.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-29/bk453pjw/prothomalo-bangla2022-1220ce22ed-ca1e-4566-9a99-d1b9eee452703Dprintedoilbarrels.avif?auto=format,compress"
+      },
       {
         "headline": "বিশ্বের শীর্ষ ধনী ইলন মাস্ক, ধারেকাছে কেউ নেই",
         "url": "https://www.prothomalo.com/business/world-business/f4uuthtk7e",
@@ -6201,12 +6206,11 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/2537k16t/Indo.jpg?auto=format,compress"
       },
       {
-        "headline": "ট্রাম্পের সতর্কবার্তায় এক দিনের মধ্যে কমে গেল তেলের দাম",
-        "url": "https://www.prothomalo.com/business/world-business/mgl257srug",
-        "published_at": "2026-03-10T03:51:03.472000+00:00",
-        "summary": "ফ্লোরিডায় এক সংবাদ সম্মেলনে ট্রাম্প বলেন, কিছু ‘অশুভশক্তিকে’ দমন করতেই এই অভিযান চালানো হয়েছে। তবে তাঁর ধারণা, এই যুদ্ধ দীর্ঘমেয়াদি হবে না।",
-        "image_s3_key": "prothomalo-bangla/2026-03-09/oyo3wlig/Oil-prices.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/oyo3wlig/Oil-prices.jpg?auto=format,compress"
+        "headline": "গণ-আকাঙ্ক্ষার সংসদের যাত্রা আজ",
+        "url": "https://dailynayadiganta.com/printed-edition/xNxBzUOLMNCr/",
+        "published_at": null,
+        "summary": "শক্তিশালী সরকার ও কার্যকর বিরোধী দলের উপস্থিতি সংসদকে আরো প্রাণবন্ত ও কার্যকর করে তুলতে পারে। তবে জুলাই সনদ বাস্তবায়ন ও সংবিধান সংস্কার প্রশ্নে শুরু থেকেই সরকারি দল বিএনপি এবং বিরোধী জোট জামায়াত-এনসিপির মধ্যে টানাপড়েন তৈরি হওয়ার আশঙ্কাও রয়েছে। এ উত্তাপ সংসদ এবং রাজপথ দুই ক্ষেত্রেই প্রতিফলিত হতে পারে বলে মনে করছেন পর্যবেক্ষকরা। ইতোমধ্যে ইঙ্গিত পাওয়া গেছে, প্রথম দিনেই রাষ্ট্রপতির ভাষণের প্রতিবাদ জানিয়ে ওয়াকআউট করতে পারেন বিরোধী জোটের সংসদ সদস্যরা।",
+        "image_url": "https://media.ndiganta.com/images/Screenshot_20260218-0.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
         "headline": "ইরানকে যুদ্ধে কেন হারানো যাবে না",
@@ -6214,20 +6218,6 @@
         "published_at": null,
         "summary": "মধ্যপ্রাচ্যে চলমান সঙ্ঘাত এখন আর সীমিত সামরিক উত্তেজনার পর্যায়ে নেই। এ সঙ্ঘাত এখন বহুস্তরের  সামরিক হামলা, প্রক্সি যুদ্ধ, সাইবার সঙ্ঘাত, জ্বালানি রাজনীতি এবং বৈশ্বিক কূটনৈতিক মেরুকরণের সমন্বয়ে এক জটিল ভূরাজনৈতিক সঙ্কটে পরিণত। যুদ্ধের কয়েক দিনেই স্পষ্ট হয়ে উঠেছে যে, এটি কেবল দুই রাষ্ট্রের সংঘর্ষ নয়; বরং মধ্যপ্রাচ্যের শক্তির ভারসাম্য পুনর্গঠনের বৃহৎ লড়াই।",
         "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "এবার স্থানীয় নির্বাচনে চোখ জামায়াতের",
-        "url": "https://dailynayadiganta.com/printed-edition/znHl3DvpZA53/",
-        "published_at": null,
-        "summary": "জাতীয় সংসদ নির্বাচনে ভালো ফলের পর এবার স্থানীয় নির্বাচনে চোখ দিয়েছে প্রধান বিরোধী দল বাংলাদেশ জামায়াতে ইসলামী। আসন সংখ্যায় কম হলেও ভোটের হিসাব দলটিকে আত্মবিশ্বাসী করে তুলেছে। সিটি করপোরেশনের মেয়র থেকে শুরু করে ইউনিয়ন-ওয়ার্ড পর্যন্ত প্রার্থী দেয়ার পরিকল্পনা নিয়েছে দলটি। স্থানীয় নির্বাচনে লড়বেন দলের নারী প্রার্থীরাও।",
-        "image_url": "https://media.ndiganta.com/images/Jamaat-Logo-1_y5EA4yE.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "জুলাই সনদ নিয়ে গড়িমসি নয়",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/ShAz0TEP7ElI/",
-        "published_at": null,
-        "summary": "গণভোট প্রশ্নে বিএনপির দাবি আমলে \r\nনিয়ে গ্রাউন্ডটি তৈরি করে রেখেছিল ইউনূস সরকার নিজেই, আর তাতে বুঝে হোক কিংবা না বুঝে— সমর্থন জুগিয়েছিল জুলাই বিপ্লবের নায়কদের নিয়ে গড়া জাতীয় নাগরিক পার্টি-এনসিপি। না, আপনি ভুল কিছু শুনছেন না, ঘটনার ধারাক্রম সেরকমই। জামায়াত ও তার সমমনা দলগুলো জোর দাবি জানিয়ে আসছিল জুলাই সনদের উপর গণভোট আগে অনুষ্ঠানের জন্য। অন্যদিকে আগে \r\nগণভোট অনুষ্ঠান প্রশ্নে ঘোরতর \r\nআপত্তি জানিয়ে আসছিল বিএনপি",
-        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
         "headline": "সোনারগাঁয়ে হিফজুল কোরআন ও হামদ-নাত প্রতিযোগিতা অনুষ্ঠিত",
@@ -6277,6 +6267,13 @@
         "published_at": null,
         "summary": "বৈঠকে উভয়পক্ষ বাংলাদেশের টেকসই অর্থনৈতিক প্রবৃদ্ধি, আন্তর্জাতিক বাণিজ্যে প্রতিযোগিতা সক্ষমতা বৃদ্ধি এবং এলডিসি উত্তরণের পরবর্তী চ্যালেঞ্জ মোকাবেলায় ঘনিষ্ঠ সহযোগিতা অব্যাহত রাখার বিষয়ে একমত হন।",
         "image_url": "https://media.ndiganta.com/original_images/stifen.JPG"
+      },
+      {
+        "headline": "হরমুজ প্রণালি অতিক্রম করে আড়াই লাখ টন এলএনজিসহ চট্টগ্রাম বন্দরে ১৫ জাহাজ",
+        "url": "https://dailynayadiganta.com/economy/industry-commerce/fdIJQzDU6aWY/",
+        "published_at": null,
+        "summary": "‘জাহাজগুলোর মধ্যে অন্তত চারটিতে মোট প্রায় দু’ লাখ ৪৭ হাজার টন তরলীকৃত প্রাকৃতিক গ্যাস (এলএনজি) রয়েছে। এসব এলএনজি মূলত কাতারের রাস লাফান বন্দর থেকে আনা হয়েছে। দেশের বিভিন্ন বিদ্যুৎকেন্দ্র ও শিল্পকারখানায় গ্যাসের চাহিদা মেটাতে এই এলএনজি ব্যবহার করা হবে।’",
+        "image_url": "https://media.ndiganta.com/original_images/LNG_8R8fiJP.jpg"
       },
       {
         "headline": "বিশ্ববাজারে এক সপ্তাহে জ্বালানি তেলের দাম বাড়ল ৩০ শতাংশ",
@@ -6349,6 +6346,28 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-34-20260311162307.jpg"
       },
       {
+        "headline": "ট্রাম্পের সতর্কবার্তায় এক দিনের মধ্যে কমে গেল তেলের দাম",
+        "url": "https://www.prothomalo.com/business/world-business/mgl257srug",
+        "published_at": "2026-03-10T03:51:03.472000+00:00",
+        "summary": "ফ্লোরিডায় এক সংবাদ সম্মেলনে ট্রাম্প বলেন, কিছু ‘অশুভশক্তিকে’ দমন করতেই এই অভিযান চালানো হয়েছে। তবে তাঁর ধারণা, এই যুদ্ধ দীর্ঘমেয়াদি হবে না।",
+        "image_s3_key": "prothomalo-bangla/2026-03-09/oyo3wlig/Oil-prices.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/oyo3wlig/Oil-prices.jpg?auto=format,compress"
+      },
+      {
+        "headline": "এবার স্থানীয় নির্বাচনে চোখ জামায়াতের",
+        "url": "https://dailynayadiganta.com/printed-edition/znHl3DvpZA53/",
+        "published_at": null,
+        "summary": "জাতীয় সংসদ নির্বাচনে ভালো ফলের পর এবার স্থানীয় নির্বাচনে চোখ দিয়েছে প্রধান বিরোধী দল বাংলাদেশ জামায়াতে ইসলামী। আসন সংখ্যায় কম হলেও ভোটের হিসাব দলটিকে আত্মবিশ্বাসী করে তুলেছে। সিটি করপোরেশনের মেয়র থেকে শুরু করে ইউনিয়ন-ওয়ার্ড পর্যন্ত প্রার্থী দেয়ার পরিকল্পনা নিয়েছে দলটি। স্থানীয় নির্বাচনে লড়বেন দলের নারী প্রার্থীরাও।",
+        "image_url": "https://media.ndiganta.com/images/Jamaat-Logo-1_y5EA4yE.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "জুলাই সনদ নিয়ে গড়িমসি নয়",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/ShAz0TEP7ElI/",
+        "published_at": null,
+        "summary": "গণভোট প্রশ্নে বিএনপির দাবি আমলে \r\nনিয়ে গ্রাউন্ডটি তৈরি করে রেখেছিল ইউনূস সরকার নিজেই, আর তাতে বুঝে হোক কিংবা না বুঝে— সমর্থন জুগিয়েছিল জুলাই বিপ্লবের নায়কদের নিয়ে গড়া জাতীয় নাগরিক পার্টি-এনসিপি। না, আপনি ভুল কিছু শুনছেন না, ঘটনার ধারাক্রম সেরকমই। জামায়াত ও তার সমমনা দলগুলো জোর দাবি জানিয়ে আসছিল জুলাই সনদের উপর গণভোট আগে অনুষ্ঠানের জন্য। অন্যদিকে আগে \r\nগণভোট অনুষ্ঠান প্রশ্নে ঘোরতর \r\nআপত্তি জানিয়ে আসছিল বিএনপি",
+        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
         "headline": "জ্বালানি–সংকটের কারণে চ্যালেঞ্জের মুখে পণ্য সরবরাহ",
         "url": "https://www.prothomalo.com/business/economics/6winaqeroz",
         "published_at": "2026-03-10T03:30:00+00:00",
@@ -6393,13 +6412,6 @@
         "published_at": null,
         "summary": "যুক্তরাজ্যের টোটাল এনার্জিস গ্যাস অ্যান্ড পাওয়ার লিমিটেড প্রতি এমএমবিটিইউ ২১ দশমিক ৫৮ মার্কিন ডলার দরে এক কার্গো এলএনজি সরবরাহ করবে।",
         "image_url": "https://media.ndiganta.com/original_images/LNG.jpg"
-      },
-      {
-        "headline": "হরমুজ প্রণালি অতিক্রম করে আড়াই লাখ টন এলএনজিসহ চট্টগ্রাম বন্দরে ১৫ জাহাজ",
-        "url": "https://dailynayadiganta.com/economy/industry-commerce/fdIJQzDU6aWY/",
-        "published_at": null,
-        "summary": "‘জাহাজগুলোর মধ্যে অন্তত চারটিতে মোট প্রায় দু’ লাখ ৪৭ হাজার টন তরলীকৃত প্রাকৃতিক গ্যাস (এলএনজি) রয়েছে। এসব এলএনজি মূলত কাতারের রাস লাফান বন্দর থেকে আনা হয়েছে। দেশের বিভিন্ন বিদ্যুৎকেন্দ্র ও শিল্পকারখানায় গ্যাসের চাহিদা মেটাতে এই এলএনজি ব্যবহার করা হবে।’",
-        "image_url": "https://media.ndiganta.com/original_images/LNG_8R8fiJP.jpg"
       },
       {
         "headline": "বৈদেশিক মুদ্রার রিজার্ভ ৩৪.২৯ বিলিয়ন ডলার",
@@ -7386,23 +7398,17 @@
         "summary": " দাবি মানা না হলে আগামী ১২ মার্চ বাংলাদেশ ব্যাংক ঘেরাও কর্মসূচি দেওয়া হবে বলে জানান আন্দোলনকারীরা।",
         "image_s3_key": "prothomalo-bangla/2026-03-05/12o879wa/WhatsApp-Image-2026-03-05-at-14.16.06.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/12o879wa/WhatsApp-Image-2026-03-05-at-14.16.06.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "ঈদে নতুন নোট সরবরাহ করা হবে না: বাংলাদেশ ব্যাংক",
-        "url": "https://dailynayadiganta.com/economy/banking-insurance/Qmx98U00D0pv/",
-        "published_at": null,
-        "summary": "প্রতিবছর ঈদের আগে কেন্দ্রীয় ব্যাংক এবং বাণিজ্যিক ব্যাংকগুলো নতুন কাগজের নোট পর্যাপ্ত করে গ্রাহকদের মাঝে বিনিময় বা সরবরাহ করে থাকে। এসব নোট ঈদের সময় পরিবার-পরিজন বা শিশুদের ঈদ সালামি হিসেবে দেয়া হয় যা এক ধরনের সংস্কৃতি হয়ে দাঁড়িয়েছেে।",
-        "image_url": "https://media.ndiganta.com/original_images/BDT.jpg"
-      },
-      {
-        "headline": "‘বাংলাদেশী জাতীয়তাবাদ কোনো চাপিয়ে দেয়া বিষয় নয়, এটি স্বতঃস্ফূর্ত সংস্কৃতির ফল’",
-        "url": "https://dailynayadiganta.com/economy/corporate/EsDk5LbcneoO/",
-        "published_at": null,
-        "summary": "বক্তারা বলেন, একদিকে দীর্ঘ সময় ধরে ‘কলকাতা-কেন্দ্রিক’ বাঙালি জাতীয়তাবাদকে অতি-প্রাধান্য দেয়ার ফলে এ দেশের লৌকিক ও নিজস্ব সাংস্কৃতিক স্বাতন্ত্র্য বাধাগ্রস্ত হয়েছে। অন্যদিকে, সাম্প্রতিক সময়ে রাজনৈতিক বা আদর্শিক উদ্দেশ্যে ভাষাকে বিকৃত করে ‘আরোপিত ইসলামীকরণের’ চেষ্টা চলছে।",
-        "image_url": "https://media.ndiganta.com/original_images/sob.jpg"
       }
     ],
     "sports": [
+      {
+        "headline": "চ্যাম্পিয়নস লিগে এ কোন দুর্দশায় ‘বিশ্বসেরা’ প্রিমিয়ার লিগের পরাশক্তিরা ",
+        "url": "https://www.prothomalo.com/sports/football/pm604ams40",
+        "published_at": "2026-03-12T05:43:18.379000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-12/pct1iq0j/2026-03-11T220236Z1668978411UP1EM3B1OY6NKRTRMADP3SOCCER-CHAMPIONS-RMA-MCI.JPG",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/pct1iq0j/2026-03-11T220236Z1668978411UP1EM3B1OY6NKRTRMADP3SOCCER-CHAMPIONS-RMA-MCI.JPG?auto=format,compress"
+      },
       {
         "headline": "অবিশ্বাস্য ভালভের্দে ‘বিশ্বের সবচেয়ে অবমূল্যায়িত ফুটবলার’",
         "url": "https://www.prothomalo.com/sports/football/opln1qkpnd",
@@ -7716,14 +7722,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/6h2gp8xb/HCutKmaMAEbxJh.jpg?auto=format,compress"
       },
       {
-        "headline": "চ্যাম্পিয়নস লিগ: শেষ ষোলোর আগে কোন দল কোথায় দাঁড়িয়ে",
-        "url": "https://www.prothomalo.com/sports/football/dnseiqukbe",
-        "published_at": "2026-03-10T04:00:00+00:00",
-        "summary": "শেষ ষোলোর প্রথম লেগের লড়াইয়ে নামছে দলগুলো। আজ রাতে লিভারপুল ও বার্সেলোনা খেলবে প্রতিপক্ষের মাঠে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-09/tagq6m6n/HC9qWztXkAArBsr.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/tagq6m6n/HC9qWztXkAArBsr.jpg?auto=format,compress"
-      },
-      {
         "headline": "গণ-আকাঙ্ক্ষার সংসদের যাত্রা আজ",
         "url": "https://dailynayadiganta.com/printed-edition/xNxBzUOLMNCr/",
         "published_at": null,
@@ -7862,6 +7860,14 @@
         "published_at": "1773227098",
         "summary": "বাংলাদেশের তরুণ পেসার নাহিদ রানার দুর্দান্ত বোলিংয়ে সিরিজের প্রথম একদিনের ম্যাচে বড় ধাক্কা খেয়েছে পাকিস্তান। মিরপুরে স্বাগতিকদের সামনে দাঁড়াতেই পারেনি সফরকারীরা; মাত্র ১১৪ রানেই গুটিয়ে যায় তাদের ইনিংস।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitledtx---2026-03-11T170414658-20260311110458.jpg"
+      },
+      {
+        "headline": "চ্যাম্পিয়নস লিগ: শেষ ষোলোর আগে কোন দল কোথায় দাঁড়িয়ে",
+        "url": "https://www.prothomalo.com/sports/football/dnseiqukbe",
+        "published_at": "2026-03-10T04:00:00+00:00",
+        "summary": "শেষ ষোলোর প্রথম লেগের লড়াইয়ে নামছে দলগুলো। আজ রাতে লিভারপুল ও বার্সেলোনা খেলবে প্রতিপক্ষের মাঠে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-09/tagq6m6n/HC9qWztXkAArBsr.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-09/tagq6m6n/HC9qWztXkAArBsr.jpg?auto=format,compress"
       },
       {
         "headline": "চোটের কারণে রোনালদোর চেয়ে ৩৫৭ দিন বেশি মাঠের বাইরে ছিলেন মেসি",
@@ -8890,17 +8896,17 @@
         "summary": "ফুটবলবিষয়ক অনুষ্ঠান ‘দ্য সুইপার পডকাস্ট’ সম্প্রতি উত্তর কোরিয়ার এই গোপন লিগ নিয়ে একটি প্রতিবেদন প্রকাশ করেছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-07/6nb9ikfu/211917-01-02.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/6nb9ikfu/211917-01-02.jpg?auto=format,compress"
-      },
-      {
-        "headline": "নিজেদের মাঠ, দর্শকের সমর্থন আর দুর্দান্ত ফর্ম—তবু ভারতই চাপে",
-        "url": "https://www.prothomalo.com/sports/cricket/1ffur0uk95",
-        "published_at": "2026-03-07T04:00:00+00:00",
-        "summary": "গ্যালারিতে থাকা এক লাখের বেশি ক্রিকেটপাগল দর্শক আর টিভির পর্দায় চোখ রাখা কোটি কোটি ভারতীয়র প্রত্যাশার চাপ কেমন হতে পারে, তা ভালোই জানা সূর্যকুমারদের।",
-        "image_s3_key": "prothomalo-bangla/2026-03-06/xxmss4gw/2026-03-05T133359Z1766325650UP1EM3511OMF0RTRMADP3CRICKET-T20-WORLDCUP-IND-ENG.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-06/xxmss4gw/2026-03-05T133359Z1766325650UP1EM3511OMF0RTRMADP3CRICKET-T20-WORLDCUP-IND-ENG.JPG?auto=format,compress"
       }
     ],
     "entertainment": [
+      {
+        "headline": "বুড়ো হাড়ে ভেলকি দেখালেন অনিল কাপুর",
+        "url": "https://www.prothomalo.com/entertainment/ott/7b2csr332y",
+        "published_at": "2026-03-12T05:48:45.942000+00:00",
+        "summary": "পর্দায় তাঁর নায়কোচিত উপস্থিতিতে ৬৯ বছর বয়সে সত্যি সত্যি ‘ইয়ং’ হয়ে উঠেছেন অনিল কাপুর। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-10/wprvfgcy/212233-hxtvophpmb-1772387826.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/wprvfgcy/212233-hxtvophpmb-1772387826.jpg?auto=format,compress"
+      },
       {
         "headline": "বাইরে অ্যাম্বুলেন্স, ভেতরে হরর সিনেমা",
         "url": "https://www.prothomalo.com/entertainment/bollywood/x9h2i0o1pk",
@@ -9214,14 +9220,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/elvw64xd/MV5BMDZiMTg2YzEtMzhjYi00NWFjLWE2ZmUtYjliMTY4NTU5MThiXkEyXkFqcGc.V1QL75UX392.jpg?auto=format,compress"
       },
       {
-        "headline": "স্ত্রীর সঙ্গে বিচ্ছেদ নিয়ে মুখ খুললেন বিজয়",
-        "url": "https://www.prothomalo.com/entertainment/bollywood/ctjhtddkv6",
-        "published_at": "2026-03-09T04:06:47.905000+00:00",
-        "summary": "তুমুল বিতর্কের মধ্যেও এত দিন ‘স্পিকটি নট’ ছিলেন বিজয়। এবার এই ঘটনায় প্রথম মুখ খুললেন। ",
-        "image_s3_key": "prothomalo-bangla/2025-10-10/dioe715i/338967437_107964582249469_990477466333000736_n.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-10/dioe715i/338967437_107964582249469_990477466333000736_n.jpg?auto=format,compress"
-      },
-      {
         "headline": "অসহায় স্বীকারোক্তি, গোপনে পরাজয় মেনে নিল ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/12/1227244",
         "published_at": "2026-03-12T10:46:24+06:00",
@@ -9362,27 +9360,6 @@
         "image_url": "https://media.ndiganta.com/original_images/Abul-Hossain.jpg"
       },
       {
-        "headline": "বর্তমান সরকার সবার, কারও প্রতিপক্ষ নয়: প্রবাসীকল্যাণ প্রতিমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227058",
-        "published_at": "2026-03-11T20:58:42+06:00",
-        "summary": "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের প্রতিমন্ত্রী নুরুল হক নূর বলেছেন, বিএনপি, জামায়াত ও এনসিপি সকলেই আমরা ফ্যাসিবাদের বিরুদ্ধে একসঙ্গে আন্দোলন করেছিলাম। কাজেই এ সরকার কারও প্রতিপক্ষ নয়, এ সরকার আমাদের সকলের সরকার। বাংলাদেশের ভবিষ্যতের জন্য বাংলাদেশের পুনর্গঠনের জন্য আমাদেরকে সফল করতে হবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241121-38350963439d6ac6cfbdf38eca049648.jpg"
-      },
-      {
-        "headline": "এবার স্থানীয় নির্বাচনে চোখ জামায়াতের",
-        "url": "https://dailynayadiganta.com/printed-edition/znHl3DvpZA53/",
-        "published_at": null,
-        "summary": "জাতীয় সংসদ নির্বাচনে ভালো ফলের পর এবার স্থানীয় নির্বাচনে চোখ দিয়েছে প্রধান বিরোধী দল বাংলাদেশ জামায়াতে ইসলামী। আসন সংখ্যায় কম হলেও ভোটের হিসাব দলটিকে আত্মবিশ্বাসী করে তুলেছে। সিটি করপোরেশনের মেয়র থেকে শুরু করে ইউনিয়ন-ওয়ার্ড পর্যন্ত প্রার্থী দেয়ার পরিকল্পনা নিয়েছে দলটি। স্থানীয় নির্বাচনে লড়বেন দলের নারী প্রার্থীরাও।",
-        "image_url": "https://media.ndiganta.com/images/Jamaat-Logo-1_y5EA4yE.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "জুলাই সনদ নিয়ে গড়িমসি নয়",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/ShAz0TEP7ElI/",
-        "published_at": null,
-        "summary": "গণভোট প্রশ্নে বিএনপির দাবি আমলে \r\nনিয়ে গ্রাউন্ডটি তৈরি করে রেখেছিল ইউনূস সরকার নিজেই, আর তাতে বুঝে হোক কিংবা না বুঝে— সমর্থন জুগিয়েছিল জুলাই বিপ্লবের নায়কদের নিয়ে গড়া জাতীয় নাগরিক পার্টি-এনসিপি। না, আপনি ভুল কিছু শুনছেন না, ঘটনার ধারাক্রম সেরকমই। জামায়াত ও তার সমমনা দলগুলো জোর দাবি জানিয়ে আসছিল জুলাই সনদের উপর গণভোট আগে অনুষ্ঠানের জন্য। অন্যদিকে আগে \r\nগণভোট অনুষ্ঠান প্রশ্নে ঘোরতর \r\nআপত্তি জানিয়ে আসছিল বিএনপি",
-        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
         "headline": "সংসার ভাঙার কারিগর তিথি, আলভীর নারী আসক্তি ফাঁস করলেন রিমু",
         "url": "https://www.amarsangbad.com/entertainment/news/339730",
         "published_at": "1772887094",
@@ -9451,6 +9428,35 @@
         "published_at": "1772448145",
         "summary": "অভিনেত্রী ইকরার আত্মহত্যার প্ররোচনা মামলায় অভিযুক্ত অভিনেতা জাহের আলভী নেপাল থেকে দেশে ফিরেছেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-7-20260302104225.jpg"
+      },
+      {
+        "headline": "স্ত্রীর সঙ্গে বিচ্ছেদ নিয়ে মুখ খুললেন বিজয়",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/ctjhtddkv6",
+        "published_at": "2026-03-09T04:06:47.905000+00:00",
+        "summary": "তুমুল বিতর্কের মধ্যেও এত দিন ‘স্পিকটি নট’ ছিলেন বিজয়। এবার এই ঘটনায় প্রথম মুখ খুললেন। ",
+        "image_s3_key": "prothomalo-bangla/2025-10-10/dioe715i/338967437_107964582249469_990477466333000736_n.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-10/dioe715i/338967437_107964582249469_990477466333000736_n.jpg?auto=format,compress"
+      },
+      {
+        "headline": "বর্তমান সরকার সবার, কারও প্রতিপক্ষ নয়: প্রবাসীকল্যাণ প্রতিমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227058",
+        "published_at": "2026-03-11T20:58:42+06:00",
+        "summary": "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের প্রতিমন্ত্রী নুরুল হক নূর বলেছেন, বিএনপি, জামায়াত ও এনসিপি সকলেই আমরা ফ্যাসিবাদের বিরুদ্ধে একসঙ্গে আন্দোলন করেছিলাম। কাজেই এ সরকার কারও প্রতিপক্ষ নয়, এ সরকার আমাদের সকলের সরকার। বাংলাদেশের ভবিষ্যতের জন্য বাংলাদেশের পুনর্গঠনের জন্য আমাদেরকে সফল করতে হবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241121-38350963439d6ac6cfbdf38eca049648.jpg"
+      },
+      {
+        "headline": "এবার স্থানীয় নির্বাচনে চোখ জামায়াতের",
+        "url": "https://dailynayadiganta.com/printed-edition/znHl3DvpZA53/",
+        "published_at": null,
+        "summary": "জাতীয় সংসদ নির্বাচনে ভালো ফলের পর এবার স্থানীয় নির্বাচনে চোখ দিয়েছে প্রধান বিরোধী দল বাংলাদেশ জামায়াতে ইসলামী। আসন সংখ্যায় কম হলেও ভোটের হিসাব দলটিকে আত্মবিশ্বাসী করে তুলেছে। সিটি করপোরেশনের মেয়র থেকে শুরু করে ইউনিয়ন-ওয়ার্ড পর্যন্ত প্রার্থী দেয়ার পরিকল্পনা নিয়েছে দলটি। স্থানীয় নির্বাচনে লড়বেন দলের নারী প্রার্থীরাও।",
+        "image_url": "https://media.ndiganta.com/images/Jamaat-Logo-1_y5EA4yE.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "জুলাই সনদ নিয়ে গড়িমসি নয়",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/ShAz0TEP7ElI/",
+        "published_at": null,
+        "summary": "গণভোট প্রশ্নে বিএনপির দাবি আমলে \r\nনিয়ে গ্রাউন্ডটি তৈরি করে রেখেছিল ইউনূস সরকার নিজেই, আর তাতে বুঝে হোক কিংবা না বুঝে— সমর্থন জুগিয়েছিল জুলাই বিপ্লবের নায়কদের নিয়ে গড়া জাতীয় নাগরিক পার্টি-এনসিপি। না, আপনি ভুল কিছু শুনছেন না, ঘটনার ধারাক্রম সেরকমই। জামায়াত ও তার সমমনা দলগুলো জোর দাবি জানিয়ে আসছিল জুলাই সনদের উপর গণভোট আগে অনুষ্ঠানের জন্য। অন্যদিকে আগে \r\nগণভোট অনুষ্ঠান প্রশ্নে ঘোরতর \r\nআপত্তি জানিয়ে আসছিল বিএনপি",
+        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
         "headline": "চারবার বিচ্ছেদ তবু আশাবাদী লোপেজ",
@@ -10351,13 +10357,6 @@
         "published_at": "2026-03-10T18:44:15+06:00",
         "summary": "লালমনিরহাটের হাতীবান্ধা উপজেলায় এক স্কুলছাত্রীকে ধর্ষণের অভিযোগে দায়ের করা মামলার প্রধান আসামি মামুনকে (২২) গ্রেফতার করেছে র‌্যাপিড অ্যাকশন ব্যাটালিয়ন (র‌্যাব)।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/10/og/1773146654-2bb790be2b7b2a36a095a6fe55cd98a6.jpg"
-      },
-      {
-        "headline": "মার্চের ৯ দিনে রেমিট্যান্স এলো ১৫২ কোটি ডলার",
-        "url": "https://www.bd-pratidin.com/economy/2026/03/10/1226584",
-        "published_at": "2026-03-10T18:39:25+06:00",
-        "summary": "চলতি মাসের প্রথম ৯ দিনে দেশে এসেছে ১৫২ কোটি ৬০ লাখ বা ১.৫২ বিলিয়ন মার্কিন ডলার। এই হিসাবে প্রতিদিন গড়ে দেশে এসেছে ১৬ কোটি ৯৬ লাখ ডলার রেমিট্যান্স।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/10/og/1773146364-08f9dd09f218ef8b6409dcf5bd48d0d3.jpg"
       }
     ],
     "jobs": [
@@ -10384,14 +10383,6 @@
         "summary": "বাংলাদেশ লোকপ্রশাসন প্রশিক্ষণকেন্দ্রে ৯ থেকে ২০ গ্রেডের মোট ২০টি পদে নিয়োগ দেওয়া হবে।",
         "image_s3_key": "prothomalo-bangla/2023-09/071b20af-c673-4802-8c0d-a8974a495c07/250A1036.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-09/071b20af-c673-4802-8c0d-a8974a495c07/250A1036.jpg?auto=format,compress"
-      },
-      {
-        "headline": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তরে চাকরি, পদ ৬৮",
-        "url": "https://www.prothomalo.com/chakri/employment/12w8njj14e",
-        "published_at": "2026-03-11T02:17:10+00:00",
-        "summary": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তরের রাজস্ব খাতভুক্ত ৬৮টি শূন্য পদের বিপরীতে নিয়োগ বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-08/o15t34hu/WhatsApp_Image_2026_03_02_at_15_00_50.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/o15t34hu/WhatsApp_Image_2026_03_02_at_15_00_50.jpeg?auto=format,compress"
       },
       {
         "headline": "পিএসসিতে নন–ক্যাডারে ১১১ পদে সরাসরি নিয়োগ, আবেদন করবেন যেভাবে",
@@ -10440,6 +10431,14 @@
         "summary": "আইইউসিএন বাংলাদেশের একটি প্রকল্পে ৮টি পদে জনবল নিয়োগ দেওয়া হবে।",
         "image_s3_key": "prothomalo-bangla/2023-06/fdbf65e1-cd99-4ff2-ac95-edd2b6166e8a/3af56b58-e8d7-4249-9b9e-c97597f6dfb8.png",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-06/fdbf65e1-cd99-4ff2-ac95-edd2b6166e8a/3af56b58-e8d7-4249-9b9e-c97597f6dfb8.png?auto=format,compress"
+      },
+      {
+        "headline": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তরে চাকরি, পদ ৬৮",
+        "url": "https://www.prothomalo.com/chakri/employment/12w8njj14e",
+        "published_at": "2026-03-11T02:17:10+00:00",
+        "summary": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তরের রাজস্ব খাতভুক্ত ৬৮টি শূন্য পদের বিপরীতে নিয়োগ বিজ্ঞপ্তি প্রকাশ করা হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-08/o15t34hu/WhatsApp_Image_2026_03_02_at_15_00_50.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/o15t34hu/WhatsApp_Image_2026_03_02_at_15_00_50.jpeg?auto=format,compress"
       },
       {
         "headline": " কারা অধিদপ্তরের দুই পদের লিখিত পরীক্ষার ফলাফল প্রকাশ",
@@ -10752,50 +10751,6 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241542-78d5c5b028f169118af9a9505ef338fb.jpg"
       },
       {
-        "headline": "রাষ্ট্রায়ত্ত প্রতিষ্ঠান",
-        "url": "https://www.jugantor.com/state-org",
-        "published_at": null,
-        "summary": "ঢাকা স্টক এক্সচেঞ্জ পিএলসিতে ‘কোম্পানি সেক্রেটারি’ পদে জনবল নিয়োগ দেওয়া হবে। প্রার্থীকে অবশ্যই স্নাতকোত্তর অথবা সমমান ডিগ্রিধারী হতে হবে। আগ্রহীরা ...",
-        "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
-      },
-      {
-        "headline": "আন্তর্জাতিক প্রতিষ্ঠান",
-        "url": "https://www.jugantor.com/international-org",
-        "published_at": null,
-        "summary": "আন্তর্জাতিক উন্নয়ন সংস্থা ‘প্ল্যান ইন্টারন্যাশনাল বাংলাদেশ’ তাদের সমতায় তারুণ্য বিভাগে ‘মিডিয়া স্পেশালিস্ট’ পদে জনবল নিয়োগের জন্য বিজ্ঞপ্তি প্রকাশ করেছে। ...",
-        "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
-      },
-      {
-        "headline": "নিয়োগ পরীক্ষার প্রস্তুতি",
-        "url": "https://www.jugantor.com/recruitment-exam-prep",
-        "published_at": null,
-        "summary": "নিয়োগ পরীক্ষার প্রস্তুতিতে সফল হতে হলে দরকার সঠিক তথ্য, আপডেটেড সিলেবাস ও নির্ভরযোগ্য রিসোর্স। প্রতিটি নিয়োগ পরীক্ষার ধরন, প্রশ্নের গঠন ও মানদণ্ড ভিন্ন হওয়ায় সময়মতো সঠিক নির্দেশনা জানা অত্যন্ত জরুরি। লিখিত, এমসিকিউ ও মৌখিক পরীক্ষার প্রস্তুতিতে বিগত বছরের প্রশ্নপত্র, সময় ব্যবস্থাপনা কৌশল, বিষয়ের ওপর ভিত্তি করে অধ্যয়ন পরিকল্পনা এবং মানসম্পন্ন প্র্যাকটিস সেট আপনাকে সঠিক পথে এগিয়ে নিতে পারে।",
-        "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
-      },
-      {
-        "headline": "দক্ষ জনশক্তি গড়তে ভাষা প্রশিক্ষণ কেন্দ্র খোলার নির্দেশ প্রধানমন্ত্রীর",
-        "url": "https://www.prothomalo.com/education/higher-education/402381fhiz",
-        "published_at": "2026-03-05T16:06:29.975000+00:00",
-        "summary": "প্রধানমন্ত্রী তারেক রহমান বিদেশে কর্মসংস্থানে দক্ষ জনশক্তি গড়তে দেশে ভাষা প্রশিক্ষণ কেন্দ্র খোলার নির্দেশ দিয়েছেন",
-        "image_s3_key": "prothomalo-bangla/2026-03-05/i9qdipz8/১০.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/i9qdipz8/১০.webp?auto=format,compress"
-      },
-      {
-        "headline": "অপারেশন ট্রু প্রমিস–৪ ও অপারেশন এপিক ফিউরি কী",
-        "url": "https://www.prothomalo.com/chakri/chakri-suggestion/lrbg4acpe8",
-        "published_at": "2026-03-05T11:38:09.895000+00:00",
-        "summary": "বিভিন্ন চাকরির পরীক্ষায় এমসিকিউ প্রশ্ন আসে। পরীক্ষার্থীদের চর্চার সুবিধার জন্য প্রথম আলোর এ আয়োজন।",
-        "image_s3_key": "prothomalo-bangla/2024-01/628c6438-76c2-49d3-8d37-e03c87e7450e/WhatsApp_Image_2024_01_30_at_09_45_02.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-01/628c6438-76c2-49d3-8d37-e03c87e7450e/WhatsApp_Image_2024_01_30_at_09_45_02.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "বর্তমান সরকার সবার, কারও প্রতিপক্ষ নয়: প্রবাসীকল্যাণ প্রতিমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227058",
-        "published_at": "2026-03-11T20:58:42+06:00",
-        "summary": "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের প্রতিমন্ত্রী নুরুল হক নূর বলেছেন, বিএনপি, জামায়াত ও এনসিপি সকলেই আমরা ফ্যাসিবাদের বিরুদ্ধে একসঙ্গে আন্দোলন করেছিলাম। কাজেই এ সরকার কারও প্রতিপক্ষ নয়, এ সরকার আমাদের সকলের সরকার। বাংলাদেশের ভবিষ্যতের জন্য বাংলাদেশের পুনর্গঠনের জন্য আমাদেরকে সফল করতে হবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241121-38350963439d6ac6cfbdf38eca049648.jpg"
-      },
-      {
         "headline": "জ্ঞানই পারে এ সম্মানজনক পেশায় পৌঁছে দিতেআইসিটি উইংয়ে ১১৫টি পদে দক্ষ জনবল খুঁজছে পূবালী ব্যাংক",
         "url": "https://www.amarsangbad.com/job/news/338764",
         "published_at": "1771836487",
@@ -10864,6 +10819,50 @@
         "published_at": "1735580487",
         "summary": "৪৩তম বিসিএসে নিয়োগের জন্য গত ১৫ অক্টোবরের প্রজ্ঞাপন বাতিল করে আবার নতুন প্রজ্ঞাপন জারি করা হয়েছে। এতে বিভিন্ন ক্যাডারে বাদ পড়েছেন আরও ১৬৮ জন প্রার্থী। সব মিলিয়ে ৪৩তম বিসিএস থেকে বাদ পড়লেন মোট ২৬৭ জন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2023September/SM/bcs-20241230174127.jpg"
+      },
+      {
+        "headline": "রাষ্ট্রায়ত্ত প্রতিষ্ঠান",
+        "url": "https://www.jugantor.com/state-org",
+        "published_at": null,
+        "summary": "ঢাকা স্টক এক্সচেঞ্জ পিএলসিতে ‘কোম্পানি সেক্রেটারি’ পদে জনবল নিয়োগ দেওয়া হবে। প্রার্থীকে অবশ্যই স্নাতকোত্তর অথবা সমমান ডিগ্রিধারী হতে হবে। আগ্রহীরা ...",
+        "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "আন্তর্জাতিক প্রতিষ্ঠান",
+        "url": "https://www.jugantor.com/international-org",
+        "published_at": null,
+        "summary": "আন্তর্জাতিক উন্নয়ন সংস্থা ‘প্ল্যান ইন্টারন্যাশনাল বাংলাদেশ’ তাদের সমতায় তারুণ্য বিভাগে ‘মিডিয়া স্পেশালিস্ট’ পদে জনবল নিয়োগের জন্য বিজ্ঞপ্তি প্রকাশ করেছে। ...",
+        "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "নিয়োগ পরীক্ষার প্রস্তুতি",
+        "url": "https://www.jugantor.com/recruitment-exam-prep",
+        "published_at": null,
+        "summary": "নিয়োগ পরীক্ষার প্রস্তুতিতে সফল হতে হলে দরকার সঠিক তথ্য, আপডেটেড সিলেবাস ও নির্ভরযোগ্য রিসোর্স। প্রতিটি নিয়োগ পরীক্ষার ধরন, প্রশ্নের গঠন ও মানদণ্ড ভিন্ন হওয়ায় সময়মতো সঠিক নির্দেশনা জানা অত্যন্ত জরুরি। লিখিত, এমসিকিউ ও মৌখিক পরীক্ষার প্রস্তুতিতে বিগত বছরের প্রশ্নপত্র, সময় ব্যবস্থাপনা কৌশল, বিষয়ের ওপর ভিত্তি করে অধ্যয়ন পরিকল্পনা এবং মানসম্পন্ন প্র্যাকটিস সেট আপনাকে সঠিক পথে এগিয়ে নিতে পারে।",
+        "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "দক্ষ জনশক্তি গড়তে ভাষা প্রশিক্ষণ কেন্দ্র খোলার নির্দেশ প্রধানমন্ত্রীর",
+        "url": "https://www.prothomalo.com/education/higher-education/402381fhiz",
+        "published_at": "2026-03-05T16:06:29.975000+00:00",
+        "summary": "প্রধানমন্ত্রী তারেক রহমান বিদেশে কর্মসংস্থানে দক্ষ জনশক্তি গড়তে দেশে ভাষা প্রশিক্ষণ কেন্দ্র খোলার নির্দেশ দিয়েছেন",
+        "image_s3_key": "prothomalo-bangla/2026-03-05/i9qdipz8/১০.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-05/i9qdipz8/১০.webp?auto=format,compress"
+      },
+      {
+        "headline": "অপারেশন ট্রু প্রমিস–৪ ও অপারেশন এপিক ফিউরি কী",
+        "url": "https://www.prothomalo.com/chakri/chakri-suggestion/lrbg4acpe8",
+        "published_at": "2026-03-05T11:38:09.895000+00:00",
+        "summary": "বিভিন্ন চাকরির পরীক্ষায় এমসিকিউ প্রশ্ন আসে। পরীক্ষার্থীদের চর্চার সুবিধার জন্য প্রথম আলোর এ আয়োজন।",
+        "image_s3_key": "prothomalo-bangla/2024-01/628c6438-76c2-49d3-8d37-e03c87e7450e/WhatsApp_Image_2024_01_30_at_09_45_02.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-01/628c6438-76c2-49d3-8d37-e03c87e7450e/WhatsApp_Image_2024_01_30_at_09_45_02.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "বর্তমান সরকার সবার, কারও প্রতিপক্ষ নয়: প্রবাসীকল্যাণ প্রতিমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227058",
+        "published_at": "2026-03-11T20:58:42+06:00",
+        "summary": "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের প্রতিমন্ত্রী নুরুল হক নূর বলেছেন, বিএনপি, জামায়াত ও এনসিপি সকলেই আমরা ফ্যাসিবাদের বিরুদ্ধে একসঙ্গে আন্দোলন করেছিলাম। কাজেই এ সরকার কারও প্রতিপক্ষ নয়, এ সরকার আমাদের সকলের সরকার। বাংলাদেশের ভবিষ্যতের জন্য বাংলাদেশের পুনর্গঠনের জন্য আমাদেরকে সফল করতে হবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241121-38350963439d6ac6cfbdf38eca049648.jpg"
       },
       {
         "headline": "অর্থ মন্ত্রণালয়ের প্রকল্পে চাকরির সুযোগ, আবেদন ১২ মার্চের মধ্যে",
@@ -11814,25 +11813,18 @@
     ],
     "opinion": [
       {
+        "headline": "গণ-আকাঙ্ক্ষার সংসদের যাত্রা আজ",
+        "url": "https://dailynayadiganta.com/printed-edition/xNxBzUOLMNCr/",
+        "published_at": null,
+        "summary": "শক্তিশালী সরকার ও কার্যকর বিরোধী দলের উপস্থিতি সংসদকে আরো প্রাণবন্ত ও কার্যকর করে তুলতে পারে। তবে জুলাই সনদ বাস্তবায়ন ও সংবিধান সংস্কার প্রশ্নে শুরু থেকেই সরকারি দল বিএনপি এবং বিরোধী জোট জামায়াত-এনসিপির মধ্যে টানাপড়েন তৈরি হওয়ার আশঙ্কাও রয়েছে। এ উত্তাপ সংসদ এবং রাজপথ দুই ক্ষেত্রেই প্রতিফলিত হতে পারে বলে মনে করছেন পর্যবেক্ষকরা। ইতোমধ্যে ইঙ্গিত পাওয়া গেছে, প্রথম দিনেই রাষ্ট্রপতির ভাষণের প্রতিবাদ জানিয়ে ওয়াকআউট করতে পারেন বিরোধী জোটের সংসদ সদস্যরা।",
+        "image_url": "https://media.ndiganta.com/images/Screenshot_20260218-0.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
         "headline": "ইরানকে যুদ্ধে কেন হারানো যাবে না",
         "url": "https://dailynayadiganta.com/opinions/sub-editorial/44PqjKIZBXbY/",
         "published_at": null,
         "summary": "মধ্যপ্রাচ্যে চলমান সঙ্ঘাত এখন আর সীমিত সামরিক উত্তেজনার পর্যায়ে নেই। এ সঙ্ঘাত এখন বহুস্তরের  সামরিক হামলা, প্রক্সি যুদ্ধ, সাইবার সঙ্ঘাত, জ্বালানি রাজনীতি এবং বৈশ্বিক কূটনৈতিক মেরুকরণের সমন্বয়ে এক জটিল ভূরাজনৈতিক সঙ্কটে পরিণত। যুদ্ধের কয়েক দিনেই স্পষ্ট হয়ে উঠেছে যে, এটি কেবল দুই রাষ্ট্রের সংঘর্ষ নয়; বরং মধ্যপ্রাচ্যের শক্তির ভারসাম্য পুনর্গঠনের বৃহৎ লড়াই।",
         "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "এবার স্থানীয় নির্বাচনে চোখ জামায়াতের",
-        "url": "https://dailynayadiganta.com/printed-edition/znHl3DvpZA53/",
-        "published_at": null,
-        "summary": "জাতীয় সংসদ নির্বাচনে ভালো ফলের পর এবার স্থানীয় নির্বাচনে চোখ দিয়েছে প্রধান বিরোধী দল বাংলাদেশ জামায়াতে ইসলামী। আসন সংখ্যায় কম হলেও ভোটের হিসাব দলটিকে আত্মবিশ্বাসী করে তুলেছে। সিটি করপোরেশনের মেয়র থেকে শুরু করে ইউনিয়ন-ওয়ার্ড পর্যন্ত প্রার্থী দেয়ার পরিকল্পনা নিয়েছে দলটি। স্থানীয় নির্বাচনে লড়বেন দলের নারী প্রার্থীরাও।",
-        "image_url": "https://media.ndiganta.com/images/Jamaat-Logo-1_y5EA4yE.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "জুলাই সনদ নিয়ে গড়িমসি নয়",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/ShAz0TEP7ElI/",
-        "published_at": null,
-        "summary": "গণভোট প্রশ্নে বিএনপির দাবি আমলে \r\nনিয়ে গ্রাউন্ডটি তৈরি করে রেখেছিল ইউনূস সরকার নিজেই, আর তাতে বুঝে হোক কিংবা না বুঝে— সমর্থন জুগিয়েছিল জুলাই বিপ্লবের নায়কদের নিয়ে গড়া জাতীয় নাগরিক পার্টি-এনসিপি। না, আপনি ভুল কিছু শুনছেন না, ঘটনার ধারাক্রম সেরকমই। জামায়াত ও তার সমমনা দলগুলো জোর দাবি জানিয়ে আসছিল জুলাই সনদের উপর গণভোট আগে অনুষ্ঠানের জন্য। অন্যদিকে আগে \r\nগণভোট অনুষ্ঠান প্রশ্নে ঘোরতর \r\nআপত্তি জানিয়ে আসছিল বিএনপি",
-        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
         "headline": "ছিনতাইকারীদের উৎপাত, পুলিশি তৎপরতা জোরদার করা দরকার",
@@ -11882,6 +11874,13 @@
         "published_at": null,
         "summary": "মনে রাখতে হবে, আজ যারা ক্ষমতায় আসীন তারা স্থায়ীভাবে \r\nএই অবস্থানে থাকবেন না। সময়ের বিবর্তন ও গণতান্ত্রিক প্রক্রিয়ার ধারাবাহিকতায় একসময় তাদেরও ক্ষমতা আরেকটি নির্বাচিত দলের \r\nকাছে হস্তান্তর করতে হবে। সেই মুহূর্তে যদি বর্তমান আচরণই দৃষ্টান্ত হিসেবে প্রতিষ্ঠিত হয়, তবে তা সুখকর হবে না। তাই রাজনৈতিক সৌজন্য, পারস্পরিক শ্রদ্ধা ও গণতান্ত্রিক শালীনতার সংস্কৃতি বজায় রাখা সবার জন্যই জরুরি। কারণ আজ যে আচরণ করা হচ্ছে, আগামীকাল তা \r\nনিজের কাছেই ফিরে আসতে পারে। এটি মনে রাখা রাজনীতির জন্য যেমন, তেমনই রাষ্ট্রের সুস্থ ধারাবাহিকতার জন্যও অপরিহার্য",
         "image_url": "https://media.ndiganta.com/original_images/AFN.jpg"
+      },
+      {
+        "headline": "জঙ্গল সলিমপুর অভিযান : আইনশৃঙ্খলা পুনর্গঠনের এক গুরুত্বপূর্ণ অধ্যায়",
+        "url": "https://dailynayadiganta.com/opinions/opinion/VJzSealHJbsu/",
+        "published_at": null,
+        "summary": "জঙ্গল সলিমপুরের অভিজ্ঞতা এটাই প্রমাণ করে যে, রাষ্ট্রের শাসন ও আইনশৃঙ্খলা তখনই কার্যকর হয় যখন তা শুধু অভিযানের মাধ্যমে নয়; বরং দীর্ঘমেয়াদি পরিকল্পনা ও সামাজিক অংশগ্রহণের মাধ্যমে প্রতিষ্ঠিত হয়। সুতরাং সেই লক্ষ্যেই এগিয়ে যেতে পারলে জঙ্গল সলিমপুর শুধু একটি অভিযানের গল্প হয়ে থাকবে না; বরং এটি হয়ে উঠতে পারে রাষ্ট্রের শাসন পুনঃপ্রতিষ্ঠার একটি সফল উদাহরণ।",
+        "image_url": "https://media.ndiganta.com/original_images/opinion01_nbGXntp.original.jpg"
       },
       {
         "headline": "গুজবের আগুনে পুড়ছে ধৈর্যচট্টগ্রামে জ্বালানি তেলের জন্য হাহাকার না কি কেবলই আতঙ্ক?",
@@ -11954,11 +11953,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/vote-20260116113250.jpg"
       },
       {
-        "headline": "জঙ্গল সলিমপুর অভিযান : আইনশৃঙ্খলা পুনর্গঠনের এক গুরুত্বপূর্ণ অধ্যায়",
-        "url": "https://dailynayadiganta.com/opinions/opinion/VJzSealHJbsu/",
+        "headline": "এবার স্থানীয় নির্বাচনে চোখ জামায়াতের",
+        "url": "https://dailynayadiganta.com/printed-edition/znHl3DvpZA53/",
         "published_at": null,
-        "summary": "জঙ্গল সলিমপুরের অভিজ্ঞতা এটাই প্রমাণ করে যে, রাষ্ট্রের শাসন ও আইনশৃঙ্খলা তখনই কার্যকর হয় যখন তা শুধু অভিযানের মাধ্যমে নয়; বরং দীর্ঘমেয়াদি পরিকল্পনা ও সামাজিক অংশগ্রহণের মাধ্যমে প্রতিষ্ঠিত হয়। সুতরাং সেই লক্ষ্যেই এগিয়ে যেতে পারলে জঙ্গল সলিমপুর শুধু একটি অভিযানের গল্প হয়ে থাকবে না; বরং এটি হয়ে উঠতে পারে রাষ্ট্রের শাসন পুনঃপ্রতিষ্ঠার একটি সফল উদাহরণ।",
-        "image_url": "https://media.ndiganta.com/original_images/opinion01_nbGXntp.original.jpg"
+        "summary": "জাতীয় সংসদ নির্বাচনে ভালো ফলের পর এবার স্থানীয় নির্বাচনে চোখ দিয়েছে প্রধান বিরোধী দল বাংলাদেশ জামায়াতে ইসলামী। আসন সংখ্যায় কম হলেও ভোটের হিসাব দলটিকে আত্মবিশ্বাসী করে তুলেছে। সিটি করপোরেশনের মেয়র থেকে শুরু করে ইউনিয়ন-ওয়ার্ড পর্যন্ত প্রার্থী দেয়ার পরিকল্পনা নিয়েছে দলটি। স্থানীয় নির্বাচনে লড়বেন দলের নারী প্রার্থীরাও।",
+        "image_url": "https://media.ndiganta.com/images/Jamaat-Logo-1_y5EA4yE.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "জুলাই সনদ নিয়ে গড়িমসি নয়",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/ShAz0TEP7ElI/",
+        "published_at": null,
+        "summary": "গণভোট প্রশ্নে বিএনপির দাবি আমলে \r\nনিয়ে গ্রাউন্ডটি তৈরি করে রেখেছিল ইউনূস সরকার নিজেই, আর তাতে বুঝে হোক কিংবা না বুঝে— সমর্থন জুগিয়েছিল জুলাই বিপ্লবের নায়কদের নিয়ে গড়া জাতীয় নাগরিক পার্টি-এনসিপি। না, আপনি ভুল কিছু শুনছেন না, ঘটনার ধারাক্রম সেরকমই। জামায়াত ও তার সমমনা দলগুলো জোর দাবি জানিয়ে আসছিল জুলাই সনদের উপর গণভোট আগে অনুষ্ঠানের জন্য। অন্যদিকে আগে \r\nগণভোট অনুষ্ঠান প্রশ্নে ঘোরতর \r\nআপত্তি জানিয়ে আসছিল বিএনপি",
+        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
         "headline": "অস্তিত্ব সঙ্কটে ঢাকার খাল-জলাধার, পরিবেশে নীরব বিপর্যয়",
@@ -13205,13 +13211,6 @@
         "published_at": null,
         "summary": "সংবিধানের ১৪৮ অনুচ্ছেদ অনুযায়ী সরকারি গেজেটে ফল প্রকাশের তিন দিনের মধ্যে নবনির্বাচিত সদস্যদের শপথ হবে; রাষ্ট্রপতি মনোনীত ব্যক্তি শপথ পড়াবেন, না হলে প্রধান নির্বাচন কমিশনার পড়াবেন।",
         "image_url": "https://media.ndiganta.com/images/songsod-vobon.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "দূষণে অবরুদ্ধ ঢাকা, রাজনৈতিক সদিচ্ছা জরুরি",
-        "url": "https://dailynayadiganta.com/opinions/editorial/UCMojhctV8Ka/",
-        "published_at": null,
-        "summary": "ঢাকায় উন্নয়ন আর অব্যবস্থাপনার দ্বন্দ্ব প্রতিদিনই প্রকট হয়ে উঠছে। বায়ুদূষণ, জলাবদ্ধতা, অপরিকল্পিত বর্জ্য ও দূষিত পানির কারণে নগরজীবন এক অদৃশ্য চাপে যেন অবরুদ্ধ। এই বাস্তবতায় রাজধানীর স্যানিটেশন, কঠিন বর্জ্য ব্যবস্থাপনা ও পানিদূষণ নিয়ন্ত্রণে ৩৭ কোটি মার্কিন ডলারের ঋণ অনুমোদন করেছে বিশ্বব্যাংক, যা বাংলাদেশী মুদ্রায় প্রায় চার হাজার ৫২৮ কোটি টাকা।  অঙ্কটি নিঃসন্দেহে বড়। তবে একই সাথে বেড়েছে প্রত্যাশার মাত্রাও। প্রশ্ন থেকে যায়, এই বিপুল অর্থায়ন কি ঢাকার পরিবেশগত সঙ্কটের স্থায়ী সমাধান আনতে পারবে? নাকি আরেকটি ‘প্রকল্পনির্ভর’ সাময়িক সমাধানেই সীমাবদ্ধ থাকবে?",
-        "image_url": "https://media.ndiganta.com/original_images/WhatsApp_Image_2025-10-21_at_5.15.02_PM_1.jpeg"
       }
     ],
     "world-business": [],
@@ -13289,13 +13288,6 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241542-78d5c5b028f169118af9a9505ef338fb.jpg"
       },
       {
-        "headline": "বর্তমান সরকার সবার, কারও প্রতিপক্ষ নয়: প্রবাসীকল্যাণ প্রতিমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227058",
-        "published_at": "2026-03-11T20:58:42+06:00",
-        "summary": "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের প্রতিমন্ত্রী নুরুল হক নূর বলেছেন, বিএনপি, জামায়াত ও এনসিপি সকলেই আমরা ফ্যাসিবাদের বিরুদ্ধে একসঙ্গে আন্দোলন করেছিলাম। কাজেই এ সরকার কারও প্রতিপক্ষ নয়, এ সরকার আমাদের সকলের সরকার। বাংলাদেশের ভবিষ্যতের জন্য বাংলাদেশের পুনর্গঠনের জন্য আমাদেরকে সফল করতে হবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241121-38350963439d6ac6cfbdf38eca049648.jpg"
-      },
-      {
         "headline": "কুমিল্লা সিটি নির্বাচন",
         "url": "https://www.amarsangbad.com/election/",
         "published_at": null,
@@ -13364,6 +13356,13 @@
         "published_at": "1771227856",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের সঙ্গে অনুষ্ঠিত গণভোটের আনুষ্ঠানিক ফলাফল গেজেট আকারে প্রকাশ করেছে নির্বাচন কমিশন (ইসি)।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-5--20260216074416.jpg"
+      },
+      {
+        "headline": "বর্তমান সরকার সবার, কারও প্রতিপক্ষ নয়: প্রবাসীকল্যাণ প্রতিমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227058",
+        "published_at": "2026-03-11T20:58:42+06:00",
+        "summary": "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের প্রতিমন্ত্রী নুরুল হক নূর বলেছেন, বিএনপি, জামায়াত ও এনসিপি সকলেই আমরা ফ্যাসিবাদের বিরুদ্ধে একসঙ্গে আন্দোলন করেছিলাম। কাজেই এ সরকার কারও প্রতিপক্ষ নয়, এ সরকার আমাদের সকলের সরকার। বাংলাদেশের ভবিষ্যতের জন্য বাংলাদেশের পুনর্গঠনের জন্য আমাদেরকে সফল করতে হবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241121-38350963439d6ac6cfbdf38eca049648.jpg"
       },
       {
         "headline": "সংসদের অধিবেশন কক্ষে কালিমা তাইয়্যেবা লেখা আরবি ক্যালিগ্রাফি স্থাপন",
@@ -16093,25 +16092,11 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241542-78d5c5b028f169118af9a9505ef338fb.jpg"
       },
       {
-        "headline": "বর্তমান সরকার সবার, কারও প্রতিপক্ষ নয়: প্রবাসীকল্যাণ প্রতিমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227058",
-        "published_at": "2026-03-11T20:58:42+06:00",
-        "summary": "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের প্রতিমন্ত্রী নুরুল হক নূর বলেছেন, বিএনপি, জামায়াত ও এনসিপি সকলেই আমরা ফ্যাসিবাদের বিরুদ্ধে একসঙ্গে আন্দোলন করেছিলাম। কাজেই এ সরকার কারও প্রতিপক্ষ নয়, এ সরকার আমাদের সকলের সরকার। বাংলাদেশের ভবিষ্যতের জন্য বাংলাদেশের পুনর্গঠনের জন্য আমাদেরকে সফল করতে হবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241121-38350963439d6ac6cfbdf38eca049648.jpg"
-      },
-      {
         "headline": "নিহত ইবি শিক্ষিকার জানাজা সম্পন্ন, লিখিত জবানবন্দি দিয়েছে হত্যাকারী",
         "url": "https://www.amarsangbad.com/education/news/339580",
         "published_at": "1772701486",
         "summary": "ইসলামী বিশ্ববিদ্যালয়ের (ইবি) সমাজকল্যাণ বিভাগের সভাপতি ও সহকারী অধ্যাপক আসমা সাদিয়া রুনার জানাজা সম্পন্ন হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-3-20260305090446.jpg"
-      },
-      {
-        "headline": "কর্মচারীর ছুরিকাঘাতে ইবি শিক্ষিকা নিহত, নেপথ্যে কী?",
-        "url": "https://www.amarsangbad.com/education/news/339553",
-        "published_at": "1772688817",
-        "summary": "কুষ্টিয়ার ইসলামী বিশ্ববিদ্যালয়ে (ইবি) সমাজকল্যাণ বিভাগের সভাপতি ও সহকারী অধ্যাপক আসমা সাদিয়া রুনা ছুরিকাঘাতে নিহত হয়েছেন। অভিযোগ উঠেছে, বিভাগের এক কর্মচারী ফজলুর রহমান তাকে ছুরিকাঘাত করেন। পরে অভিযুক্ত নিজেও আত্মহত্যার চেষ্টা করেন। এ ঘটনার পর দেশজুড়ে চাঞ্চল্যের সৃষ্টি হয়েছে এবং কেন এই হত্যাকাণ্ড ঘটল তা নিয়ে নানা প্রশ্ন উঠেছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-designx---2026-03-05T113323093-20260305053337.jpg"
       },
       {
         "headline": "জবি ছাত্রদলের নেতৃত্বে সাংবাদিকদের উপর হামলায় আহত ১০",
@@ -16156,6 +16141,13 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitledtx-(65)-20260309141201.jpg"
       },
       {
+        "headline": "জবি উপাচার্য ও প্রক্টরের পদত্যাগ দাবিতে ছাত্রদলের ভিসি ভবন ঘেরাও",
+        "url": "https://www.amarsangbad.com/education/news/339829",
+        "published_at": "1772967915",
+        "summary": "জগন্নাথ বিশ্ববিদ্যালয় (জবি) সাংবাদিক সমিতির নির্বাচনে সাংবাদিকদের ওপর হামলার ঘটনায় প্রশাসনের পক্ষপাতমূলক আচরণের অভিযোগ তুলে উপাচার্য ভবন ঘেরাও করে বিক্ষোভ করেছে শাখা ছাত্রদল।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-17-20260308110515.jpg"
+      },
+      {
         "headline": "বাঙলা কলেজে সীরাত প্রতিযোগিতার পুরস্কার বিতরণ, বিজয়ীদের নগদ অর্থ ও ক্রেস্ট প্রদান",
         "url": "https://www.amarsangbad.com/education/news/340169",
         "published_at": "1773247060",
@@ -16168,6 +16160,20 @@
         "published_at": "1773209210",
         "summary": "বাংলাদেশ ইসলামি ছাত্রশিবির, জাহাঙ্গীরনগর বিশ্ববিদ্যালয় শাখার উদ্যোগে বিশ্ববিদ্যালয়ের মীর মশাররফ হোসেন হলে ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitledtx---2026-03-11T120633680-20260311060650.jpg"
+      },
+      {
+        "headline": "বর্তমান সরকার সবার, কারও প্রতিপক্ষ নয়: প্রবাসীকল্যাণ প্রতিমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/11/1227058",
+        "published_at": "2026-03-11T20:58:42+06:00",
+        "summary": "প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের প্রতিমন্ত্রী নুরুল হক নূর বলেছেন, বিএনপি, জামায়াত ও এনসিপি সকলেই আমরা ফ্যাসিবাদের বিরুদ্ধে একসঙ্গে আন্দোলন করেছিলাম। কাজেই এ সরকার কারও প্রতিপক্ষ নয়, এ সরকার আমাদের সকলের সরকার। বাংলাদেশের ভবিষ্যতের জন্য বাংলাদেশের পুনর্গঠনের জন্য আমাদেরকে সফল করতে হবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773241121-38350963439d6ac6cfbdf38eca049648.jpg"
+      },
+      {
+        "headline": "কর্মচারীর ছুরিকাঘাতে ইবি শিক্ষিকা নিহত, নেপথ্যে কী?",
+        "url": "https://www.amarsangbad.com/education/news/339553",
+        "published_at": "1772688817",
+        "summary": "কুষ্টিয়ার ইসলামী বিশ্ববিদ্যালয়ে (ইবি) সমাজকল্যাণ বিভাগের সভাপতি ও সহকারী অধ্যাপক আসমা সাদিয়া রুনা ছুরিকাঘাতে নিহত হয়েছেন। অভিযোগ উঠেছে, বিভাগের এক কর্মচারী ফজলুর রহমান তাকে ছুরিকাঘাত করেন। পরে অভিযুক্ত নিজেও আত্মহত্যার চেষ্টা করেন। এ ঘটনার পর দেশজুড়ে চাঞ্চল্যের সৃষ্টি হয়েছে এবং কেন এই হত্যাকাণ্ড ঘটল তা নিয়ে নানা প্রশ্ন উঠেছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-designx---2026-03-05T113323093-20260305053337.jpg"
       },
       {
         "headline": "সংসদের অধিবেশন কক্ষে কালিমা তাইয়্যেবা লেখা আরবি ক্যালিগ্রাফি স্থাপন",
@@ -16217,13 +16223,6 @@
         "published_at": "2026-03-11T19:42:17+06:00",
         "summary": "রমজান মাসকে সামনে রেখে বাংলাদেশ ও পাকিস্তানের চলমান ওয়ানডে সিরিজে বিশেষ সময়সূচি রাখা হয়েছে। সিরিজের প্রতিটি ম্যাচে ইফতারের জন্য ৪০ মিনিটের বিরতি রাখা হয়েছে বলে জানিয়েছেন ম্যাচ রেফারি রশিদ রাহুল।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/11/og/1773236536-a9903eb3a75d53112bc98b92af475c72.jpg"
-      },
-      {
-        "headline": "জবি উপাচার্য ও প্রক্টরের পদত্যাগ দাবিতে ছাত্রদলের ভিসি ভবন ঘেরাও",
-        "url": "https://www.amarsangbad.com/education/news/339829",
-        "published_at": "1772967915",
-        "summary": "জগন্নাথ বিশ্ববিদ্যালয় (জবি) সাংবাদিক সমিতির নির্বাচনে সাংবাদিকদের ওপর হামলার ঘটনায় প্রশাসনের পক্ষপাতমূলক আচরণের অভিযোগ তুলে উপাচার্য ভবন ঘেরাও করে বিক্ষোভ করেছে শাখা ছাত্রদল।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-17-20260308110515.jpg"
       },
       {
         "headline": "থার্ড টার্মিনাল চালু হতে ৬-৯ মাস লাগবে : বিমান প্রতিমন্ত্রী",
