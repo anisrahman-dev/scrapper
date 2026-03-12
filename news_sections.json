@@ -1,11 +1,19 @@
 {
-  "fetched_at": "2026-03-12T22:22:59.108011+00:00",
+  "fetched_at": "2026-03-12T22:56:14.788418+00:00",
   "sections": {
     "latest": [
       {
+        "headline": "মদিনায় ১০ রমজান: কেমন ছিল নবীজি (সা.)–এর শেষ দশক",
+        "url": "https://www.prothomalo.com/religion/islam/4pas1v44xc",
+        "published_at": "2026-03-12T22:30:00+00:00",
+        "summary": "হিজরির দ্বিতীয় বছরে রমজানের রোজা ফরজ করা হয়। সেই বছর ১৭ রমজান বদরের যুদ্ধ সংঘটিত হয়। নবীজি (সা.) রমজানের শেষ দশকে নিয়মিত ইতিকাফ করতেন। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-11/0s6vcwah/pexels-kh-ali-li-7542100.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/0s6vcwah/pexels-kh-ali-li-7542100.jpg?auto=format,compress"
+      },
+      {
         "headline": "ইরাকের আকাশসীমায় যুক্তরাষ্ট্রের রিফুয়েলিং উড়োজাহাজ বিধ্বস্ত",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-12T22:18:21.964000+00:00",
+        "published_at": "2026-03-12T22:18:44.170000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
@@ -1496,14 +1504,6 @@
         "summary": "ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) ২০২৫-২৬ শিক্ষাবর্ষে আন্ডারগ্র্যাজুয়েট প্রোগ্রামে ভর্তি নিয়ে বিশেষ নির্দেশনা প্রকাশ করা হয়েছে।",
         "image_s3_key": "prothomalo-bangla/2026-03-12/nprui0ky/122.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/nprui0ky/122.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "বীর মুক্তিযোদ্ধা, ফুটবলার, এখন জাতীয় সংসদের স্পিকার হাফিজ উদ্দিন আহমদ",
-        "url": "https://www.prothomalo.com/video/bangladesh/9wded0ev9h",
-        "published_at": "2026-03-12T11:36:41.216000+00:00",
-        "summary": "বীর মুক্তিযোদ্ধা, ফুটবলার, এখন জাতীয় সংসদের স্পিকার হাফিজ উদ্দিন আহমদ",
-        "image_s3_key": "prothomalo-bangla/2026-03-12/r0plph43/WEB.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-12/r0plph43/WEB.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -4400,7 +4400,7 @@
       {
         "headline": "ইরাকের আকাশসীমায় যুক্তরাষ্ট্রের রিফুয়েলিং উড়োজাহাজ বিধ্বস্ত",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-12T22:18:21.964000+00:00",
+        "published_at": "2026-03-12T22:18:44.170000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/gspbx3g5/Tehran0.jpg?auto=format,compress"
@@ -17600,7 +17600,7 @@
         "headline": "বিজ্ঞান ও তথ্যপ্রযুক্তি",
         "url": "https://www.jugantor.com/tech",
         "published_at": null,
-        "summary": "নিরাপদ, উন্মুক্ত ও স্থিতিশীল ইন্টারনেট নিশ্চিতের লক্ষ্যে শুরু হয়েছে আইক্যান৮৫ সম্মেলন। এ আয়োজনে অংশ নিয়েছেন বিশ্বের বিভিন্ন ...",
+        "summary": "বিশ্বব্যাপী ইন্টারনেটের ডোমেইন নাম, আইপি ঠিকানা ও কারিগরি মান ব্যবস্থাপনার দায়িত্বে থাকা সংস্থা ইন্টারনেট করপোরেশন ফর অ্যাসাইনড নেম অ্যান্ড নম্বর ...",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
       },
       {
