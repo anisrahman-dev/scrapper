@@ -1,13 +1,21 @@
 {
-  "fetched_at": "2026-03-13T20:30:39.561048+00:00",
+  "fetched_at": "2026-03-13T21:04:15.657456+00:00",
   "stories": [
+    {
+      "headline": "মধ্যপ্রাচ্যে ২২০০ মেরিন সেনা মোতায়েনের পরিকল্পনা যুক্তরাষ্ট্রের",
+      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+      "published_at": "2026-03-13T20:41:25.333000+00:00",
+      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-13/n9aircpi/Drone.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-13/n9aircpi/Drone.jpg?auto=format,compress"
+    },
     {
       "headline": "ইরানের ক্ষেপণাস্ত্র সামলাতে দ. কোরিয়া থেকে থাড ব্যবস্থা মধ্যপ্রাচ্যে সরিয়ে নিচ্ছে যুক্তরাষ্ট্র",
       "url": "https://www.prothomalo.com/world/middle-east/9fx8bux23c",
       "published_at": "2026-03-13T20:16:30.146000+00:00",
       "summary": "ইরানের হামলায় জর্ডানে থাকা যুক্তরাষ্ট্রের আকাশ প্রতিরক্ষাব্যবস্থা থাডের একটি রাডার ধ্বংস হওয়ার খবর প্রকাশের পর যুক্তরাষ্ট্রের এই পদক্ষেপ।",
-      "image_s3_key": "prothomalo-bangla/2026-03-13/7oeqkab4/Thaad-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-13/7oeqkab4/Thaad-1.jpg?auto=format,compress"
+      "image_s3_key": "prothomalo-bangla/2026-03-13/ijet9npf/Thaad-2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-13/ijet9npf/Thaad-2.jpg?auto=format,compress"
     },
     {
       "headline": "আফগানিস্তানের তিন জায়গায় বিমান হামলা পাকিস্তানের, ৬ জন নিহত",
@@ -32,14 +40,6 @@
       "summary": "পবিত্র ঈদুল ফিতর সামনে রেখে দেশের প্রবীণ-নবীন লেখকদের লেখা ও শিল্পীদের অলংকরণে দৃষ্টিনন্দিত রূপে ঈদসংখ্যা প্রকাশ করে আসছে প্রথম আলো।",
       "image_s3_key": "prothomalo-bangla/2026-03-13/cnqhhmqa/Capture.PNG",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-13/cnqhhmqa/Capture.PNG?auto=format,compress"
-    },
-    {
-      "headline": "মধ্যপ্রাচ্যে ২২০০ মেরিন সেনা মোতায়েনের পরিকল্পনা যুক্তরাষ্ট্রের",
-      "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-      "published_at": "2026-03-13T19:58:31.386000+00:00",
-      "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-13/n9aircpi/Drone.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-13/n9aircpi/Drone.jpg?auto=format,compress"
     },
     {
       "headline": "বিশ্বাস করেন সকাল ৯টা থেকে রাত ১২টা পর্যন্ত খালি তদবির: স্থানীয় সরকারমন্ত্রী",
@@ -328,6 +328,13 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/13/og/1773424476-2132c1e5d1b60f7b21344eaf36082a02.jpg"
     },
     {
+      "headline": "স্বজনদের জন্য নয়, রাজনীতি করি জনগণের স্বার্থে : পররাষ্ট্র প্রতিমন্ত্রী",
+      "url": "https://www.bd-pratidin.com/minister-speech/2026/03/13/1227848",
+      "published_at": "2026-03-13T22:22:05+06:00",
+      "summary": "পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম রিংকু বলেছেন, আমি জনগণের স্বার্থে রাজনীতি করি। কোনো আত্মীয়-স্বজনকে চিনে কাজ করার সুযোগ নেই। জনগণই আমার প্রধান শক্তি। একটি সুষ্ঠু ভোটের মাধ্যমে সংসদে যেতে পেরেছি।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/13/og/1773418924-246ed95454d12f21d9fc0259316b750d.gif"
+    },
+    {
       "headline": "রাজধানীর নদ্দায় অগ্নিকাণ্ড",
       "url": "https://www.bd-pratidin.com/city-news/2026/03/13/1227846",
       "published_at": "2026-03-13T21:57:48+06:00",
@@ -375,13 +382,6 @@
       "published_at": "2026-03-13T21:03:59+06:00",
       "summary": "আগামী বুধবার (১৮ মার্চ) পর্যন্ত দেশের বিভিন্ন এলাকায় বিচ্ছিন্নভাবে ঝড়বৃষ্টি হতে পারে বলে পূর্বাভাস দিয়েছে আবহাওয়া অধিদপ্তর। আবহাওয়াবিদরা বলছেন, ‘এ ঝড়বৃষ্টির পরিমাণ হয়তো বেশি হবে না। আবার দীর্ঘ সময় ধরেও থাকবে না। দেশজুড়েই যে এমনটা ঘটবে তা নয়। দেশের বিভিন্ন স্থানে, বিচ্ছিন্নভাবে তা হতে পারে।’",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/13/og/1773414238-8b4b388ca56f973f5e97cb79bcc8da52.jpg"
-    },
-    {
-      "headline": "ইরাকে মার্কিন জ্বালানিবাহী বিমান বিধ্বস্ত: ৬ জনের সবাই নিহত",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/13/1227828",
-      "published_at": "2026-03-13T20:53:36+06:00",
-      "summary": "ইরাকের পশ্চিমাঞ্চলে বিধ্বস্ত হওয়া মার্কিন সামরিক বাহিনীর একটি রিফুয়েলিং বা জ্বালানিবাহী উড়োজাহাজের সকল ক্রু সদস্যের মৃত্যুর বিষয়টি আনুষ্ঠানিকভাবে নিশ্চিত করেছে যুক্তরাষ্ট্রের সেন্ট্রাল কমান্ড (সেন্টকম)।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/13/og/1773413615-0d40bb7ae83f974d558d659c20876c94.jpg"
     },
     {
       "headline": "গণ-আকাঙ্ক্ষার সংসদের যাত্রা আজ",
@@ -513,7 +513,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 14, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "দুর্যোগ ব্যবস্থাপনা ও ত্রাণমন্ত্রী আসাদুল হাবিব দুলু বলেছেন, দেশের জনগণ উন্নয়ন ও সমৃদ্ধির ...",
+      "summary": "কুদস-দিবস পালন করেই ইসরাইলে ব্যাপক হামলা চালিয়েছে ইরান। প্রতিশোধমূলক আক্রমণের অংশ হিসেবে ঝাঁকে ঝাঁকে ক্ষেপণাস্ত্র ছুড়েছে ইসলামি প্রজাতন্ত্র। এতে ইসরাইলের ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -522,6 +522,13 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ইরাকে মার্কিন জ্বালানিবাহী বিমান বিধ্বস্ত: ৬ জনের সবাই নিহত",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/13/1227828",
+      "published_at": "2026-03-13T20:53:36+06:00",
+      "summary": "ইরাকের পশ্চিমাঞ্চলে বিধ্বস্ত হওয়া মার্কিন সামরিক বাহিনীর একটি রিফুয়েলিং বা জ্বালানিবাহী উড়োজাহাজের সকল ক্রু সদস্যের মৃত্যুর বিষয়টি আনুষ্ঠানিকভাবে নিশ্চিত করেছে যুক্তরাষ্ট্রের সেন্ট্রাল কমান্ড (সেন্টকম)।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/13/og/1773413615-0d40bb7ae83f974d558d659c20876c94.jpg"
     },
     {
       "headline": "দেশে কৃষক কার্ড দেওয়া শুরু হচ্ছে, পরীক্ষামূলক তথ্য সংগ্রহ শুরু বগুড়া থেকে ",
@@ -1500,14 +1507,6 @@
       "summary": null,
       "image_s3_key": "prothomalo-bangla/2026-03-13/nrsxcgk3/WEB-Recovered.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-13/nrsxcgk3/WEB-Recovered.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ব্র্যাকে সিনিয়র অফিসার পদে চাকরি, স্নাতক পাসে আবেদন",
-      "url": "https://www.prothomalo.com/chakri/employment/6jmdn0ds6p",
-      "published_at": "2026-03-13T09:37:14.988000+00:00",
-      "summary": "সিনিয়র অফিসার পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ করেছে ব্রাক। প্রধান দায়িত্ব হবে নির্ধারিত পোর্টফোলিওর জন্য পুরো রিক্রুটমেন্ট প্রক্রিয়া পরিচালনা করা - ট্যালেন্ট সোর্সিং থেকে মূল্যায়ন এবং অনবোর্ডিং পর্যন্ত।",
-      "image_s3_key": "prothomalo-bangla/2026-02-03/wxj0ut95/Untitled-2.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-03/wxj0ut95/Untitled-2.jpg?auto=format,compress"
     }
   ]
 }
