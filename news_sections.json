@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-03-14T23:24:46.556697+00:00",
+  "fetched_at": "2026-03-14T23:53:06.564734+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "লেবানন সীমান্তে ইসরায়েলি সেনাদের লক্ষ্য করে হিজবুল্লাহর ক্ষেপণাস্ত্র হামলা\n\n",
+        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
+        "published_at": "2026-03-14T23:40:48.534000+00:00",
+        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-08/n32132rt/৯.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/n32132rt/৯.jpg?auto=format,compress"
+      },
       {
         "headline": "শিশুকে এক স্মরণীয় রমজান উপহার দেওয়ার ৫ কৌশল",
         "url": "https://www.prothomalo.com/religion/islam/ez608gvp95",
@@ -9,14 +17,6 @@
         "summary": "তার হৃদয়ে এমন এক রমজান গেঁথে দেওয়া যায়, যা তাকে আজীবন এক উষ্ণ ও পবিত্র পরশ দেবে। কীভাবে আপনার শিশুর জন্য এই মাসটিকে স্মরণীয় করে তুলবেন?",
         "image_s3_key": "prothomalo-bangla/2026-03-14/au6yri4p/pexels-timur-weber-9127774-1.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/au6yri4p/pexels-timur-weber-9127774-1.jpg?auto=format,compress"
-      },
-      {
-        "headline": "লেবানন সীমান্তে ইসরায়েলি সেনাদের লক্ষ্য করে হিজবুল্লাহর ক্ষেপণাস্ত্র হামলা\n\n",
-        "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-14T22:25:10.447000+00:00",
-        "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-08/n32132rt/৯.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/n32132rt/৯.jpg?auto=format,compress"
       },
       {
         "headline": "ঐতিহ্য ও ধর্মীয় সম্প্রীতির স্মারক বরিশালের ২০০ বছরের পুরোনো ফকিরবাড়ি মসজিদ",
@@ -500,7 +500,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 15, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "ডক্টরস অ্যাসোসিয়েশন অব বাংলাদেশের (ড্যাব) উদ্যোগে জাতীয় সংসদের এলডি হল সংলগ্ন মাঠে শনিবার দুস্থ শিশুদের মাঝে ঈদ উপহার বিতরণ, আলোচনা ...",
+        "summary": "ইরান ও মার্কিন-ইসরাইল যুদ্ধের প্রভাবে গুরুত্বপূর্ণ সমুদ্রপথ হরমুজ প্রণালি অবরুদ্ধ হয়ে পড়ায় সেখানে আন্তর্জাতিক শক্তির উপস্থিতি বাড়ানোর আহ্বান জানিয়েছেন মার্কিন ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -2067,18 +2067,18 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-08T130119833-20260308070131.jpg"
       },
       {
-        "headline": "নেত্রকোণায় ঐতিহাসিক তিলকখালি খাল খনন কাজের উদ্বোধন",
-        "url": "https://www.amarsangbad.com/country/news/339895",
-        "published_at": "1773041402",
-        "summary": "শহীদ রাষ্ট্রপতি জিয়াউর রহমানের স্মৃতিবিজড়িত নেত্রকোণার ঐতিহাসিক তিলকখালি খালের খনন কাজের আনুষ্ঠানিক উদ্বোধন করা হয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-23-20260309073002.jpg"
-      },
-      {
         "headline": "ময়মনসিংহের এক মসজিদে ইতিকাফে বসেছে নয়শত মুসল্লি",
         "url": "https://www.amarsangbad.com/country/news/340390",
         "published_at": "1773483472",
         "summary": "ময়মনসিংহের বাড়েরা মাদানী নগরে অবস্থিত খানকায়ে হোসাইনিয়া মাদানিয়া মাদরাসা মসজিদে দীর্ঘদিন ধরে আধ্যাত্মিক সাধনা ও মানবকল্যাণমূলক কর্মকাণ্ডের মাধ্যমে ধর্মপ্রাণ মানুষের কাছে একটি গুরুত্বপূর্ণ কেন্দ্র হিসেবে পরিচিতি লাভ করেছে। ২০১২ সালে কুতুবে আলম শাইখুল ইসলাম হোসাইন আহমদ মাদানী (রহ.)-এর খলিফা শায়খ আব্দুল মুমিন (রহ.)-এর মাধ্যমে এই খানকার প্রতিষ্ঠা হয়।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-14T161640049-20260314101752.jpg"
+      },
+      {
+        "headline": "নেত্রকোণায় ঐতিহাসিক তিলকখালি খাল খনন কাজের উদ্বোধন",
+        "url": "https://www.amarsangbad.com/country/news/339895",
+        "published_at": "1773041402",
+        "summary": "শহীদ রাষ্ট্রপতি জিয়াউর রহমানের স্মৃতিবিজড়িত নেত্রকোণার ঐতিহাসিক তিলকখালি খালের খনন কাজের আনুষ্ঠানিক উদ্বোধন করা হয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-23-20260309073002.jpg"
       },
       {
         "headline": "মাগুরা পৌরসভা নির্বাচনে আলোচনায় কিজিল, ত্যাগী নেতৃত্ব দেখতে চান পৌরবাসী",
@@ -3158,7 +3158,7 @@
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
         "url": "https://www.jugantor.com/bnp",
         "published_at": null,
-        "summary": "সংরক্ষিত নারী আসনে মনোনয়ন ঘিরে বিএনপির সম্ভাব্য প্রার্থীদের তৎপরতা বেড়েছে। সরকার গঠনের পর এখন সবার নজর এই আসনগুলোর দিকে। মনোনয়ন ...",
+        "summary": "ডক্টরস অ্যাসোসিয়েশন অব বাংলাদেশের (ড্যাব) উদ্যোগে জাতীয় সংসদের এলডি হল সংলগ্ন মাঠে শনিবার দুস্থ শিশুদের মাঝে ঈদ উপহার বিতরণ, আলোচনা ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747294137-430161.jpg"
       },
       {
@@ -4412,7 +4412,7 @@
       {
         "headline": "লেবানন সীমান্তে ইসরায়েলি সেনাদের লক্ষ্য করে হিজবুল্লাহর ক্ষেপণাস্ত্র হামলা\n\n",
         "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
-        "published_at": "2026-03-14T22:25:10.447000+00:00",
+        "published_at": "2026-03-14T23:40:48.534000+00:00",
         "summary": "জর্ডানের ইরবিদ শহরে বেশ কয়েকটি ড্রোন ছুড়েছে বিমান প্রতিরক্ষাবাহিনী। ঘটনাস্থল থেকে আল জাজিরার প্রতিনিধি এ তথ্য জানিয়েছে। ",
         "image_s3_key": "prothomalo-bangla/2026-03-08/n32132rt/৯.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/n32132rt/৯.jpg?auto=format,compress"
