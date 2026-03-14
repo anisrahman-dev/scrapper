@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-14T20:53:29.668049+00:00",
+  "fetched_at": "2026-03-14T21:24:27.199163+00:00",
   "stories": [
+    {
+      "headline": "ইরানের অর্থনীতির মেরুদণ্ড \nখারগ দ্বীপে মার্কিন হামলা",
+      "url": "https://www.prothomalo.com/world/middle-east/ap7ik6jc3u",
+      "published_at": "2026-03-14T20:51:00+00:00",
+      "summary": "যুক্তরাষ্ট্রের সেন্টকমের দাবি, হামলায় তারা দ্বীপটিতে থাকা ইরানের নৌ মাইন মজুত কেন্দ্র, ক্ষেপণাস্ত্র বাংকারসহ ৯০টির বেশি সামরিক স্থাপনা ধ্বংস করেছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/am9vvrte/2.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/am9vvrte/2.PNG?auto=format,compress"
+    },
     {
       "headline": "কুয়েত আন্তর্জাতিক বিমানবন্দরে ড্রোন হামলা\n",
       "url": "https://www.prothomalo.com/world/middle-east/2odbx2hlmr",
@@ -306,19 +314,18 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/j56el2s9/oil.jpg?auto=format,compress"
     },
     {
-      "headline": "নোয়াবের নতুন সভাপতি মতিউর রহমান চৌধুরী",
-      "url": "https://www.prothomalo.com/bangladesh/9ifsl39g4n",
-      "published_at": "2026-03-14T15:52:17.211000+00:00",
-      "summary": "গতকাল শনিবার ঢাকার তেজগাঁওয়ে টাইমস মিডিয়া লিমিটেড ভবনে নোয়াবের বিদায়ী সভাপতি এ কে আজাদের সভাপতিত্বে অনুষ্ঠিত নোয়াবের বার্ষিক সাধারণ সভায় (এজিএম) সভাপতিসহ কমিটির সব সদস্য বিনা প্রতিদ্বন্দ্বিতায় নির্বাচিত হন। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-14/yhl7pdxq/Manobzamin.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/yhl7pdxq/Manobzamin.webp?auto=format,compress"
-    },
-    {
       "headline": "প্রতিষ্ঠাবার্ষিকীর বিশেষ আয়োজন-১",
       "url": "https://www.bd-pratidin.com/Special-arrangement-of-the-founding-anniversary-1",
       "published_at": null,
       "summary": "নৈতিকতার উপাদানকে কাজে লাগাতে হবে, শক্তিশালী করতে হবে। এমন রাষ্ট্র গড়ে তুলতে হবে যেখানে সাম্রাজ্যবাদের প্রতি আপস থাকবে না, সন্ত্রাসের লালন হবে না এবং...",
       "image_url": "https://www.bd-pratidin.com/default-img.jpg"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্র ও ইসরায়েলের কোনো জাহাজ হরমুজ প্রণালি অতিক্রম করতে পারবে না",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/15/1228366",
+      "published_at": "2026-03-15T03:02:13+06:00",
+      "summary": "ইরানের নবনিযুক্ত সর্বোচ্চ নেতা মোজতবা খামেনি শারীরিকভাবে ক্ষতিগ্রস্ত বা বিকৃত হওয়ার যে দাবি যুক্তরাষ্ট্র করেছে, তা সরাসরি প্রত্যাখ্যান করেছেন দেশটির পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি। শনিবার এক সাক্ষাৎকারে মার্কিন প্রতিরক্ষামন্ত্রী পিট হেগসেথের মন্তব্যকে উড়িয়ে দিয়ে তিনি জানান, নতুন সর্বোচ্চ নেতা সম্পূর্ণ সুস্থ আছেন এবং সাংবিধানিক দায়িত্ব পালন করে যাচ্ছেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/15/og/1773522132-0d40bb7ae83f974d558d659c20876c94.jpg"
     },
     {
       "headline": "ইরান যুদ্ধ কীভাবে বদলে দিল এক দম্পতির বিয়ের আনন্দ",
@@ -377,13 +384,6 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773502601-cef2c3c3171e99bcf928edd3814b8ceb.jpg"
     },
     {
-      "headline": "বিশ্ব বাজারে জ্বালানির মূল্য বৃদ্ধিতে ঈদ যাত্রায় প্রভাব পড়বে না : বাণিজ্যমন্ত্রী",
-      "url": "https://www.bd-pratidin.com/minister-speech/2026/03/14/1228246",
-      "published_at": "2026-03-14T21:17:23+06:00",
-      "summary": "বাণিজ্য, শিল্প, বস্ত্র ও পাটমন্ত্রী খন্দকার আব্দুল মুক্তাদির বলেছেন, ইরান-ইসরায়েল যুদ্ধ পরিস্থিতির কারণে বিশ্ব বাজারে জ্বালানির মূল্য বৃদ্ধি পেলেও আমাদের দেশে আসন্ন ঈদ যাত্রায় এর কোনো প্রভাব পড়বে না।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773501442-512bb14b4e76c78eba675f21bc8ca0ed.jpg"
-    },
-    {
       "headline": "তারেক রহমানের দায়িত্বের তিন সপ্তাহ",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/OSZ8oOKRUzS0/",
       "published_at": null,
@@ -396,6 +396,13 @@
       "published_at": null,
       "summary": "মধ্যপ্রাচ্যে চলমান সঙ্ঘাত এখন আর সীমিত সামরিক উত্তেজনার পর্যায়ে নেই। এ সঙ্ঘাত এখন বহুস্তরের  সামরিক হামলা, প্রক্সি যুদ্ধ, সাইবার সঙ্ঘাত, জ্বালানি রাজনীতি এবং বৈশ্বিক কূটনৈতিক মেরুকরণের সমন্বয়ে এক জটিল ভূরাজনৈতিক সঙ্কটে পরিণত। যুদ্ধের কয়েক দিনেই স্পষ্ট হয়ে উঠেছে যে, এটি কেবল দুই রাষ্ট্রের সংঘর্ষ নয়; বরং মধ্যপ্রাচ্যের শক্তির ভারসাম্য পুনর্গঠনের বৃহৎ লড়াই।",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "রাজধানীতে ইয়াবাসহ দুই রোহিঙ্গা আটক",
+      "url": "https://dailynayadiganta.com/bangladesh/crime/KkoDG5q6PKsP/",
+      "published_at": null,
+      "summary": "প্রথমে জুবায়েরকে ৪ হাজার ৪০০ পিস ইয়াবাসহ আটক করা হয়। পরে তার দেয়া তথ্যের ভিত্তিতে পৃথক আরেকটি অভিযানে হেদায়েতুল্লাহকে ৩ হাজার ৮০০ পিস ইয়াবাসহ আটক করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Rohingya-yaba.jpg"
     },
     {
       "headline": "চুন-সুরকির গাঁথুনিতে আড়াই শ’ বছরের খানবাড়ি মসজিদ",
@@ -447,13 +454,6 @@
       "image_url": "https://media.ndiganta.com/original_images/artho-3_vYghTeA.jpg"
     },
     {
-      "headline": "ডেঙ্গু ও চিকুনগুনিয়া প্রতিরোধে বিমানবাহিনীর বিশেষ অভিযান",
-      "url": "https://dailynayadiganta.com/printed-edition/5IzXuoE4IAiC/",
-      "published_at": null,
-      "summary": "প্রধানমন্ত্রীর আহ্বানে দেশব্যাপী ডেঙ্গু ও চিকুনগুনিয়া প্রতিরোধে বিশেষ জাতীয় অভিযানের সূচনা হয়েছে। এই দৃপ্ত অভিযানে সংহতি প্রকাশ করে গতকাল শনিবার বিমানবাহিনী প্রধানের সার্বিক দিকনির্দেশনায় বিমানবাহিনীর বিভিন্ন ঘাঁটি, স্টেশন, ইউনিট এবং তৎসংলগ্ন এলাকায় ডেঙ্গু ও চিকুনগুনিয়া প্রতিরোধে বিশেষ জনসচেতনতামূলক কর্মসূচির উদ্বোধন করা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/artho-2_75FiBVm.jpg"
-    },
-    {
       "headline": "কুমিল্লা সিটির প্রশাসক হলেন ইউসুফ মোল্লা টিপু",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/3IFIzicKJuAa/",
       "published_at": null,
@@ -482,7 +482,7 @@
       "image_url": "https://media.ndiganta.com/original_images/Robiul_EYMxhDW.jpg"
     },
     {
-      "headline": "এমপি কিরনবেকারত্ব ও দারিদ্র্য দূর করতে ঐক্যবদ্ধভাবে কাজ করতে হবে",
+      "headline": "বেকারত্ব ও দারিদ্র্য দূর করতে ঐক্যবদ্ধভাবে কাজ করতে হবে",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/ozEWZskIIbLq/",
       "published_at": null,
       "summary": "জনগণের ভোটে নির্বাচিত হয়ে মানুষের কল্যাণে কাজ করাই জনপ্রতিনিধিদের প্রধান দায়িত্ব। আমরা যদি মানুষের প্রত্যাশা অনুযায়ী কাজ করতে পারি, তবেই জনগণের দেয়া ভোটাধিকার সার্থক হবে।",
@@ -503,17 +503,10 @@
       "image_url": "https://media.ndiganta.com/original_images/Mintu_WsgeMgk.jpg"
     },
     {
-      "headline": "ঈশ্বরদীতে ভিজিএফ কার্ড বিতরণে অনিয়মের অভিযোগ, সংবাদ সম্মেলনে তদন্তের দাবি",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/BTzZO38f7eWh/",
-      "published_at": null,
-      "summary": "এসব কার্ড প্রকৃত অসহায় ও দরিদ্র মানুষের মাঝে বিতরণ না করে বিভিন্ন প্রভাবশালী ব্যক্তি ও দলীয় লোকজনের মধ্যে ভাগবাটোয়ারা করা হচ্ছে। এতে প্রকৃত সুবিধাভোগীরা বঞ্চিত হচ্ছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Iswardi-Pabna-Press-Briefin.jpg"
-    },
-    {
       "headline": "আজকের সর্বশেষ খবর - March 15, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ঢাকা মহানগর (পশ্চিম) ছাত্রদল নেতা আবির হোসেনের উদ্যোগে এতিম ও ক্ষুদে হাফেজ পড়ুয়া শিক্ষার্থীদের নিয়ে ইফতার ও দোয়া মাহফিল অনুষ্ঠিত ...",
+      "summary": "বন, পরিবেশ ও জলবায়ু পরিবর্তন বিষয়ক মন্ত্রণালয়ের প্রতিমন্ত্রী ড. শেখ ফরিদুল ইসলাম বলেছেন, সুরক্ষায় বিশ্ব ঐতিহ্য এলাকা এই বনসহ সংলগ্ন ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -522,6 +515,35 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "নোয়াবের নতুন সভাপতি মতিউর রহমান চৌধুরী",
+      "url": "https://www.prothomalo.com/bangladesh/9ifsl39g4n",
+      "published_at": "2026-03-14T15:52:17.211000+00:00",
+      "summary": "গতকাল শনিবার ঢাকার তেজগাঁওয়ে টাইমস মিডিয়া লিমিটেড ভবনে নোয়াবের বিদায়ী সভাপতি এ কে আজাদের সভাপতিত্বে অনুষ্ঠিত নোয়াবের বার্ষিক সাধারণ সভায় (এজিএম) সভাপতিসহ কমিটির সব সদস্য বিনা প্রতিদ্বন্দ্বিতায় নির্বাচিত হন। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/yhl7pdxq/Manobzamin.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/yhl7pdxq/Manobzamin.webp?auto=format,compress"
+    },
+    {
+      "headline": "বিশ্ব বাজারে জ্বালানির মূল্য বৃদ্ধিতে ঈদ যাত্রায় প্রভাব পড়বে না : বাণিজ্যমন্ত্রী",
+      "url": "https://www.bd-pratidin.com/minister-speech/2026/03/14/1228246",
+      "published_at": "2026-03-14T21:17:23+06:00",
+      "summary": "বাণিজ্য, শিল্প, বস্ত্র ও পাটমন্ত্রী খন্দকার আব্দুল মুক্তাদির বলেছেন, ইরান-ইসরায়েল যুদ্ধ পরিস্থিতির কারণে বিশ্ব বাজারে জ্বালানির মূল্য বৃদ্ধি পেলেও আমাদের দেশে আসন্ন ঈদ যাত্রায় এর কোনো প্রভাব পড়বে না।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773501442-512bb14b4e76c78eba675f21bc8ca0ed.jpg"
+    },
+    {
+      "headline": "ডেঙ্গু ও চিকুনগুনিয়া প্রতিরোধে বিমানবাহিনীর বিশেষ অভিযান",
+      "url": "https://dailynayadiganta.com/printed-edition/5IzXuoE4IAiC/",
+      "published_at": null,
+      "summary": "প্রধানমন্ত্রীর আহ্বানে দেশব্যাপী ডেঙ্গু ও চিকুনগুনিয়া প্রতিরোধে বিশেষ জাতীয় অভিযানের সূচনা হয়েছে। এই দৃপ্ত অভিযানে সংহতি প্রকাশ করে গতকাল শনিবার বিমানবাহিনী প্রধানের সার্বিক দিকনির্দেশনায় বিমানবাহিনীর বিভিন্ন ঘাঁটি, স্টেশন, ইউনিট এবং তৎসংলগ্ন এলাকায় ডেঙ্গু ও চিকুনগুনিয়া প্রতিরোধে বিশেষ জনসচেতনতামূলক কর্মসূচির উদ্বোধন করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/artho-2_75FiBVm.jpg"
+    },
+    {
+      "headline": "ঈশ্বরদীতে ভিজিএফ কার্ড বিতরণে অনিয়মের অভিযোগ, সংবাদ সম্মেলনে তদন্তের দাবি",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/BTzZO38f7eWh/",
+      "published_at": null,
+      "summary": "এসব কার্ড প্রকৃত অসহায় ও দরিদ্র মানুষের মাঝে বিতরণ না করে বিভিন্ন প্রভাবশালী ব্যক্তি ও দলীয় লোকজনের মধ্যে ভাগবাটোয়ারা করা হচ্ছে। এতে প্রকৃত সুবিধাভোগীরা বঞ্চিত হচ্ছেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Iswardi-Pabna-Press-Briefin.jpg"
     },
     {
       "headline": "পাকিস্তানের ক্রিকেটারদের ৫০ লাখ রুপি জরিমানা গুজব উড়িয়ে দিল পিসিবি",
@@ -1485,27 +1507,6 @@
       "published_at": null,
       "summary": "‘আগামীকাল রোববার (১৫ মার্চ) বেলা ১১টায় এয়ার অ্যাম্বুলেন্সযোগে তাকে সিঙ্গাপুর নেয়া হবে। মির্জা আব্বাসের স্ত্রী ও জাতীয়তাবাদী মহিলা সভানেত্রী আফরোজা আব্বাস এবং বড় ছেলে মির্জা ইয়াসির আব্বাস তার সাথে যাবেন।’",
       "image_url": "https://media.ndiganta.com/original_images/Abbas_MdxTDAB.jpg"
-    },
-    {
-      "headline": "পিরোজপুরে গলাকাটা ও মাথাবিহীন লাশের পরিচয় শনাক্ত",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/jz8ZOo5nS8uM/",
-      "published_at": null,
-      "summary": "হত্যাকাণ্ডের সাথে জড়িত সন্দেহভাজন কয়েকজনকে শনাক্ত করা হয়েছে। তাদের মধ্যে সম্রাট ও মো: রাজুর নাম জানা গেছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Nesarabad.jpg"
-    },
-    {
-      "headline": "সোনাতলায় প্রভাতের আলো তরুণ সংঘের উপকমিটি গঠন",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/RSq6489nA1B7/",
-      "published_at": null,
-      "summary": "শনিবার (১৪ মার্চ) সৌদি আরবের একটি রেস্টুরেন্টে সংগঠনের প্রতিষ্ঠাতা তাকবির হাসান হাসান খান জিহাদের সভাপতিত্বে আলোচনা সভায় প্রধান অতিথির বক্তব্যে রাখেন সংগঠনের চেয়ারম্যান জেমস খান অরনু।",
-      "image_url": "https://media.ndiganta.com/original_images/Sonatala-14-3.jpg"
-    },
-    {
-      "headline": "গোয়াইনঘাটে জামায়াতের ইফতার মাহফিল",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/ThvUFP1mOjhE/",
-      "published_at": null,
-      "summary": "এতে প্রধান অতিথি হিসেবে বক্তব্য প্রদান করেন সিলেট জেলা জামায়াতের নায়েবে আমির কেন্দ্রীয় মজলিসে শূরার সদস্য হাফেজ মাওলানা আনোয়ার হোসাইন খান।",
-      "image_url": "https://media.ndiganta.com/original_images/Jamaats-Iftar-mahfil-in-Gowainghat.jpg"
     }
   ]
 }
