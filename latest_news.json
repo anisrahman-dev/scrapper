@@ -1,6 +1,62 @@
 {
-  "fetched_at": "2026-03-14T17:54:08.101775+00:00",
+  "fetched_at": "2026-03-14T18:33:14.864777+00:00",
   "stories": [
+    {
+      "headline": "বাগেরহাটে ব্যবসায়ীকে গুলি করে হত্যা",
+      "url": "https://www.prothomalo.com/bangladesh/district/45op3jo0fq",
+      "published_at": "2026-03-14T18:18:41.159000+00:00",
+      "summary": "শনিবার রাত সাড়ে ১০টার দিকে মোল্লাহাট উপজেলা সদর বাজারে এ ঘটনা ঘটে।",
+      "image_s3_key": "prothomalo-bangla/2021-03/5ae8ec29-9b18-4219-8846-71e39aefd0a0/bagerhat.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-03/5ae8ec29-9b18-4219-8846-71e39aefd0a0/bagerhat.png?auto=format,compress"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রের সঙ্গে যুদ্ধে অংশ নেবে উপসাগরীয় দেশগুলো",
+      "url": "https://www.prothomalo.com/world/88uhv8p2tx",
+      "published_at": "2026-03-14T18:15:25.345000+00:00",
+      "summary": "উপসাগরীয় দেশগুলো এখন পর্যন্ত ইরানের বিরুদ্ধে যুদ্ধে যোগ দেওয়ার বিষয়ে আনুষ্ঠানিক ঘোষণা দেয়নি।",
+      "image_s3_key": "prothomalo-bangla/2025-11-15/efisw2jg/Pete-Hegseth.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-11-15/efisw2jg/Pete-Hegseth.webp?auto=format,compress"
+    },
+    {
+      "headline": "কুমিল্লায় তিতাস নদ রক্ষার দাবিতে নৌ-শোভাযাত্রা",
+      "url": "https://www.prothomalo.com/bangladesh/district/fv06s1cqu7",
+      "published_at": "2026-03-14T18:13:01.821000+00:00",
+      "summary": "হোমনা উপজেলার রামকৃষ্ণপুর বাজার লঞ্চঘাট এলাকায় তিতাস নদে এ শোভাযাত্রা অনুষ্ঠিত হয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/32gh4crm/CUMILLADH051520260314DAUDKANDI-14-3-26-BBB6.JPG.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/32gh4crm/CUMILLADH051520260314DAUDKANDI-14-3-26-BBB6.JPG.JPG?auto=format,compress"
+    },
+    {
+      "headline": "মারা গেছেন জার্মান দার্শনিক ও সমাজবিজ্ঞানী ইয়ুর্গেন হেবারমাস",
+      "url": "https://www.prothomalo.com/world/europe/oqz5nh5bwc",
+      "published_at": "2026-03-14T18:10:23.838000+00:00",
+      "summary": "দীর্ঘ সাত দশকের বর্ণাঢ্য ক্যারিয়ারে ইয়ুর্গেন হেবারমাসের বুদ্ধিবৃত্তিক অবদান জার্মানিকে বিভিন্ন সংকটময় মুহূর্তে পথ দেখিয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/8bhnwkp2/germany.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/8bhnwkp2/germany.avif?auto=format,compress"
+    },
+    {
+      "headline": "কৌশলগত অংশীদারত্ব আরও গভীর করার আশাবাদ",
+      "url": "https://www.prothomalo.com/bangladesh/3z4oajixyh",
+      "published_at": "2026-03-14T18:07:41.040000+00:00",
+      "summary": "বৈঠকে পররাষ্ট্রমন্ত্রী খলিলুর রহমান বাংলাদেশে তুরস্কের বিনিয়োগ বৃদ্ধির গুরুত্ব তুলে ধরেন এবং বাংলাদেশ থেকে তুরস্কে দক্ষ মানবসম্পদ রপ্তানি সম্প্রসারণের সম্ভাবনার ওপর জোর দেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/5tetxchi/TurkeyBangladesh.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/5tetxchi/TurkeyBangladesh.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "বেলি-টগরের ঘরে ৪ শাবক, তিনটি সাদা",
+      "url": "https://www.prothomalo.com/bangladesh/c3fr4qv38e",
+      "published_at": "2026-03-14T18:01:26.445000+00:00",
+      "summary": "কর্তৃপক্ষ বলছে, জাতীয় চিড়িয়াখানায় এই প্রথম কোনো বাঘিনী চারটি বাচ্চা জন্ম দিল।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/3fjm1n4w/Tiger.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/3fjm1n4w/Tiger.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বাধার মুখে অবৈধ দোকান উচ্ছেদ অভিযান স্থগিত, মালামাল সরাতে প্রশাসনের সময়সীমা",
+      "url": "https://www.prothomalo.com/bangladesh/district/imm65wgap4",
+      "published_at": "2026-03-14T17:50:16.144000+00:00",
+      "summary": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদের নির্দেশনার পর গত বৃহস্পতিবার থেকে সৈকতে অবৈধ দোকানপাট উচ্ছেদ অভিযান শুরু হয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/zocrwdbj/WhatsApp-Image-2026-03-14-at-11.37.29-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/zocrwdbj/WhatsApp-Image-2026-03-14-at-11.37.29-PM.jpeg?auto=format,compress"
+    },
     {
       "headline": "স্বাধীনতা দিবস কুচকাওয়াজের প্রস্তুতি চলছে জাতীয় প্যারেড স্কয়ার গ্রাউন্ডে",
       "url": "https://www.prothomalo.com/bangladesh/f3ahokx3fh",
@@ -122,7 +178,7 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/1xylvbuc/DMP.jpeg?auto=format,compress"
     },
     {
-      "headline": "বইমেলায় ৫ হাজার টাকার বইও বিক্রি হয়নি ২৭ ভাগ প্রকাশকের",
+      "headline": "বইমেলায় ৯০ ভাগ প্রকাশকের স্টল নির্মাণের প্রাথমিক খরচটুকুও ওঠেনি",
       "url": "https://www.prothomalo.com/bangladesh/in6uammft3",
       "published_at": "2026-03-14T16:10:35.168000+00:00",
       "summary": "মাহরুখ মহিউদ্দিন বলেন, মেলায় যদি বই বিক্রিই না থাকে এবং প্রকাশকেরা সর্বস্বান্ত হতে থাকেন, তবে একসময় এটি একটি ‘মৃত ঐতিহ্যে’ পরিণত হবে।",
@@ -258,60 +314,11 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/g6v5k7xx/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "সাংবাদিকদের কণ্ঠের পাহারাদারি নিশ্চিত করব: জামায়াত আমির",
-      "url": "https://www.prothomalo.com/politics/r72frh3pxn",
-      "published_at": "2026-03-14T15:24:32.054000+00:00",
-      "summary": "সাংবাদিকদের বিবেক অনুযায়ী চলার পরামর্শ দিয়ে শফিকুর রহমান বলেছেন, ‘আপনাদের এই কণ্ঠের পাহারাদারি করার নিশ্চয়তা আমরা দিচ্ছি।’",
-      "image_s3_key": "prothomalo-bangla/2026-03-14/xs48beql/জামায়াত.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/xs48beql/জামায়াত.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "জ্বালানিসংকটে কুমিরা–গুপ্তছড়া নৌপথে স্পিডবোট চলাচল বন্ধ, প্রতিদিন লাখ টাকার ক্ষতি ",
-      "url": "https://www.prothomalo.com/video/bangladesh/v2o5y4b1bf",
-      "published_at": "2026-03-14T15:22:15.192000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-03-14/rejunp7y/WEB.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/rejunp7y/WEB.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রাজধানীর তাঁতিবাজার মোড়ে গাড়ির ধাক্কায় সবজি বিক্রেতা নিহত",
-      "url": "https://www.prothomalo.com/bangladesh/capital/nag1dtj7rd",
-      "published_at": "2026-03-14T15:19:51.691000+00:00",
-      "summary": "রাজধানীর শ্যামবাজার থেকে ভোরে সবজি কিনে ফেরার পথে বংশালের তাঁতিবাজার মোড়ে গাড়ির ধাক্কায় আবদুল কাদের (৭০) নিহত হন।",
-      "image_s3_key": "prothomalo-bangla/2023-11/bd4fc6c6-7409-4c71-92f8-1a7f024062a7/road_accident_01.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-11/bd4fc6c6-7409-4c71-92f8-1a7f024062a7/road_accident_01.png?auto=format,compress"
-    },
-    {
-      "headline": "যাত্রাবাড়ীতে ৮ হাজার ইয়াবাসহ দুই রোহিঙ্গা আটক",
-      "url": "https://www.prothomalo.com/bangladesh/crime/kxpo4qv0lv",
-      "published_at": "2026-03-14T15:17:42.794000+00:00",
-      "summary": "রাজধানীর যাত্রাবাড়ী এলাকায় অভিযান চালিয়ে ৮ হাজার ২০০ ইয়াবা বড়িসহ দুজন রোহিঙ্গাকে আটক করেছে মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর।",
-      "image_s3_key": "prothomalo-bangla/2026-03-14/v2jw2l49/Rohingya-Yaba-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/v2jw2l49/Rohingya-Yaba-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সুবিধাবঞ্চিত শিশু ও পরিবারকে বন্ধুসভার ঈদ উপহার",
-      "url": "https://www.prothomalo.com/bangladesh/ejmkw8cozx",
-      "published_at": "2026-03-14T15:15:50.426000+00:00",
-      "summary": "বন্ধুসভা জাতীয় পরিচালনা পর্ষদের উদ্যোগে ‘সহমর্মিতার ঈদ’ কর্মসূচির অংশ হিসেবে এদিন শিশুদের নতুন পোশাক ও তাদের পরিবারের জন্য ঈদের খাদ্যসামগ্রী উপহার দেওয়া হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-14/74aeg1lk/Bondushaba-03.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/74aeg1lk/Bondushaba-03.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "যুক্তরাষ্ট্রের সঙ্গে বাণিজ্যচুক্তি বাতিলে ‘রাজাকার ছাড়া’ সব এমপিকে স্মারকলিপি দেবে সিপিবি",
-      "url": "https://www.prothomalo.com/politics/i9kec5pihh",
-      "published_at": "2026-03-14T15:15:40.185000+00:00",
-      "summary": "বাণিজ্যচুক্তি বাতিল চেয়ে ৭ মে অনুষ্ঠেয় সমাবেশটি কোথায় হবে, তা আজ জানায়নি সিপিবি। এ ছাড়া ‘রাজাকার ও যুদ্ধাপরাধী’ হিসেবে কোনো সংসদ সদস্যের নাম উল্লেখ করেনি দলটি।",
-      "image_s3_key": "prothomalo-bangla/2026-03-14/z2dnd3it/02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/z2dnd3it/02.jpg?auto=format,compress"
-    },
-    {
-      "headline": "বিবি কোথায়: ভিডিওতে নেতানিয়াহুর এক হাতে ৬ আঙুল দেখে তাঁকে নিয়ে নানা সংশয়",
-      "url": "https://www.prothomalo.com/world/middle-east/yo1zdzx78c",
-      "published_at": "2026-03-14T15:10:22.533000+00:00",
-      "summary": "ভিডিওটি কৃত্রিম বুদ্ধিমত্তা বা এআই দিয়ে তৈরি কি না, সামাজিক যোগাযোগমাধ্যমে এমন প্রশ্ন তোলা পোস্ট লাখ লাখ ভিউ হয়েছে। ভিডিওটিতে তাঁর ছয়টি আঙুল দেখা যাচ্ছিল।",
-      "image_s3_key": "prothomalo-bangla/2026-03-14/wcawjnlk/netaneyahu.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/wcawjnlk/netaneyahu.jpg?auto=format,compress"
+      "headline": "প্রতিষ্ঠাবার্ষিকীর বিশেষ আয়োজন-১",
+      "url": "https://www.bd-pratidin.com/Special-arrangement-of-the-founding-anniversary-1",
+      "published_at": null,
+      "summary": "নৈতিকতার উপাদানকে কাজে লাগাতে হবে, শক্তিশালী করতে হবে। এমন রাষ্ট্র গড়ে তুলতে হবে যেখানে সাম্রাজ্যবাদের প্রতি আপস থাকবে না, সন্ত্রাসের লালন হবে না এবং...",
+      "image_url": "https://www.bd-pratidin.com/default-img.jpg"
     },
     {
       "headline": "প্রশ্নফাঁস ও নকল রোধে মাঠ পর্যায়ে কঠোর তদারকি করা হবে : শিক্ষামন্ত্রী",
@@ -377,13 +384,6 @@
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773499930-f6cd2626067c34dbb1fb019ff2c87f92.jpg"
     },
     {
-      "headline": "ট্রেনে পরীক্ষামূলকভাবে স্টারলিংকের ইন্টারনেট সেবা চালু",
-      "url": "https://www.bd-pratidin.com/national/2026/03/14/1228232",
-      "published_at": "2026-03-14T20:50:00+06:00",
-      "summary": "প্রথমবারের মতো চলন্ত ট্রেনে পরীক্ষামূলকভাবে সরাসরি স্যাটেলাইটভিত্তিক উচ্চগতির ‘স্টারলিংক’ ইন্টারনেট সেবা চালু করেছে বাংলাদেশ স্যাটেলাইট কোম্পানি লিমিটেড (বিএসসিএল)।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773499799-aa81014f23d198c3abbbcbbea4dc59f2.jpg"
-    },
-    {
       "headline": "তারেক রহমানের দায়িত্বের তিন সপ্তাহ",
       "url": "https://dailynayadiganta.com/opinions/sub-editorial/OSZ8oOKRUzS0/",
       "published_at": null,
@@ -396,6 +396,34 @@
       "published_at": null,
       "summary": "মধ্যপ্রাচ্যে চলমান সঙ্ঘাত এখন আর সীমিত সামরিক উত্তেজনার পর্যায়ে নেই। এ সঙ্ঘাত এখন বহুস্তরের  সামরিক হামলা, প্রক্সি যুদ্ধ, সাইবার সঙ্ঘাত, জ্বালানি রাজনীতি এবং বৈশ্বিক কূটনৈতিক মেরুকরণের সমন্বয়ে এক জটিল ভূরাজনৈতিক সঙ্কটে পরিণত। যুদ্ধের কয়েক দিনেই স্পষ্ট হয়ে উঠেছে যে, এটি কেবল দুই রাষ্ট্রের সংঘর্ষ নয়; বরং মধ্যপ্রাচ্যের শক্তির ভারসাম্য পুনর্গঠনের বৃহৎ লড়াই।",
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "ঈদ উপহার বুঝে পেলেন ক্রিকেটাররা",
+      "url": "https://dailynayadiganta.com/sports/cricket/pRs2IECqrSa8/",
+      "published_at": null,
+      "summary": "মূলত ক্রিকেটারদের সাথে সম্পর্কটা আরো উষ্ণ করে তোলতে গত বছর থেকে এই উদ্যোগ নেয় ক্রিকেট পরিচালনা বিভাগ। সবাই মিলে যে এক বৃহৎ পরিবার, সেটি ছড়িয়ে দেয়াই যেন উদ্দেশ্য।",
+      "image_url": "https://media.ndiganta.com/original_images/651495949_923000897117074_634553159353170515_n.jpg"
+    },
+    {
+      "headline": "কুমিল্লা সিটির প্রশাসক হলেন ইউসুফ মোল্লা টিপু",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/3IFIzicKJuAa/",
+      "published_at": null,
+      "summary": "‘মহান সৃষ্টিকর্তার কাছে শুকরিয়া আদায় করছি। আমার উপর কুমিল্লা সিটি করপোরেশনের অর্পিত দায়িত্ব যথাযথভাবে পালন করবো। কুমিল্লা নগরীর উন্নয়নে অগ্রণী ভূমিকা রাখবো।’",
+      "image_url": "https://media.ndiganta.com/original_images/WhatsApp_Image_2026-03-14_at_11.47.56_PM.jpeg"
+    },
+    {
+      "headline": "জরিমানার খবর মিথ্যা, ৫০ লাখ রূপি দিতে হচ্ছে না বাবরদের",
+      "url": "https://dailynayadiganta.com/sports/cricket/GB0SNhFtDM2W/",
+      "published_at": null,
+      "summary": "টি-টোয়েন্টি বিশ্বকাপ শেষ হতে না হতেই খবর রটে, সেমিফাইনালে খেলতে না পারায় বড় শাস্তির মুখে পড়ছে পাকিস্তান দল। মোটা অঙ্কের জরিমানা করা হবে ক্রিকেটারদের।",
+      "image_url": "https://media.ndiganta.com/original_images/646817799_2134466783997461_2685037933297432605_n.jpg"
+    },
+    {
+      "headline": "প্রকাশিত হলো খামেনির রণবিদ্যার বই ‘যুদ্ধের জ্যামিতি’",
+      "url": "https://dailynayadiganta.com/arts-literature/Dkt0jUlbfa2r/",
+      "published_at": null,
+      "summary": "‘দুশমনকে বোঝার এবং মোকাবেলার কৌশল নিয়ে নতুন আলোচনা’",
+      "image_url": "https://media.ndiganta.com/original_images/Book-khameni.jpg"
     },
     {
       "headline": "ইরান যুদ্ধের ধাক্কা বিশ্ব রাজনীতিকে বদলে দিচ্ছে নীরবে",
@@ -433,7 +461,7 @@
       "image_url": "https://media.ndiganta.com/original_images/Robiul_EYMxhDW.jpg"
     },
     {
-      "headline": "বেকারত্ব ও দারিদ্র্য দূর করতে ঐক্যবদ্ধভাবে কাজ করতে হবে",
+      "headline": "এমপি কিরনবেকারত্ব ও দারিদ্র্য দূর করতে ঐক্যবদ্ধভাবে কাজ করতে হবে",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/ozEWZskIIbLq/",
       "published_at": null,
       "summary": "জনগণের ভোটে নির্বাচিত হয়ে মানুষের কল্যাণে কাজ করাই জনপ্রতিনিধিদের প্রধান দায়িত্ব। আমরা যদি মানুষের প্রত্যাশা অনুযায়ী কাজ করতে পারি, তবেই জনগণের দেয়া ভোটাধিকার সার্থক হবে।",
@@ -461,17 +489,10 @@
       "image_url": "https://media.ndiganta.com/original_images/Iswardi-Pabna-Press-Briefin.jpg"
     },
     {
-      "headline": "ঈদযাত্রা নির্বিঘ্ন করতে আইনশৃঙ্খলা বাহিনী কঠোর অবস্থানে থাকবে : আইজিপি",
-      "url": "https://dailynayadiganta.com/bangladesh/national/2VqDTfbyoAmR/",
-      "published_at": null,
-      "summary": "‘মহাসড়কে যত্রতত্র যাত্রী ওঠানামা বন্ধ করতে চন্দ্রা এলাকায় শ্রমিকদের জন্য আলাদা মাঠ নির্ধারণ করে বাস থামানোর ব্যবস্থা করা হয়েছে।’",
-      "image_url": "https://media.ndiganta.com/original_images/IGP_T85s80Y.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 14, 2026",
+      "headline": "আজকের সর্বশেষ খবর - March 15, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "‘অতি উৎপাদন’ ও ‘জোরপূর্বক শ্রম’ নিয়ে যুক্তরাষ্ট্রের তদন্তে বাংলাদেশের নাম কেন? এমন প্রশ্ন তুলেছে বিবিসি বাংলা। শনিবার (১৪ মার্চ) এ-সংক্রান্ত ...",
+      "summary": "তিন সমস্যার জর্জরিত ঢাকা-চট্টগ্রাম মহাসড়কের সিদ্ধিরগঞ্জের প্রায় ৪ কিলোমিটার অংশ। এ অংশ দিয়ে ঈদে ঘর ফেরা মানুষেদের কঠিন দূর্ভোগ পোহাতে ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -480,6 +501,76 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "সাংবাদিকদের কণ্ঠের পাহারাদারি নিশ্চিত করব: জামায়াত আমির",
+      "url": "https://www.prothomalo.com/politics/r72frh3pxn",
+      "published_at": "2026-03-14T15:24:32.054000+00:00",
+      "summary": "সাংবাদিকদের বিবেক অনুযায়ী চলার পরামর্শ দিয়ে শফিকুর রহমান বলেছেন, ‘আপনাদের এই কণ্ঠের পাহারাদারি করার নিশ্চয়তা আমরা দিচ্ছি।’",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/xs48beql/জামায়াত.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/xs48beql/জামায়াত.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "জ্বালানিসংকটে কুমিরা–গুপ্তছড়া নৌপথে স্পিডবোট চলাচল বন্ধ, প্রতিদিন লাখ টাকার ক্ষতি ",
+      "url": "https://www.prothomalo.com/video/bangladesh/v2o5y4b1bf",
+      "published_at": "2026-03-14T15:22:15.192000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-14/rejunp7y/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/rejunp7y/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "রাজধানীর তাঁতিবাজার মোড়ে গাড়ির ধাক্কায় সবজি বিক্রেতা নিহত",
+      "url": "https://www.prothomalo.com/bangladesh/capital/nag1dtj7rd",
+      "published_at": "2026-03-14T15:19:51.691000+00:00",
+      "summary": "রাজধানীর শ্যামবাজার থেকে ভোরে সবজি কিনে ফেরার পথে বংশালের তাঁতিবাজার মোড়ে গাড়ির ধাক্কায় আবদুল কাদের (৭০) নিহত হন।",
+      "image_s3_key": "prothomalo-bangla/2023-11/bd4fc6c6-7409-4c71-92f8-1a7f024062a7/road_accident_01.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-11/bd4fc6c6-7409-4c71-92f8-1a7f024062a7/road_accident_01.png?auto=format,compress"
+    },
+    {
+      "headline": "যাত্রাবাড়ীতে ৮ হাজার ইয়াবাসহ দুই রোহিঙ্গা আটক",
+      "url": "https://www.prothomalo.com/bangladesh/crime/kxpo4qv0lv",
+      "published_at": "2026-03-14T15:17:42.794000+00:00",
+      "summary": "রাজধানীর যাত্রাবাড়ী এলাকায় অভিযান চালিয়ে ৮ হাজার ২০০ ইয়াবা বড়িসহ দুজন রোহিঙ্গাকে আটক করেছে মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/v2jw2l49/Rohingya-Yaba-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/v2jw2l49/Rohingya-Yaba-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "সুবিধাবঞ্চিত শিশু ও পরিবারকে বন্ধুসভার ঈদ উপহার",
+      "url": "https://www.prothomalo.com/bangladesh/ejmkw8cozx",
+      "published_at": "2026-03-14T15:15:50.426000+00:00",
+      "summary": "বন্ধুসভা জাতীয় পরিচালনা পর্ষদের উদ্যোগে ‘সহমর্মিতার ঈদ’ কর্মসূচির অংশ হিসেবে এদিন শিশুদের নতুন পোশাক ও তাদের পরিবারের জন্য ঈদের খাদ্যসামগ্রী উপহার দেওয়া হয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/74aeg1lk/Bondushaba-03.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/74aeg1lk/Bondushaba-03.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রের সঙ্গে বাণিজ্যচুক্তি বাতিলে ‘রাজাকার ছাড়া’ সব এমপিকে স্মারকলিপি দেবে সিপিবি",
+      "url": "https://www.prothomalo.com/politics/i9kec5pihh",
+      "published_at": "2026-03-14T15:15:40.185000+00:00",
+      "summary": "বাণিজ্যচুক্তি বাতিল চেয়ে ৭ মে অনুষ্ঠেয় সমাবেশটি কোথায় হবে, তা আজ জানায়নি সিপিবি। এ ছাড়া ‘রাজাকার ও যুদ্ধাপরাধী’ হিসেবে কোনো সংসদ সদস্যের নাম উল্লেখ করেনি দলটি।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/z2dnd3it/02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/z2dnd3it/02.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বিবি কোথায়: ভিডিওতে নেতানিয়াহুর এক হাতে ৬ আঙুল দেখে তাঁকে নিয়ে নানা সংশয়",
+      "url": "https://www.prothomalo.com/world/middle-east/yo1zdzx78c",
+      "published_at": "2026-03-14T15:10:22.533000+00:00",
+      "summary": "ভিডিওটি কৃত্রিম বুদ্ধিমত্তা বা এআই দিয়ে তৈরি কি না, সামাজিক যোগাযোগমাধ্যমে এমন প্রশ্ন তোলা পোস্ট লাখ লাখ ভিউ হয়েছে। ভিডিওটিতে তাঁর ছয়টি আঙুল দেখা যাচ্ছিল।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/wcawjnlk/netaneyahu.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/wcawjnlk/netaneyahu.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ট্রেনে পরীক্ষামূলকভাবে স্টারলিংকের ইন্টারনেট সেবা চালু",
+      "url": "https://www.bd-pratidin.com/national/2026/03/14/1228232",
+      "published_at": "2026-03-14T20:50:00+06:00",
+      "summary": "প্রথমবারের মতো চলন্ত ট্রেনে পরীক্ষামূলকভাবে সরাসরি স্যাটেলাইটভিত্তিক উচ্চগতির ‘স্টারলিংক’ ইন্টারনেট সেবা চালু করেছে বাংলাদেশ স্যাটেলাইট কোম্পানি লিমিটেড (বিএসসিএল)।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773499799-aa81014f23d198c3abbbcbbea4dc59f2.jpg"
+    },
+    {
+      "headline": "ঈদযাত্রা নির্বিঘ্ন করতে আইনশৃঙ্খলা বাহিনী কঠোর অবস্থানে থাকবে : আইজিপি",
+      "url": "https://dailynayadiganta.com/bangladesh/national/2VqDTfbyoAmR/",
+      "published_at": null,
+      "summary": "‘মহাসড়কে যত্রতত্র যাত্রী ওঠানামা বন্ধ করতে চন্দ্রা এলাকায় শ্রমিকদের জন্য আলাদা মাঠ নির্ধারণ করে বাস থামানোর ব্যবস্থা করা হয়েছে।’",
+      "image_url": "https://media.ndiganta.com/original_images/IGP_T85s80Y.jpg"
     },
     {
       "headline": "স্বাধীনতা দিবসে কুচকাওয়াজের প্রস্তুতি চলছে জাতীয় প্যারেড স্কয়ার গ্রাউন্ডে ",
@@ -1421,90 +1512,6 @@
       "published_at": "2026-03-14T18:46:44+06:00",
       "summary": "চিকনগুনিয়া ও ডেঙ্গু প্রতিরোধে সচেতনতায় বরিশাল শেরই বাংলা মেডিকেল কলেজ হাসপাতাল ক্যাম্পাসে পরিচ্ছন্নতা অভিযান পরিচালনা করেছেন পরিচালক একেএম মশিউল মুনীর।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773492403-2836932e664e80c0e0813cfcb00ebdd7.jpg"
-    },
-    {
-      "headline": "মির্জা আব্বাসের অবস্থা নিয়ে যা জানালেন চিকিৎসক",
-      "url": "https://www.bd-pratidin.com/national/2026/03/14/1228187",
-      "published_at": "2026-03-14T18:21:06+06:00",
-      "summary": "প্রধানমন্ত্রীর রাজনৈতিক উপদেষ্টা ও বিএনপির স্থায়ী কমিটির সদস্য মির্জা আব্বাসের মস্তিষ্কে কোনো রক্তক্ষরণ হয়নি, তবে ইনফেকশন ধরা পড়েছে। সফল অস্ত্রোপচার শেষে তাকে বর্তমানে বিশেষ পর্যবেক্ষণে রাখা হয়েছে। দেশে পর্যাপ্ত সাপোর্ট না থাকায় উন্নত চিকিৎসার জন্য তাকে বিদেশে পাঠানোর তোড়জোড় চলছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773490865-ba744614075b71456197e3bb5b92271f.jpg"
-    },
-    {
-      "headline": "অঘোষিত ফাইনালে কাল মুখোমুখি হবে বাংলাদেশ ও পাকিস্তান",
-      "url": "https://dailynayadiganta.com/sports/cricket/vrKGggll6VfH/",
-      "published_at": null,
-      "summary": "সিরিজ নির্ধারণী ম্যাচে দ্বিতীয় ওয়ানডের দল নিয়েই মাঠে নামতে পারে বাংলাদেশ ও পাকিস্তান।",
-      "image_url": "https://media.ndiganta.com/original_images/Pakistan-Bangladesh-Salman-Ali-Agha-Mehdi-Miraj.jpg"
-    },
-    {
-      "headline": "ফ্রান্সে এফবিজেএ’র উদ্যোগে বাংলাদেশী কমিউনিটির সম্মানে ইফতার মাহফিল",
-      "url": "https://dailynayadiganta.com/bangladesh/emigration/OPSuvLHkDLMW/",
-      "published_at": null,
-      "summary": "বক্তারা প্রবাসে সাংবাদিকদের পেশাগত দায়িত্ব, নিরপেক্ষ ও সত্যনিষ্ঠ সংবাদ পরিবেশনের গুরুত্ব এবং প্রবাসী কমিউনিটির বিভিন্ন সমস্যা ও সম্ভাবনা তুলে ধরার প্রয়োজনীয়তার ওপর গুরুত্বারোপ করেন।",
-      "image_url": "https://media.ndiganta.com/original_images/FBJA-France.jpg"
-    },
-    {
-      "headline": "ইউনিয়ন পরিষদে সেবা পেতে জনগণ যেন ভোগান্তিতে না পড়ে",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/rcJslP0kLP6h/",
-      "published_at": null,
-      "summary": "‘ইউনিয়ন পরিষদে সেবা নিতে এসে কোনো নাগরিকের সাথে দুর্ব্যবহার করা যাবে না। বিশেষ করে নারীরা অনেক সময় অভিযোগ করেন যে তারা পরিষদে গেলে যথাযথভাবে কথা বলা হয় না এবং তাদের সাথে খারাপ আচরণ করা হয়।’",
-      "image_url": "https://media.ndiganta.com/original_images/Hasnat_Abdullah_ARyvy8M.jpg"
-    },
-    {
-      "headline": "বকশীগঞ্জে বেড়েছে ভ্যান ও অটোরিকশা ছিনতাই, আতঙ্কে চালকরা",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/4agkvGtWbklv/",
-      "published_at": null,
-      "summary": "‘গতকাল শুক্রবার (১৩ মার্চ) বকশীগঞ্জ পৌর শহরের সীমারপাড় এলাকা থেকে দিনে-দুপুরে আমার অটোরিকশাটি ছিনতাই করে নিয়ে যায় দুর্বৃত্তরা।’",
-      "image_url": "https://media.ndiganta.com/original_images/Jamalpur-Map_nU898jE.jpg"
-    },
-    {
-      "headline": "যাকাতের কার্যকর ব্যবস্থাপনায় দারিদ্র্য বিমোচন সম্ভব",
-      "url": "https://dailynayadiganta.com/economy/corporate/eR5CRJkcWTqf/",
-      "published_at": null,
-      "summary": "মাস্তুল ফাউন্ডেশন দেশের মানুষের যাকাতের অর্থ সুশৃঙ্খল ও স্বচ্ছ ব্যবস্থাপনার মাধ্যমে প্রকৃত অসহায় পরিবারের কাছে পৌঁছে দেয়ার চেষ্টা করছে। এর ফলে অনেক পরিবার নতুনভাবে জীবিকা শুরু করার সুযোগ পাচ্ছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Mastul-Foundation-14-3.jpg"
-    },
-    {
-      "headline": "প্রতিটি ইউনিয়নে স্থায়ী খেলার মাঠ তৈরি করা হবে",
-      "url": "https://dailynayadiganta.com/sports/cricket/JPgKjL2vyKMt/",
-      "published_at": null,
-      "summary": "দেশে খেলার মাঠ নির্ধারণ ও বাস্তবায়নে কেন্দ্রীয় কমিটির প্রথম সভা অনুষ্ঠিত",
-      "image_url": "https://media.ndiganta.com/original_images/Permanent-playgrounds-will-be-built-in-every-union..jpg"
-    },
-    {
-      "headline": "সিলেটে এবার গলায় রামদা ঠেকিয়ে ২ লাখ টাকা ছিনতাই",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/eFxGr2NVMVd2/",
-      "published_at": null,
-      "summary": "শুক্রবার দিবাগত রাত প্রায় ১২টার দিকে কাজ শেষে বাড়ি ফেরার পথে কুমারগাঁও বাসস্টেশন এলাকায় তিনটি মোটরসাইকেলে আসা ছয়জন ছিনতাইকারী অপুকে ঘিরে ধরে। এ সময় হেলমেট ও মাস্ক পরা ছিনতাইকারীরা অপু ও তার চাচাত ভাইয়ের গলায় রামদা ঠেকিয়ে তার সাথে থাকা সবকিছু দিতে বলে।",
-      "image_url": "https://media.ndiganta.com/original_images/Sylhet-Map_c9odNgA.jpg"
-    },
-    {
-      "headline": "ডেঙ্গু প্রতিরোধে ডিএসসিসির বিশেষ পরিচ্ছন্নতা অভিযান",
-      "url": "https://dailynayadiganta.com/bangladesh/national/Ut1jpCX5DRLm/",
-      "published_at": null,
-      "summary": "প্রধানমন্ত্রীর আহ্বানে উজ্জীবিত হয়ে ডিএসসিসির প্রতিটি ওয়ার্ডে সাপ্তাহিক এই বিশেষ পরিচ্ছন্নতা অভিযান পরিচালনা করা হচ্ছে। বর্তমানে ডিএসসিসির মাসব্যাপী ‘ক্রাশ প্রোগ্রাম’ চলমান রয়েছে, যার মাধ্যমে ডেঙ্গু প্রতিরোধ ও নগরীর পরিচ্ছন্নতা নিশ্চিত করা হচ্ছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Abdua_salam.JPG"
-    },
-    {
-      "headline": "সড়ক দুর্ঘটনা রোধের দাবিতে কুষ্টিয়ায় মানববন্ধন",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/oze6cMBXzBOe/",
-      "published_at": null,
-      "summary": "বক্তারা যানজট ও সড়ক দুর্ঘটনা এড়াতে  দিনের বেলায় কুষ্টিয়া শহরে অবৈধ যান ট্রলিসহ অনিয়মতান্ত্রিকভাবে চলাচলকারী গাড়ি বন্ধের দাবি জানান।",
-      "image_url": "https://media.ndiganta.com/original_images/Kushtia-14-3.jpg"
-    },
-    {
-      "headline": "নগদ অর্থ ও স্বর্ণালঙ্কার নিরাপদে পরিবহনে মানি এস্কর্ট সেবা দিচ্ছে ডিএমপি",
-      "url": "https://dailynayadiganta.com/bangladesh/national/JYvWJaqS8Xym/",
-      "published_at": null,
-      "summary": "বিশেষ করে ব্যবসায়ী, স্বর্ণ ব্যবসায়ী এবং যেসব ব্যক্তি রাজধানীর ভেতরে বড় অঙ্কের টাকা বা মূল্যবান সামগ্রী বহন করেন, তাদের জন্য এ সেবাটি অত্যন্ত গুরুত্বপূর্ণ।",
-      "image_url": "https://media.ndiganta.com/original_images/DMP_G7qK7x0.JPG"
-    },
-    {
-      "headline": "আরো ৫ সিটিতে নতুন প্রশাসক নিয়োগ",
-      "url": "https://dailynayadiganta.com/bangladesh/national/c7l2GsECVzRT/",
-      "published_at": null,
-      "summary": "নিয়োগ পাওয়া প্রশাসকেরা স্থানীয় সরকার (সিটি করপোরেশন) (সংশোধন) অধ্যাদেশ ২০২৪ এর ধারা ২৫ক এর উপধারা (৩) অনুযায়ী সিটি করপোরেশনের মেয়রের ক্ষমতা প্রয়োগ ও দায়িত্ব পালন করবেন।",
-      "image_url": "https://media.ndiganta.com/original_images/LGRD.jpg"
     }
   ]
 }
