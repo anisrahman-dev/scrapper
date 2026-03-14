@@ -1,6 +1,30 @@
 {
-  "fetched_at": "2026-03-14T17:00:21.246534+00:00",
+  "fetched_at": "2026-03-14T17:26:17.836605+00:00",
   "stories": [
+    {
+      "headline": "প্রধানমন্ত্রীর সঙ্গে নতুন পাঁচ প্রশাসকের সাক্ষাৎ | আমার সঙ্গে জুলুম করা হয়েছে: আনিস আলমগীর",
+      "url": "https://www.prothomalo.com/video/bangladesh/9p7c5tdom6",
+      "published_at": "2026-03-14T17:10:32.939000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-14/z7eoif7s/AUDIO-NEWS-THUMB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/z7eoif7s/AUDIO-NEWS-THUMB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইফতারের আগে ইটের আঘাতে স্ত্রীকে \nখুন, ৯৯৯ ফোন দেন স্বামী নিজেই",
+      "url": "https://www.prothomalo.com/bangladesh/district/zjozsf8yix",
+      "published_at": "2026-03-14T17:06:00.243000+00:00",
+      "summary": "ইফতারের আগমুহূর্তে বাসায় স্বামী-স্ত্রীর মধ্যে শুরু হয় কথা-কাটাকাটি। একপর্যায়ে স্বামী ইট দিয়ে স্ত্রীকে আঘাত করেন।",
+      "image_s3_key": "prothomalo-bangla/2026-01-19/dcl6biqx/Screenshot-2026-01-19-213108.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-19/dcl6biqx/Screenshot-2026-01-19-213108.png?auto=format,compress"
+    },
+    {
+      "headline": "শুধু অন্যায় নয়, আমার সঙ্গে জুলুম করা হয়েছে: সাংবাদিক আনিস আলমগীর",
+      "url": "https://www.prothomalo.com/video/bangladesh/j3malxkywj",
+      "published_at": "2026-03-14T16:54:50.901000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-14/w2jjuq1m/WEB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/w2jjuq1m/WEB.jpg?auto=format,compress"
+    },
     {
       "headline": "স্কুলজীবনের বন্ধু শান্তনু নারায়ণের অ্যাডোবি থেকে বিদায়ে সত্য নাদেলার আবেগঘন বার্তা",
       "url": "https://www.prothomalo.com/technology/mh369fbwfz",
@@ -238,8 +262,8 @@
       "url": "https://www.prothomalo.com/politics/i9kec5pihh",
       "published_at": "2026-03-14T15:15:40.185000+00:00",
       "summary": "বাণিজ্যচুক্তি বাতিল চেয়ে ৭ মে অনুষ্ঠেয় সমাবেশটি কোথায় হবে, তা আজ জানায়নি সিপিবি। এ ছাড়া ‘রাজাকার ও যুদ্ধাপরাধী’ হিসেবে কোনো সংসদ সদস্যের নাম উল্লেখ করেনি দলটি।",
-      "image_s3_key": "prothomalo-bangla/2026-03-14/3p7dvlsq/agreementcpb.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/3p7dvlsq/agreementcpb.jpg?auto=format,compress"
+      "image_s3_key": "prothomalo-bangla/2026-03-14/z2dnd3it/02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/z2dnd3it/02.jpg?auto=format,compress"
     },
     {
       "headline": "বিবি কোথায়: ভিডিওতে নেতানিয়াহুর এক হাতে ৬ আঙুল দেখে তাঁকে নিয়ে নানা সংশয়",
@@ -288,22 +312,6 @@
       "summary": "হেগ কনভেনশনসহ আন্তর্জাতিক বিভিন্ন চুক্তি অনুযায়ী, যুদ্ধে শত্রুপক্ষকে ‘রেহাই না দেওয়ার’ হুমকি বা আত্মসমর্পণকারীদের হত্যা করা সম্পূর্ণ অবৈধ।",
       "image_s3_key": "prothomalo-bangla/2026-03-13/bhkitq4p/tehran.avif",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-13/bhkitq4p/tehran.avif?auto=format,compress"
-    },
-    {
-      "headline": "পাকিস্তানের খেলোয়াড়দের জরিমানা হয়নি, তবে...",
-      "url": "https://www.prothomalo.com/sports/cricket/1tt2p3mq7n",
-      "published_at": "2026-03-14T14:36:25.095000+00:00",
-      "summary": "টি–টুয়েন্টি বিশ্বকাপে খারাপ খেলায় পাকিস্তান ক্রিকেট বোর্ড (পিসিবি) ক্রিকেটারদের প্রত্যেককে ৫০ লাখ রুপি করে জরিমানা করেছ বলে খবর প্রকাশ হয়েছিল।",
-      "image_s3_key": "prothomalo-bangla/2026-03-14/188r0fzg/272254-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/188r0fzg/272254-01-02.jpg?auto=format,compress"
-    },
-    {
-      "headline": "মাদকের সঙ্গে জড়িত কেউ পুলিশে থাকবে না: আইজিপি",
-      "url": "https://www.prothomalo.com/bangladesh/district/leb08k8kgo",
-      "published_at": "2026-03-14T14:27:16.253000+00:00",
-      "summary": "শনিবার বিকেলে গাজীপুর পুলিশ লাইনসে আয়োজিত এক সুধী সমাবেশে অতিথি হিসেবে বক্তব্য দেন পুলিশের মহাপরিদর্শক।",
-      "image_s3_key": "prothomalo-bangla/2026-03-14/jk378lte/GazipurDH.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/jk378lte/GazipurDH.jpg?auto=format,compress"
     },
     {
       "headline": "প্রশ্নফাঁস ও নকল রোধে মাঠ পর্যায়ে কঠোর তদারকি করা হবে : শিক্ষামন্ত্রী",
@@ -390,11 +398,32 @@
       "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "বেকারত্ব ও দারিদ্র্য দূর করতে ঐক্যবদ্ধভাবে কাজ করতে হবে",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/ozEWZskIIbLq/",
+      "published_at": null,
+      "summary": "জনগণের ভোটে নির্বাচিত হয়ে মানুষের কল্যাণে কাজ করাই জনপ্রতিনিধিদের প্রধান দায়িত্ব। আমরা যদি মানুষের প্রত্যাশা অনুযায়ী কাজ করতে পারি, তবেই জনগণের দেয়া ভোটাধিকার সার্থক হবে।",
+      "image_url": "https://media.ndiganta.com/original_images/Shariatpur-14-3.jpg"
+    },
+    {
+      "headline": "বগুড়া মডেল সিটি হিসেবে গড়ে উঠবে : আতিকুর রহমান রুমন",
+      "url": "https://dailynayadiganta.com/bangladesh/national/hGwz7XwmFj7C/",
+      "published_at": null,
+      "summary": "‘বগুড়া থেকে ঢাকায় যাতায়াত সহজ করার জন্য ট্রেন সার্ভিস চালুর পরিকল্পনা রয়েছে। এতে উত্তরাঞ্চলের জেলাগুলোর সাথে ঢাকায় যাতায়াত সহজ হয়ে যাবে।’",
+      "image_url": "https://media.ndiganta.com/original_images/Rumon_8QSsjmo.jpg"
+    },
+    {
       "headline": "দেশে রাজনৈতিক পরিবেশ স্থিতিশীল থাকলে বিনিয়োগ বাড়বে : পরিবেশমন্ত্রী",
       "url": "https://dailynayadiganta.com/bangladesh/national/zxZ8vEMgqQS9/",
       "published_at": null,
       "summary": "ইফতারের আগে দেয়া বক্তব্যে ফেনীর উন্নয়নে একসাথে কাজ করার প্রত্যয় জানান ফেনীর বিশিষ্টজনরা। ফেনীতে মেডিক্যাল কলেজ এবং বিশেষায়িত বিশ্ববিদ্যালয় প্রতিষ্ঠা জরুরি উল্লেখ করে অবিলম্বে এ ব্যাপারে সরকারি পদক্ষেপ দাবি করেন বক্তারা।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      "image_url": "https://media.ndiganta.com/original_images/Mintu_WsgeMgk.jpg"
+    },
+    {
+      "headline": "ঈশ্বরদীতে ভিজিএফ কার্ড বিতরণে অনিয়মের অভিযোগ, সংবাদ সম্মেলনে তদন্তের দাবি",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/BTzZO38f7eWh/",
+      "published_at": null,
+      "summary": "এসব কার্ড প্রকৃত অসহায় ও দরিদ্র মানুষের মাঝে বিতরণ না করে বিভিন্ন প্রভাবশালী ব্যক্তি ও দলীয় লোকজনের মধ্যে ভাগবাটোয়ারা করা হচ্ছে। এতে প্রকৃত সুবিধাভোগীরা বঞ্চিত হচ্ছেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Iswardi-Pabna-Press-Briefin.jpg"
     },
     {
       "headline": "ঈদযাত্রা নির্বিঘ্ন করতে আইনশৃঙ্খলা বাহিনী কঠোর অবস্থানে থাকবে : আইজিপি",
@@ -425,6 +454,36 @@
       "image_url": "https://media.ndiganta.com/original_images/Ariful-Haque-Chowdhury.jpg"
     },
     {
+      "headline": "আজকের সর্বশেষ খবর - March 14, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "রাজশাহীতে জ্বালানি তেলের পর্যাপ্ত সরবরাহ নিশ্চিত না করা হলে আগামী সোমবার থেকে তেল উত্তোলন বন্ধ রাখার হুঁশিয়ারি দিয়েছে জেলা পেট্রল ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "পাকিস্তানের খেলোয়াড়দের জরিমানা হয়নি, তবে...",
+      "url": "https://www.prothomalo.com/sports/cricket/1tt2p3mq7n",
+      "published_at": "2026-03-14T14:36:25.095000+00:00",
+      "summary": "টি–টুয়েন্টি বিশ্বকাপে খারাপ খেলায় পাকিস্তান ক্রিকেট বোর্ড (পিসিবি) ক্রিকেটারদের প্রত্যেককে ৫০ লাখ রুপি করে জরিমানা করেছ বলে খবর প্রকাশ হয়েছিল।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/188r0fzg/272254-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/188r0fzg/272254-01-02.jpg?auto=format,compress"
+    },
+    {
+      "headline": "মাদকের সঙ্গে জড়িত কেউ পুলিশে থাকবে না: আইজিপি",
+      "url": "https://www.prothomalo.com/bangladesh/district/leb08k8kgo",
+      "published_at": "2026-03-14T14:27:16.253000+00:00",
+      "summary": "শনিবার বিকেলে গাজীপুর পুলিশ লাইনসে আয়োজিত এক সুধী সমাবেশে অতিথি হিসেবে বক্তব্য দেন পুলিশের মহাপরিদর্শক।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/jk378lte/GazipurDH.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/jk378lte/GazipurDH.jpg?auto=format,compress"
+    },
+    {
       "headline": "মালদ্বীপে ৫ বাংলাদেশীর মৃত্যু, ২ জনের লাশ বাংলাদেশে আসছে রোববার",
       "url": "https://dailynayadiganta.com/bangladesh/emigration/0tkPnKPxAOSF/",
       "published_at": null,
@@ -444,27 +503,6 @@
       "published_at": null,
       "summary": "‘এটিজেএফবি কর্তৃক নারীদের স্বীকৃতি দেয়ার উদ্যোগটি অত্যন্ত প্রশংসনীয়। বাংলাদেশের উন্নয়নে বেসামরিক বিমান পরিবহন ও পর্যটন খাত গুরুত্বপূর্ণ ভূমিকা রাখছে এবং বর্তমান বিএনপি নেতৃত্বাধীন সরকার এই খাতগুলোকে আরো আধুনিক, নিরাপদ ও আন্তর্জাতিক মানসম্পন্ন করে গড়ে তুলতে কাজ করছে।’",
       "image_url": "https://media.ndiganta.com/original_images/Women_Award.jpg"
-    },
-    {
-      "headline": "ঈশ্বরদী ভিজিএফ কার্ড বিতরণে অনিয়মের অভিযোগ, তদন্তের দাবি",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/BTzZO38f7eWh/",
-      "published_at": null,
-      "summary": "এসব কার্ড প্রকৃত অসহায় ও দরিদ্র মানুষের মাঝে বিতরণ না করে বিভিন্ন প্রভাবশালী ব্যক্তি ও দলীয় লোকজনের মধ্যে ভাগবাটোয়ারা করা হচ্ছে। এতে প্রকৃত সুবিধাভোগীরা বঞ্চিত হচ্ছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Iswardi-Pabna-Press-Briefin.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 14, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "ক্ষেপণাস্ত্রটি দূতাবাসে আঘাত হেনেছে— সেটি ইরান থেকে আসেনি। তারা ধারণা করছেন, ইরাকে সক্রিয় ইরানপন্থি সশস্ত্র গোষ্ঠীগুলো এ হামলার জন্য দায়ী। ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "উন্নত চিকিৎসার জন্য মির্জা আব্বাসকে রোববার সিঙ্গাপুর নেওয়া হচ্ছে",
@@ -1472,41 +1510,6 @@
       "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচন সামনে রেখে হুমায়ুন কবির ও তাহসিনা রুশদীর ‘দ্বন্দ্বের’ বিষয়টি প্রথম সামনে আসে। তখন উভয় পক্ষের কর্মী-সমর্থকদের মধ্যে সংঘর্ষের ঘটনাও ঘটে।",
       "image_s3_key": "prothomalo-bangla/2026-03-14/49othw3k/Syl-Bnp.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/49othw3k/Syl-Bnp.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘জনগণের আস্থা অর্জনই ডাক বিভাগের প্রধান লক্ষ্য’",
-      "url": "https://www.bd-pratidin.com/minister-speech/2026/03/14/1228186",
-      "published_at": "2026-03-14T18:18:40+06:00",
-      "summary": "ডাক বিভাগ একটি সেবামুখী প্রতিষ্ঠান, তাই জনগণের আস্থা অর্জনই এখানে সবচেয়ে গুরুত্বপূর্ণ। সেবার মান উন্নত করা গেলে ডাক বিভাগের প্রতি মানুষের বিশ্বাস আরও দৃঢ় হবে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773490719-a273fbcbcd7b4a228815fe2ec7dd7c8a.jpg"
-    },
-    {
-      "headline": "ডলার নয়, চাইনিজ ইউয়ানে লেনদেন করলেই খুলবে হরমুজ প্রণালি",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/14/1228182",
-      "published_at": "2026-03-14T18:01:58+06:00",
-      "summary": "কৌশলগতভাবে অত্যন্ত গুরুত্বপূর্ণ জলপথ হরমুজ প্রণালি ব্যবহার নিয়ে নতুন শর্ত বিবেচনা করছে ইরান। তেলবাহী ট্যাংকারের লেনদেন যদি চীনা মুদ্রা ইউয়ানে সম্পন্ন হয়, তাহলে নির্দিষ্ট কিছু জাহাজকে এই প্রণালি দিয়ে চলাচলের অনুমতি দেওয়া হতে পারে বলে জানা গেছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773489717-a5613b3d7912d1a460cc7d81b41631b9.jpg"
-    },
-    {
-      "headline": "শপথ গ্রহণের একমাসের মধ্যেই প্রতিশ্রুতি বাস্তবায়ন শুরু করেছেন প্রধানমন্ত্রী : মীর হেলাল",
-      "url": "https://www.bd-pratidin.com/minister-speech/2026/03/14/1228178",
-      "published_at": "2026-03-14T17:55:21+06:00",
-      "summary": "ভূমি এবং পার্বত্য চট্টগ্রাম বিষয়ক মন্ত্রণালয়ের প্রতিমন্ত্রী ব্যারিস্টার মীর মোহাম্মদ হেলাল উদ্দিন বলেছেন, নির্বাচন সম্পন্ন হওয়া তথা শপথ গ্রহণের একমাস না পেরুতেই প্রধানমন্ত্রী তারেক রহমান তার প্রতিশ্রুতি অনুযায়ী কার্যক্রম শুরু করেছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773489320-8517703d6aecedf13ab9af53c7e8a317.jpg"
-    },
-    {
-      "headline": "ঈদে লক্কড়-ঝক্কড় বাস নামালেই তাৎক্ষণিক ব্যবস্থা: ডিএমপি",
-      "url": "https://www.bd-pratidin.com/city-news/2026/03/14/1228177",
-      "published_at": "2026-03-14T17:53:49+06:00",
-      "summary": "পবিত্র ঈদ-উল-ফিতরকে সামনে রেখে রাজধানী থেকে বিভিন্ন জেলায় যাত্রীদের নিরাপদ ও নির্বিঘ্ন যাতায়াত নিশ্চিত করতে লক্কড়-ঝক্কড় বাসের বিরুদ্ধে কঠোর ব্যবস্থা নেওয়ার ঘোষণা দিয়েছে ঢাকা মহানগর পুলিশ (ডিএমপি)।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773489228-cd098445ab3a168bda42df118c77516c.jpg"
-    },
-    {
-      "headline": "ইরানের ৯০ শতাংশ ক্ষেপণাস্ত্র ধ্বংস করা হয়েছে : ট্রাম্প",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/14/1228175",
-      "published_at": "2026-03-14T17:47:48+06:00",
-      "summary": "গত দুই সপ্তাহ ধরে চলমান সংঘর্ষে যুক্তরাষ্ট্রের বাহিনী ইতোমধ্যেই ইরানের প্রায় ৯০ শতাংশ ক্ষেপণাস্ত্র ধ্বংস করেছে, এমনটা দাবি করেছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। পাশাপাশি তিনি জানান, আগামী দিনগুলোতে ইরানের বিরুদ্ধে সামরিক অভিযান আরও জোরদার করা হবে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773488868-6266574c650acfefe172a0609c85881f.jpg"
     }
   ]
 }
