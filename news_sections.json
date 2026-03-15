@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-03-15T22:57:33.520572+00:00",
+  "fetched_at": "2026-03-15T23:27:10.123111+00:00",
   "sections": {
     "latest": [
       {
         "headline": "‘সাহস থাকলে ট্রাম্প তাঁর জাহাজ উপসাগরে পাঠাক’\n",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-15T22:32:27.805000+00:00",
+        "published_at": "2026-03-15T23:20:28.045000+00:00",
         "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
         "image_s3_key": "prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "শুরু হয়েছে অস্কার ২০২৬",
+        "url": "https://www.prothomalo.com/entertainment/hollywood/h539r39tgc",
+        "published_at": "2026-03-15T23:07:33.300000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-15/fzuuem6d/WhatsApp-Image-2026-03-16-at-4.17.56-AM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/fzuuem6d/WhatsApp-Image-2026-03-16-at-4.17.56-AM.jpeg?auto=format,compress"
       },
       {
         "headline": "সিরাজগঞ্জে নদীর পাড়ে দাঁড়িয়ে আছে তিন গম্বুজের দৃষ্টিনন্দন মসজিদটি",
@@ -307,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/215a7f5o/DhakaDH162420260315Savar333-.jpg?auto=format,compress"
       },
       {
-        "headline": "আদমদীঘির বিল এলাকায় নিষিদ্ধ ছাত্রলীগের ইফতার আয়োজন",
-        "url": "https://www.prothomalo.com/bangladesh/district/8cqjkdbbdf",
-        "published_at": "2026-03-15T16:13:28.971000+00:00",
-        "summary": "গতকাল শনিবার বিকেলে আদমদীঘির রক্তদহ বিল এলাকায় এই ইফতারের আয়োজন করে এই নিষিদ্ধ ছাত্রসংগঠনটি। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-15/4d9jb9q4/Untitled-8.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/4d9jb9q4/Untitled-8.jpg?auto=format,compress"
-      },
-      {
         "headline": "পাকিস্তানকে হারিয়ে র‍্যাঙ্কিংয়ে উইন্ডিজকে পেছনে ফেলল বাংলাদেশ",
         "url": "https://www.bd-pratidin.com/sports/2026/03/16/1228715",
         "published_at": "2026-03-16T01:43:39+06:00",
@@ -493,7 +493,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 16, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "রমজানের শেষ দশকে ইতিকাফ পালন কেবল একটি আনুষ্ঠানিকতা নয়; এটি আত্মশুদ্ধি অর্জনের এক গুরুত্বপূর্ণ মাধ্যম। ইতিকাফ অবস্থায় শবে কদরের অফুরন্ত ...",
+        "summary": "সংগীত জগতের মহাতারকা টেইলর সুইফটের মুকুটে যুক্ত হল আরও একটি পালক। বিশ্বখ্যাত ফোর্বস সাময়িকীর ২০২৬ সালের ‘বিশ্বের বিলিয়নিয়ার তালিকা’ অনুযায়ী, ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -502,6 +502,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "আদমদীঘির বিল এলাকায় নিষিদ্ধ ছাত্রলীগের ইফতার আয়োজন",
+        "url": "https://www.prothomalo.com/bangladesh/district/8cqjkdbbdf",
+        "published_at": "2026-03-15T16:13:28.971000+00:00",
+        "summary": "গতকাল শনিবার বিকেলে আদমদীঘির রক্তদহ বিল এলাকায় এই ইফতারের আয়োজন করে এই নিষিদ্ধ ছাত্রসংগঠনটি। ",
+        "image_s3_key": "prothomalo-bangla/2026-03-15/4d9jb9q4/Untitled-8.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/4d9jb9q4/Untitled-8.jpg?auto=format,compress"
       },
       {
         "headline": "ভূকৌশলগত অবস্থান কাজে লাগালে তেল রফতানিকারক দেশ হতে পারে বাংলাদেশ",
@@ -1489,14 +1497,6 @@
         "summary": "শফিকুর রহমান বলেন, পয়েন্ট অব অর্ডারে এসব বিষয় তুলে ধরা হলে স্পিকার বলেছেন, এই ব্যাপারে সুনির্দিষ্ট নোটিশ দিলে বিষয়টি বিবেচনায় নিয়ে আলোচনা করা হবে।",
         "image_s3_key": "prothomalo-bangla/2026-03-15/jbj4rx0o/Shofiqur-Rahman.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/jbj4rx0o/Shofiqur-Rahman.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "বিদেশি গ্যারান্টি থাকলে বাংলাদেশ ব্যাংকের অনুমতি ছাড়া ঋণ দিতে পারবে ব্যাংক",
-        "url": "https://www.prothomalo.com/business/dmltadca6b",
-        "published_at": "2026-03-15T12:15:55.178000+00:00",
-        "summary": "বাংলাদেশ ব্যাংক আজ রোববার এ নিয়ে এক প্রজ্ঞাপন জারি করেছে। এতে নানা শর্ত জুড়ে দেওয়া হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-07/lin6oq9f/BDBank.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/lin6oq9f/BDBank.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -4400,7 +4400,7 @@
       {
         "headline": "‘সাহস থাকলে ট্রাম্প তাঁর জাহাজ উপসাগরে পাঠাক’\n",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-15T22:32:27.805000+00:00",
+        "published_at": "2026-03-15T23:20:28.045000+00:00",
         "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
         "image_s3_key": "prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg?auto=format,compress"
@@ -8874,6 +8874,14 @@
     ],
     "entertainment": [
       {
+        "headline": "শুরু হয়েছে অস্কার ২০২৬",
+        "url": "https://www.prothomalo.com/entertainment/hollywood/h539r39tgc",
+        "published_at": "2026-03-15T23:07:33.300000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-15/fzuuem6d/WhatsApp-Image-2026-03-16-at-4.17.56-AM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/fzuuem6d/WhatsApp-Image-2026-03-16-at-4.17.56-AM.jpeg?auto=format,compress"
+      },
+      {
         "headline": "৬৯টি দেশে টপ ১০-এ তবু ব্ল্যাকপিংক তারকার অভিনয় নিয়ে বিতর্ক",
         "url": "https://www.prothomalo.com/entertainment/ott/oil8iz5c2r",
         "published_at": "2026-03-15T18:15:00+00:00",
@@ -10320,13 +10328,6 @@
         "published_at": "2026-03-14T16:58:05+06:00",
         "summary": "প্রায় দুই দশক পর বাংলাদেশ রেলওয়ের পূর্বাঞ্চলের চিফ কন্ট্রোলার অব স্টোরস (সিসিএস) দপ্তরের অবকাঠামোগত সংস্কার কাজ শুরু হয়েছে। তবে সংস্কার কাজ চলাকালীন শুক্রবার মধ্যরাতে নগরীর পাহাড়তলীতে অবস্থিত কার্যালয়টিতে অগ্নিকাণ্ডের ঘটনা ঘটেছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773485884-e06d061a77a7bde916b8a91163029d41.jpg"
-      },
-      {
-        "headline": "শৃঙ্খলাভঙ্গ করায় শাস্তি পেলেন সালমান আঘা",
-        "url": "https://www.bd-pratidin.com/sports/2026/03/14/1228154",
-        "published_at": "2026-03-14T16:52:03+06:00",
-        "summary": "অদ্ভুতভাবে রানআউট হয়ে সিদ্ধান্ত না মেনে ক্ষিপ্ত প্রতিক্রিয়া দেখিয়েছিলেন পাকিস্তানের সালমান আলী আঘা। গ্লাভস ও হেলমেট ছুড়ে ক্ষোভ প্রকাশ করা এই ব্যাটারকে শাস্তি হিসেবে তিরস্কার এবং একটি ডিমেরিট পয়েন্ট দেওয়া হয়েছে। এই ম্যাচে দায়িত্ব পালন করা ম্যাচ রেফারি নিয়ামুর রশিদ রাহুল সালমানের শাস্তির বিষয় নিশ্চিত করেছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/14/og/1773485521-d3c7732d98fb1c29de489605026aff63.jpg"
       }
     ],
     "jobs": [
