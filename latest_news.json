@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-15T21:52:52.123420+00:00",
+  "fetched_at": "2026-03-15T22:24:18.164763+00:00",
   "stories": [
+    {
+      "headline": "সিরাজগঞ্জে নদীর পাড়ে দাঁড়িয়ে আছে তিন গম্বুজের দৃষ্টিনন্দন মসজিদটি",
+      "url": "https://www.prothomalo.com/bangladesh/district/411y03ck24",
+      "published_at": "2026-03-15T22:00:00+00:00",
+      "summary": "প্রায় দেড় শত বছরের বেশি সময় ধরে ভদ্রাবতী নদীর পাড়ে ইতিহাসের সাক্ষী হয়ে আছে ওই গ্রামের চৌধুরীবাড়ি জামে মসজিদটি।",
+      "image_s3_key": "prothomalo-bangla/2026-03-15/pw203ina/SIRAJGONJMosque1.JPG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/pw203ina/SIRAJGONJMosque1.JPG?auto=format,compress"
+    },
     {
       "headline": "মার্কিন বিমানবাহী রণতরিকে সহায়তাকারীদের লক্ষ্যবস্তু করার হুঁশিয়ারি ইরানের\n",
       "url": "https://www.prothomalo.com/world/5slmsanxj1",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/4d9jb9q4/Untitled-8.jpg?auto=format,compress"
     },
     {
-      "headline": "অর্থনৈতিক স্থিতিশীলতা নষ্ট হওয়ার শঙ্কা",
-      "url": "https://www.prothomalo.com/business/economics/fhlvkbhqj9",
-      "published_at": "2026-03-15T16:09:25.259000+00:00",
-      "summary": "দেশের ৬৩ শতাংশ প্রাথমিক জ্বালানি আমদানিনির্ভর। তাই দীর্ঘ মেয়াদে এই যুদ্ধ দেশের পরিবহন, বিদ্যুৎ সরবরাহ, রপ্তানি এবং প্রবাসী আয়ে নেতিবাচক প্রভাব ফেলতে পারে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-15/frttmggl/Untitled-7.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/frttmggl/Untitled-7.jpg?auto=format,compress"
-    },
-    {
       "headline": "পাকিস্তানকে হারিয়ে র‍্যাঙ্কিংয়ে উইন্ডিজকে পেছনে ফেলল বাংলাদেশ",
       "url": "https://www.bd-pratidin.com/sports/2026/03/16/1228715",
       "published_at": "2026-03-16T01:43:39+06:00",
@@ -398,6 +398,20 @@
       "image_url": "https://media.ndiganta.com/images/mynl_krm.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "চসিকের পরিচ্ছন্নতাকর্মীদের ১ কোটি ৬৩ লাখ টাকার অনুদান দিলেন প্রধানমন্ত্রী",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/PIXPSW6GSjGu/",
+      "published_at": null,
+      "summary": "চট্টগ্রাম সিটি করপোরেশনের মেয়র ডা: শাহাদাত হোসেনের হাতে এই অনুদানের চেক হস্তান্তর করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Ctg-city-corporation.jpg"
+    },
+    {
+      "headline": "চট্টগ্রামে আগুনে পুড়ে ২ ভাই-বোনের মৃত্যু",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/vws7CA23fIFw/",
+      "published_at": null,
+      "summary": "বাঁশখালী উপজেলার সাধনপুর ইউনিয়নের ৫ নম্বর ওয়ার্ডের লঠমণি এলাকায় জেএমবি ব্রিকসের শ্রমিকদের অস্থায়ী বসতঘরে এ অগ্নিকাণ্ড ঘটে।",
+      "image_url": "https://media.ndiganta.com/original_images/Satkania_CJjTfaX.jpg"
+    },
+    {
       "headline": "পাকিস্তানের বিরুদ্ধে সিরিজ জয়ে বাংলাদেশের ক্রিকেট দলকে প্রধানমন্ত্রীর অভিনন্দন",
       "url": "https://dailynayadiganta.com/sports/cricket/popj40JDhfO3/",
       "published_at": null,
@@ -440,20 +454,6 @@
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "শিহরণ জাগানিয়া সিরিজ জয় বাংলাদেশের",
-      "url": "https://dailynayadiganta.com/printed-edition/qvvbibov6Je5/",
-      "published_at": null,
-      "summary": "এই তো কয়েক মাস আগে এবারের বাংলাদেশ প্রিমিয়ার লিগের ফাইনালে চট্টগ্রামের রয়্যালসের বিপক্ষে সেঞ্চুরি করেছিলেন রাজশাহী ওয়ারিয়র্সের ওপেনার তানজিদ হাসান তামিম। তার সেই সেঞ্চুরির সুবাদে এক যুগ পর শিরোপা ঘরে তুলেছিল ওয়ারিয়র্সরা। সেটি ছিল টি-২০। গতকাল বাংলাদেশ-পাকিস্তান ওয়ানডে সিরিজের শেষ ম্যাচে অলিখিত ফাইনালেও সেঞ্চুরি করলেন তানজিদ হাসান তামিম। এরপর পেসারদের তাণ্ডবে খেই হারাল পাকিস্তান। মধ্যে অবশ্য কিছুটা অস্বস্তি স্বাগতিক শিবিরে। পাকিস্তানের সালমান আলি আগাও করলেন সেঞ্চুরি। শেষ ওভার পর্যন্ত পেন্ডুলামের মতো ঝুলছিল ফলাফল। শেষ পর্যন্ত শিহরণ জাগানিয়া ম্যাচে বাংলাদেশের ১১ রানে জয়। তাতে তিন ম্যাচের সিরিজ ২-১-এ জিতে নিলো বাংলাদেশ। এ নিয়ে ঘরের মাঠে পাকিস্তানের বিপক্ষে তিনটি সিরিজ জিতল বাংলাদেশ।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "প্রধানমন্ত্রীর নানা উদ্যোগেও গতি ফেরেনি প্রশাসনে",
-      "url": "https://dailynayadiganta.com/printed-edition/NJa1zGyycgGW/",
-      "published_at": null,
-      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের মাধ্যমে সরকার গঠনের পর প্রশাসনে গতি ফেরাতে নানা উদ্যোগ নিয়েছেন প্রধানমন্ত্রী তারেক রহমান। মাঠ প্রশাসনের কর্মকর্তা-কর্মচারীদের কাজে মনোযোগী হতে নিজেই অফিস করছেন সচিবালয়ে। নির্ধারিত সময়ের আগেই নিজ দফতরে প্রবেশ করছেন তিনি। সরকারের সব দফতরের কর্মকর্তা-কর্মচারীদের নির্ধারিত সময়ে অফিসে প্রবেশ করতে তাগিদও দিয়েছেন। এ সব উদ্যোগের পরেও গতি ফেরেনি প্রশাসনে। এ ছাড়া জনপ্রশাসন মন্ত্রণালয়ের অতিরিক্ত সচিব (এপিডি) পদ খালি রয়েছে পাঁচ মাস ধরে। পাঁচ জেলার জেলা প্রশাসক প্রত্যাহার করার পরে সেখানে নতুন করে পদায়ন করা সম্ভব হয়নি। শূন্য রয়েছে সরকারের গুরুত্বপূর্ণ ১০টি মন্ত্রণালয়ের সচিব পদ। এ ছাড়াও অনেক গুরুত্বপূর্ণ দফতর ও সংস্থার পদও খালি রয়েছে। এ সব গুরুত্বপূর্ণ পদায়নের সিদ্ধান্তের দায়িত্বে থাকা সচিবরা বয়স্ক হওয়ায় এমন জটিলতার সৃষ্টি হচ্ছে বলে মনে করছেন সংশ্লিষ্টরা।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
       "headline": "আরিফুল হক চৌধুরীঢাকা-সিলেট ও সিলেট-চট্টগ্রাম ছয় লেন সড়ক নির্মাণের কাজ দ্রুত শুরু হবে",
       "url": "https://dailynayadiganta.com/bangladesh/national/tkB522NVt3JG/",
       "published_at": null,
@@ -489,6 +489,42 @@
       "image_url": "https://media.ndiganta.com/original_images/Titumir.jpg"
     },
     {
+      "headline": "আজকের সর্বশেষ খবর - March 16, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "মধ্যপ্রাচ্যে সামরিক শক্তি জোরদার করতে দক্ষিণ কোরিয়া থেকে ‘টার্মিনাল হাই অ্যালটিটিউড এরিয়া ডিফেন্স’ বা থাড ক্ষেপণাস্ত্র এবং অন্যান্য সামরিক সরঞ্জাম ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "অর্থনৈতিক স্থিতিশীলতা নষ্ট হওয়ার শঙ্কা",
+      "url": "https://www.prothomalo.com/business/economics/fhlvkbhqj9",
+      "published_at": "2026-03-15T16:09:25.259000+00:00",
+      "summary": "দেশের ৬৩ শতাংশ প্রাথমিক জ্বালানি আমদানিনির্ভর। তাই দীর্ঘ মেয়াদে এই যুদ্ধ দেশের পরিবহন, বিদ্যুৎ সরবরাহ, রপ্তানি এবং প্রবাসী আয়ে নেতিবাচক প্রভাব ফেলতে পারে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-15/frttmggl/Untitled-7.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/frttmggl/Untitled-7.jpg?auto=format,compress"
+    },
+    {
+      "headline": "শিহরণ জাগানিয়া সিরিজ জয় বাংলাদেশের",
+      "url": "https://dailynayadiganta.com/printed-edition/qvvbibov6Je5/",
+      "published_at": null,
+      "summary": "এই তো কয়েক মাস আগে এবারের বাংলাদেশ প্রিমিয়ার লিগের ফাইনালে চট্টগ্রামের রয়্যালসের বিপক্ষে সেঞ্চুরি করেছিলেন রাজশাহী ওয়ারিয়র্সের ওপেনার তানজিদ হাসান তামিম। তার সেই সেঞ্চুরির সুবাদে এক যুগ পর শিরোপা ঘরে তুলেছিল ওয়ারিয়র্সরা। সেটি ছিল টি-২০। গতকাল বাংলাদেশ-পাকিস্তান ওয়ানডে সিরিজের শেষ ম্যাচে অলিখিত ফাইনালেও সেঞ্চুরি করলেন তানজিদ হাসান তামিম। এরপর পেসারদের তাণ্ডবে খেই হারাল পাকিস্তান। মধ্যে অবশ্য কিছুটা অস্বস্তি স্বাগতিক শিবিরে। পাকিস্তানের সালমান আলি আগাও করলেন সেঞ্চুরি। শেষ ওভার পর্যন্ত পেন্ডুলামের মতো ঝুলছিল ফলাফল। শেষ পর্যন্ত শিহরণ জাগানিয়া ম্যাচে বাংলাদেশের ১১ রানে জয়। তাতে তিন ম্যাচের সিরিজ ২-১-এ জিতে নিলো বাংলাদেশ। এ নিয়ে ঘরের মাঠে পাকিস্তানের বিপক্ষে তিনটি সিরিজ জিতল বাংলাদেশ।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
+      "headline": "প্রধানমন্ত্রীর নানা উদ্যোগেও গতি ফেরেনি প্রশাসনে",
+      "url": "https://dailynayadiganta.com/printed-edition/NJa1zGyycgGW/",
+      "published_at": null,
+      "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের মাধ্যমে সরকার গঠনের পর প্রশাসনে গতি ফেরাতে নানা উদ্যোগ নিয়েছেন প্রধানমন্ত্রী তারেক রহমান। মাঠ প্রশাসনের কর্মকর্তা-কর্মচারীদের কাজে মনোযোগী হতে নিজেই অফিস করছেন সচিবালয়ে। নির্ধারিত সময়ের আগেই নিজ দফতরে প্রবেশ করছেন তিনি। সরকারের সব দফতরের কর্মকর্তা-কর্মচারীদের নির্ধারিত সময়ে অফিসে প্রবেশ করতে তাগিদও দিয়েছেন। এ সব উদ্যোগের পরেও গতি ফেরেনি প্রশাসনে। এ ছাড়া জনপ্রশাসন মন্ত্রণালয়ের অতিরিক্ত সচিব (এপিডি) পদ খালি রয়েছে পাঁচ মাস ধরে। পাঁচ জেলার জেলা প্রশাসক প্রত্যাহার করার পরে সেখানে নতুন করে পদায়ন করা সম্ভব হয়নি। শূন্য রয়েছে সরকারের গুরুত্বপূর্ণ ১০টি মন্ত্রণালয়ের সচিব পদ। এ ছাড়াও অনেক গুরুত্বপূর্ণ দফতর ও সংস্থার পদও খালি রয়েছে। এ সব গুরুত্বপূর্ণ পদায়নের সিদ্ধান্তের দায়িত্বে থাকা সচিবরা বয়স্ক হওয়ায় এমন জটিলতার সৃষ্টি হচ্ছে বলে মনে করছেন সংশ্লিষ্টরা।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+    },
+    {
       "headline": "ঈদে যানবাহনের বাড়তি চাপ সামলাতে প্রস্তুত পদ্মা সেতু কর্তৃপক্ষ",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/Jl276rNLzH9q/",
       "published_at": null,
@@ -501,20 +537,6 @@
       "published_at": null,
       "summary": "ময়মনসিংহ জেলা পরিষদের প্রশাসক নিযুক্ত হয়েছেন বিএনপির যুগ্ম মহাসচিব সৈয়দ এমরান সালেহ প্রিন্স। এ খবরে রাজনৈতিক অঙ্গনে উচ্ছ্বাস সৃষ্টি হয়েছে।",
       "image_url": "https://media.ndiganta.com/original_images/Imran-Saleh-Prince_7Kc3KAb.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 16, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "সব জল্পনা-কল্পনার অবসান ঘটিয়ে আবারও বার্সেলোনার প্রেসিডেন্ট নির্বাচিত হয়েছেন হুয়ান লাপোর্তা। কাতালান টেলিভিশন চ্যানেল টিভিথ্রি-এর জরিপ অনুযায়ী, ৬৬ শতাংশ ভোট ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "ইসফাহানে হামলায় পাল্টা আঘাত ইসরাইলে",
@@ -1475,28 +1497,6 @@
       "summary": "শনিবার রাতে অভিযান চালিয়ে ভালুকা উপজেলার ডুবালিয়াপাড়া এলাকার পাইওনিয়ার নিটওয়‍্যারস (বিডি) লিমিটেডের ফটকের সামনে থেকে আসামি সোহেল রানাকে গ্রেপ্তার করা হয়।",
       "image_s3_key": "prothomalo-bangla/2026-03-15/l3h07z2i/Untitled-11.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/l3h07z2i/Untitled-11.jpg?auto=format,compress"
-    },
-    {
-      "headline": "শিক্ষার মান উন্নয়ন ছাড়া দুর্নীতিমুক্ত দেশ গড়া অসম্ভব: চট্টগ্রাম সিটি মেয়র",
-      "url": "https://www.prothomalo.com/bangladesh/district/28et18c1zc",
-      "published_at": "2026-03-15T12:07:51.681000+00:00",
-      "summary": "শনিবার বিকেলে এক অনুষ্ঠানে প্রধান অতিথির বক্তব্যে এসব কথা বলেন চট্টগ্রাম সিটি করপোরেশনের মেয়র শাহাদাত হোসেন। চট্টগ্রামের রেডিসন ব্লু হোটেলের মোহনা হলরুমে এ অনুষ্ঠান হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-15/abmg0ohk/Mayor.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/abmg0ohk/Mayor.jpg?auto=format,compress"
-    },
-    {
-      "headline": "রাজশাহীতে পুলিশের অভিযানে গ্রেপ্তার ২২",
-      "url": "https://www.bd-pratidin.com/city-news/2026/03/15/1228550",
-      "published_at": "2026-03-15T18:38:50+06:00",
-      "summary": "রাজশাহী মেট্রোপলিটন পুলিশের পৃথক অভিযানে ২২ জনকে গ্রেপ্তার করা হয়েছে। গতকাল শনিবার দিবাগত রাতে নগরীর বিভিন্ন থানা ও ডিবি পুলিশের অভিযানে তাদের গ্রেপ্তার করা হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/15/og/1773578328-71ec8218a9e4f83e95bf8b44016fe8b1.jpg"
-    },
-    {
-      "headline": "এবার সরাসরি ইসরাইলের পুলিশ সদর দপ্তরে ড্রোন হামলা করল ইরান",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/15/1228544",
-      "published_at": "2026-03-15T17:56:59+06:00",
-      "summary": "গণহত্যাকারী-দখলদার ইসরাইল ও তাদের সহযোগী যুক্তরাষ্ট্রের আগ্রাসনের সমুচিত জবাব দিয়ে যাচ্ছে ইরান। এরই মধ্যে যুদ্ধ গড়িয়েছে ১৬তম দিনে। এদিন উগ্র ইহুদিবাদী ভূখণ্ডটি লক্ষ্য করে ব্যাপক হামলা চালিয়েছে ইরান। এবার তারা ইসরাইলের পুলিশ সদর দপ্তর ও স্যাটেলাইট যোগাযোগ কেন্দ্রকে লক্ষ্যবস্তু করেছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/15/og/1773575818-c571f64c6aed81bfe7c5695625ca0cbd.jpg"
     }
   ]
 }
