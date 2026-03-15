@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-15T22:24:18.164763+00:00",
+  "fetched_at": "2026-03-15T22:57:33.520572+00:00",
   "stories": [
+    {
+      "headline": "‘সাহস থাকলে ট্রাম্প তাঁর জাহাজ উপসাগরে পাঠাক’\n",
+      "url": "https://www.prothomalo.com/world/5slmsanxj1",
+      "published_at": "2026-03-15T22:32:27.805000+00:00",
+      "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg?auto=format,compress"
+    },
     {
       "headline": "সিরাজগঞ্জে নদীর পাড়ে দাঁড়িয়ে আছে তিন গম্বুজের দৃষ্টিনন্দন মসজিদটি",
       "url": "https://www.prothomalo.com/bangladesh/district/411y03ck24",
@@ -8,14 +16,6 @@
       "summary": "প্রায় দেড় শত বছরের বেশি সময় ধরে ভদ্রাবতী নদীর পাড়ে ইতিহাসের সাক্ষী হয়ে আছে ওই গ্রামের চৌধুরীবাড়ি জামে মসজিদটি।",
       "image_s3_key": "prothomalo-bangla/2026-03-15/pw203ina/SIRAJGONJMosque1.JPG",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/pw203ina/SIRAJGONJMosque1.JPG?auto=format,compress"
-    },
-    {
-      "headline": "মার্কিন বিমানবাহী রণতরিকে সহায়তাকারীদের লক্ষ্যবস্তু করার হুঁশিয়ারি ইরানের\n",
-      "url": "https://www.prothomalo.com/world/5slmsanxj1",
-      "published_at": "2026-03-15T21:23:55.481000+00:00",
-      "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-      "image_s3_key": "prothomalo-bangla/2026-02-26/69lhqu02/iran-1.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/69lhqu02/iran-1.JPG?auto=format,compress"
     },
     {
       "headline": "সাদিয়া আয়মানের জন্য ইফতারে যে ডেজার্ট তৈরি হলো | ফ্রেশ মিল্ক অবাক খুশির রেসিপি | পর্ব-২৫",
@@ -398,6 +398,13 @@
       "image_url": "https://media.ndiganta.com/images/mynl_krm.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "ঈদুল ফিতর উপলক্ষে বুড়িমারী স্থলবন্দরে ১১ দিন আমদানি-রফতানি বন্ধ",
+      "url": "https://dailynayadiganta.com/economy/industry-commerce/ForuUELPoiWq/",
+      "published_at": null,
+      "summary": "আগামী ১৭-২৭ মার্চ পর্যন্ত বন্দরে সকল বাণিজ্যিক কার্যক্রম বন্ধ থাকবে। এরপর ২৮ মার্চ থেকে পুনরায় বাণিজ্যিক কার্যক্রম শুরু হবে।",
+      "image_url": "https://media.ndiganta.com/original_images/Burimari.jpg"
+    },
+    {
       "headline": "চসিকের পরিচ্ছন্নতাকর্মীদের ১ কোটি ৬৩ লাখ টাকার অনুদান দিলেন প্রধানমন্ত্রী",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/PIXPSW6GSjGu/",
       "published_at": null,
@@ -447,13 +454,6 @@
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "ভূকৌশলগত অবস্থান কাজে লাগালে তেল রফতানিকারক দেশ হতে পারে বাংলাদেশ",
-      "url": "https://dailynayadiganta.com/printed-edition/OQGF4Kyd51HM/",
-      "published_at": null,
-      "summary": "ভূকৌশলগত অবস্থান ও আঞ্চলিক বাজারের সুযোগ কাজে লাগাতে পারলে বাংলাদেশও তেল রফতানিকারক দেশে পরিণত হতে পারে- এমন মত দিয়েছেন জ্বালানি খাতের বিশেষজ্ঞরা। তাদের মতে, দক্ষিণ-পূর্ব এশিয়ার বাণিজ্যিক রুটের সংযোগস্থলে অবস্থান, গভীর সমুদ্রবন্দর সম্ভাবনা এবং বড় আঞ্চলিক বাজারের নৈকট্য- এসব সুবিধা কাজে লাগানো গেলে বাংলাদেশ জ্বালানি পরিশোধন ও পুনঃ রফতানির একটি গুরুত্বপূর্ণ কেন্দ্র হয়ে উঠতে পারে।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
       "headline": "আরিফুল হক চৌধুরীঢাকা-সিলেট ও সিলেট-চট্টগ্রাম ছয় লেন সড়ক নির্মাণের কাজ দ্রুত শুরু হবে",
       "url": "https://dailynayadiganta.com/bangladesh/national/tkB522NVt3JG/",
       "published_at": null,
@@ -492,7 +492,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 16, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "মধ্যপ্রাচ্যে সামরিক শক্তি জোরদার করতে দক্ষিণ কোরিয়া থেকে ‘টার্মিনাল হাই অ্যালটিটিউড এরিয়া ডিফেন্স’ বা থাড ক্ষেপণাস্ত্র এবং অন্যান্য সামরিক সরঞ্জাম ...",
+      "summary": "রমজানের শেষ দশকে ইতিকাফ পালন কেবল একটি আনুষ্ঠানিকতা নয়; এটি আত্মশুদ্ধি অর্জনের এক গুরুত্বপূর্ণ মাধ্যম। ইতিকাফ অবস্থায় শবে কদরের অফুরন্ত ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -501,6 +501,13 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ভূকৌশলগত অবস্থান কাজে লাগালে তেল রফতানিকারক দেশ হতে পারে বাংলাদেশ",
+      "url": "https://dailynayadiganta.com/printed-edition/OQGF4Kyd51HM/",
+      "published_at": null,
+      "summary": "ভূকৌশলগত অবস্থান ও আঞ্চলিক বাজারের সুযোগ কাজে লাগাতে পারলে বাংলাদেশও তেল রফতানিকারক দেশে পরিণত হতে পারে- এমন মত দিয়েছেন জ্বালানি খাতের বিশেষজ্ঞরা। তাদের মতে, দক্ষিণ-পূর্ব এশিয়ার বাণিজ্যিক রুটের সংযোগস্থলে অবস্থান, গভীর সমুদ্রবন্দর সম্ভাবনা এবং বড় আঞ্চলিক বাজারের নৈকট্য- এসব সুবিধা কাজে লাগানো গেলে বাংলাদেশ জ্বালানি পরিশোধন ও পুনঃ রফতানির একটি গুরুত্বপূর্ণ কেন্দ্র হয়ে উঠতে পারে।",
+      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
       "headline": "অর্থনৈতিক স্থিতিশীলতা নষ্ট হওয়ার শঙ্কা",
@@ -1489,14 +1496,6 @@
       "summary": "বাংলাদেশ ব্যাংক আজ রোববার এ নিয়ে এক প্রজ্ঞাপন জারি করেছে। এতে নানা শর্ত জুড়ে দেওয়া হয়েছে।",
       "image_s3_key": "prothomalo-bangla/2026-03-07/lin6oq9f/BDBank.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/lin6oq9f/BDBank.jpg?auto=format,compress"
-    },
-    {
-      "headline": "ময়মনসিংহে পোশাকশ্রমিক দীপু হত্যা মামলায় আরও এক আসামি গ্রেপ্তার",
-      "url": "https://www.prothomalo.com/bangladesh/district/21j7l178d3",
-      "published_at": "2026-03-15T12:12:13.368000+00:00",
-      "summary": "শনিবার রাতে অভিযান চালিয়ে ভালুকা উপজেলার ডুবালিয়াপাড়া এলাকার পাইওনিয়ার নিটওয়‍্যারস (বিডি) লিমিটেডের ফটকের সামনে থেকে আসামি সোহেল রানাকে গ্রেপ্তার করা হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-15/l3h07z2i/Untitled-11.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/l3h07z2i/Untitled-11.jpg?auto=format,compress"
     }
   ]
 }

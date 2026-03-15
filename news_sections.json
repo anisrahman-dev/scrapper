@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-03-15T22:24:18.164763+00:00",
+  "fetched_at": "2026-03-15T22:57:33.520572+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "‘সাহস থাকলে ট্রাম্প তাঁর জাহাজ উপসাগরে পাঠাক’\n",
+        "url": "https://www.prothomalo.com/world/5slmsanxj1",
+        "published_at": "2026-03-15T22:32:27.805000+00:00",
+        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_s3_key": "prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg?auto=format,compress"
+      },
       {
         "headline": "সিরাজগঞ্জে নদীর পাড়ে দাঁড়িয়ে আছে তিন গম্বুজের দৃষ্টিনন্দন মসজিদটি",
         "url": "https://www.prothomalo.com/bangladesh/district/411y03ck24",
@@ -9,14 +17,6 @@
         "summary": "প্রায় দেড় শত বছরের বেশি সময় ধরে ভদ্রাবতী নদীর পাড়ে ইতিহাসের সাক্ষী হয়ে আছে ওই গ্রামের চৌধুরীবাড়ি জামে মসজিদটি।",
         "image_s3_key": "prothomalo-bangla/2026-03-15/pw203ina/SIRAJGONJMosque1.JPG",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/pw203ina/SIRAJGONJMosque1.JPG?auto=format,compress"
-      },
-      {
-        "headline": "মার্কিন বিমানবাহী রণতরিকে সহায়তাকারীদের লক্ষ্যবস্তু করার হুঁশিয়ারি ইরানের\n",
-        "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-15T21:23:55.481000+00:00",
-        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_s3_key": "prothomalo-bangla/2026-02-26/69lhqu02/iran-1.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/69lhqu02/iran-1.JPG?auto=format,compress"
       },
       {
         "headline": "সাদিয়া আয়মানের জন্য ইফতারে যে ডেজার্ট তৈরি হলো | ফ্রেশ মিল্ক অবাক খুশির রেসিপি | পর্ব-২৫",
@@ -399,6 +399,13 @@
         "image_url": "https://media.ndiganta.com/images/mynl_krm.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "ঈদুল ফিতর উপলক্ষে বুড়িমারী স্থলবন্দরে ১১ দিন আমদানি-রফতানি বন্ধ",
+        "url": "https://dailynayadiganta.com/economy/industry-commerce/ForuUELPoiWq/",
+        "published_at": null,
+        "summary": "আগামী ১৭-২৭ মার্চ পর্যন্ত বন্দরে সকল বাণিজ্যিক কার্যক্রম বন্ধ থাকবে। এরপর ২৮ মার্চ থেকে পুনরায় বাণিজ্যিক কার্যক্রম শুরু হবে।",
+        "image_url": "https://media.ndiganta.com/original_images/Burimari.jpg"
+      },
+      {
         "headline": "চসিকের পরিচ্ছন্নতাকর্মীদের ১ কোটি ৬৩ লাখ টাকার অনুদান দিলেন প্রধানমন্ত্রী",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/PIXPSW6GSjGu/",
         "published_at": null,
@@ -448,13 +455,6 @@
         "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
-        "headline": "ভূকৌশলগত অবস্থান কাজে লাগালে তেল রফতানিকারক দেশ হতে পারে বাংলাদেশ",
-        "url": "https://dailynayadiganta.com/printed-edition/OQGF4Kyd51HM/",
-        "published_at": null,
-        "summary": "ভূকৌশলগত অবস্থান ও আঞ্চলিক বাজারের সুযোগ কাজে লাগাতে পারলে বাংলাদেশও তেল রফতানিকারক দেশে পরিণত হতে পারে- এমন মত দিয়েছেন জ্বালানি খাতের বিশেষজ্ঞরা। তাদের মতে, দক্ষিণ-পূর্ব এশিয়ার বাণিজ্যিক রুটের সংযোগস্থলে অবস্থান, গভীর সমুদ্রবন্দর সম্ভাবনা এবং বড় আঞ্চলিক বাজারের নৈকট্য- এসব সুবিধা কাজে লাগানো গেলে বাংলাদেশ জ্বালানি পরিশোধন ও পুনঃ রফতানির একটি গুরুত্বপূর্ণ কেন্দ্র হয়ে উঠতে পারে।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
         "headline": "আরিফুল হক চৌধুরীঢাকা-সিলেট ও সিলেট-চট্টগ্রাম ছয় লেন সড়ক নির্মাণের কাজ দ্রুত শুরু হবে",
         "url": "https://dailynayadiganta.com/bangladesh/national/tkB522NVt3JG/",
         "published_at": null,
@@ -493,7 +493,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 16, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "মধ্যপ্রাচ্যে সামরিক শক্তি জোরদার করতে দক্ষিণ কোরিয়া থেকে ‘টার্মিনাল হাই অ্যালটিটিউড এরিয়া ডিফেন্স’ বা থাড ক্ষেপণাস্ত্র এবং অন্যান্য সামরিক সরঞ্জাম ...",
+        "summary": "রমজানের শেষ দশকে ইতিকাফ পালন কেবল একটি আনুষ্ঠানিকতা নয়; এটি আত্মশুদ্ধি অর্জনের এক গুরুত্বপূর্ণ মাধ্যম। ইতিকাফ অবস্থায় শবে কদরের অফুরন্ত ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -502,6 +502,13 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "ভূকৌশলগত অবস্থান কাজে লাগালে তেল রফতানিকারক দেশ হতে পারে বাংলাদেশ",
+        "url": "https://dailynayadiganta.com/printed-edition/OQGF4Kyd51HM/",
+        "published_at": null,
+        "summary": "ভূকৌশলগত অবস্থান ও আঞ্চলিক বাজারের সুযোগ কাজে লাগাতে পারলে বাংলাদেশও তেল রফতানিকারক দেশে পরিণত হতে পারে- এমন মত দিয়েছেন জ্বালানি খাতের বিশেষজ্ঞরা। তাদের মতে, দক্ষিণ-পূর্ব এশিয়ার বাণিজ্যিক রুটের সংযোগস্থলে অবস্থান, গভীর সমুদ্রবন্দর সম্ভাবনা এবং বড় আঞ্চলিক বাজারের নৈকট্য- এসব সুবিধা কাজে লাগানো গেলে বাংলাদেশ জ্বালানি পরিশোধন ও পুনঃ রফতানির একটি গুরুত্বপূর্ণ কেন্দ্র হয়ে উঠতে পারে।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
       },
       {
         "headline": "অর্থনৈতিক স্থিতিশীলতা নষ্ট হওয়ার শঙ্কা",
@@ -1490,14 +1497,6 @@
         "summary": "বাংলাদেশ ব্যাংক আজ রোববার এ নিয়ে এক প্রজ্ঞাপন জারি করেছে। এতে নানা শর্ত জুড়ে দেওয়া হয়েছে।",
         "image_s3_key": "prothomalo-bangla/2026-03-07/lin6oq9f/BDBank.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-07/lin6oq9f/BDBank.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ময়মনসিংহে পোশাকশ্রমিক দীপু হত্যা মামলায় আরও এক আসামি গ্রেপ্তার",
-        "url": "https://www.prothomalo.com/bangladesh/district/21j7l178d3",
-        "published_at": "2026-03-15T12:12:13.368000+00:00",
-        "summary": "শনিবার রাতে অভিযান চালিয়ে ভালুকা উপজেলার ডুবালিয়াপাড়া এলাকার পাইওনিয়ার নিটওয়‍্যারস (বিডি) লিমিটেডের ফটকের সামনে থেকে আসামি সোহেল রানাকে গ্রেপ্তার করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-03-15/l3h07z2i/Untitled-11.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-15/l3h07z2i/Untitled-11.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -4399,12 +4398,12 @@
     ],
     "world": [
       {
-        "headline": "মার্কিন বিমানবাহী রণতরিকে সহায়তাকারীদের লক্ষ্যবস্তু করার হুঁশিয়ারি ইরানের\n",
+        "headline": "‘সাহস থাকলে ট্রাম্প তাঁর জাহাজ উপসাগরে পাঠাক’\n",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-15T21:23:55.481000+00:00",
+        "published_at": "2026-03-15T22:32:27.805000+00:00",
         "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_s3_key": "prothomalo-bangla/2026-02-26/69lhqu02/iran-1.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-26/69lhqu02/iran-1.JPG?auto=format,compress"
+        "image_s3_key": "prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/0f29zbq3/Strait-of-harmuz-1.jpg?auto=format,compress"
       },
       {
         "headline": "ইরান যুদ্ধের ওপর নিয়ন্ত্রণ হারিয়েছেন ট্রাম্প: মার্কিন সিনেটর",
@@ -6179,6 +6178,13 @@
         "image_url": "https://media.ndiganta.com/images/mynl_krm.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "ঈদুল ফিতর উপলক্ষে বুড়িমারী স্থলবন্দরে ১১ দিন আমদানি-রফতানি বন্ধ",
+        "url": "https://dailynayadiganta.com/economy/industry-commerce/ForuUELPoiWq/",
+        "published_at": null,
+        "summary": "আগামী ১৭-২৭ মার্চ পর্যন্ত বন্দরে সকল বাণিজ্যিক কার্যক্রম বন্ধ থাকবে। এরপর ২৮ মার্চ থেকে পুনরায় বাণিজ্যিক কার্যক্রম শুরু হবে।",
+        "image_url": "https://media.ndiganta.com/original_images/Burimari.jpg"
+      },
+      {
         "headline": "বিদেশী ব্যাংক গ্যারান্টির বিপরীতে ঋণ সহজ করল বাংলাদেশ ব্যাংক",
         "url": "https://dailynayadiganta.com/economy/banking-insurance/jdEbPCDWEV0C/",
         "published_at": null,
@@ -6205,13 +6211,6 @@
         "published_at": null,
         "summary": "গত বছর একই সময়ে দেশের রেমিট্যান্স প্রবাহ ছিল এক হাজার ৬২৫ মিলিয়ন মার্কিন ডলার।",
         "image_url": "https://media.ndiganta.com/original_images/12_jkITrXK.jpg"
-      },
-      {
-        "headline": "এভিয়েট্যুর ওমেন্স আইকন অ্যাওয়ার্ড পেল ইউএস-বাংলার ৩ নারীকর্মী",
-        "url": "https://dailynayadiganta.com/economy/corporate/NED5vgHXAxxV/",
-        "published_at": null,
-        "summary": "ইউএস-বাংলা এয়ারলাইনস থেকে বেস্ট ট্রেইনার হিসেবে কেবিন সার্ভিস ডিপার্টমেন্টের ম্যানেজার মুক্তা ওয়াহিদ, কাস্টমার সার্ভিস ডিপার্টমেন্টের এসিট্যান্ট ম্যানেজার মৌসুমী আকতার ও সেলস্ অ্যান্ড মার্কেটিং ডিপার্টমেন্টের সিনিয়র এক্সিকিউটিভ ফারহানা ইয়াসমিন স্ব স্ব ক্ষেত্রে অবদানের জন্য পুরস্কৃত হন।",
-        "image_url": "https://media.ndiganta.com/original_images/US_Bangla_r4SKLX3.jpg"
       },
       {
         "headline": "স্বর্ণের দাম কমলো ভরিতে ২১৫৮ টাকা",
@@ -6303,6 +6302,13 @@
         "published_at": "1773488820",
         "summary": "আসন্ন পবিত্র ঈদুল ফিতর উপলক্ষে কেনাকাটার আমেজ এখন তুঙ্গে। নতুন পোশাক ও জুতোর পাশাপাশি ঈদের সাজকে আরও আকর্ষণীয় করতে প্রসাধন সামগ্রীর কেনাকাটায় ব্যস্ত সবাই। তবে উৎসবের এই ব্যস্ততায় ত্বকের যত্নের কথা মনে করিয়ে দিতে দেশের জনপ্রিয় বিউটি প্ল্যাটফর্ম ‘সাজগোজ’ শুরু করেছে বিশেষ ‘ঈদ-উল-ফিতর গিগা সেল’।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-57-20260314114700.jpg"
+      },
+      {
+        "headline": "এভিয়েট্যুর ওমেন্স আইকন অ্যাওয়ার্ড পেল ইউএস-বাংলার ৩ নারীকর্মী",
+        "url": "https://dailynayadiganta.com/economy/corporate/NED5vgHXAxxV/",
+        "published_at": null,
+        "summary": "ইউএস-বাংলা এয়ারলাইনস থেকে বেস্ট ট্রেইনার হিসেবে কেবিন সার্ভিস ডিপার্টমেন্টের ম্যানেজার মুক্তা ওয়াহিদ, কাস্টমার সার্ভিস ডিপার্টমেন্টের এসিট্যান্ট ম্যানেজার মৌসুমী আকতার ও সেলস্ অ্যান্ড মার্কেটিং ডিপার্টমেন্টের সিনিয়র এক্সিকিউটিভ ফারহানা ইয়াসমিন স্ব স্ব ক্ষেত্রে অবদানের জন্য পুরস্কৃত হন।",
+        "image_url": "https://media.ndiganta.com/original_images/US_Bangla_r4SKLX3.jpg"
       },
       {
         "headline": "আজ মূল্যবৃদ্ধির শীর্ষে বারাকা পতেঙ্গা",
@@ -7355,14 +7361,6 @@
         "published_at": null,
         "summary": "বেসরকারি ও পাবলিক লিমিটেড কিন্তু শেয়ারবাজারে তালিকাভুক্ত নয়- এমন কোম্পানিতে অ-নিবাসী বিনিয়োগকারীদের শেয়ার হস্তান্তর এবং বিক্রয়মূল্য প্রত্যাবাসনের প্রক্রিয়াকে আরো সহজ, স্বচ্ছ ও কার্যকর করতে এ সার্কুলার জারি করা হয়েছে।",
         "image_url": "https://media.ndiganta.com/original_images/Bangladesh-Bank_0lvgwAi.jpg"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্রের সঙ্গে বাণিজ্যচুক্তি অসম ও অনৈতিক: মোহাম্মদ হাতেম",
-        "url": "https://www.prothomalo.com/business/economics/fid6tn2hd8",
-        "published_at": "2026-03-08T09:15:34.101000+00:00",
-        "summary": " মাসিক সামষ্টিক অর্থনৈতিক পরিস্থিতি বিশ্লেষণ নিয়ে সেমিনারের আয়োজন করে গবেষণাপ্রতিষ্ঠান পিআরআই।",
-        "image_s3_key": "prothomalo-bangla/2026-03-08/rey70amw/WhatsApp-Image-2026-03-08-at-15.13.35.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-08/rey70amw/WhatsApp-Image-2026-03-08-at-15.13.35.jpeg?auto=format,compress"
       }
     ],
     "sports": [
