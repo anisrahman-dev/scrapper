@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-16T22:29:30.644697+00:00",
+  "fetched_at": "2026-03-16T23:00:35.419034+00:00",
   "stories": [
+    {
+      "headline": "আয়েশার প্রতি নবীজির ভালোবাসা",
+      "url": "https://www.prothomalo.com/religion/islam/lbgpscuaz5",
+      "published_at": "2026-03-16T22:30:00+00:00",
+      "summary": "এই ভালোবাসা কখনো প্রকাশ পেয়েছে মমতাময় আচরণে, কখনো স্নেহমাখা কথায়, আবার কখনো তাঁর প্রতি বিশেষ যত্ন ও গুরুত্ব প্রদানের মাধ্যমে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-16/5332dzhw/pexels-kh-ali-li-7542100.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5332dzhw/pexels-kh-ali-li-7542100.jpg?auto=format,compress"
+    },
     {
       "headline": "কিছু দেশ সহায়তা করতে আগ্রহী নয়, যাদের বহু বছর সাহায্য করেছি: ট্রাম্প",
       "url": "https://www.prothomalo.com/world/5slmsanxj1",
@@ -314,14 +322,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/iyaw24fs/SatkhiraDH055020260316IMG-20260316-WA00631.jpg?auto=format,compress"
     },
     {
-      "headline": "জামালপুরে থানায় নির্মাণাধীন ভবনের ছাদ ধসে ৭ শ্রমিক আহত",
-      "url": "https://www.prothomalo.com/bangladesh/district/m5nondd2a3",
-      "published_at": "2026-03-16T15:52:40.401000+00:00",
-      "summary": "জামালপুরের ইসলামপুর থানার একটি নির্মাণাধীন ভবনের ছাদ ধসে সাত শ্রমিক আহত হয়েছেন। আজ সোমবার বিকেলে ইসলামপুর থানা চত্বরে এ ঘটনা ঘটে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-16/a574a54i/WhatsApp-Image-2026-03-16-at-9.41.53-PM.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/a574a54i/WhatsApp-Image-2026-03-16-at-9.41.53-PM.jpeg?auto=format,compress"
-    },
-    {
       "headline": "রাজধানীর ভাটারায় ৬২০ পিস ইয়াবাসহ দুই মাদক ব্যবসায়ী আটক",
       "url": "https://www.bd-pratidin.com/city-news/2026/03/17/1229112",
       "published_at": "2026-03-17T02:04:36+06:00",
@@ -399,6 +399,34 @@
       "image_url": "https://media.ndiganta.com/original_images/Screenshot_20260315-074044_Chrome.jpg"
     },
     {
+      "headline": "৫ বছরে ২০ হাজার কিলোমিটার খাল খনন করা হবে : বিমানমন্ত্রী",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/Ocx2vUg5gOJw/",
+      "published_at": null,
+      "summary": "সোমবার (১৬ মার্চ) দুপুরে মানিকগঞ্জের দৌলতপুর উপজেলার তালুক হাঁপানিয়া খাল পুনঃখনন কাজের উদ্বোধন অনুষ্ঠানে প্রধান অতিথির বক্তব্যে তিনি এসব কথা বলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Rita_2dkt4Ii.jpg"
+    },
+    {
+      "headline": "নাটোরের মাটিতে কোনো অন্যায় সন্ত্রাস ও চাঁদাবাজি হতে দেব না : হুইপ দুলু",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/IF1xsNA4PNQr/",
+      "published_at": null,
+      "summary": "জেলা আইন-শৃঙ্খলা পরিস্থিতি নিয়ে জেলার বিভিন্ন পর্যায়ের কর্মকর্তাদের সাথে মতবিনিময় সভায় তিনি এসব কথা বলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Dulu_0DPWcEo.jpg"
+    },
+    {
+      "headline": "বগুড়া সদর উপনির্বাচনে বিএনপি-জামায়াতের ভোটের লড়াই শুরু",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/LboKUR2syl53/",
+      "published_at": null,
+      "summary": "আগামী ৯ এপ্রিল (বৃহস্পতিবার) এ আসনের উপনির্বাচনে ভোট গ্রহণ অনুষ্ঠিত হবে।",
+      "image_url": "https://media.ndiganta.com/original_images/bogura-bnp-jamaat.jpg"
+    },
+    {
+      "headline": "সকলের সহযোগিতায় বগুড়াকে আধুনিক জেলা হিসেবে গড়তে চাই",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/RPRwWByUbZKq/",
+      "published_at": null,
+      "summary": "সোমবার (১৬ মার্চ) দুপুর ২টায় জেলা পরিষদ অডিটোরিয়ামে দায়িত্ব গ্রহণের পর জেলা পরিষদ আয়োজিত সংবর্ধনা অনুষ্ঠানে দেয়া বক্তব্যে তিনি এসব কথা বলেন।",
+      "image_url": "https://media.ndiganta.com/original_images/Bogura-administrator.jpg"
+    },
+    {
       "headline": "খাল খননের ফলে সেচ ব্যবস্থায় আমূল পরিবর্তন আসবে : আরিফুল হক চৌধুরী",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/w6OR4J7IlmQb/",
       "published_at": null,
@@ -434,6 +462,49 @@
       "image_url": "https://media.ndiganta.com/original_images/Tarique-Rahman_HqcZwqH.jpg"
     },
     {
+      "headline": "বিআইডব্লিউটিসির নতুন তিনটি জাহাজ উদ্বোধন করলেন নৌপরিবহন মন্ত্রী",
+      "url": "https://dailynayadiganta.com/bangladesh/national/cExxrtUuLvhC/",
+      "published_at": null,
+      "summary": "ঢাকা থেকে হাতিয়া নৌপথে রূপসা ও সুগন্ধা এবং ঢাকা বেতুয়া নৌপথে মধুমতি জাহাজ চলাচল করবে।",
+      "image_url": "https://media.ndiganta.com/original_images/Ship_7qPyQqU.jpg"
+    },
+    {
+      "headline": "খাল খনন প্রকল্পে কৃষি, পরিবেশ ও স্থানীয় অর্থনীতিতে ইতিবাচক প্রভাব পড়বে",
+      "url": "https://dailynayadiganta.com/bangladesh/national/msr2pge2egTy/",
+      "published_at": null,
+      "summary": "‘সরকারের প্রতিটি প্রকল্প যথাযথভাবে ব্যয় নির্ধারণ ও বাজেট বরাদ্দের মাধ্যমে সুপরিকল্পিতভাবে গ্রহণ করা হয়েছে। এসব প্রকল্প বাস্তবায়নে দীর্ঘমেয়াদি পরিকল্পনা নেয়া হয়েছে এবং ধাপে ধাপে তা বাস্তবায়ন করা হবে।’",
+      "image_url": "https://media.ndiganta.com/original_images/Amir_Ok516JL.jpg"
+    },
+    {
+      "headline": "রূপগঞ্জে সাংবাদিককে প্রাণনাশের হুমকির ঘটনায় থানায় জিডি",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/gSuQ7tY1l5ed/",
+      "published_at": null,
+      "summary": "নারায়ণগঞ্জের রূপগঞ্জে সাংবাদিক ফোরামের সভাপতি ও অনলাইন নিউজ পোর্টাল জাগো নিউজের রূপগঞ্জ প্রতিনিধি নাজমুল হুদাকে (৪৬) সন্ত্রাসীরা প্রাণনাশের হুমকি দিয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Rupgonj-Thana_Jjyq1yZ.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - March 17, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "রংপুর সিটি করপোরেশনের নবনিযুক্ত প্রশাসক মাহফুজ উন নবী চৌধুরী ডন বলেছেন, দলীয় পরিচয় বিবেচ্য নয়, দলমত নির্বিশেষে সবার সহযোগিতায় নাগরিকদের ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "জামালপুরে থানায় নির্মাণাধীন ভবনের ছাদ ধসে ৭ শ্রমিক আহত",
+      "url": "https://www.prothomalo.com/bangladesh/district/m5nondd2a3",
+      "published_at": "2026-03-16T15:52:40.401000+00:00",
+      "summary": "জামালপুরের ইসলামপুর থানার একটি নির্মাণাধীন ভবনের ছাদ ধসে সাত শ্রমিক আহত হয়েছেন। আজ সোমবার বিকেলে ইসলামপুর থানা চত্বরে এ ঘটনা ঘটে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-16/a574a54i/WhatsApp-Image-2026-03-16-at-9.41.53-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/a574a54i/WhatsApp-Image-2026-03-16-at-9.41.53-PM.jpeg?auto=format,compress"
+    },
+    {
       "headline": "ফের বার্সার প্রেসিডেন্ট লাপোর্তা",
       "url": "https://dailynayadiganta.com/printed-edition/Y1yUs9bcvLDh/",
       "published_at": null,
@@ -462,27 +533,6 @@
       "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
     },
     {
-      "headline": "বিআইডব্লিউটিসির নতুন তিনটি জাহাজ উদ্বোধন করলেন নৌপরিবহন মন্ত্রী",
-      "url": "https://dailynayadiganta.com/bangladesh/national/cExxrtUuLvhC/",
-      "published_at": null,
-      "summary": "ঢাকা থেকে হাতিয়া নৌপথে রূপসা ও সুগন্ধা এবং ঢাকা বেতুয়া নৌপথে মধুমতি জাহাজ চলাচল করবে।",
-      "image_url": "https://media.ndiganta.com/original_images/Ship_7qPyQqU.jpg"
-    },
-    {
-      "headline": "আমীর খসরুখাল খনন প্রকল্পে কৃষি, পরিবেশ ও স্থানীয় অর্থনীতিতে ইতিবাচক প্রভাব পড়বে",
-      "url": "https://dailynayadiganta.com/bangladesh/national/msr2pge2egTy/",
-      "published_at": null,
-      "summary": "‘সরকারের প্রতিটি প্রকল্প যথাযথভাবে ব্যয় নির্ধারণ ও বাজেট বরাদ্দের মাধ্যমে সুপরিকল্পিতভাবে গ্রহণ করা হয়েছে। এসব প্রকল্প বাস্তবায়নে দীর্ঘমেয়াদি পরিকল্পনা নেয়া হয়েছে এবং ধাপে ধাপে তা বাস্তবায়ন করা হবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Amir_Ok516JL.jpg"
-    },
-    {
-      "headline": "রূপগঞ্জে সাংবাদিককে প্রাণনাশের হুমকির ঘটনায় থানায় জিডি",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/gSuQ7tY1l5ed/",
-      "published_at": null,
-      "summary": "নারায়ণগঞ্জের রূপগঞ্জে সাংবাদিক ফোরামের সভাপতি ও অনলাইন নিউজ পোর্টাল জাগো নিউজের রূপগঞ্জ প্রতিনিধি নাজমুল হুদাকে (৪৬) সন্ত্রাসীরা প্রাণনাশের হুমকি দিয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/Rupgonj-Thana_Jjyq1yZ.jpg"
-    },
-    {
       "headline": "শিক্ষক লাঞ্ছনা : রাজশাহী শাহ্ মখদুম কলেজে অভিযুক্ত ছাত্রের ছাত্রত্ব স্থগিত",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/E2uyKBBxRZRs/",
       "published_at": null,
@@ -509,20 +559,6 @@
       "published_at": null,
       "summary": "বাংলাদেশ ইসলামী ছাত্রশিবির গোয়াইনঘাট সরকারি কলেজ শাখার উদ্যোগে রমজানের তাৎপর্য বিষয়ে আলোচনা সভা ও ইফতার মাহফিল অনুষ্ঠিত হয়েছে।",
       "image_url": "https://media.ndiganta.com/original_images/GoainGhat-Shibir.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 17, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "রংপুর সিটি করপোরেশনের নবনিযুক্ত প্রশাসক মাহফুজ উন নবী চৌধুরী ডন বলেছেন, দলীয় পরিচয় বিবেচ্য নয়, দলমত নির্বিশেষে সবার সহযোগিতায় নাগরিকদের ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "‘আইসিসি ট্রফি কি চুরি করে নিয়ে আসবেন’—পিসিবিকে খোঁচা কামরান আকমলের",
@@ -1464,41 +1500,6 @@
       "published_at": null,
       "summary": "‘আমার মামা লাইটিং ও বাবুর্চির কাজের পাশাপাশি মাঝেমাঝে পাশের এলাকায় গিয়ে শ্রমিক নিয়ে পাহাড় থেকে বালু সংগ্রহ করে তা বিক্রি করতেন।’",
       "image_url": "https://media.ndiganta.com/original_images/Mirsarai-Chattogram-LandSli.jpg"
-    },
-    {
-      "headline": "ঈদে মাঠ প্রশাসনের অভিযোগ গ্রহণে কন্ট্রোল রুম চালু করেছে সরকার",
-      "url": "https://dailynayadiganta.com/bangladesh/national/aNn2yHmlE0LS/",
-      "published_at": null,
-      "summary": "জনস্বার্থে জারি করা এ আদেশ অবিলম্বে কার্যকর হবে বলেও এতে জানানো হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/20_siqylWv.03.25.jpg"
-    },
-    {
-      "headline": "বাংলাদেশ ব্যাংক গভর্নরের সাথে থাইল্যান্ডের রাষ্ট্রদূতের সৌজন্য সাক্ষাৎ",
-      "url": "https://dailynayadiganta.com/economy/banking-insurance/HKt1EXWIF5PU/",
-      "published_at": null,
-      "summary": "সাক্ষাৎকালে বাংলাদেশ ও থাইল্যান্ডের মধ্যকার বিদ্যমান দ্বিপক্ষীয় সম্পর্ক আরো জোরদার করার লক্ষ্যে বিভিন্ন বিষয়ে বিশেষ করে অর্থনৈতিক ও বাণিজ্যিক সহযোগিতা সম্প্রসারণ, বিনিয়োগ বৃদ্ধি এবং প্রাতিষ্ঠানিক সহযোগিতা শক্তিশালী করার বিষয়ে সৌহার্দ্যপূর্ণ আলোচনা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/Mostakur_rA4tnLn.jpg"
-    },
-    {
-      "headline": "ঈদযাত্রা : বিআরটিএর জরুরি নির্দেশনা",
-      "url": "https://dailynayadiganta.com/bangladesh/national/bQM7SelEHlGt/",
-      "published_at": null,
-      "summary": "ঈদুল ফিতরের আগের তিন দিন এবং পরবর্তী তিন দিন অর্থাৎ ১৭ মার্চ হতে ২৩ মার্চ পর্যন্ত মহাসড়কে ট্রাক, কাভার্ডভ্যান ও লরি চলাচল বন্ধ থাকবে।",
-      "image_url": "https://media.ndiganta.com/original_images/BRTA.jpg"
-    },
-    {
-      "headline": "এক মাঠে পুরো গ্রামবাসীর ইফতার",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/OJauySYzeLzY/",
-      "published_at": null,
-      "summary": "ইফতার অনুষ্ঠানের আয়োজন করেন শ্যামপুর গ্রামের জেলে ও মৎস্যজীবী সম্প্রদায়ের মানুষরা।",
-      "image_url": "https://media.ndiganta.com/original_images/Durgapur-Iftar.jpg"
-    },
-    {
-      "headline": "বিএনপির হাত দিয়েই জুলাই সনদ বাস্তবায়ন হবে : শামা ওবায়েদ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/1xRF76tvMzmg/",
-      "published_at": null,
-      "summary": "‘বিএনপি কখনো প্রতিহিংসার রাজনীতি করে না। সকল দল-মত নির্বিশেষে সবাইকে নিয়ে আমরা কাজ করব।’",
-      "image_url": "https://media.ndiganta.com/original_images/Faridpur-Sama-Obayed.jpg"
     }
   ]
 }
