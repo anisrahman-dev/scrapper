@@ -1,7 +1,23 @@
 {
-  "fetched_at": "2026-03-16T23:55:23.072142+00:00",
+  "fetched_at": "2026-03-17T01:31:53.219172+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "অস্কারের আলোচিত ১০ ঘটনা, যত চমক",
+        "url": "https://www.prothomalo.com/entertainment/hollywood/86acc3a5x8",
+        "published_at": "2026-03-17T01:00:00+00:00",
+        "summary": " অস্কারে ঘটেছে নানা ঘটনা, হয়েছে নতুন রেকর্ড—এমন ১০ ঘটনা নিয়েই এ আয়োজন।\n",
+        "image_s3_key": "prothomalo-bangla/2026-03-16/j154c61b/292403-01-02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/j154c61b/292403-01-02.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আজ টিভিতে যা দেখবেন (১৭ মার্চ ২০২৬)",
+        "url": "https://www.prothomalo.com/sports/qux17d30xw",
+        "published_at": "2026-03-17T01:00:00+00:00",
+        "summary": "নারী এশিয়ান কাপের প্রথম সেমিফাইনাল আজ। রাতে আছে চ্যাম্পিয়নস লিগ শেষ ষোলোর দ্বিতীয় লেগের চারটি ম্যাচ।\n",
+        "image_s3_key": "prothomalo-bangla/2026-03-16/0n2m0pl2/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/0n2m0pl2/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg?auto=format,compress"
+      },
       {
         "headline": "কিছু দেশ সহায়তা করতে আগ্রহী নয়, যাদের বহু বছর সাহায্য করেছি: ট্রাম্প",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
@@ -307,22 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-09/dcgag2aa/5578ed40-de29-4c2e-8124-6255cc88e7b9.jfif?auto=format,compress"
       },
       {
-        "headline": "শহীদ ওসমান হাদি হত্যায় ভারতে গ্রেপ্তার ব্যক্তিদের ‘কনসুল্যার অ্যাকসেস’ প্রক্রিয়াধীন: পররাষ্ট্র প্রতিমন্ত্রী",
-        "url": "https://www.prothomalo.com/bangladesh/m3hrio3w2n",
-        "published_at": "2026-03-16T15:57:42.318000+00:00",
-        "summary": "রাশিয়া থেকে তেল কেনা নিয়ে প্রশ্নে তিনি বলেন, কোনো জ্বালানির সংকট এ মুহূর্তে নেই। ভবিষ্যতের পরিকল্পনার জন্য সব দেশের সঙ্গে জ্বালানি মন্ত্রণালয় কথা বলছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-16/4jg20rdl/Shama-Obayed-state-minister-01.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/4jg20rdl/Shama-Obayed-state-minister-01.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ভিজিএফের চাল বিতরণে অনিয়মের অভিযোগ, ১০ কেজির বদলে দেওয়া হয়েছে ৫ কেজি",
-        "url": "https://www.prothomalo.com/bangladesh/district/3l5qspagku",
-        "published_at": "2026-03-16T15:55:13.224000+00:00",
-        "summary": "চাল বিতরণকালে মোশারফ হোসেন নামের এক ইউপি সদস্য ৫ কেজি করে চাল বিতরণের বিষয়টি স্বীকার করেন।",
-        "image_s3_key": "prothomalo-bangla/2026-03-16/iyaw24fs/SatkhiraDH055020260316IMG-20260316-WA00631.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/iyaw24fs/SatkhiraDH055020260316IMG-20260316-WA00631.jpg?auto=format,compress"
-      },
-      {
         "headline": "রাজধানীর ভাটারায় ৬২০ পিস ইয়াবাসহ দুই মাদক ব্যবসায়ী আটক",
         "url": "https://www.bd-pratidin.com/city-news/2026/03/17/1229112",
         "published_at": "2026-03-17T02:04:36+06:00",
@@ -487,7 +487,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 17, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "সিরাজগঞ্জে পুলিশের উচ্চপদস্থ কর্মকর্তা সেজে হোয়াটসঅ্যাপে ব্যবসায়ীদের কাছে ঈদ সম্মানি দাবি করার অভিযোগে তিনজনকে গ্রেফতার করেছে পুলিশ। ...",
+        "summary": "বাংলাদেশে তামাক পণ্যের ওপর কর আরোপ বহু বছর ধরেই সরকারের অন্যতম গুরুত্বপূর্ণ রাজস্ব উৎস।  জাতীয় রাজস্ব বোর্ডের (এনবিআর) তথ্য ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -496,6 +496,22 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "শহীদ ওসমান হাদি হত্যায় ভারতে গ্রেপ্তার ব্যক্তিদের ‘কনসুল্যার অ্যাকসেস’ প্রক্রিয়াধীন: পররাষ্ট্র প্রতিমন্ত্রী",
+        "url": "https://www.prothomalo.com/bangladesh/m3hrio3w2n",
+        "published_at": "2026-03-16T15:57:42.318000+00:00",
+        "summary": "রাশিয়া থেকে তেল কেনা নিয়ে প্রশ্নে তিনি বলেন, কোনো জ্বালানির সংকট এ মুহূর্তে নেই। ভবিষ্যতের পরিকল্পনার জন্য সব দেশের সঙ্গে জ্বালানি মন্ত্রণালয় কথা বলছে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-16/4jg20rdl/Shama-Obayed-state-minister-01.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/4jg20rdl/Shama-Obayed-state-minister-01.jpg?auto=format,compress"
+      },
+      {
+        "headline": "ভিজিএফের চাল বিতরণে অনিয়মের অভিযোগ, ১০ কেজির বদলে দেওয়া হয়েছে ৫ কেজি",
+        "url": "https://www.prothomalo.com/bangladesh/district/3l5qspagku",
+        "published_at": "2026-03-16T15:55:13.224000+00:00",
+        "summary": "চাল বিতরণকালে মোশারফ হোসেন নামের এক ইউপি সদস্য ৫ কেজি করে চাল বিতরণের বিষয়টি স্বীকার করেন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-16/iyaw24fs/SatkhiraDH055020260316IMG-20260316-WA00631.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/iyaw24fs/SatkhiraDH055020260316IMG-20260316-WA00631.jpg?auto=format,compress"
       },
       {
         "headline": "জামালপুরে থানায় নির্মাণাধীন ভবনের ছাদ ধসে ৭ শ্রমিক আহত",
@@ -1487,20 +1503,6 @@
         "published_at": "2026-03-16T18:25:26+06:00",
         "summary": "মার্কিন যুক্তরাষ্ট্র ও ইসরায়েলি বাহিনীর ক্রমাগত হামলায় বিপর্যস্ত হয়ে পড়েছে ইরানের জনজীবন। রাজধানী তেহরানের বাসিন্দারা এখন গভীর হতাশা আর চরম উৎকণ্ঠার মধ্য দিয়ে সময় পার করছেন। যুদ্ধের তৃতীয় সপ্তাহে পদার্পণ করার পর শহরটির পরিস্থিতি ক্রমেই জটিল হয়ে উঠছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/16/og/1773663925-0d40bb7ae83f974d558d659c20876c94.jpg"
-      },
-      {
-        "headline": "ঈদের ছুটিতে মাঠ প্রশাসনের অভিযোগের বিষয়ে ব্যবস্থা নিতে কন্ট্রোল রুম চালু",
-        "url": "https://www.bd-pratidin.com/national/2026/03/16/1228916",
-        "published_at": "2026-03-16T18:23:05+06:00",
-        "summary": "আসন্ন ঈদুল ফিতরের ছুটি উপলক্ষে মাঠ প্রশাসন থেকে প্রাপ্ত অভিযোগ বা তথ্যাদির পরিপ্রেক্ষিতে প্রয়োজনীয় ব্যবস্থা নেওয়ার জন্য কন্ট্রোল রুম চালু করেছে জনপ্রশাসন মন্ত্রণালয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/16/og/1773663784-76c1d501ae8ee94d1ba46f1d9d7eb4b4.jpg"
-      },
-      {
-        "headline": "মিরসরাইয়ে পাহাড় কাটতে গিয়ে বালুচাপায় নিহত ১",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/LQwKCpoUYPHn/",
-        "published_at": null,
-        "summary": "‘আমার মামা লাইটিং ও বাবুর্চির কাজের পাশাপাশি মাঝেমাঝে পাশের এলাকায় গিয়ে শ্রমিক নিয়ে পাহাড় থেকে বালু সংগ্রহ করে তা বিক্রি করতেন।’",
-        "image_url": "https://media.ndiganta.com/original_images/Mirsarai-Chattogram-LandSli.jpg"
       }
     ],
     "bangladesh": [
@@ -7398,6 +7400,14 @@
     ],
     "sports": [
       {
+        "headline": "আজ টিভিতে যা দেখবেন (১৭ মার্চ ২০২৬)",
+        "url": "https://www.prothomalo.com/sports/qux17d30xw",
+        "published_at": "2026-03-17T01:00:00+00:00",
+        "summary": "নারী এশিয়ান কাপের প্রথম সেমিফাইনাল আজ। রাতে আছে চ্যাম্পিয়নস লিগ শেষ ষোলোর দ্বিতীয় লেগের চারটি ম্যাচ।\n",
+        "image_s3_key": "prothomalo-bangla/2026-03-16/0n2m0pl2/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/0n2m0pl2/WhatsApp-Image-2025-09-07-at-18.49.56e919fcaf.jpg?auto=format,compress"
+      },
+      {
         "headline": "ফিনালিসিমা বাতিল হওয়ায় সার্বিয়ার বিপক্ষে প্রীতি ম্যাচ খেলবে স্পেন",
         "url": "https://www.prothomalo.com/sports/football/go5qvblwnd",
         "published_at": "2026-03-16T16:50:00+00:00",
@@ -7710,14 +7720,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-06/h8al9fd3/61209201514446740436871723361402333886856779n.jpg?auto=format,compress"
       },
       {
-        "headline": "লক্ষ্মণ-দ্রাবিড়ের দিনভর ব্যাটিং এবং বিমূঢ় অস্ট্রেলিয়া",
-        "url": "https://www.prothomalo.com/sports/cricket/wr2ms8hw7r",
-        "published_at": "2026-03-14T09:17:39.933000+00:00",
-        "summary": "প্রথম ইনিংসে ২৭৪ রানে পিছিয়ে পড়া ভারত ফলো অন করতে নেমে চতুর্থ উইকেট হারিয়েছিল ২৩২ রানে। সেই ম্যাচও পরে ভিভিএস লক্ষন ও রাহুল দ্রাবিড়ের অবিশ্বাস্য এক জুটিতে অকল্পনীয়ভাবে জিতে গিয়েছিল ভারত। ",
-        "image_s3_key": "prothomalo-bangla/2025-03-14/9w422ki3/101356.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-14/9w422ki3/101356.webp?auto=format,compress"
-      },
-      {
         "headline": "নতুন বাজারের সন্ধানে বাংলাদেশ",
         "url": "https://dailynayadiganta.com/printed-edition/Fmt5NQuhCkYp/",
         "published_at": null,
@@ -7856,6 +7858,14 @@
         "published_at": "1773594078",
         "summary": "ঢাকার মিরপুর শেরেবাংলা জাতীয় ক্রিকেট স্টেডিয়ামে আজ ইতিহাস লিখল বাংলাদেশ। শ্বাসরুদ্ধকর এক লড়াইয়ে পাকিস্তানকে ১১ রানে হারিয়ে ওয়ানডে সিরিজ নিজেদের করে নিয়েছে নাজমুল হোসেন শান্তর দল। তানজিদ হাসান তামিমের নান্দনিক সেঞ্চুরি এবং বোলারদের নিয়ন্ত্রিত পারফরম্যান্সে ভর করে পাকিস্তান বধের এই মহাকাব্য পূর্ণতা পেল আজ। শেষ ওভারের রোমাঞ্চ আর গ্যালারিভর্তি দর্শকের গগনবিদারি চিৎকারে মিরপুর আজ হয়ে উঠেছিল এক টুকরো আনন্দপুরী। এই জয়ের ফলে তিন ম্যাচের ওয়ানডে সিরিজটি ২,১ ব্যবধানে জিতে নিল বাংলাদেশ।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/112092857-20260315170118.jpg"
+      },
+      {
+        "headline": "লক্ষ্মণ-দ্রাবিড়ের দিনভর ব্যাটিং এবং বিমূঢ় অস্ট্রেলিয়া",
+        "url": "https://www.prothomalo.com/sports/cricket/wr2ms8hw7r",
+        "published_at": "2026-03-14T09:17:39.933000+00:00",
+        "summary": "প্রথম ইনিংসে ২৭৪ রানে পিছিয়ে পড়া ভারত ফলো অন করতে নেমে চতুর্থ উইকেট হারিয়েছিল ২৩২ রানে। সেই ম্যাচও পরে ভিভিএস লক্ষন ও রাহুল দ্রাবিড়ের অবিশ্বাস্য এক জুটিতে অকল্পনীয়ভাবে জিতে গিয়েছিল ভারত। ",
+        "image_s3_key": "prothomalo-bangla/2025-03-14/9w422ki3/101356.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-14/9w422ki3/101356.webp?auto=format,compress"
       },
       {
         "headline": "লাপোর্তা ৫ বছরের জন্য বার্সেলোনার সভাপতি পুন:নির্বাচিত",
@@ -8896,16 +8906,17 @@
         "published_at": null,
         "summary": "ধারণা করা হচ্ছে- ফিটনেসের ব্যাপারে কোচকে আশ্বস্ত করতে না পারলে চূড়ান্ত দলে জায়গা হবে না এই তারকা ফরোয়ার্ডের।",
         "image_url": "https://media.ndiganta.com/original_images/Neymar_jwQYhWK.jpg"
-      },
-      {
-        "headline": "লিটন দাসের সাথে চুক্তি নবায়ন ভারতীয় প্রতিষ্ঠানের",
-        "url": "https://dailynayadiganta.com/sports/cricket/JKSBDOvnFGoL/",
-        "published_at": null,
-        "summary": "এই মুহূর্তে ভারত-বাংলাদেশের সম্পর্ক খানিকটা উন্নতি হয়েছে। যার ফলে স্থগিতাদেশ প্রত্যাহার করেছে এসজি। লিটনের সাথে আনুষ্ঠানিকভাবে আরো এক মেয়াদে চুক্তি নবায়ন করেছে তারা।",
-        "image_url": "https://media.ndiganta.com/original_images/liton-das_UqhB7hj.jpg"
       }
     ],
     "entertainment": [
+      {
+        "headline": "অস্কারের আলোচিত ১০ ঘটনা, যত চমক",
+        "url": "https://www.prothomalo.com/entertainment/hollywood/86acc3a5x8",
+        "published_at": "2026-03-17T01:00:00+00:00",
+        "summary": " অস্কারে ঘটেছে নানা ঘটনা, হয়েছে নতুন রেকর্ড—এমন ১০ ঘটনা নিয়েই এ আয়োজন।\n",
+        "image_s3_key": "prothomalo-bangla/2026-03-16/j154c61b/292403-01-02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/j154c61b/292403-01-02.jpg?auto=format,compress"
+      },
       {
         "headline": "‘ওয়ান ব্যাটল’-এর রাত' আর কী হলো অস্কারে",
         "url": "https://www.prothomalo.com/entertainment/hollywood/xnl50lrj1q",
@@ -9219,14 +9230,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-04/jr5kecsg/MV5BZDYwMjEyZjAtNTFlMS00NzgwLWI3ZTktY2UxYjI2YTAwODE4XkEyXkFqcGc.V1.jpg?auto=format,compress"
       },
       {
-        "headline": "কে এ শিশু? আজ বলিউডের জনপ্রিয় নায়ক তিনি",
-        "url": "https://www.prothomalo.com/entertainment/bollywood/p3ug9b8ro3",
-        "published_at": "2026-03-14T04:30:00+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2024-03/47fbe673-9945-4277-a940-b08d69059e96/WhatsApp_Image_2024_03_14_at_11_07_09_AM.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-03/47fbe673-9945-4277-a940-b08d69059e96/WhatsApp_Image_2024_03_14_at_11_07_09_AM.jpeg?auto=format,compress"
-      },
-      {
         "headline": "রাজধানীর ভাটারায় ৬২০ পিস ইয়াবাসহ দুই মাদক ব্যবসায়ী আটক",
         "url": "https://www.bd-pratidin.com/city-news/2026/03/17/1229112",
         "published_at": "2026-03-17T02:04:36+06:00",
@@ -9435,6 +9438,14 @@
         "published_at": "1772711902",
         "summary": "সংবাদপাঠিকা থেকে চলচ্চিত্রে নাম লেখানো চিত্রনায়িকা শবনম বুবলী আবারও আলোচনায়। সম্প্রতি তাকে নিয়ে নতুন করে গুঞ্জন ছড়িয়েছে তিনি নাকি দ্বিতীয় সন্তানের জন্ম দিতে যুক্তরাষ্ট্রে গেছেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-05T175813316-20260305115822.jpg"
+      },
+      {
+        "headline": "কে এ শিশু? আজ বলিউডের জনপ্রিয় নায়ক তিনি",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/p3ug9b8ro3",
+        "published_at": "2026-03-14T04:30:00+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2024-03/47fbe673-9945-4277-a940-b08d69059e96/WhatsApp_Image_2024_03_14_at_11_07_09_AM.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-03/47fbe673-9945-4277-a940-b08d69059e96/WhatsApp_Image_2024_03_14_at_11_07_09_AM.jpeg?auto=format,compress"
       },
       {
         "headline": "এল ‘রাক্ষস’–এর ট্রেলার",
@@ -10356,13 +10367,6 @@
         "published_at": "2026-03-15T16:28:54+06:00",
         "summary": "পানিসম্পদ মন্ত্রী মো. শহীদউদ্দীন চৌধুরী এ্যানি বলেছেন, খাল খনন কর্মসূচিতে দুর্নীতির প্রশ্নে সরকার জিরো টলারেন্স নীতি থাকবে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/15/og/1773570534-5be63360dd2458cf1c155fc06d750e71.jpg"
-      },
-      {
-        "headline": "নোয়াখালীতে কুরআন তেলাওয়াত প্রতিযোগিতা অনুষ্ঠিত",
-        "url": "https://www.bd-pratidin.com/country/2026/03/15/1228500",
-        "published_at": "2026-03-15T16:27:16+06:00",
-        "summary": "পবিত্র রমজান উপলক্ষে নোয়াখালীর সদর উপজেলার ধর্মপুর ইউনিয়নে কুরআন তেলাওয়াত প্রতিযোগিতা অনুষ্ঠিত হয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/15/og/1773570435-a863655add6e085f3c6c87a136693056.jpg"
       }
     ],
     "jobs": [
@@ -10831,7 +10835,7 @@
         "url": "https://www.jugantor.com/state-org",
         "published_at": null,
         "summary": "ঢাকা স্টক এক্সচেঞ্জ পিএলসিতে ‘কোম্পানি সেক্রেটারি’ পদে জনবল নিয়োগ দেওয়া হবে। প্রার্থীকে অবশ্যই স্নাতকোত্তর অথবা সমমান ডিগ্রিধারী হতে হবে। আগ্রহীরা ...",
-        "image_url": "https://www.jugantor.com/uploads/settings/thumbnail.jpg"
+        "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
       },
       {
         "headline": "আন্তর্জাতিক প্রতিষ্ঠান",
