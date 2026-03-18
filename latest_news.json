@@ -1,8 +1,16 @@
 {
-  "fetched_at": "2026-03-18T22:32:22.320596+00:00",
+  "fetched_at": "2026-03-18T23:01:24.994775+00:00",
   "stories": [
     {
-      "headline": "আফ্রিকার ‘প্রথম’ সালাহকে নিয়ে কোয়ার্টার ফাইনালে লিভারপুল",
+      "headline": "নানা দেশের সাহিত্যে রমজানের জীবন–ক্যানভাস",
+      "url": "https://www.prothomalo.com/religion/islam/pztypg63qz",
+      "published_at": "2026-03-18T22:30:00+00:00",
+      "summary": "ইরানি সাহিত্যে রোজাকে তুলনা করা হয়েছে এমন এক প্রদীপের সঙ্গে, যা নফসের অন্ধকার দূর করে এবং এমন এক নদীর সঙ্গে, যা আত্মার সব কলুষতা ধুয়ে দেয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-17/95ourxad/মিশর–সংগৃহীত.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/95ourxad/মিশর–সংগৃহীত.webp?auto=format,compress"
+    },
+    {
+      "headline": "সালাহ ও কেইন ‘প্রথম’, বায়ার্ন পেল রিয়ালকে, পিএসজিকে পেল লিভারপুল",
       "url": "https://www.prothomalo.com/sports/football/xrlzb53bmc",
       "published_at": "2026-03-18T22:02:50.082000+00:00",
       "summary": "চ্যাম্পিয়নস লিগ শেষ ষোলো ফিরতি লেগে গালাতাসারাইকে বড় ব্যবধানে হারিয়ে কোয়ার্টার ফাইনালে উঠেছে লিভারপুল।",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9tdyip7r/040A8194.JPG?auto=format,compress"
     },
     {
-      "headline": "সংবিধান সংস্কার পরিষদ নিয়ে সংসদে বিতর্ক কেন",
-      "url": "https://www.prothomalo.com/opinion/column/5hf9sn670l",
-      "published_at": "2026-03-18T15:00:00+00:00",
-      "summary": "খোদ সংবিধান নিয়েই যদি মানুষের অসন্তোষ তৈরি হয়, তখন পরিবর্তনের বৈধতা কোথা থেকে আসবে? ",
-      "image_s3_key": "prothomalo-bangla/2026-03-18/48dj7cpy/Perlament.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-18/48dj7cpy/Perlament.png?auto=format,compress"
-    },
-    {
       "headline": "বগুড়ায় সড়ক দুর্ঘটনায় বেঁচে যাওয়া শিশুর চিকিৎসার দায়িত্ব নিলেন প্রধানমন্ত্রী",
       "url": "https://www.bd-pratidin.com/national/2026/03/19/1229867",
       "published_at": "2026-03-19T01:51:19+06:00",
@@ -498,7 +498,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 19, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "পার্বত্য চট্টগ্রাম বিষয়ক মন্ত্রণালয়ের মন্ত্রী দীপেন দেওয়ান বলেছেন, রাজনীতিতে কোনো হিংসা থাকতে নেই, কোনো প্রতিহিংসাও থাকতে পারে না ...",
+      "summary": "ইরানের আইআরজিসি হুঁশিয়ারি দিয়েছে, নিজেদের জ্বালানি খাতে আবার হামলা হলে উপসাগরীয় দেশগুলোর তেল-গ্যাস অবকাঠামো গুঁড়িয়ে দেওয়া হবে। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -507,6 +507,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "সংবিধান সংস্কার পরিষদ নিয়ে সংসদে বিতর্ক কেন",
+      "url": "https://www.prothomalo.com/opinion/column/5hf9sn670l",
+      "published_at": "2026-03-18T15:00:00+00:00",
+      "summary": "খোদ সংবিধান নিয়েই যদি মানুষের অসন্তোষ তৈরি হয়, তখন পরিবর্তনের বৈধতা কোথা থেকে আসবে? ",
+      "image_s3_key": "prothomalo-bangla/2026-03-18/48dj7cpy/Perlament.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-18/48dj7cpy/Perlament.png?auto=format,compress"
     },
     {
       "headline": "বাসে উঠতে না পেরে অনেকেই ট্রাক-পিকআপ ভ্যানে বাড়ি যাচ্ছেন",
@@ -1509,14 +1517,6 @@
       "summary": "সড়কে গাড়ির সংখ্যা কম থাকায় যান চলাচল ছিল স্বাভাবিক ও দ্রুতগতির। গুরুত্বপূর্ণ পয়েন্টগুলোতে কোনো যানজট দেখা যায়নি।",
       "image_s3_key": "prothomalo-bangla/2026-03-18/uwk580h5/narayangonjbus-counter.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-18/uwk580h5/narayangonjbus-counter.jpg?auto=format,compress"
-    },
-    {
-      "headline": "‘আমার স্বামীকে কে, কেন, কীভাবে মারল?’",
-      "url": "https://www.prothomalo.com/bangladesh/y556tirtrx",
-      "published_at": "2026-03-18T08:12:56.826000+00:00",
-      "summary": "কৃষিবিদ মোহাম্মদ শহিদুল ইসলামের লাশ পাওয়া গেছে মাদারীপুরের শিবচরে। তাঁর দুই শিশুসন্তান বাবাকে ছাড়া প্রথম ঈদ করতে যাচ্ছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-17/snsmnfk2/shahidul-islam-patuakhali-170326-00.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/snsmnfk2/shahidul-islam-patuakhali-170326-00.jpeg?auto=format,compress"
     }
   ]
 }
