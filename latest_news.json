@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-19T20:45:30.172398+00:00",
+  "fetched_at": "2026-03-19T21:32:27.779759+00:00",
   "stories": [
     {
-      "headline": "ইরানের ক্ষেপণাস্ত্র হামলায় ইসরায়েলের তেল শোধনাগারে অগ্নিকাণ্ড",
+      "headline": "ইরানের আর ইউরেনিয়াম সমৃদ্ধ করার সক্ষমতা নেই: নেতানিয়াহু",
       "url": "https://www.prothomalo.com/world/5slmsanxj1",
-      "published_at": "2026-03-19T20:39:38.696000+00:00",
+      "published_at": "2026-03-19T20:58:23.282000+00:00",
       "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
       "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
@@ -282,14 +282,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/87x9qqw3/BARTA-SHONKHEP.jpg?auto=format,compress"
     },
     {
-      "headline": "টাওয়ার হ্যামলেটসে ভোটের আগে মেয়র লুৎফুর রহমানের ওপর বাড়তি চাপ",
-      "url": "https://www.prothomalo.com/world/europe/ovkltoo6ry",
-      "published_at": "2026-03-19T13:40:05.048000+00:00",
-      "summary": "কাউন্সিলের উন্নয়ন কার্যক্রমে গতি আনতে বাড়তি ক্ষমতা দেওয়া হয়েছে সরকারের পক্ষ থেকে নিযুক্ত প্রতিনিধিদের।",
-      "image_s3_key": "prothomalo-bangla/2026-03-19/p12lubm4/Thamm.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/p12lubm4/Thamm.jpg?auto=format,compress"
-    },
-    {
       "headline": "সৌদিতে নিহত মোশাররফের মরদেহ ঢাকায় পৌঁছাবে শুক্রবার",
       "url": "https://www.bd-pratidin.com/national/2026/03/20/1230065",
       "published_at": "2026-03-20T01:17:32+06:00",
@@ -440,7 +432,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 20, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "তথ্য ও সম্প্রচার মন্ত্রী জহির উদ্দিন স্বপন এমপি বলেছেন, বাংলাদেশ টেলিভিশন এতো বড় একটি প্রতিষ্ঠান। যেই প্রতিষ্ঠানের প্রতি মানুষের আস্থা ...",
+      "summary": "মাহে রমজান উপলক্ষে নেত্রকোনার কলমাকান্দায় গণ ইফতার ও দোয়া মাহফিল অনুষ্ঠিত হয়েছে। এই অনুষ্ঠানে প্রধান অতিথি হিসেবে উপস্থিত ছিলেন ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -449,6 +441,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "টাওয়ার হ্যামলেটসে ভোটের আগে মেয়র লুৎফুর রহমানের ওপর বাড়তি চাপ",
+      "url": "https://www.prothomalo.com/world/europe/ovkltoo6ry",
+      "published_at": "2026-03-19T13:40:05.048000+00:00",
+      "summary": "কাউন্সিলের উন্নয়ন কার্যক্রমে গতি আনতে বাড়তি ক্ষমতা দেওয়া হয়েছে সরকারের পক্ষ থেকে নিযুক্ত প্রতিনিধিদের।",
+      "image_s3_key": "prothomalo-bangla/2026-03-19/p12lubm4/Thamm.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/p12lubm4/Thamm.jpg?auto=format,compress"
     },
     {
       "headline": "রোনালদোর চেয়ে কত ম্যাচ কম খেলে ৯০০ গোল করলেন মেসি?",
