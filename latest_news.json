@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-19T22:24:01.724866+00:00",
+  "fetched_at": "2026-03-19T22:58:19.926362+00:00",
   "stories": [
+    {
+      "headline": "রোজা ও ঈদের অন্তর্নিহিত রহস্য",
+      "url": "https://www.prothomalo.com/religion/islam/mwme7vxswt",
+      "published_at": "2026-03-19T22:30:00+00:00",
+      "summary": "পরিশ্রম ও সংযমের মাস শেষ হওয়ার পর আসে ঈদ। সেই দিন হঠাৎ সব নিয়মকানুন পাল্টে যায়। আগে যেখানে রোজা রাখা ফরজ ছিল, সেখানে ঈদের দিনে রোজা রাখা হারাম।",
+      "image_s3_key": "prothomalo-bangla/2026-03-17/1n72bc9g/top-view-islamic-new-year-decorative-elements.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/1n72bc9g/top-view-islamic-new-year-decorative-elements.jpg?auto=format,compress"
+    },
     {
       "headline": "রবিউস সামসের পাশে দাঁড়ানোর অনুরোধ",
       "url": "https://www.prothomalo.com/bangladesh/1lgpgdzk2m",
@@ -274,14 +282,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/nbpepg4f/Info.jpg?auto=format,compress"
     },
     {
-      "headline": "মধ্যপ্রাচ্য যুদ্ধের ধাক্কা: বল–সংকটে পড়েছে ইংল্যান্ড ক্রিকেট বোর্ড",
-      "url": "https://www.prothomalo.com/sports/cricket/bddsrqpnix",
-      "published_at": "2026-03-19T13:57:52.495000+00:00",
-      "summary": "বিমান চলাচল সীমিত হওয়ায় সপ্তাহখানেক ভারতে আটকে ছিল ওয়েস্ট ইন্ডিজ। এবার যুদ্ধের উত্তেজনা টের পাচ্ছে ইংল্যান্ড ও ওয়েলস ক্রিকেট বোর্ডও।",
-      "image_s3_key": "prothomalo-bangla/2026-03-19/2b4v6sx8/782117-01-02.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/2b4v6sx8/782117-01-02.jpg?auto=format,compress"
-    },
-    {
       "headline": "সৌদিতে নিহত মোশাররফের মরদেহ ঢাকায় পৌঁছাবে শুক্রবার",
       "url": "https://www.bd-pratidin.com/national/2026/03/20/1230065",
       "published_at": "2026-03-20T01:17:32+06:00",
@@ -441,6 +441,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "মধ্যপ্রাচ্য যুদ্ধের ধাক্কা: বল–সংকটে পড়েছে ইংল্যান্ড ক্রিকেট বোর্ড",
+      "url": "https://www.prothomalo.com/sports/cricket/bddsrqpnix",
+      "published_at": "2026-03-19T13:57:52.495000+00:00",
+      "summary": "বিমান চলাচল সীমিত হওয়ায় সপ্তাহখানেক ভারতে আটকে ছিল ওয়েস্ট ইন্ডিজ। এবার যুদ্ধের উত্তেজনা টের পাচ্ছে ইংল্যান্ড ও ওয়েলস ক্রিকেট বোর্ডও।",
+      "image_s3_key": "prothomalo-bangla/2026-03-19/2b4v6sx8/782117-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/2b4v6sx8/782117-01-02.jpg?auto=format,compress"
     },
     {
       "headline": "অপেরা হাউসের অনুষ্ঠান যোগ দিতে সিডনিতে পৌঁছেছেন স্থপতি রফিক আজম",
@@ -1497,13 +1505,6 @@
       "published_at": null,
       "summary": "এ  উপলক্ষে  জন্মস্থান বরিশালের গৌরনদী ও ঢাকার ধানমন্ডির বাসভবনে আজ (১৯ মার্চ) নানা কর্মসূচি হাতে নেয়া হয়েছে।",
       "image_url": "https://media.ndiganta.com/original_images/Gournadi-19-3.jpg"
-    },
-    {
-      "headline": "বোরহানউদ্দিনে জামায়াতের উদ্যোগে ৩১০০ পরিবারের মাঝে ঈদ সামগ্রী বিতরণ",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/Cqv8ZTRFpsDc/",
-      "published_at": null,
-      "summary": "‘পবিত্র ঈদুল ফিতর মুসলমানদের জন্য আনন্দের বার্তা নিয়ে আসে। কিন্তু সমাজের অনেক অসহায় মানুষ আর্থিক সঙ্কটের কারণে সেই আনন্দ থেকে বঞ্চিত হন। তাদের মুখে হাসি ফোটাতে এবং ঈদের আনন্দ সবার মাঝে ছড়িয়ে দিতে আমাদের এই ক্ষুদ্র উদ্যোগ।",
-      "image_url": "https://media.ndiganta.com/original_images/Bhola-Jamaat-Eid-Goods.jpg"
     }
   ]
 }
