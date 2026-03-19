@@ -1,13 +1,21 @@
 {
-  "fetched_at": "2026-03-19T21:32:27.779759+00:00",
+  "fetched_at": "2026-03-19T21:59:27.998782+00:00",
   "stories": [
     {
-      "headline": "ইরানের আর ইউরেনিয়াম সমৃদ্ধ করার সক্ষমতা নেই: নেতানিয়াহু",
+      "headline": "ইরানের ক্ষেপণাস্ত্র হামলায় ইসরায়েলের তেল শোধনাগারে অগ্নিকাণ্ড",
       "url": "https://www.prothomalo.com/world/5slmsanxj1",
-      "published_at": "2026-03-19T20:58:23.282000+00:00",
+      "published_at": "2026-03-19T21:46:20.309000+00:00",
       "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
       "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "শাকিব, সিয়াম, নিশো থেকে রাজ—ঈদের সিনেমা দিয়ে কে এগিয়ে যাবেন",
+      "url": "https://www.prothomalo.com/entertainment/ra7gs1fejk",
+      "published_at": "2026-03-19T21:30:00+00:00",
+      "summary": "কে এগিয়ে যাবেন—শাকিব, সিয়াম, রাজ নাকি নিশো? কারণ, এই সময়ের চাহিদায় ঢালিউডের বড় চার তারকার সিনেমা ঈদে মুক্তি পাচ্ছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-14/nrc5z4am/651761458_122123211051093830_1414428234223368933_n.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-14/nrc5z4am/651761458_122123211051093830_1414428234223368933_n.jpg?auto=format,compress"
     },
     {
       "headline": "ফ্রেঞ্চ ফ্রাই পেঁয়াজুর রেসিপি",
@@ -274,14 +282,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/jafkrbpt/1000746913.jpg?auto=format,compress"
     },
     {
-      "headline": "ঈদযাত্রায় গাজীপুরে তীব্র যানজট, ভোগান্তিতে ঘরমুখী মানুষ",
-      "url": "https://www.prothomalo.com/video/bangladesh/dg4prvmx1g",
-      "published_at": "2026-03-19T13:46:19.197000+00:00",
-      "summary": "ঈদযাত্রায় গাজীপুরে তীব্র যানজট, ভোগান্তিতে ঘরমুখী মানুষ",
-      "image_s3_key": "prothomalo-bangla/2026-03-19/87x9qqw3/BARTA-SHONKHEP.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/87x9qqw3/BARTA-SHONKHEP.jpg?auto=format,compress"
-    },
-    {
       "headline": "সৌদিতে নিহত মোশাররফের মরদেহ ঢাকায় পৌঁছাবে শুক্রবার",
       "url": "https://www.bd-pratidin.com/national/2026/03/20/1230065",
       "published_at": "2026-03-20T01:17:32+06:00",
@@ -441,6 +441,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ঈদযাত্রায় গাজীপুরে তীব্র যানজট, ভোগান্তিতে ঘরমুখী মানুষ",
+      "url": "https://www.prothomalo.com/video/bangladesh/dg4prvmx1g",
+      "published_at": "2026-03-19T13:46:19.197000+00:00",
+      "summary": "ঈদযাত্রায় গাজীপুরে তীব্র যানজট, ভোগান্তিতে ঘরমুখী মানুষ",
+      "image_s3_key": "prothomalo-bangla/2026-03-19/87x9qqw3/BARTA-SHONKHEP.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/87x9qqw3/BARTA-SHONKHEP.jpg?auto=format,compress"
     },
     {
       "headline": "টাওয়ার হ্যামলেটসে ভোটের আগে মেয়র লুৎফুর রহমানের ওপর বাড়তি চাপ",
@@ -1495,13 +1503,6 @@
       "published_at": null,
       "summary": "বৃহস্পতিবার সকালে ঢাকা মেট্রোপলিটন পুলিশের (ডিএমপি) মিডিয়া অ্যান্ড পাবলিক রিলেশন্স বিভাগের উপপুলিশ কমিশনার মুহাম্মদ তালেবুর রহমান এ তথ্য নিশ্চিত করেছেন।",
       "image_url": "https://media.ndiganta.com/original_images/shahid-minar-murder-briefing-police.jpg"
-    },
-    {
-      "headline": "ঈদ উপলক্ষে দেশব্যাপী নিরাপত্তা ব্যবস্থা জোরদার করেছে র‌্যাব",
-      "url": "https://dailynayadiganta.com/bangladesh/national/gDpBf2hJjjSE/",
-      "published_at": null,
-      "summary": "এতে বলা হয়, পবিত্র ঈদুল ফিতর উপলক্ষে র‌্যাব ফোর্সেসর ভারপ্রাপ্ত মহাপরিচালক কর্নেল ইফতেখার আহমেদ আজ জাতীয় ঈদগাহ ও গাবতলী বাস টার্মিনাল পরিদর্শন করেছেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Rab.jpg"
     }
   ]
 }
