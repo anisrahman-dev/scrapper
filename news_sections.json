@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-03-20T20:27:57.797201+00:00",
+  "fetched_at": "2026-03-20T20:59:34.135259+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "ইরানে হামলায় মার্কিন বাহিনীকে নিজেদের ঘাঁটি ব্যবহারের অনুমতি যুক্তরাজ্যের",
+        "url": "https://www.prothomalo.com/world/5slmsanxj1",
+        "published_at": "2026-03-20T20:37:17.890000+00:00",
+        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
+      },
       {
         "headline": "সংবাদ সংস্থা ইউএনআইয়ের কার্যালয় সিল করল দিল্লি পুলিশ",
         "url": "https://www.prothomalo.com/world/india/hbr059xgta",
@@ -9,14 +17,6 @@
         "summary": "হাইকোর্টের আদেশের কথা বলে নয়াদিল্লিতে সংবাদ সংস্থা ইউএনআইয়ের কার্যালয় সিল করে দিয়েছে পুলিশ। এই ঘটনাকে গণমাধ্যমের স্বাধীনতার ওপর আঘাত বলছে সংবাদমাধ্যমটি।",
         "image_s3_key": "prothomalo-bangla/2026-03-20/fmbdnyo2/UNI.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/fmbdnyo2/UNI.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ইরানে হামলায় মার্কিন বাহিনীকে নিজেদের ঘাঁটি ব্যবহারের অনুমতি যুক্তরাজ্যের",
-        "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-20T18:19:10.941000+00:00",
-        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
       },
       {
         "headline": "হাতিরঝিলে গল্প করছিল বন্ধুরা, বখাটের ছুরিকাঘাতে একজন নিহত",
@@ -464,7 +464,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 21, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "ইরান যুদ্ধের মাঝে বারবার হামলার মুখে ইরাক থেকে প্রায় সব কর্মী সরিয়ে নিয়েছে ন্যাটো। কর্মীরা এখন ইতালির নেপলস থেকে কাজ ...",
+        "summary": "ইরান যুদ্ধের মাঝে যুক্তরাষ্ট্র ও ইরান দুজনের অনুরোধই ফিরিয়ে দিয়েছে শ্রীলঙ্কা। নিরপেক্ষতা রক্ষায় বিমানবন্দরে যুদ্ধবিমান নামাতে দেয়নি কলম্বো। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -4413,20 +4413,20 @@
     ],
     "world": [
       {
+        "headline": "ইরানে হামলায় মার্কিন বাহিনীকে নিজেদের ঘাঁটি ব্যবহারের অনুমতি যুক্তরাজ্যের",
+        "url": "https://www.prothomalo.com/world/5slmsanxj1",
+        "published_at": "2026-03-20T20:37:17.890000+00:00",
+        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
+      },
+      {
         "headline": "সংবাদ সংস্থা ইউএনআইয়ের কার্যালয় সিল করল দিল্লি পুলিশ",
         "url": "https://www.prothomalo.com/world/india/hbr059xgta",
         "published_at": "2026-03-20T20:17:41.238000+00:00",
         "summary": "হাইকোর্টের আদেশের কথা বলে নয়াদিল্লিতে সংবাদ সংস্থা ইউএনআইয়ের কার্যালয় সিল করে দিয়েছে পুলিশ। এই ঘটনাকে গণমাধ্যমের স্বাধীনতার ওপর আঘাত বলছে সংবাদমাধ্যমটি।",
         "image_s3_key": "prothomalo-bangla/2026-03-20/fmbdnyo2/UNI.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/fmbdnyo2/UNI.jpg?auto=format,compress"
-      },
-      {
-        "headline": "ইরানে হামলায় মার্কিন বাহিনীকে নিজেদের ঘাঁটি ব্যবহারের অনুমতি যুক্তরাজ্যের",
-        "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-20T18:19:10.941000+00:00",
-        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
       },
       {
         "headline": "মধ্যপ্রাচ্যে উভচর যুদ্ধজাহাজ ও অতিরিক্ত সেনা মোতায়েন হচ্ছে, কী পরিকল্পনা যুক্তরাষ্ট্রের",
