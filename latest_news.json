@@ -1,13 +1,21 @@
 {
-  "fetched_at": "2026-03-20T22:24:04.376903+00:00",
+  "fetched_at": "2026-03-20T22:57:02.207454+00:00",
   "stories": [
     {
       "headline": "ইরানে হামলায় মার্কিন বাহিনীকে নিজেদের ঘাঁটি ব্যবহারের অনুমতি যুক্তরাজ্যের",
       "url": "https://www.prothomalo.com/world/5slmsanxj1",
-      "published_at": "2026-03-20T21:58:57.730000+00:00",
+      "published_at": "2026-03-20T22:53:15.506000+00:00",
       "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
       "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ঈদের দিনে কী করব, কী করব না",
+      "url": "https://www.prothomalo.com/religion/islam/guqgw8bhml",
+      "published_at": "2026-03-20T22:30:00+00:00",
+      "summary": "ঈদের দিনে রোজা রাখা নিষিদ্ধ। এটি আল্লাহর পক্ষ থেকে মেহমানদারির দিন। মহানবী (সা.) ঈদুল ফিতর ও ঈদুল আজহার দিনে রোজা রাখতে বিশেষভাবে নিষেধ করেছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-17/k87dkt2y/sunlit-mosque-palm-trees-illustration.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/k87dkt2y/sunlit-mosque-palm-trees-illustration.jpg?auto=format,compress"
     },
     {
       "headline": "সংবাদ সংস্থা ইউএনআইয়ের কার্যালয় সিল করল দিল্লি পুলিশ",
@@ -298,14 +306,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/l9eilcez/SUNAMGANJD১.JPG?auto=format,compress"
     },
     {
-      "headline": "যুদ্ধ চড়িয়েছে জ্বালানির দাম, চাপে যুক্তরাষ্ট্রের মানুষ",
-      "url": "https://www.prothomalo.com/world/usa/w35cxuvlej",
-      "published_at": "2026-03-20T13:25:54.258000+00:00",
-      "summary": "মধ্যপ্রাচ্যে যুক্তরাষ্ট্রের শুরু করা যুদ্ধের প্রভাব এখন দেশটিতেও পড়তে শুরু করেছে। যুদ্ধের কারণে জ্বালানির দাম বেড়েছে, তাতে গৃহস্থালিতে ব্যয় বাড়িয়ে চাপে ফেলেছে দেশটির নাগরিকদের।",
-      "image_s3_key": "prothomalo-bangla/2026-03-20/7gafp8gh/Untitled-2.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/7gafp8gh/Untitled-2.jpg?auto=format,compress"
-    },
-    {
       "headline": "ঈদের দ্বিতীয় দিনে ‘তারায় তারায়’ পূর্ণিমা",
       "url": "https://www.bd-pratidin.com/entertainment/2026/03/21/1230253",
       "published_at": "2026-03-21T02:02:53+06:00",
@@ -463,7 +463,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 21, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "ন্যাটো মিত্রদের 'কাপুরুষ' বললেন ট্রাম্প, হরমুজ প্রণালি খুলতে সহায়তা না করায় ক্ষোভ, যুক্তরাজ্য অবশেষে মার্কিন ঘাঁটি ব্যবহারের অনুমতি দিল। ...",
+      "summary": "মুসলিম সম্প্রদায়ের অন্যতম বড় ধর্মীয় উৎসব পবিত্র ঈদুল ফিতর আজ ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -472,6 +472,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "যুদ্ধ চড়িয়েছে জ্বালানির দাম, চাপে যুক্তরাষ্ট্রের মানুষ",
+      "url": "https://www.prothomalo.com/world/usa/w35cxuvlej",
+      "published_at": "2026-03-20T13:25:54.258000+00:00",
+      "summary": "মধ্যপ্রাচ্যে যুক্তরাষ্ট্রের শুরু করা যুদ্ধের প্রভাব এখন দেশটিতেও পড়তে শুরু করেছে। যুদ্ধের কারণে জ্বালানির দাম বেড়েছে, তাতে গৃহস্থালিতে ব্যয় বাড়িয়ে চাপে ফেলেছে দেশটির নাগরিকদের।",
+      "image_s3_key": "prothomalo-bangla/2026-03-20/7gafp8gh/Untitled-2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/7gafp8gh/Untitled-2.jpg?auto=format,compress"
     },
     {
       "headline": "নেতৃত্ব তো দূর, আফ্রিদিকে একাদশেই দেখেন না রশিদ লতিফ",
@@ -1503,13 +1511,6 @@
       "published_at": "2026-03-20T14:06:36+06:00",
       "summary": "ওয়াশিংটন ভিত্তিক থিঙ্কট্যাঙ্ক 'কুইন্সি ইনস্টিটিউট ফর রেসপন্সিবল স্টেটক্রাফট'-এর ভাইস প্রেসিডেন্ট ত্রিতা পার্সি বিশ্লেষণে জানিয়েছেন, মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানের বিরুদ্ধে চলমান যুদ্ধ থেকে বের হওয়ার কার্যকর উপায় খুঁজছেন।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1773993995-905b4d07cc2e09ea309fe4af74693ffa.jpg"
-    },
-    {
-      "headline": "ইসরায়েলের বিরুদ্ধে কঠোর ব্যবস্থা নিল ফিফা",
-      "url": "https://www.bd-pratidin.com/sports/2026/03/20/1230128",
-      "published_at": "2026-03-20T14:06:31+06:00",
-      "summary": "বর্ণবাদ ও বৈষম্যের একাধিক অভিযোগে ইসরায়েল ফুটবল সংস্থার বিরুদ্ধে কঠোর ব্যবস্থা নিয়েছে ফিফা। তাদের এক লাখ ৫০ হাজার সুইস ফ্রাঁ (প্রায় এক লাখ ৯০ হাজার ডলার) জরিমানা করেছে বিশ্ব ফুটবলের নিয়ন্ত্রক সংস্থাটি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1773993990-c84114b291d907690a829b6f455bcf4a.jpg"
     }
   ]
 }
