@@ -1,13 +1,21 @@
 {
-  "fetched_at": "2026-03-21T16:58:15.135410+00:00",
+  "fetched_at": "2026-03-21T17:24:51.285350+00:00",
   "stories": [
     {
       "headline": "ইসরায়েলের যুদ্ধবিমান ভূপাতিত করার দাবি ইরানের",
       "url": "https://www.prothomalo.com/world/5slmsanxj1",
-      "published_at": "2026-03-21T16:52:19.676000+00:00",
+      "published_at": "2026-03-21T17:16:38.886000+00:00",
       "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
       "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ঈদের আনন্দ আসেনি মেঘনাতীরের মহিমাদের ঘরে",
+      "url": "https://www.prothomalo.com/bangladesh/63pv7s72ir",
+      "published_at": "2026-03-21T17:10:05.395000+00:00",
+      "summary": "মহিমা জানান, ঈদের আগের দিন রোজা রেখেও ইফতারে কিছু জোটেনি। বৃষ্টি ও বাতাসের কারণে চুলায় রান্না করতে পারেননি। না খেয়ে থেকেই দিন কাটিয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-21/7za64j3n/WhatsApp-Image-2026-03-21-at-7.42.06-PM.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/7za64j3n/WhatsApp-Image-2026-03-21-at-7.42.06-PM.jpeg?auto=format,compress"
     },
     {
       "headline": "তানোরে বিএনপি নেতার ব্যবসাপ্রতিষ্ঠানে হামলা-ভাঙচুর",
@@ -274,20 +282,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/yl7bfozu/WhatsApp-Image-2026-03-21-at-6.01.32-PM.jpeg?auto=format,compress"
     },
     {
-      "headline": "এবারের ঈদ কাটুক রাক্ষসের সঙ্গে | তারার ঈদ ",
-      "url": "https://www.prothomalo.com/video/entertainment/m2n8a4n26e",
-      "published_at": "2026-03-21T13:00:00+00:00",
-      "summary": "এবারের ঈদ কাটুক রাক্ষসের সঙ্গে | তারার ঈদ ",
-      "image_s3_key": "prothomalo-bangla/2026-03-21/qm9lxow1/WEB-Recovered-Recovered.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/qm9lxow1/WEB-Recovered-Recovered.jpg?auto=format,compress"
-    },
-    {
       "headline": "১০০ বছর পর শ্রোডিঞ্জারের বর্ণতত্ত্বের প্রমাণ",
       "url": "https://www.prothomalo.com/technology/science/2ej8akz6jn",
       "published_at": "2026-03-21T13:00:00+00:00",
       "summary": "নতুন এই গবেষণার লেখকেরা রঙের উপলব্ধিকে একটি জ্যামিতিক কাঠামোর মধ্যে নিয়ে এসেছেন। তাঁরা দেখতে পেয়েছেন যে রঙের হিউ, স্যাচুরেশন এবং ব্রাইটনেস বা লাইটনেস নিয়ে শ্রোডিঞ্জারের গাণিতিক সংজ্ঞায় কিছু ত্রুটি ছিল।",
       "image_s3_key": "prothomalo-bangla/2026-03-19/2si4vi9k/Scientists-Complete-Schrödingers-Color-Theory.-sciencealert.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/2si4vi9k/Scientists-Complete-Schrödingers-Color-Theory.-sciencealert.jpg?auto=format,compress"
+    },
+    {
+      "headline": "এবারের ঈদ কাটুক রাক্ষসের সঙ্গে | তারার ঈদ ",
+      "url": "https://www.prothomalo.com/video/entertainment/m2n8a4n26e",
+      "published_at": "2026-03-21T13:00:00+00:00",
+      "summary": "এবারের ঈদ কাটুক রাক্ষসের সঙ্গে | তারার ঈদ ",
+      "image_s3_key": "prothomalo-bangla/2026-03-21/qm9lxow1/WEB-Recovered-Recovered.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/qm9lxow1/WEB-Recovered-Recovered.jpg?auto=format,compress"
     },
     {
       "headline": "জাতীয় ঈদগাহে রাষ্ট্রপতি ও প্রধানমন্ত্রীর একসঙ্গে ঈদের নামাজ আদায়",
@@ -304,14 +312,6 @@
       "summary": "‘দম’ সিনেমাকে দশে দশ দিলেন এক দর্শক। আরেক দর্শক বলছেন, তিনি সিনেমাটিকে দশের মধ্যে সাড়ে আট দিলেন।",
       "image_s3_key": "prothomalo-bangla/2026-03-21/y79k91oc/CRK07234.JPG",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/y79k91oc/CRK07234.JPG?auto=format,compress"
-    },
-    {
-      "headline": "দল-মত নির্বিশেষে দেশ গড়ার প্রত্যয় প্রধানমন্ত্রীর",
-      "url": "https://www.prothomalo.com/video/bangladesh/kd74cgzryo",
-      "published_at": "2026-03-21T12:36:02.710000+00:00",
-      "summary": "দল-মত নির্বিশেষে দেশ গড়ার প্রত্যয় প্রধানমন্ত্রীর",
-      "image_s3_key": "prothomalo-bangla/2026-03-21/wbddj77b/WEB-Recovered-Recovered.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/wbddj77b/WEB-Recovered-Recovered.jpg?auto=format,compress"
     },
     {
       "headline": "মাদকের বিরুদ্ধে কঠোর অবস্থান নেওয়ার নির্দেশ প্রতিমন্ত্রী টুকুর",
@@ -405,6 +405,48 @@
       "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
+      "headline": "চুয়াডাঙ্গায় এতিম শিশুদের অন্যরকম ঈদ",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/lFo5jSmgbqtH/",
+      "published_at": null,
+      "summary": "শিশু পরিবারের কয়েকজন শিশু জানায়, নতুন পোশাক পরে তারা আনন্দ করেছে, ভালো খাবার খেয়েছে। তবু ঈদের দিনে বাবা-মায়ের কথা মনে পড়েছে বারবার।",
+      "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_11_KPyjkOP.png"
+    },
+    {
+      "headline": "রাজধানীতে রাতে বিদ্যুৎ চমকানোসহ বৃষ্টি হতে পারে",
+      "url": "https://dailynayadiganta.com/bangladesh/national/XCl90XaGN5XZ/",
+      "published_at": null,
+      "summary": "'ঢাকা ও পার্শ্ববর্তী এলাকার আকাশ মেঘলা থেকে অস্থায়ীভাবে মেঘাচ্ছন্ন থাকতে পারে। এ সময়ে বিদ্যুৎ চমকানোসহ বৃষ্টি অথবা বজ্রসহ বৃষ্টি হতে পারে। পাশাপাশি রাতের তাপমাত্রা প্রায় অপরিবর্তিত থাকতে পারে।'",
+      "image_url": "https://media.ndiganta.com/original_images/1000038406.jpg"
+    },
+    {
+      "headline": "ব্রাজিল ও কলম্বিয়ার বিপক্ষে ফ্রান্স দলের নেতৃত্বে এমবাপ্পে",
+      "url": "https://dailynayadiganta.com/sports/football/Gp5rR9fcr16F/",
+      "published_at": null,
+      "summary": "২০২৫ সালের জুনে জার্মানির বিপক্ষে নেশন্স লিগ সেমিফাইনালের পর থেকে ফ্রান্স দলে খেলেননি তিনি।",
+      "image_url": "https://media.ndiganta.com/original_images/embappe.jpg"
+    },
+    {
+      "headline": "খার্গ দ্বীপে হামলা হলে লোহিত সাগর ও বাব আল-মান্দাবেও অস্থিরতার শঙ্কা",
+      "url": "https://dailynayadiganta.com/international/asia/middle-east/WBK8BAGm9Fym/",
+      "published_at": null,
+      "summary": "ক্তরাষ্ট্র যদি খার্গ দ্বীপে সামরিক অভিযান চালানোর হটকারী হুমকি বাস্তবায়ন করে, তবে তার জবাব হবে এমন, যা গত ২১ দিনের যুদ্ধে দেখা সব ধরনের “চমক”কে ছাড়িয়ে যাবে।",
+      "image_url": "https://media.ndiganta.com/original_images/Irans-iland-21-3.jpg"
+    },
+    {
+      "headline": "ভাসমান সেতু ভেঙে নদীতে পড়ল শতাধিক মানুষ, নিহত বেড়ে ৫",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/paJXNxkJ5edx/",
+      "published_at": null,
+      "summary": "'ঈদ উপলক্ষে বিপুলসংখ্যক মানুষ ভাসমান সেতুটিতে ভিড় করেন। অতিরিক্ত চাপ সহ্য করতে না পেরে সেতুটি ভেঙে পড়ে এবং অনেকেই নদীতে পড়ে যান। তাদের মধ্যে বেশিভাগই সাঁতরে তীরে উঠতে সক্ষম হলেও কয়েকজন শিশু নিখোঁজ হয়।'",
+      "image_url": "https://media.ndiganta.com/original_images/1000038363.webp"
+    },
+    {
+      "headline": "ভারত মহাসাগরে যুক্তরাজ্য-যুক্তরাষ্ট্রের ঘাঁটিতে ক্ষেপণাস্ত্র হামলা চালিয়েছে ইরান",
+      "url": "https://dailynayadiganta.com/international/iOfR20hBe52L/",
+      "published_at": null,
+      "summary": "ইরানে যুক্তরাষ্ট্র-ইসরাইলের যৌথ হামলায় সরাসরি অংশ না নিলেও নিজেদের ঘাঁটি ব্যবহার করে মার্কিন বোমারু বিমানকে ইরানের ক্ষেপণাস্ত্র স্থাপনায় হামলার সুযোগ দিয়েছে যুক্তরাজ্য।",
+      "image_url": "https://media.ndiganta.com/original_images/USA-UK-Iran-Attack.jpg"
+    },
+    {
       "headline": "হরমুজ সঙ্কটে মার্কিন রণতরীর সামনে মৃত্যুফাঁদ : একটি গভীর বিশ্লেষণ",
       "url": "https://dailynayadiganta.com/international/asia/middle-east/nk0X7UIULYJR/",
       "published_at": null,
@@ -426,20 +468,6 @@
       "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_10_4ERqQY4.png"
     },
     {
-      "headline": "দক্ষিণ কোরিয়ায় গাড়ি কারখানায় অগ্নিকাণ্ডের ঘটনায় ১১ জনের মৃত্যু",
-      "url": "https://dailynayadiganta.com/international/GtSnx7LWKyHs/",
-      "published_at": null,
-      "summary": "শুক্রবার (২০ মার্চ) স্থানীয় সময় দুপুর ১টার দিকে আগুন লাগে। এ সময় কারখানায় প্রায় ১৭০ জন কর্মী ছিলেন। পরদিন শনিবার বিকেলে আগুন নিয়ন্ত্রণে আসে।",
-      "image_url": "https://media.ndiganta.com/original_images/South-Koria-Fire-death11.jpg"
-    },
-    {
-      "headline": "এশিয়া কাপের আদলে ইউরো নেশনস কাপ আয়োজন করতে চায় আয়ারল্যান্ড",
-      "url": "https://dailynayadiganta.com/sports/cricket/NjVKT7AAkH2D/",
-      "published_at": null,
-      "summary": "ম্যাকনিস আরো যোগ করেন, ‘বিভিন্ন স্টেকহোল্ডার ও সংশ্লিষ্ট পক্ষের সাথে আলোচনা চলমান… শুরু থেকেই পরিষ্কার করে বলতে চাই, এটি পুরুষ ও নারী উভয়ের ইভেন্ট। সম্প্রচার সংক্রান্ত দিক থেকে এখনই খুব বেশি এগোনো হচ্ছে না, কারণ সবকিছু চূড়ান্ত হওয়া বাকি। তবে আমরা আশা করছি, এটার জন্য সম্প্রচার প্রতিষ্ঠানগুলোর যথেষ্ট আগ্রহ থাকবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/ireland-team.jpg"
-    },
-    {
       "headline": "বাবার কবর জিয়ারত করলেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ",
       "url": "https://dailynayadiganta.com/bangladesh/country-news/2I4ia3Y2WPVJ/",
       "published_at": null,
@@ -452,6 +480,42 @@
       "published_at": null,
       "summary": "'জনগণ আকাশসম প্রত্যাশা নিয়ে আমাদের নির্বাচিত করেছে। প্রধানমন্ত্রী তারেক রহমানের নেতৃত্বে জনগণের সেই আশা-আকাঙ্ক্ষা পূরণে সরকার দিন-রাত কাজ করে যাচ্ছে।'",
       "image_url": "https://media.ndiganta.com/original_images/1000038397.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - March 21, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "রাজধানীসহ দেশের ২০ অঞ্চলের ওপর দিয়ে ঝড় বয়ে যেতে পারে বলে জানিয়েছে আবহাওয়া অধিদপ্তর। একই সঙ্গে এসব অঞ্চলের নদীবন্দরগুলোকে সতর্ক ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "দল-মত নির্বিশেষে দেশ গড়ার প্রত্যয় প্রধানমন্ত্রীর",
+      "url": "https://www.prothomalo.com/video/bangladesh/kd74cgzryo",
+      "published_at": "2026-03-21T12:36:02.710000+00:00",
+      "summary": "দল-মত নির্বিশেষে দেশ গড়ার প্রত্যয় প্রধানমন্ত্রীর",
+      "image_s3_key": "prothomalo-bangla/2026-03-21/wbddj77b/WEB-Recovered-Recovered.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/wbddj77b/WEB-Recovered-Recovered.jpg?auto=format,compress"
+    },
+    {
+      "headline": "দক্ষিণ কোরিয়ায় গাড়ি কারখানায় অগ্নিকাণ্ডের ঘটনায় ১১ জনের মৃত্যু",
+      "url": "https://dailynayadiganta.com/international/GtSnx7LWKyHs/",
+      "published_at": null,
+      "summary": "শুক্রবার (২০ মার্চ) স্থানীয় সময় দুপুর ১টার দিকে আগুন লাগে। এ সময় কারখানায় প্রায় ১৭০ জন কর্মী ছিলেন। পরদিন শনিবার বিকেলে আগুন নিয়ন্ত্রণে আসে।",
+      "image_url": "https://media.ndiganta.com/original_images/South-Koria-Fire-death11.jpg"
+    },
+    {
+      "headline": "এশিয়া কাপের আদলে ইউরো নেশনস কাপ আয়োজন করতে চায় আয়ারল্যান্ড",
+      "url": "https://dailynayadiganta.com/sports/cricket/NjVKT7AAkH2D/",
+      "published_at": null,
+      "summary": "ম্যাকনিস আরো যোগ করেন, ‘বিভিন্ন স্টেকহোল্ডার ও সংশ্লিষ্ট পক্ষের সাথে আলোচনা চলমান… শুরু থেকেই পরিষ্কার করে বলতে চাই, এটি পুরুষ ও নারী উভয়ের ইভেন্ট। সম্প্রচার সংক্রান্ত দিক থেকে এখনই খুব বেশি এগোনো হচ্ছে না, কারণ সবকিছু চূড়ান্ত হওয়া বাকি। তবে আমরা আশা করছি, এটার জন্য সম্প্রচার প্রতিষ্ঠানগুলোর যথেষ্ট আগ্রহ থাকবে।’",
+      "image_url": "https://media.ndiganta.com/original_images/ireland-team.jpg"
     },
     {
       "headline": "ঈদের দিনেও থামেনি মানবিকতা, ব্রাহ্মণবাড়িয়া বাতিঘরের উদ্যোগে অজ্ঞাত বৃদ্ধের দাফন",
@@ -473,20 +537,6 @@
       "published_at": null,
       "summary": "ঈদের আনন্দ ভাগাভাগি করতে শাহাদাৎ তার বন্ধুদের নিয়ে একটি ভ্যানযোগে ঘুরতে বেড়িয়েছিল। পথে শিবচর-জাজিরার সীমানা নামক স্থা‌নে পৌঁছালে বিপরীত দিক থেকে আসা একটি মোটরসাইকেলের সাথে তাদের ভ্যানের মুখোমুখি সংঘর্ষ হয়।",
       "image_url": "https://media.ndiganta.com/original_images/Madaripur-Road-accident-dEa.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 21, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মুখ্য সংগঠক এবং কুমিল্লা-৪ আসনের সংসদ সদস্য হাসনাত আব্দুল্লাহ বলেছেন, আপনারা আমার পাশে থাকলে আমি অবৈধ ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "‘আমেরিকান ক্রুসেডের’ বিপদে বিশ্ব",
@@ -1457,58 +1507,6 @@
       "summary": "খেলোয়াড় পরিচয়েই সবাই তাঁদের চেনেন। কিন্তু সেই পরিচয়ের বাইরে তাঁদের অন্য জীবনটা কেমন? সাবেক ও বর্তমান খেলোয়াড়দের সঙ্গে এই ঝটপট প্রশ্নোত্তর পর্বে সেটাই জানার চেষ্টা",
       "image_s3_key": "prothomalo-bangla/2025-03-26/r9sf4kw6/WhatsApp-Image-2025-03-25-at-18.53.39b32af7a5.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-26/r9sf4kw6/WhatsApp-Image-2025-03-25-at-18.53.39b32af7a5.jpg?auto=format,compress"
-    },
-    {
-      "headline": "এবারের ঈদের আনন্দ একটু ভিন্ন: অর্থমন্ত্রী",
-      "url": "https://www.prothomalo.com/bangladesh/lqv5uhw5d0",
-      "published_at": "2026-03-21T06:11:22.838000+00:00",
-      "summary": "মানুষ মুক্ত পরিবেশে না থাকলে ঈদের আনন্দ সেভাবে উপভোগ করতে পারে না বলে মন্তব্য করেন আমীর খসরু মাহমুদ চৌধুরী।",
-      "image_s3_key": "prothomalo-bangla/2026-03-21/858j6whi/chattogram-eid-amir-khasru-210326-01.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/858j6whi/chattogram-eid-amir-khasru-210326-01.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "বিদ্যুৎ কোম্পানিতে চুক্তিতে চাকরি, বেতন ৫২,০০০ টাকা, করুন আবেদন",
-      "url": "https://www.prothomalo.com/chakri/employment/mr2xm58sjz",
-      "published_at": "2026-03-21T06:01:00+00:00",
-      "summary": "সিপিজিসিবিএল জনবল নিয়োগে আবেদন চলছে। এ নিয়োগ চুক্তিভিত্তিক।",
-      "image_s3_key": "prothomalo-bangla/2021-09/aff7a8ef-9526-41dd-8220-18e3261923d8/4.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-09/aff7a8ef-9526-41dd-8220-18e3261923d8/4.JPG?auto=format,compress"
-    },
-    {
-      "headline": "ইরান যুদ্ধে হিজবুল্লাহ যেভাবে ‘ফিনিক্স পাখি’র মতো জেগে উঠল",
-      "url": "https://www.prothomalo.com/opinion/column/oy22l9qtxp",
-      "published_at": "2026-03-21T06:00:27.282000+00:00",
-      "summary": "২০০৬ সালের হিজবুল্লাহ-ইসরায়েল যুদ্ধের অমীমাংসিত সমাপ্তি ঘটে। তবে সেই যুদ্ধ একটি দীর্ঘস্থায়ী উত্তেজনা তৈরি করে দিয়েছিল। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-21/oqi2qgae/hizbullahakk.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/oqi2qgae/hizbullahakk.JPG?auto=format,compress"
-    },
-    {
-      "headline": "সিরিয়ায় ইসরায়েলের হামলা, কঠোর প্রতিক্রিয়া জানাল সৌদি-তুরস্ক",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/21/1230296",
-      "published_at": "2026-03-21T13:54:08+06:00",
-      "summary": "সিরিয়ার সামরিক ঘাঁটিতে ইসরায়েলি হামলার তীব্র নিন্দা জানিয়েছে সৌদি আরব। এই হামলাকে ‘আগ্রাসন’ হিসেবে আখ্যায়িত করে এর বিরুদ্ধে বিশ্বসম্প্রদায়কে হস্তক্ষেপের আহ্বান জানিয়েছে রিয়াদ। আর এই আহ্বানে একাত্মতা প্রকাশ করেছে তুরস্ক।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774079647-520a4d2ae6c64ffa26525d1de3236b08.jpg"
-    },
-    {
-      "headline": "ফ্যাসিবাদমুক্ত পরিবেশে এই ঈদ অত্যন্ত আনন্দের: মির্জা ফখরুল",
-      "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230293",
-      "published_at": "2026-03-21T13:04:59+06:00",
-      "summary": "স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় মন্ত্রী মির্জা ফখরুল ইসলাম আলমগীর বলেছেন, ফ্যাসিবাদমুক্ত পরিবেশে উদযাপিত হওয়া এই ঈদ অত্যন্ত আনন্দের। ফ্যাসিবাদমুক্ত পরিবেশে এই ঈদুল ফিতর উদযাপনের মধ্য দিয়ে আনুষ্ঠানিকভাবে প্রধানমন্ত্রী তারেক রহমানের সঙ্গে শুভেচ্ছা বিনিময় হলো। গণতান্ত্রিক বাংলাদেশ বিনির্মানের পথে হেঁটে যাবো।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774076699-9bf4989c13221da464270f151d4201b2.jpg"
-    },
-    {
-      "headline": "চুয়াডাঙ্গায় সড়ক দুর্ঘটনায় মোটরসাইকেল আরোহী নিহত",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/Y3IRjIUqVpx2/",
-      "published_at": null,
-      "summary": "স্থানীয়রা তাদের উদ্ধার করে চুয়াডাঙ্গা সদর হাসপাতালে নিয়ে গেলে কর্তব্যরত চিকিৎসক সুরুজকে মৃত ঘোষণা করেন এবং আহত হৃদয়কে প্রাথমিক চিকিৎসা দেয়া হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/650361579_915115134621958_8587879612289897356_n.jpg"
-    },
-    {
-      "headline": "বিতর্কিত দ্বীপপুঞ্জে হামলার বিষয়ে সংযুক্ত আরব আমিরাতকে ইরানের সতর্কতা",
-      "url": "https://dailynayadiganta.com/international/asia/middle-east/vh6MWlR8jheb/",
-      "published_at": null,
-      "summary": "পারস্য উপসাগরে অবস্থিত ইরানের আবু মুসা ও গ্রেটার তুনব দ্বীপের বিরুদ্ধে যদি তাদের ভূখণ্ড থেকে কোনো ধরনের আগ্রাসন চালানো হয়, তবে ইরানের শক্তিশালী সশস্ত্র বাহিনী সংযুক্ত আরব আমিরাতের রাস আল খাইমাহ-তে তীব্র হামলা চালাবে।",
-      "image_url": "https://media.ndiganta.com/original_images/Untitled-1.jpg_pp.jpg"
     }
   ]
 }
