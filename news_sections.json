@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-03-21T10:23:25.583051+00:00",
+  "fetched_at": "2026-03-21T10:54:36.748189+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "মাছ ধরতে গিয়ে নৌকা উল্টে মৃত্যু, ঈদ আনন্দে নেমে এল বিষাদ",
+        "url": "https://www.prothomalo.com/bangladesh/district/plhf9dbdjn",
+        "published_at": "2026-03-21T10:46:43.995000+00:00",
+        "summary": "বুকভরা কান্না আর অদম্য শক্তি নিয়ে প্রায় দুই ঘণ্টা সাঁতরে তারা তীরে পৌঁছায়—বাবাকে ফেলে নয়, বুকে আগলে নিয়েই। তবে জীবিত নয়, লাশ হয়ে ঘরে ফেরেন পরিবারের একমাত্র উপার্জনক্ষম মানুষটি।",
+        "image_s3_key": "prothomalo-bangla/2026-01-23/v0i11hbq/১.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/v0i11hbq/১.avif?auto=format,compress"
+      },
+      {
+        "headline": "‘এই গাধা দেখো, গাধা’, ঈদের দিনে চিড়িয়াখানায় শিশুদের উচ্ছ্বাস",
+        "url": "https://www.prothomalo.com/bangladesh/capital/95434wz3jz",
+        "published_at": "2026-03-21T10:41:29.716000+00:00",
+        "summary": "জাতীয় চিড়িয়াখানায় আজ ঢাকা ও এর আশপাশের জেলা থেকে দর্শনার্থীরা এসেছেন। দর্শনার্থীদের কেউ কেউ এসেছেন পরিবার নিয়ে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-21/d6yqxzod/zoo-1.jfif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/d6yqxzod/zoo-1.jfif?auto=format,compress"
+      },
+      {
+        "headline": "ইরানের নাতানজ পারমাণবিক কেন্দ্রে ইসরায়েল ও যুক্তরাষ্ট্রের হামলা",
+        "url": "https://www.prothomalo.com/world/5slmsanxj1",
+        "published_at": "2026-03-21T10:35:37.244000+00:00",
+        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "মানব উন্নয়নের জন্য কাজ কতটা গুরুত্বপূর্ণ",
+        "url": "https://www.prothomalo.com/opinion/column/3mawl74jib",
+        "published_at": "2026-03-21T10:30:27.643000+00:00",
+        "summary": "কাজ ও মানব উন্নয়ন পরস্পর পরস্পরকে জোরদার করে। কর্মনিয়োজন মানুষের আয় ও জীবিকা নিশ্চিত করে, দারিদ্র্য কমায়, ন্যায্য প্রবৃদ্ধি নিশ্চিত করে এবং মানব উন্নয়নকে এগিয়ে নেয়।",
+        "image_s3_key": "prothomalo-bangla/2026-03-21/fdg94i5g/prothomalo-bangla.png",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/fdg94i5g/prothomalo-bangla.png?auto=format,compress"
+      },
+      {
+        "headline": "ক্রিকেটেও কি এবার দেখা যাবে ইউরো",
+        "url": "https://www.prothomalo.com/sports/cricket/q4r81td61o",
+        "published_at": "2026-03-21T10:30:00+00:00",
+        "summary": "আগামী বছরই ‘ইউরো নেশনস কাপ’ নামের একটি টুর্নামেন্ট মাঠে গড়াতে পারে। এশিয়া কাপের মতো সেখানে অংশ নেবে ইউরোপ মহাদেশের ক্রিকেট খেলুড়ে দেশগুলো।",
+        "image_s3_key": "prothomalo-bangla/2022-10/7ea475c0-3c07-4689-b327-55fddd794df4/407493_01_02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-10/7ea475c0-3c07-4689-b327-55fddd794df4/407493_01_02.jpg?auto=format,compress"
+      },
       {
         "headline": "কিছু আয়রোজগারের আশায় ঢাকায় রয়ে গেছি",
         "url": "https://www.prothomalo.com/business/economics/onxn74jal0",
@@ -9,14 +49,6 @@
         "summary": "ঈদের দিনে কিছু আয়রোজগারের আশায় মেহেদী হাসান নামের এক যুবক রাজধানীর মানিক মিয়া অ্যাভিনিউতে চা–সিগারেট, বিস্কুট–পাউরুটি, কলা, পানি ও কোমলপানীয় বিক্রি করতে আসেন।",
         "image_s3_key": "prothomalo-bangla/2026-03-21/77e7dq4f/534bb926-c98f-4887-ac24-ead9826afb80.jfif",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/77e7dq4f/534bb926-c98f-4887-ac24-ead9826afb80.jfif?auto=format,compress"
-      },
-      {
-        "headline": "ইরানের নাতানজ পরমাণু কেন্দ্রে ইসরায়েল ও যুক্তরাষ্ট্রের হামলা, ছড়ায়নি তেজস্ক্রিয় পদার্থ",
-        "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-21T10:18:18.182000+00:00",
-        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
       },
       {
         "headline": "যুদ্ধের ছায়ায় ইরানে ঈদ",
@@ -35,7 +67,7 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/hgi9eey7/1000748646.jpg?auto=format,compress"
       },
       {
-        "headline": "উয়ারী-বটেশ্বরখ্যাত প্রত্নতত্ত্ব ও লোকসাহিত্য সংগ্রাহক হাবিবুল্লা পাঠান আর নেই",
+        "headline": "উয়ারী-বটেশ্বরখ্যাত প্রত্নসম্পদ ও লোকসাহিত্য সংগ্রাহক হাবিবুল্লা পাঠান আর নেই",
         "url": "https://www.prothomalo.com/bangladesh/district/g6995e764m",
         "published_at": "2026-03-21T10:02:14.299000+00:00",
         "summary": "হাবিবুল্লা পাঠান ‘বটেশ্বর প্রত্ন সংগ্রহশালা ও গ্রন্থাগার’ নামে একটি জাদুঘর প্রতিষ্ঠা করেন। ওই জাদুঘরে তিন হাজার বছরের বিভিন্ন সরঞ্জাম ছাড়াও এ অঞ্চলে প্রাপ্ত বিভিন্ন প্রত্নতাত্ত্বিক নিদর্শন রয়েছে।",
@@ -267,44 +299,11 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/q5e86zo2/iran-us-sanction-oil.avif?auto=format,compress"
       },
       {
-        "headline": "কিশোরগঞ্জের শোলাকিয়ায় ঈদের জামাতে জনসমুদ্র",
-        "url": "https://www.prothomalo.com/bangladesh/district/suzc7i8crb",
-        "published_at": "2026-03-21T07:35:57.584000+00:00",
-        "summary": "নামাজ শেষে বিশ্ব মুসলিম উম্মাহর শান্তি, সমৃদ্ধি এবং দেশের সার্বিক কল্যাণ কামনা করে দোয়া ও মোনাজাত করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-03-21/33b9r5ry/KishorgonjDH063520260321IMG20260321124611.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/33b9r5ry/KishorgonjDH063520260321IMG20260321124611.jpg?auto=format,compress"
-      },
-      {
-        "headline": "প্রধানমন্ত্রীর ঈদ শুভেচ্ছা বিনিময় শেষের পরও ঢুকতে পারেননি অনেকে",
-        "url": "https://www.prothomalo.com/bangladesh/capital/w2oh6p2pz2",
-        "published_at": "2026-03-21T07:28:13.144000+00:00",
-        "summary": "প্রধানমন্ত্রীর সঙ্গে শুভেচ্ছা বিনিময়ে গিয়ে ভোগান্তিতে পড়া অনেকে অব্যবস্থাপনা নিয়ে ক্ষোভ প্রকাশ করেন।",
-        "image_s3_key": "prothomalo-bangla/2026-03-21/lo2bvbb1/jamuna-pm-eid-greetings-210326-01.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/lo2bvbb1/jamuna-pm-eid-greetings-210326-01.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "বৃষ্টি, ফাঁকা ঢাকা, তবু দূষণ ঢাকার বাতাসে",
-        "url": "https://www.prothomalo.com/bangladesh/environment/axcus4qe87",
-        "published_at": "2026-03-21T07:06:55.789000+00:00",
-        "summary": "ঢাকার বাতাসের বড় দুই উৎস প্রায় বন্ধ। তারপরও আজ শনিবার বিশ্বের ১২১টি শহরের মধ্যে বায়ুদূষণে ঢাকার অবস্থান দশম।",
-        "image_s3_key": "prothomalo-bangla/2026-03-19/a4qltisu/02.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/a4qltisu/02.jpg?auto=format,compress"
-      },
-      {
-        "headline": "নামাজ শেষে কোলাকুলি, ভালোবাসায় ভরে উঠল চট্টগ্রামের ঈদ ময়দান",
-        "url": "https://www.prothomalo.com/video/rkaucadp6l",
-        "published_at": "2026-03-21T07:00:21.479000+00:00",
-        "summary": null,
-        "image_s3_key": "prothomalo-bangla/2026-03-21/4d5b0es3/CTG-EID-.00030408.Still002.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/4d5b0es3/CTG-EID-.00030408.Still002.jpg?auto=format,compress"
-      },
-      {
-        "headline": "টেলিগ্রাম অ্যাপের অন্ধকার ও সাইবার ব্ল্যাকমেল",
-        "url": "https://www.prothomalo.com/technology/cyberworld/3mfbe15df0",
-        "published_at": "2026-03-21T07:00:00+00:00",
-        "summary": "অধিকাংশ ক্ষেত্রে ব্যবহারকারীরা মনে করেন ‘এন্ড-টু-এন্ড এনক্রিপশন’ তাঁদের রক্ষা করবে। কিন্তু অপরাধীরা এখন সরাসরি অ্যাপ হ্যাক না করে ব্যবহারকারীর ফোনটিরই নিয়ন্ত্রণে নিচ্ছে।",
-        "image_s3_key": "prothomalo-bangla/2023-12/37d100f6-d305-4c2c-952e-67df4cf1b5cc/deepfake.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-12/37d100f6-d305-4c2c-952e-67df4cf1b5cc/deepfake.jpg?auto=format,compress"
+        "headline": "দেশজুড়ে ১৩৩ সিনেমা হলে শাকিব খানের ‘প্রিন্স’",
+        "url": "https://www.bd-pratidin.com/entertainment/2026/03/21/1230337",
+        "published_at": "2026-03-21T16:19:16+06:00",
+        "summary": "ঢাকাই চলচ্চিত্রের দর্শকদের জন্য ঈদ মানেই নতুন চমক এবং রূপালি পর্দায় মেগা আয়োজন। এবারের ঈদুল ফিতরে মুক্তি পেয়েছে শাকিব খান অভিনীত চলচ্চিত্র ‘প্রিন্স: ওয়ান্স আপন এ টাইম ইন ঢাকা’।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774088355-d18c622c854477fc76003a83a3e758d7.jpg"
       },
       {
         "headline": "ইসরায়েল ভেবেছিল ধ্বংস হয়ে গেছে হিজবুল্লাহ, বাস্তবে যা ঘটেছে",
@@ -329,7 +328,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -370,13 +369,6 @@
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774080396-d4ac9d4871fc5923eb197a17799cef7f.jpg"
       },
       {
-        "headline": "পরিবারের সদস্যদের নিয়ে বাবা-মায়ের কবর জিয়ারত করলেন তারেক রহমান",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230301",
-        "published_at": "2026-03-21T14:04:26+06:00",
-        "summary": "পবিত্র ঈদুল ফিতর উপলক্ষে রাষ্ট্রীয় অতিথি ভবন যমুনায় দেশের সর্বস্তরের মানুষের সঙ্গে ঈদের শুভেচ্ছা বিনিময় শেষে বাবা-মায়ের কবর জিয়ারত করেছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774080265-3088baf280a87fb2761d2a821e905a90.jpg"
-      },
-      {
         "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
         "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
         "published_at": null,
@@ -396,6 +388,34 @@
         "published_at": null,
         "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
         "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "সিরিয়ায় ইসরাইলি হামলার নিন্দা আরব দেশগুলোর",
+        "url": "https://dailynayadiganta.com/international/asia/middle-east/lGRF1d2VcwhB/",
+        "published_at": null,
+        "summary": "সৌদির এই বিবৃতিতে আরো বলা হয়, আন্তর্জাতিক সম্প্রদায়কে ইসরাইলের আন্তর্জাতিক আইন ও নীতিমালা লঙ্ঘনের অবসান ঘটাতে পদক্ষেপ নিতে হবে।",
+        "image_url": "https://media.ndiganta.com/original_images/Syria_0YpgSFq.jpg"
+      },
+      {
+        "headline": "সদরপুরে পাগলা কুকুরের কামড়ে শিশুসহ আহত ১১",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/0sHBGfCKJKQd/",
+        "published_at": null,
+        "summary": "ফরিদপুরের সদরপুরে পাগলা কুকুরের কামড়ে শিশুসহ ১১ জন আহত হয়েছেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Dog-21-3.jpg"
+      },
+      {
+        "headline": "দক্ষিণ কোরিয়ায় গাড়ি কারখানায় অগ্নিকাণ্ডে ১১ জনের মৃত্যু",
+        "url": "https://dailynayadiganta.com/international/asia/O0Zzsm9XfgiB/",
+        "published_at": null,
+        "summary": "ধসের ঝুঁকির কারণে শুরুতে ফায়ার সার্ভিস কর্মীরা মধ্যাঞ্চলীয় শহর ডেজনে অবস্থিত এই কারখানা ভেতরে ঢুকতে পারেনি।",
+        "image_url": "https://media.ndiganta.com/original_images/South-Korea-fire.jpg"
+      },
+      {
+        "headline": "শোলাকিয়া ময়দানের ঈদ জামাতে ৬ লাখ মুসল্লি",
+        "url": "https://dailynayadiganta.com/bangladesh/country-news/8Oso33I6m2Z9/",
+        "published_at": null,
+        "summary": "জামাতে ইমামতি করেন মুফতি মাওলানা আবুল খায়ের মুহাম্মদ ছাইফুল্লাহ। জামাত শেষে খুতবার পর দেশ, জাতি ও মুসলিম উম্মার শান্তি ও সমৃদ্ধি কামনা করে মোনাজাত করেন ইমাম।",
+        "image_url": "https://media.ndiganta.com/original_images/Kishorganj-21-3.jpg"
       },
       {
         "headline": "কূটনীতিকদের সাথে ঈদ শুভেচ্ছা বিনিময় প্রধানমন্ত্রীর",
@@ -433,6 +453,74 @@
         "image_url": "https://media.ndiganta.com/original_images/655346425_5285507938340248_8913085424191778162_n.jpg"
       },
       {
+        "headline": "আজকের সর্বশেষ খবর - March 21, 2026",
+        "url": "https://www.jugantor.com/latest",
+        "published_at": null,
+        "summary": "রোজা শেষে ঈদ, আর ঈদ মানে ভরপুর খাওয়া দাওয়া। নিজের ঘরের পাশাপাশি আত্মীয় বাড়িতেও মেলে বাহারি সুস্বাদু খাবার। ...",
+        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+      },
+      {
+        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+        "published_at": null,
+        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "কিশোরগঞ্জের শোলাকিয়ায় ঈদের জামাতে জনসমুদ্র",
+        "url": "https://www.prothomalo.com/bangladesh/district/suzc7i8crb",
+        "published_at": "2026-03-21T07:35:57.584000+00:00",
+        "summary": "নামাজ শেষে বিশ্ব মুসলিম উম্মাহর শান্তি, সমৃদ্ধি এবং দেশের সার্বিক কল্যাণ কামনা করে দোয়া ও মোনাজাত করা হয়।",
+        "image_s3_key": "prothomalo-bangla/2026-03-21/33b9r5ry/KishorgonjDH063520260321IMG20260321124611.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/33b9r5ry/KishorgonjDH063520260321IMG20260321124611.jpg?auto=format,compress"
+      },
+      {
+        "headline": "প্রধানমন্ত্রীর ঈদ শুভেচ্ছা বিনিময় শেষের পরও ঢুকতে পারেননি অনেকে",
+        "url": "https://www.prothomalo.com/bangladesh/capital/w2oh6p2pz2",
+        "published_at": "2026-03-21T07:28:13.144000+00:00",
+        "summary": "প্রধানমন্ত্রীর সঙ্গে শুভেচ্ছা বিনিময়ে গিয়ে ভোগান্তিতে পড়া অনেকে অব্যবস্থাপনা নিয়ে ক্ষোভ প্রকাশ করেন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-21/lo2bvbb1/jamuna-pm-eid-greetings-210326-01.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/lo2bvbb1/jamuna-pm-eid-greetings-210326-01.jpeg?auto=format,compress"
+      },
+      {
+        "headline": "বৃষ্টি, ফাঁকা ঢাকা, তবু দূষণ ঢাকার বাতাসে",
+        "url": "https://www.prothomalo.com/bangladesh/environment/axcus4qe87",
+        "published_at": "2026-03-21T07:06:55.789000+00:00",
+        "summary": "ঢাকার বাতাসের বড় দুই উৎস প্রায় বন্ধ। তারপরও আজ শনিবার বিশ্বের ১২১টি শহরের মধ্যে বায়ুদূষণে ঢাকার অবস্থান দশম।",
+        "image_s3_key": "prothomalo-bangla/2026-03-19/a4qltisu/02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/a4qltisu/02.jpg?auto=format,compress"
+      },
+      {
+        "headline": "নামাজ শেষে কোলাকুলি, ভালোবাসায় ভরে উঠল চট্টগ্রামের ঈদ ময়দান",
+        "url": "https://www.prothomalo.com/video/rkaucadp6l",
+        "published_at": "2026-03-21T07:00:21.479000+00:00",
+        "summary": null,
+        "image_s3_key": "prothomalo-bangla/2026-03-21/4d5b0es3/CTG-EID-.00030408.Still002.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/4d5b0es3/CTG-EID-.00030408.Still002.jpg?auto=format,compress"
+      },
+      {
+        "headline": "টেলিগ্রাম অ্যাপের অন্ধকার ও সাইবার ব্ল্যাকমেল",
+        "url": "https://www.prothomalo.com/technology/cyberworld/3mfbe15df0",
+        "published_at": "2026-03-21T07:00:00+00:00",
+        "summary": "অধিকাংশ ক্ষেত্রে ব্যবহারকারীরা মনে করেন ‘এন্ড-টু-এন্ড এনক্রিপশন’ তাঁদের রক্ষা করবে। কিন্তু অপরাধীরা এখন সরাসরি অ্যাপ হ্যাক না করে ব্যবহারকারীর ফোনটিরই নিয়ন্ত্রণে নিচ্ছে।",
+        "image_s3_key": "prothomalo-bangla/2023-12/37d100f6-d305-4c2c-952e-67df4cf1b5cc/deepfake.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-12/37d100f6-d305-4c2c-952e-67df4cf1b5cc/deepfake.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
+      },
+      {
+        "headline": "পরিবারের সদস্যদের নিয়ে বাবা-মায়ের কবর জিয়ারত করলেন তারেক রহমান",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230301",
+        "published_at": "2026-03-21T14:04:26+06:00",
+        "summary": "পবিত্র ঈদুল ফিতর উপলক্ষে রাষ্ট্রীয় অতিথি ভবন যমুনায় দেশের সর্বস্তরের মানুষের সঙ্গে ঈদের শুভেচ্ছা বিনিময় শেষে বাবা-মায়ের কবর জিয়ারত করেছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774080265-3088baf280a87fb2761d2a821e905a90.jpg"
+      },
+      {
         "headline": "মুলাদীতে ঈদের দিন ইসলামী যুব আন্দোলনের উদ্যোগে রোগীদের মাঝে খাদ্য বিতরণ",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/Ix5k27Y8nqBR/",
         "published_at": null,
@@ -445,20 +533,6 @@
         "published_at": null,
         "summary": "শুক্রবার সন্ধ্যায় উপজেলার উজ্জ্বলতা গ্রামে এ হামলার ঘটনা ঘটে। নিহত উম্মে হাবিবা উর্মি নওগাঁর রাণীনগর উপজেলার ভেবরা গ্রামের বাসিন্দা।",
         "image_url": "https://media.ndiganta.com/original_images/Bogra-Map_etHWdrb.jpg"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর - March 21, 2026",
-        "url": "https://www.jugantor.com/latest",
-        "published_at": null,
-        "summary": "নড়াইল পুলিশ লাইনসের নারী ব্যারাকে এক নারী পুলিশ সদস্য আত্মহত্যা করেছেন। বৃহস্পতিবার (১৯ মার্চ) দিবাগত রাতে এ ঘটনা ঘটে। ...",
-        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-      },
-      {
-        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-        "published_at": null,
-        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
       },
       {
         "headline": "কখনো মনে হয়নি যে অন্য একটা দেশে কাজ করছি: সুস্মিতা চ্যাটার্জি",
@@ -1441,87 +1515,27 @@
         "published_at": null,
         "summary": "রমজান মাসের সিয়াম সাধনা শেষে বিশ্বের প্রায় দুই বিলিয়ন মুসলমান ঈদ উদযাপন করছেন। তবে এ আনন্দের সময়েও ইরান, লেবানন ও উপসাগরীয় অঞ্চলের সঙ্ঘাতে ক্ষতিগ্রস্ত মানুষের কথা গভীর উদ্বেগের সাথে স্মরণ করেন তিনি।",
         "image_url": "https://media.ndiganta.com/original_images/Dr_Yunus.jpg"
-      },
-      {
-        "headline": "রাণীনগরে যুবদলের ৩ নেতাকে প্রধানমন্ত্রীর উপহার",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/T7hGWclQfwIp/",
-        "published_at": null,
-        "summary": "নওগাঁর রাণীনগরে আওয়ামী লীগ সরকারের আমলে হেলমেট বাহিনীর হামলার শিকার ইউপি চেয়ারম্যানসহ সেই তিন যুবদল নেতা পেলেন প্রধানমন্ত্রী তারেক রহমানের ঈদ উপহার হিসেবে নগদ অর্থ।",
-        "image_url": "https://media.ndiganta.com/original_images/Raninagar_Pic-20-03-26.jpg"
-      },
-      {
-        "headline": "এশিয়া কাপ খেলতে রাতে থাইল্যান্ড যাচ্ছে বাংলাদেশ আরচ্যারী দল",
-        "url": "https://dailynayadiganta.com/sports/RimbtHPK2DoN/",
-        "published_at": null,
-        "summary": "বাংলাদেশ আরচ্যারী দল নয়টি ইভেন্টে প্রতিদ্বন্দ্বিতা করবে।",
-        "image_url": "https://media.ndiganta.com/original_images/Bangladesh-Archery-Team.jpg"
-      },
-      {
-        "headline": "দেশবাসীকে ঈদের শুভেচ্ছা জানিয়েছেন বিরোধীদলীয় চিফ হুইপ",
-        "url": "https://dailynayadiganta.com/bangladesh/politics/T14Q3pTTb2wl/",
-        "published_at": null,
-        "summary": "'ঈদ হিংসা-বিদ্বেষ দূর করে মানুষের হৃদয়ে প্রশান্তি এনে দেয় এবং সমাজে পারস্পরিক সম্পর্ক আরো দৃঢ় করে।'",
-        "image_url": "https://media.ndiganta.com/original_images/Nahid-Islam_mWfbAZO.jpg"
-      },
-      {
-        "headline": "তিস্তায় অবৈধ বালু-পাথর সিন্ডিকেটে টাস্কফোর্সের সাঁড়াশি অভিযান",
-        "url": "https://dailynayadiganta.com/bangladesh/country-news/d8sApJNMfOrK/",
-        "published_at": null,
-        "summary": "সম্প্রতি তিস্তা নদীতে একটি প্রভাবশালী অসাধু চক্র বোমা মেশিন ব্যবহার করে প্রকাশ্যে অবৈধভাবে বালু ও পাথর উত্তোলন করে আসছিল।",
-        "image_url": "https://media.ndiganta.com/original_images/Nilphamari-Operation.jpg"
-      },
-      {
-        "headline": "‘নতুন সরকার যদি বিচার না করে, তাইলে বুইজ্জাম গরিবের বিচার নাই’",
-        "url": "https://www.prothomalo.com/bangladesh/district/5390dxlm99",
-        "published_at": "2026-03-20T15:30:24.782000+00:00",
-        "summary": "২০১৬ সালের ২০ মার্চ সন্ধ্যায় কুমিল্লা সেনানিবাসের ভেতরে একটি বাসায় টিউশনি করতে গিয়ে আর বাসায় ফেরেননি সোহাগী জাহান তনু। পরে ঝোপের মধ্যে তাঁর লাশ পাওয়া যায়।",
-        "image_s3_key": "prothomalo-bangla/2026-03-20/l7htsgjc/082132CUMILLADH175220260318IMG20260318165906.JPG.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/l7htsgjc/082132CUMILLADH175220260318IMG20260318165906.JPG.JPG?auto=format,compress"
-      },
-      {
-        "headline": "জনপ্রিয় অ্যাকশন তারকা চাক নরিস আর নেই",
-        "url": "https://www.prothomalo.com/entertainment/hollywood/ilo6je54e6",
-        "published_at": "2026-03-20T15:15:00+00:00",
-        "summary": "হলিউডের জনপ্রিয় অ্যাকশন তারকা চাক নরিস আর নেই। আজ শুক্রবার ৮৬ বছর বয়সে তাঁর মৃত্যু হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-20/vtseo9uj/the-delta-force-1770013492.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/vtseo9uj/the-delta-force-1770013492.webp?auto=format,compress"
-      },
-      {
-        "headline": "মার্কিন ডলারের বিপরীতে ভারতীয় রুপির রেকর্ড পতন",
-        "url": "https://www.prothomalo.com/business/world-business/ez2mh24pba",
-        "published_at": "2026-03-20T15:00:00+00:00",
-        "summary": "প্রতি ডলারের বিপরীতে ভারতীয় রুপির দাম ৬০ পয়সা কমে সর্বনিম্ন স্তরে নেমে গেছে। এতে প্রতি ডলারের দাম দাঁড়িয়েছে ৯৩ দশমিক ৪৯ রুপি।",
-        "image_s3_key": "prothomalo-bangla/2025-12-03/qp7m5cyn/ffa8af4b-1139-4ab9-8b2c-5aa42ec50249.jfif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-03/qp7m5cyn/ffa8af4b-1139-4ab9-8b2c-5aa42ec50249.jfif?auto=format,compress"
-      },
-      {
-        "headline": "‘আয়রোজগার নাই, ঈদ করুম ক্যামনে’",
-        "url": "https://www.prothomalo.com/bangladesh/district/nmqg0eozas",
-        "published_at": "2026-03-20T14:55:02.004000+00:00",
-        "summary": "জাটকা রক্ষায় ১ মার্চ থেকে আগামী ৩০ এপ্রিল পর্যন্ত মেঘনার চাঁদপুরের মতলব উত্তরের ষাটনল থেকে হাইমচরের চরভৈরবী পর্যন্ত সব প্রকার মাছ ধরার ওপর নিষেধাজ্ঞা চলছে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-20/bw2ss7s5/CHANDPURDH051020260320MATLAB-JELE.JPG.JPG",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/bw2ss7s5/CHANDPURDH051020260320MATLAB-JELE.JPG.JPG?auto=format,compress"
-      },
-      {
-        "headline": "উপমহাদেশজুড়ে হাজার কি.মি. বৃষ্টিবলয়, প্রভাব বাংলাদেশেও",
-        "url": "https://www.prothomalo.com/bangladesh/environment/p7sc5hknki",
-        "published_at": "2026-03-20T14:40:53.513000+00:00",
-        "summary": "আবুল কালাম মল্লিক বলছিলেন, এই যে মেঘবলয়ের সৃষ্টি হয়েছে, তা সাধারণত ডিসেম্বর থেকে মধ্য মার্চ পর্যন্ত বিস্তৃত হয়। এটি হয় মূলত পশ্চিমা লঘুচাপের কারণে।",
-        "image_s3_key": "prothomalo-bangla/2026-03-20/1hy2ac0m/Rain-today.jfif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/1hy2ac0m/Rain-today.jfif?auto=format,compress"
-      },
-      {
-        "headline": "যুক্তরাষ্ট্রের দুটি যুদ্ধবিমানকে অবতরণের অনুমতি দেয়নি শ্রীলঙ্কা",
-        "url": "https://www.prothomalo.com/world/asia/bdm7hcyo9m",
-        "published_at": "2026-03-20T14:36:26.331000+00:00",
-        "summary": "পার্লামেন্টে শ্রীলঙ্কার প্রেসিডেন্ট বলেন, ‘আমরা এই অনুরোধগুলো বিবেচনা করছিলাম। যদি আমরা ইরানকে ‘হ্যাঁ’ বলতাম, তবে আমাদের যুক্তরাষ্ট্রকেও ‘হ্যাঁ’ বলতে হতো।’",
-        "image_s3_key": "prothomalo-bangla/2026-03-20/d1mg65sn/Srilanka.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/d1mg65sn/Srilanka.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
       {
-        "headline": "উয়ারী-বটেশ্বরখ্যাত প্রত্নতত্ত্ব ও লোকসাহিত্য সংগ্রাহক হাবিবুল্লা পাঠান আর নেই",
+        "headline": "মাছ ধরতে গিয়ে নৌকা উল্টে মৃত্যু, ঈদ আনন্দে নেমে এল বিষাদ",
+        "url": "https://www.prothomalo.com/bangladesh/district/plhf9dbdjn",
+        "published_at": "2026-03-21T10:46:43.995000+00:00",
+        "summary": "বুকভরা কান্না আর অদম্য শক্তি নিয়ে প্রায় দুই ঘণ্টা সাঁতরে তারা তীরে পৌঁছায়—বাবাকে ফেলে নয়, বুকে আগলে নিয়েই। তবে জীবিত নয়, লাশ হয়ে ঘরে ফেরেন পরিবারের একমাত্র উপার্জনক্ষম মানুষটি।",
+        "image_s3_key": "prothomalo-bangla/2026-01-23/v0i11hbq/১.avif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/v0i11hbq/১.avif?auto=format,compress"
+      },
+      {
+        "headline": "‘এই গাধা দেখো, গাধা’, ঈদের দিনে চিড়িয়াখানায় শিশুদের উচ্ছ্বাস",
+        "url": "https://www.prothomalo.com/bangladesh/capital/95434wz3jz",
+        "published_at": "2026-03-21T10:41:29.716000+00:00",
+        "summary": "জাতীয় চিড়িয়াখানায় আজ ঢাকা ও এর আশপাশের জেলা থেকে দর্শনার্থীরা এসেছেন। দর্শনার্থীদের কেউ কেউ এসেছেন পরিবার নিয়ে।",
+        "image_s3_key": "prothomalo-bangla/2026-03-21/d6yqxzod/zoo-1.jfif",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/d6yqxzod/zoo-1.jfif?auto=format,compress"
+      },
+      {
+        "headline": "উয়ারী-বটেশ্বরখ্যাত প্রত্নসম্পদ ও লোকসাহিত্য সংগ্রাহক হাবিবুল্লা পাঠান আর নেই",
         "url": "https://www.prothomalo.com/bangladesh/district/g6995e764m",
         "published_at": "2026-03-21T10:02:14.299000+00:00",
         "summary": "হাবিবুল্লা পাঠান ‘বটেশ্বর প্রত্ন সংগ্রহশালা ও গ্রন্থাগার’ নামে একটি জাদুঘর প্রতিষ্ঠা করেন। ওই জাদুঘরে তিন হাজার বছরের বিভিন্ন সরঞ্জাম ছাড়াও এ অঞ্চলে প্রাপ্ত বিভিন্ন প্রত্নতাত্ত্বিক নিদর্শন রয়েছে।",
@@ -1817,14 +1831,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/b986d5ue/PM-Tarique.jpg?auto=format,compress"
       },
       {
-        "headline": "ঈদযাত্রার প্রথম তিন দিনে পদ্মা সেতু থেকে ১৩ কোটি ২১ লাখ টাকা টোল আদায়",
-        "url": "https://www.prothomalo.com/bangladesh/7yhaocsjfs",
-        "published_at": "2026-03-20T12:08:05.543000+00:00",
-        "summary": "পবিত্র ঈদুল ফিতর উপলক্ষে এবার পদ্মা সেতু দিয়ে ৩ দিনে ১ লাখ ১৯ হাজার ৬৮২টি যানবাহন পারাপার হয়েছে।",
-        "image_s3_key": "prothomalo-bangla/2026-01-20/0yryer8l/Padma-Bridge.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-20/0yryer8l/Padma-Bridge.jpg?auto=format,compress"
-      },
-      {
         "headline": "দেশজুড়ে ১৩৩ সিনেমা হলে শাকিব খানের ‘প্রিন্স’",
         "url": "https://www.bd-pratidin.com/entertainment/2026/03/21/1230337",
         "published_at": "2026-03-21T16:19:16+06:00",
@@ -1854,7 +1860,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -2091,11 +2097,33 @@
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-49-20260317153800.jpg"
       },
       {
+        "headline": "সাগরে দুই ঘণ্টা সাঁতরে বাবার মরদেহ নিয়ে বাড়ি ফিরলেন দুই ছেলে",
+        "url": "https://www.amarsangbad.com/country/news/340894",
+        "published_at": "1774089130",
+        "summary": "বঙ্গোপসাগরের মোহনায় মাছ ধরতে গিয়ে ঝড়ের কবলে পড়ে নৌকা ডুবে প্রাণ হারিয়েছেন নূরে আলম (৪৫) নামে এক জেলে। পরে প্রায় দুই ঘণ্টা সাঁতরে বাবার মরদেহ তীরে নিয়ে এসেছেন তার দুই ছেলে। শুক্রবার (২০ মার্চ) বিকেলে লক্ষ্মীপুরের বয়ার চর-সংলগ্ন মেঘনা ও সাগরের মোহনায় এই ঘটনা ঘটে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-design-20260321103210.jpg"
+      },
+      {
         "headline": "বৃষ্টি উপেক্ষা করে ষাটগম্বুজ মসজিদে মুসল্লিদের ঢল",
         "url": "https://www.amarsangbad.com/country/news/340881",
         "published_at": "1774073110",
         "summary": "বিশ্বঐতিহ্য ষাটগম্বুজ মসজিদে এবারও পবিত্র ঈদুল ফিতরের প্রধান জামাত অনুষ্ঠিত হয়েছে। বৈরী আবহাওয়া ও বৃষ্টি উপেক্ষা করে প্রাচীন এই মুসলিম স্থাপত্যে ঈদের নামাজ আদায় করতে ভোর থেকেই ঢল নামে ধর্মপ্রাণ মুসল্লিদের।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/Untitled-design-20260321060510.jpg"
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-20260321060510.jpg"
+      },
+      {
+        "headline": "ঈদযাত্রার প্রথম তিন দিনে পদ্মা সেতু থেকে ১৩ কোটি ২১ লাখ টাকা টোল আদায়",
+        "url": "https://www.prothomalo.com/bangladesh/7yhaocsjfs",
+        "published_at": "2026-03-20T12:08:05.543000+00:00",
+        "summary": "পবিত্র ঈদুল ফিতর উপলক্ষে এবার পদ্মা সেতু দিয়ে ৩ দিনে ১ লাখ ১৯ হাজার ৬৮২টি যানবাহন পারাপার হয়েছে।",
+        "image_s3_key": "prothomalo-bangla/2026-01-20/0yryer8l/Padma-Bridge.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-20/0yryer8l/Padma-Bridge.jpg?auto=format,compress"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
       },
       {
         "headline": "বরিশালে বৃষ্টি উপেক্ষা করে ঈদুল ফিতরের প্রধান জামাত অনুষ্ঠিত",
@@ -2974,38 +3002,6 @@
         "published_at": "1774004329",
         "summary": "ঝালকাঠির রাজাপুর উপজেলায় সৌদি আরবের সঙ্গে মিল রেখে পবিত্র ঈদুল ফিতরের নামাজ অনুষ্ঠিত হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-5-20260320105849.jpg"
-      },
-      {
-        "headline": "পবিত্র জুমাতুল বিদা আজ",
-        "url": "https://www.prothomalo.com/bangladesh/zrb9296wlc",
-        "published_at": "2026-03-20T02:00:00+00:00",
-        "summary": "আজ পবিত্র রমজানের শেষ শুক্রবার। রমজান মাসেরও আজ শেষ দিন। দিনটি জুমাতুল বিদা নামে পরিচিত। জুমাতুল বিদার মধ্য দিয়ে মাহে রমজানকে এক বছরের জন্য বিদায় সম্ভাষণ জানানো হয়।",
-        "image_s3_key": "prothomalo/import/media/2016/07/01/a83c92742bc6808b22937d0f3897a93c-17.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo/import/media/2016/07/01/a83c92742bc6808b22937d0f3897a93c-17.jpg?auto=format,compress"
-      },
-      {
-        "headline": "রবিউস সামসের পাশে দাঁড়ানোর অনুরোধ",
-        "url": "https://www.prothomalo.com/bangladesh/1lgpgdzk2m",
-        "published_at": "2026-03-19T22:00:00+00:00",
-        "summary": "ঢাকা বিশ্ববিদ্যালয়ের সাবেক ছাত্র সৈয়দ রবিউস সামস (ব্যাচ ১৯৯৭-৯৮) ২০২১ সাল থেকে ফুসফুসের ফাইব্রোসিস ও ব্রঙ্কাইটেসিসে ভুগছেন। ",
-        "image_s3_key": "prothomalo-bangla/2026-03-18/787h5foy/WhatsApp-Image-2026-03-18-at-10.33.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-18/787h5foy/WhatsApp-Image-2026-03-18-at-10.33.jpg?auto=format,compress"
-      },
-      {
-        "headline": "উত্তরের পথে পথে ভোগান্তি,দুটি ট্রেনের শিডিউল বিপর্যয়",
-        "url": "https://www.prothomalo.com/bangladesh/qdm6as5mbf",
-        "published_at": "2026-03-19T17:38:07.504000+00:00",
-        "summary": "আজ বৃহস্পতিবার এই তিন পথেই ছিল যাত্রীদের ভোগান্তি। কিছু সড়কে ছিল দীর্ঘ যানজট, বিভিন্ন রুটে ঘরমুখী মানুষের কাছ থেকে অতিরিক্ত ভাড়াও আদায় করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-03-19/u9b2098k/tangail.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/u9b2098k/tangail.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "রাকিব হত্যার ঘটনায় খুনি ভাড়া করা হয় খুলনা থেকে",
-        "url": "https://www.prothomalo.com/bangladesh/capital/il0ih07btq",
-        "published_at": "2026-03-19T17:28:44.607000+00:00",
-        "summary": "হত্যাকাণ্ডে ব্যবহৃত অস্ত্র-গুলিসহ পাঁচজনকে গ্রেপ্তার করেছে শাহবাগ থানার পুলিশ ও কাউন্টার টেররিজম অ্যান্ড ট্রান্সন্যাশনাল ক্রাইম।",
-        "image_s3_key": "prothomalo-bangla/2026-03-16/52rys3wm/2.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/52rys3wm/2.avif?auto=format,compress"
       }
     ],
     "politics": [
@@ -3039,7 +3035,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -3160,7 +3156,7 @@
         "headline": "বাংলাদেশ জাতীয়তাবাদী দল",
         "url": "https://www.jugantor.com/bnp",
         "published_at": null,
-        "summary": "আমি মনে করি, আমাদের সকলের জন্য আজকে ঈদের আনন্দ তো আছেই। এই ঈদের আনন্দ একটু অতিরিক্ত আনন্দ উপভোগ ...",
+        "summary": "ইসলামের মূল বানী হলো শান্তি, আর এই শান্তির বানী অনুসরণ করে আমরা মুসলমানেরা ঐক্যবদ্ধ হয়ে নিজেদের মধ্যে সব দ্বিধা-দ্বন্দ্ব দূর ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747294137-430161.jpg"
       },
       {
@@ -3169,6 +3165,13 @@
         "published_at": null,
         "summary": "বাংলাদেশে জামায়াতে ইসলামীর আমির ও বিরোধীদলীয় নেতা ডা. শফিকুর রহমান বলেছেন, ভোট আর গণভোট; একটা হালাল হলে আরেকটা হারাম হবে ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
       },
       {
         "headline": "পরিবারের সদস্যদের নিয়ে বাবা-মায়ের কবর জিয়ারত করলেন তারেক রহমান",
@@ -4401,20 +4404,13 @@
         "published_at": "2026-03-18T16:17:58+06:00",
         "summary": "ইরানের জাতীয় নিরাপত্তা বিভাগের প্রধান কর্মকর্তা আলী লারিজানিকে হত্যার একদিন পরই দেশটির গোয়েন্দা বিষয়ক মন্ত্রী ইসমাইল খতিবকে লক্ষ্যবস্তু করার দাবি করেছে দখলদার ইসরায়েল।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773829077-e769c9c86162c7ca2cdcdf0263bd0358.jpg"
-      },
-      {
-        "headline": "আইজিপির বাসায় চুরির খবর সম্পূর্ণ ভিত্তিহীন : পুলিশ সদর দফতর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/18/1229659",
-        "published_at": "2026-03-18T16:04:05+06:00",
-        "summary": "পুলিশের মহাপরিদর্শক (আইজিপি) মো. আলী হোসেন ফকিরের বাগেরহাটের বাসভবনে চুরির খবর সম্পূর্ণ ভিত্তিহীন ও বিভ্রান্তিকর বলে জানিয়েছে পুলিশ সদর দফতর। প্রকৃত ঘটনা হলো— ঝড়-বৃষ্টির সময় ছিঁড়ে পড়ে থাকা বাইরের সার্ভিস লাইনের তার অজ্ঞাত ব্যক্তিরা নিয়ে যায়। পরে অভিযান চালিয়ে তারগুলো উদ্ধার এবং জড়িত তিনজনকে গ্রেফতার করে পুলিশ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773828244-d04ae3737bddfd61bc2e6716535f567d.jpg"
       }
     ],
     "world": [
       {
-        "headline": "ইরানের নাতানজ পরমাণু কেন্দ্রে ইসরায়েল ও যুক্তরাষ্ট্রের হামলা, ছড়ায়নি তেজস্ক্রিয় পদার্থ",
+        "headline": "ইরানের নাতানজ পারমাণবিক কেন্দ্রে ইসরায়েল ও যুক্তরাষ্ট্রের হামলা",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-21T10:18:18.182000+00:00",
+        "published_at": "2026-03-21T10:35:37.244000+00:00",
         "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
         "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
@@ -4753,7 +4749,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -4815,6 +4811,20 @@
         "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "সিরিয়ায় ইসরাইলি হামলার নিন্দা আরব দেশগুলোর",
+        "url": "https://dailynayadiganta.com/international/asia/middle-east/lGRF1d2VcwhB/",
+        "published_at": null,
+        "summary": "সৌদির এই বিবৃতিতে আরো বলা হয়, আন্তর্জাতিক সম্প্রদায়কে ইসরাইলের আন্তর্জাতিক আইন ও নীতিমালা লঙ্ঘনের অবসান ঘটাতে পদক্ষেপ নিতে হবে।",
+        "image_url": "https://media.ndiganta.com/original_images/Syria_0YpgSFq.jpg"
+      },
+      {
+        "headline": "দক্ষিণ কোরিয়ায় গাড়ি কারখানায় অগ্নিকাণ্ডে ১১ জনের মৃত্যু",
+        "url": "https://dailynayadiganta.com/international/asia/O0Zzsm9XfgiB/",
+        "published_at": null,
+        "summary": "ধসের ঝুঁকির কারণে শুরুতে ফায়ার সার্ভিস কর্মীরা মধ্যাঞ্চলীয় শহর ডেজনে অবস্থিত এই কারখানা ভেতরে ঢুকতে পারেনি।",
+        "image_url": "https://media.ndiganta.com/original_images/South-Korea-fire.jpg"
+      },
+      {
         "headline": "বিতর্কিত দ্বীপপুঞ্জে হামলার বিষয়ে সংযুক্ত আরব আমিরাতকে ইরানের সতর্কতা",
         "url": "https://dailynayadiganta.com/international/asia/middle-east/vh6MWlR8jheb/",
         "published_at": null,
@@ -4827,20 +4837,6 @@
         "published_at": null,
         "summary": "৫০০ বছরে একবার ঘটে এমন ঘটনা। জলবায়ু বিশেষজ্ঞদের মতে, এটি প্রায় নিশ্চিতভাবেই মানবসৃষ্ট জলবায়ু পরিবর্তনের ফল।",
         "image_url": "https://media.ndiganta.com/original_images/Untitled-1_3wpRKN1.jpg"
-      },
-      {
-        "headline": "২০টিরও বেশি ড্রোন প্রতিহতের দাবি সৌদি আরবের",
-        "url": "https://dailynayadiganta.com/international/asia/middle-east/gmE2bjuXriT1/",
-        "published_at": null,
-        "summary": "ইরান যুক্তরাষ্ট্র ও ইসরাইলের হামলার প্রতিক্রিয়ায় সৌদি আরবসহ আশপাশের দেশগুলোতে পাল্টা আক্রমণ চালিয়ে যাচ্ছে।",
-        "image_url": "https://media.ndiganta.com/original_images/iran-dron_4epqzo9.jpg"
-      },
-      {
-        "headline": "গ্যাসের দাম বৃদ্ধি, ইরানি তেল বিক্রিতে নিষেধাজ্ঞা শিথিল যুক্তরাষ্ট্রের",
-        "url": "https://dailynayadiganta.com/international/asia/middle-east/Cgkjwl2I1cJz/",
-        "published_at": null,
-        "summary": "যুদ্ধ শুরুর পর থেকেই জাহাজ চলাচল এবং জ্বালানি উৎপাদনের ওপর বিরূপ প্রভাব পড়ায় বিশ্বজুড়ে জ্বালানির দাম বেড়েই চলেছে।",
-        "image_url": "https://media.ndiganta.com/original_images/oil-ship.jpg"
       },
       {
         "headline": "তৃণমূল কংগ্রেসের নির্বাচনী ইশতেহারে '১০ প্রতিশ্রুতি' মমতার",
@@ -4939,6 +4935,27 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
+      },
+      {
+        "headline": "২০টিরও বেশি ড্রোন প্রতিহতের দাবি সৌদি আরবের",
+        "url": "https://dailynayadiganta.com/international/asia/middle-east/gmE2bjuXriT1/",
+        "published_at": null,
+        "summary": "ইরান যুক্তরাষ্ট্র ও ইসরাইলের হামলার প্রতিক্রিয়ায় সৌদি আরবসহ আশপাশের দেশগুলোতে পাল্টা আক্রমণ চালিয়ে যাচ্ছে।",
+        "image_url": "https://media.ndiganta.com/original_images/iran-dron_4epqzo9.jpg"
+      },
+      {
+        "headline": "গ্যাসের দাম বৃদ্ধি, ইরানি তেল বিক্রিতে নিষেধাজ্ঞা শিথিল যুক্তরাষ্ট্রের",
+        "url": "https://dailynayadiganta.com/international/asia/middle-east/Cgkjwl2I1cJz/",
+        "published_at": null,
+        "summary": "যুদ্ধ শুরুর পর থেকেই জাহাজ চলাচল এবং জ্বালানি উৎপাদনের ওপর বিরূপ প্রভাব পড়ায় বিশ্বজুড়ে জ্বালানির দাম বেড়েই চলেছে।",
+        "image_url": "https://media.ndiganta.com/original_images/oil-ship.jpg"
       },
       {
         "headline": "ইরানের ক্ষেপণাস্ত্রে ইসরায়েলি বিমানবন্দরে ৩টি উড়োজাহাজ ক্ষতিগ্রস্ত",
@@ -5844,28 +5861,6 @@
         "published_at": null,
         "summary": "বেইজিং জানিয়েছে, চীনের এক বিশেষ দূত দুই দেশের মধ্যে মধ্যস্থতা করতে এক সপ্তাহ সময় ব্যয় করেছেন।",
         "image_url": "https://media.ndiganta.com/original_images/afgan-china-pakistan.png"
-      },
-      {
-        "headline": "‘এটি আমাদের যুদ্ধ নয়’: ট্রাম্পের দাবির মুখে ইউরোপীয় নেতারা",
-        "url": "https://www.prothomalo.com/world/europe/gmkfgdd1ms",
-        "published_at": "2026-03-17T19:06:53.893000+00:00",
-        "summary": "জার্মানির প্রতিরক্ষামন্ত্রী বরিস পিস্টোরিয়াস সোমবার বলেন, ‘এটি আমাদের যুদ্ধ নয়। আমরা এটি শুরু করিনি।’ তিনি বলেন, জার্মানি কূটনৈতিক সমাধান চায়।  ",
-        "image_s3_key": "prothomalo-bangla/2025-01-14/2mb6586z/Untitled-2.png",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-01-14/2mb6586z/Untitled-2.png?auto=format,compress"
-      },
-      {
-        "headline": "রাজশাহীর পুঠিয়ায় সৌদির সঙ্গে মিল রেখে ঈদের নামাজ",
-        "url": "https://www.bd-pratidin.com/country/2026/03/20/1230084",
-        "published_at": "2026-03-20T09:57:59+06:00",
-        "summary": "রাজশাহীর পুঠিয়া উপজেলায় সৌদির সঙ্গে মিল রেখে আগাম ঈদুল ফিতরের নামাজ অনুষ্ঠিত হয়েছে। শুক্রবার সকাল ৮টায় পুঠিয়া পৌরসভার কৃষ্ণপুর গ্রামের কৃষ্ণপুর মুসলিম জামে মসজিদের বারান্দায় এ জামাত অনুষ্ঠিত হয়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1773979079-7cf5d5eda3cefb895af45b2b55cc1d7e.jpg"
-      },
-      {
-        "headline": "আজকের নামাজের সময়সূচি, ২০ মার্চ ২০২৬",
-        "url": "https://www.bd-pratidin.com/islam/2026/03/20/1230083",
-        "published_at": "2026-03-20T09:54:47+06:00",
-        "summary": "আজ শুক্রবার, ২০ মার্চ ২০২৬, ৬ চৈত্র ১৪৩২, ৩০ রমজান ১৪৪৭।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1773978886-0128f852e49f6effa8103e48a4384a4a.jpg"
       }
     ],
     "business": [
@@ -7403,6 +7398,14 @@
     ],
     "sports": [
       {
+        "headline": "ক্রিকেটেও কি এবার দেখা যাবে ইউরো",
+        "url": "https://www.prothomalo.com/sports/cricket/q4r81td61o",
+        "published_at": "2026-03-21T10:30:00+00:00",
+        "summary": "আগামী বছরই ‘ইউরো নেশনস কাপ’ নামের একটি টুর্নামেন্ট মাঠে গড়াতে পারে। এশিয়া কাপের মতো সেখানে অংশ নেবে ইউরোপ মহাদেশের ক্রিকেট খেলুড়ে দেশগুলো।",
+        "image_s3_key": "prothomalo-bangla/2022-10/7ea475c0-3c07-4689-b327-55fddd794df4/407493_01_02.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2022-10/7ea475c0-3c07-4689-b327-55fddd794df4/407493_01_02.jpg?auto=format,compress"
+      },
+      {
         "headline": "প্রীতি ম্যাচে আলিসনকে পাচ্ছে না ব্রাজিল",
         "url": "https://www.prothomalo.com/sports/football/w2vz7m3cys",
         "published_at": "2026-03-21T09:15:00+00:00",
@@ -7715,14 +7718,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-18/bllo4byu/salah.jpg?auto=format,compress"
       },
       {
-        "headline": "নিউক্যাসলের জালে ৭ গোল করে কোয়ার্টার ফাইনালে বার্সেলোনা",
-        "url": "https://www.prothomalo.com/sports/football/ivnwzj09oc",
-        "published_at": "2026-03-18T19:43:52.469000+00:00",
-        "summary": "চ্যাম্পিয়নস লিগ শেষ ষোলো ফিরতি লেগে নিউক্যাসল ইউনাইটেডকে বড় ব্যবধানে হারিয়েছে বার্সেলোনা।",
-        "image_s3_key": "prothomalo-bangla/2026-03-18/u4761ye2/fbl-eur-c1-barcelona-newcastle.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-18/u4761ye2/fbl-eur-c1-barcelona-newcastle.jpeg?auto=format,compress"
-      },
-      {
         "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
         "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
         "published_at": null,
@@ -7861,6 +7856,14 @@
         "published_at": "1773423161",
         "summary": "বৃষ্টিবিঘ্নিত ম্যাচে বড় হারের মুখ দেখল স্বাগতিক বাংলাদেশ। পাকিস্তানের দেওয়া চ্যালেঞ্জিং লক্ষ্য তাড়া করতে নেমে নিয়মিত বিরতিতে উইকেট হারিয়ে ১১৪ রানেই অলআউট হয়েছে মেহেদী হাসান মিরাজের দল। ১২৮ রানের বড় জয়ে তিন ম্যাচের ওয়ানডে সিরিজে ১-১ সমতায় ফিরল সফরকারী পাকিস্তান।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/295064830-20260313173241.jpg"
+      },
+      {
+        "headline": "নিউক্যাসলের জালে ৭ গোল করে কোয়ার্টার ফাইনালে বার্সেলোনা",
+        "url": "https://www.prothomalo.com/sports/football/ivnwzj09oc",
+        "published_at": "2026-03-18T19:43:52.469000+00:00",
+        "summary": "চ্যাম্পিয়নস লিগ শেষ ষোলো ফিরতি লেগে নিউক্যাসল ইউনাইটেডকে বড় ব্যবধানে হারিয়েছে বার্সেলোনা।",
+        "image_s3_key": "prothomalo-bangla/2026-03-18/u4761ye2/fbl-eur-c1-barcelona-newcastle.jpeg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-18/u4761ye2/fbl-eur-c1-barcelona-newcastle.jpeg?auto=format,compress"
       },
       {
         "headline": "সিরিজ জয়ের লক্ষ্যে টস জিতে ফিল্ডিংয়ে বাংলাদেশ",
@@ -8919,14 +8922,6 @@
         "published_at": "1773039181",
         "summary": "ফুটবল বিশ্বে লিওনেল মেসির নাম এখন কেবল একজন খেলোয়াড় হিসেবে নয়, বরং একটি বিশাল ব্র্যান্ড এবং অর্থনৈতিক শক্তির প্রতীক হিসেবে প্রতিষ্ঠিত। ইন্টার মায়ামির সহ-মালিক হোর্হে মাস সম্প্রতি একটি সাক্ষাৎকারে মেসির পারিশ্রমিক নিয়ে যে তথ্য প্রকাশ করেছেন, তাতে ফুটবল দুনিয়ায় নতুন করে তোলপাড় শুরু হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-18-20260309065301.jpg"
-      },
-      {
-        "headline": "রানআউট বিতর্ক আর বৃষ্টির পর বাংলাদেশের বড় হার",
-        "url": "https://www.prothomalo.com/sports/cricket/8rsw9q6z0x",
-        "published_at": "2026-03-13T17:56:49.147000+00:00",
-        "summary": "বাংলাদেশকে ১২৮ রানে হারিয়ে তিন ম্যাচের ওয়ানডে সিরিজে সমতা ফেরাল পাকিস্তান।",
-        "image_s3_key": "prothomalo-bangla/2026-03-13/hou7gp3u/WhatsApp-Image-2026-03-13-at-22.38.57.jpeg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-13/hou7gp3u/WhatsApp-Image-2026-03-13-at-22.38.57.jpeg?auto=format,compress"
       }
     ],
     "entertainment": [
@@ -9272,7 +9267,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -9451,6 +9446,13 @@
         "published_at": "1773309877",
         "summary": "সব অনিশ্চয়তা কাটিয়ে অবশেষে প্রকাশিত হলো আসন্ন ঈদের বহুল প্রতীক্ষিত সিনেমা ‘প্রিন্স: ওয়ানস আপন আ টাইম ইন ঢাকা’-এর টিজার। বৃহস্পতিবার বেলা একটার দিকে এসকে ফিল্মসের ইউটিউব চ্যানেলে এক মিনিট উনত্রিশ সেকেন্ড দৈর্ঘ্যের এই টিজারটি প্রকাশ করা হয়েছে, যাকে নির্মাতারা ‘প্রি-ব্লাস্ট’ হিসেবে অভিহিত করছেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-11-20260312100437.jpg"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
       },
       {
         "headline": "৯৪৩ কোটি টাকা আয়! অরিজিতকেও ছাড়িয়ে গেলেন এই গায়ক",
@@ -10386,13 +10388,6 @@
         "published_at": "2026-03-19T18:01:22+06:00",
         "summary": "যুক্তরাষ্ট্র ও ইসরায়েল যৌথভাবে ইরানে হামলার পর থেকে মধ্যপ্রাচ্যে ব্যাপক অস্থিরতা বিরাজ করছে। মধ্যপ্রাচ্যের সংঘাতে বিশ্ববাজারে লাফিয়ে লাফিয়ে বাড়ছে জ্বালানির দাম। চলাচলে ঝুঁকির কারণে হরমুজ প্রণালির বাইরে আটকা পড়েছে কয়েক ডজন জাহাজ। জাহাজগুলো প্রণালি অতিক্রম করার জন্য এক ধরনের ‘সবুজ সংকেতের (অনুমতি) অপেক্ষায়’ রয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773921681-0c985a0be21ee2f9471c64a15ead935d.jpg"
-      },
-      {
-        "headline": "কাতারে গ্যাস স্থাপনায় হামলায় সবচেয়ে বেশি ঝুঁকিতে যেসব দেশ",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/19/1229995",
-        "published_at": "2026-03-19T17:20:41+06:00",
-        "summary": "মধ্যপ্রাচ্যে চলমান যুদ্ধে হামলার শিকার হয়েছে কাতারের রাস লাফান ইন্ডাস্ট্রিয়াল সিটি। মাত্র ১২ ঘণ্টার ব্যবধানে সেখানে দু’বার ক্ষেপণাস্ত্র হামলা হয়েছে। ইরানের এই ক্ষেপণাস্ত্র হামলায় ওই গ্যাসক্ষেত্রে ‘ব্যাপক ক্ষয়ক্ষতি’ হয়েছে। এ ঘটনার জেরে সবচেয়ে বেশি ঝুঁকিতে পড়েছে ভারত উপমহাদেশ। কেননা, গ্যাস সংকটের কারণে এই অঞ্চলের দেশগুলোতে বড় ধরনের বিদ্যুৎ বিভ্রাট ও শিল্পকারখানায় উৎপাদন ব্যাহত হওয়ার আশঙ্কা রয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773919240-f275f7eae442bf7a5bf3d78c95ed58e6.jpg"
       }
     ],
     "jobs": [
@@ -10746,7 +10741,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -10876,6 +10871,13 @@
         "published_at": null,
         "summary": "নিয়োগ পরীক্ষার প্রস্তুতিতে সফল হতে হলে দরকার সঠিক তথ্য, আপডেটেড সিলেবাস ও নির্ভরযোগ্য রিসোর্স। প্রতিটি নিয়োগ পরীক্ষার ধরন, প্রশ্নের গঠন ও মানদণ্ড ভিন্ন হওয়ায় সময়মতো সঠিক নির্দেশনা জানা অত্যন্ত জরুরি। লিখিত, এমসিকিউ ও মৌখিক পরীক্ষার প্রস্তুতিতে বিগত বছরের প্রশ্নপত্র, সময় ব্যবস্থাপনা কৌশল, বিষয়ের ওপর ভিত্তি করে অধ্যয়ন পরিকল্পনা এবং মানসম্পন্ন প্র্যাকটিস সেট আপনাকে সঠিক পথে এগিয়ে নিতে পারে।",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
       },
       {
         "headline": "পরিবারের সদস্যদের নিয়ে বাবা-মায়ের কবর জিয়ারত করলেন তারেক রহমান",
@@ -11832,13 +11834,6 @@
         "published_at": "2026-03-19T10:20:45+06:00",
         "summary": "পবিত্র ঈদুল ফিতর উপলক্ষে গ্রামে সবাই মিলে গরু জবাইকে কেন্দ্র করে দুই পক্ষের মধ্যে দফায় দফায় সংঘর্ষের ঘটনা ঘটেছে। এতে উভয়পক্ষের অন্তত ১৫ জন আহত হওয়ার খবর পাওয়া গেছে। আহতদের মধ্যে তিনজনকে ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে পাঠানো হয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773894044-635c049ba06de2428b3d4b6fd623e96e.jpg"
-      },
-      {
-        "headline": "আশ্রয় নিতে গিয়ে মৃত্যুর ফাঁদে, বৃষ্টি ও ঝড়ে প্রাণ গেল অন্তত ১৯ জনের",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/19/1229890",
-        "published_at": "2026-03-19T10:15:32+06:00",
-        "summary": "প্রবল বৃষ্টি আর বজ্রঝড়ে এক রাতেই তছনছ হয়ে গেছে পাকিস্তানের করাচি। বিভিন্ন দুর্ঘটনায় অন্তত ১৯ জনের প্রাণহানির খবর পাওয়া গেছে, যার মধ্যে একটি ভবনের ছাদ ধসে মারা গেছেন অন্তত ১৩ জন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773893731-399d479aeafb747b13b4637ad24dd9be.jpg"
       }
     ],
     "opinion": [
@@ -13277,7 +13272,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -13386,6 +13381,13 @@
         "published_at": "1771227856",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের সঙ্গে অনুষ্ঠিত গণভোটের আনুষ্ঠানিক ফলাফল গেজেট আকারে প্রকাশ করেছে নির্বাচন কমিশন (ইসি)।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-5--20260216074416.jpg"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
       },
       {
         "headline": "পরিবারের সদস্যদের নিয়ে বাবা-মায়ের কবর জিয়ারত করলেন তারেক রহমান",
@@ -14639,13 +14641,6 @@
         "published_at": "2026-03-18T11:52:48+06:00",
         "summary": "অস্ট্রেলিয়ান ক্রিকেটে ধারাভাষ্যকার ও বিশ্লেষক হিসেবেই বেশির ভাগ সময় ব্যস্ত দেখা যায় ব্র্যাড হ্যাডিনকে। নানা সময়ে সহকারী কোচের দায়িত্ব পালন করেছেন বিভিন্ন দলে। এবার নতুন অধ্যায় শুরু করতে যাচ্ছেন তিনি। নিউ সাউথ ওয়েলসের প্রধান কোচের দায়িত্ব পালন করবেন সাবেক এই কিপার-ব্যাটার।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773813167-dd5112257088f82d295518ec2dc65c5d.jpg"
-      },
-      {
-        "headline": "স্বস্তির ঈদযাত্রা, ফাঁকা ঢাকা-চট্টগ্রাম মহাসড়ক",
-        "url": "https://www.bd-pratidin.com/city-news/2026/03/18/1229577",
-        "published_at": "2026-03-18T11:43:35+06:00",
-        "summary": "ঈদ উপলক্ষে সরকার ঘোষিত টানা সাতদিনের ছুটির দ্বিতীয় দিন বুধবার রাজধানী ছাড়ছেন ঘরমুখো মানুষ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773812614-272ffe248339f67c8168b403078156bb.jpg"
       }
     ],
     "city": [
@@ -14679,7 +14674,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -14718,6 +14713,13 @@
         "published_at": "2026-03-21T14:06:37+06:00",
         "summary": "মধ্যপ্রাচ্যের আকাশে যুদ্ধের ধোঁয়া আর বাস্তুচ্যুত মানুষের দীর্ঘশ্বাস। এমন বাস্তবতায় ইরান, গাজা, লেবাননে এবার ঈদুল ফিতরের আনন্দ অনেকটাই ম্লান হয়ে গেছে। অর্থনৈতিক সংকট, সহিংসতা আর অনিশ্চয়তা মিলিয়ে উৎসবের চিরচেনা রূপ যেন হারিয়ে গেছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774080396-d4ac9d4871fc5923eb197a17799cef7f.jpg"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
       },
       {
         "headline": "পরিবারের সদস্যদের নিয়ে বাবা-মায়ের কবর জিয়ারত করলেন তারেক রহমান",
@@ -16041,13 +16043,6 @@
         "published_at": "2026-03-18T09:21:08+06:00",
         "summary": "ত্রয়োদশ জাতীয় সংসদে মন্ত্রণালয় ও বিভাগসমূহের সংসদ বিষয়ক কার্যাবলি সম্পাদনের জন্য দায়িত্ব বণ্টন করা হয়েছে। প্রধানমন্ত্রীর অনুপস্থিতিতে গুরুত্বপূর্ণ কয়েকটি দপ্তরের দায়িত্ব দুই মন্ত্রীর ওপর অর্পণ করা হয়েছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773812505-53069202b78780dabe656307b18b268f.png"
-      },
-      {
-        "headline": "ঈদ উপলক্ষে বিটিভির বিশেষ আড্ডায় ববিতা",
-        "url": "https://www.bd-pratidin.com/entertainment/2026/03/18/1229532",
-        "published_at": "2026-03-18T09:15:17+06:00",
-        "summary": "পবিত্র ঈদুল ফিতর উপলক্ষে বিশেষ আড্ডার আয়োজন করেছে বাংলাদেশ টেলিভিশন (বিটিভি)। দুই প্রজন্মের তারকাদের অংশগ্রহণে সাজানো এই অনুষ্ঠানে উঠে আসবে ঈদের স্মৃতি, পারিবারিক গল্প এবং শিল্পীজীবনের নানা অজানা দিক।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773803716-8ba32c064f71e98d5dc16c86f6dd046a.jpg"
       }
     ],
     "campus": [
@@ -16081,7 +16076,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -16190,6 +16185,13 @@
         "published_at": "1773247060",
         "summary": "শিক্ষার্থীদের মধ্যে মহানবী হযরত মুহাম্মদ (সা.)-এর জীবন ও আদর্শ ছড়িয়ে দিতে রাজধানীর সরকারি বাঙলা কলেজ ইসলামী ছাত্রশিবিরের উদ্যোগে সীরাত প্রতিযোগিতা ও পুরস্কার বিতরণী অনুষ্ঠানের আয়োজন করা হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-36-20260311163740.jpg"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
       },
       {
         "headline": "পরিবারের সদস্যদের নিয়ে বাবা-মায়ের কবর জিয়ারত করলেন তারেক রহমান",
@@ -17443,13 +17445,6 @@
         "published_at": "2026-03-18T12:27:45+06:00",
         "summary": "ঈদকে সামনে রেখে মাংস দেওয়ার প্রতিশ্রুতি দিয়ে সারা বছর কিস্তিতে টাকা জমা নিয়ে প্রায় ৭৭ লাখ টাকা হাতিয়ে নিয়ে উধাও হয়ে গেছে একটি সমবায় সমিতির পরিচালকরা। ঘটনাটি ঘটেছে বগুড়া শহর-এর মালগ্রাম চাপড়পাড়া এলাকায়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773815264-7151184986aed9f8f418938930271d37.jpg"
-      },
-      {
-        "headline": "বায়তুল মোকাররমে ঈদের ৫ জামাত, প্রথমটি সকাল ৭টায়",
-        "url": "https://www.bd-pratidin.com/islam/2026/03/18/1229593",
-        "published_at": "2026-03-18T12:24:40+06:00",
-        "summary": "পবিত্র ঈদুল ফিতরে বায়তুল মোকাররম জাতীয় মসজিদে পর্যায়ক্রমে পাঁচটি ঈদের নামাজের জামাত অনুষ্ঠিত হবে। প্রথম জামাত অনুষ্ঠিত হবে সকাল ৭টায়।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773815079-356af004b52bc32783a89ba7e6ce93dd.jpg"
       }
     ],
     "tech": [
@@ -17483,7 +17478,7 @@
       },
       {
         "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
-        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/21/1230316",
         "published_at": "2026-03-21T14:54:27+06:00",
         "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
@@ -17669,6 +17664,13 @@
         "published_at": null,
         "summary": "ইন্টারনেটের এই যুগে শিশুদের অনলাইন নিরাপত্তা নিশ্চিত করতে হোয়াটসঅ্যাপ নিয়ে এসেছে বিশেষ ‘পেরেন্টাল কন্ট্রোল’ ফিচার। এখন থেকে অভিভাবকের অনুমতি ও ...",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "আগামী প্রজন্মের জন্য একটি সুন্দর দেশের প্রত্যাশা কৃষিমন্ত্রীর",
+        "url": "https://www.bd-pratidin.com/national/2026/03/21/1230316",
+        "published_at": "2026-03-21T14:54:27+06:00",
+        "summary": "কুমিল্লায় ঈদুল ফিতরের প্রধান জামাত কেন্দ্রীয় ঈদগাহে অনুষ্ঠিত হয়েছে। সকাল সাড়ে ৮টায় এ জামাত অনুষ্ঠিত হয়। জামাতে ইমামতি করেন কান্দিরপাড় জামে মসজিদের ইমাম ক্বারী মো. ইব্রাহিম।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774083266-b33252b1573d07b1f9eb699dbc2e0cc4.jpg"
       },
       {
         "headline": "পরিবারের সদস্যদের নিয়ে বাবা-মায়ের কবর জিয়ারত করলেন তারেক রহমান",
@@ -18845,13 +18847,6 @@
         "published_at": "2026-03-18T14:11:48+06:00",
         "summary": "ঢাকা-১৮ আসনের সংসদ সদস্য এস এম জাহাঙ্গীর হোসেন বলেন, ‘আমি সরকার থেকে যা পাব, আপনারা তা পাই পাই করে বুঝে নেবেন।’",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773821507-ccdc68e3bdbf2b6994edf3a79202ef25.jpg"
-      },
-      {
-        "headline": "পিএসজির বিপক্ষে ভরাডুবির পর চেলসি ছাড়ার ইঙ্গিত এনজো ফার্নান্দেজের",
-        "url": "https://www.bd-pratidin.com/sports/2026/03/18/1229620",
-        "published_at": "2026-03-18T14:03:35+06:00",
-        "summary": "প্যারিস সেন্ট জার্মেইর কাছে হেরে চ্যাম্পিয়নস লিগ থেকে চেলসি বিদায় নিয়েছে চেলসি। এরপরই চেলসিতে নিজের ভবিষ্যৎ নিয়ে সন্দেহের মধ্যে পড়েছেন আর্জেন্টাইন মিডফিল্ডার এনজো ফার্নান্দেজ। আগামী মৌসুমে চেলসিতে থাকবেন কিনা তা নিয়ে আশঙ্কা প্রকাশ করেছেন তিনি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/18/og/1773821014-373f50a19ca07fb37c3752b6cd38b4a1.jpg"
       }
     ]
   }
