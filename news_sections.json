@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-03-21T19:31:16.195707+00:00",
+  "fetched_at": "2026-03-21T19:49:03.963709+00:00",
   "sections": {
     "latest": [
       {
         "headline": "ইরানের ক্ষেপণাস্ত্র হামলায় ইসরায়েলে ভবন ধস, আহত অন্তত ২০",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-21T18:26:29.165000+00:00",
+        "published_at": "2026-03-21T19:37:21.415000+00:00",
         "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
         "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
+      },
+      {
+        "headline": "কমল হাসান থেকে মালাইকা-বলিউড তারকাদের ঈদ শুভেচ্ছায় কী বার্তা",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/4s5wkbzle5",
+        "published_at": "2026-03-21T19:31:00+00:00",
+        "summary": "ঈদুল ফিতর ২০২৬ উপলক্ষে বলিউড ও টেলিভিশন জগতের তারকারা ভক্তদের শুভেচ্ছা জানিয়েছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-21/8lli0njj/collage-4.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/8lli0njj/collage-4.jpg?auto=format,compress"
       },
       {
         "headline": "দিনে যুদ্ধবিরতির সম্ভাবনা নাকচ করে রাতেই কেন যুদ্ধ বন্ধের ইঙ্গিত ট্রাম্পের",
@@ -307,14 +315,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/2si4vi9k/Scientists-Complete-Schrödingers-Color-Theory.-sciencealert.jpg?auto=format,compress"
       },
       {
-        "headline": "জাতীয় ঈদগাহে রাষ্ট্রপতি ও প্রধানমন্ত্রীর একসঙ্গে ঈদের নামাজ আদায়",
-        "url": "https://www.prothomalo.com/video/bangladesh/707cmbca8z",
-        "published_at": "2026-03-21T12:50:59.460000+00:00",
-        "summary": "জাতীয় ঈদগাহে রাষ্ট্রপতি ও প্রধানমন্ত্রীর একসঙ্গে ঈদের নামাজ আদায়",
-        "image_s3_key": "prothomalo-bangla/2026-03-21/vd6ups8o/BARTA-SHONKHEP.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/vd6ups8o/BARTA-SHONKHEP.jpg?auto=format,compress"
-      },
-      {
         "headline": "নিষেধাজ্ঞা শিথিলের পরও বিশ্ববাজারে কমেনি তেলের দাম",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/22/1230397",
         "published_at": "2026-03-22T01:22:57+06:00",
@@ -479,7 +479,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 22, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "রাজশাহীর বাঘায় ঈদুল ফিতরের দিন এক ছাত্রদল নেতা ছুরিকাঘাতে আহত হয়েছেন ...",
+        "summary": "চট্টগ্রামের লোহাগাড়া উপজেলায় কভার্ড ভ্যানের চাপায় ইশফাত (১৮) নামের এক মোটরসাইকেল আরোহী নিহত হয়েছেন ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -488,6 +488,14 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "জাতীয় ঈদগাহে রাষ্ট্রপতি ও প্রধানমন্ত্রীর একসঙ্গে ঈদের নামাজ আদায়",
+        "url": "https://www.prothomalo.com/video/bangladesh/707cmbca8z",
+        "published_at": "2026-03-21T12:50:59.460000+00:00",
+        "summary": "জাতীয় ঈদগাহে রাষ্ট্রপতি ও প্রধানমন্ত্রীর একসঙ্গে ঈদের নামাজ আদায়",
+        "image_s3_key": "prothomalo-bangla/2026-03-21/vd6ups8o/BARTA-SHONKHEP.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/vd6ups8o/BARTA-SHONKHEP.jpg?auto=format,compress"
       },
       {
         "headline": "ঈদের প্রথমদিন কুয়াকাটায় পর্যটকদের ভীড়",
@@ -1491,14 +1499,6 @@
         "published_at": null,
         "summary": "মিরকাদিম পৌরসভার তিলার্দী মহল্লায় অবস্থিত স্বপ্নজয়ী পাঠশালায় এ ব্যতিক্রমী আয়োজন অনুষ্ঠিত হয়।",
         "image_url": "https://media.ndiganta.com/original_images/655346425_5285507938340248_8913085424191778162_n.jpg"
-      },
-      {
-        "headline": "কিশোরগঞ্জের শোলাকিয়ায় ঈদের জামাতে জনসমুদ্র",
-        "url": "https://www.prothomalo.com/bangladesh/district/suzc7i8crb",
-        "published_at": "2026-03-21T07:35:57.584000+00:00",
-        "summary": "নামাজ শেষে বিশ্ব মুসলিম উম্মাহর শান্তি, সমৃদ্ধি এবং দেশের সার্বিক কল্যাণ কামনা করে দোয়া ও মোনাজাত করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-03-21/33b9r5ry/KishorgonjDH063520260321IMG20260321124611.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/33b9r5ry/KishorgonjDH063520260321IMG20260321124611.jpg?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -4395,7 +4395,7 @@
       {
         "headline": "ইরানের ক্ষেপণাস্ত্র হামলায় ইসরায়েলে ভবন ধস, আহত অন্তত ২০",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-21T18:26:29.165000+00:00",
+        "published_at": "2026-03-21T19:37:21.415000+00:00",
         "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
         "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
@@ -8909,6 +8909,14 @@
     ],
     "entertainment": [
       {
+        "headline": "কমল হাসান থেকে মালাইকা-বলিউড তারকাদের ঈদ শুভেচ্ছায় কী বার্তা",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/4s5wkbzle5",
+        "published_at": "2026-03-21T19:31:00+00:00",
+        "summary": "ঈদুল ফিতর ২০২৬ উপলক্ষে বলিউড ও টেলিভিশন জগতের তারকারা ভক্তদের শুভেচ্ছা জানিয়েছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-21/8lli0njj/collage-4.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/8lli0njj/collage-4.jpg?auto=format,compress"
+      },
+      {
         "headline": "শাকিব খানের ‘প্রিন্স’ চালাতে পারেনি বেশ কয়েকটি হল, ভাঙচুর",
         "url": "https://www.prothomalo.com/entertainment/dhallywood/shpf725evs",
         "published_at": "2026-03-21T16:06:13.445000+00:00",
@@ -9213,14 +9221,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-18/a9h4uorw/Mehazabien-And-Pritom-Hasan.JPG?auto=format,compress"
       },
       {
-        "headline": "‘যৌন ইঙ্গিতপূর্ণ আশালীন’ গান, অবশেষে মুখ খুললেন নোরা ফাতেহি",
-        "url": "https://www.prothomalo.com/entertainment/bollywood/ag2spmc5lj",
-        "published_at": "2026-03-19T07:30:00+00:00",
-        "summary": "বিতর্কের পরেই গানটি ইউটিউব থেকে সরিয়ে নেওয়া হয়। এবার গানটি নিয়ে মুখ খুললেন নোরা ফাতেহি।",
-        "image_s3_key": "prothomalo-bangla/2026-03-17/iwvwlcal/nora-fatehi-vulgar-song-ban-1773655510.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/iwvwlcal/nora-fatehi-vulgar-song-ban-1773655510.jpg?auto=format,compress"
-      },
-      {
         "headline": "নিষেধাজ্ঞা শিথিলের পরও বিশ্ববাজারে কমেনি তেলের দাম",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/22/1230397",
         "published_at": "2026-03-22T01:22:57+06:00",
@@ -9429,6 +9429,14 @@
         "published_at": "1773423472",
         "summary": "সামাজিক যোগাযোগমাধ্যমে তারকাদের নিয়ে ক্রমাগত ট্রল, কুরুচিপূর্ণ মন্তব্য এবং কৃত্রিম বুদ্ধিমত্তা (AI) ব্যবহার করে আপত্তিকর ভিডিও তৈরির বিরুদ্ধে কঠোর অবস্থান নিয়েছেন ওপার বাংলার জনপ্রিয় অভিনেত্রী শ্রাবন্তী চ্যাটার্জি। এই ধরনের সম্মানহানিকর কর্মকাণ্ড ঠেকাতে তিনি প্রশাসনের সরাসরি হস্তক্ষেপ এবং কঠোর আইন প্রণয়নের ওপর গুরুত্বারোপ করেছেন।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/804748184-20260313173752.jpg"
+      },
+      {
+        "headline": "‘যৌন ইঙ্গিতপূর্ণ আশালীন’ গান, অবশেষে মুখ খুললেন নোরা ফাতেহি",
+        "url": "https://www.prothomalo.com/entertainment/bollywood/ag2spmc5lj",
+        "published_at": "2026-03-19T07:30:00+00:00",
+        "summary": "বিতর্কের পরেই গানটি ইউটিউব থেকে সরিয়ে নেওয়া হয়। এবার গানটি নিয়ে মুখ খুললেন নোরা ফাতেহি।",
+        "image_s3_key": "prothomalo-bangla/2026-03-17/iwvwlcal/nora-fatehi-vulgar-song-ban-1773655510.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/iwvwlcal/nora-fatehi-vulgar-song-ban-1773655510.jpg?auto=format,compress"
       },
       {
         "headline": "ঈদের প্রথমদিন কুয়াকাটায় পর্যটকদের ভীড়",
@@ -10365,13 +10373,6 @@
         "published_at": "2026-03-20T09:14:09+06:00",
         "summary": "ইরানে যুদ্ধ পরিস্থিতির মধ্যে অবরুদ্ধ হয়ে থাকা হরমুজ প্রণালি খুলে দিয়ে জাহাজ চলাচল নিরাপদ করতে ‘যথাযথ প্রচেষ্টায়’ যোগ দিতে প্রস্তুত থাকার কথা এক যৌথ বিবৃতিতে জানিয়েছে ইউরোপ ও জাপান মিলিয়ে ছয় দেশ।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1773976448-5b8a3da4d755567526973bbbfc1d880b.jpg"
-      },
-      {
-        "headline": "ইরানে যুদ্ধ চালিয়ে যেতে ২০০ বিলিয়ন ডলার চাইলো পেন্টাগন",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/20/1230077",
-        "published_at": "2026-03-20T09:03:58+06:00",
-        "summary": "ইরানের বিরুদ্ধে চলমান যুদ্ধের খরচ জোগাতে কংগ্রেসের কাছে ২০ হাজার কোটি (২০০ বিলিয়ন) ডলার বরাদ্দ চেয়ে প্রস্তাব দিয়েছে যুক্তরাষ্ট্রের প্রতিরক্ষা সদরপ্তর পেন্টাগন। এক সামরিক কর্মকর্তা ও প্রশাসনের এক শীর্ষ কর্মকর্তা এমনটাই জানিয়েছেন। এই অর্থ ইরানের মোট জিডিপি-র প্রায় ৫০ শতাংশ। ইতিমধ্যেই বিতর্কে ঘেরা এই সামরিক অভিযানের ব্যয় আরও বাড়িয়ে দিতে পারে এই বিপুল অঙ্কের প্রস্তাব।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1773975837-39d7b219a70bb405b0acbe3d7043b616.jpg"
       }
     ],
     "jobs": [

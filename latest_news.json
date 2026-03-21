@@ -1,13 +1,21 @@
 {
-  "fetched_at": "2026-03-21T19:31:16.195707+00:00",
+  "fetched_at": "2026-03-21T19:49:03.963709+00:00",
   "stories": [
     {
       "headline": "ইরানের ক্ষেপণাস্ত্র হামলায় ইসরায়েলে ভবন ধস, আহত অন্তত ২০",
       "url": "https://www.prothomalo.com/world/5slmsanxj1",
-      "published_at": "2026-03-21T18:26:29.165000+00:00",
+      "published_at": "2026-03-21T19:37:21.415000+00:00",
       "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
       "image_s3_key": "prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-16/5f4o77tw/TehranReutersProthomalo1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "কমল হাসান থেকে মালাইকা-বলিউড তারকাদের ঈদ শুভেচ্ছায় কী বার্তা",
+      "url": "https://www.prothomalo.com/entertainment/bollywood/4s5wkbzle5",
+      "published_at": "2026-03-21T19:31:00+00:00",
+      "summary": "ঈদুল ফিতর ২০২৬ উপলক্ষে বলিউড ও টেলিভিশন জগতের তারকারা ভক্তদের শুভেচ্ছা জানিয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-21/8lli0njj/collage-4.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/8lli0njj/collage-4.jpg?auto=format,compress"
     },
     {
       "headline": "দিনে যুদ্ধবিরতির সম্ভাবনা নাকচ করে রাতেই কেন যুদ্ধ বন্ধের ইঙ্গিত ট্রাম্পের",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/2si4vi9k/Scientists-Complete-Schrödingers-Color-Theory.-sciencealert.jpg?auto=format,compress"
     },
     {
-      "headline": "জাতীয় ঈদগাহে রাষ্ট্রপতি ও প্রধানমন্ত্রীর একসঙ্গে ঈদের নামাজ আদায়",
-      "url": "https://www.prothomalo.com/video/bangladesh/707cmbca8z",
-      "published_at": "2026-03-21T12:50:59.460000+00:00",
-      "summary": "জাতীয় ঈদগাহে রাষ্ট্রপতি ও প্রধানমন্ত্রীর একসঙ্গে ঈদের নামাজ আদায়",
-      "image_s3_key": "prothomalo-bangla/2026-03-21/vd6ups8o/BARTA-SHONKHEP.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/vd6ups8o/BARTA-SHONKHEP.jpg?auto=format,compress"
-    },
-    {
       "headline": "নিষেধাজ্ঞা শিথিলের পরও বিশ্ববাজারে কমেনি তেলের দাম",
       "url": "https://www.bd-pratidin.com/international-news/2026/03/22/1230397",
       "published_at": "2026-03-22T01:22:57+06:00",
@@ -478,7 +478,7 @@
       "headline": "আজকের সর্বশেষ খবর - March 22, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "রাজশাহীর বাঘায় ঈদুল ফিতরের দিন এক ছাত্রদল নেতা ছুরিকাঘাতে আহত হয়েছেন ...",
+      "summary": "চট্টগ্রামের লোহাগাড়া উপজেলায় কভার্ড ভ্যানের চাপায় ইশফাত (১৮) নামের এক মোটরসাইকেল আরোহী নিহত হয়েছেন ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -487,6 +487,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "জাতীয় ঈদগাহে রাষ্ট্রপতি ও প্রধানমন্ত্রীর একসঙ্গে ঈদের নামাজ আদায়",
+      "url": "https://www.prothomalo.com/video/bangladesh/707cmbca8z",
+      "published_at": "2026-03-21T12:50:59.460000+00:00",
+      "summary": "জাতীয় ঈদগাহে রাষ্ট্রপতি ও প্রধানমন্ত্রীর একসঙ্গে ঈদের নামাজ আদায়",
+      "image_s3_key": "prothomalo-bangla/2026-03-21/vd6ups8o/BARTA-SHONKHEP.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/vd6ups8o/BARTA-SHONKHEP.jpg?auto=format,compress"
     },
     {
       "headline": "ঈদের প্রথমদিন কুয়াকাটায় পর্যটকদের ভীড়",
@@ -1490,14 +1498,6 @@
       "published_at": null,
       "summary": "মিরকাদিম পৌরসভার তিলার্দী মহল্লায় অবস্থিত স্বপ্নজয়ী পাঠশালায় এ ব্যতিক্রমী আয়োজন অনুষ্ঠিত হয়।",
       "image_url": "https://media.ndiganta.com/original_images/655346425_5285507938340248_8913085424191778162_n.jpg"
-    },
-    {
-      "headline": "কিশোরগঞ্জের শোলাকিয়ায় ঈদের জামাতে জনসমুদ্র",
-      "url": "https://www.prothomalo.com/bangladesh/district/suzc7i8crb",
-      "published_at": "2026-03-21T07:35:57.584000+00:00",
-      "summary": "নামাজ শেষে বিশ্ব মুসলিম উম্মাহর শান্তি, সমৃদ্ধি এবং দেশের সার্বিক কল্যাণ কামনা করে দোয়া ও মোনাজাত করা হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-21/33b9r5ry/KishorgonjDH063520260321IMG20260321124611.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-21/33b9r5ry/KishorgonjDH063520260321IMG20260321124611.jpg?auto=format,compress"
     }
   ]
 }
