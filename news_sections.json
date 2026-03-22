@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-03-22T19:47:55.572777+00:00",
+  "fetched_at": "2026-03-22T20:23:25.819966+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "দুই-তৃতীয়াংশ মার্কিন নাগরিকের মতে ইরান যুদ্ধ ‘ইচ্ছাকৃত’ : জরিপ",
+        "url": "https://www.prothomalo.com/world/5slmsanxj1",
+        "published_at": "2026-03-22T20:02:20.643000+00:00",
+        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
+      },
       {
         "headline": "‘সমাজ’ কেন দীপিকাকে মেনে নিচ্ছে না",
         "url": "https://www.prothomalo.com/entertainment/bollywood/trdlq181a3",
@@ -17,14 +25,6 @@
         "summary": "শনিবার দিবাগত রাত পৌনে তিনটার দিকে গোয়েন্দা তথ্যের ভিত্তিতে ও তথ্যপ্রযুক্তির সহায়তায় রাজধানীর যাত্রাবাড়ী থানার ধলপুর এলাকা থেকে অপহরণকারী এম এম তানভীরকে (৩৫) গ্রেপ্তার করা হয়।",
         "image_s3_key": "prothomalo-bangla/2026-03-22/lvbx8g2a/RAB.jpeg",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-22/lvbx8g2a/RAB.jpeg?auto=format,compress"
-      },
-      {
-        "headline": "দুই-তৃতীয়াংশ মার্কিন নাগরিকের মতে ইরান যুদ্ধ ‘ইচ্ছাকৃত’ : জরিপ",
-        "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-22T18:40:05.439000+00:00",
-        "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
       },
       {
         "headline": "মার্কিন তেল অবরোধের মুখে তৃতীয়বারের মতো বিদ্যুৎ বিপর্যয়, অন্ধকারে কিউবা",
@@ -315,6 +315,13 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-22/3jl0adds/CumillaDH175220260322IMG-20260322-WA0114.jpg?auto=format,compress"
       },
       {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
+      {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
         "published_at": "2026-03-23T00:47:53+06:00",
@@ -376,6 +383,20 @@
         "published_at": "2026-03-22T20:55:14+06:00",
         "summary": "মাদকের বিরুদ্ধে কার্যকর ব্যবস্থা গ্রহণের দাবিতে রাজবাড়ীতে মানববন্ধন অনুষ্ঠিত হয়েছে। স্থানীয় যুবসমাজের উদ্যোগে রবিবার বিকেলে সদর উপজেলার উড়াকান্দা বাজার এলাকায় এ কর্মসূচি পালন করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774191313-d82319912041449cd31bdb7e7569d171.jpg"
+      },
+      {
+        "headline": "আজকের সর্বশেষ খবর - March 23, 2026",
+        "url": "https://www.jugantor.com/latest",
+        "published_at": null,
+        "summary": "লাকসামে উপজেলার একটি মসজিদের টয়লেট থেকে অজ্ঞাতপরিচয় এক যুবকের লাশের গলায় গামছা পেঁচানো অবস্থায় উদ্ধার করেছে পুলিশ ...",
+        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+      },
+      {
+        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+        "published_at": null,
+        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
       },
       {
         "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
@@ -474,20 +495,6 @@
         "published_at": null,
         "summary": "মন্ত্রণালয়ের কার্যক্রমে অটোমেশন বাড়ানো, ই-পেমেন্ট চালু এবং অফিসগুলোতে সরাসরি নগদ লেনদেন বন্ধের উদ্যোগ নেয়া হচ্ছে। আমার নির্বাচনী এলাকা চট্টগ্রামের হাটহাজারী ভূমি অফিসে ইতোমধ্যে সম্পূর্ণ ই-পে সিস্টেম চালু হয়েছে, যেখানে কোনো ক্যাশ লেনদেন হয় না।",
         "image_url": "https://media.ndiganta.com/original_images/1000038560.jpg"
-      },
-      {
-        "headline": "আজকের সর্বশেষ খবর - March 23, 2026",
-        "url": "https://www.jugantor.com/latest",
-        "published_at": null,
-        "summary": "আগামী ছয় মাসের মধ্যে ভূমি মন্ত্রণালয়ে দুর্নীতি ‘ওয়ান ডিজিটে’ নামিয়ে আনার প্রত্যয় ব্যক্ত করেছেন ভূমি মন্ত্রণালয় ও পার্বত্য চট্টগ্রাম বিষয়ক ...",
-        "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-      },
-      {
-        "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-        "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-        "published_at": null,
-        "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-        "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
       },
       {
         "headline": "মিহাদ ও মায়ামনির পরিবারে মাতম",
@@ -1496,14 +1503,6 @@
         "summary": "বর্তমান সরকার জ্বালানি নিরাপত্তার বিষয়ে খুবই সজাগ এবং জ্বালানি কেনা অব্যাহত আছে বলে জানান আমীর খসরু মাহমুদ চৌধুরী।",
         "image_s3_key": "prothomalo-bangla/2026-03-22/rxs8jqs1/d6f1848a-10bc-4d54-8599-d6561a67ae9d.jfif",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-22/rxs8jqs1/d6f1848a-10bc-4d54-8599-d6561a67ae9d.jfif?auto=format,compress"
-      },
-      {
-        "headline": "ব্রাহ্মণবাড়িয়ায় চোখে টর্চের আলো পড়া নিয়ে বিতণ্ডা, কিশোরকে কুপিয়ে হত্যা",
-        "url": "https://www.prothomalo.com/bangladesh/district/5ivjakc1ix",
-        "published_at": "2026-03-22T09:07:06.526000+00:00",
-        "summary": "ঈদের দিন সন্ধ্যায় মোসাব্বিরসহ তার বন্ধুরা গান শুনছিল। অন্ধকারে টর্চলাইট জ্বালালে সেই আলো যাদের চোখে পড়ে, তাদের সঙ্গে কথা–কাথাকাটি হয়।",
-        "image_s3_key": "prothomalo-bangla/2026-01-23/v0i11hbq/১.avif",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-23/v0i11hbq/১.avif?auto=format,compress"
       }
     ],
     "bangladesh": [
@@ -1828,6 +1827,13 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-22/ih2adps8/BarishalDH059020260322barishal-0000.jpg?auto=format,compress"
       },
       {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
+      {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
         "published_at": "2026-03-23T00:47:53+06:00",
@@ -1889,13 +1895,6 @@
         "published_at": "2026-03-22T20:55:14+06:00",
         "summary": "মাদকের বিরুদ্ধে কার্যকর ব্যবস্থা গ্রহণের দাবিতে রাজবাড়ীতে মানববন্ধন অনুষ্ঠিত হয়েছে। স্থানীয় যুবসমাজের উদ্যোগে রবিবার বিকেলে সদর উপজেলার উড়াকান্দা বাজার এলাকায় এ কর্মসূচি পালন করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774191313-d82319912041449cd31bdb7e7569d171.jpg"
-      },
-      {
-        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
-        "published_at": "2026-03-22T20:26:25+06:00",
-        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "ঈদে বাড়ি ফেরা হচ্ছে না ডিআইইউ’র ১২ নিরাপত্তা প্রহরীর",
@@ -2106,6 +2105,13 @@
         "published_at": "1774178290",
         "summary": "কুমিল্লার পদুয়ার বাজার রেলক্রসিংয়ে ভয়াবহ ট্রেন ও বাসের সংঘর্ষের ঘটনায় নিহতদের প্রত্যেক পরিবারকে ১ লাখ টাকা করে ক্ষতিপূরণ দেওয়ার ঘোষণা দিয়েছে রেল কর্তৃপক্ষ।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-58-20260322111810.jpg"
+      },
+      {
+        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
+        "published_at": "2026-03-22T20:26:25+06:00",
+        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "কুষ্টিয়ার মাদ্রাসার সেই শিশুশিক্ষার্থীর ঈদ কাটল আইসিইউতে",
@@ -3002,16 +3008,16 @@
         "published_at": "2026-03-22T08:20:32+06:00",
         "summary": "কুমিল্লায় বাস ও ট্রেনের সংঘর্ষে ১২ জন নিহতের ঘটনার পর থেকে চট্টগ্রামের সঙ্গে সারাদেশের রেল যোগাযোগ বন্ধ রয়েছে। শনিবার (২১ মার্চ) দিবাগত রাত ৩টার দিকে দুর্ঘটনার পর থেকে মেইল ট্রেনটি দুর্ঘটনাস্থলে আটকে আছে।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774146031-d390c0ce3c829b0011fecff753294596.jpg"
-      },
-      {
-        "headline": "কাতারের জলসীমায় হেলিকপ্টার বিধ্বস্ত",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/22/1230409",
-        "published_at": "2026-03-22T08:10:24+06:00",
-        "summary": "কাতারের জলসীমায় একটি হেলিকপ্টার বিধ্বস্ত হয়েছে। দেশটির প্রতিরক্ষা মন্ত্রণালয়ের বরাতে সংবাদমাধ্যম আলজাজিরা এ খবর জানিয়েছে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774145423-47ba8abe1846793e114be82564337515.jpg"
       }
     ],
     "politics": [
+      {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
       {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
@@ -3074,13 +3080,6 @@
         "published_at": "2026-03-22T20:55:14+06:00",
         "summary": "মাদকের বিরুদ্ধে কার্যকর ব্যবস্থা গ্রহণের দাবিতে রাজবাড়ীতে মানববন্ধন অনুষ্ঠিত হয়েছে। স্থানীয় যুবসমাজের উদ্যোগে রবিবার বিকেলে সদর উপজেলার উড়াকান্দা বাজার এলাকায় এ কর্মসূচি পালন করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774191313-d82319912041449cd31bdb7e7569d171.jpg"
-      },
-      {
-        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
-        "published_at": "2026-03-22T20:26:25+06:00",
-        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "দলীয় ব্যক্তিদের জেলা পরিষদের প্রশাসক নিয়োগ দেয়ায় জামায়াতের প্রতিবাদ",
@@ -3172,6 +3171,13 @@
         "published_at": null,
         "summary": "দেশে দ্রুত স্থানীয় সরকার নির্বাচন প্রয়োজন বলে মনে করেন জাতীয় সংসদের বিরোধী দলীয় নেতা ডা. শফিকুর রহমান। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1747311634-715899.jpg"
+      },
+      {
+        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
+        "published_at": "2026-03-22T20:26:25+06:00",
+        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "ঈদের দ্বিতীয় দিনে সহস্রাধিক পর্যটকের পদচারণায় মুখরিত কুয়াকাটা",
@@ -4404,20 +4410,13 @@
         "published_at": "2026-03-19T21:24:42+06:00",
         "summary": "সিলেটের বিশ্বনাথে জমে উঠেছে শেষ মুহূর্তের ঈদ বাজার। বিপণিবিতানসহ ছোট-বড় পণ্য সামগ্রীর দোকানে ভিড় বেড়েছে ক্রেতাদের। মার্কেটগুলোতে সকাল থেকে গভীর রাত পর্যন্ত থাকছে মানুষের জটলা। বিক্রি বেড়েছে ফুটপাতের দোকানগুলোতেও।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773933881-5c3cd88166908416ea09e6a695e22939.jpg"
-      },
-      {
-        "headline": "যুদ্ধের আগে পারমাণবিক কর্মসূচি পুনরায় চালু করেনি ইরান: যুক্তরাষ্ট্রের গোয়েন্দা প্রধান",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/19/1230042",
-        "published_at": "2026-03-19T21:16:47+06:00",
-        "summary": "ইরান পারমাণবিক কর্মসূচি চালিয়ে যাচ্ছে বলে যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প বারবার দাবি করে আসলেও এবার এই কর্মসূচি নিয়েই উল্টো সুরে কথা বলেছেন মার্কিন জাতীয় গোয়েন্দা সংস্থার পরিচালক তুলসি গ্যাবার্ড।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773933406-23147c383882bd2ce5a7551b8579e52b.jpg"
       }
     ],
     "world": [
       {
         "headline": "দুই-তৃতীয়াংশ মার্কিন নাগরিকের মতে ইরান যুদ্ধ ‘ইচ্ছাকৃত’ : জরিপ",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-22T18:40:05.439000+00:00",
+        "published_at": "2026-03-22T20:02:20.643000+00:00",
         "summary": "এর আগে ওই অঞ্চলে তেলবাহী ট্যাংকারগুলোর সুরক্ষায় মিত্র দেশগুলোর যুদ্ধজাহাজ মোতায়েনের আহ্বান জানিয়েছিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
         "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
@@ -4727,6 +4726,13 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-19/jhma5edl/Soudi-Arab.jpg?auto=format,compress"
       },
       {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
+      {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
         "published_at": "2026-03-23T00:47:53+06:00",
@@ -4788,83 +4794,6 @@
         "published_at": "2026-03-22T20:55:14+06:00",
         "summary": "মাদকের বিরুদ্ধে কার্যকর ব্যবস্থা গ্রহণের দাবিতে রাজবাড়ীতে মানববন্ধন অনুষ্ঠিত হয়েছে। স্থানীয় যুবসমাজের উদ্যোগে রবিবার বিকেলে সদর উপজেলার উড়াকান্দা বাজার এলাকায় এ কর্মসূচি পালন করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774191313-d82319912041449cd31bdb7e7569d171.jpg"
-      },
-      {
-        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
-        "published_at": "2026-03-22T20:26:25+06:00",
-        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
-      },
-      {
-        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
-        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
-        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
-        "published_at": null,
-        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
-        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
-        "published_at": null,
-        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
-        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "জার্মানির প্রাদেশিক ভোটে পরীক্ষার মুখে মের্ৎসের রক্ষণশীলরা",
-        "url": "https://dailynayadiganta.com/international/europe/iycD1fUZ0lrN/",
-        "published_at": null,
-        "summary": "জাতীয় পর্যায়ে জোটসঙ্গী হওয়া সত্ত্বেও এই প্রদেশে এসপিডি’র ওপর সামান্য ব্যবধানে জনমত জরিপে এগিয়ে রয়েছে মের্ৎেসের ক্রিশ্চিয়ান ডেমোক্রেটিক ইউনিয়ন (সিডিইউ)।",
-        "image_url": "https://media.ndiganta.com/original_images/Germany-vote.jpg"
-      },
-      {
-        "headline": "ইসরাইলকে যেভাবে হামলার সক্ষমতা জানান দিচ্ছে ইরান",
-        "url": "https://dailynayadiganta.com/international/asia/middle-east/bdpVHqcpt8EZ/",
-        "published_at": null,
-        "summary": "এসব হামলায় অন্তত ১৬০ জন আহত হয়েছেন বলে জানিয়েছেন ইসরাইলি কর্মকর্তারা।",
-        "image_url": "https://media.ndiganta.com/original_images/israel-iran-attack.jpg"
-      },
-      {
-        "headline": "এফ-৩৫ এর পর এবার এফ-১৫ যুদ্ধবিমান ভূপাতিতের দাবি ইরানের",
-        "url": "https://dailynayadiganta.com/international/asia/middle-east/zfDJruJJGPsz/",
-        "published_at": null,
-        "summary": "যুদ্ধবিমানটি কোন দেশের বা এর পাইলটের পরিণতি কী হয়েছে, সে সম্পর্কে তেহরান এখন পর্যন্ত কোনো বিস্তারিত তথ্য বা ধ্বংসাবশেষের প্রমাণ উপস্থাপন করেনি।",
-        "image_url": "https://media.ndiganta.com/original_images/F-15.jpg"
-      },
-      {
-        "headline": "ইরানের হামলায় ঘরছাড়া ৩ হাজার ইসরাইলি",
-        "url": "https://dailynayadiganta.com/international/VBMxOi3q3ov1/",
-        "published_at": null,
-        "summary": "আরাদ ও দিমোনা শহরে ইরানি হামলায় অন্তত ১৮০ জন আহত হয়েছেন। আহতদের উদ্ধার করে স্থানীয় বিভিন্ন হাসপাতালে ভর্তি করা হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Israil_vSHAvQo.jpg"
-      },
-      {
-        "headline": "বিধানসভা নির্বাচনে আসামে কোনো মুসলিম প্রার্থী নেই বিজেপির",
-        "url": "https://dailynayadiganta.com/international/asia/south-asia/lGloVxy6Sqjg/",
-        "published_at": null,
-        "summary": "এ কারণে এই ১৩ আসনের বাইরের অগপ’র মুসলিম সমর্থকরা বিজেপিকেই ভোট দেবে- এমনটা ভেবেই মুসলিম অধ্যুষিত কেন্দ্রগুলো শাসক দল অগপকেই ছেড়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/vote_3puNPwp.jpg"
-      },
-      {
-        "headline": "দিল্লিতে নাম জিজ্ঞেস করে করে রোজাদার মুসলিম ছাত্রদের ওপর হামলা",
-        "url": "https://dailynayadiganta.com/international/asia/south-asia/edecBQQ7H7U2/",
-        "published_at": null,
-        "summary": "তারা পরীক্ষা দিতে গিয়েছিল, রোজা রেখেছিল এবং ঈদের জন্য অধীর আগ্রহে অপেক্ষা করছিল। কিন্তু তার বদলে তাদের ওপর এভাবে হামলা করা হলো। আমরা এর বিচার চাই।",
-        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_12_kyK83HL.png"
-      },
-      {
-        "headline": "ভারতমুখী জাহাজ ছাড়তে ইরানের প্রেসিডেন্টকে মোদির ফোন",
-        "url": "https://dailynayadiganta.com/international/asia/south-asia/gs8sHpz9N47d/",
-        "published_at": null,
-        "summary": "যুদ্ধের মধ্যে ইরানে আটকে পড়া ভারতীয় নাগরিকদের নিরাপত্তা ও সুরক্ষায় সাহায্য করেছে সে দেশের প্রশাসন। এর জন্যও তেহরানের প্রশংসা করেছেন মোদি।",
-        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_4_EHF8tPc.png"
       },
       {
         "headline": "আশ্রয় নিতে গিয়ে মৃত্যুর ফাঁদে, বৃষ্টি ও ঝড়ে প্রাণ গেল অন্তত ১৯ জনের",
@@ -4942,6 +4871,83 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
+        "published_at": "2026-03-22T20:26:25+06:00",
+        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
+      },
+      {
+        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
+        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
+        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
+        "published_at": null,
+        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
+        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
+        "published_at": null,
+        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
+        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "জার্মানির প্রাদেশিক ভোটে পরীক্ষার মুখে মের্ৎসের রক্ষণশীলরা",
+        "url": "https://dailynayadiganta.com/international/europe/iycD1fUZ0lrN/",
+        "published_at": null,
+        "summary": "জাতীয় পর্যায়ে জোটসঙ্গী হওয়া সত্ত্বেও এই প্রদেশে এসপিডি’র ওপর সামান্য ব্যবধানে জনমত জরিপে এগিয়ে রয়েছে মের্ৎেসের ক্রিশ্চিয়ান ডেমোক্রেটিক ইউনিয়ন (সিডিইউ)।",
+        "image_url": "https://media.ndiganta.com/original_images/Germany-vote.jpg"
+      },
+      {
+        "headline": "ইসরাইলকে যেভাবে হামলার সক্ষমতা জানান দিচ্ছে ইরান",
+        "url": "https://dailynayadiganta.com/international/asia/middle-east/bdpVHqcpt8EZ/",
+        "published_at": null,
+        "summary": "এসব হামলায় অন্তত ১৬০ জন আহত হয়েছেন বলে জানিয়েছেন ইসরাইলি কর্মকর্তারা।",
+        "image_url": "https://media.ndiganta.com/original_images/israel-iran-attack.jpg"
+      },
+      {
+        "headline": "এফ-৩৫ এর পর এবার এফ-১৫ যুদ্ধবিমান ভূপাতিতের দাবি ইরানের",
+        "url": "https://dailynayadiganta.com/international/asia/middle-east/zfDJruJJGPsz/",
+        "published_at": null,
+        "summary": "যুদ্ধবিমানটি কোন দেশের বা এর পাইলটের পরিণতি কী হয়েছে, সে সম্পর্কে তেহরান এখন পর্যন্ত কোনো বিস্তারিত তথ্য বা ধ্বংসাবশেষের প্রমাণ উপস্থাপন করেনি।",
+        "image_url": "https://media.ndiganta.com/original_images/F-15.jpg"
+      },
+      {
+        "headline": "ইরানের হামলায় ঘরছাড়া ৩ হাজার ইসরাইলি",
+        "url": "https://dailynayadiganta.com/international/VBMxOi3q3ov1/",
+        "published_at": null,
+        "summary": "আরাদ ও দিমোনা শহরে ইরানি হামলায় অন্তত ১৮০ জন আহত হয়েছেন। আহতদের উদ্ধার করে স্থানীয় বিভিন্ন হাসপাতালে ভর্তি করা হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/Israil_vSHAvQo.jpg"
+      },
+      {
+        "headline": "বিধানসভা নির্বাচনে আসামে কোনো মুসলিম প্রার্থী নেই বিজেপির",
+        "url": "https://dailynayadiganta.com/international/asia/south-asia/lGloVxy6Sqjg/",
+        "published_at": null,
+        "summary": "এ কারণে এই ১৩ আসনের বাইরের অগপ’র মুসলিম সমর্থকরা বিজেপিকেই ভোট দেবে- এমনটা ভেবেই মুসলিম অধ্যুষিত কেন্দ্রগুলো শাসক দল অগপকেই ছেড়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/vote_3puNPwp.jpg"
+      },
+      {
+        "headline": "দিল্লিতে নাম জিজ্ঞেস করে করে রোজাদার মুসলিম ছাত্রদের ওপর হামলা",
+        "url": "https://dailynayadiganta.com/international/asia/south-asia/edecBQQ7H7U2/",
+        "published_at": null,
+        "summary": "তারা পরীক্ষা দিতে গিয়েছিল, রোজা রেখেছিল এবং ঈদের জন্য অধীর আগ্রহে অপেক্ষা করছিল। কিন্তু তার বদলে তাদের ওপর এভাবে হামলা করা হলো। আমরা এর বিচার চাই।",
+        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_12_kyK83HL.png"
+      },
+      {
+        "headline": "ভারতমুখী জাহাজ ছাড়তে ইরানের প্রেসিডেন্টকে মোদির ফোন",
+        "url": "https://dailynayadiganta.com/international/asia/south-asia/gs8sHpz9N47d/",
+        "published_at": null,
+        "summary": "যুদ্ধের মধ্যে ইরানে আটকে পড়া ভারতীয় নাগরিকদের নিরাপত্তা ও সুরক্ষায় সাহায্য করেছে সে দেশের প্রশাসন। এর জন্যও তেহরানের প্রশংসা করেছেন মোদি।",
+        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_4_EHF8tPc.png"
       },
       {
         "headline": "বড় ধরনের বিদ্যুৎ বিভ্রাট ও শিল্পকারখানায় উৎপাদন ব্যাহত হওয়ার আশঙ্কায় বাংলাদেশ",
@@ -5858,13 +5864,6 @@
         "published_at": "1774079261",
         "summary": "ইসরায়েলি বাহিনীর ওপর একদিনে রেকর্ড ৫৫ বার হামলা চালানোর দাবি করেছে লেবাননের সশস্ত্র গোষ্ঠী হিজবুল্লাহ। ইরান-সমর্থিত এই গোষ্ঠীটি লেবানন সীমান্ত ও ইসরায়েলের উত্তরাঞ্চলে এই হামলায়।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design-20260321074741.jpg"
-      },
-      {
-        "headline": "১৯৬৭ সালের পর প্রথমবার ঈদের দিনে বন্ধ আল আকসা",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/21/1230292",
-        "published_at": "2026-03-21T12:52:04+06:00",
-        "summary": "ঈদের দিনে এমন দৃশ্য অনেকেই কল্পনাও করেননি। ১৯৬৭ সালের পর এই প্রথম পবিত্র আল আকসা মসজিদ ঈদুল ফিতরের দিনে মুসল্লিদের জন্য বন্ধ রাখা হয়েছে। ফলে শত শত ফিলিস্তিনি মুসল্লি বাধ্য হয়ে মসজিদের প্রবেশদ্বার ও আশপাশের রাস্তায় নামাজ আদায় করেছেন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/21/og/1774075923-a7f924826da7b6d1b1d59423ec44215f.jpg"
       }
     ],
     "business": [
@@ -6189,76 +6188,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-21/i95ppw4t/c77124c8-d321-4a4a-a477-87a949abf4ed.jfif?auto=format,compress"
       },
       {
-        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
-        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
-        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
-        "published_at": null,
-        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
-        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
-        "published_at": null,
-        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
-        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "যুদ্ধে বিশ্বজুড়ে বাড়তে থাকা চাপ বাংলাদেশের জনগণের ওপরও পড়ার আশঙ্কা রয়েছে",
-        "url": "https://dailynayadiganta.com/economy/i4TyrnC9A2ha/",
-        "published_at": null,
-        "summary": "তিনি বলেন, কঠিন পরিস্থিতির মধ্যেও জ্বালানি সরবরাহ নিশ্চিত রাখা, ভাড়া বৃদ্ধি না করা এবং দ্রব্যমূল্য নিয়ন্ত্রণে রাখা সম্ভব হয়েছে, যা সাধারণ মানুষের জন্য স্বস্তি বয়ে এনেছে।",
-        "image_url": "https://media.ndiganta.com/original_images/Amir-Khashru_8DYN9R3.jpg"
-      },
-      {
-        "headline": "মার্চের ২২ দিনে চট্টগ্রাম বন্দরে ২৫ জাহাজ জ্বালানি খালাস",
-        "url": "https://dailynayadiganta.com/economy/industry-commerce/oaPeirX4SWoM/",
-        "published_at": null,
-        "summary": "'মার্চ মাসে এখন পর্যন্ত মোট ২৫টি জাহাজ থেকে জ্বালানি খালাস সম্পন্ন হয়েছে। বর্তমানে ওমান থেকে আসা একটি জাহাজে এলপিজি গ্যাস খালাস কার্যক্রম চলমান রয়েছে। এছাড়া থাইল্যান্ড থেকে বেস অয়েল নিয়ে আসা একটি জাহাজ বহির্নোঙরে খালাসের অপেক্ষায় রয়েছে।'",
-        "image_url": "https://media.ndiganta.com/original_images/1000038464.jpg"
-      },
-      {
-        "headline": "এক দিনে দুই দফায় স্বর্ণের দাম কমল ১৫ হাজার টাকা",
-        "url": "https://dailynayadiganta.com/economy/marketplace/zN2amB1lSE5e/",
-        "published_at": null,
-        "summary": "নতুন দাম অনুযায়ী, দেশের বাজারে প্রতি ভরি (১১.৬৬৪ গ্রাম) ২২ ক্যারেটের স্বর্ণের দাম পড়ছে দু’ লাখ ৪৬ হাজার ৯২৭ টাকা। এছাড়া ২১ ক্যারেটের প্রতি ভরি দু’ লাখ ৩৫ হাজার ৬৭১ টাকা, ১৮ ক্যারেটের প্রতি ভরি দু’ লাখ দু’ হাজার ২০ টাকা এবং সনাতন পদ্ধতির প্রতি ভরি স্বর্ণ এক লাখ ৬৪ হাজার ৫২১ টাকা।",
-        "image_url": "https://media.ndiganta.com/original_images/Gold-6-1-26.jpg"
-      },
-      {
-        "headline": "ডিস্ট্রিবিউশন নেটওয়ার্কে কোনো পুনর্গঠন চলছে না",
-        "url": "https://dailynayadiganta.com/economy/corporate/0ZUtuPDxIhIs/",
-        "published_at": null,
-        "summary": "ইউবিএল স্পষ্টভাবে জানাচ্ছে যে, বর্তমানে তারা তাদের ডিস্ট্রিবিউশন নেটওয়ার্কে কোনো পুনর্গঠন কার্যক্রম পরিচালনা করছে না, এবং এ ধরনের তথ্যটি সঠিক নয় এবং সম্পূর্ণ বিভ্রান্তিকর।",
-        "image_url": "https://media.ndiganta.com/original_images/Unilever-19-3.jpg"
-      },
-      {
-        "headline": "টানা চতুর্থ দফা কমল স্বর্ণের দাম",
-        "url": "https://dailynayadiganta.com/economy/jqVzw1R95lSD/",
-        "published_at": null,
-        "summary": "এবার সবচেয়ে ভালো মানের (২২ ক্যারেট) স্বর্ণের দাম ভরিতে ৭ হাজার ৬৪০ টাকা কমানো হয়েছে। এতে এক ভরি স্বর্ণের দাম দাঁড়িয়েছে ২ লাখ ৫৪ হাজার ৬২৫ টাকা।",
-        "image_url": "https://media.ndiganta.com/original_images/Gold-6-1-26.jpg"
-      },
-      {
-        "headline": "সরবরাহে গতি আনতে চট্টগ্রাম বন্দরে ভিড়ছে আরো দুই জ্বালানিবাহী জাহাজ",
-        "url": "https://dailynayadiganta.com/economy/industry-commerce/AY6JdqMMc7wN/",
-        "published_at": null,
-        "summary": "বর্তমানে খালাস চলমান থাকা ‘চ্যাং হ্যাং হং তু’ ও ‘এলপিজি সেভান’-এর মধ্যে প্রথমটি বুধবার (১৮ মার্চ) এবং দ্বিতীয়টি শুক্রবার (২০ মার্চ) বন্দরে ভিড়বে, যা জ্বালানি সরবরাহ বজায় রাখতে সহায়ক হবে বলে জানিয়েছে বন্দর কর্তৃপক্ষ।",
-        "image_url": "https://media.ndiganta.com/original_images/Ship_JIdNwdk.jpg"
-      },
-      {
-        "headline": "ঈদুল ফিতর উপলক্ষে বুড়িমারী স্থলবন্দরে ১১ দিন আমদানি-রফতানি বন্ধ",
-        "url": "https://dailynayadiganta.com/economy/industry-commerce/ForuUELPoiWq/",
-        "published_at": null,
-        "summary": "আগামী ১৭-২৭ মার্চ পর্যন্ত বন্দরে সকল বাণিজ্যিক কার্যক্রম বন্ধ থাকবে। এরপর ২৮ মার্চ থেকে পুনরায় বাণিজ্যিক কার্যক্রম শুরু হবে।",
-        "image_url": "https://media.ndiganta.com/original_images/Burimari.jpg"
-      },
-      {
         "headline": "কাল থেকে টানা সাত দিন ব্যাংক বন্ধ",
         "url": "https://www.amarsangbad.com/economy/news/340625",
         "published_at": "1773677720",
@@ -6327,6 +6256,76 @@
         "published_at": "1773384654",
         "summary": "পবিত্র ঈদুল ফিতরকে সামনে রেখে রাজধানীর বাজারে নিত্যপণ্যের দাম নিয়ে মিশ্র প্রতিক্রিয়া দেখা গেছে। ঈদের কেনাকাটার চাপে মুরগি ও গরুর মাংসের দাম ঊর্ধ্বমুখী হলেও সবজির বাজারে মিলেছে কিছুটা স্বস্তির খবর।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-8-20260313065054.jpg"
+      },
+      {
+        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
+        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
+        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
+        "published_at": null,
+        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
+        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
+        "published_at": null,
+        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
+        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "যুদ্ধে বিশ্বজুড়ে বাড়তে থাকা চাপ বাংলাদেশের জনগণের ওপরও পড়ার আশঙ্কা রয়েছে",
+        "url": "https://dailynayadiganta.com/economy/i4TyrnC9A2ha/",
+        "published_at": null,
+        "summary": "তিনি বলেন, কঠিন পরিস্থিতির মধ্যেও জ্বালানি সরবরাহ নিশ্চিত রাখা, ভাড়া বৃদ্ধি না করা এবং দ্রব্যমূল্য নিয়ন্ত্রণে রাখা সম্ভব হয়েছে, যা সাধারণ মানুষের জন্য স্বস্তি বয়ে এনেছে।",
+        "image_url": "https://media.ndiganta.com/original_images/Amir-Khashru_8DYN9R3.jpg"
+      },
+      {
+        "headline": "মার্চের ২২ দিনে চট্টগ্রাম বন্দরে ২৫ জাহাজ জ্বালানি খালাস",
+        "url": "https://dailynayadiganta.com/economy/industry-commerce/oaPeirX4SWoM/",
+        "published_at": null,
+        "summary": "'মার্চ মাসে এখন পর্যন্ত মোট ২৫টি জাহাজ থেকে জ্বালানি খালাস সম্পন্ন হয়েছে। বর্তমানে ওমান থেকে আসা একটি জাহাজে এলপিজি গ্যাস খালাস কার্যক্রম চলমান রয়েছে। এছাড়া থাইল্যান্ড থেকে বেস অয়েল নিয়ে আসা একটি জাহাজ বহির্নোঙরে খালাসের অপেক্ষায় রয়েছে।'",
+        "image_url": "https://media.ndiganta.com/original_images/1000038464.jpg"
+      },
+      {
+        "headline": "এক দিনে দুই দফায় স্বর্ণের দাম কমল ১৫ হাজার টাকা",
+        "url": "https://dailynayadiganta.com/economy/marketplace/zN2amB1lSE5e/",
+        "published_at": null,
+        "summary": "নতুন দাম অনুযায়ী, দেশের বাজারে প্রতি ভরি (১১.৬৬৪ গ্রাম) ২২ ক্যারেটের স্বর্ণের দাম পড়ছে দু’ লাখ ৪৬ হাজার ৯২৭ টাকা। এছাড়া ২১ ক্যারেটের প্রতি ভরি দু’ লাখ ৩৫ হাজার ৬৭১ টাকা, ১৮ ক্যারেটের প্রতি ভরি দু’ লাখ দু’ হাজার ২০ টাকা এবং সনাতন পদ্ধতির প্রতি ভরি স্বর্ণ এক লাখ ৬৪ হাজার ৫২১ টাকা।",
+        "image_url": "https://media.ndiganta.com/original_images/Gold-6-1-26.jpg"
+      },
+      {
+        "headline": "ডিস্ট্রিবিউশন নেটওয়ার্কে কোনো পুনর্গঠন চলছে না",
+        "url": "https://dailynayadiganta.com/economy/corporate/0ZUtuPDxIhIs/",
+        "published_at": null,
+        "summary": "ইউবিএল স্পষ্টভাবে জানাচ্ছে যে, বর্তমানে তারা তাদের ডিস্ট্রিবিউশন নেটওয়ার্কে কোনো পুনর্গঠন কার্যক্রম পরিচালনা করছে না, এবং এ ধরনের তথ্যটি সঠিক নয় এবং সম্পূর্ণ বিভ্রান্তিকর।",
+        "image_url": "https://media.ndiganta.com/original_images/Unilever-19-3.jpg"
+      },
+      {
+        "headline": "টানা চতুর্থ দফা কমল স্বর্ণের দাম",
+        "url": "https://dailynayadiganta.com/economy/jqVzw1R95lSD/",
+        "published_at": null,
+        "summary": "এবার সবচেয়ে ভালো মানের (২২ ক্যারেট) স্বর্ণের দাম ভরিতে ৭ হাজার ৬৪০ টাকা কমানো হয়েছে। এতে এক ভরি স্বর্ণের দাম দাঁড়িয়েছে ২ লাখ ৫৪ হাজার ৬২৫ টাকা।",
+        "image_url": "https://media.ndiganta.com/original_images/Gold-6-1-26.jpg"
+      },
+      {
+        "headline": "সরবরাহে গতি আনতে চট্টগ্রাম বন্দরে ভিড়ছে আরো দুই জ্বালানিবাহী জাহাজ",
+        "url": "https://dailynayadiganta.com/economy/industry-commerce/AY6JdqMMc7wN/",
+        "published_at": null,
+        "summary": "বর্তমানে খালাস চলমান থাকা ‘চ্যাং হ্যাং হং তু’ ও ‘এলপিজি সেভান’-এর মধ্যে প্রথমটি বুধবার (১৮ মার্চ) এবং দ্বিতীয়টি শুক্রবার (২০ মার্চ) বন্দরে ভিড়বে, যা জ্বালানি সরবরাহ বজায় রাখতে সহায়ক হবে বলে জানিয়েছে বন্দর কর্তৃপক্ষ।",
+        "image_url": "https://media.ndiganta.com/original_images/Ship_JIdNwdk.jpg"
+      },
+      {
+        "headline": "ঈদুল ফিতর উপলক্ষে বুড়িমারী স্থলবন্দরে ১১ দিন আমদানি-রফতানি বন্ধ",
+        "url": "https://dailynayadiganta.com/economy/industry-commerce/ForuUELPoiWq/",
+        "published_at": null,
+        "summary": "আগামী ১৭-২৭ মার্চ পর্যন্ত বন্দরে সকল বাণিজ্যিক কার্যক্রম বন্ধ থাকবে। এরপর ২৮ মার্চ থেকে পুনরায় বাণিজ্যিক কার্যক্রম শুরু হবে।",
+        "image_url": "https://media.ndiganta.com/original_images/Burimari.jpg"
       },
       {
         "headline": "জ্বালানি-সংকট মোকাবিলায় শ্রীলঙ্কার তিন দিন সাপ্তাাহিক ছুটি, আরও যা করছে এশিয়ার দেশগুলো",
@@ -7723,76 +7722,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-07/f3afb97f-cd04-4d95-93a1-39f695fa9f6b/fifa?auto=format,compress"
       },
       {
-        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
-        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
-        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
-        "published_at": null,
-        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
-        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
-        "published_at": null,
-        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
-        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "আজ দলে যোগ দেয়া হচ্ছে না হামজার, বাড়ছে অপেক্ষা",
-        "url": "https://dailynayadiganta.com/sports/football/TNUNkArxZcQz/",
-        "published_at": null,
-        "summary": "জাতীয় ফুটবল দলের সাথে যোগ দিতে অপেক্ষা বাড়ছে হামজা চৌধুরীর। কথা থাকলেও আজ ভিয়েতনাম যাওয়া হচ্ছে না তার। দুইদিন পিছিয়ে আগামী ২৪ মার্চ দলে যোগ দেবেন এই তারকা।",
-        "image_url": "https://media.ndiganta.com/original_images/Hamza_CH.jpg"
-      },
-      {
-        "headline": "অবশেষে বাংলাদেশে আসছে ভারতীয় ক্রিকেট দল",
-        "url": "https://dailynayadiganta.com/sports/cricket/GfeK1fuWihgn/",
-        "published_at": null,
-        "summary": "সম্প্রতি ঘরের মাঠে পাকিস্তানকে ২-১ ব্যবধানে হারিয়ে আত্মবিশ্বাসের তুঙ্গে রয়েছে বাংলাদেশ দল। এই জয়ে ফলে আইসিসি ওয়ানডে র‍্যাঙ্কিংয়েও সুখবর পেয়েছে টাইগাররা। ওয়েস্ট ইন্ডিজকে পেছনে ফেলে এক ধাপ এগিয়েছে তারা। বর্তমানে ৭৯ রেটিং পয়েন্ট নিয়ে র‍্যাঙ্কিংয়ের নবম স্থানে অবস্থান করছে বাংলাদেশ।",
-        "image_url": "https://media.ndiganta.com/original_images/04_KYRi6Ke.jpg"
-      },
-      {
-        "headline": "নিউজিল্যান্ড সিরিজের দল ঘোষণা করবে নতুন নির্বাচক প্যানেল",
-        "url": "https://dailynayadiganta.com/sports/cricket/DPokzfazPLrr/",
-        "published_at": null,
-        "summary": "নিউজিল্যান্ড সিরিজে জাতীয় দলে নতুন মুখ দেখা যাওয়ার সম্ভাবনাও রয়েছে। সম্ভাব্য তালিকায় আছেন রিপন মণ্ডল, আব্দুল গাফফার সাকলাইন ও আলিস আল ইসলাম।",
-        "image_url": "https://media.ndiganta.com/original_images/BCB_WvrJEVw.jpg"
-      },
-      {
-        "headline": "নিউজিল্যান্ডকে হারিয়ে সিরিজ সমতায় দক্ষিণ আফ্রিকা",
-        "url": "https://dailynayadiganta.com/sports/cricket/YK5YvWGKGuos/",
-        "published_at": null,
-        "summary": "দক্ষিণ আফ্রিকার হয়ে জেরাল্ড কোয়েৎজি তিনটি উইকটে নেন। দুটি করে উইকেট নেন তিনজন বোলার।",
-        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_6_5DS8HM7.jpg"
-      },
-      {
-        "headline": "অধিনায়ক কানের সাথে চুক্তি নবায়ন করতে যাচ্ছে ডর্টমুন্ড",
-        "url": "https://dailynayadiganta.com/sports/football/AFtNoLxXWHq4/",
-        "published_at": null,
-        "summary": "‘আমার লক্ষ্য হলো যত দ্রুত সম্ভব সুস্থ হয়ে দলে ফেরা। সতীর্থদের সাথে একত্রে দলের সাফল্যে গুরুত্বপূর্ণ অবদান রাখতে চাই।’",
-        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_5_7BuTOSW.jpg"
-      },
-      {
-        "headline": "ঈদে ব্যাট ছেড়ে হাতে খুন্তি তুলে নিলেন বাবর (ভিডিও)",
-        "url": "https://dailynayadiganta.com/sports/cricket/qDQi8bCo1Ztd/",
-        "published_at": null,
-        "summary": "বাবরের পারফরম্যান্স এতটাই খারাপ ছিল যে, শ্রীলঙ্কার বিরুদ্ধে ‘মরণবাঁচন’ সুপার এইট ম্যাচেও প্রথম একাদশে জায়গা পাননি।",
-        "image_url": "https://media.ndiganta.com/original_images/Babar_Azam.jpg"
-      },
-      {
-        "headline": "পিএসএলের উদ্বোধনী অনুষ্ঠান স্থগিত, ম্যাচ হবে দর্শকবিহীন",
-        "url": "https://dailynayadiganta.com/sports/cricket/Qb9KIubZ20Tl/",
-        "published_at": null,
-        "summary": "গোয়েন্দা সংস্থাগুলোর প্রশংসা করে তিনি বলেন, যে ঘটনাগুলো ঘটতে পারত, সেগুলো ঘটতে দেয়া হয়নি।",
-        "image_url": "https://media.ndiganta.com/original_images/psl.jpg"
-      },
-      {
         "headline": "বাংলাদেশের বিরুদ্ধে আইসিসির কাছে অভিযোগ জানাল পাকিস্তান",
         "url": "https://www.amarsangbad.com/sports/news/340572",
         "published_at": "1773644879",
@@ -7861,6 +7790,76 @@
         "published_at": "1773487413",
         "summary": "আউট হওয়ার পর তীব্র প্রতিক্রিয়া দেখিয়ে শাস্তি পেলেন পাকিস্তানি ব্যাটার সালমান আলী আঘা। মেহেদী হাসান মিরাজের রানআউট কাণ্ডে সাজঘরে ফেরার সময় গ্লাভস ও হেলমেট ছুঁড়ে মেরেছিলেন তিনি। আনুষ্ঠানিক তিরস্কারের পাশাপাশি একটি ডিমেরিট পয়েন্ট যুক্ত হয়েছে তার নামের পাশে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-design---2026-03-14T172309761-20260314112333.jpg"
+      },
+      {
+        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
+        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
+        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
+        "published_at": null,
+        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
+        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
+        "published_at": null,
+        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
+        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "আজ দলে যোগ দেয়া হচ্ছে না হামজার, বাড়ছে অপেক্ষা",
+        "url": "https://dailynayadiganta.com/sports/football/TNUNkArxZcQz/",
+        "published_at": null,
+        "summary": "জাতীয় ফুটবল দলের সাথে যোগ দিতে অপেক্ষা বাড়ছে হামজা চৌধুরীর। কথা থাকলেও আজ ভিয়েতনাম যাওয়া হচ্ছে না তার। দুইদিন পিছিয়ে আগামী ২৪ মার্চ দলে যোগ দেবেন এই তারকা।",
+        "image_url": "https://media.ndiganta.com/original_images/Hamza_CH.jpg"
+      },
+      {
+        "headline": "অবশেষে বাংলাদেশে আসছে ভারতীয় ক্রিকেট দল",
+        "url": "https://dailynayadiganta.com/sports/cricket/GfeK1fuWihgn/",
+        "published_at": null,
+        "summary": "সম্প্রতি ঘরের মাঠে পাকিস্তানকে ২-১ ব্যবধানে হারিয়ে আত্মবিশ্বাসের তুঙ্গে রয়েছে বাংলাদেশ দল। এই জয়ে ফলে আইসিসি ওয়ানডে র‍্যাঙ্কিংয়েও সুখবর পেয়েছে টাইগাররা। ওয়েস্ট ইন্ডিজকে পেছনে ফেলে এক ধাপ এগিয়েছে তারা। বর্তমানে ৭৯ রেটিং পয়েন্ট নিয়ে র‍্যাঙ্কিংয়ের নবম স্থানে অবস্থান করছে বাংলাদেশ।",
+        "image_url": "https://media.ndiganta.com/original_images/04_KYRi6Ke.jpg"
+      },
+      {
+        "headline": "নিউজিল্যান্ড সিরিজের দল ঘোষণা করবে নতুন নির্বাচক প্যানেল",
+        "url": "https://dailynayadiganta.com/sports/cricket/DPokzfazPLrr/",
+        "published_at": null,
+        "summary": "নিউজিল্যান্ড সিরিজে জাতীয় দলে নতুন মুখ দেখা যাওয়ার সম্ভাবনাও রয়েছে। সম্ভাব্য তালিকায় আছেন রিপন মণ্ডল, আব্দুল গাফফার সাকলাইন ও আলিস আল ইসলাম।",
+        "image_url": "https://media.ndiganta.com/original_images/BCB_WvrJEVw.jpg"
+      },
+      {
+        "headline": "নিউজিল্যান্ডকে হারিয়ে সিরিজ সমতায় দক্ষিণ আফ্রিকা",
+        "url": "https://dailynayadiganta.com/sports/cricket/YK5YvWGKGuos/",
+        "published_at": null,
+        "summary": "দক্ষিণ আফ্রিকার হয়ে জেরাল্ড কোয়েৎজি তিনটি উইকটে নেন। দুটি করে উইকেট নেন তিনজন বোলার।",
+        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_6_5DS8HM7.jpg"
+      },
+      {
+        "headline": "অধিনায়ক কানের সাথে চুক্তি নবায়ন করতে যাচ্ছে ডর্টমুন্ড",
+        "url": "https://dailynayadiganta.com/sports/football/AFtNoLxXWHq4/",
+        "published_at": null,
+        "summary": "‘আমার লক্ষ্য হলো যত দ্রুত সম্ভব সুস্থ হয়ে দলে ফেরা। সতীর্থদের সাথে একত্রে দলের সাফল্যে গুরুত্বপূর্ণ অবদান রাখতে চাই।’",
+        "image_url": "https://media.ndiganta.com/original_images/NAYADIGANTA_5_7BuTOSW.jpg"
+      },
+      {
+        "headline": "ঈদে ব্যাট ছেড়ে হাতে খুন্তি তুলে নিলেন বাবর (ভিডিও)",
+        "url": "https://dailynayadiganta.com/sports/cricket/qDQi8bCo1Ztd/",
+        "published_at": null,
+        "summary": "বাবরের পারফরম্যান্স এতটাই খারাপ ছিল যে, শ্রীলঙ্কার বিরুদ্ধে ‘মরণবাঁচন’ সুপার এইট ম্যাচেও প্রথম একাদশে জায়গা পাননি।",
+        "image_url": "https://media.ndiganta.com/original_images/Babar_Azam.jpg"
+      },
+      {
+        "headline": "পিএসএলের উদ্বোধনী অনুষ্ঠান স্থগিত, ম্যাচ হবে দর্শকবিহীন",
+        "url": "https://dailynayadiganta.com/sports/cricket/Qb9KIubZ20Tl/",
+        "published_at": null,
+        "summary": "গোয়েন্দা সংস্থাগুলোর প্রশংসা করে তিনি বলেন, যে ঘটনাগুলো ঘটতে পারত, সেগুলো ঘটতে দেয়া হয়নি।",
+        "image_url": "https://media.ndiganta.com/original_images/psl.jpg"
       },
       {
         "headline": "'প্রেমের আগে তো আমার জীবনে ক্রিকেট এসেছে'  ",
@@ -9242,6 +9241,13 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-20/9yn08q87/61859712514913879729962897949748640604232231n.jpg?auto=format,compress"
       },
       {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
+      {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
         "published_at": "2026-03-23T00:47:53+06:00",
@@ -9303,6 +9309,76 @@
         "published_at": "2026-03-22T20:55:14+06:00",
         "summary": "মাদকের বিরুদ্ধে কার্যকর ব্যবস্থা গ্রহণের দাবিতে রাজবাড়ীতে মানববন্ধন অনুষ্ঠিত হয়েছে। স্থানীয় যুবসমাজের উদ্যোগে রবিবার বিকেলে সদর উপজেলার উড়াকান্দা বাজার এলাকায় এ কর্মসূচি পালন করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774191313-d82319912041449cd31bdb7e7569d171.jpg"
+      },
+      {
+        "headline": "নতুন নাটক করছেন রুমিন ফারহানা!",
+        "url": "https://www.amarsangbad.com/entertainment/news/340764",
+        "published_at": "1773838145",
+        "summary": "জনপ্রিয় অভিনেত্রী আশনা হাবিব ভাবনা ‘নট আউট’ নাটকের মাধ্যমে অভিনয় জীবন শুরু করেন। এরপর নিজের অভিনয় দক্ষতা দিয়ে দর্শকদের একাধিক নাটক উপহার দিয়েছেন। পরে‘ভয়ংকর সুন্দর’ চলচ্চিত্রের মাধ্যমে তিনি চলচ্চিত্র ক্যারিয়ার শুরু করেন।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/AMARSANGBAD---2026-03-18T184718036-20260318124905.jpg"
+      },
+      {
+        "headline": "ফুটপাতে নতুন টাকার দোকান খুললেন কুদ্দুস বয়াতি!",
+        "url": "https://www.amarsangbad.com/entertainment/news/340697",
+        "published_at": "1773756228",
+        "summary": "নিজের চিরচেনা রসিকতায় এবারও ভক্তদের হাসালেন জনপ্রিয় লোকসংগীত শিল্পী কুদ্দুস বয়াতি। সম্প্রতি সামাজিক যোগাযোগমাধ্যমে তাঁর একটি পোস্ট নিয়ে বেশ শোরগোল পড়ে গেছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-43-20260317140348.jpg"
+      },
+      {
+        "headline": "অস্কারের ৯৮তম আসরে পুরস্কার পেলেন যারা",
+        "url": "https://www.amarsangbad.com/entertainment/news/340568",
+        "published_at": "1773643121",
+        "summary": "বিশ্ব চলচ্চিত্রের সবচেয়ে মর্যাদাপূর্ণ পুরস্কার অস্কার বা একাডেমি অ্যাওয়ার্ডসের ৯৮তম আসর জাঁকজমকপূর্ণ পরিবেশে অনুষ্ঠিত হচ্ছে যুক্তরাষ্ট্রের ডলবি থিয়েটারে। স্থানীয় সময় রোববার রাতে লস অ্যাঞ্জেলেসের এই বিখ্যাত ভেন্যুতে বসে বিশ্ব তারকাদের বহুল প্রতীক্ষিত এই অনুষ্ঠান।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/AMARSANGBAD---2026-03-16T123656788-(1)-20260316063841.jpg"
+      },
+      {
+        "headline": "জনপ্রিয় অভিনেতা শামস সুমন আর নেই",
+        "url": "https://www.amarsangbad.com/entertainment/news/340698",
+        "published_at": "1773756985",
+        "summary": "দেশের অভিনয় জগতের অতি পরিচিত মুখ এবং শক্তিমান অভিনেতা শামস সুমন মারা গেছেন। মঙ্গলবার রাজধানীর ল্যাবএইড হাসপাতালে চিকিৎসাধীন অবস্থায় তিনি শেষ নিঃশ্বাস ত্যাগ করেন।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-44-20260317141625.jpg"
+      },
+      {
+        "headline": "এবার ঈদেও ঈদে গান শোনাচ্ছেন না মাহফুজুর রহমান",
+        "url": "https://www.amarsangbad.com/entertainment/news/340662",
+        "published_at": "1773740799",
+        "summary": "এটিএন বাংলার চেয়ারম্যান ড. মাহফুজুর রহমান প্রতি বছর ঈদে নিজের চ্যানেলে গান গেয়ে দর্শকদের বিনোদন দিলেও, গত বছরের মতো আসন্ন ঈদুল ফিতরেও তিনি গান শোনাবেন না। চ্যানেলটির জনসংযোগ বিভাগ থেকে নিশ্চিত করা হয়েছে যে, গত বছর থেকে গান পরিবেশন না করার ধারাবাহিকতায় এবারও তাঁর কোনো নতুন গান বা বিশেষ অনুষ্ঠান থাকছে না।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-5-20260317094639.jpg"
+      },
+      {
+        "headline": "ঈদে প্রেক্ষাগৃহ মাতাবে ৫ সিনেমা",
+        "url": "https://www.amarsangbad.com/entertainment/news/340658",
+        "published_at": "1773739219",
+        "summary": "প্রতি বছরের মতো এবারও পবিত্র ঈদুল ফিতর উপলক্ষে প্রেক্ষাগৃহে মুক্তি পেতে যাচ্ছে বহুল প্রতীক্ষিত বেশ কয়েকটি চলচ্চিত্র। শুরুতে প্রায় দুই ডজন সিনেমা মুক্তির গুঞ্জন শোনা গেলেও শেষ পর্যন্ত প্রচার-প্রচারণা ও প্রস্তুতির নিরিখে ৫টি সিনেমা চূড়ান্ত লড়াইয়ে টিকে আছে। বাংলাদেশ চলচ্চিত্র সার্টিফিকেশন বোর্ড থেকে ইতোমধ্যে এই সিনেমাগুলো প্রদর্শনের অনুমতি পেয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-3-20260317092019.jpg"
+      },
+      {
+        "headline": "গান গাইবেন আসিফ মাহমুদ সজীব ভূঁইয়া",
+        "url": "https://www.amarsangbad.com/entertainment/news/340859",
+        "published_at": "1774012429",
+        "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মুখপাত্র আসিফ মাহমুদ সজীব ভূঁইয়া শুক্রবার (২০ মার্চ) ঢাকার ধানমন্ডির রবীন্দ্র সরোবর প্রাঙ্গণে সংগীত পরিবেশন করবেন। রাজধানীতে 'নাগরিক উদ্যোগ' আয়োজিত তিন দিনব্যাপী বিশেষ ঈদ উৎসবের প্রথম দিনের সাংস্কৃতিক অনুষ্ঠানে তিনি অংশ নিচ্ছেন। আয়োজক কমিটির পক্ষ থেকে জানানো হয়েছে, দিনব্যাপী মেহেদি উৎসবের পর সন্ধ্যায় আয়োজিত সাংস্কৃতিক পর্বে গান গাইবেন এই তরুণ নেতা।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-16-20260320131349.jpg"
+      },
+      {
+        "headline": "শাকিব খানের ‘প্রিন্স’ সিনেমার প্রথম দিনের  আয় কত?",
+        "url": "https://www.amarsangbad.com/entertainment/news/340916",
+        "published_at": "1774162933",
+        "summary": "পবিত্র ঈদুল ফিতর উপলক্ষে মুক্তিপ্রাপ্ত সুপারস্টার শাকিব খানের নতুন সিনেমা ‘প্রিন্স: ওয়ান্স আপন এ টাইম ইন ঢাকা’ প্রেক্ষাগৃহে দাপুটে সূচনা করেছে। নব্বই দশকের ঢাকার আলোচিত আন্ডারওয়ার্ল্ড ফিগার কালা জাহাঙ্গীরের জীবনকাহিনি অবলম্বনে নির্মিত এই সিনেমাটি নিয়ে দর্শকদের মাঝে মুক্তির আগে থেকেই ব্যাপক উন্মাদনা ছিল।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-48-20260322070213.jpg"
+      },
+      {
+        "headline": "ঈদের দিন বিয়ের খবর জানালেন অভিনেত্রী নীলাঞ্জনা নীলা",
+        "url": "https://www.amarsangbad.com/entertainment/news/340897",
+        "published_at": "1774096885",
+        "summary": "পবিত্র ঈদুল ফিতরের আনন্দ উৎসবে ভক্তদের এক সারপ্রাইজ নিউজ দিলেন এই সময়ের জনপ্রিয় অভিনেত্রী নীলাঞ্জনা নীলা।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-29-20260321124125.jpg"
+      },
+      {
+        "headline": "‘রাক্ষস’ এর ট্রেলার মুক্তি, নৃশংসতা আর প্রেমের রোমহর্ষক আভাস",
+        "url": "https://www.amarsangbad.com/entertainment/news/340343",
+        "published_at": "1773466600",
+        "summary": "আসন্ন ঈদুল ফিতরকে কেন্দ্র করে ঢাকাই চলচ্চিত্রে বইছে নতুন সিনেমার হাওয়া। সেই তালিকায় দর্শকদের দীর্ঘ প্রতীক্ষার অবসান ঘটিয়ে প্রকাশ পেয়েছে সিয়াম আহমেদ অভিনীত ‘রাক্ষস’ সিনেমার ট্রেলার। ২ মিনিট ১৩ সেকেন্ডের এই ট্রেলারটি আক্ষরিক অর্থেই এক অন্ধকার ও নৃশংস গল্পের আভাস দিয়েছে।",
+        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-8-20260314053640.jpg"
       },
       {
         "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
@@ -9380,76 +9456,6 @@
         "published_at": null,
         "summary": "রাজধানীর এভারকেয়ার হাসপাতালে চিকিৎসাধীন অবস্থায় রোববার (৪ জানুয়ারি) মৃত্যু হয় তার।",
         "image_url": "https://media.ndiganta.com/original_images/Abul-Hossain.jpg"
-      },
-      {
-        "headline": "নতুন নাটক করছেন রুমিন ফারহানা!",
-        "url": "https://www.amarsangbad.com/entertainment/news/340764",
-        "published_at": "1773838145",
-        "summary": "জনপ্রিয় অভিনেত্রী আশনা হাবিব ভাবনা ‘নট আউট’ নাটকের মাধ্যমে অভিনয় জীবন শুরু করেন। এরপর নিজের অভিনয় দক্ষতা দিয়ে দর্শকদের একাধিক নাটক উপহার দিয়েছেন। পরে‘ভয়ংকর সুন্দর’ চলচ্চিত্রের মাধ্যমে তিনি চলচ্চিত্র ক্যারিয়ার শুরু করেন।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/AMARSANGBAD---2026-03-18T184718036-20260318124905.jpg"
-      },
-      {
-        "headline": "ফুটপাতে নতুন টাকার দোকান খুললেন কুদ্দুস বয়াতি!",
-        "url": "https://www.amarsangbad.com/entertainment/news/340697",
-        "published_at": "1773756228",
-        "summary": "নিজের চিরচেনা রসিকতায় এবারও ভক্তদের হাসালেন জনপ্রিয় লোকসংগীত শিল্পী কুদ্দুস বয়াতি। সম্প্রতি সামাজিক যোগাযোগমাধ্যমে তাঁর একটি পোস্ট নিয়ে বেশ শোরগোল পড়ে গেছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-43-20260317140348.jpg"
-      },
-      {
-        "headline": "অস্কারের ৯৮তম আসরে পুরস্কার পেলেন যারা",
-        "url": "https://www.amarsangbad.com/entertainment/news/340568",
-        "published_at": "1773643121",
-        "summary": "বিশ্ব চলচ্চিত্রের সবচেয়ে মর্যাদাপূর্ণ পুরস্কার অস্কার বা একাডেমি অ্যাওয়ার্ডসের ৯৮তম আসর জাঁকজমকপূর্ণ পরিবেশে অনুষ্ঠিত হচ্ছে যুক্তরাষ্ট্রের ডলবি থিয়েটারে। স্থানীয় সময় রোববার রাতে লস অ্যাঞ্জেলেসের এই বিখ্যাত ভেন্যুতে বসে বিশ্ব তারকাদের বহুল প্রতীক্ষিত এই অনুষ্ঠান।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/AMARSANGBAD---2026-03-16T123656788-(1)-20260316063841.jpg"
-      },
-      {
-        "headline": "জনপ্রিয় অভিনেতা শামস সুমন আর নেই",
-        "url": "https://www.amarsangbad.com/entertainment/news/340698",
-        "published_at": "1773756985",
-        "summary": "দেশের অভিনয় জগতের অতি পরিচিত মুখ এবং শক্তিমান অভিনেতা শামস সুমন মারা গেছেন। মঙ্গলবার রাজধানীর ল্যাবএইড হাসপাতালে চিকিৎসাধীন অবস্থায় তিনি শেষ নিঃশ্বাস ত্যাগ করেন।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-44-20260317141625.jpg"
-      },
-      {
-        "headline": "এবার ঈদেও ঈদে গান শোনাচ্ছেন না মাহফুজুর রহমান",
-        "url": "https://www.amarsangbad.com/entertainment/news/340662",
-        "published_at": "1773740799",
-        "summary": "এটিএন বাংলার চেয়ারম্যান ড. মাহফুজুর রহমান প্রতি বছর ঈদে নিজের চ্যানেলে গান গেয়ে দর্শকদের বিনোদন দিলেও, গত বছরের মতো আসন্ন ঈদুল ফিতরেও তিনি গান শোনাবেন না। চ্যানেলটির জনসংযোগ বিভাগ থেকে নিশ্চিত করা হয়েছে যে, গত বছর থেকে গান পরিবেশন না করার ধারাবাহিকতায় এবারও তাঁর কোনো নতুন গান বা বিশেষ অনুষ্ঠান থাকছে না।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-5-20260317094639.jpg"
-      },
-      {
-        "headline": "ঈদে প্রেক্ষাগৃহ মাতাবে ৫ সিনেমা",
-        "url": "https://www.amarsangbad.com/entertainment/news/340658",
-        "published_at": "1773739219",
-        "summary": "প্রতি বছরের মতো এবারও পবিত্র ঈদুল ফিতর উপলক্ষে প্রেক্ষাগৃহে মুক্তি পেতে যাচ্ছে বহুল প্রতীক্ষিত বেশ কয়েকটি চলচ্চিত্র। শুরুতে প্রায় দুই ডজন সিনেমা মুক্তির গুঞ্জন শোনা গেলেও শেষ পর্যন্ত প্রচার-প্রচারণা ও প্রস্তুতির নিরিখে ৫টি সিনেমা চূড়ান্ত লড়াইয়ে টিকে আছে। বাংলাদেশ চলচ্চিত্র সার্টিফিকেশন বোর্ড থেকে ইতোমধ্যে এই সিনেমাগুলো প্রদর্শনের অনুমতি পেয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-3-20260317092019.jpg"
-      },
-      {
-        "headline": "গান গাইবেন আসিফ মাহমুদ সজীব ভূঁইয়া",
-        "url": "https://www.amarsangbad.com/entertainment/news/340859",
-        "published_at": "1774012429",
-        "summary": "জাতীয় নাগরিক পার্টির (এনসিপি) মুখপাত্র আসিফ মাহমুদ সজীব ভূঁইয়া শুক্রবার (২০ মার্চ) ঢাকার ধানমন্ডির রবীন্দ্র সরোবর প্রাঙ্গণে সংগীত পরিবেশন করবেন। রাজধানীতে 'নাগরিক উদ্যোগ' আয়োজিত তিন দিনব্যাপী বিশেষ ঈদ উৎসবের প্রথম দিনের সাংস্কৃতিক অনুষ্ঠানে তিনি অংশ নিচ্ছেন। আয়োজক কমিটির পক্ষ থেকে জানানো হয়েছে, দিনব্যাপী মেহেদি উৎসবের পর সন্ধ্যায় আয়োজিত সাংস্কৃতিক পর্বে গান গাইবেন এই তরুণ নেতা।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-16-20260320131349.jpg"
-      },
-      {
-        "headline": "শাকিব খানের ‘প্রিন্স’ সিনেমার প্রথম দিনের  আয় কত?",
-        "url": "https://www.amarsangbad.com/entertainment/news/340916",
-        "published_at": "1774162933",
-        "summary": "পবিত্র ঈদুল ফিতর উপলক্ষে মুক্তিপ্রাপ্ত সুপারস্টার শাকিব খানের নতুন সিনেমা ‘প্রিন্স: ওয়ান্স আপন এ টাইম ইন ঢাকা’ প্রেক্ষাগৃহে দাপুটে সূচনা করেছে। নব্বই দশকের ঢাকার আলোচিত আন্ডারওয়ার্ল্ড ফিগার কালা জাহাঙ্গীরের জীবনকাহিনি অবলম্বনে নির্মিত এই সিনেমাটি নিয়ে দর্শকদের মাঝে মুক্তির আগে থেকেই ব্যাপক উন্মাদনা ছিল।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-48-20260322070213.jpg"
-      },
-      {
-        "headline": "ঈদের দিন বিয়ের খবর জানালেন অভিনেত্রী নীলাঞ্জনা নীলা",
-        "url": "https://www.amarsangbad.com/entertainment/news/340897",
-        "published_at": "1774096885",
-        "summary": "পবিত্র ঈদুল ফিতরের আনন্দ উৎসবে ভক্তদের এক সারপ্রাইজ নিউজ দিলেন এই সময়ের জনপ্রিয় অভিনেত্রী নীলাঞ্জনা নীলা।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-29-20260321124125.jpg"
-      },
-      {
-        "headline": "‘রাক্ষস’ এর ট্রেলার মুক্তি, নৃশংসতা আর প্রেমের রোমহর্ষক আভাস",
-        "url": "https://www.amarsangbad.com/entertainment/news/340343",
-        "published_at": "1773466600",
-        "summary": "আসন্ন ঈদুল ফিতরকে কেন্দ্র করে ঢাকাই চলচ্চিত্রে বইছে নতুন সিনেমার হাওয়া। সেই তালিকায় দর্শকদের দীর্ঘ প্রতীক্ষার অবসান ঘটিয়ে প্রকাশ পেয়েছে সিয়াম আহমেদ অভিনীত ‘রাক্ষস’ সিনেমার ট্রেলার। ২ মিনিট ১৩ সেকেন্ডের এই ট্রেলারটি আক্ষরিক অর্থেই এক অন্ধকার ও নৃশংস গল্পের আভাস দিয়েছে।",
-        "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-8-20260314053640.jpg"
       },
       {
         "headline": "‘দম’ থেকে ‘প্রিন্স’, ‘বনলতা এক্সপ্রেস’—ঈদের পাঁচ সিনেমার টিকিট পাবেন কখন",
@@ -10388,13 +10394,6 @@
         "published_at": "2026-03-20T23:22:26+06:00",
         "summary": "পরিবারের মুখে হাসি ফোটাতে ঈদে নিজের আনন্দ বিসর্জন দেওয়া এক তরুণের গল্পে ঈদে আসছে টেলিফিল্ম ‘ফ্যামিলি ম্যান’।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1774027345-6400c42ef52d434b319dc63772f41674.jpg"
-      },
-      {
-        "headline": "রাজধানীর কোথায় কখন ঈদের জামাত",
-        "url": "https://www.bd-pratidin.com/city-news/2026/03/20/1230223",
-        "published_at": "2026-03-20T21:23:33+06:00",
-        "summary": "ঢাকা পবিত্র ঈদুল ফিতর উপলক্ষে রাজধানী ঢাকায় এবার ছোট-বড় মিলিয়ে মোট ১ হাজার ৭৭১টি ঈদ জামাত অনুষ্ঠিত হবে। এর মধ্যে রাজধানীর প্রধান ঈদ জামাত সকাল সাড়ে ৮টায় হাইকোর্ট সংলগ্ন জাতীয় ঈদগাহ ময়দানে অনুষ্ঠিত হবে। ইসলামিক ফাউন্ডেশন জানিয়েছে, প্রতিকূল আবহাওয়া বা অন্য কোনো অনিবার্য কারণে এখানে জামাত সম্ভব না হলে বিকল্প হিসেবে সকাল ৯টায় বায়তুল মোকাররম জাতীয় মসজিদে প্রধান জামাত অনুষ্ঠিত হবে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1774020212-7151184986aed9f8f418938930271d37.jpg"
       }
     ],
     "jobs": [
@@ -10719,6 +10718,13 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-08-11/dxcm1hkd/freepikcandid-photography-with-natural-textures-and-highl90192.png?auto=format,compress"
       },
       {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
+      {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
         "published_at": "2026-03-23T00:47:53+06:00",
@@ -10780,13 +10786,6 @@
         "published_at": "2026-03-22T20:55:14+06:00",
         "summary": "মাদকের বিরুদ্ধে কার্যকর ব্যবস্থা গ্রহণের দাবিতে রাজবাড়ীতে মানববন্ধন অনুষ্ঠিত হয়েছে। স্থানীয় যুবসমাজের উদ্যোগে রবিবার বিকেলে সদর উপজেলার উড়াকান্দা বাজার এলাকায় এ কর্মসূচি পালন করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774191313-d82319912041449cd31bdb7e7569d171.jpg"
-      },
-      {
-        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
-        "published_at": "2026-03-22T20:26:25+06:00",
-        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "জ্ঞানই পারে এ সম্মানজনক পেশায় পৌঁছে দিতেআইসিটি উইংয়ে ১১৫টি পদে দক্ষ জনবল খুঁজছে পূবালী ব্যাংক",
@@ -10878,6 +10877,13 @@
         "published_at": null,
         "summary": "নিয়োগ পরীক্ষার প্রস্তুতিতে সফল হতে হলে দরকার সঠিক তথ্য, আপডেটেড সিলেবাস ও নির্ভরযোগ্য রিসোর্স। প্রতিটি নিয়োগ পরীক্ষার ধরন, প্রশ্নের গঠন ও মানদণ্ড ভিন্ন হওয়ায় সময়মতো সঠিক নির্দেশনা জানা অত্যন্ত জরুরি। লিখিত, এমসিকিউ ও মৌখিক পরীক্ষার প্রস্তুতিতে বিগত বছরের প্রশ্নপত্র, সময় ব্যবস্থাপনা কৌশল, বিষয়ের ওপর ভিত্তি করে অধ্যয়ন পরিকল্পনা এবং মানসম্পন্ন প্র্যাকটিস সেট আপনাকে সঠিক পথে এগিয়ে নিতে পারে।",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
+        "published_at": "2026-03-22T20:26:25+06:00",
+        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "ঈদের দ্বিতীয় দিনে সহস্রাধিক পর্যটকের পদচারণায় মুখরিত কুয়াকাটা",
@@ -11835,86 +11841,9 @@
         "published_at": "2026-03-20T12:39:44+06:00",
         "summary": "শনিবার দেশে উদযাপিত হবে পবিত্র ঈদুল ফিতর। এ উপলক্ষে রাজধানী থেকে বাড়ি ফিরছে মানুষ। তবে কয়েকদিনের তীব্র ভিড়ের পর রাজধানীর কমলাপুর রেলস্টেশনে এখন স্বস্তির চিত্র দেখা যাচ্ছে। যাত্রীদের চাপ উল্লেখযোগ্যভাবে কমে গেছে, ট্রেনও ছেড়ে যাচ্ছে নির্ধারিত সময়েই।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1773988783-d11de2cdb0d50d7c288e16f97629cfce.jpg"
-      },
-      {
-        "headline": "ইসরায়েলের পাশ থেকে সরে দাঁড়াল জার্মানি",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/20/1230108",
-        "published_at": "2026-03-20T12:26:36+06:00",
-        "summary": "ফিলিস্তিনের গাজা উপত্যকায় জাতিগত হত্যা চালানোর অভিযোগে আন্তর্জাতিক বিচার আদালতে (আইসিজে) চলমান মামলায় ইসরায়েলের পক্ষে অবস্থান নেওয়া থেকে সরে দাঁড়িয়েছে ইউরোপের দেশ জার্মানি।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/20/og/1773987995-81ae0aebc15372ff77b441d846c80e8e.jpg"
       }
     ],
     "opinion": [
-      {
-        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
-        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
-        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
-        "published_at": null,
-        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
-        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
-        "published_at": null,
-        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
-        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "রক্তের হোলিখেলা বন্ধ করুন",
-        "url": "https://dailynayadiganta.com/opinions/editorial/BaBZxTIgN2WX/",
-        "published_at": null,
-        "summary": "পৃথিবীতে চলমান রক্তের হোলিখেলা এখনই বন্ধ করতে হবে। আর একটি জনপদও যাতে ধ্বংস না হয়, সে জন্য ব্যবস্থা গ্রহণ করতে হবে। সুশৃঙ্খল বিশ্বব্যবস্থা ও শান্তি পুনঃপ্রতিষ্ঠার জন্য দেশে দেশে জাগরণ সৃষ্টি করতে হবে।",
-        "image_url": "https://media.ndiganta.com/original_images/WhatsApp_Image_2025-10-21_at_5.15.02_PM_1.jpeg"
-      },
-      {
-        "headline": "ড. আ ফ ম খালিদ হোসেন❯❯❯•প্রফেসর ইউনূসের রাষ্ট্র পরিচালনার স্বাতন্ত্র্য",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/cvovOExbEWGY/",
-        "published_at": null,
-        "summary": "সব মিলিয়ে বলা যায়, অন্তর্বর্তী সরকারের সময় যমুনা বা সচিবালয় ঘেরাওয়ের ঘটনাগুলো ছিল সেই সময়ের রাজনৈতিক ও সামাজিক গতিশীলতারই প্রতিফলন। গণতান্ত্রিক সমাজে দাবি-দাওয়া প্রকাশের অধিকার যেমন স্বীকৃত, তেমনি প্রশাসনিক শৃঙ্খলা ও নিরাপত্তা রক্ষার দায়িত্বও সরকারের ওপর বর্তায়। এই দুই বাস্তবতার মাঝখানে দাঁড়িয়ে অন্তর্বর্তী সরকারকে পরিস্থিতি সামাল দিতে হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/AFN.jpg"
-      },
-      {
-        "headline": "প্রফেসর এম এ রশীদযে ধরনের অর্থনৈতিক সংস্কার বাংলাদেশের দরকার",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/o42px5pJqXMP/",
-        "published_at": null,
-        "summary": "বৈদেশিক ঋণ ব্যবস্থাপনায় সতর্কতা— উন্নয়ন প্রকল্পে বৈদেশিক ঋণ \r\nগুরুত্বপূর্ণ ভূমিকা রাখলেও অতিরিক্ত ঋণ অর্থনৈতিক ঝুঁকি তৈরি করতে \r\nপারে। এ জন্য ঋণ জিডিপি অনুপাত ও ঋণ পরিষেবা সক্ষমতা নিয়মিত মূল্যায়ন, স্বল্পসুদ ও দীর্ঘমেয়াদি ঋণ অগ্রাধিকার, প্রকল্পের অর্থনৈতিক লাভজনকতা যাচাই, বৈদেশিক মুদ্রা রিজার্ভ ব্যবস্থাপনায় সতর্কতা, সতর্ক ঋণ ব্যবস্থাপনা অর্থনৈতিক স্থিতিশীলতা নিশ্চিত করবে। বাংলাদেশের জন্য এখন প্রয়োজন সংগঠিত, কাঠামোগত ও প্রাতিষ্ঠানিক সংস্কার— শুধু সাময়িক স্থিতিশীলতা নয়; বরং দীর্ঘমেয়াদি অর্থনৈতিক সক্ষমতা গড়ে তোলা",
-        "image_url": "https://media.ndiganta.com/original_images/Untitled-7_copy.jpg"
-      },
-      {
-        "headline": "আমীর হামযাশোকপ্রস্তাবেও গাত্রদাহ",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/APLQNPZH4JEw/",
-        "published_at": null,
-        "summary": "বাম রাজনীতির মূল্যায়নে অনেকে প্রচলিত একটি লোককথার তুলনা দিয়ে \r\nথাকেন। ৪০ মণ দুধ নষ্ট করতে এক ফোঁটা গো-চোনাই যেমন যথেষ্ট, এ দেশের রাজনীতিতে বামপন্থীদের অবস্থানও ঠিক এমনি। অবশ্য ভারতের উগ্র হিন্দুত্ববাদীরা \r\nগো-চোনা মধুসম মনে করেন। ভারতের উগ্র হিন্দুত্ববাদীদের মতো দেশীয় সেক্যুলার বামপন্থীরাও সর্বভারতীয় সংস্কৃতিতে বিশ্বাসী। কে না জানে সর্বভারতীয় সংস্কৃতির \r\nসরল অর্থ প্যাগান কালচার; অর্থাৎ— নিখাদ পৌত্তলিকতা। তাদের যাপিত \r\nজীবন ধর্মপ্রাণ মুসলিম জনগোষ্ঠীর বিপরীত। এদের চিনে রাখা এখনকার \r\nরাজনৈতিক কর্তব্য। এ কাজে অবহেলা করলে আখেরে পস্তাতে হবে",
-        "image_url": "https://media.ndiganta.com/original_images/Hamza_SGNBbKD.jpg"
-      },
-      {
-        "headline": "মাসুম খলিলীপারস্য উপসাগরে ‘অদৃশ্য যুদ্ধ’ ও ইলেকট্রনিক ওয়ারফেয়ার",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/4uKV2z9R5g8Z/",
-        "published_at": null,
-        "summary": "২০২৬ সালের মার্চে মধ্যপ্রাচ্যে উত্তেজনা নতুন মাত্রা পেয়েছে। ইরান, ইসরাইল ও যুক্তরাষ্ট্রকে ঘিরে চলমান সামরিক ও কূটনৈতিক সঙ্ঘাতের প্রেক্ষাপটে পারস্য উপসাগরে শুরু হয়েছে এক ধরনের ‘অদৃশ্য যুদ্ধ’ ইলেকট্রনিক ওয়ারফেয়ার। বিশেষ করে বিশ্বের অন্যতম গুরুত্বপূর্ণ নৌপথ হরমুজ প্রণালীতে ব্যাপকভাবে জিপিএস জ্যামিং ও স্পুফিংয়ের ঘটনা ঘটছে। এতে শত শত বাণিজ্যিক জাহাজের নেভিগেশন ব্যবস্থা বিভ্রান্ত হয়ে পড়ছে; অনেক জাহাজের ডিজিটাল অবস্থান এমনভাবে দেখাচ্ছে যেন তারা বিমানবন্দরের রানওয়ে, মরুভূমি কিংবা সম্পূর্ণ ভিন্ন কোনো স্থানে রয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/masum-khalili-2.jpg"
-      },
-      {
-        "headline": "মুহাম্মদ খায়রুল বাশারইরানে ইহুদি-মার্কিন বর্বরতা, শেষ কোথায়",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/Q08Ky9l0CiAv/",
-        "published_at": null,
-        "summary": "ইরানের বিরুদ্ধে মার্কিন-ইসরাইল বর্বরতার নিকৃষ্টতম নজির চলমান যুদ্ধ। তৃতীয় সপ্তাহে গড়ানো এ যুদ্ধের প্রভাব মধ্যপ্রাচ্যসহ গোটা বিশ্বেই পড়েছে। সামরিক স্থাপনা ও বেসামরিক জনগোষ্ঠী উভয়কেই লক্ষ্য করে ক্রমাগত বোমা বর্ষণ করা সত্ত্বেও ইসলামী প্রজাতন্ত্রকে নোয়ানো যায়নি। ইরানের সর্বোচ্চ ধর্মীয় নেতা আয়াতুল্লাহ আলী খামেনিকে হত্যা করা হয়েছে। তার পরও অপ্রত্যাশিত আক্রমণে মার্কিন অহঙ্কার গুঁড়িয়ে দিয়ে মার্কিন ইহুদি প্রতিরক্ষাব্যবস্থায় কাঁপন ধরিয়ে দিয়েছে ইরান।",
-        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-      },
-      {
-        "headline": "শিশুদের শৈশব কি তবে ‘ভর্তি যুদ্ধ’র বলি হবে?",
-        "url": "https://dailynayadiganta.com/opinions/opinion/U9L0e4q4vyDv/",
-        "published_at": null,
-        "summary": "ভর্তি যুদ্ধ মানে কেবল একটি আসনে উত্তীর্ণ হওয়া নয়, এটি হাজার হাজার শিশুকে শৈশবেই ‘অযোগ্য’ হিসেবে বাতিলের খাতায় ফেলে দেয়া। এই মানসিক নির্যাতন বন্ধ না করলে আমরা একটি বিভক্ত ও হতাশাবাদী সমাজ পাব। সরকারের উচিত হবে এই হঠকারী চিন্তা থেকে সরে এসে দীর্ঘমেয়াদি শিক্ষা সংস্কারের দিকে নজর দেয়া।",
-        "image_url": "https://media.ndiganta.com/original_images/Dipu-Siddiqi.jpg"
-      },
       {
         "headline": "খামেনির মতো শক্তিশালী নেতা নজরদারি এড়াতে পারেনি,  আর সেখানে আমরা কি আদৌ নিরাপদ?",
         "url": "https://www.amarsangbad.com/opinion/news/339680",
@@ -11984,6 +11913,76 @@
         "published_at": "1768563170",
         "summary": "বাংলাদেশে চলমান অন্তর্বর্তী সরকারের সংস্কার প্রক্রিয়া এক নতুন বাঁকে এসে দাঁড়িয়েছে। রাষ্ট্রের আমূল পরিবর্তনের লক্ষ্যে প্রস্তাবিত সংস্কার প্যাকেজ বা প্রোডাক্ট নিয়ে আয়োজিতব্য গণভোটে সরকার সরাসরি ‘হ্যাঁ’ ভোটের পক্ষে অবস্থান নিয়েছে। সরকারের এ সক্রিয় অংশগ্রহণ এবং ভবিষ্যৎ দায়বদ্ধতা নিয়ে জনমনে এবং রাজনৈতিক বিশ্লেষকদের মধ্যে এক গভীর বিতর্কের সৃষ্টি হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/vote-20260116113250.jpg"
+      },
+      {
+        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
+        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
+        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
+        "published_at": null,
+        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
+        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
+        "published_at": null,
+        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
+        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "রক্তের হোলিখেলা বন্ধ করুন",
+        "url": "https://dailynayadiganta.com/opinions/editorial/BaBZxTIgN2WX/",
+        "published_at": null,
+        "summary": "পৃথিবীতে চলমান রক্তের হোলিখেলা এখনই বন্ধ করতে হবে। আর একটি জনপদও যাতে ধ্বংস না হয়, সে জন্য ব্যবস্থা গ্রহণ করতে হবে। সুশৃঙ্খল বিশ্বব্যবস্থা ও শান্তি পুনঃপ্রতিষ্ঠার জন্য দেশে দেশে জাগরণ সৃষ্টি করতে হবে।",
+        "image_url": "https://media.ndiganta.com/original_images/WhatsApp_Image_2025-10-21_at_5.15.02_PM_1.jpeg"
+      },
+      {
+        "headline": "ড. আ ফ ম খালিদ হোসেন❯❯❯•প্রফেসর ইউনূসের রাষ্ট্র পরিচালনার স্বাতন্ত্র্য",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/cvovOExbEWGY/",
+        "published_at": null,
+        "summary": "সব মিলিয়ে বলা যায়, অন্তর্বর্তী সরকারের সময় যমুনা বা সচিবালয় ঘেরাওয়ের ঘটনাগুলো ছিল সেই সময়ের রাজনৈতিক ও সামাজিক গতিশীলতারই প্রতিফলন। গণতান্ত্রিক সমাজে দাবি-দাওয়া প্রকাশের অধিকার যেমন স্বীকৃত, তেমনি প্রশাসনিক শৃঙ্খলা ও নিরাপত্তা রক্ষার দায়িত্বও সরকারের ওপর বর্তায়। এই দুই বাস্তবতার মাঝখানে দাঁড়িয়ে অন্তর্বর্তী সরকারকে পরিস্থিতি সামাল দিতে হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/AFN.jpg"
+      },
+      {
+        "headline": "প্রফেসর এম এ রশীদযে ধরনের অর্থনৈতিক সংস্কার বাংলাদেশের দরকার",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/o42px5pJqXMP/",
+        "published_at": null,
+        "summary": "বৈদেশিক ঋণ ব্যবস্থাপনায় সতর্কতা— উন্নয়ন প্রকল্পে বৈদেশিক ঋণ \r\nগুরুত্বপূর্ণ ভূমিকা রাখলেও অতিরিক্ত ঋণ অর্থনৈতিক ঝুঁকি তৈরি করতে \r\nপারে। এ জন্য ঋণ জিডিপি অনুপাত ও ঋণ পরিষেবা সক্ষমতা নিয়মিত মূল্যায়ন, স্বল্পসুদ ও দীর্ঘমেয়াদি ঋণ অগ্রাধিকার, প্রকল্পের অর্থনৈতিক লাভজনকতা যাচাই, বৈদেশিক মুদ্রা রিজার্ভ ব্যবস্থাপনায় সতর্কতা, সতর্ক ঋণ ব্যবস্থাপনা অর্থনৈতিক স্থিতিশীলতা নিশ্চিত করবে। বাংলাদেশের জন্য এখন প্রয়োজন সংগঠিত, কাঠামোগত ও প্রাতিষ্ঠানিক সংস্কার— শুধু সাময়িক স্থিতিশীলতা নয়; বরং দীর্ঘমেয়াদি অর্থনৈতিক সক্ষমতা গড়ে তোলা",
+        "image_url": "https://media.ndiganta.com/original_images/Untitled-7_copy.jpg"
+      },
+      {
+        "headline": "আমীর হামযাশোকপ্রস্তাবেও গাত্রদাহ",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/APLQNPZH4JEw/",
+        "published_at": null,
+        "summary": "বাম রাজনীতির মূল্যায়নে অনেকে প্রচলিত একটি লোককথার তুলনা দিয়ে \r\nথাকেন। ৪০ মণ দুধ নষ্ট করতে এক ফোঁটা গো-চোনাই যেমন যথেষ্ট, এ দেশের রাজনীতিতে বামপন্থীদের অবস্থানও ঠিক এমনি। অবশ্য ভারতের উগ্র হিন্দুত্ববাদীরা \r\nগো-চোনা মধুসম মনে করেন। ভারতের উগ্র হিন্দুত্ববাদীদের মতো দেশীয় সেক্যুলার বামপন্থীরাও সর্বভারতীয় সংস্কৃতিতে বিশ্বাসী। কে না জানে সর্বভারতীয় সংস্কৃতির \r\nসরল অর্থ প্যাগান কালচার; অর্থাৎ— নিখাদ পৌত্তলিকতা। তাদের যাপিত \r\nজীবন ধর্মপ্রাণ মুসলিম জনগোষ্ঠীর বিপরীত। এদের চিনে রাখা এখনকার \r\nরাজনৈতিক কর্তব্য। এ কাজে অবহেলা করলে আখেরে পস্তাতে হবে",
+        "image_url": "https://media.ndiganta.com/original_images/Hamza_SGNBbKD.jpg"
+      },
+      {
+        "headline": "মাসুম খলিলীপারস্য উপসাগরে ‘অদৃশ্য যুদ্ধ’ ও ইলেকট্রনিক ওয়ারফেয়ার",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/4uKV2z9R5g8Z/",
+        "published_at": null,
+        "summary": "২০২৬ সালের মার্চে মধ্যপ্রাচ্যে উত্তেজনা নতুন মাত্রা পেয়েছে। ইরান, ইসরাইল ও যুক্তরাষ্ট্রকে ঘিরে চলমান সামরিক ও কূটনৈতিক সঙ্ঘাতের প্রেক্ষাপটে পারস্য উপসাগরে শুরু হয়েছে এক ধরনের ‘অদৃশ্য যুদ্ধ’ ইলেকট্রনিক ওয়ারফেয়ার। বিশেষ করে বিশ্বের অন্যতম গুরুত্বপূর্ণ নৌপথ হরমুজ প্রণালীতে ব্যাপকভাবে জিপিএস জ্যামিং ও স্পুফিংয়ের ঘটনা ঘটছে। এতে শত শত বাণিজ্যিক জাহাজের নেভিগেশন ব্যবস্থা বিভ্রান্ত হয়ে পড়ছে; অনেক জাহাজের ডিজিটাল অবস্থান এমনভাবে দেখাচ্ছে যেন তারা বিমানবন্দরের রানওয়ে, মরুভূমি কিংবা সম্পূর্ণ ভিন্ন কোনো স্থানে রয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/masum-khalili-2.jpg"
+      },
+      {
+        "headline": "মুহাম্মদ খায়রুল বাশারইরানে ইহুদি-মার্কিন বর্বরতা, শেষ কোথায়",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/Q08Ky9l0CiAv/",
+        "published_at": null,
+        "summary": "ইরানের বিরুদ্ধে মার্কিন-ইসরাইল বর্বরতার নিকৃষ্টতম নজির চলমান যুদ্ধ। তৃতীয় সপ্তাহে গড়ানো এ যুদ্ধের প্রভাব মধ্যপ্রাচ্যসহ গোটা বিশ্বেই পড়েছে। সামরিক স্থাপনা ও বেসামরিক জনগোষ্ঠী উভয়কেই লক্ষ্য করে ক্রমাগত বোমা বর্ষণ করা সত্ত্বেও ইসলামী প্রজাতন্ত্রকে নোয়ানো যায়নি। ইরানের সর্বোচ্চ ধর্মীয় নেতা আয়াতুল্লাহ আলী খামেনিকে হত্যা করা হয়েছে। তার পরও অপ্রত্যাশিত আক্রমণে মার্কিন অহঙ্কার গুঁড়িয়ে দিয়ে মার্কিন ইহুদি প্রতিরক্ষাব্যবস্থায় কাঁপন ধরিয়ে দিয়েছে ইরান।",
+        "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
+      },
+      {
+        "headline": "শিশুদের শৈশব কি তবে ‘ভর্তি যুদ্ধ’র বলি হবে?",
+        "url": "https://dailynayadiganta.com/opinions/opinion/U9L0e4q4vyDv/",
+        "published_at": null,
+        "summary": "ভর্তি যুদ্ধ মানে কেবল একটি আসনে উত্তীর্ণ হওয়া নয়, এটি হাজার হাজার শিশুকে শৈশবেই ‘অযোগ্য’ হিসেবে বাতিলের খাতায় ফেলে দেয়া। এই মানসিক নির্যাতন বন্ধ না করলে আমরা একটি বিভক্ত ও হতাশাবাদী সমাজ পাব। সরকারের উচিত হবে এই হঠকারী চিন্তা থেকে সরে এসে দীর্ঘমেয়াদি শিক্ষা সংস্কারের দিকে নজর দেয়া।",
+        "image_url": "https://media.ndiganta.com/original_images/Dipu-Siddiqi.jpg"
       },
       {
         "headline": "মানুষের আবেগ নিয়ে ভয়ংকর খেলা",
@@ -13251,6 +13250,13 @@
     "football": [],
     "election": [
       {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
+      {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
         "published_at": "2026-03-23T00:47:53+06:00",
@@ -13312,13 +13318,6 @@
         "published_at": "2026-03-22T20:55:14+06:00",
         "summary": "মাদকের বিরুদ্ধে কার্যকর ব্যবস্থা গ্রহণের দাবিতে রাজবাড়ীতে মানববন্ধন অনুষ্ঠিত হয়েছে। স্থানীয় যুবসমাজের উদ্যোগে রবিবার বিকেলে সদর উপজেলার উড়াকান্দা বাজার এলাকায় এ কর্মসূচি পালন করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774191313-d82319912041449cd31bdb7e7569d171.jpg"
-      },
-      {
-        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
-        "published_at": "2026-03-22T20:26:25+06:00",
-        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "কুমিল্লা সিটি নির্বাচন",
@@ -13389,6 +13388,13 @@
         "published_at": "1771227856",
         "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের সঙ্গে অনুষ্ঠিত গণভোটের আনুষ্ঠানিক ফলাফল গেজেট আকারে প্রকাশ করেছে নির্বাচন কমিশন (ইসি)।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-5--20260216074416.jpg"
+      },
+      {
+        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
+        "published_at": "2026-03-22T20:26:25+06:00",
+        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "ঈদের দ্বিতীয় দিনে সহস্রাধিক পর্যটকের পদচারণায় মুখরিত কুয়াকাটা",
@@ -14642,16 +14648,16 @@
         "published_at": "2026-03-19T15:47:47+06:00",
         "summary": "বগুড়ার আদমদীঘির সান্তাহার বাগবাড়ী এলাকায় চিলাহাটিগামী নীলসাগর এক্সপ্রেস লাইনচ্যুত হওয়ার ২১ ঘণ্টা পর উত্তরাঞ্চলের সঙ্গে সারাদেশের ট্রেন চলাচল স্বাভাবিক হয়েছে। আজ বৃহস্পতিবার বেলা ১২টায় চিলাহাটি থেকে ছেড়ে আসা খুলনাগামী যাত্রীবাহী সীমান্ত এক্সপ্রেস ট্রেন দুর্ঘটনায কবলিত এলাকা দিয়ে চলাচল শুরুর মধ্য দিয়ে এই রুটে ট্রেন চলাচল স্বাভাবিক হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773913665-1e9e80ec9721ffe72b5a82d0caf9b717.jpg"
-      },
-      {
-        "headline": "পদ্মা সেতু হয়ে দক্ষিণের স্বস্তির ঈদযাত্রা",
-        "url": "https://www.bd-pratidin.com/country/2026/03/19/1229961",
-        "published_at": "2026-03-19T15:34:41+06:00",
-        "summary": "দক্ষিণের দুয়ার হিসেবে খ্যাত পদ্মা সেতু হয়ে দুর্ভোগ ও বিড়ম্বনা ছাড়াই নাড়ির টানে বাড়ি ফিরছে ২১ জেলার মানুষ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773912880-9b4415b71d8e82c723d40a33ef9f8349.jpg"
       }
     ],
     "city": [
+      {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
       {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
@@ -16044,16 +16050,16 @@
         "published_at": "2026-03-19T13:11:42+06:00",
         "summary": "রাজধানী ঢাকায় আসন্ন ঈদুল ফিতর উপলক্ষ্যে ১২১টি ঈদগাহ ও ১৫৯৯টি মসজিদে মোট ১৭২০টি ঈদ জামাত অনুষ্ঠিত হবে। ঈদকে কেন্দ্র করে কোনো ধরনের নিরাপত্তা শঙ্কা নেই বলে জানিয়েছে ঢাকা মহানগর পুলিশ (ডিএমপি)। তবে গোয়েন্দা তথ্যের ভিত্তিতে সর্বোচ্চ প্রস্তুতি নেওয়া হয়েছে বলে জানিয়েছেন ডিএমপির ভারপ্রাপ্ত কমিশনার মো. সরওয়ার।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773904301-edab7ba7e203cd7576d1200465194ea8.jpg"
-      },
-      {
-        "headline": "শুধু জ্বালানি নয়: ইরান যুদ্ধ যেভাবে বৈশ্বিক খাদ্য সংকট তৈরি করতে পারে",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/19/1229920",
-        "published_at": "2026-03-19T12:59:45+06:00",
-        "summary": "ইরানে চলমান যুদ্ধ শুধু জ্বালানি বাজারেই নয়, বৈশ্বিক খাদ্য ব্যবস্থাতেও বড় ধরনের চাপ তৈরি করছে। বিশেষজ্ঞরা বলছেন, হরমুজ প্রণালীতে নৌ চলাচল ব্যাহত হওয়ায় তেলের পাশাপাশি সারের সরবরাহেও বড় সংকট তৈরি হতে যাচ্ছে, যা বিশ্বজুড়ে খাদ্য নিরাপত্তাকে হুমকির মুখে ফেলতে পারে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773903584-fbf7f55da08d9e578d03b0612be0ff1a.jpg"
       }
     ],
     "campus": [
+      {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
       {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
@@ -16116,13 +16122,6 @@
         "published_at": "2026-03-22T20:55:14+06:00",
         "summary": "মাদকের বিরুদ্ধে কার্যকর ব্যবস্থা গ্রহণের দাবিতে রাজবাড়ীতে মানববন্ধন অনুষ্ঠিত হয়েছে। স্থানীয় যুবসমাজের উদ্যোগে রবিবার বিকেলে সদর উপজেলার উড়াকান্দা বাজার এলাকায় এ কর্মসূচি পালন করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774191313-d82319912041449cd31bdb7e7569d171.jpg"
-      },
-      {
-        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
-        "published_at": "2026-03-22T20:26:25+06:00",
-        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "ছাদ থেকে পড়ে বিশ্ববিদ্যালয় ছাত্রীর মৃত্যু",
@@ -16193,6 +16192,13 @@
         "published_at": "1773247060",
         "summary": "শিক্ষার্থীদের মধ্যে মহানবী হযরত মুহাম্মদ (সা.)-এর জীবন ও আদর্শ ছড়িয়ে দিতে রাজধানীর সরকারি বাঙলা কলেজ ইসলামী ছাত্রশিবিরের উদ্যোগে সীরাত প্রতিযোগিতা ও পুরস্কার বিতরণী অনুষ্ঠানের আয়োজন করা হয়েছে।",
         "image_url": "https://cdn.amarsangbad.com/media/imgAll/2025September/SM/Untitled-36-20260311163740.jpg"
+      },
+      {
+        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
+        "published_at": "2026-03-22T20:26:25+06:00",
+        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
       },
       {
         "headline": "ঈদের দ্বিতীয় দিনে সহস্রাধিক পর্যটকের পদচারণায় মুখরিত কুয়াকাটা",
@@ -17446,16 +17452,16 @@
         "published_at": "2026-03-19T15:47:47+06:00",
         "summary": "বগুড়ার আদমদীঘির সান্তাহার বাগবাড়ী এলাকায় চিলাহাটিগামী নীলসাগর এক্সপ্রেস লাইনচ্যুত হওয়ার ২১ ঘণ্টা পর উত্তরাঞ্চলের সঙ্গে সারাদেশের ট্রেন চলাচল স্বাভাবিক হয়েছে। আজ বৃহস্পতিবার বেলা ১২টায় চিলাহাটি থেকে ছেড়ে আসা খুলনাগামী যাত্রীবাহী সীমান্ত এক্সপ্রেস ট্রেন দুর্ঘটনায কবলিত এলাকা দিয়ে চলাচল শুরুর মধ্য দিয়ে এই রুটে ট্রেন চলাচল স্বাভাবিক হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773913665-1e9e80ec9721ffe72b5a82d0caf9b717.jpg"
-      },
-      {
-        "headline": "পদ্মা সেতু হয়ে দক্ষিণের স্বস্তির ঈদযাত্রা",
-        "url": "https://www.bd-pratidin.com/country/2026/03/19/1229961",
-        "published_at": "2026-03-19T15:34:41+06:00",
-        "summary": "দক্ষিণের দুয়ার হিসেবে খ্যাত পদ্মা সেতু হয়ে দুর্ভোগ ও বিড়ম্বনা ছাড়াই নাড়ির টানে বাড়ি ফিরছে ২১ জেলার মানুষ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773912880-9b4415b71d8e82c723d40a33ef9f8349.jpg"
       }
     ],
     "tech": [
+      {
+        "headline": "ঈদের ছুটিতে সেবা দিতে গিয়ে আহত ডিএসসিসি কর্মীর চিকিৎসার সব দায়িত্ব কর্পোরেশনের",
+        "url": "https://www.bd-pratidin.com/city-news/2026/03/23/1230563",
+        "published_at": "2026-03-23T02:08:26+06:00",
+        "summary": "ঈদের ছুটিতে নগরবাসীকে জরুরি নাগরিক সেবা দিতে গিয়ে আহত হওয়া বৈদ্যুতিক লাইনম্যান সালাউদ্দিন আহমেদের চিকিৎসার যাবতীয় দায়ভার ঢাকা দক্ষিণ সিটি কর্পোরেশন (ডিএসসিসি) বহন করবে।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/23/og/1774210105-7369edce3dd0c64213a23cb924036083.jpg"
+      },
       {
         "headline": "তিন সপ্তাহের হামলায় যা বোঝা গেল, আসলে কী চায় যুক্তরাষ্ট্র ইসরায়েল?",
         "url": "https://www.bd-pratidin.com/international-news/2026/03/23/1230557",
@@ -17518,83 +17524,6 @@
         "published_at": "2026-03-22T20:55:14+06:00",
         "summary": "মাদকের বিরুদ্ধে কার্যকর ব্যবস্থা গ্রহণের দাবিতে রাজবাড়ীতে মানববন্ধন অনুষ্ঠিত হয়েছে। স্থানীয় যুবসমাজের উদ্যোগে রবিবার বিকেলে সদর উপজেলার উড়াকান্দা বাজার এলাকায় এ কর্মসূচি পালন করা হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774191313-d82319912041449cd31bdb7e7569d171.jpg"
-      },
-      {
-        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
-        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
-        "published_at": "2026-03-22T20:26:25+06:00",
-        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
-      },
-      {
-        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
-        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
-        "published_at": null,
-        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
-        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
-        "published_at": null,
-        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
-        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
-        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
-        "published_at": null,
-        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
-        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
-      },
-      {
-        "headline": "সৈয়দপুর বিমানবন্দরে ফ্রি ওয়াইফাই সেবার উদ্বোধন করলেন প্রধানমন্ত্রী",
-        "url": "https://dailynayadiganta.com/science-technology/gadgets/QyRCImfsANfG/",
-        "published_at": null,
-        "summary": "দিনাজপুর সফর শেষে রাতে ঢাকায় ফেরার পথে প্রধানমন্ত্রী এই সেবা চালু করেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Tarique-Rahman_HqcZwqH.jpg"
-      },
-      {
-        "headline": "টেকনো মেগা ঈদ ফেস্ট-এ ঈদ আনন্দ হবে দ্বিগুণ, ক্যামন ও পোভা সিরিজ কিনলেই দেশজুড়ে নিশ্চিত ঈদ উপহার",
-        "url": "https://dailynayadiganta.com/science-technology/eOKLzaBRg3WZ/",
-        "published_at": null,
-        "summary": "এই ক্যাম্পেইনের অংশ হিসেবে ক্যামন বা পোভা সিরিজের যেকোনো ফোন কিনলেই টেকনোর ঈদ গিফট পুল থেকে একটি উপহার পাওয়া যাবে।",
-        "image_url": "https://media.ndiganta.com/original_images/tkn_mg_id_phst.jpeg"
-      },
-      {
-        "headline": "বাংলাদেশ সাবমেরিন ক্যাবলস পিএলসি’র নতুন ব্যান্ডউইডথ ক্রয়ে বিশেষ বোনাস",
-        "url": "https://dailynayadiganta.com/science-technology/7Qy1nd3A9sOU/",
-        "published_at": null,
-        "summary": "নতুন এ উদ্যোগের ফলে আইএসপি, আইআইজি এবং অন্যান্য টেলিযোগাযোগ অপারেটররা কম খরচে আন্তর্জাতিক ব্যান্ডউইডথ ব্যবহারের সুযোগ পাবেন।",
-        "image_url": "https://media.ndiganta.com/original_images/Posts-Telecommunications-and-Information-Technology_aWuYRUj.jpg"
-      },
-      {
-        "headline": "সূর্যের পূর্ণগ্রহণ কিভাবে হয়, গ্রহণ কত রকমের এবং বিভিন্ন গ্রহণে পার্থক্য কোথায়?",
-        "url": "https://dailynayadiganta.com/science-technology/1j5gar6lfpRl/",
-        "published_at": null,
-        "summary": "বাংলাদেশের আন্তঃবাহিনী জনসংযোগ পরিদফতর (আইএসপিআর) এক সংবাদ বিজ্ঞপ্তিতে জানিয়েছে, মঙ্গলবার বাংলাদেশ সময় বিকেল ৫টা ৫৬ মিনিট ৩৬ সেকেন্ডে এ গ্রহণ শুরু হবে এবং রাত ৮টা ২৭ মিনিট ৩৬ সেকেন্ডে গ্রহণটি শেষ হবে।",
-        "image_url": "https://media.ndiganta.com/original_images/BBC_jnVFM18.jpg"
-      },
-      {
-        "headline": "যেভাবে ভূমিকম্প শনাক্ত করতে পারে স্মার্টফোন",
-        "url": "https://dailynayadiganta.com/science-technology/tech-news/ffLVHWZzMpOp/",
-        "published_at": null,
-        "summary": "অ্যান্ড্রয়েড ফোনের সংবেদনশীল এক্সেলারোমিটারকে ক্ষুদ্র সিসমোমিটার হিসেবে ব্যবহার করে গুগলের আর্থকোয়েক অ্যালার্ট সিস্টেম কয়েক সেকেন্ড আগে ভূমিকম্প শনাক্ত করে সতর্কবার্তা পাঠায়।",
-        "image_url": "https://media.ndiganta.com/original_images/earthquake-mobile.jpg"
-      },
-      {
-        "headline": "এআই যুগে নতুন দিগন্ত : সেলসফোর্স আনল এজেন্টফোর্স ৩৬০",
-        "url": "https://dailynayadiganta.com/science-technology/tech-news/QoPxrSxCB5Dc/",
-        "published_at": null,
-        "summary": "সেলসফোর্সের এজেন্টফোর্স ৩৬০ প্ল্যাটফর্ম এআই এজেন্টদের মানুষের সঙ্গে একত্রিত করে কর্মদক্ষতা ও গ্রাহকসেবা দ্রুত ও কার্যকর করছে। এটি কথোপকথনভিত্তিক ইন্টারফেস, এআই ওয়ার্কফ্লো ও রিয়েল-টাইম তথ্য সংযুক্তি মাধ্যমে ব্যবসার কার্যক্রম উন্নত করছে।",
-        "image_url": "https://media.ndiganta.com/original_images/AgentForce-360.jpg"
-      },
-      {
-        "headline": "এআই অ্যাপ ও অ্যাজেন্টদের জন্য প্ল্যাটফর্ম সম্প্রসারণ করল স্ল্যাক",
-        "url": "https://dailynayadiganta.com/science-technology/tech-news/uZLMOlFDBj8H/",
-        "published_at": null,
-        "summary": "স্ল্যাক তাদের প্ল্যাটফর্মে আরটিএস এপিআই, এমসিপি সার্ভার ও নতুন ডেভেলপার টুল যুক্ত করে এআই অ্যাপ ও অ্যাজেন্ট তৈরির সুযোগ সম্প্রসারণ করেছে, যা উৎপাদনশীলতা ও কার্যকারিতা বাড়াবে।",
-        "image_url": "https://media.ndiganta.com/original_images/slack.jpg"
       },
       {
         "headline": "রিভো নিয়ে এলো ‘ঈদ ডাবল ধামাকা’ অফার: ফ্রি ই-বাইক ও ১ লক্ষ টাকা ক্যাশব্যাক",
@@ -17672,6 +17601,83 @@
         "published_at": null,
         "summary": "বিজ্ঞানীরা মনে করছেন, ভবিষ্যতে অপটিক্যাল ক্লকের আরও উন্নয়ন প্রযুক্তি ও মহাকাশ গবেষণায় বিপ্লব ঘটাতে পারে। ...",
         "image_url": "https://cdn.jugantor.com/uploads/settings/thumbnail.jpg"
+      },
+      {
+        "headline": "সৈকতের বালিয়াড়ি কোনোভাবেই দখল করা যাবে না: স্বরাষ্ট্রমন্ত্রী",
+        "url": "https://www.bd-pratidin.com/minister-speech/2026/03/22/1230529",
+        "published_at": "2026-03-22T20:26:25+06:00",
+        "summary": "কক্সবাজার সমুদ্র সৈকতের অবৈধ স্থাপনা উচ্ছেদকৃত স্থান পরিদর্শন করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
+        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/22/og/1774189584-7151184986aed9f8f418938930271d37.jpg"
+      },
+      {
+        "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
+        "url": "https://dailynayadiganta.com/printed-edition/19FMktHRj08B/",
+        "published_at": null,
+        "summary": "ত্রয়োদশ জাতীয় সংসদ নির্বাচনের পর এটিই প্রথম ঈদ, আর সেই কারণেই উৎসবের আবহের সাথে মিশে গেছে নতুন ক্ষমতার হিসাব-নিকাশ, প্রতিশ্রুতির মূল্যায়ন এবং বিরোধী রাজনীতির চাপ সৃষ্টির কৌশল। সরকারি দল তাদের এক মাসের সাফল্য তুলে ধরতে মাঠে নামছে, আর বিরোধী দল ‘জুলাই জাতীয় সনদ’ বাস্তবায়ন, সিটি করপোরেশন ও জেলা পরিষদে দলীয় প্রশাসক নিয়োগের ইস্যুকে কেন্দ্র করে জনমত গড়ে তোলার চেষ্টা চালাবেন বলে সংশ্লিষ্ট সূত্রগুলোর দাবি।",
+        "image_url": "https://media.ndiganta.com/images/Screenshot_20260318-0_yJAVRHF.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "তারেক রহমানের প্রধানমন্ত্রিত্বের এক মাস",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/zLY7OewSyRnz/",
+        "published_at": null,
+        "summary": "তারেক রহমানকে অনেক পথ পাড়ি দিতে হবে। বিশেষ করে বিএনপির প্রতিশ্রুত নির্বাচনী ইশতেহার বাস্তবায়নে রাষ্ট্রের অর্থনৈতিক ভিত্তি মজবুত করতে হবে। আর এ জন্য দেশী-বিদেশী বিনিয়োগ ও রফতানি বৃদ্ধি এবং দক্ষ  জনশক্তি তৈরি করে বিদেশে পাঠানোর মাধ্যমে রেমিট্যান্স প্রবাহ অব্যাহত রাখতে হবে। একই সাথে রাষ্ট্রের আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখার পাশাপাশি জাতীয় স্বার্থে বিভেদের রাজনীতির পরিবর্তে ঐক্যের রাজনীতির বুনিয়াদ রচনা করতে হবে।",
+        "image_url": "https://media.ndiganta.com/images/opinion_2_byeiqOn.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
+        "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
+        "published_at": null,
+        "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
+        "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
+      },
+      {
+        "headline": "সৈয়দপুর বিমানবন্দরে ফ্রি ওয়াইফাই সেবার উদ্বোধন করলেন প্রধানমন্ত্রী",
+        "url": "https://dailynayadiganta.com/science-technology/gadgets/QyRCImfsANfG/",
+        "published_at": null,
+        "summary": "দিনাজপুর সফর শেষে রাতে ঢাকায় ফেরার পথে প্রধানমন্ত্রী এই সেবা চালু করেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Tarique-Rahman_HqcZwqH.jpg"
+      },
+      {
+        "headline": "টেকনো মেগা ঈদ ফেস্ট-এ ঈদ আনন্দ হবে দ্বিগুণ, ক্যামন ও পোভা সিরিজ কিনলেই দেশজুড়ে নিশ্চিত ঈদ উপহার",
+        "url": "https://dailynayadiganta.com/science-technology/eOKLzaBRg3WZ/",
+        "published_at": null,
+        "summary": "এই ক্যাম্পেইনের অংশ হিসেবে ক্যামন বা পোভা সিরিজের যেকোনো ফোন কিনলেই টেকনোর ঈদ গিফট পুল থেকে একটি উপহার পাওয়া যাবে।",
+        "image_url": "https://media.ndiganta.com/original_images/tkn_mg_id_phst.jpeg"
+      },
+      {
+        "headline": "বাংলাদেশ সাবমেরিন ক্যাবলস পিএলসি’র নতুন ব্যান্ডউইডথ ক্রয়ে বিশেষ বোনাস",
+        "url": "https://dailynayadiganta.com/science-technology/7Qy1nd3A9sOU/",
+        "published_at": null,
+        "summary": "নতুন এ উদ্যোগের ফলে আইএসপি, আইআইজি এবং অন্যান্য টেলিযোগাযোগ অপারেটররা কম খরচে আন্তর্জাতিক ব্যান্ডউইডথ ব্যবহারের সুযোগ পাবেন।",
+        "image_url": "https://media.ndiganta.com/original_images/Posts-Telecommunications-and-Information-Technology_aWuYRUj.jpg"
+      },
+      {
+        "headline": "সূর্যের পূর্ণগ্রহণ কিভাবে হয়, গ্রহণ কত রকমের এবং বিভিন্ন গ্রহণে পার্থক্য কোথায়?",
+        "url": "https://dailynayadiganta.com/science-technology/1j5gar6lfpRl/",
+        "published_at": null,
+        "summary": "বাংলাদেশের আন্তঃবাহিনী জনসংযোগ পরিদফতর (আইএসপিআর) এক সংবাদ বিজ্ঞপ্তিতে জানিয়েছে, মঙ্গলবার বাংলাদেশ সময় বিকেল ৫টা ৫৬ মিনিট ৩৬ সেকেন্ডে এ গ্রহণ শুরু হবে এবং রাত ৮টা ২৭ মিনিট ৩৬ সেকেন্ডে গ্রহণটি শেষ হবে।",
+        "image_url": "https://media.ndiganta.com/original_images/BBC_jnVFM18.jpg"
+      },
+      {
+        "headline": "যেভাবে ভূমিকম্প শনাক্ত করতে পারে স্মার্টফোন",
+        "url": "https://dailynayadiganta.com/science-technology/tech-news/ffLVHWZzMpOp/",
+        "published_at": null,
+        "summary": "অ্যান্ড্রয়েড ফোনের সংবেদনশীল এক্সেলারোমিটারকে ক্ষুদ্র সিসমোমিটার হিসেবে ব্যবহার করে গুগলের আর্থকোয়েক অ্যালার্ট সিস্টেম কয়েক সেকেন্ড আগে ভূমিকম্প শনাক্ত করে সতর্কবার্তা পাঠায়।",
+        "image_url": "https://media.ndiganta.com/original_images/earthquake-mobile.jpg"
+      },
+      {
+        "headline": "এআই যুগে নতুন দিগন্ত : সেলসফোর্স আনল এজেন্টফোর্স ৩৬০",
+        "url": "https://dailynayadiganta.com/science-technology/tech-news/QoPxrSxCB5Dc/",
+        "published_at": null,
+        "summary": "সেলসফোর্সের এজেন্টফোর্স ৩৬০ প্ল্যাটফর্ম এআই এজেন্টদের মানুষের সঙ্গে একত্রিত করে কর্মদক্ষতা ও গ্রাহকসেবা দ্রুত ও কার্যকর করছে। এটি কথোপকথনভিত্তিক ইন্টারফেস, এআই ওয়ার্কফ্লো ও রিয়েল-টাইম তথ্য সংযুক্তি মাধ্যমে ব্যবসার কার্যক্রম উন্নত করছে।",
+        "image_url": "https://media.ndiganta.com/original_images/AgentForce-360.jpg"
+      },
+      {
+        "headline": "এআই অ্যাপ ও অ্যাজেন্টদের জন্য প্ল্যাটফর্ম সম্প্রসারণ করল স্ল্যাক",
+        "url": "https://dailynayadiganta.com/science-technology/tech-news/uZLMOlFDBj8H/",
+        "published_at": null,
+        "summary": "স্ল্যাক তাদের প্ল্যাটফর্মে আরটিএস এপিআই, এমসিপি সার্ভার ও নতুন ডেভেলপার টুল যুক্ত করে এআই অ্যাপ ও অ্যাজেন্ট তৈরির সুযোগ সম্প্রসারণ করেছে, যা উৎপাদনশীলতা ও কার্যকারিতা বাড়াবে।",
+        "image_url": "https://media.ndiganta.com/original_images/slack.jpg"
       },
       {
         "headline": "ঈদের দ্বিতীয় দিনে সহস্রাধিক পর্যটকের পদচারণায় মুখরিত কুয়াকাটা",
@@ -18848,13 +18854,6 @@
         "published_at": "2026-03-19T19:33:29+06:00",
         "summary": "কুষ্টিয়ার কুমারখালী উপজেলা সহকারী কমিশনার (ভূমি) পরিচয়ে মুঠোফোনে বিভিন্ন ব্যবসায়ীর কাছে চাঁদা দাবির অভিযোগ পাওয়া গেছে। বৃহস্পতিবার (১৯ মার্চ) দুপুর ২ টার দিকে দুইজনের কাছে ঈদ উপহার হিসেবে ৫০ হাজার টাকা চাঁদা দাবি করা হয়। পরে ওই ব্যবসায়ীরা চাঁদার বিষয়টি উপজেলা সহকারী কমিশারকে জানালে কার্যালয়টির অফিসিয়াল ফেসবুকে একটি সতর্কমূলক স্ট্যাটাস দেওয়া হয়।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773927208-8efece176c2695056f50846ab1ca5a55.jpg"
-      },
-      {
-        "headline": "জামালপুরে হতদরিদ্রদের মাঝে ঈদ উপহার বিতরণ",
-        "url": "https://www.bd-pratidin.com/country/2026/03/19/1230018",
-        "published_at": "2026-03-19T19:31:33+06:00",
-        "summary": "জামালপুরে হতদরিদ্র মানুষের মাঝে ঈদ উপহার সামগ্রী বিতরণ করেছে এক্স ক্যাডেট অ্যাসোসিয়েশন।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/19/og/1773927091-3f260ced9e478db899f3386e435e7fe5.PNG"
       }
     ]
   }
