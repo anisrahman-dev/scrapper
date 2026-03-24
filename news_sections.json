@@ -1,7 +1,15 @@
 {
-  "fetched_at": "2026-03-24T20:39:09.666363+00:00",
+  "fetched_at": "2026-03-24T21:35:31.745738+00:00",
   "sections": {
     "latest": [
+      {
+        "headline": "‘যুদ্ধে আমরা জয়ী হয়েছি’: ট্রাম্প",
+        "url": "https://www.prothomalo.com/world/5slmsanxj1",
+        "published_at": "2026-03-24T20:58:43.427000+00:00",
+        "summary": "ডেমোক্রেটিক দলের এই জ্যেষ্ঠ নেতা শুরু থেকেই ইরানে হামলার বিষয়ে ট্রাম্পের সিদ্ধান্তের বিপক্ষে ছিলেন। তিনি অবিলম্বে এই যুদ্ধ বন্ধের আহ্বান জানিয়েছেন।",
+        "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
+      },
       {
         "headline": "আন্ডারওয়ার্ল্ডের গোপন মিশন-এর গল্প | তারার ঈদ",
         "url": "https://www.prothomalo.com/video/entertainment/3jf66mndf9",
@@ -17,14 +25,6 @@
         "summary": "জ্বালানিসংকট, জেলায় জেলায় পেট্রলপাম্পে যানবাহনের দীর্ঘ সারি",
         "image_s3_key": "prothomalo-bangla/2026-03-24/h6l75wnc/web.png",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-24/h6l75wnc/web.png?auto=format,compress"
-      },
-      {
-        "headline": "ইরানে হামলা চালিয়ে যেতে ট্রাম্পকে চাপ দিচ্ছেন সৌদি যুবরাজ",
-        "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-24T19:16:23.783000+00:00",
-        "summary": "ডেমোক্রেটিক দলের এই জ্যেষ্ঠ নেতা শুরু থেকেই ইরানে হামলার বিষয়ে ট্রাম্পের সিদ্ধান্তের বিপক্ষে ছিলেন। তিনি অবিলম্বে এই যুদ্ধ বন্ধের আহ্বান জানিয়েছেন।",
-        "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
       },
       {
         "headline": "ইরানি ড্রোন ঠেকাতে ওড়াতে হচ্ছে যুদ্ধবিমান, ব্যয় সামলাতে খুঁজতে হচ্ছে বিকল্প",
@@ -507,7 +507,7 @@
         "headline": "আজকের সর্বশেষ খবর - March 25, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "সাবেক সংসদ সদস্য ও এক/এগারোর আলোচিত সাবেক সেনা কর্মকর্তা মাসুদ উদ্দিন চৌধুরীর পাঁচদিনের রিমান্ডে মঞ্জুর করেছেন আদালত। ...",
+        "summary": "টিথার লিমিটেড নামের এক মার্কিন কোম্পানি। বলা হয়, এটি ডলার পেগড। অর্থাৎ ১ স্টেবল কয়েনের দাম ১ ইউএস ডলারের সমান। ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -4413,9 +4413,9 @@
     ],
     "world": [
       {
-        "headline": "ইরানে হামলা চালিয়ে যেতে ট্রাম্পকে চাপ দিচ্ছেন সৌদি যুবরাজ",
+        "headline": "‘যুদ্ধে আমরা জয়ী হয়েছি’: ট্রাম্প",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-24T19:16:23.783000+00:00",
+        "published_at": "2026-03-24T20:58:43.427000+00:00",
         "summary": "ডেমোক্রেটিক দলের এই জ্যেষ্ঠ নেতা শুরু থেকেই ইরানে হামলার বিষয়ে ট্রাম্পের সিদ্ধান্তের বিপক্ষে ছিলেন। তিনি অবিলম্বে এই যুদ্ধ বন্ধের আহ্বান জানিয়েছেন।",
         "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
