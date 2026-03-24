@@ -1,6 +1,14 @@
 {
-  "fetched_at": "2026-03-24T22:31:11.486819+00:00",
+  "fetched_at": "2026-03-24T23:01:02.681165+00:00",
   "stories": [
+    {
+      "headline": "শাওয়ালের ছয় রোজাকে ‘ভিত্তিহীন‘ বলা কতটা যৌক্তিক",
+      "url": "https://www.prothomalo.com/religion/islam/xhqg6dwihe",
+      "published_at": "2026-03-24T22:30:00+00:00",
+      "summary": "এই আমলটির ভিত্তি বা সংশ্লিষ্ট হাদিসটির গ্রহণযোগ্যতা নিয়ে আলেমদের মধ্যে কিছু বিতর্ক রয়েছে। বিশেষ করে হাফেজ ইবনুদ দিহিয়া এই হাদিসটিকে দুর্বল প্রমাণের চেষ্টা করেছিলেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-24/tovrq0mj/pexels-ibnulharezmi-4463901.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-24/tovrq0mj/pexels-ibnulharezmi-4463901.jpg?auto=format,compress"
+    },
     {
       "headline": "‘যুদ্ধে আমরা জয়ী হয়েছি’: ট্রাম্প",
       "url": "https://www.prothomalo.com/world/5slmsanxj1",
@@ -306,14 +314,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-24/w8c9tfza/WEB.jpg?auto=format,compress"
     },
     {
-      "headline": "ফিলিস্তিনিদের ঘরবাড়ি, ক্লিনিক ও গাড়িতে অবৈধ ইহুদি বসতি স্থাপনকারীদের হামলা–অগ্নিসংযোগ চলছেই",
-      "url": "https://www.prothomalo.com/world/middle-east/1j14tijfy2",
-      "published_at": "2026-03-24T14:43:01.314000+00:00",
-      "summary": "অবৈধ ইহুদি বসতি স্থাপনকারীরা পশ্চিম তীরের একটি ক্লিনিকে আগুন দিয়েছে, বেসামরিক নাগরিকদের ওপর গুলি চালিয়েছে এবং একটি স্কুলে ভাঙচুর করেছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-24/2hy4r3wo/west-bank.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-24/2hy4r3wo/west-bank.jpg?auto=format,compress"
-    },
-    {
       "headline": "কক্সবাজারে ছাত্রদল নেতাকে ছুরিকাঘাতে হত্যা",
       "url": "https://www.bd-pratidin.com/country/2026/03/25/1231055",
       "published_at": "2026-03-25T01:44:24+06:00",
@@ -503,10 +503,10 @@
       "image_url": "https://media.ndiganta.com/original_images/Untitled-25_FbyvA8K.jpg"
     },
     {
-      "headline": "আজকের সর্বশেষ খবর - March 25, 2026",
+      "headline": "আজকের সর্বশেষ খবর - March 24, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
-      "summary": "টিথার লিমিটেড নামের এক মার্কিন কোম্পানি। বলা হয়, এটি ডলার পেগড। অর্থাৎ ১ স্টেবল কয়েনের দাম ১ ইউএস ডলারের সমান। ...",
+      "summary": "এরইমধ্যে এর অর্থায়নও নিশ্চিত করা হয়েছে। গ্যাস ও বিদ্যুতের সরবরাহ যেন নিরবচ্ছিন্ন থাকে, সে বিষয়ে আমরা অত্যন্ত সচেষ্ট। ...",
       "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
     },
     {
@@ -515,6 +515,14 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "ফিলিস্তিনিদের ঘরবাড়ি, ক্লিনিক ও গাড়িতে অবৈধ ইহুদি বসতি স্থাপনকারীদের হামলা–অগ্নিসংযোগ চলছেই",
+      "url": "https://www.prothomalo.com/world/middle-east/1j14tijfy2",
+      "published_at": "2026-03-24T14:43:01.314000+00:00",
+      "summary": "অবৈধ ইহুদি বসতি স্থাপনকারীরা পশ্চিম তীরের একটি ক্লিনিকে আগুন দিয়েছে, বেসামরিক নাগরিকদের ওপর গুলি চালিয়েছে এবং একটি স্কুলে ভাঙচুর করেছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-24/2hy4r3wo/west-bank.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-24/2hy4r3wo/west-bank.jpg?auto=format,compress"
     },
     {
       "headline": "কুমিল্লায় বাস ও ট্রেন সংঘর্ষে ১২ জনের মৃত্যু",
@@ -1503,14 +1511,6 @@
       "summary": "ঢাকার যানজট কমাতে প্রধানমন্ত্রীর সভাপতিত্বে অনুষ্ঠিত সভায় ট্রাফিক ব্যবস্থাপনা আধুনিকায়ন, সড়কে শৃঙ্খলা ফিরিয়ে আনা এবং করণীয় নিয়ে আলোচনা হয়েছে।",
       "image_s3_key": "prothomalo-bangla/2026-03-24/hij5d99h/PM-1.jpeg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-24/hij5d99h/PM-1.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "ভারতীয়দের চা–শিঙাড়াতেও লাগছে ইরান যুদ্ধের আঁচ",
-      "url": "https://www.prothomalo.com/world/india/jn5ntuiimc",
-      "published_at": "2026-03-24T10:29:12.782000+00:00",
-      "summary": "ভারত তার প্রয়োজনীয় তরলীকৃত পেট্রোলিয়াম গ্যাসের প্রায় ৮৫ শতাংশই আমদানি করে মধ্যপ্রাচ্য থেকে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-24/570wo6c8/tea-stall.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-24/570wo6c8/tea-stall.jpg?auto=format,compress"
     }
   ]
 }
