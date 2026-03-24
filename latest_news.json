@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-24T23:32:11.371078+00:00",
+  "fetched_at": "2026-03-24T23:59:30.801710+00:00",
   "stories": [
     {
       "headline": "‘যুদ্ধে আমরা জয়ী হয়েছি’: ট্রাম্প",
@@ -314,6 +314,13 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-24/w8c9tfza/WEB.jpg?auto=format,compress"
     },
     {
+      "headline": "ট্রাম্প বলছেন আলোচনা, ইরান করছে অস্বীকার, আসলে কী হচ্ছে?",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/25/1231058",
+      "published_at": "2026-03-25T05:38:18+06:00",
+      "summary": "ইরান যুক্তরাষ্ট্র উত্তেজনার মধ্যেই ‘আলোচনা’ ইস্যু ঘিরে তৈরি হয়েছে নতুন ধোঁয়াশা। মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প যেখানে ফলপ্রসূ আলোচনার দাবি করছেন, সেখানে তেহরান তা সরাসরি অস্বীকার করছে। ফলে প্রকৃত পরিস্থিতি নিয়ে প্রশ্ন আরও ঘনীভূত হচ্ছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/25/og/1774395497-5084a6f9b5df20a1d5ec127447ca5d9f.jpg"
+    },
+    {
       "headline": "মুক্তিযুদ্ধ-জুলাই স্মৃতি জাদুঘর পরিদর্শন করলেন মার্কিন রাষ্ট্রদূত",
       "url": "https://www.bd-pratidin.com/national/2026/03/25/1231057",
       "published_at": "2026-03-25T05:21:13+06:00",
@@ -375,13 +382,6 @@
       "published_at": "2026-03-24T22:01:15+06:00",
       "summary": "কুড়িগ্রামের ভুরুঙ্গামারীতে জ্বালানি তেলের কৃত্রিম সংকট নিরসন এবং অবৈধ মজুদ ও অতিরিক্ত মূল্যে বিক্রি বন্ধে অভিযান পরিচালনা করেছে পুলিশ।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/24/og/1774368073-c22e9b49b44eec958ec6c8bcba6e7c1e.jpg"
-    },
-    {
-      "headline": "কেরানীগঞ্জে সড়ক দুর্ঘটনায় মোটরসাইকেল আরোহীর মৃত্যু",
-      "url": "https://www.bd-pratidin.com/city-news/2026/03/24/1230922",
-      "published_at": "2026-03-24T21:21:45+06:00",
-      "summary": "রাজধানী ঢাকার কেরানীগঞ্জে সড়ক দুর্ঘটনায় আমজাদ হোসেন (৫৪) নামের এক মোটরসাইকেল আরোহীর মৃত্যু হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/24/og/1774365704-2de40e0d504f583cda7465979f958a98.jpg"
     },
     {
       "headline": "নাড়ির টানে বাড়ি ফিরছে মানুষতৃণমূলে জমে উঠছে ‘ঈদরাজনীতি’",
@@ -485,8 +485,8 @@
       "headline": "বেসামরিক বিমান পরিবহনমন্ত্রী ও প্রতিমন্ত্রীর সাথে পাকিস্তানের হাইকমিশনারের সাক্ষাৎ",
       "url": "https://dailynayadiganta.com/bangladesh/diplomacy/xEgHUR3kgtnU/",
       "published_at": null,
-      "summary": null,
-      "image_url": null
+      "summary": "এ সময় বাংলাদেশ ও পাকিস্তানের মধ্যকার বিদ্যমান দ্বিপক্ষীয় সম্পর্ককে আরো সুদৃঢ়, গতিশীল ও বহুমাত্রিকভাবে সম্প্রসারণের ওপর গুরুত্বারোপ করা হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Biman-minister-Rita.jpg"
     },
     {
       "headline": "পীরগাছায় তাম্বুলপুরে মাধ্যমিক পর্যায়ের সেরা শিক্ষক সম্মাননা ও মতবিনিময়",
@@ -503,7 +503,7 @@
       "image_url": "https://media.ndiganta.com/original_images/Untitled-25_FbyvA8K.jpg"
     },
     {
-      "headline": "আজকের সর্বশেষ খবর - March 24, 2026",
+      "headline": "আজকের সর্বশেষ খবর - March 25, 2026",
       "url": "https://www.jugantor.com/latest",
       "published_at": null,
       "summary": "এরইমধ্যে এর অর্থায়নও নিশ্চিত করা হয়েছে। গ্যাস ও বিদ্যুতের সরবরাহ যেন নিরবচ্ছিন্ন থাকে, সে বিষয়ে আমরা অত্যন্ত সচেষ্ট। ...",
@@ -515,6 +515,13 @@
       "published_at": null,
       "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
       "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+    },
+    {
+      "headline": "কেরানীগঞ্জে সড়ক দুর্ঘটনায় মোটরসাইকেল আরোহীর মৃত্যু",
+      "url": "https://www.bd-pratidin.com/city-news/2026/03/24/1230922",
+      "published_at": "2026-03-24T21:21:45+06:00",
+      "summary": "রাজধানী ঢাকার কেরানীগঞ্জে সড়ক দুর্ঘটনায় আমজাদ হোসেন (৫৪) নামের এক মোটরসাইকেল আরোহীর মৃত্যু হয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/24/og/1774365704-2de40e0d504f583cda7465979f958a98.jpg"
     },
     {
       "headline": "শহীদদের সন্তান ও আহতদের বিশ্ববিদ্যালয় পর্যন্ত অবৈতনিক শিক্ষার নির্দেশ",
@@ -1502,14 +1509,6 @@
       "summary": "যুদ্ধে শুধু সৈন্য নয়, হাজার হাজার সাধারণ মানুষ প্রাণ হারিয়েছিল, অসংখ্য গ্রাম ধ্বংস হয়েছিল এবং একটি প্রজন্মের মনোজগতে তৈরি হয়েছিল গভীর ক্ষত।",
       "image_s3_key": "prothomalo-bangla/2024-07/82998df9-d326-458d-90b5-56c7e39e81c2/গাজা নগরী খালি করে দেওয়ার নির্দেশ দিল ইসরায়েল",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-07/82998df9-d326-458d-90b5-56c7e39e81c2/গাজা নগরী খালি করে দেওয়ার নির্দেশ দিল ইসরায়েল?auto=format,compress"
-    },
-    {
-      "headline": "এআই প্রযুক্তির দৌড়ে আমরা পিছিয়ে কেন",
-      "url": "https://www.prothomalo.com/opinion/column/54s07gduxe",
-      "published_at": "2026-03-24T10:32:53.804000+00:00",
-      "summary": "বিশ্ববিদ্যালয় পর্যায়ে বাংলাদেশে কৃত্রিম বুদ্ধিমত্তা শিক্ষায় মেশিন লার্নিং, ডিপ লার্নিং, ডেটা সায়েন্স, ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং ইত্যাদি সমজাতীয় কোর্সগুলো শেখানো হয়। ",
-      "image_s3_key": "prothomalo-bangla/2025-12-24/u65p4hlx/3.-ai-Chatbots.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-24/u65p4hlx/3.-ai-Chatbots.jpg?auto=format,compress"
     }
   ]
 }
