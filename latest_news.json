@@ -1,6 +1,230 @@
 {
-  "fetched_at": "2026-03-26T06:13:13.246987+00:00",
+  "fetched_at": "2026-03-26T07:46:43.931731+00:00",
   "stories": [
+    {
+      "headline": "স্মৃতিসৌধে জাতীয় পার্টি ও ছাত্রশক্তির নেতা-কর্মীদের মধ্যে হাতাহাতি",
+      "url": "https://www.prothomalo.com/bangladesh/district/xpkq0omsdv",
+      "published_at": "2026-03-26T07:39:38.589000+00:00",
+      "summary": "ঘটনার পর জাতীয় পার্টি ও ছাত্রশক্তির পক্ষ থেকে উভয় পক্ষের ওপর আগে হামলা করার দাবি করেছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/73cjfjgv/Savar–Japa-NCP.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/73cjfjgv/Savar–Japa-NCP.jpg?auto=format,compress"
+    },
+    {
+      "headline": "চার সদস্যের পরিবারটির আর কেউই বেঁচে নেই",
+      "url": "https://www.prothomalo.com/bangladesh/district/4o9gbne3r7",
+      "published_at": "2026-03-26T07:34:39.586000+00:00",
+      "summary": "বুধবার রাত দুইটার দিকে আইমান চিকিৎসাধীন অবস্থায় মারা যায়। সংক্রমণ ছড়িয়ে পড়ায় তার মৃত্যু হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/kcuu9vl0/d22f6508-69a3-41dc-88c8-67e922602870.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/kcuu9vl0/d22f6508-69a3-41dc-88c8-67e922602870.jfif?auto=format,compress"
+    },
+    {
+      "headline": "কুমিরের আক্রমণে প্রাণ হারানো সুব্রতের ঘরে এল ছেলে",
+      "url": "https://www.prothomalo.com/bangladesh/2xv2dpjbsu",
+      "published_at": "2026-03-26T07:30:29.609000+00:00",
+      "summary": "বনজীবী সুব্রত মণ্ডল কুমিরের আক্রমণে মারা যাওয়ার পর ঈদের আগের দিন জন্ম নিল ছেলে। বাবার স্মৃতি বাঁচিয়ে রাখতে নবজাতকের নাম রাখা হয়েছে শুভজিৎ।",
+      "image_s3_key": "prothomalo-bangla/2026-03-25/ke5n0e2p/1.png",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/ke5n0e2p/1.png?auto=format,compress"
+    },
+    {
+      "headline": "শিশুদের মানসিক ক্ষতি ও সামাজিক যোগাযোগমাধ্যমে আসক্তি তৈরির দায়ে মেটা ও গুগলকে জরিমানা",
+      "url": "https://www.prothomalo.com/world/usa/lw76b6d8a2",
+      "published_at": "2026-03-26T07:28:48.507000+00:00",
+      "summary": "বড় কোনো প্রযুক্তিপ্রতিষ্ঠানের বিরুদ্ধে সামাজিক যোগাযোগমাধ্যমের ক্ষতিকর প্রভাব নিয়ে এটাই প্রথম কোনো জুরির রায়, যা ভবিষ্যতে একই ধরনের হাজারো মামলার পথ প্রশস্ত করবে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/1ybdoinr/Meta-Google.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/1ybdoinr/Meta-Google.jpg?auto=format,compress"
+    },
+    {
+      "headline": "স্বাধীনতাবিরোধী শক্তি আজকে আস্ফালন করছে: রুহিন হোসেন",
+      "url": "https://www.prothomalo.com/bangladesh/district/ytn7zazrlc",
+      "published_at": "2026-03-26T07:13:30.313000+00:00",
+      "summary": "বৃহস্পতিবার সকালে মহান স্বাধীনতা ও জাতীয় দিবসে সাভারে জাতীয় স্মৃতিসৌধে শ্রদ্ধা নিবেদনের পর সাংবাদিকদের সঙ্গে কথা বলেন সিপিবির সাবেক সাধারণ সম্পাদক রুহিন হোসেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/2ip9yv0d/Savar-CPB.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/2ip9yv0d/Savar-CPB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "২৪ দিনে ৩ বিলিয়নের বেশি প্রবাসী আয়, নতুন রেকর্ডের সম্ভাবনা",
+      "url": "https://www.prothomalo.com/business/bank/p24oi21t25",
+      "published_at": "2026-03-26T07:03:49.344000+00:00",
+      "summary": "দেশের ইতিহাসে সর্বোচ্চ রেমিট্যান্স এসেছিল গত বছরের মার্চ মাসে। সে সময় প্রবাসীরা দেশে পাঠিয়েছিলেন মোট ৩২৯ কোটি ৫৬ লাখ ৩০ হাজার ডলার।",
+      "image_s3_key": "prothomalo-bangla/2023-12/b0007dd4-a463-4cee-949b-f282c5076c45/__________Business_thumbnail.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2023-12/b0007dd4-a463-4cee-949b-f282c5076c45/__________Business_thumbnail.jpg?auto=format,compress"
+    },
+    {
+      "headline": "কানাডার বিমান দুর্ঘটনা: কন্ট্রোল টাওয়ারে কর্মীর স্বল্পতা নিয়ে বিতর্ক",
+      "url": "https://nagorik.prothomalo.com/durporobash/zaf66ib4um",
+      "published_at": "2026-03-26T07:01:08.776000+00:00",
+      "summary": "যুক্তরাষ্ট্রে দীর্ঘদিন ধরেই এয়ার ট্রাফিক কন্ট্রোলারে ঘাটতির বিষয়টি বিভিন্ন মহলে আলোচিত হয়ে আসছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/jhn1q8tx/7.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/jhn1q8tx/7.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "আর্জেন্টিনা কেন প্রীতি ম্যাচে দুর্বল দলের মুখোমুখি হয়, পারফরম্যান্স কেমন",
+      "url": "https://www.prothomalo.com/sports/football/8eoxxekgl3",
+      "published_at": "2026-03-26T07:00:25.715000+00:00",
+      "summary": "ফিফা র‍্যাঙ্কিংয়ে আর্জেন্টিনা দ্বিতীয়। মৌরিতানিয়া ১১৫তম এবং জাম্বিয়া ৯১তম দল। অর্থাৎ প্রীতি ম্যাচে আর্জেন্টিনার এই দুই প্রতিপক্ষের সঙ্গে তাদের শক্তির পার্থক্য আকাশ-পাতাল।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/9ta3d9aj/360918-01-02.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/9ta3d9aj/360918-01-02.jpg?auto=format,compress"
+    },
+    {
+      "headline": "একজন মুসলিমের কাছে স্বাধীনতার অর্থ কী",
+      "url": "https://www.prothomalo.com/religion/islam/e26d6z3scq",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "summary": "কেয়ামতের ময়দানে প্রতিটি নেয়ামত সম্পর্কে জিজ্ঞাসা করা হবে। স্বাধীনতা দিবসে আমাদের আত্মোপলব্ধি প্রয়োজন—আমরা কি স্বাধীনতার এই নেয়ামতকে সঠিক পথে ব্যয় করছি? ",
+      "image_s3_key": "prothomalo-bangla/2026-03-25/xe1tt2ft/pexels-galib-rahman-nadim-2154393689-36606411.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/xe1tt2ft/pexels-galib-rahman-nadim-2154393689-36606411.jpg?auto=format,compress"
+    },
+    {
+      "headline": "জেনোসাইড অস্বীকৃতির রাজনীতি ও মনস্তত্ত্ব",
+      "url": "https://www.prothomalo.com/onnoalo/treatise/4s93mngcq2",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "summary": "আমাদের বোঝা দরকার, কেন এত বছরেও বাংলাদেশ জেনোসাইড আন্তর্জাতিক পরিসরে কাঙ্ক্ষিত মনোযোগ ও স্বীকৃতি লাভ করতে পারেনি?",
+      "image_s3_key": "prothomalo-bangla/2026-03-25/xmt5xpoi/WhatsApp-Image-2026-03-25-at-21.49.23-2.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/xmt5xpoi/WhatsApp-Image-2026-03-25-at-21.49.23-2.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "যুক্তরাষ্ট্রের ‘যুদ্ধবিরতি প্রস্তাব’ পর্যালোচনা করার কথা জানাল ইরান",
+      "url": "https://www.prothomalo.com/world/5slmsanxj1",
+      "published_at": "2026-03-26T06:58:40.294000+00:00",
+      "summary": "ডেমোক্রেটিক দলের এই জ্যেষ্ঠ নেতা শুরু থেকেই ইরানে হামলার বিষয়ে ট্রাম্পের সিদ্ধান্তের বিপক্ষে ছিলেন। তিনি অবিলম্বে এই যুদ্ধ বন্ধের আহ্বান জানিয়েছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
+    },
+    {
+      "headline": "প্রথমবারের মতো প্রধানমন্ত্রী তারেক রহমানের গাড়িতে জাতীয় পতাকা",
+      "url": "https://www.prothomalo.com/bangladesh/mj5eyu30d7",
+      "published_at": "2026-03-26T06:55:31.883000+00:00",
+      "summary": "আজ ভোরে সাভারে জাতীয় স্মৃতিসৌধে পুষ্পস্তবক অর্পণ করতে যাওয়া-আসার সময় প্রধানমন্ত্রী তারেক রহমানকে বহনকারী গাড়িতে পতাকা উড়তে দেখা যায়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/s0mwzbrn/national-flag.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/s0mwzbrn/national-flag.webp?auto=format,compress"
+    },
+    {
+      "headline": "ইরান যুদ্ধে ট্রাম্পের কথাবার্তা কি নিক্সনের ভিয়েতনাম যুদ্ধকে মনে করিয়ে দিচ্ছে",
+      "url": "https://www.prothomalo.com/world/middle-east/d320v7rtou",
+      "published_at": "2026-03-26T06:52:33.004000+00:00",
+      "summary": "নিক্সন যেমন ভিয়েতনামে নিজের সম্মান বাঁচাতে যুদ্ধ দীর্ঘায়িত করেছিলেন, ট্রাম্পও বৈধ কারণ ছাড়া ইরানে যুদ্ধ শুরু করে এখন মুখ রক্ষার উপায় খুঁজছেন।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/m8s2y9r6/US-War-1.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/m8s2y9r6/US-War-1.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পদ্মাপাড়ে স্বজনদের আহাজারি",
+      "url": "https://www.prothomalo.com/video/bangladesh/fwynjryb6j",
+      "published_at": "2026-03-26T06:45:00+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-26/reu2g5jq/web.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/reu2g5jq/web.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ভেতরের যে ঝড় কেউ দেখে না, ‘দম’ সেটারই গল্প বলে: পূজা চেরী",
+      "url": "https://www.prothomalo.com/entertainment/dhallywood/z4krqmp4u3",
+      "published_at": "2026-03-26T06:45:00+00:00",
+      "summary": "শুটিং স্পটের কিছু ছবি শেয়ার করে সামাজিকমাধ্যমে পূজা লিখেছেন, ‘দম শুধু একটা সিনেমা না… এটা এমন একটা অনুভূতি, যা শেষ হওয়ার পরও মন থেকে যায় না।’",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/80tmendy/puja-2.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/80tmendy/puja-2.jpg?auto=format,compress"
+    },
+    {
+      "headline": "চার্চ অব ইংল্যান্ডের ইতিহাসে প্রথম নারী আর্চবিশপ হিসেবে অভিষিক্ত সারা মুলালি",
+      "url": "https://www.prothomalo.com/world/usa/dgt5mv7ccm",
+      "published_at": "2026-03-26T06:42:58.684000+00:00",
+      "summary": "বিশ্বজুড়ে প্রায় ৮ কোটি ৫০ লাখ সদস্যের ‘অ্যাঙ্গলিকান কমিউনিয়ন’-এর আধ্যাত্মিক প্রধান হিসেবে কাজ করবেন সারা মুলালি।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/e706x41r/archbishop.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/e706x41r/archbishop.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পদ্মায় বাসডুবির ২০ মিনিট আগেও মেয়ের সঙ্গে কথা হয় মর্জিনার",
+      "url": "https://www.prothomalo.com/bangladesh/district/kzd00gh3e4",
+      "published_at": "2026-03-26T06:41:21.750000+00:00",
+      "summary": "পদ্মায় বাসডুবির ঘটনায় আজ বৃহস্পতিবার সকাল ১০টা পর্যন্ত মোট ২৪ জনের মরদেহ উদ্ধার করা হয়েছে। এর মধ্যে মর্জিনা খাতুনসহ ২১ জনের মরদেহ স্বজনদের কাছে হস্তান্তর করা হয়েছে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/wa8j658y/Kustia-morjina.jpeg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/wa8j658y/Kustia-morjina.jpeg?auto=format,compress"
+    },
+    {
+      "headline": "একাত্তর ও চব্বিশের আকাঙ্ক্ষার ভিত্তিতে সাম্য ও মানবিক মর্যাদার বাংলাদেশ গড়তে চাই: নাহিদ",
+      "url": "https://www.prothomalo.com/bangladesh/district/xnczvr7g64",
+      "published_at": "2026-03-26T06:37:42.304000+00:00",
+      "summary": "মহান স্বাধীনতা ও জাতীয় দিবসে মুক্তিযুদ্ধে বীর শহীদদের প্রতি শ্রদ্ধা নিবেদন শেষে গণমাধ্যমকর্মীদের কাছে এসব কথা বলেন জাতীয় সংসদে বিরোধীদলীয় এই চিফ হুইপ।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/2qa12l6e/DhakaDH162420260326savar6-26.03.26.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/2qa12l6e/DhakaDH162420260326savar6-26.03.26.jpg?auto=format,compress"
+    },
+    {
+      "headline": "স্মৃতিসৌধে শ্রদ্ধা জানিয়ে বিরোধীদলীয় নেতা বললেন, ‘নৈতিক দায়িত্ব পালন করতে এসেছি’",
+      "url": "https://www.prothomalo.com/bangladesh/district/mwg58e5n8y",
+      "published_at": "2026-03-26T06:35:10.196000+00:00",
+      "summary": "জাতীয় সংসদের বিরোধী দলের নেতা ও জামায়াতে ইসলামীর আমির শফিকুর রহমান বলেছেন, ‘সবাইকে স্বাধীনতা এবং জাতীয় দিবসের শুভেচ্ছা। আলহামদুলিল্লাহ। আমরা একটা নৈতিক দায়িত্ব পালন করতে এসেছি।’",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/2xvs9drv/DhakaDH1624.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/2xvs9drv/DhakaDH1624.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পশ্চিমবঙ্গের বিধানসভা নির্বাচনে ওয়েইসি ও হুমায়ুন জোট বেঁধে লড়বেন",
+      "url": "https://www.prothomalo.com/world/india/n2vcayewv2",
+      "published_at": "2026-03-26T06:34:10.605000+00:00",
+      "summary": "হুমায়ুন কবীরও জোর গলায় ওয়েইসিকে ‘বড় ভাই’ বলে সম্বোধন করেন। ওয়েইসি হায়দরাবাদের সংসদ সদস্য এবং এআইএমআইএমের সর্বভারতীয় সভাপতি।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/vhjh158c/kolkata.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/vhjh158c/kolkata.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইইউতে পোশাক রপ্তানি কমেছে ২৫ শতাংশ",
+      "url": "https://www.prothomalo.com/business/industry/48mcikfjs5",
+      "published_at": "2026-03-26T06:30:00+00:00",
+      "summary": "ইইউ চলতি বছরের জানুয়ারিতে বিভিন্ন দেশ থেকে ৭০৩ কোটি ইউরোর পোশাক আমদানি করেছে, যা গত বছরের একই সময়ের তুলনায় সাড়ে ১৫ শতাংশ কম।",
+      "image_s3_key": "prothomalo-bangla/2024-11-16/zqwkb3op/9.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2024-11-16/zqwkb3op/9.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ঢাকা থেকে মোটরসাইকেলে কক্সবাজার যাচ্ছিলেন দুই বন্ধু, পথে মৃত্যু",
+      "url": "https://www.prothomalo.com/bangladesh/district/n8zludkp45",
+      "published_at": "2026-03-26T06:28:29.163000+00:00",
+      "summary": "তাঁরা দুজনই গতকাল রাতে ঢাকা থেকে কক্সবাজারের উদ্দেশে রওনা হয়েছিলেন। পরে চকরিয়া এলাকায় পৌঁছালে একটি বাস পেছন থেকে তাঁদের মোটরসাইকেলে ধাক্কা দেয়। এরপর এ দুর্ঘটনা ঘটে।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/58rno4lg/9b30f878-2bc0-4a89-8d69-52a9bc2a06eb.jfif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/58rno4lg/9b30f878-2bc0-4a89-8d69-52a9bc2a06eb.jfif?auto=format,compress"
+    },
+    {
+      "headline": "জিয়াউর রহমান ও খালেদা জিয়ার প্রতি প্রধানমন্ত্রীর শ্রদ্ধা",
+      "url": "https://www.prothomalo.com/bangladesh/kf675hp9gx",
+      "published_at": "2026-03-26T06:25:06.302000+00:00",
+      "summary": "আজ বৃহস্পতিবার সকালে রাজধানীর শেরেবাংলা নগরে অবস্থিত জিয়াউর রহমান ও খালেদা জিয়ার সমাধিতে প্রধানমন্ত্রী পুষ্পস্তবক অর্পণের মাধ্যমে শ্রদ্ধা জানান।",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/ptjntx02/tribute.webp",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/ptjntx02/tribute.webp?auto=format,compress"
+    },
+    {
+      "headline": "সাউথ পার্স–নর্থ ডোম ও কেশম দ্বীপ কোথায়",
+      "url": "https://www.prothomalo.com/chakri/chakri-suggestion/lplr11y9hu",
+      "published_at": "2026-03-26T06:23:55.698000+00:00",
+      "summary": "বিভিন্ন চাকরির পরীক্ষায় এমসিকিউ প্রশ্ন আসে। পরীক্ষার্থীদের চর্চার সুবিধার জন্য প্রথম আলোর এ আয়োজন।",
+      "image_s3_key": "prothomalo-bangla/2025-10-09/xdcqn7tk/292.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-10-09/xdcqn7tk/292.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পদ্মায় ডুবে যাওয়া বাস উদ্ধারের পর যা দেখা গেল\n",
+      "url": "https://www.prothomalo.com/video/bangladesh/4ls5jwqpl8",
+      "published_at": "2026-03-26T06:21:39.731000+00:00",
+      "summary": null,
+      "image_s3_key": "prothomalo-bangla/2026-03-26/1gher5qf/web.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/1gher5qf/web.jpg?auto=format,compress"
+    },
+    {
+      "headline": "পদ্মার তীরে অপেক্ষা, আহাজারি",
+      "url": "https://www.prothomalo.com/photo/bangladesh/7zq6cx5z96",
+      "published_at": "2026-03-26T06:20:19.134000+00:00",
+      "summary": "রাজবাড়ীর গোয়ালন্দের দৌলতদিয়া ঘাটে পন্টুন থেকে গতকাল বুধবার বিকেলে পদ্মা নদীতে পড়ে যায় যাত্রীবাহী একটি বাস। ",
+      "image_s3_key": "prothomalo-bangla/2026-03-26/9n7p8tkp/01.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/9n7p8tkp/01.jpg?auto=format,compress"
+    },
+    {
+      "headline": "বাংলাদেশের স্বাধীনতা দিবসে মার্কিন পররাষ্ট্রমন্ত্রী মার্কো রুবিওর অভিনন্দন  ",
+      "url": "https://www.prothomalo.com/bangladesh/x5oe0zpcin",
+      "published_at": "2026-03-26T06:10:02.625000+00:00",
+      "summary": "রুবিও বলেন, সাম্প্রতিক নির্বাচনের পর বাংলাদেশ তার ইতিহাসের এক নতুন অধ্যায় শুরু করেছে। এমন প্রেক্ষাপটে বাংলাদেশের স্বাধীনতা দিবস উদ্‌যাপন করা হচ্ছে।",
+      "image_s3_key": "prothomalo-bangla/2025-03-26/5dbr47k2/prothomalo-Marco-Rubio.avif",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-03-26/5dbr47k2/prothomalo-Marco-Rubio.avif?auto=format,compress"
+    },
+    {
+      "headline": "সহজ-কঠিন দ্বন্দ্ব-ছন্দ",
+      "url": "https://www.prothomalo.com/bangladesh/zd1s33fzuv",
+      "published_at": "2026-03-26T06:08:47.793000+00:00",
+      "summary": "তাঁর জেদ—কেউ মেয়ে হলেই মেধা-জ্ঞান-প্রজ্ঞায় কারোর চেয়ে পিছিয়ে পড়া নয়, মানুষই। বিশ্বাস করতেন, কর্মেই মানুষের পরিচয়।",
+      "image_s3_key": "prothomalo-bangla/2026-03-25/h1bqlt8s/Sanjida-khatun.PNG",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/h1bqlt8s/Sanjida-khatun.PNG?auto=format,compress"
+    },
     {
       "headline": "নিরাপত্তা নিশ্চয়তার বিনিময়ে ইউক্রেনকে রাশিয়ার কাছে দনবাস ছাড়ার শর্ত দিয়েছে যুক্তরাষ্ট্র: জেলেনস্কি",
       "url": "https://www.prothomalo.com/world/europe/brq6jim6ht",
@@ -18,20 +242,20 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/beau8wma/WhatsApp-Image-2026-03-25-at-4.53.jpg?auto=format,compress"
     },
     {
-      "headline": "অন্দরসজ্জায় আন্তর্জাতিক পুরস্কার আনল যে অফিস",
-      "url": "https://www.prothomalo.com/lifestyle/interior/fv6uy87h7h",
-      "published_at": "2026-03-26T06:00:00+00:00",
-      "summary": "সজীব, উজ্জ্বল এক পরিবেশে দিন কাটানোর অভিজ্ঞতা দেওয়া ধারণাকে বাস্তবে রূপ দেওয়ার প্রচেষ্টাই বাংলাদেশের স্থাপত্য প্রতিষ্ঠান ‘স্থাপতিক’কে এনে দিয়েছে আন্তর্জাতিক পুরস্কার।",
-      "image_s3_key": "prothomalo-bangla/2026-03-17/59am4k8s/061A3128.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/59am4k8s/061A3128.jpg?auto=format,compress"
-    },
-    {
       "headline": "অভিনেতা হব এটা কখনো মাথার মধ্যে ছিল না: নাসির উদ্দিন খান",
       "url": "https://www.prothomalo.com/video/entertainment/x52xp78wb5",
       "published_at": "2026-03-26T06:00:00+00:00",
       "summary": "অভিনেতা হব এটা কখনো মাথার মধ্যে ছিল না: নাসির উদ্দিন খান",
       "image_s3_key": "prothomalo-bangla/2026-03-25/3mt8u41n/WEB.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/3mt8u41n/WEB.jpg?auto=format,compress"
+    },
+    {
+      "headline": "অন্দরসজ্জায় আন্তর্জাতিক পুরস্কার আনল যে অফিস",
+      "url": "https://www.prothomalo.com/lifestyle/interior/fv6uy87h7h",
+      "published_at": "2026-03-26T06:00:00+00:00",
+      "summary": "সজীব, উজ্জ্বল এক পরিবেশে দিন কাটানোর অভিজ্ঞতা দেওয়া ধারণাকে বাস্তবে রূপ দেওয়ার প্রচেষ্টাই বাংলাদেশের স্থাপত্য প্রতিষ্ঠান ‘স্থাপতিক’কে এনে দিয়েছে আন্তর্জাতিক পুরস্কার।",
+      "image_s3_key": "prothomalo-bangla/2026-03-17/59am4k8s/061A3128.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/59am4k8s/061A3128.jpg?auto=format,compress"
     },
     {
       "headline": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ে দ্বিতীয় ধাপ শেষেও ফাঁকা ৭০৪ আসন, সশরীর উপস্থিত হয়ে আবেদনের ডাক",
@@ -66,14 +290,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-26/jefx3svv/pay-homage.jpeg?auto=format,compress"
     },
     {
-      "headline": "ইসরায়েলের সেনা সদর দপ্তরে হিজবুল্লাহর ‘ক্ষেপণাস্ত্র হামলা’",
-      "url": "https://www.prothomalo.com/world/5slmsanxj1",
-      "published_at": "2026-03-26T05:31:47.978000+00:00",
-      "summary": "ডেমোক্রেটিক দলের এই জ্যেষ্ঠ নেতা শুরু থেকেই ইরানে হামলার বিষয়ে ট্রাম্পের সিদ্ধান্তের বিপক্ষে ছিলেন। তিনি অবিলম্বে এই যুদ্ধ বন্ধের আহ্বান জানিয়েছেন।",
-      "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
-    },
-    {
       "headline": "জ্বালানির মূল্যবৃদ্ধির পরদিনই বেড়ে গেল অভ্যন্তরীণ রুটের বিমানভাড়া",
       "url": "https://www.prothomalo.com/business/economics/jwzhf2i58c",
       "published_at": "2026-03-26T05:30:00+00:00",
@@ -104,6 +320,167 @@
       "summary": "স্টেশনমাস্টার তানজিনা ও তাঁর নিভৃত রেলস্টেশন, যেখানে যাত্রীর ওঠানামা নেই",
       "image_s3_key": "prothomalo-bangla/2026-03-25/fszsv8dp/WEB-Recovered.jpg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/fszsv8dp/WEB-Recovered.jpg?auto=format,compress"
+    },
+    {
+      "headline": "ইরানের অবকাঠামোতে ইসরায়েলের বড় হামলা, ইসরায়েলে পড়ছে ধ্বংসাবশেষ",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/26/1231421",
+      "published_at": "2026-03-26T13:25:16+06:00",
+      "summary": "মধ্যপ্রাচ্যের দুই চিরপ্রতিদ্বন্দ্বী দেশ ইসরায়েল ও ইরানের মধ্যে চলমান সংঘাত এক ভয়াবহ রূপ নিয়েছে। বৃহস্পতিবার সকালে ইসরায়েলি সামরিক বাহিনী ঘোষণা করেছে যে, তারা ইরানের অভ্যন্তরে বিভিন্ন গুরুত্বপূর্ণ অবকাঠামো লক্ষ্য করে ব্যাপকভিত্তিক বিমান হামলা সম্পন্ন করেছে। এই বড় আকারের হামলায় ইরানের বেশ কিছু কৌশলগত স্থাপনা ক্ষতিগ্রস্ত হয়েছে বলে দাবি করেছে ইসরায়েলি প্রতিরক্ষা বাহিনী (আইডিএফ)।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774509914-0d40bb7ae83f974d558d659c20876c94.jpg"
+    },
+    {
+      "headline": "উত্তরায় বাসের ধাক্কায়  অটোরিকশা চালক নিহত",
+      "url": "https://www.bd-pratidin.com/city-news/2026/03/26/1231417",
+      "published_at": "2026-03-26T12:45:35+06:00",
+      "summary": "রাজধানীর উত্তরায় বাসের ধাক্কায় পথচারী অটোরিকশা চালক মো. জাহাঙ্গীর (৩৮) নিহত হয়েছেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774507534-00179efa72ee743c83bd4892693017de.jpg"
+    },
+    {
+      "headline": "হরমুজে ইরানের ‘টোল বুথ’: চীনা মুদ্রায় ফি দিয়ে চলছে তেলবাহী জাহাজ",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/26/1231416",
+      "published_at": "2026-03-26T12:43:44+06:00",
+      "summary": "বিশ্বের অন্যতম গুরুত্বপূর্ণ সামুদ্রিক পথ হরমুজ প্রণালি দিয়ে চলাচলকারী তেলবাহী জাহাজগুলো এখন ইরানের ইসলামি বিপ্লবী গার্ড বাহিনীর (আইআরজিসি) কঠোর নিয়ন্ত্রণে থাকা একটি বিশেষ ‘টোল বুথ’ ব্যবস্থার মধ্য দিয়ে যাতায়াত করছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774507423-0d40bb7ae83f974d558d659c20876c94.jpg"
+    },
+    {
+      "headline": "থানায় ঢুকে পুলিশকে মারধরের অভিযোগ জামায়াত নেতার বিরুদ্ধে",
+      "url": "https://www.bd-pratidin.com/country/2026/03/26/1231413",
+      "published_at": "2026-03-26T12:31:03+06:00",
+      "summary": "গাইবান্ধার পলাশবাড়ী থানায় ঢুকে ওসিসহ কয়েকজন পুলিশ সদস্যকে মারধরের অভিযোগ উঠেছে এক যুব জামায়াত নেতার বিরুদ্ধে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774506661-540c7ab04999bac4f99c2d72f159a75e.jpg"
+    },
+    {
+      "headline": "চট্টগ্রাম-কক্সবাজার মহাসড়কে বাসের ধাক্কায় দুইজন নিহত",
+      "url": "https://www.bd-pratidin.com/country/2026/03/26/1231408",
+      "published_at": "2026-03-26T12:05:09+06:00",
+      "summary": "চট্টগ্রাম-কক্সবাজার মহাসড়কের চকরিয়া উপজেলার বরইতলি ইউনিয়নের বানিয়ারছড়া এলাকায় বাসের ধাক্কায় দুই মোটরসাইকেল আরোহী নিহত ও একজন গুরুতর আহত হয়েছেন।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774505108-cf5793938b321b67b3b667655b375703.jpg"
+    },
+    {
+      "headline": "টঙ্গীতে গণধর্ষণ অভিযোগে তিন যুবক গ্রেফতার",
+      "url": "https://www.bd-pratidin.com/city-news/2026/03/26/1231405",
+      "published_at": "2026-03-26T11:52:09+06:00",
+      "summary": "গাজীপুরের টঙ্গীতে এক তরুণীকে (১৮) সংঘবদ্ধ ধর্ষণের অভিযোগে তিন যুবককে গ্রেফতার করেছে পুলিশ।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774504328-a8cb4672d7fe3f6b79fafe53754ed02d.jpg"
+    },
+    {
+      "headline": "ফটিকছড়ির লেলাং বধ্যভূমিতে গণহত্যা দিবস পালন",
+      "url": "https://www.bd-pratidin.com/chittagong-pratidin/2026/03/26/1231400",
+      "published_at": "2026-03-26T11:20:04+06:00",
+      "summary": "২৫ মার্চ গণহত্যা দিবস উপলক্ষে চট্টগ্রামের ফটিকছড়ি উপজেলার লেলাং বধ্যভূমি প্রাঙ্গণে মোমবাতি প্রজ্বলন, শ্রদ্ধা নিবেদন, দোয়া মাহফিল ও আলোচনা সভা অনুষ্ঠিত হয়েছে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774502403-c270eb7dd0e8b6b2e46e7b8efb3a1362.jpg"
+    },
+    {
+      "headline": "চুক্তি করতে ‌‘মরিয়া’ ইরান, কিন্তু ‘প্রাণভয়ে’ মুখ খুলছে না: ট্রাম্প",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/26/1231399",
+      "published_at": "2026-03-26T11:13:28+06:00",
+      "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন যে, ইরান বর্তমান পরিস্থিতি থেকে উত্তরণে একটি চুক্তিতে পৌঁছাতে চরমভাবে ‘মরিয়া’ হয়ে আছে, কিন্তু প্রাণনাশের ভয়ে তারা তা প্রকাশ্যে বলতে পারছে না।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774502007-0d40bb7ae83f974d558d659c20876c94.jpg"
+    },
+    {
+      "headline": "রাশিয়ার তেল আমদানিতে সবুজ সংকেত পেল দক্ষিণ কোরিয়া",
+      "url": "https://www.bd-pratidin.com/international-news/2026/03/26/1231396",
+      "published_at": "2026-03-26T10:57:59+06:00",
+      "summary": "বিশ্বজুড়ে জ্বালানি সংকট ঘনীভূত হওয়ার প্রেক্ষাপটে রাশিয়ার ওপর আরোপিত মার্কিন নিষেধাজ্ঞায় কিছুটা স্বস্তি পেয়েছে দক্ষিণ কোরিয়া। সিউল নিশ্চিত করেছে যে, ওয়াশিংটনের বেঁধে দেওয়া কিছু শর্ত মেনে তারা এখন থেকে রাশিয়ার নির্দিষ্ট কিছু জ্বালানি পণ্য আমদানি করতে পারবে।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774501078-0d40bb7ae83f974d558d659c20876c94.jpg"
+    },
+    {
+      "headline": "ঢাকা বিশ্ববিদ্যালয়ে গণহত্যা দিবস পালিত",
+      "url": "https://www.bd-pratidin.com/campus-online/2026/03/26/1231390",
+      "published_at": "2026-03-26T10:43:04+06:00",
+      "summary": "১৯৭১ সালের ২৫ মার্চের কালরাত্রি স্মরণে ঢাকা বিশ্ববিদ্যালয়ে যথাযোগ্য মর্যাদায় ‘গণহত্যা দিবস’ পালিত হয়েছে। বুধবার (২৫ মার্চ) রাতে এ উপলক্ষে বিশ্ববিদ্যালয়ের স্মৃতি চিরন্তন চত্বরে উপাচার্য অধ্যাপক ড. এ বি এম ওবায়দুল ইসলামের নেতৃত্বে মোমবাতি প্রজ্বলন ও শহীদদের স্মৃতির প্রতি শ্রদ্ধা জ্ঞাপন করা হয়।",
+      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774500183-c74c892836c7640815144fc872a4e8e6.jpg"
+    },
+    {
+      "headline": "বৈশ্বিক জ্বালানি সঙ্কটেও স্বস্তিতে বাংলাদেশ",
+      "url": "https://dailynayadiganta.com/printed-edition/igzA49ankzSu/",
+      "published_at": null,
+      "summary": "দেশে এখন প্রায় ১ লাখ ৭৫ হাজার ৬৪০ মেট্রিক টন ডিজেল মজুদ রয়েছে। চলতি মার্চ মাসের মধ্যেই আরো ৭৫ হাজার মেট্রিক টন ডিজেল দেশে এসে পৌঁছানোর কথা রয়েছে। শুধু ডিজেলই নয়, অন্যান্য জ্বালানির ক্ষেত্রেও চিত্র আশাব্যঞ্জক। বর্তমানে দেশে ২৬ হাজার মেট্রিক টন অকটেন মজুদ রয়েছে। পেট্রল ও ফার্নেস অয়েলের ক্ষেত্রেও পর্যাপ্ত মজুদ বজায় রয়েছে বলে নিশ্চিত করেছে সংশ্লিষ্ট কর্তৃপক্ষ।",
+      "image_url": "https://media.ndiganta.com/images/oil_EisZKoL.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "ট্রাম্পের নিয়ন্ত্রণহীন ইরান যুদ্ধের তিন সপ্তাহ",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/gZdXjkRBUPyg/",
+      "published_at": null,
+      "summary": "যুদ্ধের দীর্ঘমেয়াদি প্রভাব শুধু মধ্যপ্রাচ্যেই নয়, বিশ্বজুড়ে জ্বালানি নিরাপত্তা, বৈশ্বিক অর্থনীতি এবং মার্কিন রাজনৈতিক ভবিষ্যতেও প্রভাব ফেলবে। ট্রাম্পের ‘দ্রুত ও সীমিত’ অভিযান এখন অনিশ্চিত সঙ্কটের রূপ নিচ্ছে, যা তার প্রেসিডেন্সি ও রিপাবলিকান পার্টির রাজনৈতিক ভবিষ্যৎকে বিপদে ফেলেছে। ফলে যুদ্ধের সম্ভাব্য চূড়ান্ত সমাপ্তি কৌশলগত সমঝোতা ও সীমিত সামরিক সমর্থনের মাধ্যমে না হলে এমন একটি সঙ্ঘাত মধ্যপ্রাচ্যে বিস্তৃত হতে পারে, যা পরিস্থিতিকে তৃতীয় বিশ্বযুদ্ধ শুরুর দিকে ঠেলে দিতে পারে",
+      "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
+      "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
+      "published_at": null,
+      "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
+      "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
+    },
+    {
+      "headline": "চট্টলা এক্সপ্রেস ট্রেনের আগুন নিয়ন্ত্রণে, বিকল্প রুটে ট্রেন চলাচল",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/fHG6hPGtHHqp/",
+      "published_at": null,
+      "summary": "এক ঘণ্টার চেষ্টায় আগুন নিয়ন্ত্রণে আনা হয়। এদিকে বিকল্প রুট ব্যবহার করে ঢাকার সাথে ট্রেন চলাচল স্বাভাবিক রাখা হয়েছে বলে জানিয়েছে রেলওয়ে কর্তৃপক্ষ।",
+      "image_url": "https://media.ndiganta.com/original_images/Chattagram_B8LYk3H.jpg"
+    },
+    {
+      "headline": "বাংলাদেশকে স্বাধীনতা দিবসের শুভেচ্ছা মার্কিন পররাষ্ট্রমন্ত্রীর",
+      "url": "https://dailynayadiganta.com/bangladesh/diplomacy/984sHlivlzbi/",
+      "published_at": null,
+      "summary": "মার্কিন পররাষ্ট্রমন্ত্রী বলেন, সাম্প্রতিক নির্বাচনের মাধ্যমে বাংলাদেশ ইতিহাসের এক নতুন অধ্যায়ে প্রবেশের পর এই প্রথম দিবসটি উদযাপিত হচ্ছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Marco-Rubio_9q3pxBw.jpg"
+    },
+    {
+      "headline": "রাজারবাগ পুলিশ লাইনেই গণহত্যার শুরু ও স্বাধীনতার ঘোষণার প্রেক্ষাপট তৈরি হয়",
+      "url": "https://dailynayadiganta.com/bangladesh/national/BFDykHP4zOZQ/",
+      "published_at": null,
+      "summary": "সালাহউদ্দিন আহমদ বলেছেন, ১৯৭১ সালের ২৫ মার্চের কালরাতে রাজারবাগ পুলিশ লাইনেই প্রথম গণহত্যা শুরু হয়েছিল এবং এখান থেকেই স্বাধীনতার ঘোষণার প্রেক্ষাপট তৈরি হয়।",
+      "image_url": "https://media.ndiganta.com/original_images/independent-day-Home-Minist.jpg"
+    },
+    {
+      "headline": "মুন্সীগঞ্জে যথাযোগ্য মর্যাদায় স্বাধীনতা দিবস পালন",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/zi2W1LLrxYYz/",
+      "published_at": null,
+      "summary": "দিবসটি উপলক্ষে জেলা স্টেডিয়ামে বর্ণাঢ্য কুচকাওয়াজ ও মনোজ্ঞ ডিসপ্লে অনুষ্ঠিত হয়। এতে বিভিন্ন শিক্ষা প্রতিষ্ঠান, পুলিশ, ফায়ার সার্ভিস ও সিভিল ডিফেন্স, আনসার ও ভিডিপিসহ বিভিন্ন সংগঠন অংশ নেয়।",
+      "image_url": "https://media.ndiganta.com/original_images/Munshiganj_A0iljWy.jpg"
+    },
+    {
+      "headline": "লঞ্চের ধাক্কায় ট্রলার ডুবিতে নিহত ২, রুট পারমিট স্থগিত",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/nExiTiEw2ZKX/",
+      "published_at": null,
+      "summary": "ঢাকা থেকে পটুয়াখালীর পথে আসার সময় তিনতলা যাত্রীবাহী লঞ্চ আওলাদ-৭ ট্রলারটিকে ধাক্কা দেয়। মুহূর্তের মধ্যে প্রায় ৪০০ তরমুজসহ ট্রলারটি নদীতে ডুবে যায়।",
+      "image_url": "https://media.ndiganta.com/original_images/Dead-Body.jpg"
+    },
+    {
+      "headline": "স্বাধীনতা ও জাতীয় দিবস উপলক্ষে সেনাবাহিনীতে অনারারি কমিশন প্রদান",
+      "url": "https://dailynayadiganta.com/bangladesh/national/DOz8pdT42M8j/",
+      "published_at": null,
+      "summary": "বাংলাদেশ সেনাহিনীর ১৮ জন মাস্টার ওয়ারেন্ট অফিসার পদমর্যাদার জুনিয়র কমিশন্ড অফিসারকে অনারারি লেফটেন্যান্ট পদে অনারারি কমিশন প্রদান করা হয়েছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Army_Je8XbPU.jpg"
+    },
+    {
+      "headline": "খুলনা ও বরিশাল বিভাগে বজ্রবৃষ্টির সম্ভাবনা",
+      "url": "https://dailynayadiganta.com/weather/jqP5VZZRIIbU/",
+      "published_at": null,
+      "summary": "লঘুচাপের বর্ধিতাংশ পশ্চিমবঙ্গ ও তৎসংলগ্ন এলাকায় অবস্থান করছে। মৌসুমের স্বাভাবিক লঘুচাপ দক্ষিণ বঙ্গোপসাগরে অবস্থান করছে।",
+      "image_url": "https://media.ndiganta.com/original_images/Weather_iagtgY9.jpg"
+    },
+    {
+      "headline": "চকরিয়ায় বাসের ধাক্কায় ২ মোটরসাইকেল আরোহী নিহত",
+      "url": "https://dailynayadiganta.com/bangladesh/country-news/8FAx2SIWsN9E/",
+      "published_at": null,
+      "summary": "কক্সবাজারগামী সবুজ পরিবহনের একটি বাস দ্রুত গতিতে এসে রাস্তার পাশে দাঁড়িয়ে থাকা একটি মোটরসাইকেল ও ট্রাককে পিছনের দিক থেকে ধাক্কা দেয়।",
+      "image_url": "https://media.ndiganta.com/original_images/road-accident-650_2okClWx.jpg"
+    },
+    {
+      "headline": "আজকের সর্বশেষ খবর - March 26, 2026",
+      "url": "https://www.jugantor.com/latest",
+      "published_at": null,
+      "summary": "মার্ভেল সিনেম্যাটিক ইউনিভার্সের বহুল প্রতীক্ষিত ছবি স্পাইডার-ম্যান: ব্র্যান্ড নিউ ডে-এর ট্রেলার মুক্তির পরই গড়েছে নতুন বিশ্বরেকর্ড। ১৭ মার্চ ট্রেলার প্রকাশের ...",
+      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
+    },
+    {
+      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
+      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
+      "published_at": null,
+      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
+      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "জয় বাংলা বাংলার জয়—জানুন গানটির ইতিহাস",
@@ -314,48 +691,6 @@
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-23/yqf477ve/6552943999400460590137368613120083498499758n.jpg?auto=format,compress"
     },
     {
-      "headline": "চট্টগ্রাম-কক্সবাজার মহাসড়কে বাসের ধাক্কায় দুইজন নিহত",
-      "url": "https://www.bd-pratidin.com/country/2026/03/26/1231408",
-      "published_at": "2026-03-26T12:05:09+06:00",
-      "summary": "চট্টগ্রাম-কক্সবাজার মহাসড়কের চকরিয়া উপজেলার বরইতলি ইউনিয়নের বানিয়ারছড়া এলাকায় বাসের ধাক্কায় দুই মোটরসাইকেল আরোহী নিহত ও একজন গুরুতর আহত হয়েছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774505108-cf5793938b321b67b3b667655b375703.jpg"
-    },
-    {
-      "headline": "টঙ্গীতে গণধর্ষণ অভিযোগে তিন যুবক গ্রেফতার",
-      "url": "https://www.bd-pratidin.com/city-news/2026/03/26/1231405",
-      "published_at": "2026-03-26T11:52:09+06:00",
-      "summary": "গাজীপুরের টঙ্গীতে এক তরুণীকে (১৮) সংঘবদ্ধ ধর্ষণের অভিযোগে তিন যুবককে গ্রেফতার করেছে পুলিশ।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774504328-a8cb4672d7fe3f6b79fafe53754ed02d.jpg"
-    },
-    {
-      "headline": "ফটিকছড়ির লেলাং বধ্যভূমিতে গণহত্যা দিবস পালন",
-      "url": "https://www.bd-pratidin.com/chittagong-pratidin/2026/03/26/1231400",
-      "published_at": "2026-03-26T11:20:04+06:00",
-      "summary": "২৫ মার্চ গণহত্যা দিবস উপলক্ষে চট্টগ্রামের ফটিকছড়ি উপজেলার লেলাং বধ্যভূমি প্রাঙ্গণে মোমবাতি প্রজ্বলন, শ্রদ্ধা নিবেদন, দোয়া মাহফিল ও আলোচনা সভা অনুষ্ঠিত হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774502403-c270eb7dd0e8b6b2e46e7b8efb3a1362.jpg"
-    },
-    {
-      "headline": "চুক্তি করতে ‌‘মরিয়া’ ইরান, কিন্তু ‘প্রাণভয়ে’ মুখ খুলছে না: ট্রাম্প",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/26/1231399",
-      "published_at": "2026-03-26T11:13:28+06:00",
-      "summary": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন যে, ইরান বর্তমান পরিস্থিতি থেকে উত্তরণে একটি চুক্তিতে পৌঁছাতে চরমভাবে ‘মরিয়া’ হয়ে আছে, কিন্তু প্রাণনাশের ভয়ে তারা তা প্রকাশ্যে বলতে পারছে না।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774502007-0d40bb7ae83f974d558d659c20876c94.jpg"
-    },
-    {
-      "headline": "রাশিয়ার তেল আমদানিতে সবুজ সংকেত পেল দক্ষিণ কোরিয়া",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/26/1231396",
-      "published_at": "2026-03-26T10:57:59+06:00",
-      "summary": "বিশ্বজুড়ে জ্বালানি সংকট ঘনীভূত হওয়ার প্রেক্ষাপটে রাশিয়ার ওপর আরোপিত মার্কিন নিষেধাজ্ঞায় কিছুটা স্বস্তি পেয়েছে দক্ষিণ কোরিয়া। সিউল নিশ্চিত করেছে যে, ওয়াশিংটনের বেঁধে দেওয়া কিছু শর্ত মেনে তারা এখন থেকে রাশিয়ার নির্দিষ্ট কিছু জ্বালানি পণ্য আমদানি করতে পারবে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774501078-0d40bb7ae83f974d558d659c20876c94.jpg"
-    },
-    {
-      "headline": "ঢাকা বিশ্ববিদ্যালয়ে গণহত্যা দিবস পালিত",
-      "url": "https://www.bd-pratidin.com/campus-online/2026/03/26/1231390",
-      "published_at": "2026-03-26T10:43:04+06:00",
-      "summary": "১৯৭১ সালের ২৫ মার্চের কালরাত্রি স্মরণে ঢাকা বিশ্ববিদ্যালয়ে যথাযোগ্য মর্যাদায় ‘গণহত্যা দিবস’ পালিত হয়েছে। বুধবার (২৫ মার্চ) রাতে এ উপলক্ষে বিশ্ববিদ্যালয়ের স্মৃতি চিরন্তন চত্বরে উপাচার্য অধ্যাপক ড. এ বি এম ওবায়দুল ইসলামের নেতৃত্বে মোমবাতি প্রজ্বলন ও শহীদদের স্মৃতির প্রতি শ্রদ্ধা জ্ঞাপন করা হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774500183-c74c892836c7640815144fc872a4e8e6.jpg"
-    },
-    {
       "headline": "এত অপমানিত আগে হননি মুক্তিযোদ্ধারা",
       "url": "https://www.bd-pratidin.com/national/2026/03/26/1231384",
       "published_at": "2026-03-26T10:20:13+06:00",
@@ -382,27 +717,6 @@
       "published_at": "2026-03-26T08:56:25+06:00",
       "summary": "মহান স্বাধীনতা দিবস ও জাতীয় দিবস উপলক্ষে প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী সাভারের জাতীয় স্মৃতিসৌধে শ্রদ্ধা নিবেদন করেছেন।",
       "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774493784-aa214af232f9b1422779c09fcf6409be.jpg"
-    },
-    {
-      "headline": "বৈশ্বিক জ্বালানি সঙ্কটেও স্বস্তিতে বাংলাদেশ",
-      "url": "https://dailynayadiganta.com/printed-edition/igzA49ankzSu/",
-      "published_at": null,
-      "summary": "দেশে এখন প্রায় ১ লাখ ৭৫ হাজার ৬৪০ মেট্রিক টন ডিজেল মজুদ রয়েছে। চলতি মার্চ মাসের মধ্যেই আরো ৭৫ হাজার মেট্রিক টন ডিজেল দেশে এসে পৌঁছানোর কথা রয়েছে। শুধু ডিজেলই নয়, অন্যান্য জ্বালানির ক্ষেত্রেও চিত্র আশাব্যঞ্জক। বর্তমানে দেশে ২৬ হাজার মেট্রিক টন অকটেন মজুদ রয়েছে। পেট্রল ও ফার্নেস অয়েলের ক্ষেত্রেও পর্যাপ্ত মজুদ বজায় রয়েছে বলে নিশ্চিত করেছে সংশ্লিষ্ট কর্তৃপক্ষ।",
-      "image_url": "https://media.ndiganta.com/images/oil_EisZKoL.2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "ট্রাম্পের নিয়ন্ত্রণহীন ইরান যুদ্ধের তিন সপ্তাহ",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/gZdXjkRBUPyg/",
-      "published_at": null,
-      "summary": "যুদ্ধের দীর্ঘমেয়াদি প্রভাব শুধু মধ্যপ্রাচ্যেই নয়, বিশ্বজুড়ে জ্বালানি নিরাপত্তা, বৈশ্বিক অর্থনীতি এবং মার্কিন রাজনৈতিক ভবিষ্যতেও প্রভাব ফেলবে। ট্রাম্পের ‘দ্রুত ও সীমিত’ অভিযান এখন অনিশ্চিত সঙ্কটের রূপ নিচ্ছে, যা তার প্রেসিডেন্সি ও রিপাবলিকান পার্টির রাজনৈতিক ভবিষ্যৎকে বিপদে ফেলেছে। ফলে যুদ্ধের সম্ভাব্য চূড়ান্ত সমাপ্তি কৌশলগত সমঝোতা ও সীমিত সামরিক সমর্থনের মাধ্যমে না হলে এমন একটি সঙ্ঘাত মধ্যপ্রাচ্যে বিস্তৃত হতে পারে, যা পরিস্থিতিকে তৃতীয় বিশ্বযুদ্ধ শুরুর দিকে ঠেলে দিতে পারে",
-      "image_url": "https://media.ndiganta.com/images/Khalili-vai.2e16d0ba..2e16d0ba.fill-445x250.format-webp.webp"
-    },
-    {
-      "headline": "সুদমুক্ত বিশ্ব অর্থনীতি",
-      "url": "https://dailynayadiganta.com/opinions/sub-editorial/g8O2DhxMSExQ/",
-      "published_at": null,
-      "summary": "এখন প্রয়োজন একটি বৈশ্বিক সংলাপ, যেখানে নীতিনির্ধারক, অর্থনীতিবিদ, উদ্যোক্তা এবং সাধারণ মানুষ একসাথে আলোচনা করবে; কিভাবে আর্থিক ব্যবস্থা আবারো উৎপাদন, মর্যাদা এবং মানবকল্যাণের সহায়ক শক্তি হিসেবে প্রতিষ্ঠিত করা যায়। শুধু তখনই পৃথিবী এগিয়ে যেতে পারবে শান্তি, সমৃদ্ধি এবং অর্থনৈতিক ন্যায়বিচারের পথে; যদি বিশ্ব একযোগে এগোয়",
-      "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
     },
     {
       "headline": "দিবা নিশি হোটেলের ‘খালা’র কাছে চিরকৃতজ্ঞ হাসনাত!",
@@ -452,20 +766,6 @@
       "published_at": null,
       "summary": "মহান স্বাধীনতা ও জাতীয় দিবসে সাভারে জাতীয় স্মৃতিসৌধে অন্যান্য আইন কর্মকর্তাদের নিয়ে মুক্তিযুদ্ধের বীর শহীদদের প্রতি  শ্রদ্ধা নিবেদন করেন অ্যাটর্নি জেনারেল",
       "image_url": "https://media.ndiganta.com/original_images/independent-day-attorney.jpg"
-    },
-    {
-      "headline": "আজকের সর্বশেষ খবর - March 26, 2026",
-      "url": "https://www.jugantor.com/latest",
-      "published_at": null,
-      "summary": "স্থানীয় সময় বুধবার (২৫ মার্চ) নিজের সামাজিক যোগাযোগমাধ্যম ট্রুথ সোশ্যালে দেওয়া এক পোস্টে ট্রাম্প জানান, তিনি ১৪ ও ১৫ মে ...",
-      "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
-    },
-    {
-      "headline": "নামাজ, সেহরি ও ইফতার এর সময়সূচিজানতে ক্লিক করুন",
-      "url": "https://www.jugantor.com/namaz-sehri-iftar-time",
-      "published_at": null,
-      "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
-      "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
     },
     {
       "headline": "স্বাধীনতার পর মুক্তিযোদ্ধার সংজ্ঞা বদলেছে পাঁচবার",
@@ -1223,297 +1523,6 @@
       "summary": "২০২৬ সালের এইচএসসি ও সমমানের পরীক্ষা সুষ্ঠুভাবে আয়োজনের লক্ষ্যে সভা অনুষ্ঠিত।",
       "image_s3_key": "prothomalo-bangla/2026-03-25/f10zz4m6/WhatsApp-Image-2026-03-25-at-9.00.03-PM.jpeg",
       "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/f10zz4m6/WhatsApp-Image-2026-03-25-at-9.00.03-PM.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "জ্বালানি মজুত পর্যাপ্ত, আরও বাড়ানোর চেষ্টা চলছে: মন্ত্রিপরিষদ সচিব",
-      "url": "https://www.prothomalo.com/bangladesh/q6z1f9it7p",
-      "published_at": "2026-03-25T15:40:35.572000+00:00",
-      "summary": "মন্ত্রিপরিষদ সচিব বলেন, এখন পর্যন্ত দেশে জ্বালানি তেলের পর্যাপ্ত মজুত আছে বলে জানিয়েছে সরকার।",
-      "image_s3_key": "prothomalo-bangla/2026-02-16/l8o24z46/Image.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-02-16/l8o24z46/Image.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "একাত্তরে শরণার্থীশিবিরে হিন্দু-মুসলমানদের সম্প্রীতি ছিল অত্যন্ত গভীর",
-      "url": "https://www.prothomalo.com/bangladesh/1z4hrji932",
-      "published_at": "2026-03-25T15:36:45.459000+00:00",
-      "summary": "একাত্তরে শরণার্থীশিবিরে হিন্দু-মুসলিম শরণার্থীরা ধর্মীয় ভেদাভেদ ভুলে একে অপরের উৎসবে অংশ হতেন এবং একত্রে থাকার প্রত্যয়ে ছিলেন।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/z8dnrmu2/Mukti-Juddo-Jadughar-01.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/z8dnrmu2/Mukti-Juddo-Jadughar-01.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "‘দেশ স্বাধীন করেছি আমরা, রক্ষার দায়িত্ব তরুণ প্রজন্মের’",
-      "url": "https://www.bd-pratidin.com/city-news/2026/03/25/1231194",
-      "published_at": "2026-03-25T19:33:10+06:00",
-      "summary": "ঢাকা দক্ষিণ সিটি কর্পোরেশনের প্রশাসক বীর মুক্তিযোদ্ধা মো. আব্দুস সালাম বলেছেন, বাংলাদেশের স্বাধীনতা কোনো দয়া বা আলোচনার মাধ্যমে অর্জিত নয়; রক্তক্ষয়ী যুদ্ধের মধ্য দিয়েই এই স্বাধীনতা ছিনিয়ে আনা হয়েছে। তাই স্বাধীনতার ইতিহাস নতুন প্রজন্মের কাছে সঠিকভাবে তুলে ধরা অত্যন্ত জরুরি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/25/og/1774445589-16de30f8483ccdb39e06533dc77f5e7a.jpg"
-    },
-    {
-      "headline": "নোয়াখালীতে বজ্রপাতে জেলের মৃত্যু",
-      "url": "https://dailynayadiganta.com/printed-edition/EW6wEopslxkq/",
-      "published_at": null,
-      "summary": "নোয়াখালীর কোম্পানীগঞ্জে বজ্রপাতে ঠাকুর চাঁন (২৮) নামে এক জেলের মৃত্যু হয়েছে। এ সময় তার বাবাসহ আরো দু’জন আহত হয়েছেন। গতকাল বুধবার গভীর রাতে উপজেলার মুছাপুর ক্লোজার সংলগ্ন ছোট ফেনী নদীর খালে এ ঘটনা ঘটে।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "শাহজাদপুরে ডেকে নিয়ে যুবককে হত্যা",
-      "url": "https://dailynayadiganta.com/printed-edition/0WtlUymgz5Ge/",
-      "published_at": null,
-      "summary": "সিরাজগঞ্জের শাহজাদপুরে ঈদ বোনাস দেয়ার কথা বলে বাড়ি থেকে ডেকে নিয়ে এক যুবককে হত্যা করা হয়েছে বলে অভিযোগ উঠেছে। নিহত সোহেল রানা (২৬) উপজেলার কায়েমপুর ইউনিয়নের সড়াতৈল উত্তরপাড়া গ্রামের আজাদ মণ্ডলের ছেলে।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "পলাতক আ’লীগ নেতার তোরণ ঘিরে মিরকাদিমে তোলপাড়",
-      "url": "https://dailynayadiganta.com/printed-edition/zscgHtCymw4S/",
-      "published_at": null,
-      "summary": "মুন্সীগঞ্জের মিরকাদিম পৌর এলাকায় পলাতক আওয়ামী লীগ নেতা ও সাবেক মেয়র শহিদুল ইসলাম শাহীনের ছবি সম্বলিত তোরণ নির্মাণকে কেন্দ্র করে এলাকায় তীব্র আলোচনা-সমালোচনার সৃষ্টি হয়েছে। স্থানীয়দের অভিযোগ, পরিকল্পিতভাবে তোরণ নির্মাণের মাধ্যমে তার উপস্থিতি জানান দেয়ার চেষ্টা করা হয়েছে।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "সরিষাবাড়ীতে বিয়ে বাড়িতে সংঘর্ষে নিহত ২",
-      "url": "https://dailynayadiganta.com/printed-edition/49qaLNiGik6m/",
-      "published_at": null,
-      "summary": "জামালপুরের সরিষাবাড়ী উপজেলার বিয়ে বাড়িতে তুচ্ছ ঘটনাকে কেন্দ্র করে দু’পক্ষের সংঘর্ষে দুইজন নিহত হওয়ার খবর পাওয়া গেছে। নিহতদের একজন সংঘর্ষ থামাতে গিয়ে হামলার শিকার হন। অন্যজন ঘটনাটি দেখে হৃদরোগে আক্রান্ত হয়ে মারা যান বলে জানা গেছে।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "৩ জেলায় অগ্নিকাণ্ডে পুড়ে গেছে কোটি টাকার মালামাল",
-      "url": "https://dailynayadiganta.com/printed-edition/ErA1llvPibSs/",
-      "published_at": null,
-      "summary": "দেশের তিন জেলায় পৃথক অগ্নিকাণ্ডে একাধিক দোকান ও বসতবাড়ি পুড়ে ব্যাপক ক্ষয়ক্ষতি হয়েছে। কিশোরগঞ্জ, কুড়িগ্রাম ও নারায়ণগঞ্জে ঘটে যাওয়া এসব ঘটনায় অন্তত পাঁচজন আহত হয়েছেন এবং ক্ষয়ক্ষতির পরিমাণ কয়েক কোটি টাকায় দাঁড়িয়েছে বলে প্রাথমিকভাবে ধারণা করা হচ্ছে।",
-      "image_url": "https://media.ndiganta.com/original_images/default_ND.png"
-    },
-    {
-      "headline": "হাওরাঞ্চলে জ্বালানি সঙ্কট তীব্র চরম ভোগান্তিতে কৃষক-চালক",
-      "url": "https://dailynayadiganta.com/printed-edition/kep0Gr8FEnA3/",
-      "published_at": null,
-      "summary": "কিশোরগঞ্জের হাওরাঞ্চলে জ্বালানি সঙ্কট চরম আকার ধারণ করেছে। এতে কৃষক, মোটরসাইকেল চালকসহ সাধারণ ভোক্তারা পড়েছেন চরম ভোগান্তিতে। স্থানীয়দের অভিযোগ, কৃত্রিম সঙ্কট তৈরি করে অতিরিক্ত দামে জ্বালানি বিক্রি করা হচ্ছে, তবে এ বিষয়ে সংশ্লিষ্টদের কার্যকর নজরদারি নেই।",
-      "image_url": "https://media.ndiganta.com/original_images/bangla-3_HL5db1m.jpg"
-    },
-    {
-      "headline": "জেলায় জেলায় গণহত্যা দিবস পালন",
-      "url": "https://dailynayadiganta.com/printed-edition/BWFqt6WSBryV/",
-      "published_at": null,
-      "summary": "সারা দেশে গণহত্যা দিবস উপলক্ষে আলোচনা সভা, শোকসভা ও শহীদদের স্মরণসভা গতকাল বুধবার অনুষ্ঠিত হয়েছে। সভা শেষে শহীদদের রূহের মাগফিরাত কামনায় দোয়া অনুষ্ঠান হয়। ১৯৭১ সালের ২৫ মার্চ রাতে দেশের জনগণের উপর নির্মম হত্যাকাণ্ড চালায় পাকিস্তানি সামরিক বাহিনী। সেই থেকে ২৫ মার্চ রাতকে কাল রাত আখ্যা দিয়ে দেশজুড়ে বিভিন্ন কর্মসূচি পালন করা হয়।",
-      "image_url": "https://media.ndiganta.com/original_images/bangla-2_5aJrHio.jpg"
-    },
-    {
-      "headline": "মন্ত্রিপরিষদের দায়িত্ব পুনর্বণ্টন, জনপ্রশাসন প্রতিমন্ত্রী পেলেন নতুন মন্ত্রণালয়",
-      "url": "https://dailynayadiganta.com/bangladesh/national/d9iq8iHWd6iZ/",
-      "published_at": null,
-      "summary": "আব্দুল বারী এখন জনপ্রশাসন মন্ত্রণালয়ের প্রতিমন্ত্রীর দায়িত্বের পাশাপাশি খাদ্য মন্ত্রণালয়েরও প্রতিমন্ত্রীর দায়িত্ব পালন করবেন।",
-      "image_url": "https://media.ndiganta.com/original_images/Cabinet.jpg"
-    },
-    {
-      "headline": "কমলগঞ্জে শিশুকে ধর্ষণ চেষ্টার অভিযোগে বৃদ্ধ আটক",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/ZEogPUScBiby/",
-      "published_at": null,
-      "summary": "মৌলভীবাজারের কমলগঞ্জে আট বছরের এক শিশুকে ধর্ষণ চেষ্টার অভিযোগে আহমদ মিয়া (৬০) নামে এক বৃদ্ধকে আটক করে পুলিশে সোপর্দ করেছে স্থানীয় জনতা।",
-      "image_url": "https://media.ndiganta.com/original_images/Kamalgonj-Moulovibazar.jpg"
-    },
-    {
-      "headline": "প্রচন্ড ঝড়-বৃষ্টিতে দৌলতদিয়ায় বাস উদ্ধার কাজ ব্যাহত",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/E5FRVKnM0zH7/",
-      "published_at": null,
-      "summary": "প্রচণ্ড ঝড়-বৃষ্টির কারণে মারাত্মক বিঘ্ন ঘটছে রাজবাড়ীর গোয়ালন্দ উপজেলার দৌলতদিয়া ফেরিঘাট এলাকায় যাত্রীবাহী বাস পন্টুনে ওঠার সময় নিয়ন্ত্রণ হারিয়ে নদীতে পড়ে যাওয়া বাসটির উদ্ধার কাজ।",
-      "image_url": "https://media.ndiganta.com/original_images/Rajbari_07Epoe5.jpg"
-    },
-    {
-      "headline": "রোহিঙ্গা সঙ্কটের একমাত্র সমাধান প্রত্যাবাসন",
-      "url": "https://dailynayadiganta.com/bangladesh/national/EA5TJV4XB8C3/",
-      "published_at": null,
-      "summary": "উভয় পক্ষ রোহিঙ্গা ইস্যুর প্রতি আন্তর্জাতিক সম্প্রদায়ের মনোযোগ ধরে রাখতে একসাথে কাজ করার বিষয়ে সম্মত হন।",
-      "image_url": "https://media.ndiganta.com/original_images/Shama-Obaid-Islam.jpg"
-    },
-    {
-      "headline": "চৌগাছায় মাদক সেবনের দায়ে ৪ জনের কারাদণ্ড",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/9cKDfA9kuUTQ/",
-      "published_at": null,
-      "summary": "উপজেলা নির্বাহী কর্মকর্তা ফারজানা ইসলাম বলেন, ‘মাদক নিয়ন্ত্রণ আইন মোতাবেক চার জনকে ১০ দিন বিনাশ্রম কারাদণ্ড দেয়া হয়েছে। মাদকের বিরুদ্ধে এ অভিযান অব্যহত থাকবে।’",
-      "image_url": "https://media.ndiganta.com/original_images/Chowgasha-25-3.jpg"
-    },
-    {
-      "headline": "ফরিদপুরে বড় ভাইয়ের গুলিতে ছোট ভাই নিহত, অভিযুক্ত কৃষক লীগ নেতা আটক ",
-      "url": "https://www.prothomalo.com/video/bangladesh/bmv8r72o4z",
-      "published_at": "2026-03-25T15:31:03.038000+00:00",
-      "summary": "ফরিদপুরে বড় ভাইয়ের গুলিতে ছোট ভাই নিহত, অভিযুক্ত কৃষক লীগ নেতা আটক",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/g507k4zy/WEB-Recovered-Recovered.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/g507k4zy/WEB-Recovered-Recovered.jpg?auto=format,compress"
-    },
-    {
-      "headline": "চট্টগ্রামে কর্ণফুলী নদীতে নিষিদ্ধ \nছাত্রলীগের নৌকামিছিল",
-      "url": "https://www.prothomalo.com/bangladesh/district/x36bv863yr",
-      "published_at": "2026-03-25T15:29:22.713000+00:00",
-      "summary": "কর্ণফুলী নদীর চট্টগ্রাম নগরের সদরঘাট এলাকায় করা এই মিছিলের ভিডিও চিত্র আজ বুধবার সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/7mcea28f/Untitled-1.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/7mcea28f/Untitled-1.png?auto=format,compress"
-    },
-    {
-      "headline": "কূটনীতিককে জড়িয়ে ধরা নিয়ে ব্যাখ্যা দিলেন জামায়াত আমির",
-      "url": "https://www.prothomalo.com/politics/uece0dnfse",
-      "published_at": "2026-03-25T15:25:04.925000+00:00",
-      "summary": "ঈদুল ফিতরের দিন ২১ মার্চ রাজধানীর মিন্টো রোডে বিরোধীদলীয় নেতার সরকারি বাসভবনে কূটনীতিকদের সঙ্গে ঈদের শুভেচ্ছা বিনিময় করেন জামায়াতে ইসলামীর আমির শফিকুর রহমান।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/hlgwu3ij/Jamat-Amir-01.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/hlgwu3ij/Jamat-Amir-01.png?auto=format,compress"
-    },
-    {
-      "headline": "৬ যাত্রী নিয়ে কুমারখালী থেকে ছাড়ে বাসটি, পথে ওঠেন আরও অন্তত ৩৬ জন",
-      "url": "https://www.prothomalo.com/bangladesh/district/v44kgz0bja",
-      "published_at": "2026-03-25T15:01:59.208000+00:00",
-      "summary": "বাসটি ডুবে যাওয়ার পর উদ্ধার কার্যক্রম শুরু করেছে উদ্ধারকারী জাহাজ হামজা। ইতিমধ্যে বাসের অবস্থান শনাক্ত করা গেছে বলে ঘাট সূত্রে জানা গেছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/j0kiavqc/Untitled-5-1.png",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/j0kiavqc/Untitled-5-1.png?auto=format,compress"
-    },
-    {
-      "headline": "সিলেটে ফিলিং স্টেশন থেকে মোটরসাইকেলে তেল নিতে পুলিশের ৩ শর্ত",
-      "url": "https://www.prothomalo.com/bangladesh/district/h00vz5qxhr",
-      "published_at": "2026-03-25T14:28:55.445000+00:00",
-      "summary": "গণবিজ্ঞপ্তিতে মহানগর এলাকায় মোটরসাইকেলের তেল সংগ্রহের ক্ষেত্রে নির্ধারিত শর্ত কঠোরভাবে অনুসরণ করতে বলা হয়েছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-10/mgqcnbce/sylhetdh077820260310sylhet-pump.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-10/mgqcnbce/sylhetdh077820260310sylhet-pump.jpg?auto=format,compress"
-    },
-    {
-      "headline": "নদী থেকে তোলা হচ্ছে বাসটি",
-      "url": "https://www.bd-pratidin.com/country/2026/03/26/1231337",
-      "published_at": "2026-03-26T00:41:17+06:00",
-      "summary": "রাজবাড়ীর দৌলতদিয়া ফেরিঘাটে পদ্মা নদীতে ডুবে যাওয়া যাত্রীবাহী বাসটি ধীরে ধীরে নদী থেকে তোলা হচ্ছে। মঙ্গলবার (২৫ মার্চ) রাত সাড়ে ১১টার দিকে বাসটির সামনের অংশ আংশিক দৃশ্যমান হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/26/og/1774464076-8f86ef187720f02def518dba2f8118fe.jpg"
-    },
-    {
-      "headline": "অফিসে যোগ দিয়েই আবার ছুটি, ঈদের পর ফের বাড়ির পথে কর্মজীবীরা",
-      "url": "https://www.bd-pratidin.com/national/2026/03/25/1231192",
-      "published_at": "2026-03-25T19:28:55+06:00",
-      "summary": "ঈদুল ফিতরের দীর্ঘ ছুটি শেষে কর্মস্থলে যোগ দিতে ঢাকায় ফিরেছেন কর্মজীবী মানুষ। তবে ফিরেই আবার টানা তিন দিনের ছুটি পাওয়ায় অনেকেই নতুন করে বাড়ির পথে রওনা হচ্ছেন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/25/og/1774445334-a895908b9bf7b3d0e8a494e65bcda03b.jpg"
-    },
-    {
-      "headline": "জ্বালানি তেল: আছে এক মাসের রিজার্ভ, বাড়ানোর পরিকল্পনা সরকারের",
-      "url": "https://www.bd-pratidin.com/national/2026/03/25/1231191",
-      "published_at": "2026-03-25T19:22:36+06:00",
-      "summary": "দেশে এক মাসের জ্বালানি তেল আছে। সরকার এই রিজার্ভ আরও বড় করার পরিকল্পনা নিয়েছে বলে জানিয়েছেন মন্ত্রিপরিষদ সচিব মো. নাসিমুল গনি।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/25/og/1774444956-c2eee11b1b9514be67d078da8e4ec117.jpg"
-    },
-    {
-      "headline": "ইরানের অনুমতি নিয়ে হরমুজ পাড়ি দিল থাই ট্যাংকার",
-      "url": "https://www.bd-pratidin.com/international-news/2026/03/25/1231188",
-      "published_at": "2026-03-25T19:02:49+06:00",
-      "summary": "যুদ্ধের জেরে চরম উত্তেজনার মধ্যে ইরানের অনুমতি সাপেক্ষে নিরাপদভাবে হরমুজ প্রণালি অতিক্রম করেছে একটি থাই তেলবাহী ট্যাংকার।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/25/og/1774443768-608e1bcf68b445dca56d05e17d1bc887.jpg"
-    },
-    {
-      "headline": "জ্বালানি তেলের সংকট চলছেই",
-      "url": "https://www.prothomalo.com/photo/bangladesh/i2j2ljp0u8",
-      "published_at": "2026-03-25T14:27:42.774000+00:00",
-      "summary": "মধ্যপ্রাচ্যে যুদ্ধের কারণে জ্বালানির বিশ্ববাজারে অস্থিরতা কাটছে না। বাংলাদেশেও ফিলিং স্টেশনগুলোতে চাহিদা অনুযায়ী তেল মিলছে না। ফিলিং স্টেশনগুলোতে তেলের জন্য লাইন দিনভরই থাকছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/7khw5o17/1.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/7khw5o17/1.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "পদ্মায় বাস পড়ার ঘটনায় দুজনের লাশ উদ্ধার, বৃষ্টিতে উদ্ধারকাজ ব্যাহত",
-      "url": "https://www.prothomalo.com/bangladesh/district/zz1fjl4o9y",
-      "published_at": "2026-03-25T14:26:33.848000+00:00",
-      "summary": "বাসটি ডুবে যাওয়ার পর উদ্ধার কার্যক্রম শুরু করেছে উদ্ধারকারী জাহাজ হামজা। ইতিমধ্যে বাসের অবস্থান শনাক্ত করা গেছে বলে ঘাট সূত্রে জানা গেছে।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/isul453f/RAJBARIDH054420260325IMG-20260325-WA0091.JPG.JPG",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/isul453f/RAJBARIDH054420260325IMG-20260325-WA0091.JPG.JPG?auto=format,compress"
-    },
-    {
-      "headline": "কিশোরগঞ্জে শিলাবৃষ্টি, চার হাজার হেক্টর বোরো ধান ক্ষতিগ্রস্ত",
-      "url": "https://www.prothomalo.com/bangladesh/district/jrknq8e6oe",
-      "published_at": "2026-03-25T14:19:08.293000+00:00",
-      "summary": "হাওর–অধ্যুষিত মিঠামইনের ঢাকি, কেওয়ারজোড়, ইটনা, অষ্টগ্রাম, নিকলী উপজেলাসহ জেলা সদর, পাকুন্দিয়া, হোসেনপুর, কটিয়াদী ও ভৈরবের বিভিন্ন এলাকায় শিলাবৃষ্টি হয়।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/jz37y2co/KishorgonjDH063520260325IMG-20260325-WA0015-1.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/jz37y2co/KishorgonjDH063520260325IMG-20260325-WA0015-1.jpg?auto=format,compress"
-    },
-    {
-      "headline": "জামালপুরে প্রায় ৩ হাজার লিটার পেট্রলসহ আটক ৭",
-      "url": "https://www.prothomalo.com/video/bangladesh/kxtsxbgmka",
-      "published_at": "2026-03-25T14:12:31.115000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-03-25/kn4yop1f/1080.00054019.Still022.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/kn4yop1f/1080.00054019.Still022.jpg?auto=format,compress"
-    },
-    {
-      "headline": "গণহত্যা দিবসে ব্রাহ্মণবাড়িয়া প্রেসক্লাবে আলোচনা সভা",
-      "url": "https://www.bd-pratidin.com/country/2026/03/25/1231187",
-      "published_at": "2026-03-25T19:00:35+06:00",
-      "summary": "গণহত্যা দিবস ও মহান স্বাধীনতা ও জাতীয় দিবস উপলক্ষে ব্রাহ্মণবাড়িয়া প্রেসক্লাবে আলোচনা সভা অনুষ্ঠিত হয়েছে। বুধবার দুপুরে প্রেসক্লাব মিলনায়তনে আয়োজিত এ সভায় সভাপতিত্ব করেন প্রেসক্লাবের সভাপতি জাবেদ রহিম বিজন।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/25/og/1774443634-375714dfe1b370632c363d40929e3d5f.jpg"
-    },
-    {
-      "headline": "১২০টির বেশি অধ্যাদেশ যাচাই-বাছাই শেষ, প্রতিবেদন ২ এপ্রিল",
-      "url": "https://www.bd-pratidin.com/minister-speech/2026/03/25/1231186",
-      "published_at": "2026-03-25T18:55:28+06:00",
-      "summary": "আইনমন্ত্রী মো. আসাদুজ্জামান বলেছেন, অন্তর্বর্তী সরকারের অধ্যাদেশগুলোর ভবিষ্যৎ নির্ধারণে চূড়ান্ত পর্যায়ে পৌঁছেছে যাচাই-বাছাই কমিটি। এরই মধ্যে ১২০টির বেশি অধ্যাদেশ যাচাই-বাছাই শেষ হয়েছে।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/25/og/1774443327-6eeb3b79e6f919e4fd1bb1270eac49e0.jpg"
-    },
-    {
-      "headline": "শ্রীপুরের সাতখামাইর গণকবরে শহীদদের প্রতি শ্রদ্ধা",
-      "url": "https://www.bd-pratidin.com/country/2026/03/25/1231182",
-      "published_at": "2026-03-25T18:27:52+06:00",
-      "summary": "গাজীপুরের শ্রীপুর উপজেলার সাতখামাইর গণকবর ও বধ্যভূমিতে মহান মুক্তিযুদ্ধে শহীদ ১২ জনের প্রতি শ্রদ্ধা নিবেদন করা হয়েছে। ১৯৭১ সালের বর্বর হত্যাকাণ্ডের স্মৃতি ধারণ করা এ স্থানে বুধবার সকালে আবেগঘন পরিবেশে এই কর্মসূচি পালন করা হয়।",
-      "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/25/og/1774441672-c25b08e36ebdac1d282e44d07acf35d9.jpg"
-    },
-    {
-      "headline": "স্বাধীনতা দিবসের প্রস্তুতি দেখতে শহীদ মিনারে সিসিক প্রশাসক",
-      "url": "https://dailynayadiganta.com/bangladesh/country-news/iSjJGoc1trKx/",
-      "published_at": null,
-      "summary": "সিলেট কেন্দ্রীয় শহীদ মিনার পরিদর্শন করেছেন সিলেট সিটি করপোরেশনের (সিসিক) প্রশাসক আব্দুল কাইয়ুম চৌধুরী। বুধবার রাত ৯টার দিকে তিনি শহীদ মিনার প্রাঙ্গণ পরিদর্শন করে স্বাধীনতা ও জাতীয় দিবস উদযাপনের প্রস্তুতি পর্যবেক্ষণ করেন।",
-      "image_url": "https://media.ndiganta.com/original_images/SCC_Db2qVfg.jpg"
-    },
-    {
-      "headline": "‘তারাও তোমাদের মতো মানুষ’",
-      "url": "https://www.prothomalo.com/religion/islam/8vtl7vbssh",
-      "published_at": "2026-03-25T14:11:08.674000+00:00",
-      "summary": "উম্মে সালামার বিশেষত্ব এখানেই। তিনি তাঁর প্রতিজন দাসী-বাঁদিকে কোরআন-সুন্নাহর দীক্ষায়ও দীক্ষিত করে তোলেন পূর্ণরূপে। সাধারণ শিক্ষার্থীদের মতোই তাদের শিক্ষা আঞ্জাম দিতে থাকেন।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/qvrj65qg/cup-coffee-cinnamon-top-book.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/qvrj65qg/cup-coffee-cinnamon-top-book.jpg?auto=format,compress"
-    },
-    {
-      "headline": "স্পট মার্কেট থেকে দুই কার্গো এলএনজি কিনছে সরকার",
-      "url": "https://www.prothomalo.com/business/economics/mihttzscna",
-      "published_at": "2026-03-25T14:00:00+00:00",
-      "summary": "টোটাল এনার্জিস গ্যাস অ্যান্ড পাওয়ার থেকে এলএনজি আনতে প্রতি এমএমবিটিইউর দাম পড়ছে ১৯ দশমিক ৭৭ মার্কিন ডলার।",
-      "image_s3_key": "prothomalo-bangla/2026-01-28/s5f2nwin/PA21062025P_16.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-01-28/s5f2nwin/PA21062025P_16.jpg?auto=format,compress"
-    },
-    {
-      "headline": "৪০ যাত্রী নিয়ে দৌলতদিয়ায় ফেরিতে উঠতে গিয়ে বাস নদীতে",
-      "url": "https://www.prothomalo.com/video/bangladesh/yeerkiilmk",
-      "published_at": "2026-03-25T13:58:25.732000+00:00",
-      "summary": null,
-      "image_s3_key": "prothomalo-bangla/2026-03-25/niafn5hj/YT-GFX.00081718.Still026.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/niafn5hj/YT-GFX.00081718.Still026.jpg?auto=format,compress"
-    },
-    {
-      "headline": "সংবাদকর্মীদের ১৫% যৌন হয়রানির শিকার",
-      "url": "https://www.prothomalo.com/bangladesh/kiog8g7w9o",
-      "published_at": "2026-03-25T13:54:27.299000+00:00",
-      "summary": "সংবাদমাধ্যমের জন্য যৌন হয়রানি প্রতিকার নীতিমালা প্রকাশ। ওয়ান-ইফরা ও বিবিসি মিডিয়া অ্যাকশন পরিচালিত এই জরিপে অংশ নেন ৩৩৯ বাংলাদেশি নারী ও পুরুষ সংবাদকর্মী।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/2jyyfrdy/BBCSurvey.jpeg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/2jyyfrdy/BBCSurvey.jpeg?auto=format,compress"
-    },
-    {
-      "headline": "ওয়ার্নের সেই ৩ শতাংশের মালিকানার দাম এখন ৬০০ কোটি টাকা",
-      "url": "https://www.prothomalo.com/sports/cricket/wfvudi92jj",
-      "published_at": "2026-03-25T13:50:12.184000+00:00",
-      "summary": "২০০৮ সালে আইপিএলের প্রথম আসরে রাজস্থান রয়্যালসের হয়ে অস্ট্রেলিয়ার এই কিংবদন্তি যে ‘বাজি’ ধরেছিলেন, প্রায় দুই দশক পর তা এখন ‘সোনার ডিম পাড়া হাঁস’। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/bd781nwx/132368.webp",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/bd781nwx/132368.webp?auto=format,compress"
-    },
-    {
-      "headline": "কলোরেক্টাল ক্যানসারের লক্ষণ, চিকিৎসা ও প্রতিরোধে করণীয়",
-      "url": "https://www.prothomalo.com/lifestyle/health/24df5myjck",
-      "published_at": "2026-03-25T13:43:21.729000+00:00",
-      "summary": "কলোরেক্টাল ক্যানসারের প্রায় ৫০ শতাংশ ক্ষেত্রে তেমন উল্লেখযোগ্য কোনো লক্ষণ না–ও থাকতে পারে। ",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/gjm6yq1e/Capture.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/gjm6yq1e/Capture.jpg?auto=format,compress"
-    },
-    {
-      "headline": "আইনগত জটিলতায় স্থানীয় সরকার নির্বাচনে কিছুটা সময় লাগছে: এলজিআরডি প্রতিমন্ত্রী",
-      "url": "https://www.prothomalo.com/bangladesh/district/26a83x11j1",
-      "published_at": "2026-03-25T13:43:15.201000+00:00",
-      "summary": "বুধবার বিকেলে রাজশাহী সিটি করপোরেশনের কর্মকর্তাদের সঙ্গে মতবিনিময় সভায় যোগদানের আগে সাংবাদিকদের সঙ্গে আলাপ করেন স্থানীয় সরকার প্রতিমন্ত্রী মীর শাহে আলম।",
-      "image_s3_key": "prothomalo-bangla/2026-03-25/8l71anyz/RajshahiDH109.jpg",
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-25/8l71anyz/RajshahiDH109.jpg?auto=format,compress"
     }
   ]
 }
