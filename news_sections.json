@@ -1,14 +1,22 @@
 {
-  "fetched_at": "2026-03-27T22:31:43.949870+00:00",
+  "fetched_at": "2026-03-27T23:04:04.858437+00:00",
   "sections": {
     "latest": [
       {
-        "headline": "ইরানের বুশেহর পরমাণু বিদ্যুৎকেন্দ্রের কাছে ক্ষেপণাস্ত্রের আঘাত",
+        "headline": "হরমুজ প্রণালিকে ‘ট্রাম্প প্রণালি’ বললেন মার্কিন প্রেসিডেন্ট",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-27T22:08:01.061000+00:00",
+        "published_at": "2026-03-27T22:53:17.634000+00:00",
         "summary": "ডেমোক্রেটিক দলের এই জ্যেষ্ঠ নেতা শুরু থেকেই ইরানে হামলার বিষয়ে ট্রাম্পের সিদ্ধান্তের বিপক্ষে ছিলেন। তিনি অবিলম্বে এই যুদ্ধ বন্ধের আহ্বান জানিয়েছেন।",
         "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
+      },
+      {
+        "headline": "সাহাবি জাবিরের ঘরে অলৌকিক মেজবানি",
+        "url": "https://www.prothomalo.com/religion/islam/aul1h6k3ba",
+        "published_at": "2026-03-27T22:30:00+00:00",
+        "summary": "মুসলিম সৈন্যরা যখন মদিনায় পরিখা খনন করছিলেন, তখন তাঁদের তাবুগুলো ছিল এই এলাকায়। তবে স্থানটি ইতিহাসের পাতায় অমর হয়ে আছে এক অলৌকিক মেজবানির জন্য।",
+        "image_s3_key": "prothomalo-bangla/2026-03-27/7i0ih6km/07f9127e-66ef-4df9-a745-73a4fda110d20.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-27/7i0ih6km/07f9127e-66ef-4df9-a745-73a4fda110d20.jpg?auto=format,compress"
       },
       {
         "headline": "শিল্পী হিসেবে তিনি ছিলেন অত্যন্ত উঁচু মানের: ফেরদৌসী রহমান",
@@ -315,14 +323,6 @@
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-11/m1ov1qzm/Image.jpeg?auto=format,compress"
       },
       {
-        "headline": " ঠাকুরগাঁওয়ে ফেসবুকে ধর্মীয় ঘৃণা প্রচারের অভিযোগে তরুণ কারাগারে",
-        "url": "https://www.prothomalo.com/bangladesh/district/bajmr07v03",
-        "published_at": "2026-03-27T14:52:36.473000+00:00",
-        "summary": "ঠাকুরগাঁওয়ে ফেসবুকে পোস্টের মাধ্যমে ধর্মীয় অনুভূতিতে আঘাতের অভিযোগে এক কিশোরকে গ্রেপ্তার করেছে পুলিশ। শুক্রবার বিকেলে রানীশংকৈলের নেকমরদ বাজার এলাকা থেকে তাঁকে গ্রেপ্তার করা হয়।",
-        "image_s3_key": "prothomalo-bangla/2025-12-16/t884vbpk/arrest_logo.jpg",
-        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-16/t884vbpk/arrest_logo.jpg?auto=format,compress"
-      },
-      {
         "headline": "মাঝরাতে বাঘাবাড়ী ডিপোতে গিয়ে জ্বালানি মন্ত্রীর তদারকি, সরবরাহ ব্যবস্থায় জোর",
         "url": "https://www.bd-pratidin.com/minister-speech/2026/03/28/1232132",
         "published_at": "2026-03-28T02:24:49+06:00",
@@ -414,6 +414,13 @@
         "image_url": "https://media.ndiganta.com/images/Aktaruzzaman.2e16d0ba.fill-445x250.format-webp.webp"
       },
       {
+        "headline": "গুচ্ছ পদ্ধতিতে ‘সি’ ইউনিটের ভর্তি পরীক্ষা সম্পন্ন, ইবি কেন্দ্রে উপস্থিতি ৮৯ শতাংশ",
+        "url": "https://dailynayadiganta.com/bangladesh/education-campus/adic5efZGu7M/",
+        "published_at": null,
+        "summary": "জানা যায়, গুচ্ছ পদ্ধতিতে এবার মোট আবেদন করেছেন ২ লাখ ৮৪ হাজার ৪৮০ জন শিক্ষার্থী।",
+        "image_url": "https://media.ndiganta.com/original_images/IU_KhJnG0M.jpg"
+      },
+      {
         "headline": "ইরানের সাথে যুদ্ধের সময়সীমা নিয়ে যা বললেন মার্কিন পররাষ্ট্রমন্ত্রী",
         "url": "https://dailynayadiganta.com/international/america/wQh0XzF8WcWa/",
         "published_at": null,
@@ -463,7 +470,7 @@
         "image_url": "https://media.ndiganta.com/original_images/Jhalakathi-27-3.jpg"
       },
       {
-        "headline": "বিআরটিসিসহ বাসে অতিরিক্ত ভাড়া আদায়রংপুরে যাত্রীদের সড়ক অবরোধ, ভাঙচুর ও বিক্ষোভ",
+        "headline": "রংপুরে যাত্রীদের সড়ক অবরোধ, ভাঙচুর ও বিক্ষোভ",
         "url": "https://dailynayadiganta.com/bangladesh/country-news/Bws5hGnDBi18/",
         "published_at": null,
         "summary": "শুক্রবার (২৭ মার্চ) রাত সাড়ে ১০টার দিকে যাত্রীরা মডার্ন মোড় এলাকায় সড়ক অবরোধ করেন। এ সময় উভয় পাশে শত শত যানবাহন আটকা পড়ে এবং কয়েক মাইল এলাকায় তীব্র যানজটের সৃষ্টি হয়।",
@@ -477,17 +484,10 @@
         "image_url": "https://media.ndiganta.com/original_images/Attack-Symbol.jpg"
       },
       {
-        "headline": "জ্বালানিখাতে নজরদারি জোরদার : ৬২ জেলায় ২৯৩টি মোবাইল কোর্ট",
-        "url": "https://dailynayadiganta.com/bangladesh/national/eNvM2AhUrfpp/",
-        "published_at": null,
-        "summary": "এসব অভিযানে ৭৮টি মামলা দায়ের এবং সর্বমোট তিন লাখ ১৫ হাজার ৫৫০ টাকা অর্থদণ্ড করা হয়েছে।",
-        "image_url": "https://media.ndiganta.com/original_images/ministry_KfBqk88.JPG"
-      },
-      {
         "headline": "আজকের সর্বশেষ খবর - March 28, 2026",
         "url": "https://www.jugantor.com/latest",
         "published_at": null,
-        "summary": "গণহত্যাকারী ইসরাইল ও তাদের সহযোগী যুক্তরাষ্ট্র যৌথভাবে ইরানে আগ্রাসন শুরু করার পর থেকে একের পর এক চমক দেখিয়ে আসছে তেহরান। ...",
+        "summary": "গণহত্যাকারী ইসরাইল ও তাদের সহযোগী যুক্তরাষ্ট্র ২৯ দিন ধরে ইরানে আগ্রাসন চালাচ্ছে। তেহরান না চাওয়ায় এতোদিন বিষয়টি নিয়ে কোনো মন্তব্য ...",
         "image_url": "https://cdn.jugantor.com/uploads/pages/1748422707-670055.jpg"
       },
       {
@@ -496,6 +496,21 @@
         "published_at": null,
         "summary": "সম্পাদক : আবদুল হাই শিকদারপ্রকাশক : সালমা ইসলাম",
         "image_url": "https://www.jugantor.com/assets/images/namaz_logo.jpg"
+      },
+      {
+        "headline": " ঠাকুরগাঁওয়ে ফেসবুকে ধর্মীয় ঘৃণা প্রচারের অভিযোগে তরুণ কারাগারে",
+        "url": "https://www.prothomalo.com/bangladesh/district/bajmr07v03",
+        "published_at": "2026-03-27T14:52:36.473000+00:00",
+        "summary": "ঠাকুরগাঁওয়ে ফেসবুকে পোস্টের মাধ্যমে ধর্মীয় অনুভূতিতে আঘাতের অভিযোগে এক কিশোরকে গ্রেপ্তার করেছে পুলিশ। শুক্রবার বিকেলে রানীশংকৈলের নেকমরদ বাজার এলাকা থেকে তাঁকে গ্রেপ্তার করা হয়।",
+        "image_s3_key": "prothomalo-bangla/2025-12-16/t884vbpk/arrest_logo.jpg",
+        "image_url": "https://media.prothomalo.com/prothomalo-bangla/2025-12-16/t884vbpk/arrest_logo.jpg?auto=format,compress"
+      },
+      {
+        "headline": "জ্বালানিখাতে নজরদারি জোরদার : ৬২ জেলায় ২৯৩টি মোবাইল কোর্ট",
+        "url": "https://dailynayadiganta.com/bangladesh/national/eNvM2AhUrfpp/",
+        "published_at": null,
+        "summary": "এসব অভিযানে ৭৮টি মামলা দায়ের এবং সর্বমোট তিন লাখ ১৫ হাজার ৫৫০ টাকা অর্থদণ্ড করা হয়েছে।",
+        "image_url": "https://media.ndiganta.com/original_images/ministry_KfBqk88.JPG"
       },
       {
         "headline": "গুচ্ছভুক্ত ২০ বিশ্ববিদ্যালয়ে ‘সি’  ইউনিটের ভর্তি পরীক্ষা অনুষ্ঠিত",
@@ -1499,20 +1514,6 @@
         "published_at": "2026-03-27T16:49:46+06:00",
         "summary": "আর্তমানবতার সেবায় প্রধানমন্ত্রী তারেক রহমানের কর্মকাণ্ড সবার জন্য শিক্ষণীয় বলে জানিয়েছেন পার্বত্য চট্টগ্রামবিষয়ক মন্ত্রণালয় এবং ভূমি মন্ত্রণালয়ের প্রতিমন্ত্রী ব্যারিস্টার মীর মোহাম্মদ হেলাল উদ্দিন।",
         "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/27/og/1774608585-8e5df737ad480cdf5a5399319ffcd594.jpg"
-      },
-      {
-        "headline": "আঞ্চলিক স্থিতিশীলতায় ইরান সংঘাতের দ্রুত সমাধান প্রয়োজন : যুক্তরাজ্য",
-        "url": "https://www.bd-pratidin.com/international-news/2026/03/27/1231884",
-        "published_at": "2026-03-27T16:29:49+06:00",
-        "summary": "হরমুজ প্রণালী অবরোধ বা সীমিত করার মাধ্যমে ইরান ‘বিশ্ব অর্থনীতিকে জিম্মি’ করে রেখেছে বলে মন্তব্য করেছেন যুক্তরাজ্যের পররাষ্ট্রমন্ত্রী ইভেট কুপার। তিনি বলেন, ‘এই সংঘাতের একটি দ্রুত সমাধান হওয়া প্রয়োজন যা আঞ্চলিক স্থিতিশীলতা ফিরিয়ে আনবে।’",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/27/og/1774607388-ff516fcea8a015625afc66dcb806232b.jpg"
-      },
-      {
-        "headline": "পাইপলাইনে ভারত থেকে এলো ৫ হাজার মেট্রিক টন ডিজেল",
-        "url": "https://www.bd-pratidin.com/economy/2026/03/27/1231882",
-        "published_at": "2026-03-27T16:24:24+06:00",
-        "summary": "পাইপলাইনে ভারতের আসামের নুমালিগড় রিফাইনারি কেন্দ্র থেকে পাঁচ হাজার মেট্রিক টন ডিজেল পৌঁছেছে দিনাজপুরের পাবর্তীপুরের রেলহেড ডিপোতে।",
-        "image_url": "https://cdn.bd-pratidin.com/public/news_images/2026/03/27/og/1774607744-a787c5ba7566e821265edcff9b693514.jpg"
       }
     ],
     "bangladesh": [
@@ -4422,9 +4423,9 @@
     ],
     "world": [
       {
-        "headline": "ইরানের বুশেহর পরমাণু বিদ্যুৎকেন্দ্রের কাছে ক্ষেপণাস্ত্রের আঘাত",
+        "headline": "হরমুজ প্রণালিকে ‘ট্রাম্প প্রণালি’ বললেন মার্কিন প্রেসিডেন্ট",
         "url": "https://www.prothomalo.com/world/5slmsanxj1",
-        "published_at": "2026-03-27T22:08:01.061000+00:00",
+        "published_at": "2026-03-27T22:53:17.634000+00:00",
         "summary": "ডেমোক্রেটিক দলের এই জ্যেষ্ঠ নেতা শুরু থেকেই ইরানে হামলার বিষয়ে ট্রাম্পের সিদ্ধান্তের বিপক্ষে ছিলেন। তিনি অবিলম্বে এই যুদ্ধ বন্ধের আহ্বান জানিয়েছেন।",
         "image_s3_key": "prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp",
         "image_url": "https://media.prothomalo.com/prothomalo-bangla/2026-03-17/9e0f65oe/Port_Sultan_Qaboos.webp?auto=format,compress"
